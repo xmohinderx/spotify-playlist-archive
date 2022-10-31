@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-535 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
+536 songs - 1 day 4 hr 36 min - [published](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-06-07 |  |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-25 | 2022-07-28 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-10-15 |  |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2021-06-07 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2021-06-07 | 2022-10-13 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2021-06-07 |  |
 | [Liar \(with Teddy Swims\)](https://open.spotify.com/track/36dNd2tBX4AnMsKk0oH6mX) | [Karl Michael](https://open.spotify.com/artist/4zFqfg8R6X9aUWIdYm3xTT), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Liar \(with Teddy Swims\)](https://open.spotify.com/album/1SBKb0XYgajKra6tcDQPOg) | 3:20 | 2021-07-30 | 2022-04-20 |
@@ -348,7 +349,7 @@
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2022-03-04 | 2022-04-19 |
 | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/track/1HX1XfDT5xL4uM3BKNrHPf) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Mark McGrath](https://open.spotify.com/artist/52FfIpdtGWPNnTQtRDXIid) | [Nice and Easy \(with Mark McGrath of Sugar Ray\)](https://open.spotify.com/album/4aUgmzsjVGFtRJChYnxzbw) | 2:44 | 2021-06-25 | 2022-04-21 |
 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 | 2022-04-01 | 2022-07-25 |
-| [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 |  |
+| [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 | 2022-10-31 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-02-04 | 2022-07-29 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 |  |
 | [Not Giving You Up](https://open.spotify.com/track/1jzJQlaWgu7ZYqRldXXFRD) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Not Giving You Up](https://open.spotify.com/album/08LqESIqk21nFUdAJczMUK) | 3:00 | 2022-02-25 | 2022-04-21 |

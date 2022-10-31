@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,720 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,821 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 16 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
 | 17 | [You're Only Lonely](https://open.spotify.com/track/0qzEkwri1hE0rgxVqdOBAf) | [JD Souther](https://open.spotify.com/artist/0I7UnRLIdCD310ZBgeuqh5) | [You're Only Lonely](https://open.spotify.com/album/1JoT6VQQ8H5CUtPLEYw7o0) | 3:48 |
 | 18 | [Good Year For The Roses](https://open.spotify.com/track/4RZCoFsZHw9XvDZdv2jtkK) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Almost Blue](https://open.spotify.com/album/6Y234kkXewBp0CjanUQW3w) | 3:08 |
-| 19 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
-| 20 | [This Ol' Cowboy](https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:39 |
+| 19 | [This Ol' Cowboy](https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:39 |
+| 20 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
 | 21 | [Cinderella](https://open.spotify.com/track/6nwlPs3mgpHYUJJ0ETPIXP) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 3:36 |
 | 22 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
 | 23 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 45 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
 | 46 | [Love Reunited](https://open.spotify.com/track/59kLqy6RhRKWFWFgdFSB63) | [The Desert Rose Band](https://open.spotify.com/artist/19FK6WGl1TLyFNsXXqTz8u) | [The Desert Rose Band](https://open.spotify.com/album/4Web53QnajhmXAA6PXK5ih) | 2:57 |
 | 47 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
-| 48 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark](https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx) | 3:48 |
-| 49 | [Cadillac Ranch](https://open.spotify.com/track/3nWfVgvBTxLteKXR9MSYaS) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Country Anthems](https://open.spotify.com/album/5o9JaglKrXsZlfCL1qiNQM) | 3:42 |
+| 48 | [Cadillac Ranch](https://open.spotify.com/track/3nWfVgvBTxLteKXR9MSYaS) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Country Anthems](https://open.spotify.com/album/5o9JaglKrXsZlfCL1qiNQM) | 3:42 |
+| 49 | [Train Leaves Here This Mornin](https://open.spotify.com/track/3QakrNWYNgZ89by21ImeBN) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [The Fantastic Expedition Of Dillard & Clark](https://open.spotify.com/album/6SaetmQc4GCTzdZuW7khKx) | 3:48 |
 | 50 | [Listen to a Country Song](https://open.spotify.com/track/5YEgs7DjcGk9pYP6l0u85h) | [Loggins & Messina](https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9) | [Sittin' In](https://open.spotify.com/album/1EtuN2j0AKVwsiqrddMtco) | 2:49 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDNlY2E5Y2JiYTI2ZDIwOTVhMTkwOTFmNDhjMjFhNTRk`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDk4NDRhNWM2NTYyNzkwYjgzNTI4OWFhNDJjNWE5ZjU2`

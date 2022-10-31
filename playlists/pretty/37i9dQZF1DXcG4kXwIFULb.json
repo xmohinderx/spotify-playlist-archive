@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 95783,
+  "num_followers": 95870,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDg2YzJiMTNiZDUzMTQ1ODE2NjI1MTI0YzgzZjljNWVl",
+  "snapshot_id": "MTU5OTE4MTk3NiwwMDAwMDAwMDU0ZDliN2Y0MDI5M2I0YTBjZDM2ZmI1YWM5YTkwYTZh",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -559,6 +559,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Come Touch The Sun",
         "url": "https://open.spotify.com/album/5qy89jtphApqKiPw4kVszd"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 300693,
       "name": "Yes Baby Yes",
       "url": "https://open.spotify.com/track/5AiNMNnKQUYcKsuJoB6ITc"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -607,18 +607,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
         }
       ],
-      "duration_ms": 241173,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/5fJAYWoFgXm26HLNViFiUh"
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "DJ-Kicks",
-        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 380786,
-      "name": "Black Baby (DJ-KiCKS)",
-      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Gran Hotel Buenos Aires",
         "url": "https://open.spotify.com/album/7wKtsnojLMwpoq8U5tf567"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 247040,
       "name": "Postales",
       "url": "https://open.spotify.com/track/4OSCQAeVcuANZNzL9220ye"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "DJ-Kicks",
+        "url": "https://open.spotify.com/album/0Ba6Ld8Ss2oAH1x7Hv1v53"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 380786,
+      "name": "Black Baby (DJ-KiCKS)",
+      "url": "https://open.spotify.com/track/13FO5ag4v62zedndUziMI7"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Shallow and Profound",
+        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
+      },
+      "artists": [
+        {
+          "name": "Yonderboi",
+          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
+        }
+      ],
+      "duration_ms": 259105,
+      "name": "Riders On the Storm",
+      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Angel Milk",
         "url": "https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Shallow and Profound",
-        "url": "https://open.spotify.com/album/59h727IciPDdyh4bdd0WWT"
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
       },
       "artists": [
         {
-          "name": "Yonderboi",
-          "url": "https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7"
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
         }
       ],
-      "duration_ms": 259105,
-      "name": "Riders On the Storm",
-      "url": "https://open.spotify.com/track/3uI0EptPACbrdR1Dq20oWu"
+      "duration_ms": 223013,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1227,22 +1243,6 @@
       "duration_ms": 295360,
       "name": "Come to Me",
       "url": "https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/7aoMwgyXDmr2ATUOJcyQdT"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/3iNj5fdyY62N1ycufQ3E2M"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Supreme Beings Of Leisure",
-        "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
-      },
-      "artists": [
-        {
-          "name": "Supreme Beings of Leisure",
-          "url": "https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Never the Same",
-      "url": "https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "SB1",
         "url": "https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 134656,
       "name": "Just Chillin'",
       "url": "https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Supreme Beings Of Leisure",
+        "url": "https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz"
+      },
+      "artists": [
+        {
+          "name": "Supreme Beings of Leisure",
+          "url": "https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2"
     },
     {
       "added_at": "2020-09-04 01:12:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,697 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,798 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 87 | [Say Something \- Extended Mix](https://open.spotify.com/track/6W2ECdBNRoqVfHLRAPo71h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Extended Mixes\)](https://open.spotify.com/album/29SeXSOfJNZetqkzF7stl9) | 5:20 |
 | 88 | [The Way\(feat\. Norman Vladimir\)](https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Norman Vladimir](https://open.spotify.com/artist/0Z28GthKQS0BG8FvHMwYw1) | [The Way \(feat\. Norman Vladimir\)](https://open.spotify.com/album/3gVI5yKLE7ds74O2yZD03v) | 3:25 |
 | 89 | [Keep Moving \- Dave Lee Remix](https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Keep Moving \(Dave Lee Remix\)](https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl) | 6:03 |
-| 90 | [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 |
+| 90 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 |
 | 91 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 |
 | 92 | [It's You](https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [It's You](https://open.spotify.com/album/1dKA9jVXe7CfeZQJXt77FJ) | 2:31 |
 | 93 | [I Won't Walk Away](https://open.spotify.com/track/1s3v94X2Y4GSAetgiWZxx4) | [Samantha LaPorta](https://open.spotify.com/artist/0PT3uYshYiUCfK0jxYKMqb) | [I Won't Walk Away](https://open.spotify.com/album/24ntKGAFS4II7wLzkhrIba) | 3:03 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 100 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 101 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDY4ZDY1NjJjZjQ0ZmRlYTdjYmZjMzljMmRjOTVlMGNh`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGNjMDllYTUxMTRhMTQ2MmQ0M2M4MWQ3NWU0ZGJmMjQ1`

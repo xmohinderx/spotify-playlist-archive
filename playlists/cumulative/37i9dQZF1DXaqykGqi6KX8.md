@@ -4,7 +4,7 @@
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-53 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
+55 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/3sThgltbrDH5c6hYx5luxv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,14 +16,16 @@
 | [Asl](https://open.spotify.com/track/3y5i78fcWnHxu1g67brpOP) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Shehili](https://open.spotify.com/album/0sOf9sCBeRktaDMu5tGpNw) | 1:09 | 2021-10-14 | 2022-07-25 |
 | [Atba'a Al\-Namrood](https://open.spotify.com/track/483Ijr8RgQkWYvJ3R9g3zh) | [Al\-Namrood](https://open.spotify.com/artist/7sY9ff50OQVYxudOXLnQ3E) | [Jaish Al\-Namrood](https://open.spotify.com/album/1O7jI1plBcowuQ8cjShyb6) | 5:07 | 2021-10-14 |  |
 | [Ayamna](https://open.spotify.com/track/2mdLToL9izCYT941rF6uKN) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [Ayamna](https://open.spotify.com/album/5chBxXTRjsO4zEfQwEzdVS) | 4:55 | 2021-10-14 | 2022-07-29 |
-| [Ayamna](https://open.spotify.com/track/2zBFBo47fRkGLud8uJ42e6) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [Ayamna](https://open.spotify.com/album/70u7OusfdzFnebyvH4VgVl) | 4:55 | 2021-10-14 |  |
+| [Ayamna](https://open.spotify.com/track/2zBFBo47fRkGLud8uJ42e6) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [Ayamna](https://open.spotify.com/album/70u7OusfdzFnebyvH4VgVl) | 4:55 | 2021-10-14 | 2022-10-31 |
+| [Ayamna](https://open.spotify.com/track/6rUpq7hxau4jxalon4STYp) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Taree](https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z) | 4:55 | 2021-10-14 |  |
 | [Believer \(feat\. Don Airey\)](https://open.spotify.com/track/08rgyiy3UjZMYqGosaiXJ9) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl), [Don Airey](https://open.spotify.com/artist/58A1BPgenrcSWrJYIOnnbH) | [Believer \(feat\. Don Airey\)](https://open.spotify.com/album/6NfkPwMRGWFXvCt7Rp3blX) | 5:05 | 2021-10-14 | 2022-07-26 |
 | [Blind Fate \(Turab\)](https://open.spotify.com/track/6YJxrjI7Y53MCKWEzdxDta) | [Esodic](https://open.spotify.com/artist/46XPKhmZCbqaixuDpJsC4S) | [Mirrors of Disgrace](https://open.spotify.com/album/2myDafpzzFLHe6nw7LWGyh) | 4:45 | 2021-10-14 | 2022-07-29 |
 | [Children of Menace](https://open.spotify.com/track/0s1u8Wv0dRwizvnGgnXIjU) | [Divine Disorder](https://open.spotify.com/artist/6TUH8SH556eJUVeKVq0ODz) | [Garden of Dystopia](https://open.spotify.com/album/01f26cqA6rP4x4YQ43phM9) | 4:09 | 2021-10-14 | 2022-07-29 |
 | [Damascus Gate](https://open.spotify.com/track/4DRxjZeaDCMBQmrfF08KNK) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Ruins of Empires](https://open.spotify.com/album/587JoQY2rORTCt4lMt6rO6) | 4:50 | 2021-10-14 |  |
 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 | 2021-10-14 |  |
 | [Deeper In](https://open.spotify.com/track/3lgATvxpyAxR3FgZ4P8yge) | [The Kordz](https://open.spotify.com/artist/4WPWekPBzsyjbhozJbmaGK) | [Beauty & The East](https://open.spotify.com/album/4qMzRLbzpN3idUrdXJakhx) | 4:10 | 2021-10-14 | 2022-07-20 |
-| [El Bar](https://open.spotify.com/track/4lctDqK7nbvMHmsi0eINoe) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Bar](https://open.spotify.com/album/191yhVs8kIzdzB5Gn5tFFC) | 4:13 | 2021-10-14 |  |
+| [El Bar](https://open.spotify.com/track/01IBvjBawOPu36k7MwUJz7) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Taree](https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z) | 4:13 | 2021-10-14 |  |
+| [El Bar](https://open.spotify.com/track/4lctDqK7nbvMHmsi0eINoe) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Bar](https://open.spotify.com/album/191yhVs8kIzdzB5Gn5tFFC) | 4:13 | 2021-10-14 | 2022-10-31 |
 | [El Bar](https://open.spotify.com/track/5DVvrc6YGGJGJouoV2twNd) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Bar](https://open.spotify.com/album/1MFpytCPPuo6b67QGi3Syx) | 4:13 | 2021-10-14 | 2022-07-29 |
 | [For the Unknown Is Horrid](https://open.spotify.com/track/1OHJZQs2Xm9OrAl7qyNRc2) | [Odious](https://open.spotify.com/artist/2p24ZFz2mMVQtNjFof9828) | [Mirror of Vibrations](https://open.spotify.com/album/7hkUqzyGRXoGKHPaF9MS3q) | 7:12 | 2021-10-14 | 2022-07-24 |
 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 | 2021-10-14 |  |

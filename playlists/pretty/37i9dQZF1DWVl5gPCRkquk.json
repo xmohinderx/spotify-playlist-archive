@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 854070,
+  "num_followers": 854108,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDZjM2NmMTI4MDU5MjAxMmU1MWM3MzhkYTg1ZWRlM2Rh",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDEzODdhZjEyYWU1ODkzNzQxOTBkNmIzYmY1YjgyMmUx",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 268432,
       "name": "doomsday",
       "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 248043,
-      "name": "I Should Live in Salt",
-      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Slow Reveal: Chapter One",
         "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 158948,
       "name": "The Love",
       "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 248043,
+      "name": "I Should Live in Salt",
+      "url": "https://open.spotify.com/track/4kFmM894Q4sgHDl4pZalza"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 245653,
-      "name": "The Wolves",
-      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 213023,
       "name": "Detour",
       "url": "https://open.spotify.com/track/06ugHK7JxGHv8sjOR8lA1E"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "The Wolves",
+      "url": "https://open.spotify.com/track/6Q4GtzdnpQohD8JtEzRW1R"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Feel Alive Again",
+      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "What Have We Got to Lose",
         "url": "https://open.spotify.com/album/5TeiUeXr6EdjZL9F08QPJf"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 169326,
       "name": "What Have We Got to Lose",
       "url": "https://open.spotify.com/track/2sCDzRlkLoeYpZX00i6iiq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Feel Alive Again",
-      "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "I Think Of Angels",
-      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Nightflyer",
         "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 295546,
       "name": "Nightflyer",
       "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "I Think Of Angels",
+      "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Heron",
         "url": "https://open.spotify.com/album/7csQzflMm21S2om4y9HpGX"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 213360,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/7xD1cDSRz033zGBBTW6z2q"
     },
     {
       "added_at": "2022-10-07 04:00:00",

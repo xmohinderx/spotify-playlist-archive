@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 79218,
+  "num_followers": 79348,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGFjYmNlMTM1YTYzMTI5ZDA1ODE1YzVkZmMxOTFmOGUy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGI3MTRkNWVhNDVhNmVkOThhNjk1ODk2MDRjZTMyOTkx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 167320,
       "name": "Head & Heart",
       "url": "https://open.spotify.com/track/27myNEFJ7BAeUStyFTHvuB"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+        }
+      ],
+      "duration_ms": 260415,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
       },
       "artists": [
         {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1"
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
         }
       ],
-      "duration_ms": 260415,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF"
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 173482,
       "name": "so into you - Spotify Singles",
       "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
         }
       ],
-      "duration_ms": 230775,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1495,6 +1495,22 @@
       "duration_ms": 167907,
       "name": "bad guy - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 230775,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 230306,
       "name": "Better Now - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The Sweet Escape",
-        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 166016,
-      "name": "The Sweet Escape",
-      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "feel good inc. (feat. Mateus Asato)",
         "url": "https://open.spotify.com/album/6l38zfFKDZrmrU2jXqW3GQ"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 199239,
       "name": "feel good inc. (feat. Mateus Asato)",
       "url": "https://open.spotify.com/track/2GzlTbrFF2V6MwRDfBnYhf"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/3jCd27MDogNResJz6axMOP"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 166016,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/0UPYSuHKAZq6diZrCaBAsW"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1739,54 +1739,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Praise You",
-        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        }
-      ],
-      "duration_ms": 169050,
-      "name": "Praise You",
-      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "No Letting Go",
-        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
-      },
-      "artists": [
-        {
-          "name": "Dan Caplen",
-          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "No Letting Go - Acoustic",
-      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Semicolon & Parentheses (Deluxe)",
         "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
       },
@@ -1807,6 +1759,54 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "No Letting Go",
+        "url": "https://open.spotify.com/album/6seIAuNr6A0YfzFsd0S2i7"
+      },
+      "artists": [
+        {
+          "name": "Dan Caplen",
+          "url": "https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "No Letting Go - Acoustic",
+      "url": "https://open.spotify.com/track/2WxfUIhD2c7oUM2XHFQrpO"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Praise You",
+        "url": "https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "duration_ms": 169050,
+      "name": "Praise You",
+      "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1AJrb6Xr98He43S6G9lBKP"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/2p49O7MazA7DBeS9IS9erq"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "the quarantine covers",
         "url": "https://open.spotify.com/album/1UqChrYC7NGNDmf9nJx9xO"
       },
@@ -1819,22 +1819,6 @@
       "duration_ms": 122074,
       "name": "just the two of us",
       "url": "https://open.spotify.com/track/505CNjW6Y9GwvW5sVgvdK9"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1855,6 +1839,22 @@
       "duration_ms": 144570,
       "name": "Dancing In The Moonlight (feat. NEIMY) - Acoustic",
       "url": "https://open.spotify.com/track/3KZL647GYe5NGUFqBS7hs5"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Chandelier",
-        "url": "https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit"
-      },
-      "artists": [
-        {
-          "name": "Jennel Garcia",
-          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/7qQyLTKV67RGg6TmY8vyit"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/7F2tZGMRkcEyGYY8Xee7xz"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "It's Gonna Be Me",
+        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
+      },
+      "artists": [
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "It's Gonna Be Me",
+      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Spotify Singles (Recorded At Sound Stage Nashville)",
         "url": "https://open.spotify.com/album/43ee2aSwzoXLwLx9tRtDKB"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 266280,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/4QS7XNVxVCEMdsrUPqogTb"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "It's Gonna Be Me",
-        "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
-      },
-      "artists": [
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "It's Gonna Be Me",
-      "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Cruel Summer (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Baker",
-          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
-        }
-      ],
-      "duration_ms": 176789,
-      "name": "Cruel Summer (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Bam Bam (Acoustic)",
         "url": "https://open.spotify.com/album/1Z2GecoW9ZMdzhTIbaW3er"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 143522,
       "name": "Bam Bam - Acoustic",
       "url": "https://open.spotify.com/track/4FsAUJTLWdlX3Z39VMszA4"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Cruel Summer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3N4veDCnNnZ848pdYaTjqU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Baker",
+          "url": "https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm"
+        }
+      ],
+      "duration_ms": 176789,
+      "name": "Cruel Summer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Into You",
         "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 286506,
       "name": "Into You",
       "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
-        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
-      },
-      "artists": [
-        {
-          "name": "Suzanna Son",
-          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
-      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 233865,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Bye Bye Bye (From the Original Motion Picture \"Red Rocket\")",
+        "url": "https://open.spotify.com/album/65K0DheoPi4EpcvGEY6Zrd"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "Bye Bye Bye - From the Original Motion Picture \"Red Rocket\"",
+      "url": "https://open.spotify.com/track/44ZhV7lxFuEdQaGEW31T8I"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2667,6 +2667,22 @@
       "duration_ms": 267026,
       "name": "Halo",
       "url": "https://open.spotify.com/track/3Jj7wTQ4xkC1xYz0q0M4TD"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2735,22 +2751,6 @@
       "duration_ms": 175844,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2VFW7dt49JbOgzVBwZOCwC"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
-      },
-      "artists": [
-        {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
-        }
-      ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2919,22 +2919,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Black Velvet (Junos 365 Sessions)",
-        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "Black Velvet - Junos 365 Sessions",
-      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -2947,6 +2931,22 @@
       "duration_ms": 248449,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Black Velvet (Junos 365 Sessions)",
+        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "Black Velvet - Junos 365 Sessions",
+      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -3103,22 +3103,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK"
-      },
-      "artists": [
-        {
-          "name": "nodisco.",
-          "url": "https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
       },
@@ -3131,6 +3115,22 @@
       "duration_ms": 225931,
       "name": "Believe",
       "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7JqZcRZTsuvLO228vbGiwK"
+      },
+      "artists": [
+        {
+          "name": "nodisco.",
+          "url": "https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1ryKtGzdk4zMPLhEC6F95t"
     },
     {
       "added_at": "2022-10-28 04:01:00",

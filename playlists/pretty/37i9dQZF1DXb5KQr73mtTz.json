@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 6460,
+  "num_followers": 6483,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDYyYjc1OGMyNWMyNGQzNWU2YWM0M2QyNDU5MGQ0OTE4",
+  "snapshot_id": "MTY2NTExODc2OCwwMDAwMDAwMDllOGMxNTQ5ZTUzYjcxN2Y3N2Y3MTQ4YzRjZGYxMTBm",
   "tracks": [
     {
       "added_at": "2022-10-04 14:56:25",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
     },
     {
-      "added_at": "2022-10-30 01:54:26",
+      "added_at": "2022-10-31 01:54:47",
       "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Can't Go",
-      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/3K4xblWPSv7iK1who1GoWp"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Can't Go",
+      "url": "https://open.spotify.com/track/6uXeXVyxeZOj7pkKZPY1qW"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "Dear you (Romance 101 X LeeHi)",
+        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Dear you (Romance 101 X LeeHi)",
+      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "Dear you (Romance 101 X LeeHi)",
-        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Dear you (Romance 101 X LeeHi)",
-      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2022-10-04 14:56:25",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-04 14:56:25",
       "album": {
-        "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
-        "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
-      },
-      "artists": [
-        {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o"
-        }
-      ],
-      "duration_ms": 200974,
-      "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
-      "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"
-    },
-    {
-      "added_at": "2022-10-04 14:56:25",
-      "album": {
         "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
         "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 256026,
       "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
       "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
+    },
+    {
+      "added_at": "2022-10-04 14:56:25",
+      "album": {
+        "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
+        "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o"
+        }
+      ],
+      "duration_ms": 200974,
+      "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
+      "url": "https://open.spotify.com/track/04N4Wfxd7nB3dLV2amKdc0"
     },
     {
       "added_at": "2022-10-04 14:56:25",

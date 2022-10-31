@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 266636,
+  "num_followers": 266928,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDYyZDQzNTk0OTk3M2QyYzJlZDczMDVhMDZhYTVkZGYx",
+  "snapshot_id": "MTY2MDg4MTYwMCwwMDAwMDAwMDU1OTVlZTI4NGE2NWVlNTJmNGQ3Yzk1MzI5MjcyNWNi",
   "tracks": [
     {
       "added_at": "2022-05-30 13:24:46",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Repeat Until Death",
-      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 328506,
       "name": "Old Pine",
       "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Repeat Until Death",
+      "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Caamp",
         "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 129463,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/2R3I5DiDf8bLz2QjrPmUpk"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 275306,
       "name": "Mykonos",
       "url": "https://open.spotify.com/track/2s7pyee9w04uQy3cNKzey9"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -925,22 +925,6 @@
       "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "look up",
-      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Flight Risk EP",
@@ -955,6 +939,22 @@
       "duration_ms": 59026,
       "name": "Flight Risk",
       "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
         "name": "Touch the Sky (Welcome Home) - EP",
         "url": "https://open.spotify.com/album/6g442PMBkFk6xu5kOsFm36"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Caamp",
+        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+      "duration_ms": 193048,
+      "name": "All the Debts I Owe",
+      "url": "https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Only Real When Shared",
-        "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
-      },
-      "artists": [
-        {
-          "name": "Caiola",
-          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
-        }
-      ],
-      "duration_ms": 225378,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "That Funny Feeling",
         "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
       },
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Caamp",
-        "url": "https://open.spotify.com/album/7spHo6tjPR8hbJab6I0Bwo"
+        "name": "Only Real When Shared",
+        "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Caiola",
+          "url": "https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV"
         }
       ],
-      "duration_ms": 193048,
-      "name": "All the Debts I Owe",
-      "url": "https://open.spotify.com/track/6gwMhuVPNWwFTTKHKRtJun"
+      "duration_ms": 225378,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 255533,
       "name": "Phoenix (feat. Fleet Foxes & Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Tell Me It's Real (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2Ro9FLIVhPwIQopSr48oJT"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Fall, Fall, Fall",
+        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 281180,
+      "name": "Fall, Fall, Fall",
+      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Holdly",
-        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 227139,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1603,6 +1587,22 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Holdly",
+        "url": "https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 227139,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 225500,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2022-05-25 14:24:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-05-25 14:24:00",
       "album": {
-        "name": "Rattlesnake",
-        "url": "https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 296929,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R"
-    },
-    {
-      "added_at": "2022-05-25 14:24:00",
-      "album": {
         "name": "Old Flowers",
         "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
+    },
+    {
+      "added_at": "2022-05-25 14:24:00",
+      "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/5nps8HamV8gstkbUzHZxoG"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 296929,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3GUYJ7OTe0pBxlbuz5iK2R"
     },
     {
       "added_at": "2022-05-25 14:24:00",

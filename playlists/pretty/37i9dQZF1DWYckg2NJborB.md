@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,187 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,189 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 11 | [Ulysses](https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:13 |
 | 12 | [Lolita](https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:40 |
 | 13 | [If I Could Write](https://open.spotify.com/track/6Rdmwrln6jrQGdRDHl246o) | [Sam Phillips](https://open.spotify.com/artist/6Epdio7Ic0zhZkhXHFc8qa) | [A Boot and a Shoe](https://open.spotify.com/album/5ga0Nw06TGpciOmL6T6qMS) | 2:18 |
-| 14 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
-| 15 | [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 |
+| 14 | [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 |
+| 15 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 |
 | 16 | [Sweet Ophelia](https://open.spotify.com/track/1jPZgfC9tWFNf7iBGdrTPV) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 3:09 |
 | 17 | [Mr\. Writer](https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 5:19 |
 | 18 | [Great American Novel](https://open.spotify.com/track/4ry2Jh7zMFRDzqOHil8prF) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Max Jury](https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYckg2NJborB.md) - [plain]
 | 49 | [The Writer](https://open.spotify.com/track/0uBWMWm5P6tuCiavbjPWS0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 4:11 |
 | 50 | [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 |
 
-Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMGJmOWY2OWMwYTk0NWVlYjQyYzMyNDk2MGEwYjM4M2Jl`
+Snapshot ID: `MTU1NTQxNDUzMiwwMDAwMDAwMDNhMTEzYzAyODM1MTc0OTdiNGU2Yjg1NGViYzM4MWQx`

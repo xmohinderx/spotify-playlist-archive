@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-196 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
+197 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/7on3y4t0dpM9kcFySbFRWF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,11 +115,12 @@
 | [Night Drive](https://open.spotify.com/track/5yrnPW4ebZU5p74qH90wsi) | [Siirbaz](https://open.spotify.com/artist/7xURIiVo2JwZ1wIBLE2tYs) | [Night Drive](https://open.spotify.com/album/7zNZKPJW5rqwuNuQw42dly) | 1:04 | 2022-04-15 | 2022-07-29 |
 | [Nightflower](https://open.spotify.com/track/0c4oYO95j7bdgiODBXeFQR) | [jüle.](https://open.spotify.com/artist/2awWBxv11I86fi6z4T0U9o), [Thorn.vii](https://open.spotify.com/artist/2VcprDJUxkV4uiaMbKmrWO) | [Nightflower](https://open.spotify.com/album/6m24MTdY8rMYdEKWxOJh0w) | 1:26 | 2022-04-15 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/6OgXPYyiTAV2bdbYrB1aGs) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 1:17 | 2022-04-15 | 2022-07-29 |
+| [Nostalgia](https://open.spotify.com/track/4iLL181gl7s9FELLkSUmEK) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 1:17 | 2022-04-15 |  |
 | [Old Town](https://open.spotify.com/track/1Ly9DQ9qgelrGZX6TZvjr9) | [Hussain Ali](https://open.spotify.com/artist/6jisxxsMSH9OExkRD3YkwG), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Old Town](https://open.spotify.com/album/2oPxjmBzJCnXDntOnVHzuX) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [one summer's eve](https://open.spotify.com/track/5eDApqll4iKrtS5z53tCfS) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [one summer's eve](https://open.spotify.com/album/6DARVyutsNq7DRCvBL8Xjj) | 2:59 | 2022-04-15 | 2022-07-29 |
 | [Open Window](https://open.spotify.com/track/2VOzEIIxnfu2t1ZNu9ebcB) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/7fNY08KDH3jG1XxZQ84C7t) | 2:20 | 2022-04-15 | 2022-07-29 |
 | [Open Window](https://open.spotify.com/track/703hSWNgehWT0F16awNLr1) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Kids' Menu](https://open.spotify.com/album/5QZRe9oZyiwJG3LqYzLQc2) | 2:28 | 2022-04-15 |  |
-| [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 | 2022-04-15 |  |
+| [ORANGE](https://open.spotify.com/track/2QFvsZEjbketrpCgCNC9Zp) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/3ylB3HxdcNx6lCRJT2bruW) | 2:40 | 2022-04-15 | 2022-10-31 |
 | [ORANGE](https://open.spotify.com/track/2kRIzQCgP2apb7ERUHBcZ2) | [SINY](https://open.spotify.com/artist/6d1bmKQyB8OJWCOJJPCkVT) | [Shinigami](https://open.spotify.com/album/47couheC4wUEeHig9mBYHW) | 2:40 | 2022-04-15 | 2022-07-29 |
 | [Osbourne](https://open.spotify.com/track/0ydin5vhIPU09KVyNJPEmF) | [Oldeaf](https://open.spotify.com/artist/0FWH2ZX43fYJZYhf9FhvuH) | [Smile](https://open.spotify.com/album/7jBnJJKJScR4FjbW7frJQp) | 4:20 | 2022-04-15 | 2022-07-25 |
 | [Paperboi](https://open.spotify.com/track/450CM9o94E8fbdNZndtww6) | [Veritas](https://open.spotify.com/artist/2S6iwClVoSNnpOcCzyMeUj) | [Paperboi](https://open.spotify.com/album/47s0F8r6lLeki1W3BPV1Yq) | 3:26 | 2022-04-15 | 2022-07-28 |

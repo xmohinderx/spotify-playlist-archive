@@ -4,7 +4,7 @@
 
 > Lately I've been dressing for revenge
 
-234 songs - 12 hr 58 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
+235 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/1tPoUAYzbtzf09bxrh5s55)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-01-27 |  |
 | [Do It Like A Girl](https://open.spotify.com/track/2pY0EPtqQb0GJGUY7EzxqP) | [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Do It Like A Girl](https://open.spotify.com/album/6CfE9EVboYOLM5OunwJTCm) | 2:43 | 2022-04-08 | 2022-07-27 |
 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 | 2022-01-27 | 2022-04-21 |
-| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 |  |
+| [Don't Lose Ur Head](https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 4:05 | 2022-02-18 | 2022-10-31 |
 | [Don’t Blame Me](https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:56 | 2022-01-27 |  |
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2022-01-27 | 2022-07-29 |
 | [Dream Girl Evil](https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:47 | 2022-05-13 | 2022-08-26 |
@@ -212,6 +212,7 @@
 | [The Hills](https://open.spotify.com/track/7fBv7CLKzipRk6EC6TWHOB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:02 | 2022-01-27 |  |
 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 | 2022-04-18 | 2022-04-21 |
 | [the other side](https://open.spotify.com/track/28nGgL1ko5fj8M41SxPf94) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [the other side](https://open.spotify.com/album/42rzcyCeL2t08zVCEukAnr) | 3:03 | 2022-03-18 | 2022-07-29 |
+| [The Red Means I Love You](https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [Sunset on Summerville](https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r) | 3:53 | 2022-10-28 |  |
 | [The Red Means I Love You](https://open.spotify.com/track/5pLbM4PU1wZyMvoQyEAorp) | [Madds Buckley](https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq) | [The Red Means I Love You](https://open.spotify.com/album/0m4Okss4lEAUYKrrXxIy1E) | 3:53 | 2022-01-27 | 2022-10-06 |
 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 | 2022-03-18 | 2022-07-29 |
 | [The Whole "Being Dead" Thing](https://open.spotify.com/track/7BKbcBpIS7jMKsjbry09JF) | [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Beetlejuice Original Broadway Cast Recording Ensemble](https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F) | [Beetlejuice \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p) | 3:43 | 2022-01-27 | 2022-06-20 |

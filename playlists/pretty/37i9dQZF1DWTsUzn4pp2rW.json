@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 103109,
+  "num_followers": 103222,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc3NzQwMywwMDAwMDAwMDIwN2U4MGRiNTkxNzM1NzA2NDg2ZGI5NjhmZTA4N2Fl",
+  "snapshot_id": "MTY2Njc3NzQwMywwMDAwMDAwMGQxNzlhYWUyYWE3ZDFjNDA0NDUyNzU1OGIyNWQ4MzA1",
   "tracks": [
     {
       "added_at": "2022-10-26 09:43:23",
@@ -151,18 +151,22 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Rachael & Vilray",
-        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
+        "name": "I Touch Myself",
+        "url": "https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu"
       },
       "artists": [
         {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+          "name": "Anekka",
+          "url": "https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd"
+        },
+        {
+          "name": "Brazilian Jazz Cuts",
+          "url": "https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o"
         }
       ],
-      "duration_ms": 175071,
-      "name": "Do Friends Fall in Love?",
-      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
+      "duration_ms": 200000,
+      "name": "I Touch Myself",
+      "url": "https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -183,22 +187,18 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "I Touch Myself",
-        "url": "https://open.spotify.com/album/5vgUrCbyURSaDhnJXlmSDu"
+        "name": "Rachael & Vilray",
+        "url": "https://open.spotify.com/album/7aE5YTsCLl2kMhlZM2FtKm"
       },
       "artists": [
         {
-          "name": "Anekka",
-          "url": "https://open.spotify.com/artist/2GWp5uc48WTM1nnqqUbJQd"
-        },
-        {
-          "name": "Brazilian Jazz Cuts",
-          "url": "https://open.spotify.com/artist/4KVWjWPXzulIkmjlk8P05o"
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
         }
       ],
-      "duration_ms": 200000,
-      "name": "I Touch Myself",
-      "url": "https://open.spotify.com/track/5Lk2DCQqa0peKaqLCv5uyW"
+      "duration_ms": 175071,
+      "name": "Do Friends Fall in Love?",
+      "url": "https://open.spotify.com/track/52Bvu2IqOZuq77KRkDcLzS"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 228234,
+      "name": "Wintertime",
+      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+        "name": "Me and My Radio",
+        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Anthony Strong",
+          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
         }
       ],
-      "duration_ms": 228234,
-      "name": "Wintertime",
-      "url": "https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq"
+      "duration_ms": 196185,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -539,22 +555,6 @@
       "duration_ms": 219250,
       "name": "Ebony and Ivory",
       "url": "https://open.spotify.com/track/7zsv8AsEPknqs35q2cEK5J"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "Me and My Radio",
-        "url": "https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF"
-      },
-      "artists": [
-        {
-          "name": "Anthony Strong",
-          "url": "https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO"
-        }
-      ],
-      "duration_ms": 196185,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 243876,
+      "name": "A Song With No Name",
+      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 243876,
-      "name": "A Song With No Name",
-      "url": "https://open.spotify.com/track/3Ulj4AXe7s1gUZ7iByb9Jy"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 91613,
-      "name": "Live Without You",
-      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 198935,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4ebAsaLYZZBzADj1Vfmcc4"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 91613,
+      "name": "Live Without You",
+      "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 299106,
-      "name": "Adventure Of A Lifetime",
-      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
+      "duration_ms": 206004,
+      "name": "Don't Need The Real Thing",
+      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -823,6 +823,22 @@
       "duration_ms": 240009,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Adventure Of A Lifetime",
+      "url": "https://open.spotify.com/track/1KoJ5FBQslbGGPYMTsNTFL"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -859,6 +875,22 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
+        "name": "Gin & Jazz",
+        "url": "https://open.spotify.com/album/1RNLGn3sx62f64k9wfi2PI"
+      },
+      "artists": [
+        {
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Gin & Jazz",
+      "url": "https://open.spotify.com/track/2x8CeYZEcidanPDrtlbh6T"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 206004,
-      "name": "Don't Need The Real Thing",
-      "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "Gin & Jazz",
-        "url": "https://open.spotify.com/album/1RNLGn3sx62f64k9wfi2PI"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Gin & Jazz",
-      "url": "https://open.spotify.com/track/2x8CeYZEcidanPDrtlbh6T"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1067,38 +1067,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
-      },
-      "artists": [
-        {
-          "name": "Untitled",
-          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
-        }
-      ],
-      "duration_ms": 229687,
-      "name": "If I'd Had Your Heart",
-      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
-      },
-      "artists": [
-        {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/3FUx3pa4NXmlVJQzBHRRx7"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "My Soul Kitchen",
         "url": "https://open.spotify.com/album/1lRtenyGy9wvyxwrRNjtWD"
       },
@@ -1119,6 +1087,22 @@
       "duration_ms": 274091,
       "name": "I Have Nothing Left for You",
       "url": "https://open.spotify.com/track/30XnkHIARv4lRe4tIbi4AY"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+      },
+      "artists": [
+        {
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/3FUx3pa4NXmlVJQzBHRRx7"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1155,22 +1139,18 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Featuring EP",
-        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
       "artists": [
         {
-          "name": "Meryl Rudy",
-          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+          "name": "Untitled",
+          "url": "https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE"
         }
       ],
-      "duration_ms": 176543,
-      "name": "I'd Run to the Moon",
-      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
+      "duration_ms": 229687,
+      "name": "If I'd Had Your Heart",
+      "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1203,6 +1183,26 @@
       "duration_ms": 394997,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Featuring EP",
+        "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
+      },
+      "artists": [
+        {
+          "name": "Meryl Rudy",
+          "url": "https://open.spotify.com/artist/5D0fFHHBDqY6PuxnZgbcMc"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 176543,
+      "name": "I'd Run to the Moon",
+      "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "That's What Friends Are For",
         "url": "https://open.spotify.com/album/2zt9qqNzNtu6ym7pkIUXPZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 223986,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/5Ho2diTtFka6q3a2VFpyYb"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 229453,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
         "name": "Luxury and Waste",
         "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 229453,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6YSCWDYNtZ6mZ8d71Tj0HR"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
@@ -1543,6 +1543,42 @@
       "duration_ms": 295560,
       "name": "Move Me No Mountain",
       "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "Make Someone Happy",
+      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1567,22 +1603,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "Kettle",
         "url": "https://open.spotify.com/album/2Lt4lgmQWlf1fzCOs699MG"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 264000,
       "name": "Kettle",
       "url": "https://open.spotify.com/track/0hDcNOCz9gXXs7akY5PZdD"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "Make Someone Happy",
-      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "You Can't Hide Away From Love",
-      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
-    },
-    {
-      "added_at": "2022-10-26 09:43:23",
-      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 246423,
       "name": "My One and Only Love",
       "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2022-10-26 09:43:23",
+      "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "You Can't Hide Away From Love",
+      "url": "https://open.spotify.com/track/5wT4caQu7Qdom8A3ADhyYx"
     },
     {
       "added_at": "2022-10-26 09:43:23",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-10-26 09:43:23",
       "album": {
-        "name": "Melodic Canvas",
-        "url": "https://open.spotify.com/album/64vcz6QZ3l2Sv3MH6dvwSG"
+        "name": "All For One",
+        "url": "https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415"
       },
       "artists": [
         {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
         }
       ],
-      "duration_ms": 207396,
-      "name": "Do You Believe",
-      "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+      "duration_ms": 320640,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/1KMgmgjUCjSHMWaEx6z9Om"
     },
     {
       "added_at": "2022-10-26 09:43:23",

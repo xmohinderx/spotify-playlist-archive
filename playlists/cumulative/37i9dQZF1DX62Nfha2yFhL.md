@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-82 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 | 2022-02-18 |  |
 | [Last Love](https://open.spotify.com/track/15hQDO74LAH1lXyqUDVNc4) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Last Love](https://open.spotify.com/album/6R6X46dtWsfUxWXoh2amTF) | 2:33 | 2021-10-22 |  |
 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2021-10-22 |  |
+| [LET IT RAIN](https://open.spotify.com/track/3fh4rztBQBt8H2G0h3uaBg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:41 | 2022-10-30 |  |
 | [Lies](https://open.spotify.com/track/3tBOduABygszf71Q5e8Rpk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lies](https://open.spotify.com/album/145XAsVnMuaRic6vrnu1Z4) | 2:48 | 2021-10-22 |  |
 | [Lost](https://open.spotify.com/track/2tMYysaFyOLXamjOxGTavY) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Lost](https://open.spotify.com/album/6W3wz6FGqzDlQ2Ab4CHvym) | 2:59 | 2021-10-22 |  |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2022-02-18 |  |

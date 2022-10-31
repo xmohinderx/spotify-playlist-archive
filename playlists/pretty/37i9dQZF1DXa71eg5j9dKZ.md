@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,659 likes - 117 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,697 likes - 117 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 |
+| 1 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 |
 | 2 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |
 | 3 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 4 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 10 | [Shimmer](https://open.spotify.com/track/6NzCy1aUFe3VOWRdnbmQN1) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie / Shimmer](https://open.spotify.com/album/2Jv8NoXc5iLVXVpCoUiB6t) | 5:10 |
 | 11 | [Pax \- Four Tet Remix](https://open.spotify.com/track/3Pl95ENb22SyQA0ATuV7M3) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Steamin EP](https://open.spotify.com/album/0JnuWdbsS3j4NZByEybO2R) | 5:20 |
 | 12 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |
-| 13 | [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 |
+| 13 | [Kammy \(like i do\)](https://open.spotify.com/track/5qJGp0cDrsOoRZOn75K6Y0) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:58 |
 | 14 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 |
 | 15 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
 | 16 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 116 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 117 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 
-Snapshot ID: `MTY2Njk1OTc5NiwwMDAwMDAwMGFjOTgzMDRjYWNlMTI0MTEyMGEzN2U4ZDZhNzczOGQ5`
+Snapshot ID: `MTY2Njk1OTc5NiwwMDAwMDAwMDhjYzdjOTIzY2RhMmU5YmEzODc3YjM4NDNlNDFjYjAy`

@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-51 songs - 3 hr 14 min - not published yet
+52 songs - 3 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Not Sorry](https://open.spotify.com/track/6Dnpg79fSw9V8dtDy3sQo6) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Not Sorry](https://open.spotify.com/album/0SaksaTXJShmehBpTpL9oU) | 4:09 | 2022-10-21 |  |
 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 | 2022-10-21 |  |
 | [Past the Point](https://open.spotify.com/track/28iT2AnlE73LIJI6RnjFhZ) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Inside Voice](https://open.spotify.com/album/7znS7xCpnfBvXPIom6HAof) | 3:42 | 2022-10-21 |  |
-| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 |  |
+| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 | 2022-10-31 |
+| [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 |  |
 | [Pleasure Line](https://open.spotify.com/track/1euiiwEoryUni184b7gata) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pleasure Line](https://open.spotify.com/album/03SEDcdGkkkvJag0Ru5uMp) | 3:40 | 2022-10-21 |  |
 | [Rare Changes](https://open.spotify.com/track/1HRlVSpkT9NtMoPg8xohzY) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:08 | 2022-10-21 |  |
 | [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-10-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 720690,
+  "num_followers": 720940,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0MzQ1MCwwMDAwMDAwMDdmODU5YTI4YjEyMmNmOGYxZDNmMjBkMmIyMWE0Y2Y3",
+  "snapshot_id": "MTY2Njk0MzQ1MCwwMDAwMDAwMGY1YWViNWZjYWVmOTljYTdmMDNkYjM2ZDA3M2M2MWU2",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
-      "added_at": "2022-10-30 01:53:53",
+      "added_at": "2022-10-31 01:53:27",
       "album": {
         "name": "MAZE",
         "url": "https://open.spotify.com/album/0zfRGBt0QIosUPkIkMADxL"
@@ -593,38 +593,6 @@
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 220611,
-      "name": "POF",
-      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
-    },
-    {
-      "added_at": "2022-10-30 01:53:53",
-      "album": {
-        "name": "Heart Is On My Sleeve",
-        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Heart Is On My Sleeve",
-      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Good & Plenty",
@@ -647,6 +615,38 @@
       "duration_ms": 204705,
       "name": "Good & Plenty",
       "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2022-10-31 01:53:27",
+      "album": {
+        "name": "Heart Is On My Sleeve",
+        "url": "https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Heart Is On My Sleeve",
+      "url": "https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw"
+    },
+    {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 220611,
+      "name": "POF",
+      "url": "https://open.spotify.com/track/1NY9g5OFUoezXeTveFYWSM"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-09-09 04:08:19",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -833,6 +813,42 @@
       "url": "https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3"
     },
     {
+      "added_at": "2022-09-09 04:08:19",
+      "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Bigger Dreams",
+        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
+      },
+      "artists": [
+        {
+          "name": "Nia Sultana",
+          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
+        }
+      ],
+      "duration_ms": 168038,
+      "name": "Ambience",
+      "url": "https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "My Way (25th Anniversary Edition)",
@@ -851,22 +867,6 @@
       "duration_ms": 192064,
       "name": "Nice & Slow - Ryan James Carr Remake",
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Bigger Dreams",
-        "url": "https://open.spotify.com/album/7g0ZUn505parZAzW477hHd"
-      },
-      "artists": [
-        {
-          "name": "Nia Sultana",
-          "url": "https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz"
-        }
-      ],
-      "duration_ms": 168038,
-      "name": "Ambience",
-      "url": "https://open.spotify.com/track/1V7Hrt7ek8rzl2tn29UgXi"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -937,34 +937,6 @@
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Bring it on Home to Me (feat. Charlie Bereal)",
-        "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
-      },
-      "artists": [
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Bring it on Home to Me (feat. Charlie Bereal)",
-      "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Watch The Sun (Deluxe)",
@@ -999,6 +971,34 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Bring it on Home to Me (feat. Charlie Bereal)",
+        "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bring it on Home to Me (feat. Charlie Bereal)",
+      "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 257013,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
         "name": "The Piano Album",
         "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
       },
@@ -1129,20 +1145,20 @@
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 257013,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R"
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "What A Difference She Made",
-        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 175696,
-      "name": "What A Difference She Made",
-      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
       "added_at": "2022-03-11 05:00:00",

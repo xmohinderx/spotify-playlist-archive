@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Sergio Dalma & La K'onga.
 
-168 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+169 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,8 +157,9 @@
 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 | 2022-08-12 | 2022-09-10 |
 | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Tu Estas Dura Sin Ir al Gym \(Fiel\)](https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5) | 4:01 | 2021-12-24 |  |
 | [Turreto](https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Turreto](https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4) | 2:48 | 2021-12-24 | 2022-07-02 |
-| [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-07-22 |  |
+| [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2022-07-22 | 2022-10-31 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/7Gq4ceSyXidlIF9T6ZjX8D) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Unico Amor](https://open.spotify.com/album/1PgEY4CHlURqdIO5lru0Fv) | 3:34 | 2021-12-24 | 2022-07-29 |
+| [Una Calle Nos Separa](https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j) | 3:34 | 2022-10-28 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2021-12-24 |  |
 | [Una Mujer Como Tú](https://open.spotify.com/track/5jbT4IeQCi00OjuQGFxQIA) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Mujer Como Tú](https://open.spotify.com/album/4uOv8YCk7LFJf91plzOnz1) | 3:44 | 2022-05-13 |  |
 | [Uno Nunca Sabe](https://open.spotify.com/track/78qiaamrC7prG6GwS2LrCD) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Uno Nunca Sabe](https://open.spotify.com/album/5R8AxddOv19SFSgeNgJOD4) | 1:55 | 2022-08-12 | 2022-08-27 |

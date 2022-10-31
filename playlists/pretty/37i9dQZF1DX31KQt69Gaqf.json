@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181835,
+  "num_followers": 181840,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDQ1NWVjYzVmNzYxNDg5ZTZmMzJkY2YxODM0Y2UyZjc4",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDJjM2RhMzFlNzQzZDVhNDgzNmEzM2ZlY2Y2ZTE5YjA2",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "The Sun Is Up Forever",
         "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8"
-      },
-      "artists": [
-        {
-          "name": "dexter",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/3H7y8eYjCj9gVVg7HFdDOj"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Taurus",
         "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 190960,
       "name": "It Might Take a Woman",
       "url": "https://open.spotify.com/track/6iHhkXBS6HIkzaQ0IKAdIS"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1445,6 +1445,22 @@
       "url": "https://open.spotify.com/track/43VHs3j5y5i2feqlhpzRqF"
     },
     {
+      "added_at": "2021-09-24 18:51:29",
+      "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 202873,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
+    },
+    {
       "added_at": "2021-08-12 14:57:38",
       "album": {
         "name": "Floating",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2021-09-24 18:51:29",
       "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 202873,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
-    },
-    {
-      "added_at": "2021-09-24 18:51:29",
-      "album": {
         "name": "Royal Morning Blue",
         "url": "https://open.spotify.com/album/7KV5IU1kITYQkySptDrk2R"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 183431,
       "name": "Royal Morning Blue - Edit",
       "url": "https://open.spotify.com/track/3PkntoEMclM5Xxiy3744Il"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Bel\u2022li",
+        "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
+      },
+      "artists": [
+        {
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
+        }
+      ],
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Bel\u2022li",
-        "url": "https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 172308,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Andy",
-        "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
-      },
-      "artists": [
-        {
-          "name": "Raleigh Ritchie",
-          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Party Fear",
-      "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Goodnights & Goodbyes",
         "url": "https://open.spotify.com/album/4N5NLp77oC120qnYEH6a9w"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 175890,
       "name": "Goodnights & Goodbyes",
       "url": "https://open.spotify.com/track/2vZEBUgUkvI8unkULuM5fA"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Andy",
+        "url": "https://open.spotify.com/album/1VGG6wKi23E0xvCScuK6AO"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Ritchie",
+          "url": "https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Party Fear",
+      "url": "https://open.spotify.com/track/5TagOSob2rhCeltUpSyOP4"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Big Skies, Silly Faces",
-        "url": "https://open.spotify.com/album/7lGdpg1UFSOfwXNScK1cSc"
+        "name": "Treat You Right",
+        "url": "https://open.spotify.com/album/3F91sv7XPeK9JYQdpXktd2"
       },
       "artists": [
         {
-          "name": "Orlando Weeks",
-          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
         }
       ],
-      "duration_ms": 235373,
-      "name": "Big Skies, Silly Faces",
-      "url": "https://open.spotify.com/track/0Zga9iWiTp760vRHHLNxFF"
+      "duration_ms": 261012,
+      "name": "Treat You Right",
+      "url": "https://open.spotify.com/track/7ItOfW0Phlgis72tCdIcsw"
     }
   ],
   "unique_name": "Your Office Stereo",

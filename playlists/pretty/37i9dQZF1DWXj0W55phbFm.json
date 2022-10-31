@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 19848,
+  "num_followers": 19891,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGVmNDBmOTNlN2FiOWI2MTI3NDA4N2VhMTQ3MmJlODdh",
+  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGM0ZTZjNGVjNmMxOGFjMTZhZmQyMjA2MGU3Njg1Y2Qw",
   "tracks": [
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Standard Time Vol. 2: Intimacy Calling",
         "url": "https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Brecker Plays Rovatti - Sacred Bond",
-        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        },
-        {
-          "name": "Ada Rovatti",
-          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
-        }
-      ],
-      "duration_ms": 632253,
-      "name": "The Baggae",
-      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Leosia",
         "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 367093,
       "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
       "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Brecker Plays Rovatti - Sacred Bond",
+        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Ada Rovatti",
+          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
+        }
+      ],
+      "duration_ms": 632253,
+      "name": "The Baggae",
+      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Into the Blue",
+        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 448386,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1723,38 +1739,6 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Into the Blue",
-        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 448386,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Lotus Flower",
-        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 484000,
-      "name": "Rahsan's Run",
-      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1783,6 +1767,22 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Lotus Flower",
+        "url": "https://open.spotify.com/album/6HeQbqtJT9KkuAcW8AusZH"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 484000,
+      "name": "Rahsan's Run",
+      "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
     },
     {
       "added_at": "2022-10-11 14:49:50",

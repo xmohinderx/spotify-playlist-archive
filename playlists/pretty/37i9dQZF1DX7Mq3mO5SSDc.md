@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 
 > An homage to the iconic label’s 1980s and 1990s roots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,604 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,714 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 5 | [This Is How We Do It](https://open.spotify.com/track/6aJ90LBl96bly9zuEH1U2X) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Best Of Montell Jordan](https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx) | 3:57 |
 | 6 | [Mama Said Knock You Out](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb) | 4:49 |
 | 7 | [Tonight's Da Night](https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Whut? Thee Album](https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF) | 3:21 |
-| 8 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
-| 9 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
+| 8 | [Bring The Pain](https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Tical](https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf) | 3:09 |
+| 9 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 |
 | 10 | [Ruff Ryders' Anthem](https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 3:34 |
 | 11 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 |
 | 12 | [No Sleep Till Brooklyn](https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mq3mO5SSDc.md) - [plain]
 | 49 | [The Ruler's Back](https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [The Great Adventures Of Slick Rick \(Deluxe Edition\)](https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F) | 5:36 |
 | 50 | [Headbanger](https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [K\-Solo](https://open.spotify.com/artist/0knb2mXB2y0L44J05Nj6zX) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:51 |
 
-Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDEzMWMzZjI0YjExYzZkZTRkM2RjNjYxNDdkODgzYWMz`
+Snapshot ID: `MTYzOTQ3Nzc4MywwMDAwMDAwMDJhOTNiZmQxMDBiMzUxM2FmMjExNGIzOWNmYzQzNTJl`

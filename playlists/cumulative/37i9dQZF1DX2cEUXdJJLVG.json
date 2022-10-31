@@ -1052,6 +1052,28 @@
     },
     {
       "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf"
+    },
+    {
+      "album": {
         "name": "Pink Dolls Blue Trucks",
         "url": "https://open.spotify.com/album/1GW4Z3JSzV8xATOvm4n3tr"
       },

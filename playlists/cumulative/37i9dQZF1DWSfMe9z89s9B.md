@@ -4,7 +4,7 @@
 
 > R&B without boundaries\. Cover: RealestK
 
-648 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
+649 songs - 1 day 11 hr 8 min - [published](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 | 2021-04-30 | 2022-01-29 |
 | [Brewster](https://open.spotify.com/track/1PcRrMqmrFejKGqqqEZm3s) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Brewster](https://open.spotify.com/album/7CEiIAfj28XpmTb9U3LCep) | 2:24 | 2021-12-10 | 2022-04-26 |
 | [Brewster](https://open.spotify.com/track/5odIVMTBVr7QetfpLY1fPV) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/2BwmEuKqtvwtqpkJadcaQq) | 2:24 | 2022-07-15 | 2022-07-28 |
-| [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-08-10 |  |
+| [Brown Angel](https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Brown Angel](https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG) | 3:02 | 2021-08-10 | 2022-10-31 |
 | [Bruises](https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0) | 4:26 | 2022-04-01 | 2022-10-08 |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-10-08 |
 | [Buttons](https://open.spotify.com/track/4CzLJ2wsrk1QdhXXuT16gx) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:04 | 2022-07-22 | 2022-08-06 |
@@ -160,6 +160,7 @@
 | [Deep Green](https://open.spotify.com/track/0hHnuKAlRRLyG7bYg474B8) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Deep Green](https://open.spotify.com/album/6c2FgkDmUjHtgXjTa59SfF) | 3:23 | 2022-09-23 |  |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2021-09-10 | 2022-04-08 |
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-02-25 | 2022-10-08 |
+| [Divide](https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:50 | 2022-10-28 |  |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-11-05 | 2022-09-10 |
 | [Do It](https://open.spotify.com/track/6U9b7UuFFr6pQBq9bg8zIf) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Do It](https://open.spotify.com/album/2fyVyew5Ri8RCCh8O1Jlx2) | 3:13 | 2022-04-01 | 2022-04-15 |
 | [Doctor, My Eyes](https://open.spotify.com/track/1ZjE0bbhrk7OyQftjaWUxQ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Doctor, My Eyes](https://open.spotify.com/album/38DGWtO8kCuW0UvkQcYDdA) | 3:14 | 2021-11-19 | 2022-09-10 |

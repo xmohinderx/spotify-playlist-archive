@@ -1,15 +1,15 @@
 {
   "description": "\u0645\u0644\u062a\u0642\u064a \u0623\u0635\u0648\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0627\u062a! \u0627\u0644\u063a\u0644\u0627\u0641: \u0633\u0645\u064a\u0631\u0629 \u0633\u0639\u064a\u062f\n",
-  "num_followers": 45818,
+  "num_followers": 45846,
   "original_name": "\u0645\u0644\u0643\u0627\u062a \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0639\u0631\u0628\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg2Mzc0MiwwMDAwMDAwMDY2MDMwYTZjZmRhNjE5NjM5ZmY4YzMxZTIzZTdjYzIy",
+  "snapshot_id": "MTY2Njg2Mzc0MiwwMDAwMDAwMGY0MTFlYjJhYmViMzRkNGU0YzVlM2I0YWNkYjg3ODJi",
   "tracks": [
     {
-      "added_at": "2022-10-30 01:57:38",
+      "added_at": "2022-10-31 01:57:29",
       "album": {
         "name": "YAMMI",
         "url": "https://open.spotify.com/album/7D7510MFKUTrZN96Ax5uvl"
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
-        "name": "Ana",
-        "url": "https://open.spotify.com/album/4ap3NmGXStZNYBenllHh3a"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 166561,
-      "name": "Ana",
-      "url": "https://open.spotify.com/track/1sD799UQFKPoU2PUyBOm4v"
-    },
-    {
-      "added_at": "2022-10-20 14:50:51",
-      "album": {
         "name": "\u0646\u0633\u0627\u0649",
         "url": "https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 197302,
       "name": "\u0646\u0633\u0627\u0649",
       "url": "https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz"
+    },
+    {
+      "added_at": "2022-10-20 14:50:51",
+      "album": {
+        "name": "Ana",
+        "url": "https://open.spotify.com/album/4ap3NmGXStZNYBenllHh3a"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 166561,
+      "name": "Ana",
+      "url": "https://open.spotify.com/track/1sD799UQFKPoU2PUyBOm4v"
     },
     {
       "added_at": "2022-10-20 14:50:51",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
-        "name": "Fil Lail",
-        "url": "https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv"
-      },
-      "artists": [
-        {
-          "name": "Nouran AbuTaleb",
-          "url": "https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh"
-        }
-      ],
-      "duration_ms": 253444,
-      "name": "Fil Lail",
-      "url": "https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco"
-    },
-    {
-      "added_at": "2022-10-20 14:50:51",
-      "album": {
         "name": "Eshtghala Wala Laa ?",
         "url": "https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 207968,
       "name": "Eshtaghla Wala Laa ?",
       "url": "https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi"
+    },
+    {
+      "added_at": "2022-10-20 14:50:51",
+      "album": {
+        "name": "Fil Lail",
+        "url": "https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv"
+      },
+      "artists": [
+        {
+          "name": "Nouran AbuTaleb",
+          "url": "https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh"
+        }
+      ],
+      "duration_ms": 253444,
+      "name": "Fil Lail",
+      "url": "https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco"
     },
     {
       "added_at": "2022-10-20 14:50:51",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
-        "name": "Kheira",
-        "url": "https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 253676,
-      "name": "Kheira",
-      "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
-    },
-    {
-      "added_at": "2022-10-20 14:50:51",
-      "album": {
         "name": "El Galb Yefdak",
         "url": "https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 225652,
       "name": "El Galb Yefdak",
       "url": "https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca"
+    },
+    {
+      "added_at": "2022-10-20 14:50:51",
+      "album": {
+        "name": "Kheira",
+        "url": "https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "duration_ms": 253676,
+      "name": "Kheira",
+      "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
     },
     {
       "added_at": "2022-10-20 14:50:51",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
+        "name": "Watani Li Jayi",
+        "url": "https://open.spotify.com/album/0itFgJembtYiLCN4GXzoiA"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 247487,
+      "name": "Watani Li Jayi",
+      "url": "https://open.spotify.com/track/53dJCsOBOr6zks7A9qncVZ"
+    },
+    {
+      "added_at": "2022-10-20 14:50:51",
+      "album": {
         "name": "Lema3lomatak",
         "url": "https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 258000,
       "name": "Resala Mennak",
       "url": "https://open.spotify.com/track/1ChC38YBlUIrbbTkG6zGcZ"
-    },
-    {
-      "added_at": "2022-10-20 14:50:51",
-      "album": {
-        "name": "Watani Li Jayi",
-        "url": "https://open.spotify.com/album/0itFgJembtYiLCN4GXzoiA"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 247487,
-      "name": "Watani Li Jayi",
-      "url": "https://open.spotify.com/track/53dJCsOBOr6zks7A9qncVZ"
     },
     {
       "added_at": "2022-10-20 14:50:51",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
-        "name": "Ana Ma Astaghni",
-        "url": "https://open.spotify.com/album/7doUub9LdO3apzewNqafd6"
+        "name": "Eshrit Sinin",
+        "url": "https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe"
       },
       "artists": [
         {
-          "name": "Ahlam",
-          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
         }
       ],
-      "duration_ms": 301721,
-      "name": "Ana Ma Astaghni",
-      "url": "https://open.spotify.com/track/54ytiI75JBleHsTiJwi9d9"
+      "duration_ms": 246613,
+      "name": "Eshrit Sinin",
+      "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
     },
     {
       "added_at": "2022-10-20 14:50:51",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2022-10-20 14:50:51",
       "album": {
+        "name": "Ana Ma Astaghni",
+        "url": "https://open.spotify.com/album/7doUub9LdO3apzewNqafd6"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "duration_ms": 301721,
+      "name": "Ana Ma Astaghni",
+      "url": "https://open.spotify.com/track/54ytiI75JBleHsTiJwi9d9"
+    },
+    {
+      "added_at": "2022-10-20 14:50:51",
+      "album": {
         "name": "Bukra Ahla",
         "url": "https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 160199,
       "name": "Bukra Ahla",
       "url": "https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f"
-    },
-    {
-      "added_at": "2022-10-20 14:50:51",
-      "album": {
-        "name": "Eshrit Sinin",
-        "url": "https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Eshrit Sinin",
-      "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
     },
     {
       "added_at": "2022-10-20 14:50:51",

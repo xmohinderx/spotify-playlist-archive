@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,677 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,860 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 6 | [Monster \- Robin Schulz Remix](https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Monster \(Robin Schulz Remix\)](https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO) | 2:45 |
 | 7 | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Rise \(Sam Feldt Remix\)](https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg) | 2:42 |
 | 8 | [Shivers \(Dillon Francis Remix\) \[Main Mix\]](https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Shivers \(Dillon Francis Remix\)](https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B) | 2:07 |
-| 9 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
-| 10 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
+| 9 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
+| 10 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 |
 | 11 | [My Universe \- Galantis Remix](https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [My Universe \(Galantis Remix\)](https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP) | 3:44 |
 | 12 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
 | 13 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [My My My! \- Throttle Remix](https://open.spotify.com/track/4iUmJaymwtbxhyMTrTnULU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [My My My! \(Remixes\)](https://open.spotify.com/album/08GvuwssKcSX2YrTqITDtN) | 3:30 |
 | 50 | [I Would Like \- Gorgon City Remix](https://open.spotify.com/track/6shSHDBeA8Hj5qnyIq7jdQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [I Would Like \(Gorgon City Remix\)](https://open.spotify.com/album/1gCqvEj5wVUNCHIEtm26up) | 4:23 |
 
-Snapshot ID: `MTY2NTA0ODY2MywwMDAwMDAwMDg3ZTUzZjlmZDY1Yzc2MzA0OWIxODNjZjE3NjgxNDU2`
+Snapshot ID: `MTY2NTA0ODY2MywwMDAwMDAwMGFmNTA0ZWY4YTdjZDlhNjBhNWRlZTNiM2QzY2E3Yjg5`

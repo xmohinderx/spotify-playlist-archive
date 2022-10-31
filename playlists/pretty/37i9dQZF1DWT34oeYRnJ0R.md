@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: paopao
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,049 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,051 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 14 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 |
 | 15 | [Las Cartas](https://open.spotify.com/track/3F3zfGooJ4r6D18Bb9IunL) | [Kamm](https://open.spotify.com/artist/1TedHsnAVELVd0b5N8nbFh) | [Las Cartas](https://open.spotify.com/album/4j1Es14amPfi0udZJV5Oyu) | 3:32 |
 | 16 | [Flores](https://open.spotify.com/track/2RCB8DenQG8AAy95KJfuwe) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Flores](https://open.spotify.com/album/4tFqsdZs5FlmfURPHuQX1B) | 2:51 |
-| 17 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
-| 18 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 17 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 18 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 |
 | 19 | [Sigues Con El \- Remix](https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sigues Con El \(Remix\)](https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM) | 3:09 |
 | 20 | [Mejor](https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Modo Avión](https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r) | 3:21 |
 | 21 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 |
 | 22 | [Gatita Gangster](https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Gatita Gangster](https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB) | 3:56 |
-| 23 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 |
-| 24 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 |
+| 23 | [Nena](https://open.spotify.com/track/5kJrMogX8dnZvwJVRQct8l) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/5eYJgVtDk7Az1vRWKNfuzY) | 2:33 |
+| 24 | [Otra Noche Sin Ti](https://open.spotify.com/track/6xvaSd27eSA5kQlFRYhWZF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:48 |
 | 25 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
 | 26 | [LA CANCIÓN](https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [LA CANCIÓN](https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI) | 3:32 |
 | 27 | [Miedo](https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Una Niña Inútil](https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc) | 3:09 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 62 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 |
 | 63 | [Tú y Yo](https://open.spotify.com/track/0rmqnho8rZSEJCqeBDPMmT) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Memento](https://open.spotify.com/album/0uhQr2Rh3VkMpjx8CF8pbb) | 2:54 |
 | 64 | [Para Ti](https://open.spotify.com/track/3NAA9XN9xarn0V2nmw6EoV) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Til Death](https://open.spotify.com/album/1KdIvpllbhDOBXGxjM6azb) | 1:37 |
-| 65 | [Bloom](https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD) | 2:49 |
-| 66 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
+| 65 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 |
+| 66 | [Bloom](https://open.spotify.com/track/4T7vbzrubScfDq0bx7Am5M) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Bloom](https://open.spotify.com/album/1FIiSEBdr1vujOzxWfHHiD) | 2:49 |
 | 67 | [Mi Fanatica](https://open.spotify.com/track/0WrRjLCLiX3ZaTZjyT3KbA) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Foreplay](https://open.spotify.com/album/0Zyin6wtlQoUC3ZSqMbAtT) | 4:04 |
 | 68 | [MIA](https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [La Patrona](https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1) | 3:31 |
 | 69 | [Direction](https://open.spotify.com/track/3K2PkX4J57HRMdjchzhV2x) | [Aniya Teno](https://open.spotify.com/artist/3tQk5O9Q3HKn7wA7yAl8MW), [Ivan Orozco](https://open.spotify.com/artist/0YtSuW7FvS3jNpb8dkc2Sl) | [Direction](https://open.spotify.com/album/07oAGIjAdGLI4RAFgPZ3UM) | 3:45 |
 | 70 | [Me Recuerda a Ti](https://open.spotify.com/track/1Fngw0WPdqz5jRasncUjZS) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [Me Recuerda a Ti](https://open.spotify.com/album/0CEnEIiJKwelKhAJK8Md20) | 2:54 |
 | 71 | [9 Times Outta 10](https://open.spotify.com/track/6lPCFkM3CZxabYWDTgwtwB) | [Angelic Montero](https://open.spotify.com/artist/2pxAIkRFeYyAt7Pumm7t7H) | [9 Times Outta 10](https://open.spotify.com/album/3kJqAgJe5yJX8VIcx6ER9b) | 2:52 |
 | 72 | [12AM](https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:44 |
-| 73 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
-| 74 | [TE EXCITO](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITO](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 |
-| 75 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
+| 73 | [TE EXCITO](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITO](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 |
+| 74 | [me piensas ;\)](https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [me piensas ;\)](https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N) | 2:52 |
+| 75 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
 | 76 | [IDGAD](https://open.spotify.com/track/458XxiIxKFpKEtIV7QgT02) | [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE) | [IDGAD](https://open.spotify.com/album/7BwTm0K4v5ykjOEw1PJb9H) | 2:46 |
 | 77 | [Your Plug feat\. Mariah Angeliq & Jenn Morel](https://open.spotify.com/track/4Kgmokx4QE2y5dDEUGt3kR) | [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Deception Szn 1](https://open.spotify.com/album/6pwLDRaJ9WNYY6QHX5KEZg) | 3:50 |
 | 78 | [Me Fui](https://open.spotify.com/track/5ZJd9k7DEOy3hBJmhd0DDW) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Me Fui](https://open.spotify.com/album/576cHKgH3sclXYicBXSiXm) | 4:15 |
 | 79 | [Secreto](https://open.spotify.com/track/7cmtffF4N8aaKJv7rL06R7) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Secreto](https://open.spotify.com/album/2nSZ3pXhbEuQDsEieLknAR) | 3:15 |
 | 80 | [Embeleso](https://open.spotify.com/track/5OMX4q4yknfdEFLBU0ufWl) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4tvKQtkJEk1dkFs53jh1ue) | 3:20 |
 
-Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMDA3MzBmYTgwZGM2NjMzMTg0YjA0YmM3MWRiOTIxNzE2`
+Snapshot ID: `MTY2NTM1NTUzNywwMDAwMDAwMDljM2RjM2U5Y2NhOGM1ZmNmYmEzMDBkZDNmZDY5M2Zm`

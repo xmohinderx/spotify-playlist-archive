@@ -4,14 +4,14 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-104 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
+105 songs - 7 hr 44 min - [published](https://open.spotify.com/playlist/6sRs5ZXRX0XP3quUNYTpL5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123](https://open.spotify.com/track/3sdLbza2Dux2AIp3BXjSZL) | [FERG](https://open.spotify.com/artist/4WUnl8sNbzqlJPZkX3Psnl) | [123](https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475) | 2:59 | 2021-10-15 | 2022-07-17 |
 | [1990 \- Edit](https://open.spotify.com/track/2tRnuEZU70qgyrmAEtzPx0) | [Lake Turner](https://open.spotify.com/artist/3Pg3shNdAUhMyxtVa3Gn0d) | [1990](https://open.spotify.com/album/6VajMzqk8hPSRupmSa4E7P) | 3:30 | 2021-10-15 | 2022-07-29 |
 | [365](https://open.spotify.com/track/6hj18wT1oKX0dmJuJOaXzS) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/6IaBX5I6MLRDB9a10HU9Y1) | 3:09 | 2021-10-15 | 2022-06-30 |
-| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 |  |
+| [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 | 2022-10-31 |
 | [Adderall](https://open.spotify.com/track/3IGKKAcwW7rGGRy1PvxGou) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/0idk2ck3PCZBI5lccb3FMg) | 4:56 | 2021-10-15 | 2022-07-29 |
 | [Adrift](https://open.spotify.com/track/5yB7BgBbemoIBpfDSWtcBc) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3) | [Aloe](https://open.spotify.com/album/5cFRYNZhC80kwt2LV6Jbph) | 3:23 | 2021-10-15 | 2022-07-26 |
 | [All Armed](https://open.spotify.com/track/0ah4k1jXcRFprzr9MhLrI2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [All Armed](https://open.spotify.com/album/6flex5uD7IKBXiNDNvUWwA) | 11:39 | 2021-10-15 | 2022-06-10 |
@@ -63,6 +63,7 @@
 | [Liquid](https://open.spotify.com/track/5PB690PLg0KTUTTqFExQkb) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [Foundations](https://open.spotify.com/album/72fLE2pqPY9MPpA9FS2E39) | 5:37 | 2021-10-15 | 2022-07-29 |
 | [Love Is Alive](https://open.spotify.com/track/4NRWOq8GohOo62jFxIzMF8) | [Mozez](https://open.spotify.com/artist/3r6uJM01I6meTehVwh0q2b), [DJ Celeste Lear](https://open.spotify.com/artist/6Z8VsD3APPWszUaJi65y9d) | [Love Is Alive](https://open.spotify.com/album/02dSIhVa4IQs0xHxOsgHUt) | 3:42 | 2021-10-15 |  |
 | [Low \- Babeheaven Remix](https://open.spotify.com/track/75jNxKPVjq08hKLkskLzXS) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD), [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Low \(Babeheaven Remix\)](https://open.spotify.com/album/6YHnk5GdCARNyCk6c3hgnG) | 4:07 | 2021-10-15 |  |
+| [Magic\-\-Pearl](https://open.spotify.com/track/3Mc75u5PxKSw1hzEVLAPQt) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 3:20 | 2021-10-15 |  |
 | [Magic\-\-Pearl](https://open.spotify.com/track/4hiNXRP0MUIl6wdEMAnazO) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 3:20 | 2021-10-15 | 2022-10-26 |
 | [Medals](https://open.spotify.com/track/2tKTx3sBuajVrzgPYCsJzC) | [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Community](https://open.spotify.com/album/32iiO1YRbttPWvfqPBE6ck) | 3:55 | 2021-10-15 | 2022-07-29 |
 | [Medals](https://open.spotify.com/track/6GjXUXS1DMRypQlH86KwNm) | [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Community](https://open.spotify.com/album/47xz7K8AaCupssrelYFmeM) | 3:55 | 2021-10-15 |  |

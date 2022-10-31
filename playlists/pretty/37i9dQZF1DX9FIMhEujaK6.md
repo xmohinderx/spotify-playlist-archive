@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,528 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,548 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 42 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 43 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 |
 | 44 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 |
-| 45 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
-| 46 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
+| 45 | [Silver Linings](https://open.spotify.com/track/6Ad5TdlevXBRsOsYhCbgb2) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 4:01 |
+| 46 | [Feels Like This](https://open.spotify.com/track/5XNFnRLXtjb1r2IjIQNjzC) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Feels Like This / Made It Here](https://open.spotify.com/album/5ktFMfrOJWEIl29KmcxAuG) | 4:36 |
 | 47 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
-| 48 | [Silver Linings](https://open.spotify.com/track/6Ad5TdlevXBRsOsYhCbgb2) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 4:01 |
+| 48 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 |
 | 49 | [Hayling](https://open.spotify.com/track/5ewsTJzfU5eiBLcGlaSrpG) | [FC Kahuna](https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg), [Hafdis Huld](https://open.spotify.com/artist/49gtDVpCBqLszTPkOy8idU) | [Machine Says Yes](https://open.spotify.com/album/2IHhaQat5XDDqjlU57CRPo) | 6:47 |
 | 50 | [Satori](https://open.spotify.com/track/66nJxPYKMrje2xs7vHnvKK) | [Hannah Fernando](https://open.spotify.com/artist/1pemw59Uf20tXE3i5eTBiY) | [Satori](https://open.spotify.com/album/4Sc18Uhrs8qltlOo6Vh6NJ) | 5:05 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMGQ0NzE2ZjI0OGI0NzcxNjQ2NjYyMTc0N2YwMmE2OTlj`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMGYwNGI5NzVlZTViY2JlMmZiZjc3NjhlNmQzOWYwN2Vk`

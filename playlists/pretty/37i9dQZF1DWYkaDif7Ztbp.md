@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV?si=dD\-6b3htQ5m57mTUiHaHKw"> Kizz Daniel </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,796 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,034 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Somehow heartbreak feels good in a place like this\. Cover: Taylor Swift
 
-373 songs - 20 hr 54 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
+374 songs - 20 hr 58 min - [published](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Bubble Wrap](https://open.spotify.com/track/2xsfclXXIuRsTfLjU6So7l) | [Lynnea M](https://open.spotify.com/artist/7J7EDOozhFLfRmCI0H8Ubm) | [Bubble Wrap](https://open.spotify.com/album/5DoZHFFvE7pV7JE7UaLTWD) | 3:06 | 2022-06-24 | 2022-06-28 |
 | [Burning Bridges \- Up Close, Acoustic](https://open.spotify.com/track/2bOCRFFm14IAFAxpL7KKao) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Burning Bridges \(Up Close, Acoustic\)](https://open.spotify.com/album/7iDmvsp438Mr3g1j4unr5F) | 2:48 | 2022-01-07 | 2022-03-12 |
 | [By Now](https://open.spotify.com/track/04FvHQz6oc5RKmM6jcUrSU) | [Fia Moon](https://open.spotify.com/artist/0UIbKpz6Owrre4L7XNjad4) | [By Now](https://open.spotify.com/album/43j2VGSMiVDi3IyCUzhp65) | 3:15 | 2022-03-14 | 2022-04-29 |
+| [Can You Afford To Lose Me?](https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 4:02 | 2022-10-28 |  |
 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 | 2022-01-28 | 2022-10-22 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-25 |  |
 | [cold feet](https://open.spotify.com/track/7lHd4eqgPeDMMmcinSTfQF) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [cold feet](https://open.spotify.com/album/0eZLBuwE1gXZ7gXVa6h70G) | 2:52 | 2022-01-21 | 2022-03-11 |
@@ -117,7 +118,7 @@
 | [Forget I Exist](https://open.spotify.com/track/54q7FLhWb9FEObFBziNRTq) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Forget I Exist](https://open.spotify.com/album/4S8raPrW3aRYC3npe8gTEN) | 2:52 | 2022-01-28 |  |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-09-09 |  |
 | [Fumbled the Bag](https://open.spotify.com/track/4hOEcvPoY9WYdvZk5T5O1T) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Fumbled the Bag](https://open.spotify.com/album/52ohkU9cUvreRfFteBnsTR) | 3:09 | 2022-09-09 |  |
-| [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 | 2022-07-15 |  |
+| [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 | 2022-07-15 | 2022-10-31 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-17 | 2022-10-22 |
 | [give you away](https://open.spotify.com/track/0HcTr9pSCJrD3qmSY2ifwE) | [Jake Clark](https://open.spotify.com/artist/5fPvc8tIZfLbEm3GsbFHgd) | [give you away](https://open.spotify.com/album/5qjdIGQ8285nHIhUwbpJfl) | 3:22 | 2022-08-19 | 2022-08-27 |
 | [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 |  |

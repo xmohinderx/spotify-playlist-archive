@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Harry Styles.",
-  "num_followers": 726883,
+  "num_followers": 726918,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMDk4MjI0NDQwN2M4YjgwZWVhZTMxYTFiMjY3ZjdjZWVh",
+  "snapshot_id": "MTY2MzI1NzIzNSwwMDAwMDAwMGYyYzhiMjhkYzAyNDE5NTE4OGQ0MDIxODg5MWQwMmU5",
   "tracks": [
     {
       "added_at": "2022-09-01 18:43:04",
@@ -160,6 +160,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
@@ -195,18 +211,18 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj"
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1w5eAssKxCtTpJh7gNQdgO"
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -223,22 +239,6 @@
       "duration_ms": 224147,
       "name": "Heartless - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6S4vdF9ENvX8WN8PvJ6soA"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -328,6 +328,22 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
@@ -371,22 +387,6 @@
       "duration_ms": 176652,
       "name": "you broke me first - Spotify Singles",
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -491,6 +491,26 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 225005,
+      "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
         "name": "Life is Like a Dice Game - Spotify Singles",
         "url": "https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 284093,
       "name": "Life is Like a Dice Game - Spotify Singles",
       "url": "https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 225005,
-      "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -980,22 +980,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Us - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
@@ -1007,6 +991,22 @@
       "duration_ms": 199914,
       "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Us - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-05-27 17:31:46",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 245786,
       "name": "Give Yourself A Try - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1244,17 +1244,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+        "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
         }
       ],
-      "duration_ms": 209840,
-      "name": "Think About You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
+      "duration_ms": 163398,
+      "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1280,17 +1280,17 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/300Ie4B2NYCYKWvdmdtZCX"
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 163398,
-      "name": "Buy U A Drank - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sRaYTnVObtY8dVUiFBd0F"
+      "duration_ms": 209840,
+      "name": "Think About You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0dH4BsNvelSTdaw6uIrEl7"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1488,22 +1488,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 182387,
-      "name": "One Kiss - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0nuevVEmgZ7meuFGnFn5AA"
       },
       "artists": [
@@ -1515,6 +1499,22 @@
       "duration_ms": 286840,
       "name": "Shine - Jim Eno Sessions",
       "url": "https://open.spotify.com/track/5iha6wXLuWdwBtlkRdsmrk"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3dCEhJoGxyinkbmxtwk6dP"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 182387,
+      "name": "One Kiss - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/3T8dc6UY2XubK8BTrYizA4"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1764,22 +1764,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 224016,
-      "name": "Why Her Not Me - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3mtMRf4O00DKs01E6v6OXG"
       },
       "artists": [
@@ -1791,6 +1775,22 @@
       "duration_ms": 207642,
       "name": "Turn - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/6IX2SFZplMdAMsAIwMlPsl"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ai4BSQG7yNVzcChdPCFK0"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 224016,
+      "name": "Why Her Not Me - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/7whdwj322sXuwBjVykxW1w"
     },
     {
       "added_at": "2022-05-27 17:31:46",
@@ -1908,22 +1908,6 @@
       "added_at": "2022-05-27 17:31:46",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 431671,
-      "name": "Adult Swim - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS"
-    },
-    {
-      "added_at": "2022-05-27 17:31:46",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
@@ -1935,6 +1919,22 @@
       "duration_ms": 180028,
       "name": "Aura - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6Xv6dDUGl39MfJHBtqprmx"
+    },
+    {
+      "added_at": "2022-05-27 17:31:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 431671,
+      "name": "Adult Swim - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS"
     },
     {
       "added_at": "2022-05-27 17:31:46",

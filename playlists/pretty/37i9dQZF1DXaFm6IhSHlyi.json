@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 132969,
+  "num_followers": 133021,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDBhZWY4ZTQ3Y2RjMDMxY2NlMjE5MGFiZDljNDM2Mzk4",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDRjMmQwYjk0ZmE3YmYzZmEzOGRiMGYwMGE1MDk4YTMy",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "7 (Part 2)",
-        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
-      },
-      "artists": [
-        {
-          "name": "Artik & Asti",
-          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
-      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "From Nassif Zeytoun with Love",
         "url": "https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 236697,
       "name": "Wassellik Khabar",
       "url": "https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "7 (Part 2)",
+        "url": "https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl"
+      },
+      "artists": [
+        {
+          "name": "Artik & Asti",
+          "url": "https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u041a\u0440\u044b\u043b\u044c\u044f",
+      "url": "https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ohebbou Yadayka",
-        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
-      },
-      "artists": [
-        {
-          "name": "Faia Younan",
-          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
-        }
-      ],
-      "duration_ms": 226575,
-      "name": "Ohebbou Yadayka",
-      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Love song",
         "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 230213,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Ohebbou Yadayka",
+        "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
+      },
+      "artists": [
+        {
+          "name": "Faia Younan",
+          "url": "https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi"
+        }
+      ],
+      "duration_ms": 226575,
+      "name": "Ohebbou Yadayka",
+      "url": "https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "DOCUMENTARY",
+        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
+      },
+      "artists": [
+        {
+          "name": "RUNG HYANG",
+          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
+        }
+      ],
+      "duration_ms": 249545,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -2367,22 +2383,6 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "DOCUMENTARY",
-        "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
-      },
-      "artists": [
-        {
-          "name": "RUNG HYANG",
-          "url": "https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ"
-        }
-      ],
-      "duration_ms": 249545,
-      "name": "Trapped",
-      "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
     },
     {
       "added_at": "2022-10-17 15:00:00",

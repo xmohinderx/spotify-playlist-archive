@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 159522,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
@@ -7529,7 +7529,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
@@ -9849,7 +9849,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 248347,
       "name": "Mandagsbarn",
       "url": "https://open.spotify.com/track/7hvRgiuGmHoUtqX8D94euj"
@@ -10167,7 +10167,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 184040,
       "name": "menn som meg",
       "url": "https://open.spotify.com/track/2wltzM6xElc7E6Ryn6Tqbo"
@@ -14771,7 +14771,7 @@
       ],
       "date_added": "2022-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 133714,
       "name": "TANTE",
       "url": "https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k"
@@ -14869,6 +14869,24 @@
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
+    },
+    {
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201424,
+      "name": "The Ballet Girl",
+      "url": "https://open.spotify.com/track/1yVBxI8TaIL86Rrmah83fd"
     },
     {
       "album": {

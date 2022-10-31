@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Alvvays on cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,011 likes - 108 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,031 likes - 108 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 4 | [Ease](https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:26 |
 | 5 | [T.W.I.N.](https://open.spotify.com/track/0AyN9SW50iTYEI17mdg8BG) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [T.W.I.N.](https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz) | 3:07 |
 | 6 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 |
-| 7 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 |
-| 8 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
+| 7 | [Always Then](https://open.spotify.com/track/4ti3jFBiVjPE4t9WOzKkHW) | [The KVB](https://open.spotify.com/artist/0BzJFLqchxKNQyEwswwQ40) | [Always Then](https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC) | 4:11 |
+| 8 | [Happy](https://open.spotify.com/track/6OIsq9HutnCINDPQqmAjbz) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Bedroom](https://open.spotify.com/album/3Pu648nWwshjvkl96rKxPS) | 3:46 |
 | 9 | [Blank](https://open.spotify.com/track/2gpkmR9oX3Jk6rDI6KUwHj) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Into You](https://open.spotify.com/album/5qRlgp12Yv5ZPSdq2jmiz2) | 3:36 |
 | 10 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 |
 | 11 | [You Lose!](https://open.spotify.com/track/0tP8FKhJsar5y4JcOH4Rjp) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 3:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 45 | [eightball](https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [Destiny XL](https://open.spotify.com/album/7IP404IKOkyz64GR1C6HpU) | 3:09 |
 | 46 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 | 47 | [Breakbeats](https://open.spotify.com/track/2FiWMOFiCBX8E7yEXAyA83) | [Pasteboard](https://open.spotify.com/artist/46ie4kSykhGZ214qwxJ4y9) | [Glitter](https://open.spotify.com/album/3HvASlOR1hZ7IFnvFECDBS) | 3:10 |
-| 48 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 |
-| 49 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
+| 48 | [Kaleidoscope](https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB) | 2:05 |
+| 49 | [Making Room](https://open.spotify.com/track/2CoP6BbpUoMmTfks7WeDHX) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Together](https://open.spotify.com/album/428iId26KsW5U3fhyC7S3W) | 3:46 |
 | 50 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
 | 51 | [Thursday](https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye) | 4:17 |
 | 52 | [Akira](https://open.spotify.com/track/5etys3p3H0qRDscHy7eWKc) | [Deafcult](https://open.spotify.com/artist/6AX5hnjYSvcjZd9IyqYPsp) | [Deafcult](https://open.spotify.com/album/6dPwwV3dTTa7P4isGGBXvy) | 3:09 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 55 | [Hide](https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd) | [Deserta](https://open.spotify.com/artist/64Fi0ymNIe3Moj4BPOq0NG) | [Black Aura My Sun](https://open.spotify.com/album/0Bf9ofwafClZWZE3wDKVWX) | 6:47 |
 | 56 | [Alone](https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie) | [Sugar High](https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP) | [Love Addict](https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR) | 3:02 |
 | 57 | [Hare Tarot Lies](https://open.spotify.com/track/1iZt1oFMxSDRenUeDXwAik) | [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Wait to Pleasure](https://open.spotify.com/album/3GWExMRNtcxPP2vcfr0HQ4) | 3:26 |
-| 58 | [Young Adult Friction](https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 4:03 |
-| 59 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
+| 58 | [Stare at the Sun](https://open.spotify.com/track/5pvmhSKAEGovYtUQW8xqJp) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Pure Mood](https://open.spotify.com/album/6nbPtKlhPst5q52OuVgPhb) | 4:19 |
+| 59 | [Young Adult Friction](https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 4:03 |
 | 60 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
 | 61 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 |
 | 62 | [Night Drive](https://open.spotify.com/track/2SKqIW7fbbWKZ0PmRZKWO6) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Day By Day](https://open.spotify.com/album/5RvCTlW4viz8e0ysvQCD9n) | 4:57 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 82 | [Heart in Your Heartbreak](https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [Belong](https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ) | 3:45 |
 | 83 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
 | 84 | [Firefly](https://open.spotify.com/track/5Fmk7akgjEpRI4vvu7CQ2m) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1), [Stella Tran](https://open.spotify.com/artist/3yETcd6deerTsw8RJDqW01) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:25 |
-| 85 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 |
-| 86 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 |
-| 87 | [Pica](https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF) | [Bloodslide](https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz) | [Pica](https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr) | 5:11 |
-| 88 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 |
+| 85 | [Mind the Wires](https://open.spotify.com/track/0rEVhkcwdi9CcKANWYV0Ot) | [Tears Run Rings](https://open.spotify.com/artist/0cNUrcNznBuZErkcSdHoxJ) | [Always, Sometimes, Seldom, Never](https://open.spotify.com/album/795uPXiy5JMXIpsHtEYmoV) | 4:53 |
+| 86 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 |
+| 87 | [Cannibal Capital](https://open.spotify.com/track/5mhpd12wL82CIlXjUqngTA) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Famously Alive](https://open.spotify.com/album/7AXXRxTM67OvipZj9iRbhw) | 4:24 |
+| 88 | [Pica](https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF) | [Bloodslide](https://open.spotify.com/artist/6xMS9dPnwVh8EnGusumqaz) | [Pica](https://open.spotify.com/album/0Sc94Sz2dTR9H6kNgle0pr) | 5:11 |
 | 89 | [Seven of Cups](https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 3:53 |
 | 90 | [Wanting War](https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 3:36 |
 | 91 | [While My Waves Wonder](https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [For you, Adroit it but soft](https://open.spotify.com/album/6PsMKSlBsn8VZkQS9tpJpm) | 4:25 |
@@ -109,12 +109,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 100 | [Sharron Apple](https://open.spotify.com/track/7yuX2OzkFAm6eKOj2AnL1R) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 6:17 |
 | 101 | [Nomofobia](https://open.spotify.com/track/4qp7bfLqimExyHEfmC8QVA) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Nomofobia](https://open.spotify.com/album/4c8FXQGiKf4hPep3Br8OzR) | 3:29 |
-| 102 | [Picnic](https://open.spotify.com/track/5IDA5kOwkjsPPXpqpUDpml) | [Martes Niebla](https://open.spotify.com/artist/0mlKcsI1p5o8tASkhEBWkx) | [Insolación](https://open.spotify.com/album/7LPjwcNAFGTPYK1oswubMb) | 4:47 |
-| 103 | [Panic Song](https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 3:01 |
+| 102 | [Panic Song](https://open.spotify.com/track/5DBvoBCnSwerIEIZwwRsw5) | [Greet Death](https://open.spotify.com/artist/7CddNoU6nKEW7UpcIlJF9n) | [New Low](https://open.spotify.com/album/65DikJ1UN8aSiP6JL4leWT) | 3:01 |
+| 103 | [Picnic](https://open.spotify.com/track/5IDA5kOwkjsPPXpqpUDpml) | [Martes Niebla](https://open.spotify.com/artist/0mlKcsI1p5o8tASkhEBWkx) | [Insolación](https://open.spotify.com/album/7LPjwcNAFGTPYK1oswubMb) | 4:47 |
 | 104 | [bottlerocket](https://open.spotify.com/track/6meqtPZTfzDzYenqPY9DC8) | [Astrobrite](https://open.spotify.com/artist/1nerWM6ECWXUcvDgGtBLcJ) | [Crush](https://open.spotify.com/album/2c2vRr4LRLxzu27kfwatSw) | 3:14 |
 | 105 | [Radial](https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Radial](https://open.spotify.com/album/4LPazFPUDMRbGHODFirsKg) | 4:27 |
 | 106 | [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 |
-| 107 | [Calling it love isn't love \(Don't fall in love\)](https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Autumn, Again](https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB) | 3:41 |
-| 108 | [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 |
+| 107 | [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 |
+| 108 | [Calling it love isn't love \(Don't fall in love\)](https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J) | [A Sunny Day In Glasgow](https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g) | [Autumn, Again](https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB) | 3:41 |
 
-Snapshot ID: `MTY2NjkwOTE3NiwwMDAwMDAwMGU0OTlhNjc0ODcwYTMwNzY5ZjMwMDJiYmEwMzRjYjc4`
+Snapshot ID: `MTY2NjkwOTE3NiwwMDAwMDAwMGM1YzljYmYwZTdkODk3MDdlNzk5YzAxYTkwYTZkZmMy`

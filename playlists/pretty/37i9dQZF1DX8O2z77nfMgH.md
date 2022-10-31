@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados de toda la región\. En portada: Manuel Turizo y María Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,729 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,895 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 16 | [Pal Bellakeo](https://open.spotify.com/track/1P38RDDC7gPEImCKG4TTv5) | [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Pal Bellakeo](https://open.spotify.com/album/6k0KxzFGnGPFs2Z2MnZd6l) | 3:27 |
 | 17 | [La Nostalgia](https://open.spotify.com/track/6Qzc529xVvSHBHUthN1iLi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Nostalgia](https://open.spotify.com/album/0LucJB7zlBpTKEDOolGdMh) | 3:14 |
 | 18 | [Mi manera de querer](https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:53 |
-| 19 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/48O6VBStYGsCV90kzK5uS9) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
+| 19 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/5Z3rl70bDu6OgrO4bJ9Mcu) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
 | 20 | [Cheve](https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Cheve](https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP) | 2:54 |
 | 21 | [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 |
 | 22 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [Mata Hari](https://open.spotify.com/track/0w0oFIxWoThs83xjn5bMHQ) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Mata Hari](https://open.spotify.com/album/7zjQYfbVemScYYMq724krx) | 2:46 |
 | 65 | [Como Blanco](https://open.spotify.com/track/1lx21kVcyramNferk00CUl) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Taiguerz](https://open.spotify.com/artist/2Yi5LaK2meRKaZ7oUUFHPu), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Como Blanco](https://open.spotify.com/album/5pK69aIxLhn00uv4P8BVbR) | 3:25 |
 | 66 | [Calaveras](https://open.spotify.com/track/2d5KzN4pKNV0oiyRjcDtWG) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [Calaveras](https://open.spotify.com/album/2fg30tRp4rMKRgM1Ih4GcZ) | 3:16 |
-| 67 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Maria Elisa Ayerbe](https://open.spotify.com/artist/4xdOufnPR3v5k4gqrvVL9C) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
+| 67 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
 | 68 | [SED](https://open.spotify.com/track/6DPiWDy4M6HQAcURmzihkv) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [SED](https://open.spotify.com/album/5NGdl50sitpM6XmjBbYKGy) | 3:13 |
 | 69 | [CORAZA](https://open.spotify.com/track/2V1m8eYcGpGHWCKDntmvRs) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Mismo Perro](https://open.spotify.com/artist/3tB9Czwfy1L6JZHk6JgYcU), [Jam Block Jr](https://open.spotify.com/artist/0FIN243WwkE8FNjYverzvr), [Error 999](https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0), [El Kalvo](https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v) | [CORAZA](https://open.spotify.com/album/41psDP9ISWz8D0K4Azt524) | 4:25 |
 | 70 | [Esta vislumbra](https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Albor](https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7) | 3:21 |

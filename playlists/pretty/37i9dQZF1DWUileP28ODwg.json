@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 256115,
+  "num_followers": 256189,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMDI3NTlkNTNmN2RlOTgwYzBlNTQzZWE5ZjJlYjIxZDM1",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGE3ZmI1YzIwYzJiZTVlYjNhY2UzYmJjODYyZDEwOTc5",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Don't Lose Heart",
-        "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 211863,
-      "name": "Don't Lose Heart",
-      "url": "https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 218765,
       "name": "I Cry Jesus",
       "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Don't Lose Heart",
+        "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 211863,
+      "name": "Don't Lose Heart",
+      "url": "https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 237179,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "The Work, Vol. 2",
         "url": "https://open.spotify.com/album/1wLvhr3tZahKSZdeef0uiK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 254706,
       "name": "We're Here Because You're Here",
       "url": "https://open.spotify.com/track/0ZMUZSwjHhRO2k6mBXwO2S"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 237179,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "A Thousand Shores",
-        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "A Thousand Shores",
-      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Things That I'm Afraid Of",
         "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 166988,
       "name": "Things That I'm Afraid Of",
       "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "A Thousand Shores",
+        "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "A Thousand Shores",
+      "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 278001,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I Will Carry You (Radio Version)",
         "url": "https://open.spotify.com/album/086Mrlmlf2kFVvGD2U7clN"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 198906,
       "name": "I Will Carry You - Radio Version",
       "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 278001,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Soul Worth Saving",
         "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 226650,
       "name": "Soul Worth Saving",
       "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/2LO7j9mYezEdSEstvoFuKv"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 241933,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Glory I Couldn't See (Radio Version)",
-        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
-      },
-      "artists": [
-        {
-          "name": "Mike Donehey",
-          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Glory I Couldn't See - Radio Version",
-      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Before I Knew Jesus",
         "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 196975,
       "name": "Before I Knew Jesus",
       "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Glory I Couldn't See (Radio Version)",
+        "url": "https://open.spotify.com/album/3P6hGGLV83JnATBrjb1Gbu"
+      },
+      "artists": [
+        {
+          "name": "Mike Donehey",
+          "url": "https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Glory I Couldn't See - Radio Version",
+      "url": "https://open.spotify.com/track/6i2ERbUNohRhaLvD9AVdfo"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "When I Say Yes",
-        "url": "https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 197817,
-      "name": "When I Say Yes",
-      "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Always Only Jesus",
         "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 225681,
       "name": "To Not Worship You",
       "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "When I Say Yes",
+        "url": "https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 197817,
+      "name": "When I Say Yes",
+      "url": "https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Has It Been You",
         "url": "https://open.spotify.com/album/2dbKYT7INEowVBF5t0eTpP"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 200738,
       "name": "Has It Been You",
       "url": "https://open.spotify.com/track/39JNapamVkzWAli5ZkPb7Q"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
-      },
-      "artists": [
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
     },
     {
       "added_at": "2022-10-01 07:07:16",

@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: UPSAHL
 
-1,371 songs - 2 day 22 hr 23 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,373 songs - 2 day 22 hr 29 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -498,7 +498,8 @@
 | [Guerrilla](https://open.spotify.com/track/6y57l1NHNuc1dNz7Cel3Oo) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Guerrilla / Sexy Villain](https://open.spotify.com/album/46zy76PQmEBa9szqYIIKfd) | 2:44 | 2021-09-10 | 2022-01-08 |
 | [Hammock](https://open.spotify.com/track/300h0POzz1RLKUlmQiquFa) | [morgen](https://open.spotify.com/artist/6jadsn0j1QjrlJTMiaUJYF) | [Hammock](https://open.spotify.com/album/7tqXm8Z4HCK3kydrFJRF0v) | 2:16 | 2022-09-09 | 2022-09-18 |
 | [Hang My Head](https://open.spotify.com/track/2Qm5gg9NZIrtURqpIalMyy) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Hang My Head](https://open.spotify.com/album/66Jgk4cIkmqjVjwO4VxIin) | 3:26 | 2021-08-19 | 2021-08-20 |
-| [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-17 |  |
+| [Happening Again](https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4) | 2:53 | 2022-10-28 |  |
+| [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-17 | 2022-10-31 |
 | [happy for you](https://open.spotify.com/track/0kOfcxz6WTw4dzChcdkYDZ) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI), [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [happy for you](https://open.spotify.com/album/44WOUXY0LJXDCnvmwmXC71) | 3:27 | 2020-06-13 | 2021-01-23 |
 | [HARD TO LOVE](https://open.spotify.com/track/5ZgvPYl6HLt6lkSayklTHR) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [HARD TO LOVE](https://open.spotify.com/album/45ymgc49dYxs5D189MIIlH) | 3:03 | 2022-03-25 | 2022-09-17 |
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-05-13 | 2022-05-20 |
@@ -778,6 +779,7 @@
 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 | 2020-05-01 | 2021-04-17 |
 | [Marry Myself](https://open.spotify.com/track/0JbISF5Bbv2RFU06L8IPgq) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:02 | 2022-03-04 | 2022-03-26 |
 | [martyr](https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [honey catching season](https://open.spotify.com/album/0tGwBl1H2dLqrOPceQ8CS0) | 2:25 | 2022-10-14 |  |
+| [Meet You in Hell](https://open.spotify.com/track/2xdye2lhDblrS05XTHgBcb) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Meet You in Hell](https://open.spotify.com/album/5kD3hBP2KPEx4jLlugYVjo) | 3:07 | 2022-10-28 |  |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2022-07-15 |  |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2021-11-12 | 2022-01-08 |
 | [Messing With Fire](https://open.spotify.com/track/2KPwgjIyUySM4vekacUUWE) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Messing With Fire](https://open.spotify.com/album/7jbFtmPmB0cOvIxAnJ8DhU) | 3:06 | 2021-10-13 | 2021-11-12 |
@@ -1259,7 +1261,7 @@
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-04-08 | 2022-05-07 |
 | [Treehouse](https://open.spotify.com/track/2H9f4gzQxCzTf8mHtNnpBd) | [More Giraffes](https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0) | [Treehouse](https://open.spotify.com/album/3pxdWDr2Mt6v16blV8DNwm) | 2:52 | 2019-09-06 | 2020-03-16 |
 | [TROJAN HORSE](https://open.spotify.com/track/1cQCdozRmaErXowT6iDQML) | [SEBASTIAN PAUL](https://open.spotify.com/artist/1tQu5TjcAK68fx8qrc8ZgF) | [TROJAN HORSE](https://open.spotify.com/album/4ywqwcXHknbizHO6MkJCQB) | 4:26 | 2021-03-07 | 2021-10-16 |
-| [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 |  |
+| [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-22 | 2022-10-31 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-22 | 2022-04-29 |
 | [Trust Issues](https://open.spotify.com/track/2z5uCpJamxXgs7GKa6qzPi) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Trust Issues](https://open.spotify.com/album/45yZQnazJjAbDlJyIkGEQ9) | 2:20 | 2022-08-19 | 2022-10-29 |
 | [try to try](https://open.spotify.com/track/3NkEARkGgDV2i8AWiyctQt) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [try to try](https://open.spotify.com/album/43mYpwbwMHnpDMpLQFiDqJ) | 2:16 | 2021-04-17 | 2021-11-20 |

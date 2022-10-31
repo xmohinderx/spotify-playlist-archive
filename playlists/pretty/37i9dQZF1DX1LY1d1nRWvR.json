@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 23726,
+  "num_followers": 23736,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMGM3MWJkOGU1M2MzYjAxOWUzNzE1MDhiMjM0OTJhN2Jl",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDIyMWU5MjljMzMxZGZlMDVhYmMyZWYyNDdiYmQzZTcz",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -343,22 +343,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
-      },
-      "artists": [
-        {
-          "name": "Harvey Sutherland",
-          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
-        }
-      ],
-      "duration_ms": 376960,
-      "name": "Bamboo",
-      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 255214,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/5bwIx6VKlV0nrPtjEM09xo"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "duration_ms": 376960,
+      "name": "Bamboo",
+      "url": "https://open.spotify.com/track/0tj5lFNJMzGKoQMY5uafU2"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -643,18 +643,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Yardley Suite",
-        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
       },
       "artists": [
         {
-          "name": "Ruby Rushton",
-          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
         }
       ],
-      "duration_ms": 235803,
-      "name": "Yardley Suite",
-      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -679,18 +679,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+        "name": "Yardley Suite",
+        "url": "https://open.spotify.com/album/6GYzn93otdQDLDrlHx3mSX"
       },
       "artists": [
         {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+          "name": "Ruby Rushton",
+          "url": "https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF"
         }
       ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+      "duration_ms": 235803,
+      "name": "Yardley Suite",
+      "url": "https://open.spotify.com/track/3FLsuVjJ5Ioqb1hgst8N1b"
     },
     {
       "added_at": "2021-10-08 17:36:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,232 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,231 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 26 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 27 | [BSoD](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 28 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
-| 29 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
-| 30 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
+| 29 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
+| 30 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
 | 31 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
 | 32 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
 | 33 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 50 | [Organic Love](https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Organic Love](https://open.spotify.com/album/7wiEOdACTzjmwGtG8hIWWX) | 3:12 |
 | 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDI3YmI5YmU3YmFmOTc3ZDhhZjc3MTAwN2U0MjlkZTQ1`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDMzNjRkNTgzZjk0ZDg4NjI0YjdiNjk3ZDM4MTk1MGUw`

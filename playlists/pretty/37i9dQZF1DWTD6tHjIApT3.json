@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 85488,
+  "num_followers": 85531,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMDE2NzY3ZjU1Yjg1NGViMzViNDc2Y2JhYWYyZTg3NTg1",
+  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMDhlY2YyZjIxMzY3MDQ4N2M4OWIwMzk5YzJhODljNTBl",
   "tracks": [
     {
       "added_at": "2022-10-27 15:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
+        "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+        "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+      "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
         "name": "LOVE CYCLE",
         "url": "https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK"
       },
@@ -1203,22 +1219,6 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
-        "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
-      },
-      "artists": [
-        {
-          "name": "Mone Kamishiraishi",
-          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
-        }
-      ],
-      "duration_ms": 273293,
-      "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
-      "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
-    },
-    {
-      "added_at": "2022-10-27 15:00:00",
-      "album": {
         "name": "\u3058\u3083\u3042\u306d\u3001\u307e\u305f\u306d\u3002",
         "url": "https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ"
       },
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "One More Kiss (feat. \u3072\u304b\u308a)",
-        "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
+        "name": "bye bye",
+        "url": "https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "\u3072\u304b\u308a",
-          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
         }
       ],
-      "duration_ms": 258168,
-      "name": "One More Kiss (feat. \u3072\u304b\u308a)",
-      "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
+      "duration_ms": 168225,
+      "name": "bye bye",
+      "url": "https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng"
     },
     {
       "added_at": "2022-10-27 15:00:00",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "bye bye",
-        "url": "https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A"
+        "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+        "url": "https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE"
       },
       "artists": [
         {
-          "name": "AYANE",
-          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
         }
       ],
-      "duration_ms": 168225,
-      "name": "bye bye",
-      "url": "https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng"
+      "duration_ms": 258168,
+      "name": "One More Kiss (feat. \u3072\u304b\u308a)",
+      "url": "https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu"
     },
     {
       "added_at": "2022-10-27 15:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
+        "name": "\u96e8\u6a21\u69d8",
+        "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Penoreri",
+          "url": "https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK"
+        }
+      ],
+      "duration_ms": 147437,
+      "name": "\u96e8\u6a21\u69d8",
+      "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
         "name": "\u3044\u3068\u3092\u304b\u3057",
         "url": "https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 183260,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn"
-    },
-    {
-      "added_at": "2022-10-27 15:00:00",
-      "album": {
-        "name": "\u96e8\u6a21\u69d8",
-        "url": "https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Penoreri",
-          "url": "https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK"
-        }
-      ],
-      "duration_ms": 147437,
-      "name": "\u96e8\u6a21\u69d8",
-      "url": "https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX"
     },
     {
       "added_at": "2022-10-27 15:00:00",

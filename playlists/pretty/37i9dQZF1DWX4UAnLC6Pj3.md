@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Jesús Mendoza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,361 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051,545 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 72 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 73 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
 | 74 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 |
-| 75 | [Amigos Con Beneficio](https://open.spotify.com/track/5LoB3vdJ2C8rHbCHh1wMAl) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Querer Es Poder](https://open.spotify.com/album/1G3HMEwdPV2ovKDR4ZsO4J) | 3:10 |
+| 75 | [Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca \- En Vivo](https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW), [El Cachorro](https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 19:47 |
 
-Snapshot ID: `MTY2NjYyMjQ1MiwwMDAwMDAwMDIwYWViZGY0MmZlNDJiNWRiNTRiZGJkZGQ0Y2I2YmQ0`
+Snapshot ID: `MTY2NjYyMjQ1MiwwMDAwMDAwMGYxZGE5MWEyNTM3Y2JkN2MxMDc5NmRlMTkwNzM4NmE5`

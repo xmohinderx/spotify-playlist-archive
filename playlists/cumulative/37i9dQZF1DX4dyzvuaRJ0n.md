@@ -4,7 +4,7 @@
 
 > The world's biggest dance hits\. Cover: Fred again..
 
-412 songs - 23 hr 26 min - [published](https://open.spotify.com/playlist/2lDweGgvQhwyQi5R55ct4Y)
+413 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/2lDweGgvQhwyQi5R55ct4Y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 | 2022-10-08 |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2021-12-17 | 2022-04-09 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-21 | 2022-10-26 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-28 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 | 2022-10-31 |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2021-12-17 | 2022-04-09 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2022-07-29 | 2022-10-01 |
 | [Do It Anyway \(with Icona Pop\)](https://open.spotify.com/track/4JlbNN3jRVy0agVxF2K5DA) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [SLEEP](https://open.spotify.com/album/5mzCJJA5kAQRgHZIUIpR0t) | 2:38 | 2021-12-17 | 2022-01-22 |

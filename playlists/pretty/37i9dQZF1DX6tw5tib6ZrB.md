@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Stormzy, DJ Khaled, Megan Thee Stallion and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,249 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,373 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 30 | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/track/0O4wHincVaptKiV2Rv7LhC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Sailor On The Moon \(feat\. IDK & KayCyy\)](https://open.spotify.com/album/35lqamVUzvMaT91dR2q36f) | 3:13 |
 | 31 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 32 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 |
-| 33 | [LOCATION 58](https://open.spotify.com/track/1bAmibDN20SFZWrAaHmDPJ) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [LOCATION 58](https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h) | 3:07 |
+| 33 | [Location 58](https://open.spotify.com/track/24Tr8EkduWD1T6lA2ubiRO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Location 58](https://open.spotify.com/album/3tYkRgiqgc6Tld3aRIvNsi) | 3:07 |
 | 34 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 |
 | 35 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 | 36 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
 | 50 | [Top Ten](https://open.spotify.com/track/66up8vDuQBeJF9w03S3UsG) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Owethu](https://open.spotify.com/artist/26onEbIE7wVmDSrMseL5pq), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [Holy Alpha](https://open.spotify.com/artist/2Yy2Im8JOCPaECv2OgLKNy) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 4:11 |
 
-Snapshot ID: `MTY2NjkwNDM0MCwwMDAwMDAwMGQwMDNmNTJjOWM5MGFlZjBkMTYxZjhkY2JjMjA5ZmRi`
+Snapshot ID: `MTY2NjkwNDM0MCwwMDAwMDAwMDU3ZmIyZjQxNjEyNjgzNGZmMzY5ZTY0NDQ1YWFiODZh`

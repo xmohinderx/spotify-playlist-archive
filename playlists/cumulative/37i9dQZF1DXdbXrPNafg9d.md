@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Montell Fish
 
-4,377 songs - 10 day 17 hr 13 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,378 songs - 10 day 17 hr 16 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2917,7 +2917,8 @@
 | [Picture Book](https://open.spotify.com/track/3goYNmDLv0HXUXyJ1XQX99) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Picture Book](https://open.spotify.com/album/1uNWkGs5yvLStN7PzCjPB1) | 2:52 | 2020-10-24 | 2020-12-04 |
 | [Picture of You](https://open.spotify.com/track/2vdI1NcClTNqaH1E8mEvgn) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Picture of You](https://open.spotify.com/album/396mqjz4yrShxMmGdT12S6) | 4:03 | 2020-07-24 | 2020-08-30 |
 | [Pictures](https://open.spotify.com/track/7cvElcxrvUMyYi5LS5rF5o) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Pictures](https://open.spotify.com/album/18CLAx0OMzkMDXpd3osLod) | 3:16 | 2022-07-01 | 2022-08-13 |
-| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 |  |
+| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 | 2022-10-31 |
+| [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-14 |  |
 | [PIE](https://open.spotify.com/track/0KcTD05hia7B7ZfzjFRndQ) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [PIE](https://open.spotify.com/album/22fp7i3KzHaVtiEX0IkqKB) | 2:56 | 2021-10-02 | 2021-11-20 |
 | [Piece Of My Mind](https://open.spotify.com/track/39IO8ecvUkYbbgtP9Q8CxU) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Piece Of My Mind](https://open.spotify.com/album/3SXpSwAS8NCHsPBU2IKAkC) | 3:20 | 2021-09-04 | 2021-10-16 |
 | [Pigeon](https://open.spotify.com/track/4VxBenJrB6VLIfp4eoCajo) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 2:38 | 2019-05-26\* | 2019-06-21 |

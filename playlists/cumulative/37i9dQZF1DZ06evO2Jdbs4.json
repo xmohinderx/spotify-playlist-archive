@@ -260,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Para Que Baile Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Tr7cW0agoF7qAzHnAYa8b"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Dif\u00edcil Es",
+      "url": "https://open.spotify.com/track/63SeaRiwlp1AwDi1hKPejK"
+    },
+    {
+      "album": {
         "name": "Llegaste A Mi Vida",
         "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
       },
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 208000,
       "name": "Para Que Baile Mi Pueblo",
       "url": "https://open.spotify.com/track/5vtiBtPEyV3id3UhEMWRRW"
@@ -849,6 +867,28 @@
       "duration_ms": 182960,
       "name": "Permaneces en M\u00ed",
       "url": "https://open.spotify.com/track/4p5UDTUZXr7T8ctt1X1zg0"
+    },
+    {
+      "album": {
+        "name": "Que Voy A Hacer",
+        "url": "https://open.spotify.com/album/2ZRarP86dR9OrYDNjiflEL"
+      },
+      "artists": [
+        {
+          "name": "Elida Reyna Y Avante",
+          "url": "https://open.spotify.com/artist/6FgcIpZBpVNOXHniQX9Oml"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201374,
+      "name": "Que Voy A Hacer",
+      "url": "https://open.spotify.com/track/0HD0RNHrLyM1yKJaWkR56R"
     },
     {
       "album": {
@@ -1255,7 +1295,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 303533,
       "name": "Viviras Selena",
       "url": "https://open.spotify.com/track/2pXb4Rtjt4RfmdlxqUYCdG"

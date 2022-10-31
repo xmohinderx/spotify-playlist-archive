@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-95 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/04LUwGShR4OdBbtoV9xRij)
+96 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/04LUwGShR4OdBbtoV9xRij)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby This Your Body Na Gòbe Fine Fine Sweet Òkpéke](https://open.spotify.com/track/5SyomyWqCVD0UrdEh2IhN9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:49 | 2021-12-28 | 2022-10-13 |
 | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh) | 3:24 | 2021-12-28 |  |
 | [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2021-12-28 |  |
+| [Balance It \(Remix\)](https://open.spotify.com/track/3ImDVrkj2jO7QjR2Xw86w3) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Balance It \(Remix\)](https://open.spotify.com/album/1QUOtrtXpyLwLEqshG8b6m) | 2:53 | 2022-10-30 |  |
 | [Bankulize](https://open.spotify.com/track/1AjWF97CgrlnVDmhgkl5Kl) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bankulize](https://open.spotify.com/album/5t6hZkumZCUBccDrCXww8W) | 4:08 | 2022-01-01 | 2022-05-12 |
 | [Breakup Riddim](https://open.spotify.com/track/6eQJlOBTVunZYc0DvVj1H0) | [DJ Aroma](https://open.spotify.com/artist/6JAmITwWmfcxmfTMRw1Qtq), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Nhlanhla Nciza](https://open.spotify.com/artist/5RWkCVS7J5JkzumQrh7uBd) | [Breakup Riddim](https://open.spotify.com/album/4jgEls0nOqJJdC2WepmEdf) | 3:24 | 2021-12-28 |  |
 | [Cake](https://open.spotify.com/track/2qYWZcBmUQDDwMHnfNIXC4) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colour](https://open.spotify.com/album/6DZAEmjvBrJq0a8sVHbf28) | 2:31 | 2021-12-31 | 2022-10-13 |
@@ -102,6 +103,6 @@
 | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/track/46B65q1LbqKB9ikpuGMI6D) | [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Too Bad Bad \(feat\. Mr Eazi\)](https://open.spotify.com/album/5vZve4QjlsMH4YGVRAT9GO) | 3:06 | 2021-12-28 |  |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-10 |  |
 | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/track/7xJLMJPvaHH4daMFmySAtd) | [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Whatever You Like \(feat\. Aida Lae\)](https://open.spotify.com/album/19rxMCwjmwPQ4espwyH3Kr) | 3:20 | 2022-01-30 | 2022-07-14 |
-| [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 |  |
+| [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 | 2022-10-12 | 2022-10-31 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 
 > Celebrando el Festival de Avándaro, hito del rock mexicano\. ¡Paz y amor! Portada: Los Dug Dug's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,123 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7TZic46Z9vh.md) - [plain]
 | 46 | [Mi Mami Dijo](https://open.spotify.com/track/6SqepgrJ8ThiNLmZZW0IcT) | [Los Monjes](https://open.spotify.com/artist/6PjH1bMbi3GPcgur2egQMO) | [Pebbles Vol\. 12, Mexico Pt\. 1, Originals Artifacts From The Psychedelic Era](https://open.spotify.com/album/4KLAjeofXYCHrB1s3tDZDy) | 2:05 |
 | 47 | [Nada Nos Detendrá](https://open.spotify.com/track/6bpu24bVKDCEyFHdpcNEMA) | [Grupo Ciruela](https://open.spotify.com/artist/1xPdPBhKemqYuJUlaLTR9S) | [Regreso al Origen](https://open.spotify.com/album/54FzvnC07SZN2QpZ1yF0Jn) | 3:12 |
 | 48 | [Río Amarillo](https://open.spotify.com/track/0f3QYppJ7zuqD9S20ppCuW) | [Los Chijuas](https://open.spotify.com/artist/5nWkamOwLJmb4TReNqnCEp) | [Siempre Fuimos Compañeros](https://open.spotify.com/album/6iT06U9WKRU1wCh3whCgvI) | 2:37 |
-| 49 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
-| 50 | [Todo Va a Cambiar](https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z) | [Tinta Blanca](https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 5:48 |
+| 49 | [Todo Va a Cambiar](https://open.spotify.com/track/5HDGih43ec6WSYusNEK20z) | [Tinta Blanca](https://open.spotify.com/artist/7hTAxPi8RHeCyx9fZImNpF) | [Super Onda Chicana](https://open.spotify.com/album/3Mg8dzenMcNgMFqzsu1D5L) | 5:48 |
+| 50 | [Tal Vez](https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC) | [The Love Army](https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:49 |
 
-Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDE3OTQzZDg1NjhlN2YzMDhhZjk2NGRiNjhjYzc1OGMz`
+Snapshot ID: `MTY0MDM1MzE2NSwwMDAwMDAwMDIwYzA1M2MyZmZhN2EwMTYyMmNiYTY5ZmQ0MjhlOTMx`

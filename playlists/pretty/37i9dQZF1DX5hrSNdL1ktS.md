@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Big Soto, Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,175 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,174 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 18 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 19 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
 | 20 | [Me Dolió](https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN) | [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2) | 2:43 |
-| 21 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
-| 22 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
+| 21 | [INESTABLE](https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551) | [INESTABLE](https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP) | 2:28 |
+| 22 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 23 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 |
 | 24 | [LA PUERTA](https://open.spotify.com/track/1C7dlhgx28pHMjCMfiiZun) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [LA PUERTA](https://open.spotify.com/album/08UiEXyBQY3dDgdfieN0mj) | 3:03 |
 | 25 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 42 | [Pa' Siempre](https://open.spotify.com/track/5vfTt52xIBWcTvYLYmcWuz) | [Daniel Vargas](https://open.spotify.com/artist/5HQUcb8L2YyV1NHeT0lFF5) | [Pa' Siempre](https://open.spotify.com/album/5IFJYKAOgcxrzAA4VPbmrM) | 2:19 |
 | 43 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
 | 44 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
-| 45 | [Última Cena](https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [Última Cena](https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6) | 2:45 |
+| 45 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
 | 46 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
-| 47 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
+| 47 | [Última Cena](https://open.spotify.com/track/1ixVBBjUHoXTZIiBNTsq3C) | [Bernalú](https://open.spotify.com/artist/5THpiJQuKXyi5lmMYIlzay) | [Última Cena](https://open.spotify.com/album/0W1PJOeAVyvlXNfarlgzw6) | 2:45 |
 | 48 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 | 49 | [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 |
 | 50 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 54 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
 | 55 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 |
 
-Snapshot ID: `MTY2NDQ5NDI5NywwMDAwMDAwMDJiOTk3ZDc4M2U1ZjEyYzdlMzk5MjM2MDVlM2U5NjU3`
+Snapshot ID: `MTY2NDQ5NDI5NywwMDAwMDAwMDFhMDk2ZTViN2Q0MzlkOGEyOTdhZWYxZTViNDJhOGUx`

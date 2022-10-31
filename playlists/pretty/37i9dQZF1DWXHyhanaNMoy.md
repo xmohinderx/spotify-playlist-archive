@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Broederliefde check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,375 likes - 71 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,400 likes - 71 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stunten](https://open.spotify.com/track/6n4LMiU6CQu8NuGeuhBwwa) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:26 |
 | 2 | [XXX](https://open.spotify.com/track/188lK7l7SN2LhEj6NE46af) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [XXX](https://open.spotify.com/album/1zDxfWStcuzQ61UWZ6qJrX) | 1:52 |
-| 3 | [Rapido](https://open.spotify.com/track/2NgVf7sILlYybdPOLULlH9) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Rapido](https://open.spotify.com/album/38VNtMuOH3GT7ohjqgmUHJ) | 3:21 |
+| 3 | [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 |
 | 4 | [Meteoriet](https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Klop Klop](https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o) | 2:47 |
 | 5 | [Wat Het Is](https://open.spotify.com/track/3PAPCLyMceCymHkAUbrDMi) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Wat Het Is](https://open.spotify.com/album/4avor6SsbPKVaxlq9JKset) | 2:39 |
 | 6 | [ROTTERDAM](https://open.spotify.com/track/0B8MBm2nIOQsr3FB794myZ) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Alex Sargo](https://open.spotify.com/artist/2rzmi9GgvLsfDZwMLRkNEG) | [ROTTERDAM](https://open.spotify.com/album/4IQH9PWZ3lTQzJxxm6hqzU) | 2:40 |
-| 7 | [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 |
+| 7 | [Déjà Vu](https://open.spotify.com/track/0MoVSGtczr71BiUMaAGLdu) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Déjà Vu](https://open.spotify.com/album/70TkeQlSOxAjMRGpYCNJc8) | 3:20 |
 | 8 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 |
 | 9 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 |
-| 10 | [Déjà Vu](https://open.spotify.com/track/0MoVSGtczr71BiUMaAGLdu) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Déjà Vu](https://open.spotify.com/album/70TkeQlSOxAjMRGpYCNJc8) | 3:20 |
-| 11 | [Laat Dat](https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Fastah Selectah](https://open.spotify.com/artist/1IB58gi0dQAvYcHoFuqwXT) | [Laat Dat](https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU) | 2:21 |
+| 10 | [Laat Dat](https://open.spotify.com/track/5TfEEbuUmYKpDWgb5he6RD) | [Flori del Pino](https://open.spotify.com/artist/1OsGGctJwvyAI3zB2MAU8V), [Fastah Selectah](https://open.spotify.com/artist/1IB58gi0dQAvYcHoFuqwXT) | [Laat Dat](https://open.spotify.com/album/52crv8PIm3sJmJtqFOXkLU) | 2:21 |
+| 11 | [Rapido](https://open.spotify.com/track/2NgVf7sILlYybdPOLULlH9) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Rapido](https://open.spotify.com/album/38VNtMuOH3GT7ohjqgmUHJ) | 3:21 |
 | 12 | [Soweto](https://open.spotify.com/track/6RbOyNeajWax51NtpO6WT8) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/12iai3p96UYvcrDqlvvKFE) | 2:28 |
 | 13 | [Vliegtuigmodus \(feat\. Bartofso\)](https://open.spotify.com/track/5X9N2rNF5D2WW7mzBVAweh) | [Luca Gilliot](https://open.spotify.com/artist/2yXByKs124lfzMflFjmfus), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Vliegtuigmodus \(feat\. Bartofso\)](https://open.spotify.com/album/0AvQPUtK5VITy1EbnImX0h) | 2:58 |
 | 14 | [Carolina](https://open.spotify.com/track/1IxDjSx4nasfoO539Iemie) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Carolina](https://open.spotify.com/album/0NDDauT2FX7ZWUoFXqb1Vq) | 2:46 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 70 | [No No No](https://open.spotify.com/track/6m7iJFdgcvd200qJtSa8Wx) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [No No No](https://open.spotify.com/album/2RLByuKYaFE5awZkpjK03m) | 2:35 |
 | 71 | [No Time](https://open.spotify.com/track/3LDGbBBS3Pg9NIBIz531Zr) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl), [Cané](https://open.spotify.com/artist/5fCEdL4vmhOgT1d4wNmfSZ) | [No Time](https://open.spotify.com/album/0p2QHdJOsDXWzzbTsaZDhR) | 3:18 |
 
-Snapshot ID: `MTY2Njk0MjA2NywwMDAwMDAwMGQ4NTkzODcyOWYyYmY5ZWYxM2ExOTdiZjViMzJhNjRk`
+Snapshot ID: `MTY2NzEzNDA4OCwwMDAwMDAwMDhmZjAzMDMwOGJjZDViZGFhNjg5ZjExYWJhMjQwNTA4`

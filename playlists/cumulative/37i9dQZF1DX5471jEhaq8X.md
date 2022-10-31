@@ -4,7 +4,7 @@
 
 > Sólo corridos \- lo nuevo y lo mejor del año\. Cover: Marca Registrada, Luis R Conriquez
 
-316 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
+317 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/6mIhFs7U6KoLfn5GxVWgA4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [El Bélico](https://open.spotify.com/track/3Aa53BCQxLcCQ5wscC0KuC) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Bélico](https://open.spotify.com/album/6Hz8mrb4AKtpcprrNEcaBc) | 2:47 | 2022-05-13 | 2022-10-08 |
 | [El Calorcito \(En Vivo\)](https://open.spotify.com/track/4htlay50ggoEUbctmllJs9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ) | [El Calorcito \(En Vivo\)](https://open.spotify.com/album/1Xvm21HcyuFwCEyunMgEA3) | 2:54 | 2022-08-26 |  |
 | [El Canelo](https://open.spotify.com/track/6QS5NH5nsU6WT5rOc2HMSp) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Emmanuel Delgado](https://open.spotify.com/artist/0DdtXiP9thBdEr62EwYYOy) | [El Canelo](https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU) | 2:38 | 2022-09-23 |  |
-| [El Capitán](https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [El Capitán](https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj) | 3:05 | 2022-07-22 |  |
+| [El Capitán](https://open.spotify.com/track/65wr2H4YXdNbgYWuprFicA) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [El Capitán](https://open.spotify.com/album/4xBSMVWrg3hQoDrGYbtiuj) | 3:05 | 2022-07-22 | 2022-10-31 |
 | [El Carretero](https://open.spotify.com/track/04SyxJdn2G3uXfs6zEnSsS) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [El Carretero](https://open.spotify.com/album/6AKNtZh3IuoVGpRxoLBgGE) | 2:23 | 2022-09-23 | 2022-10-08 |
 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 | 2022-05-13 |  |
 | [El Chaman](https://open.spotify.com/track/3yE8qL9HNfyzAbpqoMnUr8) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [El Padrinito Toys](https://open.spotify.com/artist/19I7n3fJWbecNWpRUSuIjf) | [El Chaman](https://open.spotify.com/album/0dKlcXtiUXnQK7BZH7UIfE) | 4:41 | 2022-05-13 |  |
@@ -94,6 +94,7 @@
 | [El Doble R \- En Vivo](https://open.spotify.com/track/2WeNqWQXNq8gXhiSPvH0yZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Doble R \(En Vivo\)](https://open.spotify.com/album/7pf3JcYWMmFGYNC8sCqmdv) | 2:24 | 2022-09-09 |  |
 | [El Elotero](https://open.spotify.com/track/09BwZJMN17PDjpxBnijjyt) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sera El Sereno](https://open.spotify.com/album/0eDXG5ZGSYinyo2f91s48L) | 2:23 | 2022-06-03 | 2022-08-27 |
 | [El Empresario](https://open.spotify.com/track/50475dQbOPSa8CpLi8UIfe) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [El Empresario](https://open.spotify.com/album/4igdrkDmBw03UUw6TmOLly) | 3:40 | 2022-07-22 | 2022-09-28 |
+| [El Empresario](https://open.spotify.com/track/2tgQoTZ78nudDv6PUt3Tf5) | [Elegante Efecto](https://open.spotify.com/artist/3Ey3QwKbYCQTyGbQndIuLG) | [El Empresario](https://open.spotify.com/album/0gvJmNiT7rIKcqWN0F2bTR) | 3:40 | 2022-10-14 |  |
 | [El Equipo Flechas](https://open.spotify.com/track/33iRxk83QfuuTnNQjg8RCb) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [El Equipo Flechas](https://open.spotify.com/album/1rND1g28wuDOTZHasw1HyL) | 2:01 | 2022-07-22 |  |
 | [El Escudo Del Chavo \- En Vivo](https://open.spotify.com/track/1rOEpXXJ2owwhJCEKg4vCD) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Escudo Del Chavo \(En Vivo\)](https://open.spotify.com/album/6CWLYSGhQZPoeZ1HVmpLSh) | 2:55 | 2022-05-13 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-05-13 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Kodak Black, Polo G and Juice WRLD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,741,448 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,743,707 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 3 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
 | 4 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 |
 | 5 | [300 Blackout](https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:46 |
-| 6 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 |
-| 7 | [bank account \(with Lil Uzi Vert\)](https://open.spotify.com/track/5BvfdAtqZXGbR3Ub1Bejb6) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:34 |
+| 6 | [bank account \(with Lil Uzi Vert\)](https://open.spotify.com/track/5BvfdAtqZXGbR3Ub1Bejb6) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:34 |
+| 7 | [Bag Talk](https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bag Talk](https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5) | 2:27 |
 | 8 | [G Nikes \(feat\. Polo G\)](https://open.spotify.com/track/7asQMsxC6dNgY0inCzJC5O) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/4LDKeMhuzPUzekNfeWrzRl) | 3:14 |
 | 9 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 |
 | 10 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 14 | [Walk](https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Walk/Spin](https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT) | 2:46 |
 | 15 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
 | 16 | [Similar](https://open.spotify.com/track/46GyY53xkfMRYTqZAQ33ne) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Blackout](https://open.spotify.com/album/0gBApcXn5P14zuoBj27Uxd) | 1:52 |
-| 17 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
-| 18 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 |
+| 17 | [BET](https://open.spotify.com/track/3TJTvFCoVZaWWTRuaIPkMl) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BET](https://open.spotify.com/album/3LSep2wdPolkSYoB1QB7IV) | 2:34 |
+| 18 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
 | 19 | [highway 95](https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 1:31 |
 | 20 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 |
 | 21 | [Aston Martin Truck](https://open.spotify.com/track/1KaRuTOGchQyTnrY3vWzfR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Aston Martin Truck](https://open.spotify.com/album/4Uv7QjKaAq1mFO7aYzk4Xc) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Put The Minks Down \(feat\. 42 Dugg\)](https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 1:56 |
 | 50 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 
-Snapshot ID: `MTY2NzA5MTU1MCwwMDAwMDAwMDgyMTA0YTRmODc0MTNhN2NiN2U1ZDAzOWRjYmEwODJk`
+Snapshot ID: `MTY2NzE3MDU3MCwwMDAwMDAwMGNjOTllMzIyZTA3ZDI1OTJmNzEyODcwOTNkYTIwZDg2`

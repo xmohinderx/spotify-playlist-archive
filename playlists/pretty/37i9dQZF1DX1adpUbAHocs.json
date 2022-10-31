@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 648079,
+  "num_followers": 648202,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDUxNjA5OTY1MzEwM2NlZDhiN2EwNTJmYzI2ZDQzNTY3",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDgxNzYwYzlkNWU4MjBlYjlhZmQ0YTJmMmZhM2FhNzA0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -355,6 +339,22 @@
       "duration_ms": 202047,
       "name": "anything",
       "url": "https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Right Down the Line",
-        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
-      },
-      "artists": [
-        {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
-        }
-      ],
-      "duration_ms": 267962,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Lianne La Havas",
         "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 190560,
       "name": "Can't Fight",
       "url": "https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Right Down the Line",
+        "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 267962,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 205600,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE"
+      "duration_ms": 238893,
+      "name": "Shark Smile",
+      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Shark Smile",
-      "url": "https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz"
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
-      },
-      "artists": [
-        {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Everything I had",
-      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Emitt Rhodes Recordings (1969-1973)",
         "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+      },
+      "artists": [
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Everything I had",
+      "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Lost Track",
-        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Lost Track",
-      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Reunions",
         "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 224034,
       "name": "Dreamsicle",
       "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Lost Track",
+        "url": "https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Lost Track",
+      "url": "https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Big Red Machine",
+        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "I Won't Run From It",
+      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Big Red Machine",
-        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "I Won't Run From It",
-      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "quite early one morning",
         "url": "https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 135124,
       "name": "didn't you believe in me?",
       "url": "https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Love Is The King",
-        "url": "https://open.spotify.com/album/3cuftKYEWJF8MT8sqAv6ov"
-      },
-      "artists": [
-        {
-          "name": "Jeff Tweedy",
-          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
-        }
-      ],
-      "duration_ms": 197386,
-      "name": "Guess Again",
-      "url": "https://open.spotify.com/track/2pukZsB3JTI1QVJe2aSsfn"
     }
   ],
   "unique_name": "Scenic Route",

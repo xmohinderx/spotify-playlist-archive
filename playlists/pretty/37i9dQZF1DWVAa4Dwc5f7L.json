@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Limi-T 21",
-  "num_followers": 372249,
+  "num_followers": 372308,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDdkZTViMWU0MzdiNjdkZWY1NDA1ZTZhNWEwMmFkYjgx",
+  "snapshot_id": "MTY2MjY5NjAwMCwwMDAwMDAwMDQ5YTgzNThmNDMyMDczYmUxNjI0OTVmZWE3ZTNkNzc1",
   "tracks": [
     {
       "added_at": "2022-09-09 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "El Africano",
-      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 235833,
       "name": "Buscando Tus Besos",
       "url": "https://open.spotify.com/track/5hCfmqE3kJrIIA4bacK7gx"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "El Africano",
+      "url": "https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "100% Merengue",
-        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Mundialmente Sabrosos",
         "url": "https://open.spotify.com/album/3aGmmQS34YIRNjNPf27r39"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 261355,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/0ejCXxg1xLNengD587zpAe"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Los Hijos Del Rey",
+        "url": "https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 306442,
+      "name": "La Quiero a Morir",
+      "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "100% Merengue",
+        "url": "https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/31usVfDz8LKV0J0iZtgsA7"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -839,18 +855,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Los Hijos Del Rey",
-        "url": "https://open.spotify.com/album/014dlhTlNSo8mOUN4IwWal"
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
       },
       "artists": [
         {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
         }
       ],
-      "duration_ms": 306442,
-      "name": "La Quiero a Morir",
-      "url": "https://open.spotify.com/track/66cquyyzQVJr3XFTokrHxl"
+      "duration_ms": 267733,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -919,22 +935,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Internacional",
-        "url": "https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3"
-      },
-      "artists": [
-        {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
-        }
-      ],
-      "duration_ms": 267733,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Sac\u00fadelo Que Tiene Arena",
         "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
       },
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+        "name": "Los A\u00f1os Dorados",
+        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
       },
       "artists": [
         {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 318306,
-      "name": "El Cantinero",
-      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
+      "duration_ms": 259186,
+      "name": "El Comejen",
+      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 318306,
+      "name": "El Cantinero",
+      "url": "https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Los Conquistadores (25 Aniversario)",
         "url": "https://open.spotify.com/album/1H9z9VtLrkYV93Ce01n0e5"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 210026,
       "name": "Tocaito",
       "url": "https://open.spotify.com/track/5qNzGAfH6QvJvsCGfoX7sQ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Los A\u00f1os Dorados",
-        "url": "https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "El Comejen",
-      "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1063,50 +1063,18 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "O.K. All Right",
-        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+        "name": "Coleccion Diamante",
+        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
       },
       "artists": [
         {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 272533,
-      "name": "El Moreno Esta",
-      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "La Tristeza \u00a1Pa' Fuera!",
-        "url": "https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 191920,
-      "name": "La Tristeza \u00a1Pa' Fuera!",
-      "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
-      },
-      "artists": [
-        {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "El Virao",
-      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
+      "duration_ms": 255080,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1127,18 +1095,50 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+        "name": "La Tristeza \u00a1Pa' Fuera!",
+        "url": "https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
         }
       ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+      "duration_ms": 191920,
+      "name": "La Tristeza \u00a1Pa' Fuera!",
+      "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "O.K. All Right",
+        "url": "https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "El Moreno Esta",
+      "url": "https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+      },
+      "artists": [
+        {
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "El Virao",
+      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "Tiempo De Amor",
         "url": "https://open.spotify.com/album/5Yz848lWMbB3KGHAV3Xm2S"
       },
@@ -1171,6 +1187,22 @@
       "duration_ms": 267626,
       "name": "Que Te Has Creido",
       "url": "https://open.spotify.com/track/4XwGVwmeO6lm73FFmH95Da"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "15to Aniversario",
+        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
+      },
+      "artists": [
+        {
+          "name": "Jossie Esteban & La Patrulla 15",
+          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
+        }
+      ],
+      "duration_ms": 310933,
+      "name": "El Meneito",
+      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1191,22 +1223,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Coleccion Diamante",
-        "url": "https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 255080,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "In Da House",
         "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 69066,
       "name": "Proyecto Uno Is In Da House",
       "url": "https://open.spotify.com/track/3h0jixWWiYZzUKrYPFSmYu"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "15to Aniversario",
-        "url": "https://open.spotify.com/album/77OMtbmR2f7T36bnQBODj7"
-      },
-      "artists": [
-        {
-          "name": "Jossie Esteban & La Patrulla 15",
-          "url": "https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "El Meneito",
-      "url": "https://open.spotify.com/track/6EmzuUK6J0ahWToWpYzCqL"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
+        "name": "Otra Vez!",
+        "url": "https://open.spotify.com/album/2UCARkxqu19TRYTjPpaRNY"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 232266,
+      "name": "Mi Tonto Amor",
+      "url": "https://open.spotify.com/track/2wq7x0o3HiZGuGXr7jZ9If"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
         "name": "La Historia",
         "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Otra Vez!",
-        "url": "https://open.spotify.com/album/2UCARkxqu19TRYTjPpaRNY"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 232266,
-      "name": "Mi Tonto Amor",
-      "url": "https://open.spotify.com/track/2wq7x0o3HiZGuGXr7jZ9If"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "Fuera de Serie",
-        "url": "https://open.spotify.com/album/29B8jyk5wcTxQBC2HIKeIR"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/5HBkbQ99IuQgCaxgyEZeYZ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/6yq4tvlzSBaHvdsb8dPg2X"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Fuera de Serie",
+        "url": "https://open.spotify.com/album/29B8jyk5wcTxQBC2HIKeIR"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/5HBkbQ99IuQgCaxgyEZeYZ"
     },
     {
       "added_at": "2022-09-09 04:00:00",

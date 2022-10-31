@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 42604,
+  "num_followers": 42629,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDMzYWUyYzEzNzlmOWU1ZWI4YzQ5ZDQxMjRmNGYxMWZi",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGJmZTY1ODEwODc4YzcyZTMyZTRiZmFhOTA4MmRkMjkw",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Goia\u0302nia",
         "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 180860,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
-      },
-      "artists": [
-        {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
-        }
-      ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+        "name": "Flight to Paradise",
+        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
       },
       "artists": [
         {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+          "name": "Novamenco",
+          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
         }
       ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+      "duration_ms": 256399,
+      "name": "Mood for Love",
+      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -707,22 +707,6 @@
       "duration_ms": 168432,
       "name": "Ibiza Sunset",
       "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Flight to Paradise",
-        "url": "https://open.spotify.com/album/52a8scYr8ByP5r3SpiYG2x"
-      },
-      "artists": [
-        {
-          "name": "Novamenco",
-          "url": "https://open.spotify.com/artist/4N2QllXhimLb0W5N3bBeWp"
-        }
-      ],
-      "duration_ms": 256399,
-      "name": "Mood for Love",
-      "url": "https://open.spotify.com/track/1JoH5JKZeScA94G4wX8E9P"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Querencia",
         "url": "https://open.spotify.com/album/67mxe3mnxhw7YrOqMnNczL"
       },
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Siena",
-        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
-      },
-      "artists": [
-        {
-          "name": "Marcus Larsen",
-          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
-        }
-      ],
-      "duration_ms": 131209,
-      "name": "Siena",
-      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 304600,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Siena",
+        "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Larsen",
+          "url": "https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX"
+        }
+      ],
+      "duration_ms": 131209,
+      "name": "Siena",
+      "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Parque De Mar\u00eda Luisa",
+        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
+      },
+      "artists": [
+        {
+          "name": "Rafael Riqueni",
+          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
+        }
+      ],
+      "duration_ms": 274310,
+      "name": "Monte Gurug\u00fa",
+      "url": "https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "M\u00fasica De Espa\u00f1a",
         "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
       },
@@ -895,6 +911,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+      },
+      "artists": [
+        {
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+        }
+      ],
+      "duration_ms": 152663,
+      "name": "Me Estas Haciendo Falta",
+      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Ni\u00f1o Josele",
         "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
       },
@@ -920,25 +952,9 @@
           "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
         }
       ],
-      "duration_ms": 274310,
-      "name": "Monte Gurug\u00fa",
-      "url": "https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
+      "duration_ms": 134578,
+      "name": "Tiempos Pasados",
+      "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 121814,
       "name": "Just Feeling Great",
       "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Parque De Mar\u00eda Luisa",
-        "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
-      },
-      "artists": [
-        {
-          "name": "Rafael Riqueni",
-          "url": "https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4"
-        }
-      ],
-      "duration_ms": 134578,
-      "name": "Tiempos Pasados",
-      "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
+      },
+      "artists": [
+        {
+          "name": "Ronny Davis",
+          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
+        }
+      ],
+      "duration_ms": 178515,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Sones y Danzones de Buena Madera",
         "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/7cvP0H7wJAX4j4WgB7eE4h"
-      },
-      "artists": [
-        {
-          "name": "Ronny Davis",
-          "url": "https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt"
-        }
-      ],
-      "duration_ms": 178515,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/79ufiBihx4SbCFVOQwhQwo"
     },
     {
       "added_at": "2022-10-27 22:01:00",

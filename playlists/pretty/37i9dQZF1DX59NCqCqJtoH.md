@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,727 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 981,172 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 61 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 |
 | 62 | [Only Ones Who Know](https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:01 |
 | 63 | [Home for the Summer](https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Home for the Summer](https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX) | 2:35 |
-| 64 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
-| 65 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 64 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 65 | [Close to Me](https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Forever](https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up) | 3:31 |
 | 66 | [I Need U](https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:22 |
 | 67 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 68 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 75 | [What If I Told You That I Love You](https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M) | 3:13 |
 | 76 | [Idea of Her](https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Man’s Best Friend](https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt) | 2:48 |
 | 77 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
-| 78 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
-| 79 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
+| 78 | [ALLERGIC](https://open.spotify.com/track/6DP8InyxdyYChHb2tcV6ia) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [ALLERGIC](https://open.spotify.com/album/2Ftd8lx8OfGra32bqFbu1f) | 2:35 |
+| 79 | [more](https://open.spotify.com/track/24Sqz5FNuD6D5Utxeg4DmK) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A) | 3:04 |
 | 80 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 |
 | 81 | [Sorry for Me](https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Sorry for Me](https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ) | 3:17 |
 | 82 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 84 | [Don't Leave, Don't Go](https://open.spotify.com/track/07nd9H2REZKIhVgp3n36YL) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Don't Leave, Don't Go / Bleed](https://open.spotify.com/album/1awanVhccvZ0L2WTMm9FfT) | 3:04 |
 | 85 | [I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [What's Wrong](https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse) | 3:34 |
 | 86 | [Jesus Christ](https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [The Devil And God Are Raging Inside Me](https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy) | 5:18 |
-| 87 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 |
-| 88 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
+| 87 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
+| 88 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 |
 | 89 | [Sick of Losing Soulmates](https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Sick of Losing Soulmates](https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2) | 4:27 |
 | 90 | [don't cry](https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [don't cry](https://open.spotify.com/album/1tVL6fR2ybpi6qt4vLx6Nq) | 2:18 |
 | 91 | [Baby](https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/3bKEeTVDEtHn9qxtDk0yJv) | 1:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 96 | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Mishaal](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Tell Me About You \(feat\. Mishaal\)](https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn) | 3:14 |
 | 97 | [Emerald Eyes](https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Songs I Wrote in My Bedroom](https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv) | 3:59 |
 | 98 | [i still think of you](https://open.spotify.com/track/7BrbGr8S8rjrnlGLqtfFwA) | [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Maberry](https://open.spotify.com/artist/4hogj0YFfrnp8n2XqnFwq9) | [i still think of you](https://open.spotify.com/album/2e4qElZ0PVhdiyUJ27M6Qx) | 2:05 |
-| 99 | [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 |
-| 100 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
+| 99 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 |
+| 100 | [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 |
 
-Snapshot ID: `MTY2Njc5NDQ4NCwwMDAwMDAwMGNlZmNlNjk3YzY4YTJmYmEwZGU4NTY4ZmQyY2E5Mjcz`
+Snapshot ID: `MTY2Njc5NDQ4NCwwMDAwMDAwMGFlYTkxM2ZlNTgxOWUyZmVkZjNkMWRkNmE3NzhmOGYx`

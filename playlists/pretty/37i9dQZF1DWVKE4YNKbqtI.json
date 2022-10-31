@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDkwMDM5NWEyNmMwNDIyNWQ2NmYxNWQxMzY0Mzg2ZTc1",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMGE0MWYyOWJkYjZiNDUyMDRhMTdlMjU5NTEzMzM1ZDAx",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Back Where I Belong",
-        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
-      },
-      "artists": [
-        {
-          "name": "Billy Boy Arnold",
-          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "I Wish You Would",
-      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Harpslinger",
         "url": "https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 184600,
       "name": "What My Mama Told Me",
       "url": "https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Back Where I Belong",
+        "url": "https://open.spotify.com/album/59auu3dHE34dRuCajZ2Kd2"
+      },
+      "artists": [
+        {
+          "name": "Billy Boy Arnold",
+          "url": "https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "I Wish You Would",
+      "url": "https://open.spotify.com/track/6YSJ7rgjRiO3glbDJrBZR3"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Roots And Branches - The Songs Of Little Walter",
-        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
-      },
-      "artists": [
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Shoulder To Shoulder",
         "url": "https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 202960,
       "name": "Ain't Seen My Baby",
       "url": "https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Roots And Branches - The Songs Of Little Walter",
+        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
+      },
+      "artists": [
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilson",
-          "url": "https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3"
-        }
-      ],
-      "duration_ms": 256906,
-      "name": "Don't Bite the Hand That Feeds You",
-      "url": "https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 362486,
       "name": "Jason Solo",
       "url": "https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilson",
+          "url": "https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3"
+        }
+      ],
+      "duration_ms": 256906,
+      "name": "Don't Bite the Hand That Feeds You",
+      "url": "https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Jazz Gillum Vol. 2 1938-1941",
-        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
-      },
-      "artists": [
-        {
-          "name": "Jazz Gillum",
-          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Jazz Gillum Vol. 2 1938-1941",
+        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
+      },
+      "artists": [
+        {
+          "name": "Jazz Gillum",
+          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "One Wrong Turn",
         "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 313680,
       "name": "Callin' All Fools",
       "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Live at the Cove",
-        "url": "https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF"
-      },
-      "artists": [
-        {
-          "name": "Harmonica Shah",
-          "url": "https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR"
-        }
-      ],
-      "duration_ms": 337246,
-      "name": "Who's the Fool",
-      "url": "https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -731,6 +715,22 @@
       "duration_ms": 319493,
       "name": "Pontiac Blues",
       "url": "https://open.spotify.com/track/7tmwXdsYe2tfm0HCNXQCNT"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Live at the Cove",
+        "url": "https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF"
+      },
+      "artists": [
+        {
+          "name": "Harmonica Shah",
+          "url": "https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR"
+        }
+      ],
+      "duration_ms": 337246,
+      "name": "Who's the Fool",
+      "url": "https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN"
-      },
-      "artists": [
-        {
-          "name": "Dennis Gruenling",
-          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Flash Forward",
         "url": "https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219560,
       "name": "Going Back To Alabama",
       "url": "https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN"
+      },
+      "artists": [
+        {
+          "name": "Dennis Gruenling",
+          "url": "https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir"
     },
     {
       "added_at": "2020-10-22 17:19:34",

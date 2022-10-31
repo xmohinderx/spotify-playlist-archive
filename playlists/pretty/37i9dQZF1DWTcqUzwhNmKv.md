@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Orbit Culture on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,318,284 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318,609 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 |
-| 2 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 |
+| 2 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
 | 3 | [Omens](https://open.spotify.com/track/1sA4cTWNcQMwzrqYG0hCci) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/5RxhsziRI0iPIkywazWTXO) | 3:47 |
 | 4 | [Sign Of Life](https://open.spotify.com/track/73QoCfWJJWbRYmm5nCH5Y2) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 3:40 |
 | 5 | [Welcome to the Chaos \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome to the Chaos](https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [The Body](https://open.spotify.com/track/0YbvjDVsEYEASJI8gS9UJ3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [The Body](https://open.spotify.com/album/0EvhA9EF2gjiTAdQyubBfP) | 3:51 |
 | 60 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 |
 
-Snapshot ID: `MTY2Njk0MDQwMCwwMDAwMDAwMGExYzYwNDFjMTU3MzY4OTYwMWY5Y2YxYjZjZjhiN2I4`
+Snapshot ID: `MTY2Njk0MDQwMCwwMDAwMDAwMDc2NTU4Mjk1YjM3YjMwYzI0NzE2M2Y1NTlhMTY4ZGI0`

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 825120,
+  "num_followers": 827349,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGE4ZmQ4MmI2NjhkMThmNTkyZGJlYmRjNjBiMzI5YmE2",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGU3N2I1OTIxMzg0ZGYxMDM4MzEyY2Y4OWJhZmM3MTYx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+      },
+      "artists": [
+        {
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+        }
+      ],
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+    },
+    {
+      "added_at": "2022-10-24 07:44:04",
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 196767,
       "name": "Into It",
       "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
-    },
-    {
-      "added_at": "2022-10-24 07:44:04",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
-      },
-      "artists": [
-        {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
-        }
-      ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
     },
     {
       "added_at": "2022-10-24 07:44:04",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
-        "name": "WFM",
-        "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WFM",
-      "url": "https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm"
-    },
-    {
-      "added_at": "2022-10-24 07:44:04",
-      "album": {
         "name": "Love Is a Bitch",
         "url": "https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s"
       },
@@ -1403,22 +1387,6 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 202536,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
-    },
-    {
-      "added_at": "2022-10-24 07:44:04",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -1431,6 +1399,22 @@
       "duration_ms": 257563,
       "name": "Knee Socks",
       "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
+    },
+    {
+      "added_at": "2022-10-24 07:44:04",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 202536,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6potEImiklXkwD9qFzpu15"
     },
     {
       "added_at": "2022-10-24 07:44:04",
@@ -1491,22 +1475,6 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2022-10-24 07:44:04",
-      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
       },
@@ -1519,6 +1487,22 @@
       "duration_ms": 212992,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
+    },
+    {
+      "added_at": "2022-10-24 07:44:04",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2022-10-24 07:44:04",
@@ -1559,22 +1543,6 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
-        "name": "Morning Sex",
-        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Morning Sex",
-      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
-    },
-    {
-      "added_at": "2022-10-24 07:44:04",
-      "album": {
         "name": "There's Really A Wolf",
         "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
       },
@@ -1587,6 +1555,22 @@
       "duration_ms": 237506,
       "name": "Losin Control",
       "url": "https://open.spotify.com/track/4cxMGhkinTocPSVVKWIw0d"
+    },
+    {
+      "added_at": "2022-10-24 07:44:04",
+      "album": {
+        "name": "Morning Sex",
+        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Morning Sex",
+      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
     },
     {
       "added_at": "2022-10-24 07:44:04",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+    },
+    {
+      "added_at": "2022-10-24 07:44:04",
+      "album": {
         "name": "Dead Man Walking",
         "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2022-10-24 07:44:04",
       "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9"
+        "name": "digital druglord",
+        "url": "https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
         }
       ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0"
+      "duration_ms": 212027,
+      "name": "do re mi",
+      "url": "https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh"
     }
   ],
   "unique_name": "goosebumps",

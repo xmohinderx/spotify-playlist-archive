@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 542729,
+  "num_followers": 542888,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMGY0ZmQ2YmUwM2NjNGUxZmE2MzRkNDg2YjM5OGNlZjYw",
+  "snapshot_id": "MTU5ODQ4NjI2MiwwMDAwMDAwMGQyZjNhYzMwNGRlY2IxYTZjOGRjNTU4YmUyYzU3YzVm",
   "tracks": [
     {
       "added_at": "2020-08-26 23:57:42",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -199,22 +199,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 335906,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -439,18 +439,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Double Take - Chris Tomlin",
-        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+        "name": "Waymaker (Radio Version)",
+        "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Vanessa Campagna",
+          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
         }
       ],
-      "duration_ms": 267066,
-      "name": "Amazing Grace (My Chains Are Gone)",
-      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+      "duration_ms": 242107,
+      "name": "Waymaker - Radio Version",
+      "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -475,22 +479,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Waymaker (Radio Version)",
-        "url": "https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk"
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
       },
       "artists": [
         {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        },
-        {
-          "name": "Vanessa Campagna",
-          "url": "https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 242107,
-      "name": "Waymaker - Radio Version",
-      "url": "https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy"
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -615,26 +615,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Death Was Arrested (feat. Seth Condrey)",
-        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
-      },
-      "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
-        {
-          "name": "Seth Condrey",
-          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "Death Was Arrested (feat. Seth Condrey)",
-      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "All The Earth (Live)",
         "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 486944,
       "name": "Peace Be Still - Live",
       "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
+        "name": "Love Remains",
+        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+      },
+      "artists": [
+        {
+          "name": "Hillary Scott & The Scott Family",
+          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Thy Will",
+      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Love Remains",
-        "url": "https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ"
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
       "artists": [
         {
-          "name": "Hillary Scott & The Scott Family",
-          "url": "https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR"
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Thy Will",
-      "url": "https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x"
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1003,22 +1019,6 @@
       "duration_ms": 341080,
       "name": "What A Beautiful Name - Live",
       "url": "https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Even Then",
-      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Mercy Is A Song",
-      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
-    },
-    {
-      "added_at": "2020-08-26 23:57:42",
-      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+    },
+    {
+      "added_at": "2020-08-26 23:57:42",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Mercy Is A Song",
+      "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
     },
     {
       "added_at": "2020-08-26 23:57:42",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2020-08-26 23:57:42",
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Brett Younker",
-          "url": "https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 459466,
-      "name": "Build My Life - Live",
-      "url": "https://open.spotify.com/track/34plEFbj6nBMG7esY9rzim"
+      "duration_ms": 217655,
+      "name": "Hope in Front of Me",
+      "url": "https://open.spotify.com/track/2t8NsMho4AegF1wMGxvgj5"
     }
   ],
   "unique_name": "Everyday Inspiration",

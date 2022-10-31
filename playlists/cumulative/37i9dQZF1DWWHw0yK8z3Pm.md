@@ -4,7 +4,7 @@
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-200 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
+201 songs - 12 hr 33 min - [published](https://open.spotify.com/playlist/5h0SoEEkn4gAx7xRIlcPhO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Better's on the Way](https://open.spotify.com/track/5JDN1OhtRYLQ9IQMROclyg) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Downtown EP](https://open.spotify.com/album/1xOBVAMeKnnMjPUga4n0eH) | 4:28 | 2022-07-29 |  |
 | [Big Winner](https://open.spotify.com/track/75YuTb8bJxKWvG2XoFUdiv) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Big Winner](https://open.spotify.com/album/2RqwUCA2scfelXCOSH29rt) | 3:53 | 2022-05-13 | 2022-06-28 |
 | [Blackjack County Chain](https://open.spotify.com/track/5LXa2KkGzasB6I66RG7Jay) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Blackjack County Chain](https://open.spotify.com/album/0Y4htv2b5SQzLBP9GBckhL) | 2:43 | 2022-07-15 |  |
-| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 |  |
+| [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 | 2022-10-28 |  |
+| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2022-10-31 |
 | [Borderline](https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Borderline](https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ) | 3:14 | 2022-05-13 |  |
 | [Bottleneck Boys](https://open.spotify.com/track/3elbooJK6sbSi5HRXm4SdK) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Bottleneck Boys](https://open.spotify.com/album/4A2wwsvPy5M14ZIbxdbnFW) | 3:29 | 2022-09-30 | 2022-10-29 |
 | [BRIGHTSIDE](https://open.spotify.com/track/55yQgka1wuEeSmrpW8NeG2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:49 | 2022-05-13 | 2022-08-06 |

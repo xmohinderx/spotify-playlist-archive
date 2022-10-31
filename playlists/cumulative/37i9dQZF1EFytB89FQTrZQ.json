@@ -1637,10 +1637,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 162801,
       "name": "Heart & Soul",
       "url": "https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2"
+    },
+    {
+      "album": {
+        "name": "Heart & Soul",
+        "url": "https://open.spotify.com/album/1AqhupWS7VVO5LaAve8qCO"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162801,
+      "name": "Heart & Soul",
+      "url": "https://open.spotify.com/track/6PvtIeDteCDh7JVDjzQ2vF"
     },
     {
       "album": {

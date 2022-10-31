@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,164 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,182 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 41 | [FEM](https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:22 |
 | 42 | [Activate](https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Activate](https://open.spotify.com/album/0u50DEuHzfYNHFRMPaM2H9) | 3:37 |
 | 43 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
-| 44 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 |
-| 45 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 |
+| 44 | [Assurance](https://open.spotify.com/track/5Vp6x6DnVjh2JDaC4It6ak) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Assurance](https://open.spotify.com/album/6huSyEs9vbA9Nfhs3tBFCX) | 4:09 |
+| 45 | [ALASKA \(feat\. Davido, Hell Raton & Shiva\)](https://open.spotify.com/track/7io8voeFCefZOJ9Vr5kEZr) | [BLOODY VINYL](https://open.spotify.com/artist/0VitAFMCI2apQxKzDjg1PU), [Slait](https://open.spotify.com/artist/2KXYAKQTxHuUHDtVgeGn6w), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [5019](https://open.spotify.com/artist/0bIICDFvg6PqEWaZsfvpCR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Hell Raton](https://open.spotify.com/artist/6g5SF1Yz63eoPUnJgRHfrz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [BV3](https://open.spotify.com/album/1maHuPQQphzi9TIJ55dNxW) | 3:10 |
 | 46 | [Gobe](https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Gobe](https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB) | 3:49 |
 | 47 | [Lowo Lowo](https://open.spotify.com/track/1ntjV3CIMC5IYMqNzW0grl) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [SUREBOY](https://open.spotify.com/album/63dlFY16kCNUPm5eGrPDLp) | 3:38 |
 | 48 | [Intro](https://open.spotify.com/track/0H9agEp8BXR4S6DI50rmTU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 3:23 |
 | 49 | [Bum Bum Bum](https://open.spotify.com/track/2q0GvAQvk1rEAUEFy1sziH) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Right About Now](https://open.spotify.com/album/0qvuCRNRSqnz2EBMaZ06Uy) | 2:46 |
 | 50 | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/track/5VXX29Dqo6mw7kVBNnsign) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [P2J](https://open.spotify.com/artist/7owWHiQB5FQHFiBYXxbphY) | [Slow Down \(feat\. H.E.R., DaVido, & Oxlade\) \- P2J Remix](https://open.spotify.com/album/5sJ2Np67hSxgRHOwvBPB1Z) | 3:48 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDA5OTM1ZmUzN2I4YjY4MTgyMWZhZDIwYjc0ZjNjNWU4YQ==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA3N2ZkZWRjNDZhMzFiZTkyODg4NDExZGRjNjM0ZDczNQ==`

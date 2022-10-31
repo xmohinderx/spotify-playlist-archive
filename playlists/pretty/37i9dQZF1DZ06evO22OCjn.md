@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,526 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,650 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 39 | [Pree Me](https://open.spotify.com/track/6g8A0XVikKuWbcJv7p2I5Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Pree Me](https://open.spotify.com/album/43FqJMK4CBZv6YutODuaE3) | 3:20 |
 | 40 | [Pull Up](https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:16 |
 | 41 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
-| 42 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
-| 43 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
+| 42 | [Soke](https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [On A Spaceship](https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev) | 3:38 |
+| 43 | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rollin' \(feat\. Burna Boy\)](https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9) | 2:39 |
 | 44 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 |
 | 45 | [Rock Your Body](https://open.spotify.com/track/4LbEUmACVAFj8e0WrMUdlN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:41 |
 | 46 | [Wonderful](https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Wonderful](https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Calm Down](https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 4:25 |
 | 50 | [Odogwu](https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Odogwu](https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA) | 3:05 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDA5ODM0ZWIxMjM0MDkzYzY2MGM4MTY0NWMyZGQ1YWFkMQ==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBmMmEzOWNjYzlmYzc3ZDcyZWQ3MTliMjE1ZjAwNjUxMg==`

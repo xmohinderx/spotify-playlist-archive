@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 257292,
+  "num_followers": 257462,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0NzU4NSwwMDAwMDAwMDIyMTJmODdjODhkOWZkMjJmMjVkOWNmNmE2NzdkODFi",
+  "snapshot_id": "MTY2Njk0NzU4NSwwMDAwMDAwMGU1NjBiMDVmODM1YTBmMmI2NjcyYTBhODliYTYwOGNm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "\u00daltimo Acto",
         "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 206880,
       "name": "Solo Otra Vez - Alone Again",
       "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "En Los M\u00e1rgenes",
-        "url": "https://open.spotify.com/album/3g2Mxw8RuCpI1rWNaXh02G"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 239664,
-      "name": "En Los M\u00e1rgenes",
-      "url": "https://open.spotify.com/track/5L1TQjRNSh95i5pahdyTBD"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 188106,
       "name": "La vida es m\u00e1s compleja de lo que parece",
       "url": "https://open.spotify.com/track/0KF9s5HhXY9om1zpyo6Uox"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "En Los M\u00e1rgenes",
+        "url": "https://open.spotify.com/album/3g2Mxw8RuCpI1rWNaXh02G"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 239664,
+      "name": "En Los M\u00e1rgenes",
+      "url": "https://open.spotify.com/track/5L1TQjRNSh95i5pahdyTBD"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Te Quiero Porque Te Quiero (Fandangos)",
+        "url": "https://open.spotify.com/album/4Hh0e0hN5P3Ch6FOZrHx58"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        }
+      ],
+      "duration_ms": 202803,
+      "name": "Te Quiero Porque Te Quiero (Fandangos)",
+      "url": "https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 280920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Te Quiero Porque Te Quiero (Fandangos)",
-        "url": "https://open.spotify.com/album/4Hh0e0hN5P3Ch6FOZrHx58"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        },
-        {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
-        }
-      ],
-      "duration_ms": 202803,
-      "name": "Te Quiero Porque Te Quiero (Fandangos)",
-      "url": "https://open.spotify.com/track/0t5E6QD5qzDhZjdC1P2ukP"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+        "name": "Para Vivir",
+        "url": "https://open.spotify.com/album/1VgH6rT91PMeArFHCQEjoI"
       },
       "artists": [
         {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
+      "duration_ms": 221386,
+      "name": "Para Vivir",
+      "url": "https://open.spotify.com/track/6uny5S3nEA9ZYVsXRftnaL"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1339,22 +1343,18 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Para Vivir",
-        "url": "https://open.spotify.com/album/1VgH6rT91PMeArFHCQEjoI"
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
       },
       "artists": [
         {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        },
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
         }
       ],
-      "duration_ms": 221386,
-      "name": "Para Vivir",
-      "url": "https://open.spotify.com/track/6uny5S3nEA9ZYVsXRftnaL"
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Autorretrato",
+        "url": "https://open.spotify.com/album/4fUe77nJs8dqGdzS8SO5FI"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Autorretrato",
+      "url": "https://open.spotify.com/track/3Uz1KaJF1jegGuaBfQG3A7"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Autorretrato",
-        "url": "https://open.spotify.com/album/4fUe77nJs8dqGdzS8SO5FI"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Autorretrato",
-      "url": "https://open.spotify.com/track/3Uz1KaJF1jegGuaBfQG3A7"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 309913,
       "name": "Y Nos Dieron Las Diez (feat. Zahara) - Tributo a Sabina",
       "url": "https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Conviene Saber (feat. Rozal\u00e9n)",
         "url": "https://open.spotify.com/album/3Ip09RVhwrMrf6oIzhZTiU"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 250302,
       "name": "Conviene Saber (feat. Rozal\u00e9n)",
       "url": "https://open.spotify.com/track/0c3pK1QgN3Lv1o1P4GMNPU"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 294095,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
     },
     {
       "added_at": "2022-10-27 22:00:00",

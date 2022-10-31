@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 20 | [Allegations \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/1Fhb9neDPyEyTaZZ3qmIn4) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [King Of Killbranch](https://open.spotify.com/album/1NDrL1t8NNB233FRqbzzoK) | 2:40 |
 | 21 | [Love All \(with JAY\-Z\)](https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:48 |
 | 22 | [Off The Map](https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [After Me](https://open.spotify.com/album/3cDBVusNMPK33eaTIE5QQg) | 2:21 |
-| 23 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
-| 24 | [LLC](https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [LLC](https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy) | 2:17 |
+| 23 | [LLC](https://open.spotify.com/track/53JqTGiqfRuNwC54WAIG6H) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [LLC](https://open.spotify.com/album/6FjAZZk6sL9UVMFY1tQloy) | 2:17 |
+| 24 | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/track/33OeHNGJA124QytVD0BeQK) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [SKAT \(feat\. DaBaby\)](https://open.spotify.com/album/1Y9B8NqVUn69IhVhe2YMwT) | 3:51 |
 | 25 | [Attachments](https://open.spotify.com/track/1SedJ3dLWoCqnPIGeEMUJH) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Taliban Glizzy](https://open.spotify.com/artist/2J4wmwS5YSjQKzEEM7AiJh) | [Gardner Express](https://open.spotify.com/album/24nydg8i966CawS06yCtZh) | 2:51 |
 | 26 | [Top \(Remix\) feat\. Lil Durk](https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [In The Name Of Gee \(Still Most Hated\)](https://open.spotify.com/album/18sKqGhmvXhfhgnzu3uj0T) | 2:38 |
 | 27 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:48 |
 | 50 | [Senseless](https://open.spotify.com/track/4GRZ1qz6lBki2PbOr0jaCQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Senseless](https://open.spotify.com/album/6AM123Eeb8LiLdz9GUiNJT) | 2:23 |
 
-Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGQ2MDQ1Yzg2NDg1ZjRhZDY5N2U0Zjk5NzBjYjg4NmUz`
+Snapshot ID: `MTY2NDY0MTAzNywwMDAwMDAwMGE1NzAyMjg5Y2FkYjYwMDY0NmYwMDg2YWRkZTE3YjM1`

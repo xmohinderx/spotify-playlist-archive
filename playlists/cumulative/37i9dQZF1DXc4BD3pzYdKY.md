@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: <br/> Zauntee
 
-705 songs - 1 day 11 hr 33 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+706 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8) | [Double Atl](https://open.spotify.com/artist/5IVXa5D4ctnpdKOHrWHDMh), [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [Price \(feat\. Eshon Burgundy\)](https://open.spotify.com/album/2W5mlEL9qDY0Mz3BZTkZ2c) | 3:16 | 2021-12-11 | 2022-04-29 |
 | [PROBLEMATIC \(feat\. Travis Hobson\) \- Remix](https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De), [Battz](https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI), [Travis Hobson](https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR) | [PROBLEMATIC \(Remix\) \[feat\. Travis Hobson\]](https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86) | 2:23 | 2022-04-29 | 2022-08-07 |
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2021-12-11 | 2022-05-29 |
+| [Proverbs & Beats](https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Proverbs & Beats](https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl) | 3:07 | 2022-10-29 |  |
 | [Pull Up](https://open.spotify.com/track/0QVOIjZKhW7SztPzrIOpfh) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Greg James](https://open.spotify.com/artist/35YmHthd8r0eLl3UzJ35xH), [THICC James](https://open.spotify.com/artist/2yXqs3usnrlNGdgePA1xEb) | [Pull Up](https://open.spotify.com/album/5C2GMZwuaqXq2bpXgNSzWF) | 2:26 | 2021-12-11 | 2022-01-04 |
 | [Pull Up](https://open.spotify.com/track/0IJJiloYvCpW02E9XRK7yV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Sunday In Lagos](https://open.spotify.com/album/62RAwuRbAoHvsYjQVL1Pyc) | 2:33 | 2022-10-29 |  |
 | [Put in on This](https://open.spotify.com/track/3pkRjhx8USyXAb8fqf02A0) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [!sch](https://open.spotify.com/artist/2QT2KMfcj0EXatB2L0m2jK) | [Pressure 2 \- EP](https://open.spotify.com/album/5Ib3sPqWEX9Hc2EUeGFDsk) | 2:43 | 2022-09-11 |  |
@@ -597,7 +598,7 @@
 | [Tango](https://open.spotify.com/track/3H1N26BJurmyEaPMUFTf0o) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9) | [Tango](https://open.spotify.com/album/4eao7ZzLO34e3W2NYDgxxa) | 3:07 | 2022-03-05 | 2022-04-29 |
 | [TEGUCCI](https://open.spotify.com/track/7tDqPQ6cdfwtNzeThl1LCQ) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TEGUCCI](https://open.spotify.com/album/2ethrZPr6dQal5tUnemnSB) | 1:47 | 2021-12-11 | 2022-04-21 |
 | [Tell Me](https://open.spotify.com/track/4hCa5We6L6wU3poyLomJAz) | [Aable](https://open.spotify.com/artist/3LelS8evrI9XeIxtTOOcUw), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Tell Me](https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV) | 3:08 | 2022-04-29 | 2022-07-28 |
-| [Ten Thousand Hours](https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ten Thousand Hours](https://open.spotify.com/album/15c44B9FUOfV2YdzouRKRE) | 2:20 | 2022-07-17 |  |
+| [Ten Thousand Hours](https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi) | [Ten Thousand Hours](https://open.spotify.com/album/15c44B9FUOfV2YdzouRKRE) | 2:20 | 2022-07-17 | 2022-10-31 |
 | [Terraform \(feat\. Brandi Price\)](https://open.spotify.com/track/6cZXAkMHY6HCYGQU3Uru9A) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [L's](https://open.spotify.com/artist/7cUbRxCpEq5eKtdRJJHFtj), [Brandi Price](https://open.spotify.com/artist/1PjOAwA4O7hnNutcGKrtgn) | [Terraform: The Sky](https://open.spotify.com/album/09lNRhUgiYaY45cRX2ah1f) | 4:58 | 2021-12-11 | 2022-03-10 |
 | [Tested](https://open.spotify.com/track/1vCJ5LrHXRPUsSCZe4jeP8) | [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [Tested](https://open.spotify.com/album/1chlteN1sQQVdWFHhRS7LY) | 2:08 | 2022-04-29 | 2022-07-12 |
 | [Testify](https://open.spotify.com/track/5dGjFxlQaByznBTsP4v8CU) | [Eshon Burgundy](https://open.spotify.com/artist/25VsRrXJg8wvvMSSVwmp8E) | [For the Love of Money](https://open.spotify.com/album/79goInVRpwSXbqcmRbtOpQ) | 3:17 | 2021-12-11 | 2022-01-11 |

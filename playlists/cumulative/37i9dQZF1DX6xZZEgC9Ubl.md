@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-738 songs - 1 day 9 hr 39 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+739 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Difference](https://open.spotify.com/track/6tiENvREXsXPDdnMGoioP0) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Difference](https://open.spotify.com/album/0rsaIaZUYzykvEd88ibh6g) | 3:07 | 2021-08-07 | 2022-07-08 |
 | [Differences](https://open.spotify.com/track/0T9WvScJDL8KbL9yXUzILh) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [Differences](https://open.spotify.com/album/1rzEWfb1kdKajdSCOSfZX1) | 2:56 | 2021-06-26 | 2022-04-21 |
 | [dim, dark, depleting](https://open.spotify.com/track/0vWwwVn6Ug5SuNSzPxNT0T) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [things could be worse](https://open.spotify.com/album/2sfAaYpGaErUpCO3Lg4HLO) | 2:12 | 2021-09-22 | 2022-07-04 |
-| [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-31 |  |
+| [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-31 | 2022-10-31 |
 | [Disaster](https://open.spotify.com/track/7sGKwnocBLJ7Joeg2Fy1fO) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [Disaster](https://open.spotify.com/album/0msRnjujqjhMdR9JmanUqs) | 2:19 | 2021-05-22 | 2021-06-19 |
 | [Dishonest](https://open.spotify.com/track/3lKIg3YiHa7o8Wvtiqd3FX) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [PAINKILLER TWILIGHT](https://open.spotify.com/album/5WI1jTegDlbRFqrQAbuC2z) | 2:34 | 2021-08-28 | 2022-04-09 |
 | [Doesn't Matter](https://open.spotify.com/track/5UsE4qe2pZXO7tnuunalrU) | [Kill Red](https://open.spotify.com/artist/23DVe5LDb89r0z5wmSjNSc) | [Doesn't Matter](https://open.spotify.com/album/00PvhElonquwWCDEfMUj0X) | 2:02 | 2020-12-13\* | 2021-02-19 |
@@ -239,6 +239,7 @@
 | [Fresh Green at the Gallery](https://open.spotify.com/track/24sjsXy0RaFHP6znElPOM7) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Fresh Green at the Gallery](https://open.spotify.com/album/2fIUralisTxfs6AQiKLHEQ) | 2:46 | 2022-01-28 | 2022-04-20 |
 | [FRIENDS](https://open.spotify.com/track/6NEevR7qHIRfi9fahttXCk) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [FRIENDS](https://open.spotify.com/album/4Z4kojXG0w8rO8eAZHbNda) | 2:12 | 2021-07-31 | 2022-07-28 |
 | [FROZEN](https://open.spotify.com/track/3eK50vcGhvRBONzD4qsiSw) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l), [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [FROZEN](https://open.spotify.com/album/3skrO7iJtuMrtKMcMwXjrx) | 2:48 | 2022-02-11 | 2022-07-29 |
+| [Fuck Around and Find Out \(feat\. $NOT\)](https://open.spotify.com/track/4iUNFztAZqeaKvxvJQ8J2V) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Remember That You Will Die](https://open.spotify.com/album/1BJtoy1VgHMMvotBwvylJ5) | 2:31 | 2022-10-28 |  |
 | [Fuck Love](https://open.spotify.com/track/4yW6cszR2DQEYX3tA1wKbD) | [Kill Jasper](https://open.spotify.com/artist/3Hxle1ifo8pdsakQ06MMUH) | [Fuck Love](https://open.spotify.com/album/4HkTdroX0x4lNDpQwTLObH) | 1:45 | 2022-02-11 | 2022-07-29 |
 | [Fuck Love \(feat\. Trippie Redd\)](https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:26 | 2020-12-13\* |  |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2021-02-27 | 2022-07-09 |

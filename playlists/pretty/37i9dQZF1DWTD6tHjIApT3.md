@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,488 likes - 99 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,531 likes - 99 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 68 | [愛のしるし](https://open.spotify.com/track/7Huzhd3UpthiZIf1UzRcGA) | [森七菜](https://open.spotify.com/artist/1IDjyCsCk5Xjy7RA7AQ8vy) | [愛のしるし](https://open.spotify.com/album/0E6klzABzldGWMc7DVYaEh) | 2:50 |
 | 69 | [ブレス](https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ブレス](https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq) | 4:24 |
 | 70 | [Wish](https://open.spotify.com/track/6wMnf3VRkhtT8NmJuWNimt) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [Wish](https://open.spotify.com/album/2RFVJfCtxR9E8NoFOG0Jgi) | 4:46 |
-| 71 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
-| 72 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 |
+| 71 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 |
+| 72 | [Victim of Love \- feat\. Taka](https://open.spotify.com/track/5LRSwCkhEuGlpsZbr5CNED) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi), [Taka](https://open.spotify.com/artist/1m2L1oj16MHAnZqzquzW4B) | [LOVE CYCLE](https://open.spotify.com/album/3TPp964EZEVeZNoMspMZKK) | 3:55 |
 | 73 | [じゃあね、またね。](https://open.spotify.com/track/6hDhcQg11LxCk3rcaRlyb6) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [じゃあね、またね。](https://open.spotify.com/album/0YebkMmTNZYPMEvTPSv8RJ) | 4:05 |
-| 74 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 |
+| 74 | [bye bye](https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [bye bye](https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A) | 2:48 |
 | 75 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 |
-| 76 | [bye bye](https://open.spotify.com/track/5o4OTjF8ef2QJpA4v759ng) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [bye bye](https://open.spotify.com/album/355jantKZOHA8IzbjeSi5A) | 2:48 |
+| 76 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 |
 | 77 | [Every Wish Deserves a Dream](https://open.spotify.com/track/0WRO7r36uDVlW6DDPF1Cxs) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Every Wish Deserves a Dream](https://open.spotify.com/album/2nLWWWLKGIUtCbzFV8vfol) | 3:51 |
 | 78 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
 | 79 | [シフクノトキ](https://open.spotify.com/track/7FzX5GkPTLk2kaniCxtKay) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シフクノトキ](https://open.spotify.com/album/7C0Ik3cBBtji352WqL4sGj) | 3:07 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 91 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 |
 | 92 | [Another Day Goes By](https://open.spotify.com/track/2LCTeMFvh069eICDpdoEZ6) | [Lizabet](https://open.spotify.com/artist/5n8wf5NM6vGUKNektTImzq) | [Another Day Goes By](https://open.spotify.com/album/51MHPlXY74PzkYOkSSis15) | 4:01 |
 | 93 | [High Five](https://open.spotify.com/track/1bFGGcm9ttACXufVIAoJVV) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [High Five](https://open.spotify.com/album/0tbxmJoW2zvNON0TKj2tPv) | 3:13 |
-| 94 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 |
-| 95 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
-| 96 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
-| 97 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 |
+| 94 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 |
+| 95 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 |
+| 96 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
+| 97 | [Look At Me](https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn) | [Kawaguchi Yurina](https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr) | [Look At Me](https://open.spotify.com/album/3mp41Up4LNhAVLGxl7BAUR) | 3:03 |
 | 98 | [幸せの探し方 \- 2022 Remaster](https://open.spotify.com/track/2vMFdiONHdlNcVCyXhAIqv) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Quiet Life \(30th Anniversary Edition; 2022 Remaster\)](https://open.spotify.com/album/6HSiOQVxo7HrYf05PcLC0S) | 3:53 |
 | 99 | [君が好きです](https://open.spotify.com/track/0pky0MjWmhHRcjVB5Eij7i) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [君が好きです](https://open.spotify.com/album/0ki7vdb78C0gGUfsJhdKaR) | 4:10 |
 
-Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDE2NzY3ZjU1Yjg1NGViMzViNDc2Y2JhYWYyZTg3NTg1`
+Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDhlY2YyZjIxMzY3MDQ4N2M4OWIwMzk5YzJhODljNTBl`

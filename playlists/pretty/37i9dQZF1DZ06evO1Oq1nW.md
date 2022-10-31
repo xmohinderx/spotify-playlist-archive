@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,735 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,745 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 23 | [Emotionally Yours](https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 5:15 |
 | 24 | [Cause I Want You Back Again](https://open.spotify.com/track/4iTZ9oHsZkErLDjmSiSymH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:46 |
 | 25 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 |
-| 26 | [Livin' for the Weekend](https://open.spotify.com/track/6FxjvmfQuS4DUuUC0yC4bo) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:36 |
-| 27 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
+| 26 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
+| 27 | [Livin' for the Weekend](https://open.spotify.com/track/6FxjvmfQuS4DUuUC0yC4bo) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:36 |
 | 28 | [Start Stoppin'](https://open.spotify.com/track/49x3dOAz0FTHm4zWr9c3NW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Start Stoppin'](https://open.spotify.com/album/5guZFRRaJI4Na5vSvMB2nE) | 4:09 |
 | 29 | [You Won't Fail](https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 5:18 |
-| 30 | [Who Am I](https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:11 |
-| 31 | [Message In Our Music](https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:20 |
-| 32 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
-| 33 | [I'll Be Sweeter Tomorrow \(Than I Was Today\)](https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:01 |
+| 30 | [Message In Our Music](https://open.spotify.com/track/1lYCmnucH0yo2XGzd2h57r) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 6:20 |
+| 31 | [Who Am I](https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 5:11 |
+| 32 | [I'll Be Sweeter Tomorrow \(Than I Was Today\)](https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 3:01 |
+| 33 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
 | 34 | [You and Me](https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 5:39 |
 | 35 | [Keep On Lovin' Me](https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 4:43 |
 | 36 | [992 Arguments](https://open.spotify.com/track/7ycwZrSaXqhSaY5yeOZgdS) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 6:06 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 44 | [One Night Affair](https://open.spotify.com/track/50KfjOUY5oRlFpWRzhtIKY) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:18 |
 | 45 | [She's Only a Woman](https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 5:42 |
 | 46 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
-| 47 | [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 |
-| 48 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 |
-| 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
+| 47 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
+| 48 | [How Time Flies](https://open.spotify.com/track/5CFDmizzBXLyvU1smZk0xI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 5:13 |
+| 49 | [Hurry Up & Come Back](https://open.spotify.com/track/2VLnmkD9L2GgbepawJJUzV) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:05 |
 | 50 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDAzYTQ2MDYxYTA0NjhiZDkwMThmNjk3N2FmMmFmZGNkZQ==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAwMDI4MmQ5MWI4OTgxNWIxZjA2OGYyODQzMjhjY2YxNg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 
 > Enjoy your happy & sweet eating time with Korean theme! \(사랑스러운 음악들과 행복한 식사 시간을 가져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,080 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,131 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 39 | [Awake \(Feat\. Sam Kim\)](https://open.spotify.com/track/3QwqGGvAuYdcVXVGejgypC) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Candy Pianist](https://open.spotify.com/album/0fyVjPuEfZaWwyTEjfFEU5) | 4:19 |
 | 40 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
 | 41 | [잠들고 싶어\(zZ\)](https://open.spotify.com/track/6waNaXD6NwkSyo6jRa0o0z) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC) | 3:37 |
-| 42 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
-| 43 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
+| 42 | [너는어때 \- Bossa Nova ver.](https://open.spotify.com/track/3Py8DQJ9U3hqmaSpVjIzHh) | [Coldin](https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG) | [너는어때](https://open.spotify.com/album/35rq5Vnuto7DthwSqQD4gd) | 4:20 |
+| 43 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 44 | [어떡해 \(Feat\. 스텔라장\)](https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob) | [이요한](https://open.spotify.com/artist/0c8vPupGZ81StYCgxYefAD) | [하지 말라면 더 하고 19 Part.2](https://open.spotify.com/album/7xnRPm9ohlLJe1LCMbJEB6) | 4:20 |
 | 45 | [Better Man](https://open.spotify.com/track/7toNHOB0n7dnOfyBtsZaE4) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Paul Kim The First Album Part\. 1 ‘the Road’](https://open.spotify.com/album/5Yzku0R7REUKxNwL7CzLx8) | 3:32 |
 | 46 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdBIyTaKDBw.md) - [plain]
 | 69 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 |
 | 70 | [고양이의 산책](https://open.spotify.com/track/3omQ4YiFuiHpP7WVJy5LZK) | [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [ALL NIGHT](https://open.spotify.com/album/0XZS1yym1vkZJE3z1KUIP7) | 3:28 |
 
-Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDNkNmUwMGZkMjdhN2VmNjFkYzc0ZTI3ZDdmZjhmY2Y5`
+Snapshot ID: `MTY2MjU1Nzk4NiwwMDAwMDAwMDQyMzg4YWU3ZDUxYjYxZDg3NzhiNTIwZWJiM2Q3ZWU2`

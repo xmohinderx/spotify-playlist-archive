@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 601350,
+  "num_followers": 601401,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwMzYwMDUzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIwNDQ0MDU0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Ingen annan r\u00f6r mig som du",
         "url": "https://open.spotify.com/album/6HUWcyVUOcdPTMcqvmX02a"
@@ -25,23 +25,23 @@
       "url": "https://open.spotify.com/track/6D434uIe6ssDPXbCx9O9Bn"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "N\u00c4R RADION D\u00c5NAR",
-        "url": "https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO"
+        "name": "Kan Inte G\u00e5",
+        "url": "https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Bolaget",
+          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
         }
       ],
-      "duration_ms": 130560,
-      "name": "N\u00c4R RADION D\u00c5NAR",
-      "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
+      "duration_ms": 146718,
+      "name": "Kan Inte G\u00e5",
+      "url": "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -61,59 +61,23 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "Kan Inte G\u00e5",
-        "url": "https://open.spotify.com/album/7cQO00BC8vzlGuQelUxt3g"
+        "name": "Banan Melon Kiwi & Citron",
+        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
       },
       "artists": [
         {
-          "name": "Bolaget",
-          "url": "https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 146718,
-      "name": "Kan Inte G\u00e5",
-      "url": "https://open.spotify.com/track/1fIeKG6eI8FZzVL9mhlz8t"
+      "duration_ms": 168000,
+      "name": "Banan Melon Kiwi & Citron",
+      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "The Only Wan (Deluxe)",
-        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "Dum",
-      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Din l\u00e5t",
-        "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        },
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Din l\u00e5t",
-      "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "JAG VILL HA DIG H\u00c4R HOS MIG",
         "url": "https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA"
@@ -133,26 +97,30 @@
       "url": "https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+        "name": "Din l\u00e5t",
+        "url": "https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         }
       ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+      "duration_ms": 165045,
+      "name": "Din l\u00e5t",
+      "url": "https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "Banan Melon Kiwi & Citron",
-        "url": "https://open.spotify.com/album/0nUdcTL27UO3plbL2aNGkR"
+        "name": "N\u00c4R RADION D\u00c5NAR",
+        "url": "https://open.spotify.com/album/3iNQ1aeeaDLNfZTqvtmnIO"
       },
       "artists": [
         {
@@ -160,28 +128,28 @@
           "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Banan Melon Kiwi & Citron",
-      "url": "https://open.spotify.com/track/2ZfaBbRMcEgSF8JnJIaEBP"
+      "duration_ms": 130560,
+      "name": "N\u00c4R RADION D\u00c5NAR",
+      "url": "https://open.spotify.com/track/0c0Zlpn6fXtnz1XuASZdw1"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "The Only Wan (Deluxe)",
+        "url": "https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
         }
       ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+      "duration_ms": 133894,
+      "name": "Dum",
+      "url": "https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "MER & MER",
         "url": "https://open.spotify.com/album/6cxHLbeuGsPpVe2LoW3duK"
@@ -197,27 +165,23 @@
       "url": "https://open.spotify.com/track/1puxV64QJkmRUhhXt4T9rD"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "ENSAM (feat. estraden)",
-        "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 189000,
-      "name": "ENSAM (feat. estraden)",
-      "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -237,163 +201,43 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "CHEVA P\u00c5 FREDAG",
-        "url": "https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV"
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
       "artists": [
         {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 144080,
-      "name": "CHEVA P\u00c5 FREDAG",
-      "url": "https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7"
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "H\u00e4lsa Gud",
-        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
+        "name": "ENSAM (feat. estraden)",
+        "url": "https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5"
       },
       "artists": [
         {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 148799,
-      "name": "H\u00e4lsa Gud",
-      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "TO\u00d9TO\u00d9",
-        "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
         },
         {
-          "name": "Manny Flaco",
-          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 145808,
-      "name": "TO\u00d9TO\u00d9",
-      "url": "https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM"
+      "duration_ms": 189000,
+      "name": "ENSAM (feat. estraden)",
+      "url": "https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "N\u00e5t i vattnet",
-        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
-      },
-      "artists": [
-        {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "N\u00e5t i vattnet",
-      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Mamma",
-        "url": "https://open.spotify.com/album/1yMj58BSpO0ZEiJwEq6pF6"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 215702,
-      "name": "Mamma",
-      "url": "https://open.spotify.com/track/5vpu2fogPhAutzdINePhNQ"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Chit Chat",
-        "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
-      },
-      "artists": [
-        {
-          "name": "Denz",
-          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
-        },
-        {
-          "name": "Youzie",
-          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
-        }
-      ],
-      "duration_ms": 172455,
-      "name": "Chit Chat",
-      "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Hjertel\u00f8s",
-        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 137942,
-      "name": "Hjertel\u00f8s",
-      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "En s\u00e5n som han (En man som han)",
-        "url": "https://open.spotify.com/album/65VVxA7XK8G8NIH4uR6zAc"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 207072,
-      "name": "En s\u00e5n som han",
-      "url": "https://open.spotify.com/track/5MY0sVEPnFGu7Y4xHRtmNe"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Robin Kadir",
-          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "BUBBEL P\u00c5 BALKONGEN",
         "url": "https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn"
@@ -413,39 +257,143 @@
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "Aktiverad (Klick Klack)",
-        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
+        "name": "H\u00e4lsa Gud",
+        "url": "https://open.spotify.com/album/1fLQJR0wlVYgRmJaDdd2w4"
       },
       "artists": [
         {
-          "name": "Alawee",
-          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
         }
       ],
-      "duration_ms": 154122,
-      "name": "Aktiverad (Klick Klack)",
-      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
+      "duration_ms": 148799,
+      "name": "H\u00e4lsa Gud",
+      "url": "https://open.spotify.com/track/5g9gZGiXlk747pESQzmmRT"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "SEVILLA",
-        "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/1yMj58BSpO0ZEiJwEq6pF6"
       },
       "artists": [
         {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 175522,
-      "name": "SEVILLA",
-      "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
+      "duration_ms": 215702,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/5vpu2fogPhAutzdINePhNQ"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "CHEVA P\u00c5 FREDAG",
+        "url": "https://open.spotify.com/album/3PPJzp8UYVzn3h1evPqtSV"
+      },
+      "artists": [
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+        }
+      ],
+      "duration_ms": 144080,
+      "name": "CHEVA P\u00c5 FREDAG",
+      "url": "https://open.spotify.com/track/6JvSqDyQ6rbbb93XklyNQ7"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "N\u00e5t i vattnet",
+        "url": "https://open.spotify.com/album/72WBW12AGDPNKsPfV0lOL6"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "N\u00e5t i vattnet",
+      "url": "https://open.spotify.com/track/7dIHE7NhkIDUAKDPOtjLGa"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Chit Chat",
+        "url": "https://open.spotify.com/album/1JMiRE2UTSrnGIBZT0KNDZ"
+      },
+      "artists": [
+        {
+          "name": "Denz",
+          "url": "https://open.spotify.com/artist/3D0rwfKngK6Rr80niHDLP7"
+        },
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "duration_ms": 172455,
+      "name": "Chit Chat",
+      "url": "https://open.spotify.com/track/3HQ2hJIvStlHS8SRWFGdId"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "TO\u00d9TO\u00d9",
+        "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        },
+        {
+          "name": "Manny Flaco",
+          "url": "https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S"
+        }
+      ],
+      "duration_ms": 145808,
+      "name": "TO\u00d9TO\u00d9",
+      "url": "https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Hjertel\u00f8s",
+        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 137942,
+      "name": "Hjertel\u00f8s",
+      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "En s\u00e5n som han (En man som han)",
+        "url": "https://open.spotify.com/album/65VVxA7XK8G8NIH4uR6zAc"
+      },
+      "artists": [
+        {
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+        }
+      ],
+      "duration_ms": 207072,
+      "name": "En s\u00e5n som han",
+      "url": "https://open.spotify.com/track/5MY0sVEPnFGu7Y4xHRtmNe"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
@@ -461,7 +409,71 @@
       "url": "https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Aktiverad (Klick Klack)",
+        "url": "https://open.spotify.com/album/08X6EYHEmvmFt7Xpgtquo4"
+      },
+      "artists": [
+        {
+          "name": "Alawee",
+          "url": "https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB"
+        }
+      ],
+      "duration_ms": 154122,
+      "name": "Aktiverad (Klick Klack)",
+      "url": "https://open.spotify.com/track/7aRCAByC8ktZVKhVhDS4la"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Babblarnas vaggvisa",
+        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "LIVET P\u00c5 EN PINNE",
+        "url": "https://open.spotify.com/album/59KYpP2odCYJuBnQBGDmTO"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 163886,
+      "name": "LIVET P\u00c5 EN PINNE",
+      "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "SEVILLA",
+        "url": "https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "SEVILLA",
+      "url": "https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "ZUTTLUKTEN",
         "url": "https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw"
@@ -481,87 +493,7 @@
       "url": "https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Babblarnas vaggvisa",
-        "url": "https://open.spotify.com/album/03qO055ZzI9jHSXuLIvjOV"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/1VJRxqJhpEIpnHon7ssp1p"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Tappat - Spotify Singles",
-        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 150543,
-      "name": "Tappat - Spotify Singles",
-      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "LIVET P\u00c5 EN PINNE",
-        "url": "https://open.spotify.com/album/59KYpP2odCYJuBnQBGDmTO"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 163886,
-      "name": "LIVET P\u00c5 EN PINNE",
-      "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "F*CKED UP!",
-        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "F*CKED UP!",
-      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/7EH7nvTbjaBd79TeW08awR"
@@ -577,7 +509,123 @@
       "url": "https://open.spotify.com/track/3Tp6XRivI85TAfpgja9ILh"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Josefin",
+        "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Tappat - Spotify Singles",
+        "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 150543,
+      "name": "Tappat - Spotify Singles",
+      "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Donkey Kong",
+        "url": "https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Donkey Kong",
+      "url": "https://open.spotify.com/track/0QfxhyX9dky9Zgfr2xhNzR"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/1UFZHmtfwLQ9kDcWPFS5H7"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Robin Kadir",
+          "url": "https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2"
+        }
+      ],
+      "duration_ms": 131039,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/68QsNtxSwSrwn5kFa7SpQN"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "S\u00d6DERMALM",
         "url": "https://open.spotify.com/album/4l331F1fTBQYuVufhFeaEZ"
@@ -601,39 +649,7 @@
       "url": "https://open.spotify.com/track/6WLFyN5UYRWIadKHq3LLRV"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "The Only Wan",
-        "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Loyal",
-      "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -673,55 +689,7 @@
       "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Josefin",
-        "url": "https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Josefin",
-      "url": "https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Donkey Kong",
-        "url": "https://open.spotify.com/album/4GGHjBUGjEipaBY0l8meu3"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Donkey Kong",
-      "url": "https://open.spotify.com/track/0QfxhyX9dky9Zgfr2xhNzR"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -737,7 +705,23 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "The Only Wan",
+        "url": "https://open.spotify.com/album/4OrCH3Tp7HUpfxKzwWuVp3"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/03XktnlHaenNj1tJP8zQFs"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -753,59 +737,7 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "DIRTY",
-        "url": "https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 138144,
-      "name": "DIRTY",
-      "url": "https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "Somna med Humlan Djojj",
         "url": "https://open.spotify.com/album/7Fwal5B7DbHxVEjZRmckum"
@@ -825,7 +757,91 @@
       "url": "https://open.spotify.com/track/5maA851Fle6XexgJgJzFjF"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "G\u00c5R DET BRA?",
+        "url": "https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 145940,
+      "name": "G\u00c5R DET BRA?",
+      "url": "https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 138144,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2022-10-30 11:20:54",
       "album": {
         "name": "4 grabbar",
         "url": "https://open.spotify.com/album/482jRh8WulwsYwi4iiUwVa"
@@ -841,36 +857,24 @@
       "url": "https://open.spotify.com/track/5BtXbZ4dArIaZka8pNzSp0"
     },
     {
-      "added_at": "2022-10-29 12:00:53",
+      "added_at": "2022-10-30 11:20:54",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/1MXCv3dM79ueLAnN0xnVdQ"
+        "name": "X",
+        "url": "https://open.spotify.com/album/5DrPOcQTUL12mbozwLBrcz"
       },
       "artists": [
         {
-          "name": "Sickan",
-          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "100",
-      "url": "https://open.spotify.com/track/0n1QYqFJHL1OqG7lB3b8Vd"
-    },
-    {
-      "added_at": "2022-10-29 12:00:53",
-      "album": {
-        "name": "G\u00c5R DET BRA?",
-        "url": "https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR"
-      },
-      "artists": [
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
         }
       ],
-      "duration_ms": 145940,
-      "name": "G\u00c5R DET BRA?",
-      "url": "https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P"
+      "duration_ms": 132682,
+      "name": "FAKKA UR",
+      "url": "https://open.spotify.com/track/2NnO7FJonRjGvAjm3LwKvl"
     }
   ],
   "unique_name": "Top 50 - Sweden",

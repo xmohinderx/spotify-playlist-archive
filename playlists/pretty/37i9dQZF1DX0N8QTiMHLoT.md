@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,454 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,519 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 5 | [The Sinister Minister](https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Bela Fleck and the Flecktones](https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0) | 4:36 |
 | 6 | [The Bassment \(feat\. George Duke\)](https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v), [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Just Feelin' It](https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l) | 5:55 |
 | 7 | [U Can't Hold No Groove \(If You Ain't Got No Pocket\)](https://open.spotify.com/track/2Yrvgx1OgSlTlEcaR8izUh) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 3:59 |
-| 8 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 |
-| 9 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
+| 8 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
+| 9 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 |
 | 10 | [Let's Play Some Funky Groove](https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 2:51 |
 | 11 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 |
 | 12 | [Sex in a Pan](https://open.spotify.com/track/5HIpvnJea0u6rsdrfWCv3w) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [UFO Tofu](https://open.spotify.com/album/5ORewDyq7lUTyzoDali0SO) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 | 50 | [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 |
 
-Snapshot ID: `MTY2Mzc3NTkxMCwwMDAwMDAwMGE3MTRlOTc3ODRkYTllZTlhY2YwMDRmODkxY2MzMmVl`
+Snapshot ID: `MTY2Mzc3NTkxMCwwMDAwMDAwMDI3NTk1MTQyYjQ1ZjZkMjkxNzdkZTI5MzJmMWRhNTE0`

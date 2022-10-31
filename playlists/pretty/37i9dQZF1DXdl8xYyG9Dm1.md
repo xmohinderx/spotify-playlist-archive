@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS\-OqftcZy\_pYog"> Blxckie </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,687 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,729 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 40 | [Best I Ever Had](https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Best I Ever Had](https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs) | 2:38 |
 | 41 | [Jungle Music, Pt\. 2](https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Son Of Jacob](https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC) | 2:53 |
 | 42 | [Khuphuka](https://open.spotify.com/track/0yonvZ8xFI5IYgOVaXTSa5) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Khuphuka](https://open.spotify.com/album/6UsHrbbrXsM36PT0BbGWjj) | 3:03 |
-| 43 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
-| 44 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
+| 43 | [Royaume Kunga \(Kingdom\)](https://open.spotify.com/track/3cJyHbIs3JW0MBgnUKcxS9) | [Ferre Gola](https://open.spotify.com/artist/0is7KJiz3t87LiJWUO1tNI) | [Dynastie](https://open.spotify.com/album/3rVzWvJImO2SgNmSCw75Rg) | 3:01 |
+| 44 | [My Way](https://open.spotify.com/track/62WfsfUZiwm4h87G7e2wv2) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [My Way](https://open.spotify.com/album/7EZdtPWr8DAp1t2JNzpyuk) | 3:20 |
 | 45 | [Bando Diaries](https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Bando Diaries](https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC) | 2:38 |
-| 46 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
+| 46 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
 | 47 | [Winning](https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Winning](https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N) | 3:14 |
-| 48 | [Okwaraji \(feat\. Bella Shmurda\) \[Remix\]](https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Sex Over Love \(Deluxe Edition\)](https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl) | 2:48 |
+| 48 | [Coachella](https://open.spotify.com/track/7x4yCout42C0B7GDBN2VNR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Coachella](https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh) | 3:05 |
 | 49 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 |
 | 50 | [Alarm](https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Suspect OTB](https://open.spotify.com/artist/6UmdRN4VAfN58ZCLYGGBDE) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 2:30 |
 | 51 | [Alaye Toh Se Gogo](https://open.spotify.com/track/7D3UxPNWR1ZHEQ4qYybRNm) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Alaye Toh Se Gogo](https://open.spotify.com/album/74CdCfkfszbFPowv6IbZ8a) | 2:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Midf \(Money I Dey Find\)](https://open.spotify.com/track/1pHqJPHNLpaOqjl0PSzffm) | [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj) | [Quarantunes](https://open.spotify.com/album/5bI6csV1lwESm1gRVcSrnV) | 3:40 |
 | 70 | [Best for You](https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:40 |
 
-Snapshot ID: `MTY2Njk1OTMxNywwMDAwMDAwMDgxNTkyMmVkOTE5ZWQ5ZDJkMDNjMDgyZGVmZDE5MmQ2`
+Snapshot ID: `MTY2Njk1OTMxNywwMDAwMDAwMDFlNTMxZDliMzUzN2U4ZmY5NWI0MDI5OTBlYzY5ZTFj`

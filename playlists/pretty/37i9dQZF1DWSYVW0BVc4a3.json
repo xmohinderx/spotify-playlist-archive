@@ -1,18 +1,18 @@
 {
   "description": "Rave season is upon us. Album week for Fred again..!",
-  "num_followers": 18613,
+  "num_followers": 18783,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMGJhYTMyNDYyYTkyZGQwMjg0NGE5MGE4Y2ZjMzU3NTlm",
+  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMDlhMTFjZWYwYTVkNjJiMWVkMTA4OThmZGZlZTI2ZDFm",
   "tracks": [
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Delilah (pull me out of this)",
-        "url": "https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4"
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 250702,
       "name": "Delilah (pull me out of this)",
-      "url": "https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn"
+      "url": "https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -743,6 +743,26 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Zorro",
+        "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 216981,
+      "name": "Zorro",
+      "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Zorro",
-        "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
-      },
-      "artists": [
-        {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 216981,
-      "name": "Zorro",
-      "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 493440,
+      "name": "Timelapse",
+      "url": "https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Banho de Folhas (Maz Remix)",
         "url": "https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Timelapse",
-        "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 493440,
-      "name": "Timelapse",
-      "url": "https://open.spotify.com/track/2ivnsOi3RcEbskFvTS9zt3"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Souljack EP",
+        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Souljack",
+      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Slow Down (James Cole Remix)",
         "url": "https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4"
       },
@@ -1059,26 +1075,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Florianopolis",
-        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
-      },
-      "artists": [
-        {
-          "name": "BADDIES ONLY",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 141467,
-      "name": "Florianopolis",
-      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Boom Boom (feat. CHRSTPHR)",
         "url": "https://open.spotify.com/album/7pkY5Owef8tkoR7Y88Olwt"
       },
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Souljack EP",
-        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+        "name": "Florianopolis",
+        "url": "https://open.spotify.com/album/4RJ3PkqGmetEBDM5At7cpj"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         }
       ],
-      "duration_ms": 224761,
-      "name": "Souljack",
-      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+      "duration_ms": 141467,
+      "name": "Florianopolis",
+      "url": "https://open.spotify.com/track/0Mn0K9k16wbDlyOPm0k4nU"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "What I Breathe",
-        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 257424,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "They Will EP",
         "url": "https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 413314,
       "name": "Tell Me Are We",
       "url": "https://open.spotify.com/track/7q8xVdmpBJHNOA6pZq1Hhw"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "What I Breathe",
+        "url": "https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 257424,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Standing There",
         "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
@@ -1427,26 +1427,6 @@
       "duration_ms": 216028,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Looking At Your Pager (Solomun Remix)",
-        "url": "https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u"
-      },
-      "artists": [
-        {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 268355,
-      "name": "Looking at Your Pager - Solomun Remix",
-      "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1471,22 +1451,22 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Starter",
-        "url": "https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0"
+        "name": "Looking At Your Pager (Solomun Remix)",
+        "url": "https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u"
       },
       "artists": [
         {
-          "name": "Marco Lys",
-          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx"
         },
         {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 178141,
-      "name": "Starter",
-      "url": "https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq"
+      "duration_ms": 268355,
+      "name": "Looking at Your Pager - Solomun Remix",
+      "url": "https://open.spotify.com/track/3SrLEavYNM4QQ8IaTySHGT"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1507,6 +1487,26 @@
       "duration_ms": 534954,
       "name": "Alive - Solomun Remix",
       "url": "https://open.spotify.com/track/41QaOln9qjWg6dTENPmujr"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Starter",
+        "url": "https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0"
+      },
+      "artists": [
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 178141,
+      "name": "Starter",
+      "url": "https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1687,6 +1687,50 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
+      },
+      "artists": [
+        {
+          "name": "The Gabe Concept",
+          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 202622,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Touch (Solomun Remix)",
+        "url": "https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq"
+      },
+      "artists": [
+        {
+          "name": "Golden Features",
+          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
+        },
+        {
+          "name": "Rromarin",
+          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Touch - Solomun Remix",
+      "url": "https://open.spotify.com/track/6JjWBvHpTLT9ngwr75i5pt"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
@@ -1723,46 +1767,18 @@
     {
       "added_at": "2022-10-27 22:00:00",
       "album": {
-        "name": "Touch (Solomun Remix)",
-        "url": "https://open.spotify.com/album/3OzCCg2DJ8wpKZQzoXm5Kq"
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
       },
       "artists": [
         {
-          "name": "Golden Features",
-          "url": "https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x"
-        },
-        {
-          "name": "Rromarin",
-          "url": "https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 173949,
-      "name": "Touch - Solomun Remix",
-      "url": "https://open.spotify.com/track/6JjWBvHpTLT9ngwr75i5pt"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Tetema",
-        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
-      },
-      "artists": [
-        {
-          "name": "The Gabe Concept",
-          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 202622,
-      "name": "Tetema",
-      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
+      "duration_ms": 426058,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1779,22 +1795,6 @@
       "duration_ms": 245901,
       "name": "Hours and Hours",
       "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Papillon",
-        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 426058,
-      "name": "Papillon",
-      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1839,6 +1839,22 @@
       "duration_ms": 263767,
       "name": "All In A Dream - Logic1000 Remix",
       "url": "https://open.spotify.com/track/3SG8Ozw6YOgR8WJtr8lzFM"
+    },
+    {
+      "added_at": "2022-10-27 22:00:00",
+      "album": {
+        "name": "Dedication To House Music",
+        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 210576,
+      "name": "Dedication To House Music",
+      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
     },
     {
       "added_at": "2022-10-27 22:00:00",
@@ -1903,22 +1919,6 @@
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Dedication To House Music",
-        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 210576,
-      "name": "Dedication To House Music",
-      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
     }
   ],
   "unique_name": "Open Air",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,687 likes - 30 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,728 likes - 30 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shapes](https://open.spotify.com/track/0twqNLMlaIECkRAK5leXQf) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Shapes](https://open.spotify.com/album/31s61x1TcS5JG7Jz80tMpa) | 2:58 |
-| 2 | [El Bar](https://open.spotify.com/track/4lctDqK7nbvMHmsi0eINoe) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Bar](https://open.spotify.com/album/191yhVs8kIzdzB5Gn5tFFC) | 4:13 |
-| 3 | [Ayamna](https://open.spotify.com/track/2zBFBo47fRkGLud8uJ42e6) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [Ayamna](https://open.spotify.com/album/70u7OusfdzFnebyvH4VgVl) | 4:55 |
+| 2 | [El Bar](https://open.spotify.com/track/01IBvjBawOPu36k7MwUJz7) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Taree](https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z) | 4:13 |
+| 3 | [Ayamna](https://open.spotify.com/track/6rUpq7hxau4jxalon4STYp) | [Zaeer](https://open.spotify.com/artist/4Uvajw7dEO2hr3Q0YwbqqE) | [El Taree](https://open.spotify.com/album/3n8hOnUtBjlGuyxHbq6v0Z) | 4:55 |
 | 4 | [Mariam](https://open.spotify.com/track/56RrRBnwtJKPRl86MZV6sd) | [ELCONTAINER](https://open.spotify.com/artist/309KxHARNs5Wz1K3EoAa6Z) | [Mariam](https://open.spotify.com/album/0KrTSAUZrGW7vbqctUKVZI) | 3:55 |
 | 5 | [Adnan W Lena](https://open.spotify.com/track/0hXlkVEHz1bUyr6atAjRnB) | [Tanjaret Daghet](https://open.spotify.com/artist/1I8UKAHejNxA0icktSmnTT) | [Adnan W Lena](https://open.spotify.com/album/2ZjrqIQrdGa5caXqBnH87z) | 4:56 |
 | 6 | [Ladders To Sumeria](https://open.spotify.com/track/0MHj9bCzoNtKVIuEGnUeH6) | [Melechesh](https://open.spotify.com/artist/1bjUcmZxY4zJO1V5LaKzUY) | [Emissaries](https://open.spotify.com/album/1U7kNAiW1wSPMbDNrPoipu) | 4:01 |
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 14 | [Daret Layyem](https://open.spotify.com/track/26uaNROSTOeRpwMCGICjza) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 5:02 |
 | 15 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
 | 16 | [The Twelfth Gate](https://open.spotify.com/track/11SdDosI5yqCAe8G5nBOog) | [Crescent](https://open.spotify.com/artist/4VsnXbsjg8NzTZ2hEkgHvz) | [The Order of Amenti](https://open.spotify.com/album/1F4dwcJKvBx6KOnQoWcv01) | 4:00 |
-| 17 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
+| 17 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
 | 18 | [Moongod](https://open.spotify.com/track/54LcV9HzyNTrwbYYY88XD5) | [Aeternam](https://open.spotify.com/artist/2rC2vtci4S1g3irfTDyi9s) | [Moongod](https://open.spotify.com/album/3nU5Xe4BWjZUUZ8477MMVa) | 5:41 |
-| 19 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 |
+| 19 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
 | 20 | [Khoroto \(Gultrah Sound System\)](https://open.spotify.com/track/5JW5FWbRjkcANrIXxjHPJx) | [Znous](https://open.spotify.com/artist/3Z5dr3yRC0mbwGzkGoCYyx) | [Znousland 2](https://open.spotify.com/album/0HXnt2qsur4HpiY1DlRI6e) | 4:02 |
 | 21 | [Son of Muhieddine](https://open.spotify.com/track/4QRjuVSPlAIDZP3KfiBwt1) | [Acyl](https://open.spotify.com/artist/3lNu61NAziC5x45j6vJv9F) | [Aftermath](https://open.spotify.com/album/23VDqGZBZwUKvpaO03O0lq) | 5:36 |
 | 22 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 29 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
 | 30 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 
-Snapshot ID: `MTYzNDE5OTM2NywwMDAwMDAwMDVjZWY3OWU0OGQwZDVkMmQzMWYxNGMzMjkwYjQzNmUx`
+Snapshot ID: `MTYzNDE5OTM2NywwMDAwMDAwMGI0ZGQ1ZmVmODc3NjNjZmI1ODJmMzgyMThhODRiZDkx`

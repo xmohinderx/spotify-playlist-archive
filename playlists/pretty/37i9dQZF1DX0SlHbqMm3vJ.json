@@ -1,12 +1,12 @@
 {
   "description": "A collection of old and new R&B cuts from West Africa\u2019s finest artists. Cover: Johnny Drille ",
-  "num_followers": 168587,
+  "num_followers": 168668,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MDg0NSwwMDAwMDAwMGRmNmJiZDg2N2NhZTY2ZTlmNmEwYmI3OTI2MjI5YjQ5",
+  "snapshot_id": "MTY2Njk2MDg0NSwwMDAwMDAwMDJmY2VmM2RjZjlkOTAyYmEyNGE0MTZhMDcwZTU0N2Q1",
   "tracks": [
     {
       "added_at": "2022-10-28 12:40:45",
@@ -709,10 +709,10 @@
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     },
     {
-      "added_at": "2022-01-21 06:44:52",
+      "added_at": "2022-02-03 23:02:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -865,42 +865,6 @@
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
-      "added_at": "2022-08-22 17:00:00",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Lie",
@@ -915,6 +879,42 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+    },
+    {
+      "added_at": "2022-08-22 17:00:00",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 213658,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Seed - EP",
+        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
     },
     {
       "added_at": "2022-01-21 06:44:52",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-01-21 06:44:52",
       "album": {
-        "name": "Seed - EP",
-        "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l"
-    },
-    {
-      "added_at": "2022-01-21 06:44:52",
-      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/3NEfHN5barIoNRNa4vPXh1"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 152042,
       "name": "Door",
       "url": "https://open.spotify.com/track/4ahI2IdM0Z1e7dLopcNJQi"
+    },
+    {
+      "added_at": "2022-01-21 06:44:52",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
     },
     {
-      "added_at": "2022-03-31 23:00:00",
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
-    },
-    {
       "added_at": "2022-01-21 06:44:52",
       "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
@@ -1199,6 +1183,22 @@
       "duration_ms": 168333,
       "name": "Spend Some Time",
       "url": "https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I"
+    },
+    {
+      "added_at": "2022-03-31 23:00:00",
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2022-01-21 06:44:52",

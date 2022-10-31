@@ -1,12 +1,12 @@
 {
   "description": "New, leftfield, and for the real hip-hop stans! Cover: Kenny Mason",
-  "num_followers": 893442,
+  "num_followers": 893505,
   "original_name": "Alternative Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYzMywwMDAwMDAwMGM1MWI2MDkyMzZlYzM5MDY1M2M4YzlkZGE4YmJmNmFl",
+  "snapshot_id": "MTY2NjkyOTYzMywwMDAwMDAwMDA4ODkyZTJiZGU5ZjUyZjQwODkwOGI5MzQ5OTZjMjU3",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:33",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-10-28 04:00:33",
       "album": {
-        "name": "Dear Life",
-        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Dear Life",
-      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
+      "duration_ms": 156414,
+      "name": "Meaningless",
+      "url": "https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr"
     },
     {
       "added_at": "2022-10-28 04:00:33",
@@ -775,18 +775,18 @@
     {
       "added_at": "2022-10-28 04:00:33",
       "album": {
-        "name": "Non-Perishable",
-        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+        "name": "Dear Life",
+        "url": "https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ"
       },
       "artists": [
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 156414,
-      "name": "Meaningless",
-      "url": "https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr"
+      "duration_ms": 153750,
+      "name": "Dear Life",
+      "url": "https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB"
     },
     {
       "added_at": "2022-10-28 04:00:33",
@@ -823,22 +823,18 @@
     {
       "added_at": "2022-10-28 04:00:33",
       "album": {
-        "name": "Power Power (feat. Shaun Ross)",
-        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+        "name": "Cowboys Live Forever, Outlaws Never Die",
+        "url": "https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP"
       },
       "artists": [
         {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Shaun Ross",
-          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Power Power (feat. Shaun Ross)",
-      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
+      "duration_ms": 144807,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt"
     },
     {
       "added_at": "2022-10-28 04:00:33",
@@ -867,6 +863,26 @@
     {
       "added_at": "2022-10-28 04:00:33",
       "album": {
+        "name": "Power Power (feat. Shaun Ross)",
+        "url": "https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP"
+      },
+      "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Shaun Ross",
+          "url": "https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Power Power (feat. Shaun Ross)",
+      "url": "https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:33",
+      "album": {
         "name": "SLEEPIN!",
         "url": "https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P"
       },
@@ -879,26 +895,6 @@
       "duration_ms": 160000,
       "name": "SLEEPIN!",
       "url": "https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz"
-    },
-    {
-      "added_at": "2022-10-28 04:00:33",
-      "album": {
-        "name": "GHETTO GODS (Deluxe)",
-        "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 201191,
-      "name": "AMBEYONC\u00c9 (feat. Smino)",
-      "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
     },
     {
       "added_at": "2022-10-28 04:00:33",

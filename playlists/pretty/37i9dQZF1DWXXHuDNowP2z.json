@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A levantar polvadera!",
-  "num_followers": 45059,
+  "num_followers": 45314,
   "original_name": "Cumbias, Huapangos & Zapateados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3MjI5NywwMDAwMDAwMDQ1YTkxYWI0ZTNmNTE0ZTk1M2M4MzQ2OWM1MThmYzU4",
+  "snapshot_id": "MTY2NTc3MjI5NywwMDAwMDAwMGU2MmI1OGM4MmY1YjllN2ZlNTY3Zjk1Y2FlYTQ0YjI4",
   "tracks": [
     {
       "added_at": "2022-07-04 19:30:47",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Acu\u00e9rdate de Mi",
-        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
-      },
-      "artists": [
-        {
-          "name": "Banda Cuisillos",
-          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
-        }
-      ],
-      "duration_ms": 184743,
-      "name": "Ya No Me Mires As\u00ed",
-      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+      },
+      "artists": [
+        {
+          "name": "Banda Cuisillos",
+          "url": "https://open.spotify.com/artist/2jPqqtZbK8JDXSz94QLpCX"
+        }
+      ],
+      "duration_ms": 184743,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Tu Regalo",
-        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
+        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 204640,
-      "name": "La Peinada (La Peinadita)",
-      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
+      "duration_ms": 174106,
+      "name": "La nena",
+      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
+        "name": "Tu Regalo",
+        "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
       "artists": [
         {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 174106,
-      "name": "La nena",
-      "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+      "duration_ms": 204640,
+      "name": "La Peinada (La Peinadita)",
+      "url": "https://open.spotify.com/track/1Lp14SCjlGEvGSC4uDwrpD"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
-      },
-      "artists": [
-        {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
-        }
-      ],
-      "duration_ms": 198791,
-      "name": "La Guitarra de Lolo (Huapango)",
-      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 201084,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "duration_ms": 198791,
+      "name": "La Guitarra de Lolo (Huapango)",
+      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Lives, Vol. 1",
-        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 192458,
-      "name": "Hola Que Tal",
-      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Comenzando Nuestra Historia",
         "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 160653,
       "name": "Las Mulas De Moreno",
       "url": "https://open.spotify.com/track/3sn9KvzdpRee9gVOrPTRCV"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Lives, Vol. 1",
+        "url": "https://open.spotify.com/album/4TZDqkxobju0CAUYy3NbuT"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 192458,
+      "name": "Hola Que Tal",
+      "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 195103,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Arrasando Con Fuego",
         "url": "https://open.spotify.com/album/4gDcs5NsKydsBzvcskgs2g"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "La Del Mo\u00f1o Colorado",
+        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Los Pedernales",
+          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
         }
       ],
-      "duration_ms": 207737,
-      "name": "Orgullosa Mar\u00eda",
-      "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
+      "duration_ms": 300733,
+      "name": "La Del Mo\u00f1o Colorado",
+      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -887,6 +871,38 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 207737,
+      "name": "Orgullosa Mar\u00eda",
+      "url": "https://open.spotify.com/track/1nZKtN7ZTkU3b49EtKW2Qj"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/6goSFfGUhQrxImb5hFvQOc"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 195103,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
         "name": "El Coco No",
         "url": "https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 172293,
       "name": "Le Quito Lo Fresa",
       "url": "https://open.spotify.com/track/5rk9nYwmJRrYZ5Agz98xmZ"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
-        "name": "La Del Mo\u00f1o Colorado",
-        "url": "https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR"
-      },
-      "artists": [
-        {
-          "name": "Los Pedernales",
-          "url": "https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "La Del Mo\u00f1o Colorado",
-      "url": "https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "16 Enormes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 171549,
-      "name": "Pelotero A La Bola",
-      "url": "https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 181968,
       "name": "Sal con Lim\u00f3n",
       "url": "https://open.spotify.com/track/6arEdpIPcdyAPtvPcwZ9YD"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "16 Enormes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 171549,
+      "name": "Pelotero A La Bola",
+      "url": "https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm"
     },
     {
       "added_at": "2022-08-01 23:09:40",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Chiquilla Cari\u00f1osa",
-      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Amantes y Amigos",
         "url": "https://open.spotify.com/album/0tWAvCVdsuADUPRtq5ns5d"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205355,
       "name": "Rumor de Cumbia",
       "url": "https://open.spotify.com/track/487vHBsyukrh7NwNfYP8ed"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/6niRn6fcyQMbjHbtySnT08"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "Chiquilla Cari\u00f1osa",
+      "url": "https://open.spotify.com/track/2UV1TAfnGEITP4xspHUcBG"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/3rHsX3TLPYixr7eGzRlZqI"
     },
     {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
-        "name": "Tumbando Ca\u00f1a",
-        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153893,
-      "name": "El Alacr\u00e1n",
-      "url": "https://open.spotify.com/track/724EmguSZnZkNYegszQgig"
-    },
-    {
       "added_at": "2022-04-27 18:49:19",
       "album": {
         "name": "En Vivo Desde Hacienda Heights",
@@ -1315,6 +1299,22 @@
       "duration_ms": 522409,
       "name": "Popurri De Cumbias (En Vivo)",
       "url": "https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Tumbando Ca\u00f1a",
+        "url": "https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153893,
+      "name": "El Alacr\u00e1n",
+      "url": "https://open.spotify.com/track/724EmguSZnZkNYegszQgig"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 228502,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "De Corazon Ranchero",
-        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
       "artists": [
         {
-          "name": "Alacranes Musical",
-          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 267650,
-      "name": "Zapateado Encabronado #3",
-      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
+      "duration_ms": 228502,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/57wRXy4jEeTVQvXCl4j2oq"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1619,6 +1603,22 @@
       "duration_ms": 196800,
       "name": "Las mujeres quieren bailar",
       "url": "https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "De Corazon Ranchero",
+        "url": "https://open.spotify.com/album/43uickJMbErAxX7qLrqHwV"
+      },
+      "artists": [
+        {
+          "name": "Alacranes Musical",
+          "url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda"
+        }
+      ],
+      "duration_ms": 267650,
+      "name": "Zapateado Encabronado #3",
+      "url": "https://open.spotify.com/track/35COOJVYzJ7fVz7EXaMKSv"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1669,22 +1669,6 @@
       "url": "https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU"
     },
     {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
-        "name": "Nuestro Destino, Vol. 2",
-        "url": "https://open.spotify.com/album/2I9GY9r0B7ZwqiPmgD3nwB"
-      },
-      "artists": [
-        {
-          "name": "La Alianza Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
-        }
-      ],
-      "duration_ms": 188586,
-      "name": "Las Viejitas",
-      "url": "https://open.spotify.com/track/4hc0Cq5hL51wH7u9rkW3zZ"
-    },
-    {
       "added_at": "2022-08-01 23:09:40",
       "album": {
         "name": "De Parranda Lives Vol. 1",
@@ -1715,6 +1699,22 @@
       "duration_ms": 191956,
       "name": "La Burra Orejona",
       "url": "https://open.spotify.com/track/2U8586LzgHPHmcqd2PlQWV"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Nuestro Destino, Vol. 2",
+        "url": "https://open.spotify.com/album/2I9GY9r0B7ZwqiPmgD3nwB"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Las Viejitas",
+      "url": "https://open.spotify.com/track/4hc0Cq5hL51wH7u9rkW3zZ"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 160011,
-      "name": "Mujer Interesada",
-      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "F\u00edjate Mi Hijita",
         "url": "https://open.spotify.com/album/4WGz60FJeYHbI0lpkKzk0w"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 177600,
       "name": "F\u00edjate Mi Hijita",
       "url": "https://open.spotify.com/track/6YvARWYOBOEwUWITrfYPUB"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 160011,
+      "name": "Mujer Interesada",
+      "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1799,6 +1799,22 @@
       "duration_ms": 178933,
       "name": "Por Una Lagrima",
       "url": "https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Cuarentena",
+        "url": "https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Vanidosa",
+      "url": "https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Cuarentena",
-        "url": "https://open.spotify.com/album/2LT6UCYbbOx7KbXgxG73rV"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Vanidosa",
-      "url": "https://open.spotify.com/track/1BMYzxO9iuPGmi5jeR6HS3"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Los Reyes Del Baile",
         "url": "https://open.spotify.com/album/7DL853qsnorJL4jKap209q"
       },
@@ -1881,22 +1881,6 @@
       "url": "https://open.spotify.com/track/6epL6q0D2Rei2ek1au5uc9"
     },
     {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/50F2Qk3NJDPsqXGP4SL3xQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Legitimo",
-          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
-        }
-      ],
-      "duration_ms": 172042,
-      "name": "Huapango el Pluma Blanca",
-      "url": "https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly"
-    },
-    {
       "added_at": "2022-08-01 23:09:40",
       "album": {
         "name": "En Vivo Desde El Valle",
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "10 Pa' Huapanguear",
-        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/50F2Qk3NJDPsqXGP4SL3xQ"
       },
       "artists": [
         {
-          "name": "La Kumbre Con K",
-          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
         }
       ],
-      "duration_ms": 169740,
-      "name": "El Mariachi (Huapango)",
-      "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
+      "duration_ms": 172042,
+      "name": "Huapango el Pluma Blanca",
+      "url": "https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -2003,18 +1987,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
         }
       ],
-      "duration_ms": 174680,
-      "name": "Con Zapatos De Tac\u00f3n",
-      "url": "https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs"
+      "duration_ms": 169740,
+      "name": "El Mariachi (Huapango)",
+      "url": "https://open.spotify.com/track/4T9zeXSlH6sWDDFeEEiCZX"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
       "artists": [
         {
-          "name": "Los Rugar",
-          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 216163,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
+      "duration_ms": 174680,
+      "name": "Con Zapatos De Tac\u00f3n",
+      "url": "https://open.spotify.com/track/3bCgm8HYZ3IrL7X0EcSRLs"
     },
     {
       "added_at": "2022-04-08 23:07:22",
@@ -2063,6 +2047,22 @@
       "duration_ms": 250826,
       "name": "La Cara Sucia",
       "url": "https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "duration_ms": 216163,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/2qwttvkZlaWPM1siV1CHlc"
     },
     {
       "added_at": "2022-07-04 19:30:47",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-04-08 23:07:22",
       "album": {
-        "name": "Popurr\u00ed De Cumbias... A Bailar Con Los Pepe's",
-        "url": "https://open.spotify.com/album/0Wz5x8cNgXZAo5sLsIEw4E"
-      },
-      "artists": [
-        {
-          "name": "Los Pepe's Norte\u00d1o",
-          "url": "https://open.spotify.com/artist/1WvzH7P4Tb1xHZamsLxOF2"
-        }
-      ],
-      "duration_ms": 233467,
-      "name": "Amanda Baila Con La Banda",
-      "url": "https://open.spotify.com/track/5Yjn82Y8uI6qsq0jRGVBD6"
-    },
-    {
-      "added_at": "2022-04-08 23:07:22",
-      "album": {
         "name": "Cumbia Del Violincito",
         "url": "https://open.spotify.com/album/605BJyaAQNPrwOptIBDZ8K"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 136752,
       "name": "A Qui\u00e9n No Le Gusta Eso",
       "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
+    },
+    {
+      "added_at": "2022-04-08 23:07:22",
+      "album": {
+        "name": "Popurr\u00ed De Cumbias... A Bailar Con Los Pepe's",
+        "url": "https://open.spotify.com/album/0Wz5x8cNgXZAo5sLsIEw4E"
+      },
+      "artists": [
+        {
+          "name": "Los Pepe's Norte\u00d1o",
+          "url": "https://open.spotify.com/artist/1WvzH7P4Tb1xHZamsLxOF2"
+        }
+      ],
+      "duration_ms": 233467,
+      "name": "Amanda Baila Con La Banda",
+      "url": "https://open.spotify.com/track/5Yjn82Y8uI6qsq0jRGVBD6"
     },
     {
       "added_at": "2022-07-04 19:30:47",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/7j8eYd7AoIWI5o9WI1zGBs"
     },
     {
-      "added_at": "2022-08-01 23:09:40",
-      "album": {
-        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
-        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Encadenada a Mi",
-      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
-    },
-    {
       "added_at": "2022-04-08 23:07:22",
       "album": {
         "name": "En Vivo",
@@ -2383,6 +2367,22 @@
       "duration_ms": 233106,
       "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
       "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
+    },
+    {
+      "added_at": "2022-08-01 23:09:40",
+      "album": {
+        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
+        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Encadenada a Mi",
+      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
     },
     {
       "added_at": "2022-04-08 23:07:22",

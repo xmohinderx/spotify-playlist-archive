@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-167 songs - 9 hr 13 min - [published](https://open.spotify.com/playlist/6IpcksdUvSGLIcSPPeLhih)
+168 songs - 9 hr 16 min - [published](https://open.spotify.com/playlist/6IpcksdUvSGLIcSPPeLhih)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 | 2022-09-08 |  |
 | [Overloved](https://open.spotify.com/track/0w6qh5d8G5PoJatb7HoDrs) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Overloved](https://open.spotify.com/album/38rPxIOqhYF5LI4J8janwV) | 3:03 | 2022-09-08 |  |
 | [Patience](https://open.spotify.com/track/0JZ9lcwFcAscMpy1YxUtpW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 2:55 | 2022-09-08 |  |
-| [Pray](https://open.spotify.com/track/7vl6ANTdLHg94AvCYXiSIw) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:20 | 2022-09-08 |  |
+| [Pray](https://open.spotify.com/track/7vl6ANTdLHg94AvCYXiSIw) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:20 | 2022-09-08 | 2022-10-31 |
+| [Pray \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/3xDU1hmNvH6VfD4qctChIq) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [Rooty](https://open.spotify.com/artist/720RCq9SXgR5AnA4t3hxld) | [Sex Music](https://open.spotify.com/album/6hHYy8Gc4dOtfyXjwhx4nD) | 3:20 | 2022-10-30 |  |
 | [Prescriptions](https://open.spotify.com/track/6TNZaCv1Togun3NT1HqdP9) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Garden of Eden](https://open.spotify.com/album/5qXrV4ZkxKeHtXhfApE7ge) | 3:47 | 2022-09-08 |  |
 | [pretty toxic revolver](https://open.spotify.com/track/28SCx38ziqfg3wwhnhFmvZ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lockdown sessions](https://open.spotify.com/album/38kBJGfjhkTGqBs5EqoaMN) | 2:46 | 2022-09-08 |  |
 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 | 2022-09-08 |  |

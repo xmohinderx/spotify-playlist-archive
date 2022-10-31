@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Williams
 
-313 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
+314 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/5yqeqnGwA3WW1b3xVN4nfp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 | 2022-08-05 |  |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
-| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 |  |
+| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 | 2022-10-31 |
+| [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-09 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 | 2022-09-10 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |

@@ -4,7 +4,7 @@
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 51 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
+61 songs - 3 hr 54 min - [published](https://open.spotify.com/playlist/41prJYhrgPNDi8w3ldhpb3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [I Got the Six \- 2008 Remaster](https://open.spotify.com/track/2WcnvJKsp1aYs8xp2nJyDN) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 2:54 | 2022-10-06 |  |
 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 | 2022-09-17 |  |
 | [I Need You Tonight \- 2008 Remaster](https://open.spotify.com/track/4s22XSQoOFvN5HrXk9YZ3I) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 6:18 | 2022-09-17 |  |
+| [I Thank You](https://open.spotify.com/track/4iIU7YoqElLJa6gNx9mDx2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/339EONXrRgL9iLpxOKrUJZ) | 3:24 | 2022-10-30 |  |
 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/7hq8ntGVskliIPeoP99nA2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's Greatest Hits](https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh) | 4:46 | 2022-09-17 |  |
 | [If I Could Only Flag Her Down \- 2008 Remaster](https://open.spotify.com/track/12kRyzNezk2nE2EzJ2nq2l) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 3:40 | 2022-09-17 | 2022-09-19 |
 | [Jailhouse Rock \- 2005 Remaster](https://open.spotify.com/track/1MRidycoVNBWpBTOkD84rX) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 1:55 | 2022-09-17 |  |
@@ -44,7 +45,7 @@
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2022-09-17 |  |
 | [Legs \- 2008 Remaster](https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:33 | 2022-09-17 |  |
 | [Leila](https://open.spotify.com/track/7tnAAu1R09JUyjor6gwBrG) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [El Loco](https://open.spotify.com/album/3arG8ypefLVEmDBzFVCsyR) | 3:15 | 2022-09-17 | 2022-10-13 |
-| [Loaded](https://open.spotify.com/track/27KdS3l2l5hr611LJPZoxD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:46 | 2022-09-17 |  |
+| [Loaded](https://open.spotify.com/track/27KdS3l2l5hr611LJPZoxD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 3:46 | 2022-09-17 | 2022-10-31 |
 | [Master of Sparks \- 2006 Remaster](https://open.spotify.com/track/5QlRoZ3eJRwFOK8xBQf44y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:29 | 2022-09-24 |  |
 | [Mexican Blackbird \- 2005 Remaster](https://open.spotify.com/track/7rbm9b3fLOKCCBqNFVdkWV) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/4krv5xmTGdK9LhWINUkVgO) | 3:05 | 2022-09-17 |  |
 | [Move Me on Down the Line \- 2005 Remaster](https://open.spotify.com/track/2afW0UsI1mU9mREstUTwu6) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 2:31 | 2022-09-21 | 2022-10-11 |

@@ -4,7 +4,7 @@
 
 > you up?
 
-327 songs - 18 hr 42 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+328 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [DJ](https://open.spotify.com/track/29wNcK0QMe1MCASeDfdGpc) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 3:16 | 2022-05-12 | 2022-05-20 |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2022-03-25 |  |
 | [do re mi](https://open.spotify.com/track/3sTCfUmYXSVWDacTd6uMbQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [do re mi](https://open.spotify.com/album/2pVmCOuvfn3SbDgR2QW3lW) | 3:32 | 2022-02-04 | 2022-04-12 |
+| [do re mi](https://open.spotify.com/track/6Se3x9ANMLv0dCDsjGmEjh) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [digital druglord](https://open.spotify.com/album/0a8WSH44kA5hR4MQ6LyFDB) | 3:32 | 2022-10-24 |  |
 | [Don't Let Me Down \(feat\. Khalid\)](https://open.spotify.com/track/2cSiyndkQZRPmYOfrk9WlC) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Don't Let Me Down / All to You](https://open.spotify.com/album/1NkkXbEvt3lhsVdgYYf8tn) | 2:56 | 2022-04-01 | 2022-04-19 |
 | [don't stop](https://open.spotify.com/track/4Zz7qwjSgxs9sRnOP2KjHb) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [help](https://open.spotify.com/album/4PcOLASOD0VikPG4yB3bxg) | 2:50 | 2022-03-25 | 2022-04-21 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-07-22 |  |
@@ -323,7 +324,7 @@
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 | 2022-02-04 | 2022-07-29 |
 | [Want U Back](https://open.spotify.com/track/7afpDI6k8fFpRuqEYFMxqR) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Want U Back](https://open.spotify.com/album/3TlH0am1m85oTah0V5MjWR) | 3:09 | 2022-03-25 | 2022-04-14 |
 | [WFM](https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/6Ol3bTDsZvYrW9jkSqMsZl) | 2:16 | 2022-02-04 | 2022-07-29 |
-| [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 |  |
+| [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 | 2022-07-22 | 2022-10-31 |
 | [What Should I Say](https://open.spotify.com/track/6Pdxztzy2HcnrfkJmVSoUp) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 4:06 | 2022-03-25 | 2022-04-20 |
 | [What You Need](https://open.spotify.com/track/7iC56CDz8miPDKaH0OEIqS) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:37 | 2022-02-04 | 2022-04-20 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-11 | 2022-08-25 |

@@ -4,7 +4,7 @@
 
 > Rave season is upon us\. Album week for Fred again..!
 
-207 songs - 15 hr 23 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
+208 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/6LxQz3tR6jvzX341WLcVzk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Darkness](https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [Timelapse](https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy) | 7:58 | 2022-10-20 |  |
 | [Dedication To House Music](https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W) | [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Dedication To House Music](https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl) | 3:30 | 2022-10-20 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2022-10-26 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-27 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 | 2022-10-31 |
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-15 |  |
 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 | 2022-08-18 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-847 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+848 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [Waking](https://open.spotify.com/track/1ARKuBQQNe0W9TrrnDDdxZ) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Twin](https://open.spotify.com/album/3UE5nSckTW1SSgepfBbabG) | 2:25 | 2022-01-12 |  |
 | [Walking On The Clouds](https://open.spotify.com/track/6tajJWMygz8F9iaqHIvLUC) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:04 | 2022-03-03 |  |
 | [Wander](https://open.spotify.com/track/5R6Ey3mGYd1pWjqKLmUVAV) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Near](https://open.spotify.com/album/4gEyJJ0yLUrkTz0WAz1TkO) | 1:15 | 2022-01-12 |  |
+| [Wanting \- Cello Version](https://open.spotify.com/track/1MxkvfQWGjdg2QZw5hv7fC) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Wanting](https://open.spotify.com/album/2ASkVaz4tURTFVb41iLbsR) | 1:01 | 2022-10-30 |  |
 | [Warm Beat Of Your Heart](https://open.spotify.com/track/7G5iEhcOC7xMhEp56nXmRO) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:03 | 2022-02-11 |  |
 | [Warm Beating Hearts](https://open.spotify.com/track/6JnNnCIFUGPlMd1icdNw0n) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [In Silence](https://open.spotify.com/album/1k8oBz5yBunH2xK8SwRL3V) | 1:20 | 2022-01-12 |  |
 | [Warm Embrace](https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 1:50 | 2022-01-12 |  |

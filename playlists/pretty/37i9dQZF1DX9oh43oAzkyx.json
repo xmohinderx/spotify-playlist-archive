@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 1366041,
+  "num_followers": 1366702,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDliMTNkMTVhZDRhNzIyNTRlYjg0ZDIwZjFkZmI2N2Vk",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGI0NDgzZmRhZjk0MTc1NGE4YTI2OGYzNmQyNmRkMGI0",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Mr. Davis",
+        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 233087,
+      "name": "I Get the Bag (feat. Migos)",
+      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
         "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 202794,
       "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
       "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Mr. Davis",
-        "url": "https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 233087,
-      "name": "I Get the Bag (feat. Migos)",
-      "url": "https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Hall of Fame",
-      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Over The Top (feat. Drake)",
         "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
       },
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Hall of Fame",
+      "url": "https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 132750,
-      "name": "Umm Hmm",
-      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+      "duration_ms": 203367,
+      "name": "Worldwide Steppers",
+      "url": "https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 203367,
-      "name": "Worldwide Steppers",
-      "url": "https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW"
+      "duration_ms": 132750,
+      "name": "Umm Hmm",
+      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 138673,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "24 (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 182857,
       "name": "24 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/2NC8n49lFlTCONmjtGb2fI"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 138673,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/3umPlMokEzAFxJO33tNdlY"
     }
   ],
   "unique_name": "Beast Mode Hip-Hop",

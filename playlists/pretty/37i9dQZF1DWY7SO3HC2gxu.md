@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 565 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 571 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 48 | [Nzaui](https://open.spotify.com/track/1gVvEiFHMWlG6XJxRmVVz3) | [DJ Fita](https://open.spotify.com/artist/3JZjnPldr5tbimjkX4kz49), [Kimina](https://open.spotify.com/artist/0uvY69V1mp1IgYgq8LvZXq) | [Nzaui](https://open.spotify.com/album/1Wt7M1tUJBg9ODXHi3OSoG) | 4:37 |
 | 49 | [PAMOJA](https://open.spotify.com/track/4LNtR0RYh9Ewgfqlr11sgZ) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25) | [PAMOJA](https://open.spotify.com/album/48ZvKNoTGfyPvH3DDc3eUu) | 4:12 |
 | 50 | [MaMirenza](https://open.spotify.com/track/7j2hOS24pyOMXdeOEX26TA) | [Dean Mickoski](https://open.spotify.com/artist/51HLurY6ZdJtatIdyeOrBI), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [MaMirenza](https://open.spotify.com/album/6EhldcthsK2HUqwSZMGm97) | 3:34 |
-| 51 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
+| 51 | [Thaai \- Dj Tomer & Ricardo's Voodoo Tribe Remix](https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj) | [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Tina Ardor](https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD), [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo](https://open.spotify.com/artist/1QFkERAzKnyz7FUo6GmlYL) | [Thaai Ep](https://open.spotify.com/album/00KkvpgOlPf8TZZVbsagm5) | 7:30 |
 | 52 | [Oriti](https://open.spotify.com/track/6FW8sVbEWMMXcRqw2Q2fKL) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Sazile](https://open.spotify.com/album/70p6iWxnxROz7H3trDjL8y) | 3:40 |
 | 53 | [Mwizi I](https://open.spotify.com/track/5a63J7bbhFrVvMBra0Gsne) | [Nabalayo](https://open.spotify.com/artist/6VLoIsF1KmrGxa5f2y0Uyz), [NKC](https://open.spotify.com/artist/07SeyItME34CSi1sZ4GYF4) | [Mwizi](https://open.spotify.com/album/2EdL2lTcgDGursdwYZq5t6) | 3:34 |
 | 54 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 |

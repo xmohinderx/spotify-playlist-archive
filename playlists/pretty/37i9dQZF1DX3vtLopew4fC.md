@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume! Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,550 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,553 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 |
 | 2 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
-| 3 | [Twennies](https://open.spotify.com/track/2JKUKfXVAGuaEHLZKEzXFH) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/0WTmYak2Ws78H1nxSJim9m) | 2:51 |
+| 3 | [Twennies](https://open.spotify.com/track/4rQN9ctroHBUq5vM2XqL7A) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/7KVq8uIZGDmSi0XCcFnBBC) | 2:51 |
 | 4 | [HABIBI \(MY LOVE\)](https://open.spotify.com/track/7IZ5mUwsHLULx7vTHLzIHE) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [HABIBI \(MY LOVE\)](https://open.spotify.com/album/27wb1fwl2aMDdmoUOCaQY3) | 2:29 |
 | 5 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 |
 | 6 | [uh oh](https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [uh oh](https://open.spotify.com/album/0m9hqW0RDEHPNXxhiFUGSq) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 |
 | 50 | [I Let My Plant Die](https://open.spotify.com/track/646qEtK5KSUDEmVLmJiLfE) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [I Let My Plant Die](https://open.spotify.com/album/1c4s3k9S4QEJRwVkta2JQq) | 4:02 |
 
-Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMDEzMTBjODFkNjYzYmE2ZGY3Y2YwNWY4NmZjOTkzMDEx`
+Snapshot ID: `MTY2NTU4OTY4NSwwMDAwMDAwMGYxMzZkZDQ5YzIwMzNmMzI4N2YxMjZiOTVkMjEyYjIx`

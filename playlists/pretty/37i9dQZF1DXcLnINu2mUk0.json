@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 19764,
+  "num_followers": 19810,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGFhNjIxNmIzZTVjNGQ3NDdjZGIxYmFhMDRiYTljY2Ni",
+  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGQwYTBlYWMyMzdhNDAyZmQ4OTg2ZGEwMzZhMDY3OGUz",
   "tracks": [
     {
       "added_at": "2022-10-27 23:00:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Ka nu komplika",
+        "url": "https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW"
+      },
+      "artists": [
+        {
+          "name": "Ricky Man",
+          "url": "https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n"
+        },
+        {
+          "name": "Valter LS",
+          "url": "https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Ka nu komplika",
+      "url": "https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "J\u00e1 N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS"
       },
@@ -979,22 +999,18 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "Ka nu komplika",
-        "url": "https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW"
+        "name": "Naufr\u00e1gio",
+        "url": "https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131"
       },
       "artists": [
         {
-          "name": "Ricky Man",
-          "url": "https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n"
-        },
-        {
-          "name": "Valter LS",
-          "url": "https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P"
+          "name": "Rikas",
+          "url": "https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a"
         }
       ],
-      "duration_ms": 199363,
-      "name": "Ka nu komplika",
-      "url": "https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD"
+      "duration_ms": 134000,
+      "name": "Naufr\u00e1gio",
+      "url": "https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 184776,
       "name": "Dist\u00e2ncia",
       "url": "https://open.spotify.com/track/051QwtFGs13k9NTCDN6AFR"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Naufr\u00e1gio",
-        "url": "https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131"
-      },
-      "artists": [
-        {
-          "name": "Rikas",
-          "url": "https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Naufr\u00e1gio",
-      "url": "https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t"
     },
     {
       "added_at": "2022-10-27 23:00:00",

@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 174419,
       "name": "Another Day in Paradise",
       "url": "https://open.spotify.com/track/6fXe5bkRkUlsIhk1hrsZ0w"
@@ -1623,6 +1623,28 @@
       "duration_ms": 200133,
       "name": "Country Boy Two-Step",
       "url": "https://open.spotify.com/track/3eOYEtWoSfj6x8xlbosIEn"
+    },
+    {
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/0pcRdTAIkItbFdyRA4CVZM"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "CP_009_ \u00c9videmment",
+      "url": "https://open.spotify.com/track/5XoaHIInmGuv7j6KssXWBg"
     },
     {
       "album": {
@@ -4388,6 +4410,24 @@
     },
     {
       "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151307,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4EXfwVdsRBBcyuSSy3CMlT"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/1Va7zXtwepB11AFFmJAq1l"
       },
@@ -4493,7 +4533,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"

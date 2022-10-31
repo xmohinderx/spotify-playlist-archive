@@ -1,12 +1,12 @@
 {
   "description": "alternative hits of today, tomorrow, and then some. Cover: Blu DeTiger",
-  "num_followers": 82178,
+  "num_followers": 82202,
   "original_name": "Et Alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDA1MTQ3NDk3ZTM0ZDM4OTU3YTU3OThlNDU1MGM3ZDBj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGM3MzQxMzE4MDAxNDA2YTc2YWYzYmM3NDk2NTE4YTQw",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Further Joy",
-        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "Barely on My Mind",
-      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Natural Born Killer/Pink Lullabye",
         "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Further Joy",
+        "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Barely on My Mind",
+      "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183440,
       "name": "Then It All Goes Away",
       "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Charlie",
-        "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 184797,
-      "name": "Charlie",
-      "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 124247,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Charlie",
+        "url": "https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 184797,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Slush Puppy",
+          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+        }
+      ],
+      "duration_ms": 138894,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Angry Woman",
         "url": "https://open.spotify.com/album/3hHui1DLg3l29i1oUlJdyZ"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 153002,
       "name": "Angry Woman",
       "url": "https://open.spotify.com/track/02u8fWfWsiT2oML2jTICzs"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "DIE OUT HERE (feat. POORSTACY)",
-        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 134266,
-      "name": "DIE OUT HERE (feat. POORSTACY)",
-      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/4K0SoLhBPIKak9dWJI2dYg"
+        "name": "DIE OUT HERE (feat. POORSTACY)",
+        "url": "https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ"
       },
       "artists": [
         {
-          "name": "Lost Kings",
-          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
         },
         {
-          "name": "Slush Puppy",
-          "url": "https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh"
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
         }
       ],
-      "duration_ms": 138894,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/1yALPtLaDOgEuWvgEUFKpc"
+      "duration_ms": 134266,
+      "name": "DIE OUT HERE (feat. POORSTACY)",
+      "url": "https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 192878,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Wonderful Life",
         "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
       },
@@ -1175,6 +1159,38 @@
       "duration_ms": 174986,
       "name": "This Is What They Meant",
       "url": "https://open.spotify.com/track/0tZHm9L4ssbjBoJ2N5vOiK"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 192878,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Into My Body",
+        "url": "https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 144280,
+      "name": "Into My Body",
+      "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 196592,
+      "name": "Lucky - Edit",
+      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw"
       },
@@ -1255,22 +1287,6 @@
       "duration_ms": 144478,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/3dWy0VondkohX7GE6aOI3c"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 196592,
-      "name": "Lucky - Edit",
-      "url": "https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1327,6 +1343,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "ACT I & II",
+        "url": "https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 216547,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "The Rodeo",
         "url": "https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv"
       },
@@ -1359,34 +1391,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "ACT I & II",
-        "url": "https://open.spotify.com/album/03V8BTCJiId2kr7HktYpJb"
+        "name": "Wet Cement",
+        "url": "https://open.spotify.com/album/09nVh8buc4n4lewLvRpSQG"
       },
       "artists": [
         {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
         }
       ],
-      "duration_ms": 216547,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4h29sbk9D6LsjFPrOw6CZn"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bumblebee",
-        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
+      "duration_ms": 273299,
+      "name": "Wet Cement",
+      "url": "https://open.spotify.com/track/5RQcH5zJ6moLeBX3ZA2A0W"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1403,6 +1419,22 @@
       "duration_ms": 250053,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bumblebee",
+        "url": "https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1451,18 +1483,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Into My Body",
-        "url": "https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6"
+        "name": "I Do You",
+        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 144280,
-      "name": "Into My Body",
-      "url": "https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34"
+      "duration_ms": 224080,
+      "name": "I Do You",
+      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1479,22 +1511,6 @@
       "duration_ms": 124564,
       "name": "Martian Man",
       "url": "https://open.spotify.com/track/3BHXBrDpZSRhmNWExBfYGZ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "I Do You",
-        "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "I Do You",
-      "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
-        "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
+        "name": "French Blonde",
+        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
       },
       "artists": [
         {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
         }
       ],
-      "duration_ms": 189246,
-      "name": "3am in nyc",
-      "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
+      "duration_ms": 200988,
+      "name": "All Day I Dream About",
+      "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1559,6 +1575,22 @@
       "duration_ms": 183933,
       "name": "landline",
       "url": "https://open.spotify.com/track/7J2SaxOOWpKsXgCjlQQ7o0"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine",
+        "url": "https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "3am in nyc",
+      "url": "https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1591,22 +1623,6 @@
       "duration_ms": 201355,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/7cLhZY2sXnlL0Rd06p8MRW"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "French Blonde",
-        "url": "https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "All Day I Dream About",
-      "url": "https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 228466,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Come Apart",
-        "url": "https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Come Apart",
-      "url": "https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio"
     }
   ],
   "unique_name": "Et Alt",

@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 45783,
+  "num_followers": 45925,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGM5MmIzYWVjMTgyM2NhN2Q3NTJmODhlNTc1M2FjYTNi",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDlhZWMwZjkxYTI5NjkxZjNmMGRmYWIwNjQxNzY1MjUz",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -255,18 +239,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
       },
       "artists": [
         {
-          "name": "Jeff Golub",
-          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 266106,
-      "name": "On The Wes Side",
-      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -283,6 +267,22 @@
       "duration_ms": 245226,
       "name": "I'm Waiting For You",
       "url": "https://open.spotify.com/track/2Wn7ZtdXyJ9uGBg2j6VvZR"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/1xkLVUGXlLZv5zsvJHMfxV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Golub",
+          "url": "https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "On The Wes Side",
+      "url": "https://open.spotify.com/track/1v8gTqiwsGZycNqn0dEvGh"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+        "name": "GK",
+        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+      "duration_ms": 287840,
+      "name": "Floating in Bahia",
+      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 257373,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "GK",
-        "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Floating in Bahia",
-      "url": "https://open.spotify.com/track/1BqqbWS4ODVIztjF5GLHXM"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 276400,
       "name": "Now 'Til Forever",
       "url": "https://open.spotify.com/track/4L2lzMYxwE4ObPozyV1idl"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 326213,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/414uzeqYmcEiQ42Gy5Kyif"
       },
@@ -483,8 +467,8 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+      "duration_ms": 313066,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -515,22 +499,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Soul Dance",
-      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -547,18 +515,34 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
       },
       "artists": [
         {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
         }
       ],
-      "duration_ms": 269173,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
+      "duration_ms": 254266,
+      "name": "Soul Dance",
+      "url": "https://open.spotify.com/track/2ZKdcqyDje4i0PtjCrPkrf"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 326213,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2v9hQceHtGZdE4WbTFdhWM"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -579,6 +563,38 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1oFONPY1hZ7CUliqjNBYCR"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "For Your Pleasure",
         "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
@@ -591,6 +607,22 @@
       "duration_ms": 263400,
       "name": "Nice And Easy",
       "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Maybe Tonight",
+      "url": "https://open.spotify.com/track/0DTbUP7Wol0DDDMCj8m9qU"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -615,22 +647,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/4zruOfVUsfrvLZ9lkND7mW"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/3SLymEfGv5dc6gjCw3fMjL"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Work to Do",
         "url": "https://open.spotify.com/album/6THuvzMAocj3aImePgicNH"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 293133,
       "name": "100 Ways",
       "url": "https://open.spotify.com/track/1tzvGxXC02SugH5Gc3zwdc"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Maybe Tonight",
-      "url": "https://open.spotify.com/track/0DTbUP7Wol0DDDMCj8m9qU"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 346266,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 266693,
+      "name": "The Closer I Get To You",
+      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Out Of A Dream",
         "url": "https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 233042,
       "name": "When I Say Your Name",
       "url": "https://open.spotify.com/track/4VvmZr5VeluMwzK71PL1vr"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5"
-      },
-      "artists": [
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
-        }
-      ],
-      "duration_ms": 266693,
-      "name": "The Closer I Get To You",
-      "url": "https://open.spotify.com/track/4Yo6PbuZYIqlXSp7eAw2e4"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Excusez-Moi",
-        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
+        "name": "South Beach",
+        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
         }
       ],
-      "duration_ms": 356040,
-      "name": "Dreamwalk",
-      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
+      "duration_ms": 254746,
+      "name": "Can't Tell You Why",
+      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "South Beach",
-        "url": "https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO"
+        "name": "Excusez-Moi",
+        "url": "https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
         }
       ],
-      "duration_ms": 254746,
-      "name": "Can't Tell You Why",
-      "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
+      "duration_ms": 356040,
+      "name": "Dreamwalk",
+      "url": "https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "In the Moment",
-        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
-      },
-      "artists": [
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "The Collected",
         "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 325666,
       "name": "Take-Out Dreams",
       "url": "https://open.spotify.com/track/0Bg4h1WNPOuUaLVjharMGK"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1PA4zjWrIdycExmlDIxYHk"
+      },
+      "artists": [
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/3fIjgiM4QNP8xz6MyUwetQ"
     },
     {
       "added_at": "2022-10-13 22:00:00",

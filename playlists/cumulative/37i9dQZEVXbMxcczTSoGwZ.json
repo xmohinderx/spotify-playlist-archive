@@ -5861,7 +5861,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 174270,
       "name": "Hentoo",
       "url": "https://open.spotify.com/track/2WNHq7K0lpxEKqI5h7i213"
@@ -9573,7 +9573,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 226996,
       "name": "Kyl\u00e4baari",
       "url": "https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA"
@@ -10507,6 +10507,24 @@
       "duration_ms": 264338,
       "name": "Loppuun asti (Vain el\u00e4m\u00e4\u00e4 kausi 13)",
       "url": "https://open.spotify.com/track/553Q54pcJMbdk1Y5s4qYKr"
+    },
+    {
+      "album": {
+        "name": "Lost Boy (Vain el\u00e4m\u00e4\u00e4 kausi 13)",
+        "url": "https://open.spotify.com/album/4llKnQEPmCTKq5M9rDKmI1"
+      },
+      "artists": [
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228094,
+      "name": "Lost Boy (Vain el\u00e4m\u00e4\u00e4 kausi 13)",
+      "url": "https://open.spotify.com/track/01EVTBLCcWgqGnEjzD4iDz"
     },
     {
       "album": {
@@ -13083,7 +13101,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 170169,
       "name": "Nessu",
       "url": "https://open.spotify.com/track/7rQpUWmlqRKl4F2Z0pkACE"

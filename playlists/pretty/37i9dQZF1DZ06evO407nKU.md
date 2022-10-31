@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,439 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,459 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 36 | [El Amigazo \(En Vivo\)](https://open.spotify.com/track/5UIA7eyt28flCy6kwIiuZ1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [El Amigazo \(En Vivo\)](https://open.spotify.com/album/6B0HeqQznYY6f7WEfQUjOJ) | 3:13 |
 | 37 | [La Hungara \- En Vivo](https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:21 |
 | 38 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
-| 39 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
-| 40 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 |
+| 39 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 |
+| 40 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
 | 41 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
 | 42 | [La Misma Mentira](https://open.spotify.com/track/63e4bOE0jakTcmQH45Wy26) | [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [La Misma Mentira](https://open.spotify.com/album/0bXUFZQiSAYIzVXdlDr2h1) | 3:00 |
 | 43 | [Estas Perdida](https://open.spotify.com/track/7M4QBn5HeBqWvMZvDrP6Jn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:08 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 45 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
 | 46 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 |
 | 47 | [No Vuelvo A Extranarte](https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 |
-| 48 | [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 |
-| 49 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 |
+| 48 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 |
+| 49 | [El Signo Libra](https://open.spotify.com/track/7mUF4SXvY2KvQhcZ1LPIy7) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Mas Perdidos Que Nunca](https://open.spotify.com/album/24UEPopyd47zBd1J4Czvie) | 4:09 |
 | 50 | [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 |
 
-Snapshot ID: `Mjc3ODQyMzIsMDAwMDAwMDBlNzUxMmNhZjM3OGRjYjU4NTVkNDFjYmVkZTgyYjcwMg==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAxOGIzY2UwOTg0Y2U4M2U3ZjZmZjI3Mzc3NGZjN2RkYw==`

@@ -14416,6 +14416,24 @@
     },
     {
       "album": {
+        "name": "Wanting",
+        "url": "https://open.spotify.com/album/2ASkVaz4tURTFVb41iLbsR"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61131,
+      "name": "Wanting - Cello Version",
+      "url": "https://open.spotify.com/track/1MxkvfQWGjdg2QZw5hv7fC"
+    },
+    {
+      "album": {
         "name": "Resting For Now",
         "url": "https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P"
       },

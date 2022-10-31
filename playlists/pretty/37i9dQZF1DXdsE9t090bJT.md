@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Amor a la mexicana, canciones para dedicarle al amor de tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,060 likes - 117 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,092 likes - 117 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 29 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 30 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
 | 31 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 |
-| 32 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
-| 33 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 |
+| 32 | [Contigo](https://open.spotify.com/track/5TphzFf2iv0l3VrFHN08kN) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 3:30 |
+| 33 | [Perfecta En Mis Ojos](https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Perfecta En Mis Ojos](https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp) | 2:45 |
 | 34 | [Espero Con Ansias](https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Mi Princesa](https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ) | 3:34 |
 | 35 | [Dame Tu Calor](https://open.spotify.com/track/4tKEWCeBSeiSJVB9ZURgUz) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:05 |
 | 36 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 63 | [Romántico](https://open.spotify.com/track/0wi7Cq9aRlNz8kaHd4UD9u) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [La Nueva R](https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6) | 2:10 |
 | 64 | [Mía Desde Siempre](https://open.spotify.com/track/704mnm7Sc0jqZjlHKyiVHT) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Labios Mentirosos](https://open.spotify.com/album/7bHWxQdY2ys61jxpYMdicP) | 3:04 |
 | 65 | [Mágicos Besitos](https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mágicos Besitos](https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi) | 3:18 |
-| 66 | [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 |
+| 66 | [Si Quieres](https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Si Quieres](https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe) | 4:33 |
 | 67 | [Bien Me Conoces](https://open.spotify.com/track/2evi3YjhkOYdeE8l6meZtS) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:41 |
 | 68 | [Amor Del Bueno](https://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Amor Del Bueno](https://open.spotify.com/album/2DU3xMuP9OOOzVNMgsTJ1h) | 3:13 |
-| 69 | [Si Quieres](https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Si Quieres](https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe) | 4:33 |
+| 69 | [Dejame Decir](https://open.spotify.com/track/7r4TISG81dgI6DEuwGVNoK) | [Leonilo Jaimes](https://open.spotify.com/artist/0n7CmDFQT0O48cLiBHx7XH) | [Dejame Decir](https://open.spotify.com/album/5xO35NsDA3TfOdAZQjfyUJ) | 3:37 |
 | 70 | [Ella Es Mi Mujer](https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 2:43 |
 | 71 | [Cómo No Quererte](https://open.spotify.com/track/7kAIDORxyLYGjp6t3p4w1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Cómo No Quererte](https://open.spotify.com/album/5lmQBx2ASnM6YDHjcVwoCp) | 2:55 |
 | 72 | [Mi Amor](https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:36 |
 | 73 | [Dios No Se Equivoca](https://open.spotify.com/track/5tqQBihI3m9p8WHp58f8Pg) | [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL) | [Dios No Se Equivoca](https://open.spotify.com/album/58qPlE33MUg9wk4INcEHC2) | 3:25 |
-| 74 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 |
-| 75 | [Labios Rojos](https://open.spotify.com/track/5M28eAihmoCNseTTPF5IWO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Labios Rojos](https://open.spotify.com/album/1ATbGzrsWcBOktM0CGYwEC) | 4:01 |
+| 74 | [Labios Rojos](https://open.spotify.com/track/5M28eAihmoCNseTTPF5IWO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Labios Rojos](https://open.spotify.com/album/1ATbGzrsWcBOktM0CGYwEC) | 4:01 |
+| 75 | [Te Acostumbré A Mis Besos](https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:39 |
 | 76 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 |
 | 77 | [Mi Chula](https://open.spotify.com/track/4hOXWazvMtaijxQYkbooNG) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/6aUbcanpJvwQqa7hs2mxoL) | 2:42 |
 | 78 | [Eres Tú](https://open.spotify.com/track/00d5xg90Mvl5bvK18oliSI) | [Proyecto X](https://open.spotify.com/artist/4LbK7Z2FZbXlk60XtDZlUs) | [Con Más Pawer](https://open.spotify.com/album/6Btf5qRQjRvQKPGFUAstvg) | 2:42 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 101 | [El Privilegio De Quererte](https://open.spotify.com/track/0NXqeBZZb5b3MGU6cadgwP) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Salud Por Nuestro 25 Aniversario](https://open.spotify.com/album/5Y3BvSi0sEk25Mv0YEIsvO) | 3:13 |
 | 102 | [Me Está Gustando \- Versión 30 Aniversario](https://open.spotify.com/track/7GBmd8JHiZM4Eho1grumW6) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [30 Aniversario](https://open.spotify.com/album/52q5WhmITcyCrhmqHHnjgI) | 2:58 |
 | 103 | [El Mejor Perfume](https://open.spotify.com/track/6LBaJdrBpMBb6GMmgFwUPF) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Singles](https://open.spotify.com/album/2H7TFRkGojG9vGK5mLdRUk) | 2:33 |
-| 104 | [Amor Especial](https://open.spotify.com/track/6rywR3dREdUZMENCmlqCQW) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Amor Especial](https://open.spotify.com/album/0WNJU0mfyRvxyWPqOlOnGU) | 3:35 |
-| 105 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 |
+| 104 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 |
+| 105 | [Amor Especial](https://open.spotify.com/track/6rywR3dREdUZMENCmlqCQW) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Amor Especial](https://open.spotify.com/album/0WNJU0mfyRvxyWPqOlOnGU) | 3:35 |
 | 106 | [Ni Yo Me la Creo](https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Ni Yo Me la Creo](https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx) | 3:07 |
 | 107 | [Sólo Me Faltabas Tú](https://open.spotify.com/track/2iczDnKcdpfqxzc5fsFcRP) | [Luciano Luna](https://open.spotify.com/artist/57BbKXJtNatw70ug0uOzQq), [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [Sólo Me Faltabas Tú](https://open.spotify.com/album/2fn1kCf7XoVAZUP2wZRDv5) | 3:30 |
 | 108 | [Buscábamos Lo Mismo](https://open.spotify.com/track/17V8HXbGIOST1So1Xsubox) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Buscábamos Lo Mismo](https://open.spotify.com/album/3yQFeFQ1mX2hp7kM6J2SBK) | 2:49 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 116 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 |
 | 117 | [Ella Es Mi Mujer](https://open.spotify.com/track/3qUU5im2iV5eWOtkWz6ykQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Banda \#1's 2017](https://open.spotify.com/album/0MUo7KxW4ZkYt5pKETaAeO) | 2:43 |
 
-Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMDA2ZGY3MTI4NTU5ZDU1NDA3N2Q2MjI5Y2Q3ODk0NDAy`
+Snapshot ID: `MTY0NDYxMTA5NCwwMDAwMDAwMDZlNzIzNjk1YWQwNmM1ZjdjZGU5YzI2ZTEzMWJlMTI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,691 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,702 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 12 | [El Amuleto](https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Estamos Unidos](https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE) | 3:12 |
 | 13 | [No Me Mires Así](https://open.spotify.com/track/0gikv397tFOxDdS3LvniqN) | [Isabel Marie](https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89) | [No Me Mires Así](https://open.spotify.com/album/56XSJKrTtu8k5SfKTlHI2z) | 3:05 |
 | 14 | [Mi Tesoro](https://open.spotify.com/track/1tIcWX7l6ONDoomJWeizc5) | [The Cardenas Project](https://open.spotify.com/artist/10drv2wv284hpG7j1XLJFt), [David Ledesma](https://open.spotify.com/artist/10BCZee745Q0CYq61V2erB) | [Mi Tesoro](https://open.spotify.com/album/4Y0NtgWtAJvRvgo20xYRHy) | 3:27 |
-| 15 | [Completamente Enamorados](https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH) | [Texas Latino](https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa) | [Fe](https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4) | 2:21 |
-| 16 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 |
+| 15 | [Por Una Cantina](https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV) | [David Farias](https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc) | [Por Una Cantina](https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC) | 3:28 |
+| 16 | [Completamente Enamorados](https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH) | [Texas Latino](https://open.spotify.com/artist/4kPRMVSvX8w6G8bNIOLDaa) | [Fe](https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4) | 2:21 |
 | 17 | [Ni Un Beso](https://open.spotify.com/track/2y14VU6cH3CrwW4dK38rlR) | [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh) | [Ni Un Beso](https://open.spotify.com/album/0XLIIlnNmBnwOnZgvjePLp) | 3:04 |
 | 18 | [Nunca Voy A Olvidarte \- Radio Mix](https://open.spotify.com/track/4BE1uum58SKMg355mqJ1uW) | [Los Lost Boyz](https://open.spotify.com/artist/6exu6higN1IqyJ8kh5xU7K) | [Nunca Voy A Olvidarte \(Radio Mix\)](https://open.spotify.com/album/5UIk6eb8N8pcQSTk8pLVs9) | 3:18 |
 | 19 | [Paloma Sin Nido](https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW) | [Nightlife](https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8) | [On the Same Track](https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K) | 3:31 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 31 | [Mariposas](https://open.spotify.com/track/1Wrecl8aAHUDAYvLk40T4A) | [Demmi Garcia](https://open.spotify.com/artist/710H12NnJsInoaPljAMeuu) | [Mariposas](https://open.spotify.com/album/2a8oKOwOI3JO3SDpsvWTWd) | 3:13 |
 | 32 | [Fuego](https://open.spotify.com/track/72AVNndCkM5kUUcKBS5pjD) | [Rene Ramirez Y Maduro](https://open.spotify.com/artist/6KTFRnm6tChi6OheSZqlJH) | [Fuego](https://open.spotify.com/album/4PYq6JhFzSGwC3ayQxfna6) | 3:20 |
 | 33 | [Nunca Fuiste Mio](https://open.spotify.com/track/0gP1ympsL6ff8wIqo80eLB) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50) | [Girls Night](https://open.spotify.com/album/41UvCBCVsilTGZF6jgfXyM) | 3:28 |
-| 34 | [Vacía](https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e), [Myrza Maldonado](https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk) | [Vacía](https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g) | 3:00 |
-| 35 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
+| 34 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
+| 35 | [Vacía](https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY) | [Destiny Navaira](https://open.spotify.com/artist/3od00zk4OBhNuBGEIsqZ6e), [Myrza Maldonado](https://open.spotify.com/artist/4lDrc1fp7FQT0wYguA1cmk) | [Vacía](https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g) | 3:00 |
 | 36 | [Escapate](https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq) | [Mia](https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5) | [Escapate](https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c) | 3:05 |
 | 37 | [No Quiero Nada](https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq) | [Número Dos](https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07) | 3:12 |
 | 38 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 49 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 | 50 | [A Mi Lado](https://open.spotify.com/track/0iVFfAlTHQSTTMcLci5OTJ) | [Emanuel J](https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq), [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [A Mi Lado](https://open.spotify.com/album/5KPWpRmgFDHChuirQ2UlDf) | 3:50 |
 
-Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMGYyNDcxZmJjYjJhOTc1MDQ3NzMwMjhmNWZiNjA0NWZi`
+Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDA1NGQzNTFiNTNhYWY2ODFjOTcwYTIyMjE1YTBiNTc2`

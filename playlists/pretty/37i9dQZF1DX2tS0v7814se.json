@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con los dulces y tradicionales sonidos de la marimba.",
-  "num_followers": 19610,
+  "num_followers": 19640,
   "original_name": "Marimba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDMzMSwwMDAwMDAwMDFhNDI2YzFmYmUzOTY4ZjkzNzJhMTc4ZDRiMjlmYTA4",
+  "snapshot_id": "MTY0MDgyMDMzMSwwMDAwMDAwMGMzOWZkZTBlYzc0NGUwMTc4MTY2NDlmOTYzZjFiZmQz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:25:31",
@@ -251,26 +251,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Marimbas Y Regional Vol. 1",
-        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
+        "name": "Tradici\u00f3n de 100 A\u00f1os en Marimba Pura. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+          "name": "Internacionales Conejos",
+          "url": "https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf"
         }
       ],
-      "duration_ms": 98871,
-      "name": "Huapango 2",
-      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+      "duration_ms": 194000,
+      "name": "Alegres Camineros",
+      "url": "https://open.spotify.com/track/0K00GmiWkX0Pe6TXK6zoM0"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -291,18 +283,26 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Tradici\u00f3n de 100 A\u00f1os en Marimba Pura. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/2mZDqconWPyMujWlnLE2ux"
+        "name": "Marimbas Y Regional Vol. 1",
+        "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
       "artists": [
         {
-          "name": "Internacionales Conejos",
-          "url": "https://open.spotify.com/artist/60rvB6FcgAca5rMqSWDfSf"
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Alegres Camineros",
-      "url": "https://open.spotify.com/track/0K00GmiWkX0Pe6TXK6zoM0"
+      "duration_ms": 98871,
+      "name": "Huapango 2",
+      "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Estrella de Guatemala",
-          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "El Valle de la Esmeralda",
-      "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 303893,
       "name": "Naila",
       "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Estrella de Guatemala",
+          "url": "https://open.spotify.com/artist/5o869s0h8WQyO8NGSCNvN8"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "El Valle de la Esmeralda",
+      "url": "https://open.spotify.com/track/0M39n76ff47qwAfvyyUnrF"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
-        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Funes y Su Marimba Orquesta",
-          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
-        }
-      ],
-      "duration_ms": 292536,
-      "name": "Bailando Con la Llorona",
-      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "...un poco mas.",
         "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 370613,
       "name": "Al son de la marimba",
       "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Gracias Vol. 5. M\u00fasica de Guatemala para los Latinos",
+        "url": "https://open.spotify.com/album/4Vhn9pgDaLg6Cm3zSud2pc"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Funes y Su Marimba Orquesta",
+          "url": "https://open.spotify.com/artist/7zTwYRqtldx7Ha4rdEukxZ"
+        }
+      ],
+      "duration_ms": 292536,
+      "name": "Bailando Con la Llorona",
+      "url": "https://open.spotify.com/track/1K2m47vXdg40MG4h6tdluf"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Dandole Sabor al Caldo",
-      "url": "https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Danzones y Boleros",
         "url": "https://open.spotify.com/album/1KF1zaTVSPC1CuqHPaUz1F"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 222906,
       "name": "Como Han Pasado los A\u00f1os",
       "url": "https://open.spotify.com/track/4yQIkgjP0n9b5rCVSKVvWo"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Dandole Sabor al Caldo",
+      "url": "https://open.spotify.com/track/3Rsqt2Xp7uKDmEKddvQPu6"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
-        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
-      },
-      "artists": [
-        {
-          "name": "Princesita",
-          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Coban, Marimba de Guatemala",
-      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
         "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 292653,
       "name": "Otra Vez Mi Cielo Azul",
       "url": "https://open.spotify.com/track/3sm9hQxMqrVO7p0I32RVGt"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "World Music Guatemala 2, M\u00fasica Tradicional, Traditional Music",
+        "url": "https://open.spotify.com/album/4J0lRtA02lqPbjfyr5tHXi"
+      },
+      "artists": [
+        {
+          "name": "Princesita",
+          "url": "https://open.spotify.com/artist/3qNWiBNtwg7cYcyAwCMWc3"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Coban, Marimba de Guatemala",
+      "url": "https://open.spotify.com/track/1irwiggxN478tv3BLrbaLD"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "M\u00fasica de Guatemala en Marimba",
-        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
-      },
-      "artists": [
-        {
-          "name": "Marimba de Concierto de Chichicastenango",
-          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
-        }
-      ],
-      "duration_ms": 444557,
-      "name": "Obertura indigena (Marimba version)",
-      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
         "name": "Exitos Con Marimba",
         "url": "https://open.spotify.com/album/0guJCJ5ggdnWxl2C9Ejzi9"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+        "name": "M\u00fasica de Guatemala en Marimba",
+        "url": "https://open.spotify.com/album/4jJIhOVAFGrbpnyb4SYBVC"
       },
       "artists": [
         {
-          "name": "Flor del Manzano",
-          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
+          "name": "Marimba de Concierto de Chichicastenango",
+          "url": "https://open.spotify.com/artist/4RLtu3vMR2RJi4OGXV7ABV"
         }
       ],
-      "duration_ms": 282626,
-      "name": "Bailando en Tercera Dimensi\u00f3n",
-      "url": "https://open.spotify.com/track/0u5QaChB0w6GYhSlz9eNfG"
+      "duration_ms": 444557,
+      "name": "Obertura indigena (Marimba version)",
+      "url": "https://open.spotify.com/track/2m3b8k1jZSPQgWsXn9ltUw"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1067,6 +1051,22 @@
       "duration_ms": 167053,
       "name": "El Grito, Marimba de Guatemala",
       "url": "https://open.spotify.com/track/1oW8bNLGJU5uZArvEpLm5m"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Flor del Manzano",
+          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Bailando en Tercera Dimensi\u00f3n",
+      "url": "https://open.spotify.com/track/0u5QaChB0w6GYhSlz9eNfG"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
+        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
+      },
+      "artists": [
+        {
+          "name": "Flor del Manzano",
+          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "20 de Enero",
+      "url": "https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "De Lo Selecto a Lo Cl\u00e1sico Vol. 2 - Zeferino Nandayapa y Su Marimba Cl\u00e1sica",
         "url": "https://open.spotify.com/album/17rdCxwUeZAepz8sagX7YN"
       },
@@ -1168,25 +1184,9 @@
           "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
         }
       ],
-      "duration_ms": 221346,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "100 Melod\u00edas de Guatemala Con las Mejores Marimbas",
-        "url": "https://open.spotify.com/album/3ck8nNpdBf0cbswh7S32fL"
-      },
-      "artists": [
-        {
-          "name": "Flor del Manzano",
-          "url": "https://open.spotify.com/artist/0E3OrgxKZ6i95hfGtEeJYm"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "20 de Enero",
-      "url": "https://open.spotify.com/track/68dfC4E9fkr5Eh75Ga7rK3"
+      "duration_ms": 267013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/4Bdi5tQO1H1QNWCTVLOwRO"
         }
       ],
-      "duration_ms": 267013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6V94Oxsr2RPI82dF9jAZmo"
+      "duration_ms": 221346,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6kLqRQBIJiJVLSdNWYyy1A"
     },
     {
       "added_at": "2021-12-29 23:25:31",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2021-12-29 23:25:31",
       "album": {
+        "name": "Marimbas Y Regional Vol. 2",
+        "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Jorge Cristian",
+          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 95086,
+      "name": "Vamos a Villahermosa",
+      "url": "https://open.spotify.com/track/6FPMIaGg0HpX2OEGtvVv5m"
+    },
+    {
+      "added_at": "2021-12-29 23:25:31",
+      "album": {
         "name": "Marimbas Y Regional Vol. 1",
         "url": "https://open.spotify.com/album/6hWqfOtbjRUgHNHGi7VqTI"
       },
@@ -1539,30 +1563,6 @@
       "duration_ms": 115537,
       "name": "Las Tehuanas",
       "url": "https://open.spotify.com/track/2YvqaC9SMsXVOxy0djXafD"
-    },
-    {
-      "added_at": "2021-12-29 23:25:31",
-      "album": {
-        "name": "Marimbas Y Regional Vol. 2",
-        "url": "https://open.spotify.com/album/0ETFW2f3YiuOJqNHeevh1c"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Jorge Cristian",
-          "url": "https://open.spotify.com/artist/5HlPfVI2yF8MWE8j2gyYaS"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 95086,
-      "name": "Vamos a Villahermosa",
-      "url": "https://open.spotify.com/track/6FPMIaGg0HpX2OEGtvVv5m"
     },
     {
       "added_at": "2021-12-29 23:25:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > It’s Gaming Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,954 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,969 likes - 90 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 65 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 |
 | 66 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
 | 67 | [Control](https://open.spotify.com/track/46MUbxLye12SKBN7xHg3CF) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz) | [Control](https://open.spotify.com/album/3WEPzTQTjVJSCVv0lKEKq0) | 2:46 |
-| 68 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
-| 69 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
+| 68 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 |
+| 69 | [Willing To Trust \(with Ty Dolla $ign\)](https://open.spotify.com/track/6TQs1M73R9aPqjqWvbNu22) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Willing To Trust](https://open.spotify.com/album/2JjCiFis8TPrbTGCoK7T61) | 4:42 |
 | 70 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 | 71 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |
 | 72 | [Frankenstein \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3gDRZkL8YfzpZg1N1YsW5x) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:27 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 78 | [بطل عالم](https://open.spotify.com/track/2E2ZmCeuHrHOECN01QhN0A) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:03 |
 | 79 | [Lucid Dreams](https://open.spotify.com/track/1Bmn5aStO2S33dz1Di0g3K) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Lucid Dreams](https://open.spotify.com/album/3b5sEYrFMS3DO6K9TlfWK6) | 3:59 |
 | 80 | [Beautiful](https://open.spotify.com/track/33kN7MSsfmxCG4HT2vn7j8) | [Big Bo](https://open.spotify.com/artist/1BOoFYzb3TDB9BWP8IPmf0) | [Beautiful](https://open.spotify.com/album/7EFMPafpTIPs0V2RsNhF9T) | 2:20 |
-| 81 | [Nerve Flip](https://open.spotify.com/track/3cIRhs4twfgki25wLPhUqA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Nerve Flip](https://open.spotify.com/album/4k2RZA376JAZ9XOIQlyzae) | 3:06 |
+| 81 | [Why Would I Stop?](https://open.spotify.com/track/46hDiH4YvAWXE04GskkIHS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 2:32 |
 | 82 | [Don’t Go Mad \(feat\. Seinabo Sey\)](https://open.spotify.com/track/3Cl8IGVb7E63EDIXTn5Pk7) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 4:24 |
-| 83 | [Why Would I Stop?](https://open.spotify.com/track/46hDiH4YvAWXE04GskkIHS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 2:32 |
+| 83 | [Nerve Flip](https://open.spotify.com/track/3cIRhs4twfgki25wLPhUqA) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Nerve Flip](https://open.spotify.com/album/4k2RZA376JAZ9XOIQlyzae) | 3:06 |
 | 84 | [RACORE](https://open.spotify.com/track/3JFB9ZJ8vZrKL8AJiRspLZ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [RACORE](https://open.spotify.com/album/6JDXj7ECAHxWJ3kH3EqJ4q) | 2:56 |
 | 85 | [Dior \- Bonus](https://open.spotify.com/track/5UuU1fZixqwZRwjHYzWP0l) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:36 |
 | 86 | [Hear Me Clearly \(feat\. Nigo\)](https://open.spotify.com/track/0fOpKW6soqAbK8lvRXjhPg) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:21 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 89 | [وناسه](https://open.spotify.com/track/5iz2mZPb0FiXOG9X1TTfRW) | [DJ\-MK](https://open.spotify.com/artist/1XcjHL7tqpinEtYVFgdBk6), [M.s](https://open.spotify.com/artist/3kX4wi0MTZuxDW2HOjaNXk), [MJ](https://open.spotify.com/artist/5Td6KQryvTcq1k6zUxy3Mh) | [وناسه](https://open.spotify.com/album/6RwRSqZEXuqO0r2BJKup2b) | 2:09 |
 | 90 | [Ghalba](https://open.spotify.com/track/2101nlOflwj7dNOpa4PzUO) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Faqret El Sa7el](https://open.spotify.com/album/6gpKhOtsOaY0RVHkGKI5JY) | 2:41 |
 
-Snapshot ID: `MTY2NTg0NzY5NiwwMDAwMDAwMGIyNTY0YTY4MDBkNTZiNzk3YzBhNTcwMjBlYTE4NGRi`
+Snapshot ID: `MTY2NTg0NzY5NiwwMDAwMDAwMDIwOTllYTdhMTMxMDVkNGEyYmVhY2YwYTc1NmRjMDU4`

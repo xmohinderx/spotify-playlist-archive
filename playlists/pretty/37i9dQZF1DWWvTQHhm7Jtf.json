@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 8232,
+  "num_followers": 8271,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAyNSwwMDAwMDAwMDI5NWY5ODUyOGRjNDUwYTIwMTFmYzBjYzEwZTgzMGU3",
+  "snapshot_id": "MTY2NDUwNjAyNSwwMDAwMDAwMGIxYjhjNTJkM2ZmOWQ5NjRiNDRiNDUwZGU0MWU4YTgy",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
-    },
-    {
       "added_at": "2021-11-25 22:14:03",
       "album": {
         "name": "Haut",
@@ -363,6 +347,22 @@
       "duration_ms": 252733,
       "name": "Haut",
       "url": "https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Tower of Silence",
         "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -763,26 +763,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Beautiful You",
         "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 316285,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Beyond Contact",
-        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
-      },
-      "artists": [
-        {
-          "name": "Vivian Koch",
-          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
-        }
-      ],
-      "duration_ms": 232867,
-      "name": "Closed - Yosemite Version",
-      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
-    },
-    {
       "added_at": "2022-02-12 01:31:39",
       "album": {
         "name": "Sequences",
@@ -947,6 +931,22 @@
       "duration_ms": 457487,
       "name": "Come Back To Bali",
       "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Beyond Contact",
+        "url": "https://open.spotify.com/album/5aYn1Q50RPtHWf97O3Wt7i"
+      },
+      "artists": [
+        {
+          "name": "Vivian Koch",
+          "url": "https://open.spotify.com/artist/16xZ9dx7FhyK68gDskeweF"
+        }
+      ],
+      "duration_ms": 232867,
+      "name": "Closed - Yosemite Version",
+      "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1045,28 +1045,20 @@
       "url": "https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2022-01-11 00:30:53",
       "album": {
-        "name": "Missing Pages",
-        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
+        "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
       },
       "artists": [
         {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        },
-        {
-          "name": "The First Minute of a New Day",
-          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
-        },
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
         }
       ],
-      "duration_ms": 339440,
-      "name": "June 26th",
-      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
+      "duration_ms": 357509,
+      "name": "The Loss of Wilderness",
+      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1089,20 +1081,28 @@
       "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
     },
     {
-      "added_at": "2022-01-11 00:30:53",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "The Loss of Wilderness",
-        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
+        "name": "Missing Pages",
+        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
       },
       "artists": [
         {
-          "name": "ILUITEQ",
-          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        },
+        {
+          "name": "The First Minute of a New Day",
+          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
+        },
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
         }
       ],
-      "duration_ms": 357509,
-      "name": "The Loss of Wilderness",
-      "url": "https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe"
+      "duration_ms": 339440,
+      "name": "June 26th",
+      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
     },
     {
       "added_at": "2021-10-20 18:30:26",

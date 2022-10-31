@@ -1953,6 +1953,28 @@
     {
       "album": {
         "name": "Kiubole",
+        "url": "https://open.spotify.com/album/04emcftNra5B20iGQR1ukc"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        },
+        {
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294441,
+      "name": "Kiubole",
+      "url": "https://open.spotify.com/track/6AipYSPeePKt9AUBLzjoMq"
+    },
+    {
+      "album": {
+        "name": "Kiubole",
         "url": "https://open.spotify.com/album/0LlWwpKdaI8CXtW2fzO1WD"
       },
       "artists": [
@@ -1967,7 +1989,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 294441,
       "name": "Kiubole",
       "url": "https://open.spotify.com/track/6FudvuBPvdFmmriJLEttGd"

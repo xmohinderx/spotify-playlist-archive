@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-101 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
+102 songs - 5 hr 3 min - [published](https://open.spotify.com/playlist/1BWpzWShYoBy84VHt9IlwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Take Me](https://open.spotify.com/track/7q6WQDxck4kIeoACgtV2Gs) | [Wänderlost](https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb), [MEDEIA](https://open.spotify.com/artist/0uR3roDczoaOss4Ro7D30s) | [Take Me](https://open.spotify.com/album/6QyELjKQuXl6Mvorlgf30X) | 2:16 | 2022-09-15 |  |
 | [Talk \(with Royal & the Serpent\)](https://open.spotify.com/track/6lw3pmC9a72b251YocpkoB) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Talk \(Remixes\)](https://open.spotify.com/album/41vAlkzAz6cA8yl0t7t82k) | 3:12 | 2022-09-15 |  |
 | [Tell Me](https://open.spotify.com/track/2VszhzMB5MDLT1bPykCg1K) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [KIGALI](https://open.spotify.com/artist/0jRMCjkA8ComVHbrHcr3XV) | [Tell Me](https://open.spotify.com/album/2toO0oYU5Odc6EzEje47rB) | 2:32 | 2022-09-15 | 2022-09-30 |
+| [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2022-10-30 |  |
 | [The Beach](https://open.spotify.com/track/3bQB674GPa0g7tG1AiCFMU) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [The Beach](https://open.spotify.com/album/7otVBQMTtdwJrPMUb5PokD) | 3:37 | 2022-09-15 |  |
 | [This Love](https://open.spotify.com/track/2PviJnruGMviJLMtNgFgSD) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [This Love](https://open.spotify.com/album/1zMyK6lBwXheSrJkRlwb9o) | 3:55 | 2022-09-15 |  |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2022-09-15 | 2022-09-30 |
@@ -106,7 +107,7 @@
 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 | 2022-09-29 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2022-09-15 |  |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 |  |
-| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 |  |
+| [Wicked Game](https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ), [Electric Pineapple](https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK) | [Wicked Game](https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH) | 2:54 | 2022-09-29 | 2022-10-31 |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 |  |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 |  |
 

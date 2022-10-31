@@ -286,6 +286,24 @@
     },
     {
       "album": {
+        "name": "Don't Play That Song",
+        "url": "https://open.spotify.com/album/3bLAXYwCPRW9xSk91gCgOY"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/2oedUBDUmEwbmNnC2HJJn8"
+    },
+    {
+      "album": {
         "name": "Dustland (feat. Bruce Springsteen)",
         "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
       },
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 270280,
       "name": "House Of A Thousand Guitars",
       "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"

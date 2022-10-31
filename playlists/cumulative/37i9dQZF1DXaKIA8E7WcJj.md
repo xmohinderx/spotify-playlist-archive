@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-808 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+809 songs - 1 day 18 hr 17 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@
 | [Sunny Afternoon](https://open.spotify.com/track/0DQqzCHlPyKQXfF8uL01SI) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Deluxe\)](https://open.spotify.com/album/6nkmtyFpZHm7piIFJgsxxa) | 3:30 | 2020-08-15 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/5KwbWPmwnOoXNqdMhh2S3m) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Face to Face \(Bonus Track Edition\)](https://open.spotify.com/album/3yExIlG5OQdTeWQJFoZAEn) | 3:33 | 2019-05-26\* | 2020-06-05 |
 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 | 2019-06-23 | 2021-10-16 |
-| [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 | 2022-06-08 |  |
+| [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 | 2022-06-08 | 2022-10-31 |
 | [Sunshine Superman](https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 3:15 | 2019-06-21 | 2021-10-14 |
 | [Sure 'Nuff 'n' Yes, I Do](https://open.spotify.com/track/0u7nB1PFBfGdKh8TrwRilH) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Safe As Milk](https://open.spotify.com/album/0DFhGsFKG7G58cke33GlAh) | 2:14 | 2019-07-21 | 2020-08-15 |
 | [Surf City](https://open.spotify.com/track/1Oewmmr12xuhgzvUJ9Q0cf) | [Jan & Dean](https://open.spotify.com/artist/0pqGj6vO9YHsXuZmaJaP2Y) | [Surf City And Other Swingin' Cities](https://open.spotify.com/album/7yzoaZNNZM1i4QV2vrgJeK) | 2:27 | 2019-06-23 | 2021-10-16 |
@@ -755,6 +755,7 @@
 | [Walk Right In](https://open.spotify.com/track/4WhT2YADjcU58IUgroWZQZ) | [The Rooftop Singers](https://open.spotify.com/artist/6Gb08eT3LlkGynDscl9vbz) | [Vanguard Visionaries](https://open.spotify.com/album/1BuP3K4tWcL1WSpUcLQHyz) | 2:37 | 2019-07-25 | 2019-07-27 |
 | [Walkin' Back to Happiness](https://open.spotify.com/track/4YTYhsTsvNanQQI5PvKmNW) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Walkin' Back to Happiness](https://open.spotify.com/album/2ynTwwIZiWTRh2yBt8HPeT) | 2:29 | 2019-06-26 | 2019-08-05 |
 | [Walkin' Back to Happiness](https://open.spotify.com/track/3mNfU0psAm7h3s6Dn6i7SD) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:31 | 2020-12-22 | 2021-10-11 |
+| [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 | 2022-08-12 |  |
 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 | 2019-05-26\* | 2022-07-29 |
 | [What A Man](https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Stax 50th Anniversary](https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396) | 2:40 | 2021-01-05 | 2021-10-10 |
 | [What A Man](https://open.spotify.com/track/1fAq1tPHZGsYACY25qdIcd) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Sourced](https://open.spotify.com/album/78rQftFElWu9VzTEHJUNun) | 2:42 | 2019-06-21 | 2021-02-25 |

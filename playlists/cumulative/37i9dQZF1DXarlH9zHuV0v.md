@@ -4,7 +4,7 @@
 
 > A playlist of spooky songs to get you ready for fright night!
 
-105 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/4VnJnCxoPD2MaeAi0lWMl1)
+106 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/4VnJnCxoPD2MaeAi0lWMl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,12 +78,13 @@
 | [Monster](https://open.spotify.com/track/3lXHeWE9SsQiBVelevxycg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(International Deluxe\)](https://open.spotify.com/album/67j3NJodNRI8USUwKwTZA6) | 4:09 | 2019-10-09 | 2022-07-29 |
 | [Monster](https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 2:58 | 2019-10-09 |  |
 | [Rampage](https://open.spotify.com/track/2L229dt48Ged4SdbenZrd7) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb) | 2:55 | 2019-10-09 | 2022-07-29 |
-| [Rampage](https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh) | 2:55 | 2019-10-09 |  |
+| [Rampage](https://open.spotify.com/track/6gRAOJYu1jQsNgMlrrudT9) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3euRfc09m6LRXwplFPYtqh) | 2:55 | 2019-10-09 | 2022-10-31 |
 | [Runnin' With The Devil](https://open.spotify.com/track/3gLlcZQMvpwgtV9THHXrGp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Reissue\)](https://open.spotify.com/album/7G2PY8yve3Db0PeGsosb4x) | 3:36 | 2019-10-09 | 2022-07-29 |
 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 | 2019-10-09 |  |
 | [Scarecrow](https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 4:15 | 2019-10-09 |  |
 | [Scary Monsters \(And Super Creeps\) \- 1999 Remaster](https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters](https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe) | 5:12 | 2019-10-09 | 2022-07-29 |
 | [Scary Monsters \(And Super Creeps\) \- 2017 Remaster](https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 5:13 | 2019-10-09 |  |
+| [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Kids Songs: Halloween Party!](https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14) | 3:56 | 2019-10-09 |  |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 | 2019-10-09 | 2022-07-29 |
 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6hci8n9UowepjRmCc6CKTv) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 3:58 | 2019-10-09 | 2022-10-30 |
 | [Sorry Sack Of Bones](https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:48 | 2019-10-09 |  |

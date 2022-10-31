@@ -4,7 +4,7 @@
 
 > Hot noise for summer days.
 
-142 songs - 7 hr 47 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
+143 songs - 7 hr 50 min - [published](https://open.spotify.com/playlist/5zEkm1jh8QhoO6jxa8ICRU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [My Number](https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad) | 4:00 | 2022-04-01 | 2022-07-02 |
 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/2gxYf0Tdnn65M6HKzFU1ye) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/album/06cux1Vggkcy0TWsltLziy) | 2:44 | 2022-04-01 |  |
 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 | 2022-04-01 |  |
-| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-04-01 |  |
+| [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 | 2022-04-01 |  |
+| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-04-01 | 2022-10-31 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2022-04-01 | 2022-07-29 |
 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 | 2022-04-01 |  |
 | [Peach](https://open.spotify.com/track/6egPp2V3UVRJlPI8GtD9bF) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/0w1shQsuCVz5D7lOb5IEgw) | 3:17 | 2022-04-01 | 2022-07-28 |

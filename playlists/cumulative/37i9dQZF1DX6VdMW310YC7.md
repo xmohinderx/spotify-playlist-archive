@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,361 songs - 3 day 22 hr 18 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,362 songs - 3 day 22 hr 23 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Falling](https://open.spotify.com/track/6uBImZ47dzAPRcPN7gXd44) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-18 | 2020-07-03 |
 | [Falling](https://open.spotify.com/track/6JmRVEBNPIxEtAXWKPSsi5) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Falling](https://open.spotify.com/album/5hXasfS8x3j028u1O3B9yj) | 3:25 | 2020-03-17 | 2022-01-13 |
 | [Falling \- Duke Dumont Remix](https://open.spotify.com/track/2gDn5QtHuUrN4qykGcyEXk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Falling](https://open.spotify.com/album/78fdgPy1jMWv2qxs53lXVI) | 5:34 | 2020-05-22 | 2020-07-03 |
+| [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 | 2022-10-28 |  |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2020-11-13 | 2022-10-01 |
 | [Falling In Love \- Klahr Retouch](https://open.spotify.com/track/2OBnKKfUuxQcQ5qbrIojem) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Falling In Love](https://open.spotify.com/album/2t5BCAT5CuJquy6RZ2vEsW) | 3:38 | 2020-03-18 | 2020-07-18 |
 | [Falling Water](https://open.spotify.com/track/75MC4sxH4yELz4ji8P7LCc) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Water](https://open.spotify.com/album/3V9PaTsr7dfhF550S9jSWW) | 2:32 | 2021-09-03 |  |
@@ -1198,7 +1199,7 @@
 | [The Pace](https://open.spotify.com/track/5KdnkKcfkKMTY3QxUyihQP) | [MYNGA](https://open.spotify.com/artist/08U9qk0KByTwtgdfKr7195), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [The Pace](https://open.spotify.com/album/0hxCQwXIVM8NSy49UWfBhK) | 4:30 | 2020-03-16 | 2021-12-21 |
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2020-03-16 | 2020-07-18 |
 | [The Rest of My Days](https://open.spotify.com/track/4ABiRDaBGg0hHeAWeAEcNq) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [The Rest of My Days](https://open.spotify.com/album/3mW3G4u6bGp4TMRLzhHjFW) | 3:13 | 2020-07-18 | 2020-10-09 |
-| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 |  |
+| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-10-31 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |

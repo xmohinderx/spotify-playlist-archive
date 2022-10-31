@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Dale buena onda c\u00e1lida y frutal a tu d\u00eda!",
-  "num_followers": 616088,
+  "num_followers": 616232,
   "original_name": "Vibra Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMTYxNiwwMDAwMDAwMDM3N2NlYzYyZGJjZmQwZDVlOTQ4ZDA2OTM4MGRjNDEz",
+  "snapshot_id": "MTY2NjkxMTYxNiwwMDAwMDAwMDNlMWFmMzRhNzkxNzNiYTA5OWMyODE2NGExYjNhZTIx",
   "tracks": [
     {
       "added_at": "2022-05-09 03:18:01",
@@ -263,6 +263,22 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 216015,
+      "name": "Cumbia del Olvido",
+      "url": "https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 216015,
-      "name": "Cumbia del Olvido",
-      "url": "https://open.spotify.com/track/1oCHMNWzKJdwdwjsPMjXf3"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
+        "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Flowering Inferno",
+          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 312914,
+      "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -1097,30 +1121,6 @@
       "url": "https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Tributaries: A Remix Album (El B\u00faho Remixes)",
-        "url": "https://open.spotify.com/album/3YmXLGfXziIb8W6loQuskm"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Flowering Inferno",
-          "url": "https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 312914,
-      "name": "Cumbia Sobre el Mar - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/5OyoVt6IEIqAXUFbCJ6TnV"
-    },
-    {
       "added_at": "2022-09-03 02:45:23",
       "album": {
         "name": "Las 4:40",
@@ -1135,6 +1135,46 @@
       "duration_ms": 197017,
       "name": "Las 4:40",
       "url": "https://open.spotify.com/track/375DBtzbfzVuHcDK8TG9PB"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 299416,
+      "name": "V\u00e1yanse Todos A Mam\u00e1",
+      "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
+    },
+    {
+      "added_at": "2022-06-08 03:35:19",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
     },
     {
       "added_at": "2022-07-11 18:34:21",
@@ -1161,22 +1201,6 @@
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
-      "added_at": "2022-06-08 03:35:19",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/21OcdHHc9h888jldjCWcBP"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/6T572wD8zgOLOlB9TzxUmh"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "\u201dZamba Puta\u201d",
@@ -1191,30 +1215,6 @@
       "duration_ms": 203807,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 299416,
-      "name": "V\u00e1yanse Todos A Mam\u00e1",
-      "url": "https://open.spotify.com/track/5BeMNrGr9Wk3mDmf0DbQaA"
     },
     {
       "added_at": "2022-02-18 18:50:25",
@@ -1259,6 +1259,42 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+      },
+      "artists": [
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        },
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
         "name": "Con la Fiesta a Cuestas",
         "url": "https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR"
       },
@@ -1295,26 +1331,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
-      },
-      "artists": [
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        },
-        {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Ya No Te Quiero",
         "url": "https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ"
       },
@@ -1327,6 +1343,22 @@
       "duration_ms": 224293,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Tengo Lo Que Tengo",
+        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+      },
+      "artists": [
+        {
+          "name": "Jimena Angel",
+          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+        }
+      ],
+      "duration_ms": 203664,
+      "name": "Tengo Lo Que Tengo",
+      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1363,18 +1395,18 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Tengo Lo Que Tengo",
-        "url": "https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
       "artists": [
         {
-          "name": "Jimena Angel",
-          "url": "https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 203664,
-      "name": "Tengo Lo Que Tengo",
-      "url": "https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL"
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
     },
     {
       "added_at": "2022-01-04 01:50:46",
@@ -1391,38 +1423,6 @@
       "duration_ms": 236200,
       "name": "Cumbia Reggae",
       "url": "https://open.spotify.com/track/72Fa1rmc3H7WIQ6t68tk4A"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "La Enamorada",
-        "url": "https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 141493,
-      "name": "Mis Muertos",
-      "url": "https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1517,26 +1517,6 @@
       "url": "https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR"
     },
     {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Piratas, Pero Rom\u00e1nticos (Con Ritmos Chidos)",
-        "url": "https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "David Palacio",
-          "url": "https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k"
-        }
-      ],
-      "duration_ms": 200366,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN"
-    },
-    {
       "added_at": "2021-10-20 20:06:54",
       "album": {
         "name": "Cambiar\u00e1s",
@@ -1589,36 +1569,24 @@
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
     },
     {
-      "added_at": "2021-10-20 20:06:54",
+      "added_at": "2022-09-30 05:00:00",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+        "name": "Piratas, Pero Rom\u00e1nticos (Con Ritmos Chidos)",
+        "url": "https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 230076,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
-        "name": "Luna Completa",
-        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
-      },
-      "artists": [
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "David Palacio",
+          "url": "https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Luna Completa",
-      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+      "duration_ms": 200366,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1639,6 +1607,38 @@
       "duration_ms": 327923,
       "name": "Sonora",
       "url": "https://open.spotify.com/track/40dO8vPGa93ccLunHyN9cK"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Luna Completa",
+        "url": "https://open.spotify.com/album/0vPJLDPqo0b6jPnWMH6kIZ"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Luna Completa",
+      "url": "https://open.spotify.com/track/0Pxa178Pg93SrHa4SbCPLX"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 230076,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf"
     },
     {
       "added_at": "2022-09-10 01:33:50",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2021-10-20 20:06:54",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2021-10-20 20:06:54",
       "album": {
-        "name": "Somos Dos",
-        "url": "https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7"
-      },
-      "artists": [
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Somos Dos",
-      "url": "https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY"
-    },
-    {
-      "added_at": "2021-10-20 20:06:54",
-      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+    },
+    {
+      "added_at": "2021-10-20 20:06:54",
+      "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
+        }
+      ],
+      "duration_ms": 213810,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/2TGNiLgm0TpUVVDSdf1gyt"
     }
   ],
   "unique_name": "Vibra Tropical",

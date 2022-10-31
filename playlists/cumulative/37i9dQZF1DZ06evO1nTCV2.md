@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
+119 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Dear Chicago](https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:12 | 2022-01-11 |  |
 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 | 2022-01-11 |  |
 | [Do Not Disturb](https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:00 | 2022-01-11 |  |
-| [Do You Feel](https://open.spotify.com/track/6TlUuvCkyP41YxAqHilHLt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:58 | 2022-08-24 |  |
+| [Do You Feel](https://open.spotify.com/track/6TlUuvCkyP41YxAqHilHLt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:58 | 2022-08-24 | 2022-10-31 |
 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 | 2022-01-11 |  |
 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 | 2022-01-11 |  |
 | [Doylestown Girl](https://open.spotify.com/track/6oRkeHUGlFoxcFLTpnsINh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:54 | 2022-05-14 |  |
@@ -44,7 +44,7 @@
 | [Everybody Knows](https://open.spotify.com/track/68jGLpiDK7ZZ13RR8AEm1o) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:25 | 2022-01-11 |  |
 | [Fairweather](https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 4:38 | 2022-08-20 |  |
 | [Fantasy File](https://open.spotify.com/track/0QVJ3U1x68Hx0q3n0qkrDL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Fantasy File](https://open.spotify.com/album/6ckqpwPxYSKPHzYO1cKDbG) | 3:21 | 2022-08-04 | 2022-08-31 |
-| [Fantasy File](https://open.spotify.com/track/1tDM7TUApY5zJh5FBvxryc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:21 | 2022-10-27 | 2022-10-29 |
+| [Fantasy File](https://open.spotify.com/track/1tDM7TUApY5zJh5FBvxryc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:21 | 2022-10-27 |  |
 | [Fantasy File](https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:21 | 2022-08-30 | 2022-10-28 |
 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 | 2022-01-12 |  |
 | [Flicker in the Fade](https://open.spotify.com/track/0JCXykmQ7NQxQHE8skH8xL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:50 | 2022-04-08 | 2022-04-30 |
@@ -95,8 +95,9 @@
 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 | 2022-01-12 |  |
 | [Shiver And Shake](https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:05 | 2022-01-11 |  |
 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 | 2022-01-11 |  |
-| [So Dumb](https://open.spotify.com/track/7az6ZEVsbsD9gwIo4VNLsI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:54 | 2022-08-22 |  |
-| [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 | 2022-08-21 |  |
+| [So Dumb](https://open.spotify.com/track/0m5ISodD9A6WI7Wjtpf595) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 2:54 | 2022-10-30 |  |
+| [So Dumb](https://open.spotify.com/track/7az6ZEVsbsD9gwIo4VNLsI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:54 | 2022-08-22 | 2022-10-31 |
+| [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 | 2022-08-21 | 2022-10-31 |
 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 | 2022-05-16 | 2022-10-13 |
 | [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 | 2022-04-07 | 2022-10-13 |
 | [Stay With Me](https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:06 | 2022-01-14 | 2022-10-13 |
@@ -118,6 +119,7 @@
 | [Was I Wrong](https://open.spotify.com/track/1KhVi78g6RUIVYDPzEfWUw) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:17 | 2022-04-06 | 2022-06-06 |
 | [What Am I](https://open.spotify.com/track/0fjHr7PDwEa2h3qd6RtkHV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 2:48 | 2022-04-08 | 2022-05-15 |
 | [What Am I](https://open.spotify.com/track/5HQwQSkqOZOIyv1EyLRrgA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 2:48 | 2022-01-11 | 2022-04-28 |
+| [When She Smiles](https://open.spotify.com/track/5FH7xahRUc3FmbEWkED0BR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 2:41 | 2022-10-30 |  |
 | [When She Smiles](https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:41 | 2022-08-20 | 2022-10-29 |
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2022-01-11 |  |
 | [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2022-10-11 |

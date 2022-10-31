@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,702,921 likes - 250 songs - 13 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,703,319 likes - 250 songs - 13 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 56 | [Private Number](https://open.spotify.com/track/1m5aQKPW5KaQa9kWrtGOx7) | [Bob & Marcia](https://open.spotify.com/artist/2AaKscnKxoLM7W3KT9yjtQ) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 3:00 |
 | 57 | [Put a Little Love In Your Heart](https://open.spotify.com/track/4nmxuQs4WVenP0Kk83xtxh) | [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Young, Gifted & Black](https://open.spotify.com/album/6yqpbyj6M5HFUZQpxYS6RG) | 2:38 |
 | 58 | [Stalag 17](https://open.spotify.com/track/4AZ3e2OdN8kWk0q5oVF3dl) | [Ansel Collins](https://open.spotify.com/artist/0IH1Rx8zeWyZLVrBloZp1Q) | [Double Barrel \- The Best of Dave & Ansel Collins](https://open.spotify.com/album/0i2pbEHt0qGGjTCcrJdVXf) | 2:59 |
-| 59 | [Too Late \- 7" Mix](https://open.spotify.com/track/1BnIAYjpKyAkOHHx2xfeKn) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Best of Gregory Isaacs](https://open.spotify.com/album/1Y2S9QSaLyeg3hbyXRFZLM) | 2:47 |
+| 59 | [Too Late \- 7" Mix](https://open.spotify.com/track/6Kc2RjSw2HXKNU2BZRlniN) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Winner \- The Roots of Gregory Isaacs 1974\-1978](https://open.spotify.com/album/0XiWne50xxHBDoEE1XoLz6) | 2:46 |
 | 60 | [You Are My Angel](https://open.spotify.com/track/20Pv33mbJKBMUURzMpLr3p) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Super Best](https://open.spotify.com/album/3VJPuMBy1fB1LzT7Uf9CBH) | 2:54 |
 | 61 | [Another Day Is Dawning \(aka There Is A Hope Somewhere\)](https://open.spotify.com/track/6El7fcz3FF1JbEPAwbsBJu) | [Earl Lawrence](https://open.spotify.com/artist/2XuZhOJe4s5pAbFzTbybaz) | [The Story Of Trojan Records](https://open.spotify.com/album/1SudwwvggZ8pGJhtF0MlsO) | 3:10 |
 | 62 | [Pirate](https://open.spotify.com/track/4E4WIb8yqs5jHMVAaVIOfc) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:32 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 249 | [Monkey Man](https://open.spotify.com/track/4g4BE9VeeQwPOvQ5sJTpj2) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:45 |
 | 250 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 
-Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGFjZjVlYjQ3MmEwZjY2OGQyN2ZlNjVjYWE5ZTAwM2Qz`
+Snapshot ID: `MTY2Mzg1NDU3MCwwMDAwMDAwMGNhMGViNzgwMmZhZDdkNDMwZGZlMWQ5ZjgwMjI2OTZl`

@@ -4,7 +4,7 @@
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
+61 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/5J9sZHSin7nFQ7mIbzQ4ub)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 | 2022-06-01 |  |
 | [Cinderella de Mis Noches](https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Exotic Corridos](https://open.spotify.com/album/6tPkJeXGBpviuVmOymfncY) | 2:53 | 2022-06-01 |  |
 | [Como Decía El Compa Ariel \- En Vivo](https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Como Decía El Compa Ariel \(En Vivo\)](https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb) | 3:10 | 2022-06-01 |  |
-| [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 | 2022-06-01 |  |
+| [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 | 2022-06-01 | 2022-10-31 |
 | [Como No Me Iba a Enamorar \- En Vivo](https://open.spotify.com/track/5yd7ST6KDmVLgsDVzGPq7x) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Chander Vidal](https://open.spotify.com/artist/3ql6bdb3wndJAC9tEyw1Nx) | [Desde Navolato Vengo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9) | 3:23 | 2022-06-01 | 2022-10-13 |
 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 | 2022-06-01 |  |
 | [Corona de Rosas](https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Corona de Rosas](https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0) | 2:39 | 2022-09-10 |  |
@@ -43,6 +43,7 @@
 | [No Nos Tocaba](https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:48 | 2022-06-01 |  |
 | [No Tiene Comparación \- En Vivo](https://open.spotify.com/track/4AD956FupTm5uKLjDY8aLV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Desde Navolato Vengo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/1xYCpqg1fTVtenEWRhlgr9) | 3:12 | 2022-06-01 |  |
 | [Nunca Valiste Tanto \(En Vivo\)](https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 3:15 | 2022-06-25 |  |
+| [Okay](https://open.spotify.com/track/61wFYRQjmlHr9CZSJdNOoA) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Okay](https://open.spotify.com/album/3eK7UxndGddxgi819TiiUY) | 2:50 | 2022-10-30 |  |
 | [Para Describirte](https://open.spotify.com/track/7hAW6EO4Lze015qyAuFraa) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:20 | 2022-06-01 |  |
 | [Para Ti Papá](https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Para Ti Papá](https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU) | 4:14 | 2022-06-01 |  |
 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 | 2022-06-01 |  |

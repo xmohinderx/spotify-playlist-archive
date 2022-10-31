@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Sech
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,523 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,579 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 7 | [CASA VERDE](https://open.spotify.com/track/04w93rJXoDQ4fayGw9BPT7) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin](https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Nerry Money](https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ) | [CASA VERDE](https://open.spotify.com/album/4RNy7HfUlON4eclMZlGo2R) | 4:06 |
 | 8 | [La Sesión \#47](https://open.spotify.com/track/3X8NRejOXJ0gKzDC6qVzn6) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Monster](https://open.spotify.com/artist/7g5ywTNboidtPjVRrvGkCa), [Alberto Sandino](https://open.spotify.com/artist/1g7k0SBYc922yRdRPmFg47), [Directed by Karma](https://open.spotify.com/artist/5bgxAPHQ7LSyVnnxsEKxQR) | [La Sesión \#47](https://open.spotify.com/album/3TJh1E1VYtGpOZoJ5XZoBm) | 3:03 |
 | 9 | [Por Ley](https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01) | [LH](https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs), [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [EL ZETA](https://open.spotify.com/artist/5DF0mdf3uHRV1ojnyVFuo4), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Por Ley](https://open.spotify.com/album/27lo0482W5P6mkzkinHEJD) | 4:11 |
-| 10 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/48O6VBStYGsCV90kzK5uS9) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
+| 10 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/5Z3rl70bDu6OgrO4bJ9Mcu) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
 | 11 | [Llamando](https://open.spotify.com/track/5mb2fojS7ld7pcSOPUo6Vo) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U) | [Family Ties](https://open.spotify.com/album/4Ni9i51tUpUzJB0fhCOwVJ) | 3:06 |
 | 12 | [Latex y Friccion](https://open.spotify.com/track/3mzropYMJX2JL4qVts4BQi) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Tobe Love](https://open.spotify.com/artist/0ly0DLYQGEwWTIvWwU6Jxs), [Mista Bombo](https://open.spotify.com/artist/0dOCP5MXmqLp0fNfN0mL3V) | [Ninus: Nothing Is New Under Sun](https://open.spotify.com/album/2VIcLB3gypXMUG9kA0njD5) | 3:50 |
 | 13 | [San Andrés](https://open.spotify.com/track/2cPCGkVzozHLsdylZb7x5T) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:33 |

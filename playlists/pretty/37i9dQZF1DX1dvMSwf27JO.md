@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > Music to get fly to\. Cover: Thom Browne SS 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,143 likes - 111 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,106 likes - 111 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,28 +75,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 65 | [Naked](https://open.spotify.com/track/5Vth7eImumlAyhsW8PqqAM) | [Bickle](https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB) | [Naked](https://open.spotify.com/album/6hTRp6fXyHzkMfSEdjvwlT) | 3:30 |
 | 66 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 |
 | 67 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
-| 68 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
-| 69 | [U KNOW ME](https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [U KNOW ME](https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2) | 2:54 |
-| 70 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
-| 71 | [Evil Woman](https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [The Essential Electric Light Orchestra](https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp) | 4:12 |
+| 68 | [Evil Woman](https://open.spotify.com/track/05zCw24BdvZKGeC5NXowVe) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [The Essential Electric Light Orchestra](https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp) | 4:12 |
+| 69 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 70 | [U KNOW ME](https://open.spotify.com/track/4lhacsOEAkfReGmzFJhwm2) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [U KNOW ME](https://open.spotify.com/album/3qEmwBehL7PcMyGOa3hnJ2) | 2:54 |
+| 71 | [Shy](https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Shy](https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8) | 3:21 |
 | 72 | [Super Stars](https://open.spotify.com/track/4chSRXrdadYm2ujaCyP3Cf) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 3:05 |
 | 73 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:27 |
-| 74 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
-| 75 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
+| 74 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
+| 75 | [New Romance](https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:12 |
 | 76 | [Dancing Elephants](https://open.spotify.com/track/4EGz4rN8kpKF5mx5i0HHm1) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 5:18 |
 | 77 | [THE BOTTOM](https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:39 |
 | 78 | [Girls](https://open.spotify.com/track/6Oxvmvd1R15OPi86rcj7l5) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/0fbfRSUH57gV0Vq4whsgNH) | 1:59 |
-| 79 | [Campfire](https://open.spotify.com/track/4U5ovGD4My7MOISvUEtYaf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Campfire](https://open.spotify.com/album/4qnFzeNKngsi0ZoOW7qtcm) | 2:15 |
-| 80 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 |
+| 79 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 |
+| 80 | [Campfire](https://open.spotify.com/track/4U5ovGD4My7MOISvUEtYaf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Campfire](https://open.spotify.com/album/4qnFzeNKngsi0ZoOW7qtcm) | 2:15 |
 | 81 | [Dinsdag](https://open.spotify.com/track/5EI94cNPh81RIh1NZy5qqR) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Rarri Jackson](https://open.spotify.com/artist/53HTjUR55iusgWemW2YL4A) | [Dinsdag](https://open.spotify.com/album/6d7r7ptbFTp7FfU8hVK1H6) | 2:42 |
-| 82 | [Gravity](https://open.spotify.com/track/4IR1ACM7QnpToR5zCzxrVs) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/32qrX9uorcYSQkd8P6iE7M) | 2:38 |
-| 83 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 |
-| 84 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
-| 85 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
-| 86 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 |
-| 87 | [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 |
-| 88 | [The Potion](https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Red Light District](https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg) | 3:54 |
-| 89 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
+| 82 | [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 |
+| 83 | [Gravity](https://open.spotify.com/track/4IR1ACM7QnpToR5zCzxrVs) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [For My Own Sake](https://open.spotify.com/album/32qrX9uorcYSQkd8P6iE7M) | 2:38 |
+| 84 | [Nike](https://open.spotify.com/track/1ueaBqr5S3NxQhj1gKgmwj) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nike](https://open.spotify.com/album/4TheMbO9MrRGaDzJwyTyVx) | 2:07 |
+| 85 | [In My Head](https://open.spotify.com/track/5a5q1sFcpMoPRk5fRGWq2W) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Far Away](https://open.spotify.com/album/1pxEdLxLLOV5SJWHHdoDXn) | 1:44 |
+| 86 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
+| 87 | [The Potion](https://open.spotify.com/track/4zXMw51RgLPRE3vPDuqBvt) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Red Light District](https://open.spotify.com/album/1KushUovbraTDRu9sbO5fg) | 3:54 |
+| 88 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
+| 89 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
 | 90 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 91 | [Sad B!tch](https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Sad B!tch](https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB) | 2:15 |
 | 92 | [BIG FLIRT](https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ) | 2:09 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 110 | [Ready Pa Volar](https://open.spotify.com/track/21t46dR7JRFXPeIIfqxl0g) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 2:39 |
 | 111 | [Jam](https://open.spotify.com/track/1GOEgRr0Mm0mDjGisgnC6y) | [JNTHN STEIN](https://open.spotify.com/artist/2tW7TitNzNibILuWCEhBLS) | [Jam](https://open.spotify.com/album/3ohDyQ11gPOSIbpXFgJ4Ks) | 3:41 |
 
-Snapshot ID: `MTY2NjgwOTA0NCwwMDAwMDAwMGMxZjEwOTA1NzVmODEwMzBlN2ViNTUyZTRkYmE1ZWQz`
+Snapshot ID: `MTY2NjgwOTA0NCwwMDAwMDAwMDE3YjJlYTUzMzliZTA2YWM5OGMwNzdkZGM0OTE5YzZk`

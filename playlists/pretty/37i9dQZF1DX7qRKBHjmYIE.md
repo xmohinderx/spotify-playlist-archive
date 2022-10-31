@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Danny Schiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,657 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,653 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 73 | [you are, you are \- demo](https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc) | [f\. fin](https://open.spotify.com/artist/44GRwsM3LDG7zZqTUVbp60) | [V](https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3) | 2:17 |
 | 74 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 |
 | 75 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 |
-| 76 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
-| 77 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
-| 78 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 |
-| 79 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
-| 80 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
+| 76 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 |
+| 77 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 |
+| 78 | [Waves](https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:40 |
+| 79 | [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 |
+| 80 | [For Gerard](https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv) | 3:23 |
 | 81 | [Quiero Verte](https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Quiero Verte](https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW) | 3:45 |
-| 82 | [For Gerard](https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [Lost in Paradïse, Pt\. 2](https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv) | 3:23 |
+| 82 | [Fresh Water](https://open.spotify.com/track/2q8EbgPUw6bCQjVyfGoytw) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Fresh Water](https://open.spotify.com/album/49y4Fp6dj9ElCGJmEQN7DH) | 2:37 |
 | 83 | [Only One](https://open.spotify.com/track/65Xycqq3KSaLmEIbWszegR) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One](https://open.spotify.com/album/0PGUfPHlpE3MeYZgRsbWhw) | 3:38 |
 | 84 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 85 | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/track/6VH9vAqhTig0SaS5mI5yw8) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [22/2/22 \(feat\. Paula Cendejas\)](https://open.spotify.com/album/2nNJ9wdWz3EuDvHwSgWjBn) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [Apple](https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX) | [KAINA](https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj) | [Apple](https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK) | 3:24 |
 | 100 | [Creature \(Perfect\)](https://open.spotify.com/track/2emF1fcXtygEDeOgHvUArs) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:31 |
 
-Snapshot ID: `MTY2Njk4ODM2NCwwMDAwMDAwMDVjOGVhZTMzZTk5YmViOTQ5Nzc4ZmQ1OWJjZDYzYmFk`
+Snapshot ID: `MTY2Njk4ODM2NCwwMDAwMDAwMDg0YWE1YjIyOGEzMjljOWU3ZWY4ZDI2OWVkY2RmNjYy`

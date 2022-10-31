@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > Plot twist: Harry wanted to be Ursula all along 🐙
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706,365 likes - 104 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,664 likes - 104 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

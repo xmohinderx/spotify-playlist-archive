@@ -10430,6 +10430,28 @@
     },
     {
       "album": {
+        "name": "Proverbs & Beats",
+        "url": "https://open.spotify.com/album/2HHVupGrQUPFx2SIa5wZhl"
+      },
+      "artists": [
+        {
+          "name": "Still Shadey",
+          "url": "https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187862,
+      "name": "Proverbs & Beats",
+      "url": "https://open.spotify.com/track/4zQESthz8AqH8zrKd7Jew2"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/5C2GMZwuaqXq2bpXgNSzWF"
       },
@@ -12601,7 +12623,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 140511,
       "name": "Ten Thousand Hours",
       "url": "https://open.spotify.com/track/53kWZsSMteWce3cjqFGiXJ"

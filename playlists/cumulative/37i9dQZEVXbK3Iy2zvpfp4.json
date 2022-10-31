@@ -439,7 +439,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 145676,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/6Hh6pxNSScePI9zjKBIUg2"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 182124,
       "name": "BOW",
       "url": "https://open.spotify.com/track/01V6K40AZcyCVdCiEOYk9V"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 117434,
       "name": "Crazy Phonk - Remix",
       "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -3694,6 +3694,24 @@
     },
     {
       "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204676,
+      "name": "Just Pretend",
+      "url": "https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2"
+    },
+    {
+      "album": {
         "name": "Kiss Kiss",
         "url": "https://open.spotify.com/album/5LSRHlTMmx0VUadPVnbyQw"
       },
@@ -3861,7 +3879,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 158158,
       "name": "LABELS CALLIN'",
       "url": "https://open.spotify.com/track/19s7W71y7IZDAn6X2mnCqr"
@@ -6390,6 +6408,28 @@
     },
     {
       "album": {
+        "name": "Sevilla",
+        "url": "https://open.spotify.com/album/6nHojW3YDjo6TWgx9tONHj"
+      },
+      "artists": [
+        {
+          "name": "Henrique Camacho",
+          "url": "https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6"
+        },
+        {
+          "name": "Fatality",
+          "url": "https://open.spotify.com/artist/4YQOU9GVYBYVJmdmGkDQh1"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352003,
+      "name": "Sevilla",
+      "url": "https://open.spotify.com/track/5xvzN9tprEU16VYxgZ9he4"
+    },
+    {
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -7817,7 +7857,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 186666,
       "name": "Vt\u00e1\u010dia perspekt\u00edva",
       "url": "https://open.spotify.com/track/61CDJYduP6dZRzw2BFLptu"
@@ -7987,7 +8027,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 212114,
       "name": "West Connect (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"

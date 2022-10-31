@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 461508,
+  "num_followers": 461522,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDY0OThmNjg4Y2U0NWY1ZmI4MDQ1OGNlZjEwY2IxZjJm",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGE2MmU3MzY2ODQ1ZmRiZTY4YzljOGRjMTVkNDUxMTY1",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 197737,
-      "name": "Head Right",
-      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "The Bridge (Deluxe)",
         "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 197808,
       "name": "Rushing Water",
       "url": "https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 197737,
+      "name": "Head Right",
+      "url": "https://open.spotify.com/track/2G01I6SbQqSPmAOz895M0a"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Everything Will Be Ok Eventually",
-        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 294071,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "The Tipping Point",
         "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Everything Will Be Ok Eventually",
+        "url": "https://open.spotify.com/album/3akwfKkhkypQRsK18KURaA"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 294071,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2C93EaiXnfll8oL9TWqQTA"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Roadkill",
-        "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 142507,
-      "name": "Roadkill",
-      "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Strictly A One-Eyed Jack",
         "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
       },
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 142507,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Falling Down (with Nick Hexum of 311)",
         "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "scream!",
-        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "scream!",
-      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 286887,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "scream!",
+        "url": "https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 199873,
+      "name": "scream!",
+      "url": "https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Just Around The Corner",
         "url": "https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 175397,
       "name": "Just Around The Corner",
       "url": "https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Bones Owens",
-        "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 210239,
-      "name": "Rambler - Bonus Track",
-      "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Bad Spell",
         "url": "https://open.spotify.com/album/2uX8wXgr0jog1Xz6vZSxLS"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195358,
       "name": "Bad Spell",
       "url": "https://open.spotify.com/track/3xMat5dBN7UXgK8a6E8n93"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Bones Owens",
+        "url": "https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 210239,
+      "name": "Rambler - Bonus Track",
+      "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Chrysanthemums",
-        "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
-      },
-      "artists": [
-        {
-          "name": "Born Ruffians",
-          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chrysanthemums",
-      "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Speeding 72",
         "url": "https://open.spotify.com/album/1SGdgzPuKfvCONrOQYX2wn"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 238360,
       "name": "Speeding 72",
       "url": "https://open.spotify.com/track/70GadgaRBOWaBtD8qHc095"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Chrysanthemums",
+        "url": "https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6"
+      },
+      "artists": [
+        {
+          "name": "Born Ruffians",
+          "url": "https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chrysanthemums",
+      "url": "https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Highest Bidder",
-        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        }
-      ],
-      "duration_ms": 214054,
-      "name": "Highest Bidder",
-      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Legendary (Stripped)",
         "url": "https://open.spotify.com/album/1LOfXz54bNrKElqqUOTIGc"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 187676,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/58NjL8ZMpbHv5TVkpANrKO"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Highest Bidder",
+        "url": "https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "duration_ms": 214054,
+      "name": "Highest Bidder",
+      "url": "https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "The Best Part of Letting Go",
-        "url": "https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F"
+        "name": "Cannabis Tree",
+        "url": "https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS"
       },
       "artists": [
         {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+          "name": "Rome & Duddy",
+          "url": "https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF"
         }
       ],
-      "duration_ms": 205824,
-      "name": "The Best Part of Letting Go",
-      "url": "https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF"
+      "duration_ms": 291186,
+      "name": "Cannabis Tree",
+      "url": "https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR"
     }
   ],
   "unique_name": "Rockin' Vibes",

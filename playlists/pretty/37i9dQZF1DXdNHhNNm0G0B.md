@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,518 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,588 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 9 | [Twins](https://open.spotify.com/track/0SeCA3vPHuXGP6sizB05ZA) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 0:50 |
 | 10 | [All Aboard](https://open.spotify.com/track/0BjnY6fLR9XNGIMmXnYXGG) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Shapes of the Fall](https://open.spotify.com/album/4DWP3Ck7TsDJQH8OP2uiUU) | 3:31 |
 | 11 | [Deep Gap](https://open.spotify.com/track/35VC12PD25DXOSOYf4Eg7N) | [Marisa Anderson](https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW) | [Mercury](https://open.spotify.com/album/0ltORgLqzn1ZWiu6a49Cyv) | 3:23 |
-| 12 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
-| 13 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
+| 12 | [Alberta](https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 2:41 |
+| 13 | [Guitar Rag](https://open.spotify.com/track/5xwCQuoGnPdgqw2omrgmCq) | [Sylvester Weaver](https://open.spotify.com/artist/2m2vWbN6WZU0Mtv569ndeb) | [The Slide Guitar: Bottles, Knives & Steel](https://open.spotify.com/album/1v6Wu8KqYLWsax5EjmZNAf) | 2:58 |
 | 14 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 |
 | 15 | [Black Myself](https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Black Myself](https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz) | 3:21 |
 | 16 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 36 | [God Moves On the Water](https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 2:59 |
 | 37 | [Shake Sugaree](https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2) | [Nicholas Edward Williams](https://open.spotify.com/artist/0jDDdsrqjhvoZD0zbPsc6V) | [Shake Sugaree](https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W) | 3:29 |
 | 38 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 |
-| 39 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
+| 39 | [In the Morning Twilight](https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea) | [Steffen Basho\-Junghans](https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx) | [In the Morning Twilight](https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI) | 6:24 |
 | 40 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
-| 41 | [In the Morning Twilight](https://open.spotify.com/track/4SnB7omg7hwcvr4tLlRiea) | [Steffen Basho\-Junghans](https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx) | [In the Morning Twilight](https://open.spotify.com/album/2kcdTK4BvfNIpipvvfmIBI) | 6:24 |
+| 41 | [Focus \(Rosie's Theme\)](https://open.spotify.com/track/3MRN6jyUxfffTdOEaHwDOE) | [The Civil Wars & T Bone Burnett](https://open.spotify.com/artist/1H4NiejcEF0JfHRyLXtdME) | [A Place at the Table \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xrTVoyCakeF37VsnaLMQP) | 2:21 |
 | 42 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 |
 | 43 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
 | 44 | [Sarah Anne](https://open.spotify.com/track/6G6eM490aDeluKpsDeCLyb) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Jesus I'm a Sinner](https://open.spotify.com/album/398IZHABZSTKg102AxTtTO) | 6:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Detroit Blues](https://open.spotify.com/track/5rJbBdz2yN7ZPIPjX70Foq) | [Danny Kroha](https://open.spotify.com/artist/0amf91cUep3YKQ5R7NJ1Mb) | [Detroit Blues](https://open.spotify.com/album/5r7zpXdCkM4wED1dVgXI70) | 2:49 |
 | 50 | [Imaginational Anthem](https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 4:24 |
 
-Snapshot ID: `MTY2NTQwNjQwNywwMDAwMDAwMDI4NDE4MTE5ZGJmMDdmYzQ4YzY2Y2M2YjE2YmUyMDll`
+Snapshot ID: `MTY2NTQwNjQwNywwMDAwMDAwMDU5OWQzODQyYWI1YzY3ZTM4ZjhhY2QzYjA4ODRlODBj`

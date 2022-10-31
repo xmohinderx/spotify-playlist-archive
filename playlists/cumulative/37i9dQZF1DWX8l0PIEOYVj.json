@@ -1109,6 +1109,32 @@
     {
       "album": {
         "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+        "url": "https://open.spotify.com/album/7fHe7lst5i6lMPzgoIgwkf"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205479,
+      "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
+      "url": "https://open.spotify.com/track/1Yqe3VYgjOhhJLtqkla2zc"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Let Me Let Go (with ILLENIUM & EVAN GIIA)",
         "url": "https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA"
       },
       "artists": [
@@ -2225,6 +2251,32 @@
       "duration_ms": 213000,
       "name": "Good News (feat. Kyle Reynolds)",
       "url": "https://open.spotify.com/track/2odfdqASFlXQc7vmEwpWir"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/70pPhEPFbPp31jXsSxPiOj"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        },
+        {
+          "name": "Tyler Graves",
+          "url": "https://open.spotify.com/artist/5bFKudtw20QjmAFeA1hBLq"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262425,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG"
     },
     {
       "album": {
@@ -3941,7 +3993,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 226285,
       "name": "Out of Love",
       "url": "https://open.spotify.com/track/6w2qrr2ir08VtisKOh8n4P"
@@ -4927,7 +4979,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 250294,
       "name": "Start Over (feat. Danni Carra)",
       "url": "https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2"

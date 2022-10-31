@@ -1,12 +1,12 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 107617,
+  "num_followers": 107740,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDllMzM3NjA3NWExMjU1YjhlMGYxNWIwMzA5OTNjYjIx",
+  "snapshot_id": "MTYzNTY0MTI1MCwwMDAwMDAwMDUxMDAyZmFmMDMwZWVhNmViYTFkMjdiODZmNDg1ZjM2",
   "tracks": [
     {
       "added_at": "2021-10-31 00:47:30",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Fight My Fight For Me",
         "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 161323,
       "name": "Fight My Fight For Me",
       "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -855,18 +855,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Every Move I Make",
-        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Edgar Sandoval Jr",
-          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 132255,
-      "name": "Every Move I Make",
-      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
+      "duration_ms": 175292,
+      "name": "Millionaire (Good Like That)",
+      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -903,38 +907,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "Every Move I Make",
+        "url": "https://open.spotify.com/album/4JOXhhEQny4aRzWXRSd6ep"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Edgar Sandoval Jr",
+          "url": "https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4"
         }
       ],
-      "duration_ms": 175292,
-      "name": "Millionaire (Good Like That)",
-      "url": "https://open.spotify.com/track/6ukbMW0CFuZHU1JQNg36su"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 188473,
-      "name": "Stages",
-      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
+      "duration_ms": 132255,
+      "name": "Every Move I Make",
+      "url": "https://open.spotify.com/track/4wz8iZ7GCIb8kNfJLkJnMT"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -959,6 +943,22 @@
       "duration_ms": 160775,
       "name": "Amazing Grace - HGHTS Remix",
       "url": "https://open.spotify.com/track/51fJSFDs5Lnu7n7HfFR4qk"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/1QP1zErfad0lAsXvejJBb2"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 188473,
+      "name": "Stages",
+      "url": "https://open.spotify.com/track/2TSTDPh5i5MySwgmdJgxD4"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "Revival (Live)",
-        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Way Truth Life - Live",
-      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/4esF2tcUU0yctPIEoeW8VJ"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
+        "name": "Revival (Live)",
+        "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
       "artists": [
         {
-          "name": "Tasha Layton",
-          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
         }
       ],
-      "duration_ms": 181224,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
+      "duration_ms": 200360,
+      "name": "Way Truth Life - Live",
+      "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 181224,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 187692,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
+      "duration_ms": 196835,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1167,22 +1183,6 @@
       "duration_ms": 221368,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1cscp6VyUW7xxk5miGbtN1"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 196835,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD"
     },
     {
       "added_at": "2021-10-31 00:47:30",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2021-10-31 00:47:30",
       "album": {
+        "name": "Holding Me Down",
+        "url": "https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q"
+      },
+      "artists": [
+        {
+          "name": "Chris Howland",
+          "url": "https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Holding Me Down",
+      "url": "https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof"
+    },
+    {
+      "added_at": "2021-10-31 00:47:30",
+      "album": {
         "name": "Better View",
         "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
@@ -1283,22 +1307,6 @@
       "duration_ms": 185062,
       "name": "Higher Than Mine",
       "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
-    },
-    {
-      "added_at": "2021-10-31 00:47:30",
-      "album": {
-        "name": "Better King",
-        "url": "https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5"
     }
   ],
   "unique_name": "Christian Dance Party",

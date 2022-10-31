@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Eme MalaFe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,613 likes - 93 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,834 likes - 93 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 51 | [Sin Drama](https://open.spotify.com/track/6yi3uBliwfNqJUqnilf3d6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Sin Drama](https://open.spotify.com/album/7gsfgYpAf2qlXGrQjtq28b) | 4:01 |
 | 52 | [Suficiente](https://open.spotify.com/track/7uSIBQ7w0a9uCsqojVASVL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Suficiente](https://open.spotify.com/album/1RMpc2OGOJ1rDoN6eDIdlj) | 3:35 |
 | 53 | [Never Die](https://open.spotify.com/track/4omKvTBmle0hUJ8rJTBhCh) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Never Die](https://open.spotify.com/album/69du1b7FFM6IdhbBW1M3zk) | 2:38 |
-| 54 | [Kiubole](https://open.spotify.com/track/6FudvuBPvdFmmriJLEttGd) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/0LlWwpKdaI8CXtW2fzO1WD) | 4:54 |
+| 54 | [Kiubole](https://open.spotify.com/track/6AipYSPeePKt9AUBLzjoMq) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Kiubole](https://open.spotify.com/album/04emcftNra5B20iGQR1ukc) | 4:54 |
 | 55 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 |
 | 56 | [Ranfla, Hyna, Dinero](https://open.spotify.com/track/0TCpHQU3AxonyDdo6UD2qC) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:13 |
 | 57 | [Bien High](https://open.spotify.com/track/4Ws9c892uzUsqdNCrQmebH) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo) | [Bien High](https://open.spotify.com/album/2NFBWujldGgq8ZBIVBf38r) | 3:33 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 92 | [Alzypher Vol\. 8](https://open.spotify.com/track/2q5bIRmfQVowa6qhNVhvWI) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ), [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Alzypher Vol\. 8](https://open.spotify.com/album/5UlVXVWk1u6rOfhnuvf0cB) | 3:59 |
 | 93 | [Es Otra Noche](https://open.spotify.com/track/3TwzKRjw2GeMDExPL62Wkc) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Es Otra Noche](https://open.spotify.com/album/3gfyjz5T6Mj0wlO4rkCHHp) | 3:12 |
 
-Snapshot ID: `MTY2Njk3NTYyMywwMDAwMDAwMDRmZDllOTNjYjc1M2IwYTA4ODEzOTFhMzZiNTI1N2Uy`
+Snapshot ID: `MTY2Njk3NTYyMywwMDAwMDAwMDJiMGZjZTdjZmI4MzI0NzZmOTIyYmZiNWI5OGI4MDk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,840 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,846 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 37 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
 | 38 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
 | 39 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
-| 40 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
-| 41 | [Open up Babe \- Perry twins remix](https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx) | 4:27 |
+| 40 | [Open up Babe \- Perry twins remix](https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx) | 4:27 |
+| 41 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
 | 42 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 | 43 | [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 |
 
-Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMDBiYTM0NGZmOWZlMTUxMWIzYjUzY2UxNzZhYTQ4OTI1`
+Snapshot ID: `MTY2MTQ0MjM0NCwwMDAwMDAwMDlmODE0NWNmMjFjZjc0NTA3YTJjNGIwNWQxYWVhNTQz`

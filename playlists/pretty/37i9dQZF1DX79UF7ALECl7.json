@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 115237,
+  "num_followers": 115257,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGE5YWMzM2ZiMjkxNWQ4YmQwNzBiN2QwMjAxYTQ4Y2Rl",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGZjMjljYWY4ZmEzY2JhYjdkNzQ0YjVlNjliZTlkODJh",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        }
+      ],
+      "duration_ms": 245202,
+      "name": "Gaia - Radio Edit",
+      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Speak Like the Hurricane",
         "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
       },
@@ -559,26 +575,6 @@
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Too Hot, Too Cold",
-        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
-      },
-      "artists": [
-        {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
-        },
-        {
-          "name": "SkiiTour",
-          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
-        }
-      ],
-      "duration_ms": 246407,
-      "name": "Too Hot, Too Cold",
-      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -619,18 +615,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
+        "name": "Too Hot, Too Cold",
+        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
       },
       "artists": [
         {
-          "name": "Yamil",
-          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+        },
+        {
+          "name": "SkiiTour",
+          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
         }
       ],
-      "duration_ms": 245202,
-      "name": "Gaia - Radio Edit",
-      "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
+      "duration_ms": 246407,
+      "name": "Too Hot, Too Cold",
+      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Arturia",
-        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 331960,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "V\u00edn",
         "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 309596,
       "name": "April",
       "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Arturia",
+        "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
+      },
+      "artists": [
+        {
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
+        }
+      ],
+      "duration_ms": 331960,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Tell Me Who I Am",
+        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 217948,
+      "name": "Tell Me Who I Am",
+      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "You're Beautiful",
         "url": "https://open.spotify.com/album/7nEBgm3FMtdY1XNRijKkS3"
       },
@@ -1167,18 +1183,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tell Me Who I Am",
-        "url": "https://open.spotify.com/album/0CWxAlJ9ov32aFcMZJJjn7"
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
         }
       ],
-      "duration_ms": 217948,
-      "name": "Tell Me Who I Am",
-      "url": "https://open.spotify.com/track/1OtO771VNXXuuijjFU0mbr"
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1207,6 +1227,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+      },
+      "artists": [
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Echo Of Youth Remodel",
         "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
       },
@@ -1223,22 +1259,6 @@
       "duration_ms": 298440,
       "name": "Youth - Satin Jackets Remix",
       "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1279,22 +1299,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "small talk",
-        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 325680,
-      "name": "small talk",
-      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Parrot Fever",
         "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
       },
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Ltdblbl008",
-        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/0gnsZmbviCp5VN6QFcihfh"
       },
       "artists": [
         {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Nephews",
-          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
         }
       ],
-      "duration_ms": 396501,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+      "duration_ms": 325680,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/2C7VzkQt8CEqr2qkueHiCP"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1343,26 +1343,6 @@
       "duration_ms": 377060,
       "name": "Tempranillo",
       "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Falling Upwards",
-        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
-      },
-      "artists": [
-        {
-          "name": "Koelle",
-          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
-        },
-        {
-          "name": "Margret",
-          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
-        }
-      ],
-      "duration_ms": 343384,
-      "name": "Falling Upwards",
-      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1387,6 +1367,26 @@
       "duration_ms": 344720,
       "name": "Levin's Lope - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Falling Upwards",
+        "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
+      },
+      "artists": [
+        {
+          "name": "Koelle",
+          "url": "https://open.spotify.com/artist/6kkdxR4fLeX1bz8Ujruh3a"
+        },
+        {
+          "name": "Margret",
+          "url": "https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "Falling Upwards",
+      "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Torn Apart",
-        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
-      },
-      "artists": [
-        {
-          "name": "Fynn",
-          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Torn Apart",
-      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 284205,
       "name": "009A1",
       "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Torn Apart",
+        "url": "https://open.spotify.com/album/1pz8dFp7qIKS1yQKaFgGrG"
+      },
+      "artists": [
+        {
+          "name": "Fynn",
+          "url": "https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Torn Apart",
+      "url": "https://open.spotify.com/track/7m9euwqyxRdTgPACE0E8T1"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Cosmic Breeze 003",
         "url": "https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
       "artists": [
         {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
         }
       ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "After Midnyte",
-        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
       "artists": [
         {
-          "name": "Giants' Nest",
-          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
         }
       ],
-      "duration_ms": 191819,
-      "name": "Got to Fall Out",
-      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "After Midnyte",
+        "url": "https://open.spotify.com/album/0cDfru0PQCiZP3HOucjWny"
+      },
+      "artists": [
+        {
+          "name": "Giants' Nest",
+          "url": "https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn"
+        }
+      ],
+      "duration_ms": 191819,
+      "name": "Got to Fall Out",
+      "url": "https://open.spotify.com/track/5jrITUm4fDGar2kVdYTsAH"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "What Should I Do",
-        "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
-      },
-      "artists": [
-        {
-          "name": "Mike Rogers",
-          "url": "https://open.spotify.com/artist/30iQozQQHxvlI4n6SoCs3c"
-        },
-        {
-          "name": "Abee",
-          "url": "https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2"
-        }
-      ],
-      "duration_ms": 175908,
-      "name": "What Should I Do",
-      "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
       },
@@ -1759,6 +1739,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "What Should I Do",
+        "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
+      },
+      "artists": [
+        {
+          "name": "Mike Rogers",
+          "url": "https://open.spotify.com/artist/30iQozQQHxvlI4n6SoCs3c"
+        },
+        {
+          "name": "Abee",
+          "url": "https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2"
+        }
+      ],
+      "duration_ms": 175908,
+      "name": "What Should I Do",
+      "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "So High (Ron Carroll Late Nite Tweak Dub)",
         "url": "https://open.spotify.com/album/7egfMkINOCQyCl55FCAkDn"
       },
@@ -1795,22 +1795,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Astro Reescrituras",
-        "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
+        "name": "No More / You Like Me",
+        "url": "https://open.spotify.com/album/2J3FizlVKqLcGKYCYP3KNc"
       },
       "artists": [
         {
-          "name": "Mateo Kingman",
-          "url": "https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx"
+          "name": "Bros Bros",
+          "url": "https://open.spotify.com/artist/5QQgP1TsYXJmb0VhOjO6ZX"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Jon the Gold",
+          "url": "https://open.spotify.com/artist/00vagRdyf9Xku8Gi0zPv0x"
         }
       ],
-      "duration_ms": 257183,
-      "name": "Religar - Chancha Via Circuito Remix",
-      "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
+      "duration_ms": 158563,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1XHCxvbJuVLd6n8Tj9oiCy"
     }
   ],
   "unique_name": "Coffee Club",

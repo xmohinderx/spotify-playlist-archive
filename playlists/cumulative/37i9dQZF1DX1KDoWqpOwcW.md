@@ -4,7 +4,7 @@
 
 > El soundtrack oficial de la Liga Mexicana de Beisbol ⚾️🏟🧢
 
-129 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/3c1vQTF1VVUWKQc3iY78Mc)
+130 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/3c1vQTF1VVUWKQc3iY78Mc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Qué Maldición](https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Qué Maldición](https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ) | 3:23 | 2022-09-07 |  |
 | [Qué Nivel De Mujer](https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:28 | 2022-09-07 |  |
 | [Reggaeton](https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Reggaeton](https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5) | 2:38 | 2022-09-07 |  |
-| [Rock And Roll Part II](https://open.spotify.com/track/63W11KVHDOpSlh3XMQ7qMg) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [The Replacements \(Music From The Motion Picture\)](https://open.spotify.com/album/3qzpmMw9JdlEOn2zt9S4EV) | 3:00 | 2022-09-07 |  |
+| [Rock 'n' Roll \(Part 2\)](https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [Glitter](https://open.spotify.com/album/6Ck7kqCXreu6gH9CgdsFLO) | 3:13 | 2022-09-07 |  |
+| [Rock And Roll Part II](https://open.spotify.com/track/63W11KVHDOpSlh3XMQ7qMg) | [Gary Glitter](https://open.spotify.com/artist/61zv3hX7l838ZyhaDyAx8S) | [The Replacements \(Music From The Motion Picture\)](https://open.spotify.com/album/3qzpmMw9JdlEOn2zt9S4EV) | 3:00 | 2022-09-07 | 2022-10-31 |
 | [Rock Lobster](https://open.spotify.com/track/2Q5wSOwq6BDSu7sSVMNrtT) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 6:49 | 2022-09-07 |  |
 | [Sabor A Beisbol \- Bonus Track](https://open.spotify.com/track/1bXgUOTrdy8k1ZzV9Ih1Wy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Le Preguntaba a la Luna](https://open.spotify.com/album/6EssY5LyLpMcgJVlbzQ5qt) | 3:19 | 2022-09-07 |  |
 | [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 | 2022-09-07 |  |

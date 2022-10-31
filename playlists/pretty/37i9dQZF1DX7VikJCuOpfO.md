@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Luis R Conriquez, Jessie Uribe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,167 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,181 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 20 | [Se Veía Venir](https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Se Veía Venir](https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy) | 2:32 |
 | 21 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 22 | [Hasta Que Llegue el Alba](https://open.spotify.com/track/7kRUOKGmAG7wNxMy9tFQS7) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 4:30 |
-| 23 | [De Vez en Cuando \(Aparece\)](https://open.spotify.com/track/08VP9HBayRpUC20OzFktik) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:00 |
-| 24 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
+| 23 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
+| 24 | [De Vez en Cuando \(Aparece\)](https://open.spotify.com/track/08VP9HBayRpUC20OzFktik) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Botánica](https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc) | 3:00 |
 | 25 | [Ovarios](https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 2:52 |
 | 26 | [Solos](https://open.spotify.com/track/1oQtCWxfOZwyfy2Vl3yy6w) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Solos](https://open.spotify.com/album/4MZ3QFD6pxd9uQvjsX0SpR) | 3:06 |
 | 27 | [No Lo Podía Hacer Mejor](https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [No Lo Podía Hacer Mejor](https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL) | 2:58 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 47 | [Mejor Ni Me La Nombren](https://open.spotify.com/track/7y3TuUYfFzF7PgdSz3FplN) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Mejor Ni Me La Nombren](https://open.spotify.com/album/5Q7i8xatCEmGh7wX81r4bw) | 3:30 |
 | 48 | [Todo Cuanto Tuve](https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Todo Cuanto Tuve](https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh) | 2:29 |
 | 49 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 50 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 |
-| 51 | [Tu Amante](https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu Amante](https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us) | 3:24 |
+| 50 | [Tu Amante](https://open.spotify.com/track/0ygm6N6bwRowtuBuuBSbpH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu Amante](https://open.spotify.com/album/1IF3OmJA6rQKVEof7C85us) | 3:24 |
+| 51 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N) | 2:44 |
 | 52 | [No Lo Beses \- Mariachi](https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Lo Beses \(Mariachi\)](https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw) | 3:23 |
 | 53 | [Regresé Porque Me Faltas](https://open.spotify.com/track/4mbfdXD5X6tfgQrxMOLE5r) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Regresé Porque Me Faltas](https://open.spotify.com/album/1J149gTH0PD2XvqJHqTQiO) | 3:23 |
 | 54 | [Desde Que Llegaste](https://open.spotify.com/track/2Eg0Cg1vWx6URPbEAuUJIh) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Desde Que Llegaste](https://open.spotify.com/album/2pj6a8DjAlEYpndmS85YVa) | 3:21 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 83 | [Es Mejor Decir Adiós](https://open.spotify.com/track/5sI2Uak0Ma7wnYVypyjeT3) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Es Mejor Decir Adiós](https://open.spotify.com/album/5ULdbRI84YH7MWi21emnYP) | 4:32 |
 | 84 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
 | 85 | [Con Todo y Mi Tristeza \- Live](https://open.spotify.com/track/5h4lv1KROb9pLcxH5nxmMb) | [Karina Catalán](https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx) | [Con Todo y Mi Tristeza \(Live\)](https://open.spotify.com/album/5fWctttyepuxA6v8XFm8eL) | 4:18 |
-| 86 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
-| 87 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
+| 86 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 |
+| 87 | [Mi Reflejo](https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Mi Reflejo](https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP) | 3:34 |
 | 88 | [Decidí Olvidarte](https://open.spotify.com/track/4pcdPdeZeNkkQK7CBEJbbj) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Decidí Olvidarte](https://open.spotify.com/album/4sqwNxU9rv3Supn6Pbjz5P) | 2:20 |
 | 89 | [La Derrota](https://open.spotify.com/track/3CbJo5BR6Sbr708oJ9uic6) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [La Derrota](https://open.spotify.com/album/0OLfv4jBTgcTLw42kEHJ4I) | 3:06 |
 | 90 | [Se Te Olvidó](https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Invasión De Éxitos](https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe) | 2:56 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 92 | [Antes](https://open.spotify.com/track/2C92uAy0ZoaqmyVEXRbsat) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Antes](https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx) | 3:28 |
 | 93 | [Te Seguiré Queriendo \- Versión Mariachi](https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Te Seguiré Queriendo \(Versión Mariachi\)](https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX) | 3:12 |
 | 94 | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/track/0LPpHtoUCbSLEXno1CF1kW) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf) | [Ojalá Que Te Vaya Bonito](https://open.spotify.com/album/7jg0q5OAZYGDL808LxnpRb) | 2:53 |
-| 95 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
-| 96 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
+| 95 | [Pero Me Acuerdo de Ti](https://open.spotify.com/track/79yFonF4USs9eIlLEGowaD) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Pero Me Acuerdo de Ti](https://open.spotify.com/album/0WZvGpgxno7i8kDlo6Znb9) | 4:15 |
+| 96 | [El Diluvio](https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [El Diluvio](https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP) | 2:28 |
 | 97 | [Nadie Me Cree](https://open.spotify.com/track/3fpxOreB9Suo6mZD8xata4) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Nadie Me Cree](https://open.spotify.com/album/4YzXxSlNCqf8ofNuPNaCkO) | 3:28 |
 | 98 | [Por Siempre Serás Mía](https://open.spotify.com/track/5AYT35hh3WcMoZnL2esSFx) | [Rogelio Martinez](https://open.spotify.com/artist/7o6sbyEJZOSvb84L987hVH) | [La Historia](https://open.spotify.com/album/1S1vrxaJ7yYL5j34xya1i0) | 3:31 |
 | 99 | [¿Qué Le Echan al Tequila?](https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua) | [Cuitla Vega](https://open.spotify.com/artist/50eEhK6sfbvKaI75ZqD96I) | [¿Qué Le Echan al Tequila?](https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2) | 2:42 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 126 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/7CnmrsgrDklemSrdq8tuzL) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Forajido EP 1](https://open.spotify.com/album/7I8Jkv7b1hFt0Pc1eePHTR) | 3:05 |
 | 127 | [Probablemente](https://open.spotify.com/track/3WVloZ8Z5h6vgKQ7wFhi2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Festivo](https://open.spotify.com/album/5dpj0D8wTg7QFG5VMashbU) | 3:53 |
 
-Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGNlOWQ1ZDI0NTMyZjRjZjEzOGI1YjhkNDYxMmIxZWVj`
+Snapshot ID: `MTY1OTA2NzIwMCwwMDAwMDAwMGZmMGZmNGRmYjkyOGFjYWMxZjc2ZWNhZTc0M2E0YTdm`

@@ -4,7 +4,7 @@
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Lainey Wilson, Russell Dickerson and more.
 
-2,078 songs - 4 day 17 hr 15 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
+2,079 songs - 4 day 17 hr 18 min - [published](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2022-10-08 |
 | [Book Beside Your Bed](https://open.spotify.com/track/65cK1TDWBmogJbm0TvHzIo) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Book Beside Your Bed](https://open.spotify.com/album/2oWcq9xWKKhgzeU5Hy4A1r) | 3:45 | 2022-02-11 | 2022-04-02 |
 | [Boot 'N' Rally](https://open.spotify.com/track/2tooBk4zuDUcXIsuAf4ALd) | [Blane Howard](https://open.spotify.com/artist/6ihCRApNJtA2jTLA15UYID) | [Boot 'N' Rally](https://open.spotify.com/album/7AjYmRbWcp5SMRNU8kAdlc) | 3:10 | 2022-02-04 | 2022-04-09 |
-| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 |  |
+| [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 | 2022-10-28 |  |
+| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2022-10-31 |
 | [Born for This](https://open.spotify.com/track/586J5WhIK26aUTljJSFdsA) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/1MlIIJUFDiH0JYvGG8KoNn) | 3:44 | 2022-01-28 | 2022-04-02 |
 | [Born Ready](https://open.spotify.com/track/42DrgjCpERew82vaUz9ejU) | [Gable Bradley](https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1) | [Born Ready](https://open.spotify.com/album/2yatuqGgdrqkp1A39t7LLy) | 4:23 | 2022-05-06 | 2022-05-20 |
 | [Born Restless](https://open.spotify.com/track/0ZGIIvREppOJFb2w0xEun2) | [Scott Stepakoff](https://open.spotify.com/artist/74vT1LjbXISqRpVGd30fUm) | [Born Restless](https://open.spotify.com/album/3R6ABvZQ6rcBkDlH5XAt8f) | 3:48 | 2022-06-03 | 2022-06-11 |
@@ -247,7 +248,7 @@
 | [Break These Chains](https://open.spotify.com/track/12JZGTF6OYHNOQ5n1LS9uQ) | [Tainted Lyric](https://open.spotify.com/artist/2BiELkFkvJAaCy7ewkk0Ns) | [Break These Chains](https://open.spotify.com/album/0503ToT9KSX9mWrdAovJTS) | 4:18 | 2022-09-16 | 2022-09-24 |
 | [Break Up Goin' Down](https://open.spotify.com/track/0gCMGDyxCJiwL2rTy0bsNF) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Break Up Goin' Down](https://open.spotify.com/album/0ikMfhuwXYuL4hAAWUb3Es) | 4:01 | 2022-04-01 | 2022-04-16 |
 | [Break Up In A Bar](https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Break Up In A Bar](https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5) | 3:36 | 2022-03-11 | 2022-03-18 |
-| [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv), [NO](https://open.spotify.com/artist/6NkUxoYd8qeWelS4nuzwr4) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 | 2022-10-28 |  |
+| [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 | 2022-10-28 |  |
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2022-04-23 |
 | [Breaking Up & Getting Drunk](https://open.spotify.com/track/5FYBYeW2DI9uYEp1TTw0RH) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [Breaking Up & Getting Drunk](https://open.spotify.com/album/441kngoefWgE5DrgsHn58g) | 2:52 | 2022-06-24 | 2022-07-02 |
 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 | 2022-09-16 | 2022-09-24 |

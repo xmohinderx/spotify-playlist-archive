@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 
 > Hymns and anthems of artists stepping  into the culture at large! Speak truth\. Cover; Joshua Luke Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,687 likes - 49 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,702 likes - 49 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 27 | [ONLY U \(feat\. Terrian\)](https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:22 |
 | 28 | [Shed a Little Light](https://open.spotify.com/track/6fO7SWzkzIQCYhyIB8FH42) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 3:31 |
 | 29 | [Gabriel & the Vagabond](https://open.spotify.com/track/6mrOdPoRpEvya0NVBWAo5X) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Hope](https://open.spotify.com/album/0Vy0pKZuZGoNDtiXfEg1YD) | 5:05 |
-| 30 | [Get to the Point](https://open.spotify.com/track/1HgGj4WxlNXcXIuK6yRlrz) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc) | [Get to the Point](https://open.spotify.com/album/174ooCzMlQMKhUXTuuNVN4) | 3:19 |
+| 30 | [Get to the Point](https://open.spotify.com/track/7GtgIxxDuPWJE4PmJzMLWd) | [Mogli the Iceburg](https://open.spotify.com/artist/1SZikSUx9fZ2cUFjrmM6Sy), [Joey Vantes](https://open.spotify.com/artist/7hJoApA9cwgCqWGvIhbCyc) | [Sad People Make Dope Music 2](https://open.spotify.com/album/2hh3smYVb1LzqVMC0Kk96j) | 3:20 |
 | 31 | [Within The Rose](https://open.spotify.com/track/3RGPlHgxzIVMnrpdWR0EgM) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [To the North](https://open.spotify.com/album/0cKaHI9t8EnlykFdIRspw3) | 3:52 |
 | 32 | [We Don't Eat](https://open.spotify.com/track/1y3PhboJrxMNOpLxkMsTiM) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Bonus Version\)](https://open.spotify.com/album/4Lluitxz8wV7jq5qljjG4I) | 4:53 |
 | 33 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIzeeN1t2Mn.md) - [plain]
 | 48 | [The Isle Of Arran](https://open.spotify.com/track/2YQ1cc9xWnp5qI08rKt6wv) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Yesterday's Gone](https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5) | 3:34 |
 | 49 | [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 |
 
-Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMDhkZjI4NDViZDQzYmU4NzViNzE5NzY1NWY4NzQ3NjJi`
+Snapshot ID: `MTU5MjM5ODI3MCwwMDAwMDAwMGZmNmFkODcwZWE1ZDFmYzllNzdiNGY5NzUzMzRkYmVh`

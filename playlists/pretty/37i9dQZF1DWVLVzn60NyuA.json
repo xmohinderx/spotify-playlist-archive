@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe.",
-  "num_followers": 218218,
+  "num_followers": 218273,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMGQ2Yzg4MjY5YTU1OWVlMzFlZjRjM2RmY2Y1NDYxZTEx",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDYzMDY1Y2Q4ZGMyZDAxMGEzODUwMTEzNDUxMGIyNmU4",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Sans visa",
+        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
         "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Sans visa",
-        "url": "https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 228920,
       "name": "Otra Noche Sin Ti",
       "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Ginger (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "So Distant (feat. Tayc)",
         "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 174059,
       "name": "So Distant (feat. Tayc)",
       "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        },
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Cool Me Down (feat. Wizkid)",
         "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 208758,
       "name": "Cool Me Down (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Afrowave 3",
         "url": "https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH"
       },
@@ -2107,18 +2123,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+        "name": "Folklore Riddim",
+        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
       },
       "artists": [
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+      "duration_ms": 198857,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2139,22 +2155,6 @@
       "duration_ms": 154772,
       "name": "Vitamine - (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Folklore Riddim",
-        "url": "https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2319,6 +2319,26 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 155366,
+      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
+      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -2339,26 +2359,6 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-        "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 155366,
-      "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
-      "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
-      },
-      "artists": [
-        {
-          "name": "Wauve",
-          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
-        }
-      ],
-      "duration_ms": 202549,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -2811,6 +2795,22 @@
       "duration_ms": 175000,
       "name": "before",
       "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/489cXvPHAmviU3bx3pCfQB"
+      },
+      "artists": [
+        {
+          "name": "Wauve",
+          "url": "https://open.spotify.com/artist/6iJTgr51htiTuj3r1cFSFO"
+        }
+      ],
+      "duration_ms": 202549,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/55K2ZYir51TSEBrf2thUi9"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Quarantime: The Lost Files",
-        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
-      },
-      "artists": [
-        {
-          "name": "Yxng Bane",
-          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Table For Two",
-      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Ravin'",
         "url": "https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ"
       },
@@ -2891,6 +2875,22 @@
       "duration_ms": 198120,
       "name": "Ravin'",
       "url": "https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Quarantime: The Lost Files",
+        "url": "https://open.spotify.com/album/1MM4sliNOMDzL4dIAijvt0"
+      },
+      "artists": [
+        {
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Table For Two",
+      "url": "https://open.spotify.com/track/1lLXZuj6n1tFaJTJBKy8Fa"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -3083,6 +3083,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "MYKILLI",
+        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 144050,
+      "name": "MYKILLI",
+      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Etema",
         "url": "https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb"
       },
@@ -3103,22 +3119,6 @@
       "duration_ms": 270086,
       "name": "Etema",
       "url": "https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "MYKILLI",
-        "url": "https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 144050,
-      "name": "MYKILLI",
-      "url": "https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU"
     },
     {
       "added_at": "2022-10-20 22:00:00",

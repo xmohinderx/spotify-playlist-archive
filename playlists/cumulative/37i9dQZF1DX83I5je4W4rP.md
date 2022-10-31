@@ -4,7 +4,7 @@
 
 > Soak up these laid\-back jams.
 
-203 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
+204 songs - 12 hr 22 min - [published](https://open.spotify.com/playlist/6DdOJ3YsuWQvPWCu8KZtTS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 | 2022-07-06 |  |
 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 | 2022-07-06 |  |
 | [Love Letter](https://open.spotify.com/track/0xtvV6h7qWiTjab9GIoWkZ) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Say What You're Thinking](https://open.spotify.com/album/2ICxzn5rJTw7k0R2JgitSX) | 3:33 | 2022-07-06 |  |
-| [Margaritas \(with Orange Grove\)](https://open.spotify.com/track/0jZkoLBmXigAKcpeYbkXq6) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Orange Grove](https://open.spotify.com/artist/1OUTOOUK6WFuwXEIGjT1wx) | [Margaritas \(with G\. Love & Special Sauce, Orange Grove\)](https://open.spotify.com/album/4KAkq1TW4fIL9S380o3B1L) | 3:37 | 2021-12-10 |  |
+| [Margaritas \(with Orange Grove\)](https://open.spotify.com/track/0jZkoLBmXigAKcpeYbkXq6) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Orange Grove](https://open.spotify.com/artist/1OUTOOUK6WFuwXEIGjT1wx) | [Margaritas \(with G\. Love & Special Sauce, Orange Grove\)](https://open.spotify.com/album/4KAkq1TW4fIL9S380o3B1L) | 3:37 | 2021-12-10 | 2022-10-31 |
 | [Marinade](https://open.spotify.com/track/4zCrOO8OAjpnmekfIxzTsl) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/6SjKSLwExh3083Q0pdYpla) | 3:57 | 2022-07-06 |  |
 | [Mary Go Round](https://open.spotify.com/track/0wnwcuAm6WlXLhyJRlYyPe) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Mary Go Round](https://open.spotify.com/album/6NNbaYYuQhcl0D5InkEyXJ) | 2:21 | 2021-12-10 | 2022-07-29 |
 | [Mary Go Round](https://open.spotify.com/track/7xgloQZJrpjQOyKc0n3D0j) | [Soulex](https://open.spotify.com/artist/0uGW3VhhBk9vTgOcJRkvsC) | [Mary Go Round](https://open.spotify.com/album/6BiYSkrA67ZQGVhN8rtnSK) | 2:21 | 2022-07-06 |  |
@@ -168,6 +168,7 @@
 | [Song to the Sun](https://open.spotify.com/track/5geotWRSYIMLZHSxGwWcvK) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Song to the Sun](https://open.spotify.com/album/0UOyi7zOftKlGMd8gDkj6m) | 3:49 | 2022-06-21 | 2022-09-15 |
 | [Sounds of Summer \(with Slightly Stoopid\)](https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Sounds Of Summer \(with Slightly Stoopid\)](https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm) | 3:41 | 2021-12-10 |  |
 | [Space and Time](https://open.spotify.com/track/2P0FH5jSRu8cctdYfTXtje) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Space and Time](https://open.spotify.com/album/527CKlIFgZY5S99cPLLuvG) | 3:34 | 2021-12-10 | 2022-05-14 |
+| [Space and Time](https://open.spotify.com/track/5zQ65ap2xd09FHwdv4oxRf) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Voyager](https://open.spotify.com/album/1OB4dJvhPDVtpEsGbUOZHJ) | 3:34 | 2022-09-30 |  |
 | [Stayed](https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr) | [Welcome to Florida](https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d) | 2:50 | 2022-03-10 | 2022-07-29 |
 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 | 2022-07-06 |  |
 | [Summer Nights](https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Summer Nights](https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY) | 3:56 | 2021-12-10 |  |

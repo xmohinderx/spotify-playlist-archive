@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,814 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,860 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 5 | [ココロ、ハレ晴レ](https://open.spotify.com/track/1OVW6S9aU03kk9JMaAHqln) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:31 |
 | 6 | [Unbalance Shadow](https://open.spotify.com/track/7wgBmjTYT4rD1mSbmur4KG) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:21 |
 | 7 | [マロウブルー](https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [マロウブルー](https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP) | 3:32 |
-| 8 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
+| 8 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 |
 | 9 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 10 | [LOVE&GAME](https://open.spotify.com/track/4B4oTvmtcumgNyXFz7ow79) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD), [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5), [十 龍之介 \(CV.佐藤拓也\)](https://open.spotify.com/artist/4QPLEBNjogoJQeF9dlHM82) | [LOVE&GAME](https://open.spotify.com/album/5tXE6J3mi2wyzX0dGv8zFK) | 3:54 |
 | 11 | [解決ミステリー](https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [解決ミステリー](https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq) | 3:32 |
 | 12 | [100%ハピネス](https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w) | [百 \(CV.保志総一朗\)](https://open.spotify.com/artist/3pn6k1AxOtm76sgtZZbmk9) | [100%ハピネス](https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG) | 4:29 |
 | 13 | [HELLO CALLiNG](https://open.spotify.com/track/5IKm7gw6w52KFtkDrGpaqw) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [HELLO CALLiNG](https://open.spotify.com/album/361T1tBWo3v5WzvZ5PDgme) | 4:02 |
 | 14 | [Labyrinth](https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Labyrinth](https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt) | 4:35 |
-| 15 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 |
+| 15 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 |
 | 16 | [Period Color](https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Period Color](https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J) | 4:35 |
 | 17 | [願いはShine On The Sea](https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 3:38 |
 | 18 | [雨](https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [雨](https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k) | 5:23 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 59 | [WiSH VOYAGE](https://open.spotify.com/track/4s2JomRrcKgVLt2lrX0tvm) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [WiSH VOYAGE / Dancing∞BEAT!!](https://open.spotify.com/album/0a7rV1GSIXyArrLon0kuhD) | 4:07 |
 | 60 | [Start Rec](https://open.spotify.com/track/1y405pTIwFqIThLlvSH7GA) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ココロ、ハレ晴レ](https://open.spotify.com/album/1m2PwqWbu5EjHRxKTgz5mE) | 4:44 |
 | 61 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
-| 62 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
-| 63 | [DIAMOND FUSION](https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 3:57 |
+| 62 | [DIAMOND FUSION](https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 3:57 |
+| 63 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 |
 | 64 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 65 | [My Precious World](https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [My Precious World](https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk) | 3:37 |
 | 66 | [NO DOUBT](https://open.spotify.com/track/3a1YngFQXMRL0qyYUKVdGt) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NO DOUBT](https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM) | 4:51 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 69 | [Poisonous Gangster](https://open.spotify.com/track/6ofggKiHtSyvR2ZMoDDkV3) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Poisonous Gangster](https://open.spotify.com/album/4kmAe9Rr3hKdtBrG2pUGVd) | 3:45 |
 | 70 | [Mr.AFFECTiON](https://open.spotify.com/track/2vGVhtVqqhldFTbBGFtzZL) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Mr.AFFECTiON](https://open.spotify.com/album/7JrXymArQDokcZIEuGP0rm) | 4:42 |
 
-Snapshot ID: `MTY2NDg5NTYwMCwwMDAwMDAwMDY5MmIyMGNmNTRkNjUzN2Q4YTk4OThlOTI3NzZlM2Vh`
+Snapshot ID: `MTY2NDg5NTYwMCwwMDAwMDAwMGQxYzk4M2QyNTgwMDg4MzRjNTk0NDBlMmI5YzM4ZTZh`

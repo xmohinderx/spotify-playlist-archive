@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 102532,
+  "num_followers": 102664,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzkwMTkzMiwwMDAwMDAwMGFhZmQ2ZDIxMDgyNmNlNjZjNjU2Y2FkY2ViNmMxZmZl",
+  "snapshot_id": "MTY1MzkwMTkzMiwwMDAwMDAwMDkwMGI1NjY2MGM1NjMzZDE4MzVmNzc0MmY4MWNmYTAw",
   "tracks": [
     {
       "added_at": "2022-05-30 09:12:12",
@@ -223,22 +223,18 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Throwaway (with Clairo)",
-      "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
+      "duration_ms": 224133,
+      "name": "On Hold",
+      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -259,18 +255,22 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "I See You",
-        "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
       },
       "artists": [
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 224133,
-      "name": "On Hold",
-      "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+      "duration_ms": 180000,
+      "name": "Throwaway (with Clairo)",
+      "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
+        "name": "Just EP",
+        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 372555,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
+    },
+    {
+      "added_at": "2022-05-30 09:12:12",
+      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
-    },
-    {
-      "added_at": "2022-05-30 09:12:12",
-      "album": {
-        "name": "Just EP",
-        "url": "https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 372555,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -743,22 +743,18 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "Roll Back",
-        "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
+        "name": "October",
+        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        },
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
         }
       ],
-      "duration_ms": 184989,
-      "name": "Roll Back - Single Mix",
-      "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
+      "duration_ms": 354102,
+      "name": "October",
+      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -779,18 +775,22 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8"
+        "name": "Roll Back",
+        "url": "https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2"
       },
       "artists": [
         {
-          "name": "Icarus",
-          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
         }
       ],
-      "duration_ms": 354102,
-      "name": "October",
-      "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
+      "duration_ms": 184989,
+      "name": "Roll Back - Single Mix",
+      "url": "https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21"
     },
     {
       "added_at": "2022-05-30 09:12:12",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-05-30 09:12:12",
       "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 352945,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz"
+    },
+    {
+      "added_at": "2022-05-30 09:12:12",
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
@@ -867,26 +883,6 @@
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
-    },
-    {
-      "added_at": "2022-05-30 09:12:12",
-      "album": {
-        "name": "Loom",
-        "url": "https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Loom (feat. Bonobo)",
-      "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
     }
   ],
   "unique_name": "Melantronic",

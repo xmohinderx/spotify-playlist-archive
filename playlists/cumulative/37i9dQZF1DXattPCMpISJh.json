@@ -1787,7 +1787,7 @@
     {
       "album": {
         "name": "Pretty Please (Supertaste Disco Mix)",
-        "url": "https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm"
+        "url": "https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK"
       },
       "artists": [
         {
@@ -1802,6 +1802,28 @@
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 221314,
+      "name": "Pretty Please (Supertaste Disco Mix)",
+      "url": "https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr"
+    },
+    {
+      "album": {
+        "name": "Pretty Please (Supertaste Disco Mix)",
+        "url": "https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm"
+      },
+      "artists": [
+        {
+          "name": "Delia Dane",
+          "url": "https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x"
+        },
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
       "duration_ms": 221314,
       "name": "Pretty Please - Supertaste Disco Mix",
       "url": "https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI"

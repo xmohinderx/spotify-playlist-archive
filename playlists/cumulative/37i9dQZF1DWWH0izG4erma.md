@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!! Cover: Koe Wetzel
 
-197 songs - 11 hr 30 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+198 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 | 2022-07-10 |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 | 2022-08-17 |
-| [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-09-16 |  |
+| [Ramon Ayala](https://open.spotify.com/track/7mrLFLPPXee4E0JH2trPJz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/3QHU1NiJaARZJbBbYG1BeQ) | 2:48 | 2022-09-16 | 2022-10-31 |
 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-07-19 | 2022-09-23 |
 | [Red Handed](https://open.spotify.com/track/62jzdCEsnubKdOSIEOLx7L) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ) | 2:42 | 2021-11-01 | 2022-07-26 |
 | [Rich Man's Game](https://open.spotify.com/track/2muHNimwAwlBbfdYf6yH5W) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Rich Man's Game](https://open.spotify.com/album/0r5fTsObknKZkwDQbOjRuO) | 3:50 | 2021-11-01 | 2022-07-28 |
@@ -201,6 +201,7 @@
 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 | 2022-04-29 |  |
 | [Workin' Man](https://open.spotify.com/track/2ft5Bac46RD8TIN1yGbEwG) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Workin' Man](https://open.spotify.com/album/0qr6dl07Lmp48MxO4dQcEX) | 3:38 | 2022-06-24 |  |
 | [Year to Be Young 1994](https://open.spotify.com/track/189qLE479B11BbwQlOFxQO) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Year to Be Young 1994](https://open.spotify.com/album/3OwjwpFlpEiHMFuXGxVqTA) | 3:20 | 2021-11-05 |  |
+| [You and Me](https://open.spotify.com/track/3sxQbGjZ069MiXljzJTMsT) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 4:24 | 2022-10-28 |  |
 | [You Hear Georgia](https://open.spotify.com/track/3v5hpjKoF63Lr9vLIKOpL8) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/0zPQpAPYM2YG3G0pzuLiey) | 4:05 | 2021-11-01 | 2022-10-18 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2021-11-01 | 2022-08-27 |
 | [Your Momma Still Does](https://open.spotify.com/track/0F7Kxrd27Q1jYhnKVoWnUa) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 2:37 | 2022-07-22 |  |

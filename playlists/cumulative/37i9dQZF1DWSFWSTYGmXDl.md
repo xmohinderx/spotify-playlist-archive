@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-156 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
+158 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,14 @@
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-12 |  |
 | [Another Holiday](https://open.spotify.com/track/4QrZBl4Sz76JPTZDbfsxCd) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Soldier On](https://open.spotify.com/album/2bU1n72VyqxwTjEuCqYTYc) | 3:46 | 2021-12-12 |  |
 | [Another Holiday](https://open.spotify.com/track/5K390niNPXK9ycJDG7QyVU) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Another Holiday](https://open.spotify.com/album/0SWArQv4sxQVoYEIqaDVe3) | 3:46 | 2021-12-12 | 2022-07-29 |
-| [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:38 | 2021-12-12 |  |
+| [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:38 | 2021-12-12 |  |
+| [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:38 | 2021-12-12 | 2022-10-31 |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2021-12-12 | 2022-07-29 |
 | [Blackout Christmas](https://open.spotify.com/track/1oZRAefHTh7YzA02kQ8519) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5ZV6Hh6cLp1t1QV83LEMaB) | 2:19 | 2021-12-12 |  |
 | [Blackout Christmas](https://open.spotify.com/track/7l7FQufQxYcuEQ7u28ur37) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2vtMi8UlnIo8EDgCrNjDEa) | 2:19 | 2021-12-12 | 2022-10-13 |
-| [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 | 2021-12-12 |  |
+| [By Christmas Eve](https://open.spotify.com/track/50p1UrHZsX6KkVydAvSxHC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:51 | 2021-12-12 | 2022-10-31 |
 | [By Christmas Eve](https://open.spotify.com/track/2QM6q2L4bZHW2evhAjxOrS) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:51 | 2021-12-12 | 2022-07-29 |
+| [By Christmas Eve](https://open.spotify.com/track/5e0vyaiZ6Dng4MXkOEUDwC) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:52 | 2021-12-12 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/0u8JsIsptzcuseeAfvIV84) | [Ria Mae](https://open.spotify.com/artist/3QvuHlyW42Ei3AyGOO4AMT) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/222k5mkVlexJMExS783ddl) | 2:38 | 2021-12-12 |  |
 | [Christmas Blues](https://open.spotify.com/track/6PZaNvcth74ko7Ld0vB8Gm) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Christmas Blues](https://open.spotify.com/album/1wYxighrXciRyM6KjF5Gv2) | 3:25 | 2021-12-12 |  |
 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 | 2021-12-12 |  |

@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-498 songs - 1 day 12 hr 51 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+500 songs - 1 day 12 hr 59 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Deep Sea \- DJ\-Kicks](https://open.spotify.com/track/5BmgjLP1lYHEndkzJyaA7d) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [DJ\-Kicks: Disclosure](https://open.spotify.com/album/7F0dkkAqwrmclRH8KP2QmW) | 4:25 | 2021-11-24\* | 2021-12-10 |
 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 | 2022-10-20 |  |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2022-10-26 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-28 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-20 | 2022-10-31 |
 | [Desire](https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 1:48 | 2022-09-08 |  |
 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 | 2021-11-24\* | 2022-04-02 |
 | [Distorted Youth](https://open.spotify.com/track/3DhGxSaArP9Kf57DwcwMPQ) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 4:44 | 2022-02-04 | 2022-07-01 |
@@ -241,7 +242,8 @@
 | [JUNGLE TEKNAH](https://open.spotify.com/track/0PjXRi6lYapTH4BXl8xNlU) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7ETcD2rHdCaGTOTd2cSLBH) | 4:01 | 2021-11-24\* | 2022-04-02 |
 | [Kahan \(Last Year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(Last Year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-11-24\* | 2021-12-27 |
 | [Kammy \(like i do\)](https://open.spotify.com/track/32DqQqnNiZI5VxozdaUUDu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/28ajXoSpiEOh1W4neVxxgS) | 3:58 | 2022-10-06 | 2022-10-22 |
-| [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 | 2022-10-20 |  |
+| [Kammy \(like i do\)](https://open.spotify.com/track/3j4OQit2L6QaepCMBnAt4c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kammy \(like i do\)](https://open.spotify.com/album/3hYksFQ1oq8EGadqmU0sOi) | 3:58 | 2022-10-20 | 2022-10-31 |
+| [Kammy \(like i do\)](https://open.spotify.com/track/5qJGp0cDrsOoRZOn75K6Y0) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 3:58 | 2022-10-28 |  |
 | [Keep On Believing](https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3H2J52qEjLVYx2hgs26vkQ) | 4:34 | 2021-11-24\* | 2022-03-05 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-08 | 2022-10-29 |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-09-21 |  |

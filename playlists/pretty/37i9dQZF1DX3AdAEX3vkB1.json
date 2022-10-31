@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 143843,
+  "num_followers": 143953,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMGM1NjE1ZDU3Njg2MzFmOWQ4MzZkNjM4OGJhOTA2MjJi",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDg1NWM2MjhjMDNjZGU1NTY2N2RkY2ViZTI2MWIxODA5",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Four Tops Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup - Mono",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "With The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "All My Loving - Remastered 2009",
-      "url": "https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "All My Loving - Remastered 2009",
+      "url": "https://open.spotify.com/track/4joiWvli4qJVEW6qZV2i2J"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "A Hard Day's Night (Remastered)",
-        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 154200,
-      "name": "A Hard Day's Night - Remastered 2009",
-      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+        "name": "A Hard Day's Night (Remastered)",
+        "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+      "duration_ms": 154200,
+      "name": "A Hard Day's Night - Remastered 2009",
+      "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
-        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Come A Little Bit Closer",
-      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
+        "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Come A Little Bit Closer",
+      "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Gimme Some Loving / Blues In F",
-        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Gimme Some Lovin' - Single Mix",
-      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Gimme Some Loving / Blues In F",
+        "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Gimme Some Lovin' - Single Mix",
+      "url": "https://open.spotify.com/track/3qCHUm73I3o5F1mDEfibzo"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "New Gold Hits",
-        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
-      },
-      "artists": [
-        {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Good Life With the Drifters",
         "url": "https://open.spotify.com/album/1lvcXSmZa8rTR5M03tihq5"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 153626,
       "name": "Saturday Night at the Movies",
       "url": "https://open.spotify.com/track/0jrdWPwYjUZvqfJcwE8ddh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "New Gold Hits",
+        "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "No Place To Hide",
-        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
-      },
-      "artists": [
-        {
-          "name": "Betty Everett",
-          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
-        }
-      ],
-      "duration_ms": 129758,
-      "name": "It's In The Kiss (The Shoop Shoop Song)",
-      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "At Abbey Road",
         "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 114986,
       "name": "How Do You Do It? - Mono",
       "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "No Place To Hide",
+        "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
+      },
+      "artists": [
+        {
+          "name": "Betty Everett",
+          "url": "https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl"
+        }
+      ],
+      "duration_ms": 129758,
+      "name": "It's In The Kiss (The Shoop Shoop Song)",
+      "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
     },
     {
       "added_at": "2022-06-16 22:02:00",

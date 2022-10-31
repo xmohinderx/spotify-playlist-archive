@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Thailand.",
-  "num_followers": 132103,
+  "num_followers": 132150,
   "original_name": "Top 50 - Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwMzYwMDUwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIwNDQ0MDUzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "The Astronaut",
         "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e1e\u0e34\u0e08\u0e32\u0e23\u0e13\u0e32",
         "url": "https://open.spotify.com/album/00lYeU7gtlokOZDkt15QPR"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/3XCoEJvCYqTbM8bhples8N"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "Pauley & Jeen",
         "url": "https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/1hmpvMQD6vOAf4dpT67jsP"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/4cxB2603ulZZjod5FwmWy1"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
         "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "GOT7",
-        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "NANANA",
-      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e25\u0e32\u0e01\u0e48\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e04\u0e38\u0e22 (Silent Mode)",
         "url": "https://open.spotify.com/album/1K7cv40prwoUAbxCXX1CTh"
@@ -193,7 +177,23 @@
       "url": "https://open.spotify.com/track/4Z64nGulQN49i9D03NcF8a"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e2a\u0e25\u0e31\u0e01\u0e08\u0e34\u0e15 (feat. Da Endorphine)",
         "url": "https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e22\u0e31\u0e07\u0e44\u0e07 (Fade)",
         "url": "https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e27\u0e32\u0e14\u0e44\u0e27\u0e49 (recall)",
         "url": "https://open.spotify.com/album/4abO31N2HMvzWtFgVhvs7Y"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3FUAv32u0F64kcaaLRimPr"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "Cigarette Candy & Vanilla Sky",
         "url": "https://open.spotify.com/album/0WgyERgiBxZTMyzpZbv0Mu"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/60ZuPJ8kseTn6isqhyxpCi"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
         "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
@@ -277,23 +277,7 @@
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 222727,
-      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "BLOOM",
         "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
@@ -313,7 +297,23 @@
       "url": "https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
+      },
+      "artists": [
+        {
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB"
@@ -329,39 +329,7 @@
       "url": "https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "Q.E.D",
-        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        }
-      ],
-      "duration_ms": 240008,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
-      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
-        "url": "https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA"
-      },
-      "artists": [
-        {
-          "name": "JOEY PHUWASIT",
-          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
-        }
-      ],
-      "duration_ms": 288923,
-      "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
-      "url": "https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e17\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a",
         "url": "https://open.spotify.com/album/5JQ7Bn6uJX2Ed94W8gvvJK"
@@ -381,7 +349,39 @@
       "url": "https://open.spotify.com/track/70DE8f3cq3auql4JMrF0Qg"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/2uNIKROQ7h7ZxBgO8PtGXA"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "duration_ms": 288923,
+      "name": "\u0e19\u0e30\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/4iA3PrcsOt6bmoXTaDXhf3"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "Q.E.D",
+        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
+      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "good boy",
         "url": "https://open.spotify.com/album/50oaCQAz9HH45u4SPUWcmx"
@@ -397,23 +397,7 @@
       "url": "https://open.spotify.com/track/3hVbL6BkM5rbRzozafghgh"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
-        "url": "https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH"
-      },
-      "artists": [
-        {
-          "name": "Billkin",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
-      "url": "https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
@@ -433,7 +417,7 @@
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "NewJeans 1st EP 'New Jeans'",
         "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
@@ -449,23 +433,23 @@
       "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
+        "url": "https://open.spotify.com/album/2iHkmf0YTr5VtbEI8R23UH"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Billkin",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 208500,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e04\u0e1a\u0e01\u0e31\u0e19\u0e40\u0e16\u0e2d\u0e30 (Please Please)",
+      "url": "https://open.spotify.com/track/1MEYfWVtU338815OD0ixDp"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e19\u0e31\u0e01\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/6TEWpUfEA5MsTJK2xhyqFn"
@@ -481,23 +465,7 @@
       "url": "https://open.spotify.com/track/3cZP6wSDNl9i2PgrXo4Zk5"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
-        "url": "https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q"
-      },
-      "artists": [
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
-        }
-      ],
-      "duration_ms": 253820,
-      "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
-      "url": "https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
         "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
@@ -513,10 +481,10 @@
       "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B"
+        "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
+        "url": "https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q"
       },
       "artists": [
         {
@@ -524,52 +492,32 @@
           "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
         }
       ],
-      "duration_ms": 270750,
-      "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
+      "duration_ms": 253820,
+      "name": "\u0e25\u0e32 \u0e25\u0e32 \u0e25\u0e32",
+      "url": "https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "CHARLIE",
-        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+        "name": "Unholy (feat. Kim Petras)",
+        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 154486,
-      "name": "Left and Right (Feat. Jung Kook of BTS)",
-      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "MAS[S]TERPIECE",
         "url": "https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2"
@@ -593,23 +541,39 @@
       "url": "https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+        "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/0tLEOYTiDJYMLam1orBK0B"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
         }
       ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+      "duration_ms": 270750,
+      "name": "\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e1a\u0e2d\u0e01\u0e25\u0e32\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/2EPMa8Jm1h5XRH4jwf8yK9"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "Only Monday",
         "url": "https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu"
@@ -625,91 +589,23 @@
       "url": "https://open.spotify.com/track/3ewJNxY8tVHvX94CAUtg89"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
-        "url": "https://open.spotify.com/album/5Q1v7Iw9ObFmdPQJ7eroRi"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
       "artists": [
         {
-          "name": "Alyn Wee",
-          "url": "https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 238116,
-      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
-      "url": "https://open.spotify.com/track/1LDG6oNPVWerLLWp2ia78I"
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "Unholy (feat. Kim Petras)",
-        "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "Unholy (feat. Kim Petras)",
-      "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "Birthday - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "It's Gonna Be OK",
-        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
-      },
-      "artists": [
-        {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
-        }
-      ],
-      "duration_ms": 288250,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01 (Until Then)",
-      "url": "https://open.spotify.com/track/3crZQarcOagdupRZNzRGWe"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
-      "album": {
-        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
-        "url": "https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
-      "url": "https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8"
-    },
-    {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e17\u0e23\u0e32\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19 (attention please)",
         "url": "https://open.spotify.com/album/7r8dBkF7ABMLXIFQEuVbk2"
@@ -725,59 +621,79 @@
       "url": "https://open.spotify.com/track/7MxhdBolnOFvWu4WMURsX5"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "Easy On My Eyes",
-        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
+        "name": "It's Gonna Be OK",
+        "url": "https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+      "duration_ms": 288250,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e40\u0e08\u0e2d\u0e01\u0e31\u0e19\u0e2d\u0e35\u0e01 (Until Then)",
+      "url": "https://open.spotify.com/track/3crZQarcOagdupRZNzRGWe"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+        "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Three Man Down",
+          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e43\u0e2b\u0e49\u0e40\u0e27\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "CHARLIE",
+        "url": "https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 256124,
-      "name": "Snow On The Beach (feat. Lana Del Rey)",
-      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+      "duration_ms": 154486,
+      "name": "Left and Right (Feat. Jung Kook of BTS)",
+      "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
+        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
+        "url": "https://open.spotify.com/album/5Q1v7Iw9ObFmdPQJ7eroRi"
       },
       "artists": [
         {
-          "name": "Ink Waruntorn",
-          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
+          "name": "Alyn Wee",
+          "url": "https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH"
         }
       ],
-      "duration_ms": 246434,
-      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
-      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
+      "duration_ms": 238116,
+      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e08\u0e49\u0e32\u0e40\u0e2d\u0e22\u200b (Not Again)",
+      "url": "https://open.spotify.com/track/1LDG6oNPVWerLLWp2ia78I"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "SuperCarCare",
         "url": "https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7"
@@ -797,7 +713,23 @@
       "url": "https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "Easy On My Eyes",
+        "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 (Hermionong)",
         "url": "https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj"
@@ -813,23 +745,39 @@
       "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
-        "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01 \u0e15\u0e31\u0e27\u0e23\u0e2d (Can't Have It All)",
-        "url": "https://open.spotify.com/album/3EiC1jM8fMEbEayQrlb0Og"
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+        "url": "https://open.spotify.com/album/2fuw0L6d7EGwyEQQfB0WkU"
       },
       "artists": [
         {
-          "name": "Tilly Birds",
-          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+          "name": "Ink Waruntorn",
+          "url": "https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF"
         }
       ],
-      "duration_ms": 220000,
-      "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01 \u0e15\u0e31\u0e27\u0e23\u0e2d (Can't Have It All)",
-      "url": "https://open.spotify.com/track/0rVOPDyrWtAH6Bmxu3FSJh"
+      "duration_ms": 246434,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e23\u0e31\u0e01\u0e43\u0e04\u0e23\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 OST.\u0e1a\u0e38\u0e1e\u0e40\u0e1e\u0e2a\u0e31\u0e19\u0e19\u0e34\u0e27\u0e32\u0e2a 2",
+      "url": "https://open.spotify.com/track/6GDIW3Le2tM0hMWD3pvefH"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "Birthday - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
@@ -845,7 +793,7 @@
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
     },
     {
-      "added_at": "2022-10-29 12:00:50",
+      "added_at": "2022-10-30 11:20:53",
       "album": {
         "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
         "url": "https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO"
@@ -859,6 +807,58 @@
       "duration_ms": 212571,
       "name": "\u0e04\u0e19\u0e44\u0e01\u0e25",
       "url": "https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01 \u0e15\u0e31\u0e27\u0e23\u0e2d (Can't Have It All)",
+        "url": "https://open.spotify.com/album/3EiC1jM8fMEbEayQrlb0Og"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u0e15\u0e31\u0e27\u0e40\u0e25\u0e37\u0e2d\u0e01 \u0e15\u0e31\u0e27\u0e23\u0e2d (Can't Have It All)",
+      "url": "https://open.spotify.com/track/0rVOPDyrWtAH6Bmxu3FSJh"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 256124,
+      "name": "Snow On The Beach (feat. Lana Del Rey)",
+      "url": "https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h"
+    },
+    {
+      "added_at": "2022-10-30 11:20:53",
+      "album": {
+        "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/3UccLHjXRBzaPUdVuQkCw8"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "\u0e15\u0e48\u0e2d\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e17\u0e38\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/315ar0QJiyciYkdVJUGA3w"
     }
   ],
   "unique_name": "Top 50 - Thailand",

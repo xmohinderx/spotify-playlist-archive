@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 
 > Editor's picks:  The best R&B songs of 2021\.  Cover: Silk Sonic
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,541 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,561 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 23 | [LET'S GET MARRIED](https://open.spotify.com/track/0XkQ23l4GT8sFHgeNRGAO4) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/2Uyia7M6Hv8XmhMSEbpfgm) | 3:44 |
 | 24 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 25 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 |
-| 26 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
+| 26 | [WFM](https://open.spotify.com/track/6z6OFc8qYsqUBSOWta3nLV) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dreams 2 Reality](https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd) | 2:16 |
 | 27 | [altar](https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 4:04 |
 | 28 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 |
 | 29 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 49 | [Guilty](https://open.spotify.com/track/3T9VLKYbT0pGWPqhy415G0) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Guilty](https://open.spotify.com/album/7MHe3J3F71yESwmAGXvVvM) | 3:41 |
 | 50 | [Can't Let It Show](https://open.spotify.com/track/2kMarngrIWYgmAdVjruuuW) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Can't Let It Show](https://open.spotify.com/album/4HhADiM8pxlbilsOpxA6iO) | 3:37 |
 
-Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMDE1NzgzOTA0MDVkOGFiYjZjOTQ1NTJkZWUzMDcyNzEx`
+Snapshot ID: `MTYzODM2NjQyMCwwMDAwMDAwMDcyOTJjZWEyZjFhZjc2NjVlYzkzY2QwMTk4NWZmMzAz`

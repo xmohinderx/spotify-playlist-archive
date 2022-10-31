@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 164130,
+  "num_followers": 164181,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDFhZTI4YzE1NGFhNmFlODgxNjhjNzI1MWNjZDYxMzU5",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDEzZTNlYzhmM2Q3Y2YwMjFiNjJlNmQwYWEzNzE5YmVh",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Save Us",
-        "url": "https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 141608,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Our House (The Mess We Made)",
         "url": "https://open.spotify.com/album/5bAxHo5hTWfRyOWMz0MKxM"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 220528,
       "name": "Our House (The Mess We Made)",
       "url": "https://open.spotify.com/track/5kqRMynqZR8JbJH4JodkFs"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "Save Us",
+        "url": "https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 141608,
+      "name": "Save Us",
+      "url": "https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh"
     },
     {
       "added_at": "2022-07-01 04:01:00",

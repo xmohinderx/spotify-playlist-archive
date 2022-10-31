@@ -1,12 +1,12 @@
 {
   "description": "Celebrating the 25th anniversary of Deftones' Around the Fur which was released on October 28th 1997. Cover: Chino Moreno",
-  "num_followers": 1470036,
+  "num_followers": 1470467,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE5NzMwOSwwMDAwMDAwMDUzMWE4NDRjNjcyODZjMWFhZTg0ZDRkODYxNTViMDU2",
+  "snapshot_id": "MTY2NDE5NzMwOSwwMDAwMDAwMGQwMThjNzg2M2EwYmRiOGIwOTFjNDJmMDNhYmVlYjQ3",
   "tracks": [
     {
       "added_at": "2022-09-26 13:01:49",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-09-26 13:01:49",
       "album": {
-        "name": "Flyleaf",
-        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
-      },
-      "artists": [
-        {
-          "name": "Flyleaf",
-          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "I'm So Sick",
-      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
-    },
-    {
-      "added_at": "2022-09-26 13:01:49",
-      "album": {
         "name": "Issues",
         "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 270920,
       "name": "Falling Away from Me",
       "url": "https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5"
+    },
+    {
+      "added_at": "2022-09-26 13:01:49",
+      "album": {
+        "name": "Flyleaf",
+        "url": "https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt"
+      },
+      "artists": [
+        {
+          "name": "Flyleaf",
+          "url": "https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "I'm So Sick",
+      "url": "https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG"
     },
     {
       "added_at": "2022-09-26 13:01:49",

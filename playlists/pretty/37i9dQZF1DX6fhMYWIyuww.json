@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 91646,
+  "num_followers": 91743,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGZlMTZlZWQyMWRmYmEwYTU3MDM1OGU3NWVhODRhNGYy",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDZmNDhlMWQyNjcwYzdjOWQyYTY2NWM5NTk1ZTc3NTMw",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-04-22 18:12:12",
       "album": {
-        "name": "Another Page",
-        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
         "name": "Five-A-Side",
         "url": "https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 204226,
       "name": "How Long",
       "url": "https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Another Page",
+        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
     },
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1"
     },
     {
-      "added_at": "2022-03-31 19:29:02",
-      "album": {
-        "name": "Takin' It Easy",
-        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "You're the Love",
-      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
-    },
-    {
       "added_at": "2021-04-22 18:12:12",
       "album": {
         "name": "A-1-A",
@@ -1229,20 +1213,20 @@
       "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
     },
     {
-      "added_at": "2021-04-22 18:12:12",
+      "added_at": "2022-03-31 19:29:02",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK"
+        "name": "Takin' It Easy",
+        "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
       },
       "artists": [
         {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Better Love Next Time",
-      "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
+      "duration_ms": 200026,
+      "name": "You're the Love",
+      "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
     },
     {
       "added_at": "2022-03-31 19:29:02",
@@ -1259,6 +1243,22 @@
       "duration_ms": 259040,
       "name": "Who's Right, Who's Wrong",
       "url": "https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l"
+    },
+    {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Better Love Next Time",
+      "url": "https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S"
     },
     {
       "added_at": "2021-04-22 18:12:12",

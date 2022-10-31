@@ -4,7 +4,7 @@
 
 > ¡Música urbana representando a Cuba! Cover: Gente de Zona
 
-100 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
+101 songs - 6 hr 5 min - [published](https://open.spotify.com/playlist/10FYMQLgw0cDsX64VDlIyb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Tu Carita \- DJ Unic Remix](https://open.spotify.com/track/6CVeR1pWdcCi1Bc0kz6nqV) | [EL ENVIADO](https://open.spotify.com/artist/2vSJeNz3wFRJ5i5rh1Z8Nt), [DJ Unic](https://open.spotify.com/artist/1ADFyan08VIwFUGwGXDxNe) | [Tu Carita \(DJ Unic Remix\)](https://open.spotify.com/album/1J1WXvowRRSrkGeHcHVcHF) | 4:23 | 2022-02-25 |  |
 | [Tu de Que Vas](https://open.spotify.com/track/5pRnPE7WsFJExVgZs5yx4o) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 4:19 | 2022-04-08 | 2022-10-23 |
 | [Tu De Que Vas](https://open.spotify.com/track/0erGyP3ccj9BUn64fLuSP4) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/5HMC4KoEXF8YQ5M59c8X5m) | 4:22 | 2022-04-08 | 2022-10-16 |
-| [Tu de Que Vas](https://open.spotify.com/track/5e2uf58IYZUxCZSeAIOK4p) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Latin Hits 2016](https://open.spotify.com/album/7kVCS59JxiYu4IHZcRg9ms) | 4:22 | 2022-04-08 |  |
+| [Tu de Que Vas](https://open.spotify.com/track/351vA1OGLf2e3ne2T75lFH) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Simplemente Lo Mejor](https://open.spotify.com/album/3RU3VqVst27dAwrfYLbEQo) | 4:22 | 2022-04-08 |  |
+| [Tu de Que Vas](https://open.spotify.com/track/5e2uf58IYZUxCZSeAIOK4p) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Latin Hits 2016](https://open.spotify.com/album/7kVCS59JxiYu4IHZcRg9ms) | 4:22 | 2022-04-08 | 2022-10-31 |
 | [Tu de Que Vas](https://open.spotify.com/track/6vElrorgVSjGQIdXgGwIbO) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Los Exitos](https://open.spotify.com/album/6SVZmGEBS8LfEzMFEuF8Gm) | 4:22 | 2022-02-25 | 2022-07-29 |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-02-25 |  |
 | [Volvere Junto a Ti](https://open.spotify.com/track/2OWKqDlP17Go78ykRGlvJd) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [X+ \(Deluxe Edition\)](https://open.spotify.com/album/3M4Ispes5sMhiOTO1X5Tef) | 3:48 | 2022-04-08 | 2022-10-23 |

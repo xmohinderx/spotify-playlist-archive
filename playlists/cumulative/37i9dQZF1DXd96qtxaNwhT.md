@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-466 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
+467 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/2JotmOf77AlDkIMaQkg9OK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-07-08 |  |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2020-10-09 | 2021-06-22 |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2019-08-02 | 2019-12-09 |
-| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-08 |  |
+| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-08 | 2022-10-31 |
+| [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-09-28 |  |
 | [i don't want to watch the world end with someone else](https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [i don't want to watch the world end with someone else](https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP) | 3:04 | 2020-05-15 | 2021-03-06 |
 | [I Feel A Darkness](https://open.spotify.com/track/5vUCL54PaKIOtf2EBWhYI3) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Feel A Darkness](https://open.spotify.com/album/1e1ciC1PrqfyHHOl0LyZi3) | 3:41 | 2020-02-28 | 2020-04-24 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2020-03-20 | 2020-04-12 |

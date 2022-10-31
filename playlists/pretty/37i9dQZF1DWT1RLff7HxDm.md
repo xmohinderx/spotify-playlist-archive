@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,445 likes - 60 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,495 likes - 60 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 20 | [Rattlesnake Shake \(with Steven Tyler & Billy Gibbons\) \- Live from The London Palladium](https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk), [Billy Gibbons](https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD), [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac \(Live from The London Palladium\)](https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA) | 4:49 |
 | 21 | [Things Are Changin' \- Live](https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 6:09 |
 | 22 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 |
-| 23 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
+| 23 | [River of Tears \- Live at Staples Center, Los Angeles, CA, 8/18 \- 19/2001](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
 | 24 | [Alabama \- Live](https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Alabama \(Live\)](https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM) | 3:26 |
-| 25 | [River of Tears \- Live at Staples Center, Los Angeles, CA, 8/18 \- 19/2001](https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [One More Car, One More Rider \(Live\)](https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6) | 8:59 |
+| 25 | [Wait on Time \- Live](https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk) | [King King](https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT) | [Live](https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B) | 6:26 |
 | 26 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 |
 | 27 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 |
 | 28 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 35 | [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 |
 | 36 | [Weatherman](https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY) | [Tasha Taylor](https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq) | [Ina Forsman, Layla Zoe, Tasha Taylor](https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3) | 3:38 |
 | 37 | [Woman Like You \- Live](https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:20 |
-| 38 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
-| 39 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
+| 38 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
+| 39 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 40 | [Broke Down On The Brazos \- Live](https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Bring On The Music: Live at The Capitol Theatre, Pt\. 2](https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu) | 8:48 |
 | 41 | [Little Wing \- Live at LOCKN' / 2019](https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 6:53 |
 | 42 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 60 | [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDQ5N2VjMjc0M2UwZGM3NmRiMzJjZjZhMTkwMzBhZmEw`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMGFjMDRmMWVmMjQzZTNmYzY4Njg1NTE0YTRkODMyYjAw`

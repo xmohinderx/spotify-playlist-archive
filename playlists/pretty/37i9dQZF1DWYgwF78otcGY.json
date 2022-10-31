@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24039,
+  "num_followers": 24043,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDg2MDU2NmFjNzhhNjc0MGU1NDNmZmEyMjQ3MDllZjY2",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDdkYTI4ODc1OGFhY2YwMTU5YTNhZGM2YjJjYmI0Y2Nl",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -235,22 +235,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Blue Virgin Isles",
-        "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
-      },
-      "artists": [
-        {
-          "name": "Ted G\u00e4rdestad",
-          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Satellit",
-      "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 184733,
       "name": "Cara mia",
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Blue Virgin Isles",
+        "url": "https://open.spotify.com/album/5xHCzowaod3845uvIfXAkg"
+      },
+      "artists": [
+        {
+          "name": "Ted G\u00e4rdestad",
+          "url": "https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Satellit",
+      "url": "https://open.spotify.com/track/10AwlsmVEASSiWORkKcgRo"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -319,18 +319,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
       "artists": [
         {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
         }
       ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -351,18 +351,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
       "artists": [
         {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
         }
       ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -383,22 +383,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bra vibrationer",
-        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
-      },
-      "artists": [
-        {
-          "name": "Kikki Danielsson",
-          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Bra vibrationer",
-      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "En helt vanlig Svensson",
         "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Bra vibrationer",
+        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
+      },
+      "artists": [
+        {
+          "name": "Kikki Danielsson",
+          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Bra vibrationer",
+      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "Greatest of the Best",
         "url": "https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 175453,
       "name": "Hon Kommer Med Solsken",
       "url": "https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -463,18 +479,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "En Samling 1981 - 2001",
+        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Tommy Nilsson",
+          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 198706,
+      "name": "En dag",
+      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -491,22 +507,6 @@
       "duration_ms": 181493,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "En Samling 1981 - 2001",
-        "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
-      },
-      "artists": [
-        {
-          "name": "Tommy Nilsson",
-          "url": "https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "En dag",
-      "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
         "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 183746,
       "name": "Det g\u00f6r ont",
       "url": "https://open.spotify.com/track/51md9KzX92LQh84mUsaPPD"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
-      },
-      "artists": [
-        {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 182106,
       "name": "Begging",
       "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+      },
+      "artists": [
+        {
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -799,18 +799,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Hold On (D&B Version)",
-        "url": "https://open.spotify.com/album/2qQfXNZu1v5I4fjCbX6UVq"
+        "name": "In My Cabana",
+        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
       },
       "artists": [
         {
-          "name": "Nano",
-          "url": "https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe"
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
         }
       ],
-      "duration_ms": 198434,
-      "name": "Hold On - D&B Version",
-      "url": "https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth"
+      "duration_ms": 172000,
+      "name": "In My Cabana",
+      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -831,18 +831,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "In My Cabana",
-        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
+        "name": "Hold On (D&B Version)",
+        "url": "https://open.spotify.com/album/2qQfXNZu1v5I4fjCbX6UVq"
       },
       "artists": [
         {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+          "name": "Nano",
+          "url": "https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe"
         }
       ],
-      "duration_ms": 172000,
-      "name": "In My Cabana",
-      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
+      "duration_ms": 198434,
+      "name": "Hold On - D&B Version",
+      "url": "https://open.spotify.com/track/3mXXkDfLaCN5IaZpHVJPth"
     }
   ],
   "unique_name": "Schlagerfest",

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Rachel Chinouriri",
-  "num_followers": 1694269,
+  "num_followers": 1694302,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3OTgwOCwwMDAwMDAwMDA2NzFlOTA4OTIzYWRkMThmMzRiNjJjYWE4ZTJlYmQ3",
+  "snapshot_id": "MTY2Njk3OTgwOCwwMDAwMDAwMDkzN2VkOWY5OWExN2M3YjhlN2U3YmZmMzgzMmI4Y2Uw",
   "tracks": [
     {
       "added_at": "2022-10-28 17:56:48",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 176946,
-      "name": "Friend",
-      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
         "name": "if i could make it go quiet",
         "url": "https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 201945,
       "name": "I'll Call You Mine",
       "url": "https://open.spotify.com/track/6rYgEHuyhO064Lgj48qlIe"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 176946,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -787,38 +803,6 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Pancakes for Dinner",
-      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "Anything But Me",
-      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
         "name": "Loved By U",
         "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
+        "name": "Cognitive Dissonance",
+        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
+      },
+      "artists": [
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Cognitive Dissonance",
+      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
         "name": "The Problem Song",
         "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
       },
@@ -883,6 +899,22 @@
       "duration_ms": 157570,
       "name": "The Problem Song",
       "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -907,54 +939,6 @@
       "duration_ms": 158240,
       "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 187850,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
-        "name": "Cognitive Dissonance",
-        "url": "https://open.spotify.com/album/6Q4UsB2HFwzLLwjP5jYYOb"
-      },
-      "artists": [
-        {
-          "name": "Sophie Holohan",
-          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Cognitive Dissonance",
-      "url": "https://open.spotify.com/track/2A6wArvnvzSSSrAtTgQL4x"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/6r3o0wlGhFaM4bT92PFaFB"
       },
@@ -1039,26 +1039,6 @@
       "duration_ms": 181466,
       "name": "Drown",
       "url": "https://open.spotify.com/track/0vpy9NZpTbjCH0HNnAhCTt"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
-        "name": "stuck on us",
-        "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        },
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 175311,
-      "name": "stuck on us",
-      "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -1079,6 +1059,26 @@
       "duration_ms": 213906,
       "name": "Everything Matters",
       "url": "https://open.spotify.com/track/4X00YoOQUD49hwdXmWBXHM"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
+        "name": "stuck on us",
+        "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        },
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "stuck on us",
+      "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
-        "name": "Grocery Store",
-        "url": "https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 134956,
-      "name": "Grocery Store",
-      "url": "https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB"
-    },
-    {
-      "added_at": "2022-10-28 17:56:48",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 347146,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/0fiViisu7WflcoY6YedSnq"
+    },
+    {
+      "added_at": "2022-10-28 17:56:48",
+      "album": {
+        "name": "Grocery Store",
+        "url": "https://open.spotify.com/album/1eCqGxTppTVL3jtVMzD2Wd"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 134956,
+      "name": "Grocery Store",
+      "url": "https://open.spotify.com/track/5eGIOMy0V0r7neaaPve2kB"
     },
     {
       "added_at": "2022-10-28 17:56:48",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2022-10-28 17:56:48",
       "album": {
-        "name": "all the things that could go wrong",
-        "url": "https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H"
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 171706,
-      "name": "fun out of it",
-      "url": "https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK"
+      "duration_ms": 190320,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br"
     }
   ],
   "unique_name": "Indie Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,791 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,826 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 9 | [Para Siempre](https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:51 |
 | 10 | [Los Ricos También Lloran](https://open.spotify.com/track/4ah8X7TcY3T5wy9ovVJGpq) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Los Ricos También Lloran](https://open.spotify.com/album/42ITN8GeRpWertgabpDGia) | 3:34 |
 | 11 | [El Perdedor](https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [SEX AND LOVE \(Deluxe\)](https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD) | 3:11 |
-| 12 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:05 |
-| 13 | [Vivo per lei](https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Bocelli \(Remastered\)](https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3) | 4:25 |
+| 12 | [Vivo per lei](https://open.spotify.com/track/6cPLCU7hKjgjvLWzCevl7R) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Bocelli \(Remastered\)](https://open.spotify.com/album/3uARqNN4bYqts3Ltg5Jku3) | 4:25 |
+| 13 | [Qué Voy a Hacer Con Mi Amor](https://open.spotify.com/track/5JpOkusDXbxrcPj1Kd0O2Q) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:05 |
 | 14 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 |
 | 15 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
 | 16 | [Para Volver a Amar](https://open.spotify.com/track/7kfbejwVkpfeInZ8I6fN3V) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Boleto De Entrada Deluxe Edition](https://open.spotify.com/album/5sD64gIfF8K37lOUjuz1Vf) | 3:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [Un Alma en Pena](https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Mis Íntimas Razones](https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr) | 3:40 |
 | 70 | [Amantes Prohibidos](https://open.spotify.com/track/21WYyyjovbDtf8Sa2DSdfZ) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Amantes Prohibidos](https://open.spotify.com/album/7KGRiWQIcO3aUqY5NowYK6) | 3:27 |
 
-Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMDU4OGIwMmNjMjVhYjMwMjQ0ZGViZDE4NWQzZTc1M2Zi`
+Snapshot ID: `MTY1MTg2MTk0NiwwMDAwMDAwMGNiNjExNzFhYTg5Zjg1ZDVhZWQ1N2EwOTYzMmZiOTc4`

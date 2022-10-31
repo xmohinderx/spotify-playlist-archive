@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 
 > 150%
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,124 likes - 76 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,583 likes - 76 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mWZXNs0ArA.md) - [plain]
 | 47 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 |
 | 48 | [Collide \(Sped Up Remix\)](https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(Remix Pack\)](https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG) | 3:41 |
 | 49 | [SWAMP SKONSTER](https://open.spotify.com/track/4c9UuO6PYqP6wMboWvbL5Z) | [Skest](https://open.spotify.com/artist/4ZVIkfQsJU3i77UTRyNf8q) | [SWAMP SKONSTER](https://open.spotify.com/album/1bEHp487UaR4ou9UoH0CCU) | 1:14 |
-| 50 | [Taste \- Speed](https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste \(Speed\)](https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW) | 2:29 |
+| 50 | [Taste \(Speed\)](https://open.spotify.com/track/2O0v7fVGXrAsmx5NokutyI) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste \(Speed\)](https://open.spotify.com/album/4i73SJUP6mIDSLS8t8b0UW) | 2:29 |
 | 51 | [IN THE AIR \(SPED UP\)](https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [IN THE AIR/BILL$ \(SPED UP\)](https://open.spotify.com/album/7CBAUpy4gg6DkJsNAfBf58) | 1:42 |
 | 52 | [Over \- Sped Up](https://open.spotify.com/track/3JycZFWWQGXkTTJQ6CoNFy) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over \(Sped Up\)](https://open.spotify.com/album/5Y2tMLWU1OuAS7MYOKORJy) | 2:50 |
 | 53 | [SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx) | 1:20 |

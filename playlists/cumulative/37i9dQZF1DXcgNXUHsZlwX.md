@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. Photo: Hanorah
 
-378 songs - 22 hr 19 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
+379 songs - 22 hr 24 min - [published](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 |  |
-| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 |  |
+| [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2022-10-31 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 |  |
 | [Birds](https://open.spotify.com/track/08TmRNaaezzsowLSXk9zYO) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Nameless](https://open.spotify.com/album/1jKa3DaEBF3uBSJQ911noU) | 3:41 | 2021-10-09 |  |
 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 | 2021-01-17 | 2022-07-23 |
@@ -300,6 +300,7 @@
 | [Printemps](https://open.spotify.com/track/1P7CUAOfULTTFJopwOBSDc) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Printemps](https://open.spotify.com/album/0L9wXFLVdGFH2ynCvuPUE9) | 3:11 | 2021-02-15 | 2022-07-28 |
 | [Provincetown](https://open.spotify.com/track/73c2Iy7Nw9Xho5HUifdWbW) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [Provincetown](https://open.spotify.com/album/0cRpTtG3Ev6Y4cZeOMJUj5) | 4:10 | 2022-02-28 | 2022-03-05 |
 | [Q.D.D\. Unplugged](https://open.spotify.com/track/0vqrPAcQlHWXfWeMDCZihP) | [Baggies](https://open.spotify.com/artist/3MaLB9t8oVeKHmnmYi0VJS), [Brand](https://open.spotify.com/artist/1eHjjxdit07BBOEjstihYO) | [Q.D.D\. Unplugged](https://open.spotify.com/album/7ArvOeyMUVsfrunzbIavlR) | 2:02 | 2021-01-15 | 2021-09-22 |
+| [Qtv](https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP) | 4:59 | 2022-10-14 |  |
 | [Qtv](https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Interlude](https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk) | 4:59 | 2021-07-31 | 2022-10-13 |
 | [Quand j'te vois](https://open.spotify.com/track/0eaLnITFfQL5Qn0MvjWDGl) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Des milliers de plumes](https://open.spotify.com/album/7CUWKrepTHMWp3YmfgF20h) | 3:39 | 2021-01-03\* | 2021-01-30 |
 | [Quand je vivrai](https://open.spotify.com/track/0FrojbNAzWO7OAVPCpnh1V) | [Edgar Bori](https://open.spotify.com/artist/0CK3dcbuqup5VhYfsp2WOA) | [Quand je vivrai](https://open.spotify.com/album/4ed6WpS99PHH6ZLIaH9NyH) | 4:12 | 2021-03-08 | 2021-10-16 |

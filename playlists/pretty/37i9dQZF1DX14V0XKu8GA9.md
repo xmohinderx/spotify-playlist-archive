@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,329 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,358 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 77 | [Barbacoa](https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [Barbacoa](https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS) | 1:54 |
 | 78 | [My Type](https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:16 |
 | 79 | [Street Lights](https://open.spotify.com/track/5LS8Lax9czRiYWbkiygVJL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Street Lights](https://open.spotify.com/album/7hPnEAEort4kGDrajIjQvl) | 2:33 |
-| 80 | [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 |
+| 80 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
 
-Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMGQzOTEzNGY0YzYxNTlkZmNmMGU2ZWMzNGVkOGE3NjNh`
+Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMDQyMDM2YzAwNDU2MjA4YTgyNmI3MTI5MmIxNGZkYzY5`

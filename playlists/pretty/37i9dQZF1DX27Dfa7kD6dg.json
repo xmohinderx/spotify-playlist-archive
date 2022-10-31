@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 11157,
+  "num_followers": 11203,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGExZDhlOTFmM2VhZWY0NTkxM2E2OWFlMGUzOTIzOGMx",
+  "snapshot_id": "MTY2MDc2MTAyOSwwMDAwMDAwMGVmN2NmMTA4NTQxMWI1ODA2M2MxNWNkYzIxYjAxNmEx",
   "tracks": [
     {
       "added_at": "2022-08-17 18:30:29",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Dos Imagenes",
-        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
-      },
-      "artists": [
-        {
-          "name": "Ismael Quintana",
-          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Vacil\u00f3 Con Tumbao",
-      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "El Pap\u00e1 De La Salsa",
         "url": "https://open.spotify.com/album/7qVMjFoNbVzaUwU2vapE9h"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 274586,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Dos Imagenes",
+        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
+      },
+      "artists": [
+        {
+          "name": "Ismael Quintana",
+          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Vacil\u00f3 Con Tumbao",
+      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
+        "name": "El Salsero De Ahora",
+        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Matos",
+          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Amor Perfecto",
+      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
         "name": "Con Permiso de Mis Mayores",
         "url": "https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 245413,
       "name": "Ran Kan Kan",
       "url": "https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
-        "name": "El Salsero De Ahora",
-        "url": "https://open.spotify.com/album/3assxvTXExDZ6uxjvxojvQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Matos",
-          "url": "https://open.spotify.com/artist/4nwpr7Msz5dvHftcPNkDRC"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Amor Perfecto",
-      "url": "https://open.spotify.com/track/6aceQoxzSrHTvrmcAEOXaY"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Steppin' Out",
-        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
+        "name": "La Industria Salsera",
+        "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
         }
       ],
-      "duration_ms": 163386,
-      "name": "A Las Seis",
-      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
+      "duration_ms": 228500,
+      "name": "Lupita",
+      "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "La Industria Salsera",
-        "url": "https://open.spotify.com/album/7yR0GaIJhP25tHzD0lQVzq"
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/3Mp9G6tYLsGvft2FUw8FEI"
       },
       "artists": [
         {
-          "name": "Chiquito Team Band",
-          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Lupita",
-      "url": "https://open.spotify.com/track/65ozlDhNyDL0JsZvPCwMjP"
+      "duration_ms": 163386,
+      "name": "A Las Seis",
+      "url": "https://open.spotify.com/track/1Nh64nfJthF7mqw5SXABex"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
-      },
-      "artists": [
-        {
-          "name": "Alegre All Stars",
-          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
-        }
-      ],
-      "duration_ms": 489000,
-      "name": "Y Yo Ganga",
-      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "Unchained Force",
         "url": "https://open.spotify.com/album/0iHz81rYUaq4KFb8MvSsOH"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 350000,
       "name": "Mi Lindo Yamb\u00fa",
       "url": "https://open.spotify.com/track/17NHdvCj6LhQW2EfRwcmc7"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
+      },
+      "artists": [
+        {
+          "name": "Alegre All Stars",
+          "url": "https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc"
+        }
+      ],
+      "duration_ms": 489000,
+      "name": "Y Yo Ganga",
+      "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Cuando Parar\u00e1 La Lluvia",
-        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "Por Eso Est\u00e1 Conmigo",
-      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "La Epoca de Oro, Vol. 1",
         "url": "https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 158400,
       "name": "Tutuneco",
       "url": "https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Cuando Parar\u00e1 La Lluvia",
+        "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Por Eso Est\u00e1 Conmigo",
+      "url": "https://open.spotify.com/track/6b0OsYDnKJNO7vM8YArVwz"
     },
     {
       "added_at": "2022-08-17 18:30:29",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-08-17 18:30:29",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2022-08-17 18:30:29",
-      "album": {
         "name": "A Dos Tiempos de un Tiempo",
         "url": "https://open.spotify.com/album/0d8wAwygZBtYPE8R21JSy9"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 292000,
       "name": "El Que Se Fue - Tributo A Tito Rodriguez",
       "url": "https://open.spotify.com/track/4Fy9sNCxSGGc8jxU8eAp3O"
+    },
+    {
+      "added_at": "2022-08-17 18:30:29",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
     },
     {
       "added_at": "2022-08-17 18:30:29",

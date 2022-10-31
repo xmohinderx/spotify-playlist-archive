@@ -1840,6 +1840,32 @@
     },
     {
       "album": {
+        "name": "Knocking (Remix)",
+        "url": "https://open.spotify.com/album/7e1Vbnaoy1o4i5ebxqAfgt"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Richie Benson",
+          "url": "https://open.spotify.com/artist/6WgNboUpl48GJJuQxdUqrM"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194621,
+      "name": "Knocking (Remix)",
+      "url": "https://open.spotify.com/track/3AHwZ9xurmvzDOKw0Kjzrt"
+    },
+    {
+      "album": {
         "name": "kolomental",
         "url": "https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL"
       },
@@ -3085,7 +3111,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 148392,
       "name": "Shakira (feat. Prince Bright)",
       "url": "https://open.spotify.com/track/64i1xYb6aaVL3DQu3bmW8I"

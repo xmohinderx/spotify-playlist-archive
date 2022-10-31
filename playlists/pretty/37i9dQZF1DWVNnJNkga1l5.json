@@ -1,12 +1,12 @@
 {
   "description": "Temazos inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 102933,
+  "num_followers": 103007,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjgxMzA5MywwMDAwMDAwMDU2OGI4NWZmMDVmZjIyNDJiNGU4ODY0ZTgzYTlhNDRk",
+  "snapshot_id": "MTY1MjgxMzA5MywwMDAwMDAwMDAwZmUyZDI2OTZiMWY4NGJhMDQzMTI3YzE2ZjMyYTE0",
   "tracks": [
     {
       "added_at": "2022-05-17 18:44:52",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327240,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/7i38EXhbFJjF5tGvTsJMmx"
     },
     {
       "added_at": "2022-05-17 18:44:52",

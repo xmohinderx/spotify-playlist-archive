@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 178826,
       "name": "Do You Feel",
       "url": "https://open.spotify.com/track/6TlUuvCkyP41YxAqHilHLt"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 201626,
       "name": "Fantasy File",
       "url": "https://open.spotify.com/track/1tDM7TUApY5zJh5FBvxryc"
@@ -1575,6 +1575,24 @@
     {
       "album": {
         "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174480,
+      "name": "So Dumb",
+      "url": "https://open.spotify.com/track/0m5ISodD9A6WI7Wjtpf595"
+    },
+    {
+      "album": {
+        "name": "FM",
         "url": "https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d"
       },
       "artists": [
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 174480,
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/7az6ZEVsbsD9gwIo4VNLsI"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 189880,
       "name": "Someday",
       "url": "https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX"
@@ -1985,6 +2003,24 @@
       "duration_ms": 168186,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/5HQwQSkqOZOIyv1EyLRrgA"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "When She Smiles",
+      "url": "https://open.spotify.com/track/5FH7xahRUc3FmbEWkED0BR"
     },
     {
       "album": {

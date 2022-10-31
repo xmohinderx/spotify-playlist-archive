@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,298 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,361 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 28 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 |
 | 29 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
 | 30 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
-| 31 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
-| 32 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 |
+| 31 | [Apocalypse](https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP) | 1:01 |
+| 32 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |
 | 33 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
-| 34 | [Not Today Mate](https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ) | 3:37 |
-| 35 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
+| 34 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
+| 35 | [Not Today Mate](https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Not Today Mate](https://open.spotify.com/album/7K0pacPIm9EqjXkX5NUhMQ) | 3:37 |
 | 36 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 |
 | 37 | [Sweating](https://open.spotify.com/track/47aXdSXENr8dOecqWtOk0T) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Sweating](https://open.spotify.com/album/3ct1sH3rZPE4ZpgwsKj6tQ) | 3:24 |
 | 38 | [You Could Be](https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [You Could Be](https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI) | 3:38 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 53 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 |
 | 54 | [Cut Me](https://open.spotify.com/track/1A2BT8JYVRjsKdswwvWXG6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 4:10 |
 | 55 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 |
-| 56 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
-| 57 | [Debold](https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 2:43 |
+| 56 | [Debold](https://open.spotify.com/track/3pwR6SvdZq6GVpmSDz41QQ) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Only Diamonds Cut Diamonds](https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5) | 2:43 |
+| 57 | [Hot In Herre](https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot In Herre](https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW) | 3:05 |
 | 58 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 59 | [LoveConfusion](https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W) | [Karnaval Blues](https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3) | [LoveConfusion](https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP) | 4:18 |
 | 60 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 66 | [Without You](https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Without You](https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW) | 2:57 |
 | 67 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 | 68 | [We Are](https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps) | 4:15 |
-| 69 | [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 |
+| 69 | [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 |
 | 70 | [Raining Colours](https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Raining Colours](https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN) | 3:12 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDU0MDI5ZDYzNTJjYmQ5ZjE2MDVlNjNjMjMyM2VjZmNi`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDk1MDgzNGQ5MzZiYjc4MjY1ODA5MWYzYzY0OTMxMjI1`

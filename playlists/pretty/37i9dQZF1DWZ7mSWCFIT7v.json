@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 76609,
+  "num_followers": 76642,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDdhOTQ1YTkyMzZmNzkzMTc2MWE2OGM1MGM4OTgwYzEy",
+  "snapshot_id": "MTY2NDUwNjAwNiwwMDAwMDAwMDM3ZGUxMTlmODU2NWMyMGVhM2ZhMTY3NWZiODgzN2Vh",
   "tracks": [
     {
       "added_at": "2022-09-15 12:23:59",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/3I6IMWZJ9FkTcUCKBrzlkh"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
+    },
+    {
       "added_at": "2022-02-25 05:11:21",
       "album": {
         "name": "April Dub",
@@ -851,22 +867,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Insight",
         "url": "https://open.spotify.com/album/789BZ4kIIbYFMWQtngcpk5"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Weather the Storm",
-        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Weather the Storm",
-      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
       "added_at": "2022-03-29 02:05:38",
@@ -913,6 +897,38 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Weather the Storm",
+        "url": "https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Weather the Storm",
+      "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 210655,
+      "name": "Cup Noodle",
+      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
+    },
+    {
       "added_at": "2022-04-12 01:36:14",
       "album": {
         "name": "lavender's love",
@@ -927,6 +943,22 @@
       "duration_ms": 160000,
       "name": "lavender's love",
       "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Street Talk",
+        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
+      },
+      "artists": [
+        {
+          "name": "Holodec",
+          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
+        }
+      ],
+      "duration_ms": 229367,
+      "name": "Street Talk",
+      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -963,38 +995,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 210655,
-      "name": "Cup Noodle",
-      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Street Talk",
-        "url": "https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv"
-      },
-      "artists": [
-        {
-          "name": "Holodec",
-          "url": "https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3"
-        }
-      ],
-      "duration_ms": 229367,
-      "name": "Street Talk",
-      "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui"
       },
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
-      },
-      "artists": [
-        {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
-        }
-      ],
-      "duration_ms": 393717,
-      "name": "Promise You'll Haunt Me",
-      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Seelen",
         "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 275271,
       "name": "Seele III",
       "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
+      },
+      "artists": [
+        {
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
+        }
+      ],
+      "duration_ms": 393717,
+      "name": "Promise You'll Haunt Me",
+      "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
       "added_at": "2022-01-13 02:57:00",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Several Shades of the Same Color",
-        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
-      },
-      "artists": [
-        {
-          "name": "Patricia",
-          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
-        }
-      ],
-      "duration_ms": 303302,
-      "name": "Liminal States",
-      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
-    },
-    {
       "added_at": "2022-02-25 03:33:17",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -1103,6 +1087,22 @@
       "duration_ms": 346588,
       "name": "Exotic Contents",
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Several Shades of the Same Color",
+        "url": "https://open.spotify.com/album/3UKvKcratbHPHngyOxQ0ar"
+      },
+      "artists": [
+        {
+          "name": "Patricia",
+          "url": "https://open.spotify.com/artist/7Czyyo31ZyZL1VLtYaTkW0"
+        }
+      ],
+      "duration_ms": 303302,
+      "name": "Liminal States",
+      "url": "https://open.spotify.com/track/35PHqb3ib80HYuwcXGKtGr"
     },
     {
       "added_at": "2022-09-27 21:44:48",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
       "added_at": "2022-01-21 20:27:00",
       "album": {
         "name": "Some Way",
@@ -1155,6 +1139,22 @@
       "duration_ms": 217494,
       "name": "Some Way",
       "url": "https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2022-01-11 02:28:09",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/0HWNPGUqcv98QzbehmGDpv"
     },
     {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "that day, on the beach",
@@ -1235,6 +1219,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
+      "added_at": "2022-01-12 18:40:19",
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+      },
+      "artists": [
+        {
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
         "name": "FlimFlam",
         "url": "https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 191000,
       "name": "FlimFlam",
       "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
-      },
-      "artists": [
-        {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
     },
     {
-      "added_at": "2022-08-03 02:50:08",
-      "album": {
-        "name": "For You Only",
-        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
-      },
-      "artists": [
-        {
-          "name": "Isa Gordon",
-          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Second Love",
-      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
-    },
-    {
       "added_at": "2022-02-25 03:47:46",
       "album": {
         "name": "Plonk",
@@ -1479,6 +1463,22 @@
       "duration_ms": 382111,
       "name": "Plonk III",
       "url": "https://open.spotify.com/track/72CLlhWZryvQoDSgS5UsIj"
+    },
+    {
+      "added_at": "2022-08-03 02:50:08",
+      "album": {
+        "name": "For You Only",
+        "url": "https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr"
+      },
+      "artists": [
+        {
+          "name": "Isa Gordon",
+          "url": "https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Second Love",
+      "url": "https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1513,6 +1513,22 @@
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Glass Bird Movement",
+        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
+      },
+      "artists": [
+        {
+          "name": "Isan",
+          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+        }
+      ],
+      "duration_ms": 338734,
+      "name": "Every Since And Then",
+      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
       "added_at": "2022-03-11 06:16:07",
       "album": {
         "name": "The Vaulting Sky",
@@ -1531,18 +1547,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Glass Bird Movement",
-        "url": "https://open.spotify.com/album/2jTiDIgPrDgSmND8PcuKGm"
+        "name": "Translate",
+        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
       },
       "artists": [
         {
-          "name": "Isan",
-          "url": "https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC"
+          "name": "Luke Abbott",
+          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
         }
       ],
-      "duration_ms": 338734,
-      "name": "Every Since And Then",
-      "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+      "duration_ms": 108237,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1563,22 +1579,6 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Translate",
-        "url": "https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od"
-      },
-      "artists": [
-        {
-          "name": "Luke Abbott",
-          "url": "https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg"
-        }
-      ],
-      "duration_ms": 108237,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 356813,
-      "name": "F7",
-      "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
-    },
-    {
       "added_at": "2021-12-23 15:50:34",
       "album": {
         "name": "Plonk",
@@ -1659,6 +1643,22 @@
       "duration_ms": 564154,
       "name": "Plonk VI",
       "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 356813,
+      "name": "F7",
+      "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
     },
     {
       "added_at": "2022-04-29 18:23:46",

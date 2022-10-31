@@ -1,12 +1,12 @@
 {
   "description": "it's ok not to be ok :'( ",
-  "num_followers": 93068,
+  "num_followers": 93080,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDQ2M2ZhZjQ5YjM1Njk0M2MzMWY0Nzc1ZTU1MjIwZTc1",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMDc1ZDIzZGQ0MTFlZTAxNGRiOWVkYzc1MDI1MTk0MTg3",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "18",
+      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "18",
-      "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
     },
     {
       "added_at": "2022-10-27 22:01:00",

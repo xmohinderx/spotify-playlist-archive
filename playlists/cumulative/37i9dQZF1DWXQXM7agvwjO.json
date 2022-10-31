@@ -1642,6 +1642,28 @@
     },
     {
       "album": {
+        "name": "Cultivation",
+        "url": "https://open.spotify.com/album/6TLAPS18p4RNBH1HsIX7dn"
+      },
+      "artists": [
+        {
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+        },
+        {
+          "name": "Benjamin Varney",
+          "url": "https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Cultivation",
+      "url": "https://open.spotify.com/track/0xHiVZ6UcONGic2PgIeu55"
+    },
+    {
+      "album": {
         "name": "C\u00e1 \u0110u\u1ed1i",
         "url": "https://open.spotify.com/album/2bAlCgGwk13Mv164quGunk"
       },

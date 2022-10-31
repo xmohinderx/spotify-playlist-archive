@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,225 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,276 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 22 | [Entra a Mi Hogar](https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 3:19 |
 | 23 | [Chacarera Del Rancho](https://open.spotify.com/track/7FxhDl2TtdtWa7P490QGTS) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 2:41 |
 | 24 | [Zamba de Mi Esperanza \(feat\. Jorge Cafrune\)](https://open.spotify.com/track/5L0QkgiZv1k6KjIk4Aptms) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw), [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Todos Somos Chalchaleros](https://open.spotify.com/album/7LWRJuP4iXgbOH1Gt98GiO) | 3:54 |
-| 25 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
-| 26 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 |
+| 25 | [El Corralero](https://open.spotify.com/track/4aQnqYqxg3JlDz2CyS1aap) | [Hernan Figueroa Reyes](https://open.spotify.com/artist/4uIoOdivSAzUdJB8CTfP8S) | [Hernan Figueroa Reyes El Unico](https://open.spotify.com/album/1R1AaAeSP5aOfX6Sai5Lk7) | 2:48 |
+| 26 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
 | 27 | [El Olvidao](https://open.spotify.com/track/5nWttGi56oq0TQjSfW6vnV) | [Néstor Garnica](https://open.spotify.com/artist/5MJFjxBEw8HCzFvYhYMs5w) | [La Fiesta del Violinero](https://open.spotify.com/album/63O1KYHdzlbS66klVJbXiL) | 3:00 |
 | 28 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
 | 29 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 47 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
 | 48 | [Maricón](https://open.spotify.com/track/2Oai4riWXNOaLiqw8m5Dki) | [Aca Seca Trio](https://open.spotify.com/artist/6nvkqGQVDZLm0y1TxubrFA) | [Avenido](https://open.spotify.com/album/0IDRD7oisVkSyZKfpTA5wM) | 1:58 |
 | 49 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 |
-| 50 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
-| 51 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
+| 50 | [La Flor Azul](https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 2:42 |
+| 51 | [Ojos de Cielo](https://open.spotify.com/track/0s8cIfsyn5bE7Ri9Ml1LKH) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Todos Los Dias Un Poco...](https://open.spotify.com/album/1uZI429ycqNhTLqi6LgMrM) | 3:14 |
 | 52 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Te esperaré cantando](https://open.spotify.com/album/0H08ED5uLTJYGtlAUhPhnr) | 2:40 |
 | 53 | [Canción Para Una Mentira](https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Canción Para Una Mentira](https://open.spotify.com/album/5DS1KiJug4nVfpk4llnSeX) | 3:11 |
 | 54 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 69 | [El Escondido \- En Vivo](https://open.spotify.com/track/77uewrFQboHT7EkiXP8tTx) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [El Encuentro \(En Vivo\)](https://open.spotify.com/album/7hw95I4pQ3A32MkMqmFV7U) | 2:26 |
 | 70 | [Volveré a Salavina](https://open.spotify.com/track/6ARoKVfaWidfpGqau25soy) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Arde la Vida](https://open.spotify.com/album/1EMQS6RLfRhAd5I7AByWRb) | 2:27 |
 | 71 | [No Te Puedo Olvidar](https://open.spotify.com/track/79hua0r80o37LqICjNIY85) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Ando Cantándole al Viento y No Sólo por Cantar ...](https://open.spotify.com/album/2hayB5nl5ejc40RZQvzznm) | 3:02 |
-| 72 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
+| 72 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
 | 73 | [El Preso Nº 9](https://open.spotify.com/track/3GeFKVsojFAPxafcfnCsxX) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:44 |
 | 74 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
 | 75 | [Córdoba Sin Ti](https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Grandes Éxitos](https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS) | 3:47 |
 | 76 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
 | 77 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
 | 78 | [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 |
-| 79 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
+| 79 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
 | 80 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
 | 81 | [Balderrama](https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E) | [Dúo Salteño](https://open.spotify.com/artist/5SAeZRhgmJhgq196BR1Mna) | [La Historia](https://open.spotify.com/album/00xeIIfZaedwrbPK61SuyI) | 4:15 |
 | 82 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [La Refranera](https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP) | [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Tinto](https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq) | 3:23 |
 | 90 | [Para Cantar He Nacido](https://open.spotify.com/track/447ORDEfYxu77edFodcfr6) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Para Cantar He Nacido](https://open.spotify.com/album/38hLzv8jhDNS99eGb8d3XR) | 3:26 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDVhNzcyZDM0OGQzNGY4NDY3NWVlZTVmMzMwNjg5MjBj`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGI5YjczZjVhMGFiMjM3N2M1NGYzZmMzYjFjNzFjZjI3`

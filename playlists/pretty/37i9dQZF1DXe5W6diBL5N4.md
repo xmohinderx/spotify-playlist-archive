@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:KIHYUN\(기현\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,822 likes - 461 songs - 1 day 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,013 likes - 461 songs - 1 day 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -462,7 +462,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 452 | [Forever](https://open.spotify.com/track/0Ldap2pgWmbLLiwtkFnszO) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK) | [Forever](https://open.spotify.com/album/4OBvZ0BFBetus6r82qBqDk) | 3:08 |
 | 453 | [I Do Not Bid Farewell](https://open.spotify.com/track/1RG1aEW6QnorfN5Iw1802o) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I Do Not Bid Farewell](https://open.spotify.com/album/3VdbJe4suEWRg2K2hiZFio) | 3:22 |
 | 454 | [a man and a woman \(feat\. gamma\)](https://open.spotify.com/track/7vNiNWqcf4mfn0tDkJUkhp) | [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3) | [a man and a woman \(feat\. gamma\)](https://open.spotify.com/album/1Lumjdbi9lsIaZpqJ8hICv) | 3:40 |
-| 455 | [Area Code](https://open.spotify.com/track/5oFzlKuIlHZWY7cPlSfF9W) | [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ), [blanc](https://open.spotify.com/artist/1EgYroj2XVUMdXfqXnOHSA), [Deep Rooted Tree](https://open.spotify.com/artist/7KBY0chGPAiopCTnyof4Id) | [Stand Up Underground Challenge EP\. 03 : Area Code](https://open.spotify.com/album/1WABaV83GL3snYoMqJp6OA) | 2:59 |
+| 455 | [Area Code](https://open.spotify.com/track/5oFzlKuIlHZWY7cPlSfF9W) | [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ), [Blanc](https://open.spotify.com/artist/1xDWRGeHTfzGZdTz2uyKCw), [Deep Rooted Tree](https://open.spotify.com/artist/7KBY0chGPAiopCTnyof4Id) | [Stand Up Underground Challenge EP\. 03 : Area Code](https://open.spotify.com/album/1WABaV83GL3snYoMqJp6OA) | 2:59 |
 | 456 | [Summer vacation](https://open.spotify.com/track/4bPsIYxAKAcJpXGKIC16Iu) | [NAMHYUK](https://open.spotify.com/artist/4ZenZivKUdsDyv2ldIUvhE) | [Summer vacation](https://open.spotify.com/album/1dXulEeNSPmQ4YahLD5OVu) | 3:49 |
 | 457 | [Fly Again](https://open.spotify.com/track/4nAPW218dHrB5lbqammhxv) | [D82](https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE) | [GREAT SEOUL INVASION Section 5](https://open.spotify.com/album/0s2QIdUlCpjEhCUBCpSqkg) | 3:34 |
 | 458 | [아버지 사진](https://open.spotify.com/track/1cG3HzvpUVegXwpEG9pYG7) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <기억을 정리하며...>](https://open.spotify.com/album/6BKm7oswqYqeshbi9bpBwL) | 4:19 |

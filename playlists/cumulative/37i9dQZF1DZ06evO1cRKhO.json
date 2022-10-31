@@ -165,7 +165,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-15",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 363520,
       "name": "Altamirage III",
       "url": "https://open.spotify.com/track/0qB2kROt2cgfU7tlCzAqKI"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 365568,
       "name": "Altamirage IV",
       "url": "https://open.spotify.com/track/5zTUDJzSp6AuGHCFlD8Z33"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 485186,
       "name": "Cyber Talk",
       "url": "https://open.spotify.com/track/6ZgMWgmu62nxrwXDxde71A"
@@ -477,6 +477,32 @@
       "duration_ms": 165138,
       "name": "Deep-Sea Rendez-Vous",
       "url": "https://open.spotify.com/track/0ZsN5BFNEOO0dbOQVKh6Fz"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 3)",
+        "url": "https://open.spotify.com/album/536OgpfoHLxXaaIadP9ClO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "Desposition",
+      "url": "https://open.spotify.com/track/4ZWr04cqxx5RP5N0OlfZek"
     },
     {
       "album": {
@@ -953,7 +979,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 199991,
       "name": "Information National Forest",
       "url": "https://open.spotify.com/track/0qaoSyRrXkLz7H2SBMmpvh"
@@ -1511,7 +1537,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 282813,
       "name": "Photonic Dance",
       "url": "https://open.spotify.com/track/0dtNZJou6NptVMtC4DFsyn"
@@ -1537,7 +1563,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-16",
+      "date_removed": null,
       "duration_ms": 208053,
       "name": "Pivot Point",
       "url": "https://open.spotify.com/track/3vmMPY1J7OBcoOYNUPSHz9"
@@ -1617,7 +1643,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 330320,
       "name": "Pulling Rank",
       "url": "https://open.spotify.com/track/5ivWFisjOYaEdm0qhVtSUk"
@@ -1921,7 +1947,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 245384,
       "name": "Several More Happened",
       "url": "https://open.spotify.com/track/14KI3MCgh7scFAQkA5aNBW"
@@ -2194,6 +2220,32 @@
     },
     {
       "album": {
+        "name": "phase/transitions (vol. 2)",
+        "url": "https://open.spotify.com/album/4wPO0QWu1IknF6CcK7pma5"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "Supercritical",
+      "url": "https://open.spotify.com/track/3XWlm1PuZhTGy3gedOKKmf"
+    },
+    {
+      "album": {
         "name": "Tara's Room",
         "url": "https://open.spotify.com/album/2zKiV8mhZXxo4pZK5i1vUe"
       },
@@ -2387,7 +2439,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 1188587,
       "name": "The Well",
       "url": "https://open.spotify.com/track/6EfxOHVU60PPw3snTNhFuI"
@@ -2409,6 +2461,32 @@
       "duration_ms": 925067,
       "name": "The Well / The Gentle",
       "url": "https://open.spotify.com/track/59SZv609GUnvh07DzT0zRp"
+    },
+    {
+      "album": {
+        "name": "phase/transitions (vol. 3)",
+        "url": "https://open.spotify.com/album/536OgpfoHLxXaaIadP9ClO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        },
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364080,
+      "name": "Then we were not there",
+      "url": "https://open.spotify.com/track/3rEw3Qnam3kvW2wTAnpQr3"
     },
     {
       "album": {
@@ -2689,7 +2767,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 688426,
       "name": "Untited #270",
       "url": "https://open.spotify.com/track/5yrWE0AgTqRcQiIGyE0IFC"
@@ -2899,7 +2977,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 301173,
       "name": "Web Doppelganger",
       "url": "https://open.spotify.com/track/1GG18hW2tOOEEMlVjvOvil"

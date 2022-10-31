@@ -4,7 +4,7 @@
 
 > Great songs by indisputable music legends\. Cover: David Bowie
 
-194 songs - 13 hr 26 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
+195 songs - 13 hr 30 min - [published](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 | 2022-01-21 |  |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-01-21 | 2022-07-28 |
 | [Peace Train](https://open.spotify.com/track/730PcccFA4ePtZmzpypwoD) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser and the Firecat \(Deluxe Edition\)](https://open.spotify.com/album/5HeEmHDgBPRpE11844CcjN) | 4:11 | 2022-01-21 | 2022-06-12 |
-| [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2021-10-14 |  |
+| [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2021-10-14 | 2022-10-31 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-01-21 |  |
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2021-10-14 | 2022-07-29 |
 | [Rebel Rebel \- 1999 Remaster](https://open.spotify.com/track/66lOpKgTyFjOrac4S1s94g) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(30th Anniversary\)](https://open.spotify.com/album/6JxxRxzjsOTtKVie29FTt2) | 4:29 | 2021-10-14 | 2022-07-29 |
@@ -161,6 +161,7 @@
 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 | 2022-01-21 | 2022-07-14 |
 | [Sunday Morning](https://open.spotify.com/track/1ibXPHlgwayYg2p3Fjda5g) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/02O0Ea7JGwlLq8faAiv1MN) | 2:55 | 2021-10-14 | 2022-01-07 |
 | [Superstition](https://open.spotify.com/track/4dwrL3Z5U2RZ6MZiKE2PgL) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 4:04 | 2021-10-14 | 2022-07-29 |
+| [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-01-21 |  |
 | [Suspicious Minds](https://open.spotify.com/track/1H5IfYyIIAlgDX8zguUzns) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [From Elvis in Memphis \(Live\)](https://open.spotify.com/album/3ekkFrfotMsEAKc5g71GHk) | 4:21 | 2021-10-14 | 2022-10-03 |
 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 | 2022-01-21 | 2022-02-02 |
 | [Sweet Home Alabama](https://open.spotify.com/track/4CJVkjo5WpmUAKp3R44LNb) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping](https://open.spotify.com/album/5rtOJsiDDjA9V5306cyTRS) | 4:41 | 2021-10-14 | 2022-07-22 |

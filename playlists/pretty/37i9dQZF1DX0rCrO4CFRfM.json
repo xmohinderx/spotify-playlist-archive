@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 838275,
+  "num_followers": 838478,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGFhNGFjMDU1MDMwNDNkZjVkNmQ2NjE1NGZkY2EyOGI2",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDkyMjc4YjJmNGNlMDczMDMyYjg3YjkwMmY1OGViZGZi",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
       },
@@ -663,18 +679,18 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "Talihina Sky",
-        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+        "name": "...Like Cologne (Spotify Exclusive)",
+        "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 206253,
-      "name": "Talihina Sky - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
+      "duration_ms": 275571,
+      "name": "I Sat by the Ocean - Live Acoustic",
+      "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
     },
     {
       "added_at": "2022-09-22 10:17:42",
@@ -691,22 +707,6 @@
       "duration_ms": 226333,
       "name": "Something Human (Acoustic)",
       "url": "https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
-        "name": "...Like Cologne (Spotify Exclusive)",
-        "url": "https://open.spotify.com/album/4emoC6C9fCDkWPdTuxN9an"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 275571,
-      "name": "I Sat by the Ocean - Live Acoustic",
-      "url": "https://open.spotify.com/track/7mGAH8wfCljwG0tBi9WMGJ"
     },
     {
       "added_at": "2022-09-22 10:17:42",

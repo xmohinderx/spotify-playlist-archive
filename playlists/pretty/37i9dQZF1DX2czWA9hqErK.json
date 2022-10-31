@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 410626,
+  "num_followers": 410668,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2ODE3MSwwMDAwMDAwMGNlYzJkYjIzODBhMjdlMTYxNGMxZTcxZTFkMjk0MjEy",
+  "snapshot_id": "MTY2NjM2ODE3MSwwMDAwMDAwMDIzZDRiM2U2OTE3ODI2OTlmMWM0YTk3YTc5NzY3NDc0",
   "tracks": [
     {
       "added_at": "2022-10-21 16:02:51",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 245964,
-      "name": "Matilda",
-      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 245964,
+      "name": "Matilda",
+      "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 146266,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 219380,
       "name": "All For You",
       "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 146266,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "peace",
-      "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "peace",
+      "url": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Crisis / Secret / Set Me Free",
-        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 229565,
       "name": "Forget Me - Spotify Singles",
       "url": "https://open.spotify.com/track/2IIMt19xJuWIHVmfpd9jH8"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Crisis / Secret / Set Me Free",
+        "url": "https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 239865,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 168061,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/6EHFU2wqSK47x1yZ93Lu7n"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 239865,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/55OlGT0r7dPTNuBlZXOjeA"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Call Me A Dreamer",
-        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 228798,
-      "name": "Call Me A Dreamer",
-      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/6jJup68OjU0nYjj6LWIsUj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 175737,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1zAITH7C5UFYNE8DOFlE7h"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Call Me A Dreamer",
+        "url": "https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 228798,
+      "name": "Call Me A Dreamer",
+      "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
+        "name": "Sad Anymore",
+        "url": "https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 130042,
+      "name": "Sad Anymore",
+      "url": "https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO"
       },
@@ -1295,18 +1311,18 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Sad Anymore",
-        "url": "https://open.spotify.com/album/5wyenYTuawD6OrrXQquyUc"
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 130042,
-      "name": "Sad Anymore",
-      "url": "https://open.spotify.com/track/6KKQRxk7BVrjjdWbEc9MA6"
+      "duration_ms": 201306,
+      "name": "I Lost Myself In Loving You",
+      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Box of Regrets",
-        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 196731,
-      "name": "Box of Regrets",
-      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "my dear",
         "url": "https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC"
       },
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+        "name": "Box of Regrets",
+        "url": "https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V"
       },
       "artists": [
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
         }
       ],
-      "duration_ms": 201306,
-      "name": "I Lost Myself In Loving You",
-      "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
+      "duration_ms": 196731,
+      "name": "Box of Regrets",
+      "url": "https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko"
     },
     {
       "added_at": "2022-10-21 16:02:51",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-10-21 16:02:51",
       "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 317838,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
-    },
-    {
-      "added_at": "2022-10-21 16:02:51",
-      "album": {
         "name": "If It's Not God",
         "url": "https://open.spotify.com/album/1xRImmscq4t4IAm1G9OSVt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 219306,
       "name": "If It's Not God",
       "url": "https://open.spotify.com/track/3pjXm7eAzDGJSjSlLKijPG"
+    },
+    {
+      "added_at": "2022-10-21 16:02:51",
+      "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 317838,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
     },
     {
       "added_at": "2022-10-21 16:02:51",

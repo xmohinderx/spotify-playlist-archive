@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Lola Marsh.
 
-457 songs - 1 day 1 hr 24 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
+458 songs - 1 day 1 hr 27 min - [published](https://open.spotify.com/playlist/6bA5HVht0DRnYt7fu1eP5j)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Pensar en Ti](https://open.spotify.com/track/4phOa75nrH2sCq475pwBq2) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Pensar en Ti](https://open.spotify.com/album/4JqpGaYWAdPnQJiBqnSzeF) | 3:39 | 2022-09-23 |  |
 | [Photograph](https://open.spotify.com/track/4R7BQYeTzAhy0Vl83xrAcQ) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Photograph](https://open.spotify.com/album/4OlFnnZylFcZU5cYTKLXh6) | 2:15 | 2022-10-14 |  |
 | [Picnic In The Park](https://open.spotify.com/track/1H9RljOIfrpDXj8tBYi746) | [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6) | [Picnic In The Park](https://open.spotify.com/album/7vGvMZJ2EcjqALGYxRmAuB) | 2:57 | 2022-02-25 | 2022-06-11 |
-| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 |  |
+| [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-21 | 2022-10-31 |
+| [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-28 |  |
 | [Play By Play](https://open.spotify.com/track/0fkgg7EwHGTvqcJnvUqXmp) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 2:37 | 2022-08-05 | 2022-10-08 |
 | [Play It Cool](https://open.spotify.com/track/7dnoIWcbnHhwGojoK7xg7G) | [SEKI](https://open.spotify.com/artist/2MdhltoGdV44xCcmAReBwQ) | [Play It Cool](https://open.spotify.com/album/2UNjHavimVf8J2hXNNrztL) | 4:23 | 2022-09-09 | 2022-10-15 |
 | [Play Pretend](https://open.spotify.com/track/0rpXpKiDSJ5QiAuo3JVky7) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/5fT75N3yGkZpVLHV4X90i8) | 2:24 | 2022-10-07 |  |

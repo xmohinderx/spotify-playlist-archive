@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,442 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,505 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 37 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
 | 38 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 | 39 | [Empty Stomach](https://open.spotify.com/track/0SqvXRAk5lKwHNkp1aUfHo) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Lost In Melody](https://open.spotify.com/album/5T3IUCaNX06cTAk38oZlIj) | 3:05 |
-| 40 | [Dear Life](https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Dear Life](https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ) | 2:33 |
+| 40 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
 | 41 | [wake up](https://open.spotify.com/track/2oDZ1JaqdgbWzZJubJmYTT) | [isomonstrosity](https://open.spotify.com/artist/4DfieEPxO3kEpaMuOCPtqi), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [wake up](https://open.spotify.com/album/1Ccs6phqIKRsl43VHLSpOs) | 2:40 |
-| 42 | [Meaningless](https://open.spotify.com/track/3iXr4JLYecnraGnwGBFHPr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:36 |
+| 42 | [Dear Life](https://open.spotify.com/track/5A9ctbShMyrhJqLqW0G1lB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Dear Life](https://open.spotify.com/album/6DoMHHNrKIdY1716LUmdfZ) | 2:33 |
 | 43 | [Barely Miss](https://open.spotify.com/track/4QPtyUkP2ysNjZDF5AuZMC) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Barely Miss](https://open.spotify.com/album/4wHVHXSasHh2aq0D4g5NRA) | 3:13 |
 | 44 | [ZOOMIES](https://open.spotify.com/track/5p9OLo1ChBbfNR840Ci6gj) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [RUFFS](https://open.spotify.com/album/6pChEm0qiDT32ZHfNwVwqh) | 1:57 |
-| 45 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 |
+| 45 | [Snake](https://open.spotify.com/track/6QRDewZDz4f9CJEasgWZKt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:24 |
 | 46 | [My People](https://open.spotify.com/track/40HPr46v5dKYDkeLrryJAb) | [Marlowe](https://open.spotify.com/artist/6RhsbxbsDk5ypSXFkS41J4), [L'Orange](https://open.spotify.com/artist/5kJsAiwFWEaNRPwvtkjnXz), [Solemn Brigham](https://open.spotify.com/artist/75vP2W1S1HhYmpi5cL14Oz) | [Marlowe 3](https://open.spotify.com/album/0tmnvC5ue44iAfQfL1LBFd) | 3:36 |
-| 47 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 |
-| 48 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 |
+| 47 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 |
+| 48 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 |
 | 49 | [Good Wine](https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Good Wine](https://open.spotify.com/album/6898YVDudEoCou54LQrbrd) | 2:06 |
 | 50 | [High Beams \- JPEGMAFIA Remix](https://open.spotify.com/track/1Iq11CQ74BtnSzV5l9u5Yy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [High Beams \(JPEGMAFIA Remix\)](https://open.spotify.com/album/26IbYjt4LS9d5QqMBemBti) | 2:37 |
 
-Snapshot ID: `MTY2NjkyOTYzMywwMDAwMDAwMGM1MWI2MDkyMzZlYzM5MDY1M2M4YzlkZGE4YmJmNmFl`
+Snapshot ID: `MTY2NjkyOTYzMywwMDAwMDAwMDA4ODkyZTJiZGU5ZjUyZjQwODkwOGI5MzQ5OTZjMjU3`

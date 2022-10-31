@@ -225,6 +225,24 @@
     {
       "album": {
         "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256600,
+      "name": "God Bless Mary",
+      "url": "https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
         "url": "https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM"
       },
       "artists": [
@@ -239,7 +257,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 217386,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT"
@@ -435,6 +453,24 @@
       "duration_ms": 363482,
       "name": "Our Conversations w/ Badbadnotgood",
       "url": "https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z"
+    },
+    {
+      "album": {
+        "name": "A Curious Tale of Trials + Persons",
+        "url": "https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124113,
+      "name": "Persons",
+      "url": "https://open.spotify.com/track/1s9vA3Z6u7Jn1KVzUBeRIB"
     },
     {
       "album": {

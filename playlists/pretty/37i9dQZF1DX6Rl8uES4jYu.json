@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 235449,
+  "num_followers": 235441,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGFlNTE5OGIwZTFjYjMwOWQ3YmIwMTc1YWQwY2ZhZGQx",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDljOTU2YjZhYWFhMmJiNDMyOTk4MzY0NzdkODcwYzdl",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -765,22 +765,6 @@
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
-      },
-      "artists": [
-        {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
-        }
-      ],
-      "duration_ms": 208434,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "All Day Long",
@@ -795,6 +779,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Something to Say",
-        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "The Funk Apostles",
-          "url": "https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD"
-        }
-      ],
-      "duration_ms": 196722,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
         "name": "Woman (feat. Lianne La Havas)",
         "url": "https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "The Funk Apostles",
+          "url": "https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD"
+        }
+      ],
+      "duration_ms": 196722,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1121,30 +1121,6 @@
       "url": "https://open.spotify.com/track/1rtfAn2mFfDuVXhg8nkv6Z"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
-      "album": {
-        "name": "According To You",
-        "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
-      },
-      "artists": [
-        {
-          "name": "Misha",
-          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
-        },
-        {
-          "name": "Jordan Astra",
-          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
-        },
-        {
-          "name": "Kapok",
-          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
-        }
-      ],
-      "duration_ms": 183870,
-      "name": "According To You",
-      "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Chicken Wings (Remix)",
@@ -1167,6 +1143,30 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "According To You",
+        "url": "https://open.spotify.com/album/4ghBbVW4BChwFam44puXov"
+      },
+      "artists": [
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        },
+        {
+          "name": "Kapok",
+          "url": "https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "According To You",
+      "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -1433,6 +1433,26 @@
       "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
     },
     {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "The Futuristics",
+          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
+        }
+      ],
+      "duration_ms": 141002,
+      "name": "Turn Up",
+      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
+    },
+    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Run Away",
@@ -1455,26 +1475,6 @@
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Turn Up",
-        "url": "https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "The Futuristics",
-          "url": "https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t"
-        }
-      ],
-      "duration_ms": 141002,
-      "name": "Turn Up",
-      "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
       "added_at": "2022-09-23 04:00:00",

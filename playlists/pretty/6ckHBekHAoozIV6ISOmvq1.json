@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTU5NCw5ZTNmOGFjMzI1NGVhZDk3ZDgyOTQ4NzlhY2Q4NWM2YWE4ZDc4OWQ2",
+  "snapshot_id": "NTU5NSxkMDQ1MDZmYzAzMzNjYjNlNTU3ODk0ODllODgyY2EwYTEwOTA5YjAw",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -653,26 +653,6 @@
       "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
     },
     {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Nunc gaudeant materna viscera (Antiphona)",
-      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
-    },
-    {
       "added_at": "2018-06-22 13:49:07",
       "album": {
         "name": "Ballate e Madrigali",
@@ -699,6 +679,26 @@
       "duration_ms": 260279,
       "name": "I' vo' bene",
       "url": "https://open.spotify.com/track/53EsDQghnk9rdBelvhDGH7"
+    },
+    {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Nunc gaudeant materna viscera (Antiphona)",
+      "url": "https://open.spotify.com/track/7E2dEfHyf9VKz8V2O7f5a9"
     },
     {
       "added_at": "2018-08-01 14:20:34",
@@ -1733,6 +1733,26 @@
       "url": "https://open.spotify.com/track/1I58Oqx2r9bFw4zYnR4vW1"
     },
     {
+      "added_at": "2022-02-04 20:29:44",
+      "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
+        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "duration_ms": 385013,
+      "name": "Belicha [Additional 29987]",
+      "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
+    },
+    {
       "added_at": "2022-03-28 17:06:45",
       "album": {
         "name": "Madre de Deus, Cantigas de Santa Maria",
@@ -1755,26 +1775,6 @@
       "duration_ms": 269226,
       "name": "Cantigas de Santa Maria: A Madre de Que Livrou",
       "url": "https://open.spotify.com/track/41jdbx07sTNvc3BoPMnUo3"
-    },
-    {
-      "added_at": "2022-02-04 20:29:44",
-      "album": {
-        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
-        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Anima Mundi Consort",
-          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
-        }
-      ],
-      "duration_ms": 385013,
-      "name": "Belicha [Additional 29987]",
-      "url": "https://open.spotify.com/track/550rfA0AE6Mw2xFRvlKYt4"
     },
     {
       "added_at": "2022-04-08 15:24:06",
@@ -1849,26 +1849,6 @@
       "url": "https://open.spotify.com/track/36xDYf88zslnCP1vmU9zuK"
     },
     {
-      "added_at": "2022-01-21 13:11:22",
-      "album": {
-        "name": "Cantigas de Santa Maria",
-        "url": "https://open.spotify.com/album/6UAWKw0ad9iv5AQ679yWRP"
-      },
-      "artists": [
-        {
-          "name": "Alfonso X El Sabio",
-          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
-        },
-        {
-          "name": "Esther Lamandier",
-          "url": "https://open.spotify.com/artist/1WYoURZJ7g2am0iPtYQskb"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
-      "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
-    },
-    {
       "added_at": "2021-09-17 14:08:49",
       "album": {
         "name": "The Unicorn (Apex)",
@@ -1887,6 +1867,26 @@
       "duration_ms": 199493,
       "name": "Moniot de Paris : \"Je chevauchoie l'autrier\"",
       "url": "https://open.spotify.com/track/2PfXTMv2JZhbErEG7WGs2J"
+    },
+    {
+      "added_at": "2022-01-21 13:11:22",
+      "album": {
+        "name": "Cantigas de Santa Maria",
+        "url": "https://open.spotify.com/album/6UAWKw0ad9iv5AQ679yWRP"
+      },
+      "artists": [
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Esther Lamandier",
+          "url": "https://open.spotify.com/artist/1WYoURZJ7g2am0iPtYQskb"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
+      "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
     },
     {
       "added_at": "2018-02-28 02:40:55",
@@ -3173,26 +3173,6 @@
       "url": "https://open.spotify.com/track/1hwLtifSNEpG9wMMoBQBsy"
     },
     {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
-        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
-      },
-      "artists": [
-        {
-          "name": "Hildegard von Bingen",
-          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 555466,
-      "name": "O dulcissime amator (Symphonia virginum)",
-      "url": "https://open.spotify.com/track/3XxphHH0vu2X6eM3g2zDG5"
-    },
-    {
       "added_at": "2018-02-27 00:32:30",
       "album": {
         "name": "Stylems, Italian Music from the \"Trecento\"",
@@ -3215,6 +3195,26 @@
       "duration_ms": 185320,
       "name": "La Bella e La Ve\u00e7\u00e7osa Cabriola",
       "url": "https://open.spotify.com/track/0imvWfuObRl13j7umK5RKh"
+    },
+    {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Von Bingen: Sponsa Regis (La victoire de la Vierge dans l'\u0153uvre d'Hildegard)",
+        "url": "https://open.spotify.com/album/5YQyOrkqCiG2JMKCYskLop"
+      },
+      "artists": [
+        {
+          "name": "Hildegard von Bingen",
+          "url": "https://open.spotify.com/artist/2xt1t3lfZ5FGaEKrs0jp0d"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 555466,
+      "name": "O dulcissime amator (Symphonia virginum)",
+      "url": "https://open.spotify.com/track/3XxphHH0vu2X6eM3g2zDG5"
     },
     {
       "added_at": "2021-03-26 22:18:10",
@@ -4081,6 +4081,26 @@
       "url": "https://open.spotify.com/track/0iJdJY43C0Ey3QsOL4S8gp"
     },
     {
+      "added_at": "2022-10-21 16:31:08",
+      "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
+        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "duration_ms": 673786,
+      "name": "Principio di virtu [Additional 29987]",
+      "url": "https://open.spotify.com/track/2E67gjhpVte8MyX2nAxuOS"
+    },
+    {
       "added_at": "2022-08-06 03:36:27",
       "album": {
         "name": "Madre de Deus, Cantigas de Santa Maria",
@@ -4103,26 +4123,6 @@
       "duration_ms": 515466,
       "name": "Cantigas de Santa Maria: Madre de Deus",
       "url": "https://open.spotify.com/track/35IkpwKyqcmwIcZRnED5ry"
-    },
-    {
-      "added_at": "2022-10-21 16:31:08",
-      "album": {
-        "name": "Danze Strumentali Medievali Italiane, Vol. 2",
-        "url": "https://open.spotify.com/album/2Mq1pFTrbBvu796ijfH1wP"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Anima Mundi Consort",
-          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
-        }
-      ],
-      "duration_ms": 673786,
-      "name": "Principio di virtu [Additional 29987]",
-      "url": "https://open.spotify.com/track/2E67gjhpVte8MyX2nAxuOS"
     },
     {
       "added_at": "2022-09-17 01:14:54",
@@ -4677,6 +4677,26 @@
       "url": "https://open.spotify.com/track/41oyolCorjqEA815BtB3f4"
     },
     {
+      "added_at": "2022-10-15 00:04:29",
+      "album": {
+        "name": "Adiu, adiu dous dame",
+        "url": "https://open.spotify.com/album/4n91es5ZDoh8Nn8FvsCv1t"
+      },
+      "artists": [
+        {
+          "name": "Gherardello da Firenze",
+          "url": "https://open.spotify.com/artist/3Ei7qcsfsLzQ5B3rG9CSPu"
+        },
+        {
+          "name": "Ensemble La Rota",
+          "url": "https://open.spotify.com/artist/7I2wKauT9FzVHB2yBl93tU"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "I\u2019 Vivo Amando (Ballata)",
+      "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
+    },
+    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Venecie mundi splendor: Marvels of Medieval Venice (Music for the Doges, 1330-1430)",
@@ -4699,26 +4719,6 @@
       "duration_ms": 234213,
       "name": "Carminibus festos / O requies populi",
       "url": "https://open.spotify.com/track/4nhVTjcyDIrN4bC5LThEwA"
-    },
-    {
-      "added_at": "2022-10-15 00:04:29",
-      "album": {
-        "name": "Adiu, adiu dous dame",
-        "url": "https://open.spotify.com/album/4n91es5ZDoh8Nn8FvsCv1t"
-      },
-      "artists": [
-        {
-          "name": "Gherardello da Firenze",
-          "url": "https://open.spotify.com/artist/3Ei7qcsfsLzQ5B3rG9CSPu"
-        },
-        {
-          "name": "Ensemble La Rota",
-          "url": "https://open.spotify.com/artist/7I2wKauT9FzVHB2yBl93tU"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "I\u2019 Vivo Amando (Ballata)",
-      "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
     },
     {
       "added_at": "2020-09-18 11:57:01",

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Ab\-Soul
 
-357 songs - 19 hr 5 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+358 songs - 19 hr 10 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [DEATHFAME](https://open.spotify.com/track/30jfHyUlszF66IV2xlp8BM) | [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Deathfame](https://open.spotify.com/album/3gNLleI1petZq52QmMkcNW) | 3:25 | 2022-06-10 | 2022-07-26 |
 | [Decoded \(feat\. Scarface\)](https://open.spotify.com/track/56fofPwaABXBc5qHGkxacV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:14 | 2022-09-30 |  |
 | [Deebo](https://open.spotify.com/track/0oVkNzVdwPeaGytgc55v4o) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Black Habits \(Deluxe\)](https://open.spotify.com/album/0WkqYoTVOLg2ady3z0vusJ) | 2:30 | 2022-04-01 | 2022-04-20 |
-| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 |  |
+| [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
 | [DIET\_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2021-09-03 | 2022-02-17 |
 | [Different](https://open.spotify.com/track/4B9eAQnzraeMTZ2B0ioKQG) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co) | [4\-Pack Fridays, Vol\. 2](https://open.spotify.com/album/1r3C3zQtoiMi4d9VL1QKoD) | 3:21 | 2022-03-25 | 2022-04-18 |
@@ -119,6 +119,7 @@
 | [Glowing Mics \- Founders RMX](https://open.spotify.com/track/1yW3VlhZgVYHu5SglHClvB) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Big Shug](https://open.spotify.com/artist/30G8Jlp6mw5RTEEzMndIZL) | [Glowing Mics \(Founders RMX\)](https://open.spotify.com/album/6G0PjYvizKiO0mFyCvCR91) | 3:23 | 2022-03-11 | 2022-04-20 |
 | [Go To Sleep](https://open.spotify.com/track/6NVZDaU13vmTWtXUUItrmV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Go To Sleep](https://open.spotify.com/album/1JSdlQeJDiOGrAwyzWrjuO) | 3:39 | 2022-05-20 | 2022-07-24 |
 | [GOAT](https://open.spotify.com/track/3Plq7UM7UUSRdezJrova6z) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [GOAT](https://open.spotify.com/album/5YSyNEQ4CtD1vZj8oBu3aB) | 2:48 | 2022-05-20 | 2022-05-28 |
+| [God Is Love \(feat\. Estee Nack, Stove God Cooks & Keisha Plum\)](https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv), [Keisha Plum](https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 5:21 | 2022-10-28 |  |
 | [God Is Perfect](https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 3:59 | 2021-09-03 | 2022-10-01 |
 | [God's Bathroom Floor](https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [God's Bathroom Floor](https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL) | 3:58 | 2021-09-03 | 2022-07-18 |
 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 | 2022-09-30 |  |

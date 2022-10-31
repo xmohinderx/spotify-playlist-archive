@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,703 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,715 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 38 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
 | 39 | [Good to Me](https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Good to Me](https://open.spotify.com/album/46yPP8LYBsQ399RMPl39Ws) | 3:01 |
 | 40 | [SUMMER](https://open.spotify.com/track/2qYRPvqYtrAMRB00MUhNr9) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg) | [SUMMER](https://open.spotify.com/album/1o60kkN15pxFqnXmy4Ulv9) | 3:40 |
-| 41 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 |
-| 42 | [All 4 U](https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All 4 U](https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR) | 2:48 |
+| 41 | [All 4 U](https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All 4 U](https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR) | 2:48 |
+| 42 | [Way We Move](https://open.spotify.com/track/4FIReaKIlDRnhfaPe9SXep) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Way We Move](https://open.spotify.com/album/6WcJxJnCuCsRPEoKy3Ex5O) | 3:57 |
 | 43 | [Out The Blue](https://open.spotify.com/track/2A4Ij58MiGtsYOHBAJ8Wph) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Alice Gold](https://open.spotify.com/artist/7npVHrVLcvH4TKywGNehPZ) | [Torus](https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d) | 4:37 |
 | 44 | [Ghost Assassin \- VIP](https://open.spotify.com/track/5psoxZpBVWS27k9Fngaes9) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Memoirs](https://open.spotify.com/album/1JhdCDZb1iVqoq04Qf3Ou4) | 3:42 |
 | 45 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 68 | [We All Need Someone](https://open.spotify.com/track/6w7lAYEIwnV5R0FxmgmGFP) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Empara Mi](https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6) | [We All Need Someone](https://open.spotify.com/album/7zIEQjvo9fnhRvUIKv0dpK) | 3:54 |
 | 69 | [Questions](https://open.spotify.com/track/2yVyBp91pt3dmsaZ8nz7S3) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:02 |
 | 70 | [Devil's Night](https://open.spotify.com/track/6JRzMirHyMNFOezS9kbtcl) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Devil's Night EP](https://open.spotify.com/album/7GhVfkNBfwR8cmbIC6qjMa) | 4:45 |
-| 71 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 |
+| 71 | [Tides](https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Future History](https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q) | 5:43 |
 | 72 | [I Refuse](https://open.spotify.com/track/1OBi4IRkuVOCegnDHG3xhj) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [I Refuse / Midnight Express](https://open.spotify.com/album/6Bi0LU2EWGrSRybRuYsScL) | 5:55 |
-| 73 | [Tides](https://open.spotify.com/track/7A99JonAe94FLm6DqNIpS8) | [Nu:Tone](https://open.spotify.com/artist/7pDBRy9uWy1zq5b0uXIABQ), [Lea Lea](https://open.spotify.com/artist/2rr4WqfAdv4xEi5YyXdPQb) | [Future History](https://open.spotify.com/album/2vNhhg37RTwKA66V8yyk0q) | 5:43 |
+| 73 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 |
 | 74 | [Open Page](https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Open Page](https://open.spotify.com/album/6fmfcUWI0g4HqXrqdNlfzq) | 5:44 |
 | 75 | [Find Your Way](https://open.spotify.com/track/0HbW183P72KHki0wJsv99I) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Find Your Way](https://open.spotify.com/album/4wDEWSRuqO6k4RgOolYy2h) | 5:28 |
 
-Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMDVkY2IxYmE5MzdmZDhlNGI1OGJiYjkxZDczZDcwYjc0`
+Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMGFmN2ZiYzJmZDk2ZWFhNTMzYWUzZTU4OTBiOTA5YjFh`

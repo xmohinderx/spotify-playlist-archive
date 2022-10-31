@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 505845,
+  "num_followers": 506473,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGM1OGQxNTg3NmI4ZGYzZGQ3OTQ0MGU1ZDk4NzUyODVh",
+  "snapshot_id": "MTY1NzgxNDM5OSwwMDAwMDAwMGZkNzE2MDc3NGUxODExZjRjMTE1YmMyOTQ1NTM1YzNh",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -639,6 +639,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 152093,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 191306,
       "name": "Nada Personal",
       "url": "https://open.spotify.com/track/3XtPN9Var7rerjAzLsCAHt"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 152093,
-      "name": "Gema",
-      "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "16 \u00c9xitos De Oro",
         "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213600,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -915,18 +915,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Idolos de Argentina",
-        "url": "https://open.spotify.com/album/6HZIFGEz6mZfrXrCkAlhMI"
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
       "artists": [
         {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
         }
       ],
-      "duration_ms": 222876,
-      "name": "Mi Corazon Lloro",
-      "url": "https://open.spotify.com/track/1F7nHrOiTvO6pgWX7NnHdO"
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -947,18 +947,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+        "name": "Idolos de Argentina",
+        "url": "https://open.spotify.com/album/6HZIFGEz6mZfrXrCkAlhMI"
       },
       "artists": [
         {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
         }
       ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+      "duration_ms": 222876,
+      "name": "Mi Corazon Lloro",
+      "url": "https://open.spotify.com/track/1F7nHrOiTvO6pgWX7NnHdO"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Rock, Balada y Sentimiento, Vol. I",
-        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 187413,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/15vvGrycJyA5tMb6PXdQYO"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Rock, Balada y Sentimiento, Vol. I",
+        "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
+      },
+      "artists": [
+        {
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1435,6 +1435,38 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2eO8HhZRfGObuy63uxsOMm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lico",
+          "url": "https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "No",
+      "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Pra Sempre Em Espanhol - Vol. 1",
         "url": "https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH"
       },
@@ -1467,22 +1499,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2eO8HhZRfGObuy63uxsOMm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lico",
-          "url": "https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "No",
-      "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/53a626hUxhtVTAyaVSX2Qc"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 250333,
       "name": "Hawaii-Bombay",
       "url": "https://open.spotify.com/track/3e22yN2324r75U9qCDadJD"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
         }
       ],
-      "duration_ms": 213680,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+      "duration_ms": 158506,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/3lzkOHkG5yH3xj40sY4nVI"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

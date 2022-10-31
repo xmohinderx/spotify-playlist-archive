@@ -1,12 +1,12 @@
 {
   "description": "The perfect Latin tunes to get in the Christmas spirit. ",
-  "num_followers": 187170,
+  "num_followers": 187191,
   "original_name": "Latin Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjY0Mzg0MiwwMDAwMDAwMDU2MTZmNjU0NDNhODQzZGQ5NmQ2MjRjYWM3ODE1Nzc2",
+  "snapshot_id": "MTY2NjY0Mzg0MiwwMDAwMDAwMDNmNWRkYzNkZjg4YWRjMzM4MWYxNGQ1NjE4MDFhMzRm",
   "tracks": [
     {
       "added_at": "2022-10-24 20:35:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Rodr\u00edguez",
-        "url": "https://open.spotify.com/album/78azykFnf84A4MBMFcmAIj"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 357102,
-      "name": "Canci\u00f3n de Navidad",
-      "url": "https://open.spotify.com/track/10IHgFIafEVJ3uKkJeW3XJ"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "Santa la noche",
         "url": "https://open.spotify.com/album/3JQymi6jdlocnrFuPfVBcG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 253571,
       "name": "Santa la noche",
       "url": "https://open.spotify.com/track/34OQJBdPvh88lHD6Oiuwc1"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Rodr\u00edguez",
+        "url": "https://open.spotify.com/album/78azykFnf84A4MBMFcmAIj"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 357102,
+      "name": "Canci\u00f3n de Navidad",
+      "url": "https://open.spotify.com/track/10IHgFIafEVJ3uKkJeW3XJ"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Eterna Navidad",
-        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
-      },
-      "artists": [
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Adeste Fideles",
-      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "25th Anniversary",
         "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 269253,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/3jcQdzXtzd6jnjRny2Ez6b"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Eterna Navidad",
+        "url": "https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Adeste Fideles",
+      "url": "https://open.spotify.com/track/1f6GRRkKsl3jZBIEw4LfBM"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -747,22 +747,6 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -811,6 +795,42 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/735OBE2WvfM3QeP5knHcdn"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Laura Xmas (Deluxe)",
+        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        },
+        {
+          "name": "Patrick Williams Orchestra",
+          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
+        }
+      ],
+      "duration_ms": 127893,
+      "name": "Santa Claus lleg\u00f3 a la ciudad (with the Patrick Williams Orchestra)",
+      "url": "https://open.spotify.com/track/3liEzFyv7meS2sHn697Sty"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
         "name": "Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/2JLaqBY0gC6Jx6Ld5P0uZF"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0zjjFeXot9dsKPMO6AsBpH"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Laura Xmas (Deluxe)",
-        "url": "https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        },
-        {
-          "name": "Patrick Williams Orchestra",
-          "url": "https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF"
-        }
-      ],
-      "duration_ms": 127893,
-      "name": "Santa Claus lleg\u00f3 a la ciudad (with the Patrick Williams Orchestra)",
-      "url": "https://open.spotify.com/track/3liEzFyv7meS2sHn697Sty"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
+        "name": "Amor Real (Holiday Song)",
+        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Amor Real - Holiday Song",
+      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
         "name": "Eterna Navidad Celebremos",
         "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 182120,
       "name": "Dulce Navidad",
       "url": "https://open.spotify.com/track/6WCcLjmWR4GStkBgty303j"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Amor Real (Holiday Song)",
-        "url": "https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Amor Real - Holiday Song",
-      "url": "https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1031,54 +1031,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Santa, Te Espero A Las 10",
-        "url": "https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Santa, Te Espero A Las 10",
-      "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Santa Claus Is Comin\u2019 To Town",
-      "url": "https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 145898,
-      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
-      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "Mi Navidad No Se Apaga",
         "url": "https://open.spotify.com/album/29vshU5rVpWYdzJvim2952"
       },
@@ -1099,6 +1051,74 @@
       "duration_ms": 189593,
       "name": "Mi Navidad No Se Apaga",
       "url": "https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Santa, Te Espero A Las 10",
+        "url": "https://open.spotify.com/album/4zPbYPL2cP6MD8cDyXQ6fi"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Santa, Te Espero A Las 10",
+      "url": "https://open.spotify.com/track/1rrgtua4d11ALBCNQHlvI4"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 145898,
+      "name": "D\u00f3nde Est\u00e1 La Nieve En Navidad",
+      "url": "https://open.spotify.com/track/3OzLDDrhnx5PqdrNQYQm7i"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Santa Claus Is Comin\u2019 To Town",
+      "url": "https://open.spotify.com/track/2m8DBsZnH9whNkbSjnbRGJ"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Top Latino Navidad (Remix - Audio)",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 300720,
+      "name": "El Cuerpo Me Pide",
+      "url": "https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Top Latino Navidad (Remix - Audio)",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 300720,
-      "name": "El Cuerpo Me Pide",
-      "url": "https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "Felicidades",
         "url": "https://open.spotify.com/album/024yNADGjvnhSVjscpD5qG"
       },
@@ -1171,6 +1171,22 @@
       "duration_ms": 234933,
       "name": "Me La Gozo Entera",
       "url": "https://open.spotify.com/track/1f5XLutbGai35jI95ocTfI"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Navidad - Canta Gallo, Canta",
+        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Cantemos Todos Cantemos",
+      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1195,22 +1211,6 @@
       "duration_ms": 251986,
       "name": "Amigos del Mundo (Happy Christmas)",
       "url": "https://open.spotify.com/track/47oukzOiH3ljgteKmk26YN"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Navidad - Canta Gallo, Canta",
-        "url": "https://open.spotify.com/album/5Pe9YcjXSiF0bNwwDeKDdS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rojas",
-          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "Cantemos Todos Cantemos",
-      "url": "https://open.spotify.com/track/3KGHYyFa4TpYYxDEiKAKeu"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 191333,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
         "name": "Parranda All-Stars: Navidad",
         "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
       },
@@ -1436,22 +1452,6 @@
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 191333,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 221302,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+      "duration_ms": 217613,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/7EwU9d3kRIthI865GqxFue"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1499,18 +1499,34 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
       "artists": [
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         }
       ],
-      "duration_ms": 217613,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/7EwU9d3kRIthI865GqxFue"
+      "duration_ms": 221302,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Lleg\u00f3 Navidad",
+        "url": "https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 240078,
+      "name": "Lleg\u00f3 Navidad",
+      "url": "https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Lleg\u00f3 Navidad",
-        "url": "https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 240078,
-      "name": "Lleg\u00f3 Navidad",
-      "url": "https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "Top Latino Navidad (Remix - Audio)",
         "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
-        "name": "Feliz Christmas (Vol.1)",
-        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
-      },
-      "artists": [
-        {
-          "name": "Isabela Merced",
-          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
-        }
-      ],
-      "duration_ms": 240546,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3ckZlXpLQyUF0xYYl11MlL"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
         "name": "Navidad",
         "url": "https://open.spotify.com/album/1ka6zJZBNKDyV1nKk7N9SR"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 225110,
       "name": "El Tamborilero",
       "url": "https://open.spotify.com/track/4SIRNOB4kL8Uox6xqr07Ej"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
+        "name": "Feliz Christmas (Vol.1)",
+        "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        }
+      ],
+      "duration_ms": 240546,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3ckZlXpLQyUF0xYYl11MlL"
     },
     {
       "added_at": "2022-10-24 20:35:52",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2022-10-24 20:35:52",
       "album": {
+        "name": "Top Latino Navidad (Remix - Audio)",
+        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 304706,
+      "name": "Cantares de Navidad",
+      "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
+    },
+    {
+      "added_at": "2022-10-24 20:35:52",
+      "album": {
         "name": "Nuestra Navidad",
         "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 175500,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/7rRhq2CEg8JhFKdtX5vIzz"
-    },
-    {
-      "added_at": "2022-10-24 20:35:52",
-      "album": {
-        "name": "Top Latino Navidad (Remix - Audio)",
-        "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 304706,
-      "name": "Cantares de Navidad",
-      "url": "https://open.spotify.com/track/3CBwkURhT0xqoDCJQAoSZe"
     },
     {
       "added_at": "2022-10-24 20:35:52",

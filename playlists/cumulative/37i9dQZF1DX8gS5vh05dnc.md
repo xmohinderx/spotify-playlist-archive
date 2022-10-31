@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-148 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
+149 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/5NOIpWlRTcXEkgjmyodxCT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-06 | 2022-07-29 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2022-07-25 | 2022-09-29 |
 | [I Should've Told You](https://open.spotify.com/track/7FNfzTdPSOA7jzlQQ7gZK2) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Should've Told You](https://open.spotify.com/album/1N4ACWnpLSrpXokSWcsh9j) | 3:17 | 2022-06-06 | 2022-07-29 |
-| [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-09-19 |  |
+| [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2022-09-19 | 2022-10-31 |
 | [If I Can't Have You](https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [If I Can't Have You](https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD) | 3:10 | 2022-07-25 |  |
 | [if i don't have your love](https://open.spotify.com/track/1CxImGOa5w53prpeB3F7uA) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wallflower](https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3) | 2:47 | 2022-06-06 | 2022-07-29 |
 | [Illusion](https://open.spotify.com/track/74WIjSs3N0fI3LtC0rB2Gs) | [Julia Duclos](https://open.spotify.com/artist/0eK60XV9Prh7naXVKJt1XE) | [Illusion EP](https://open.spotify.com/album/7dRKHBi8oyyDjb5uQrro8N) | 2:49 | 2022-06-06 | 2022-07-28 |
@@ -84,6 +84,7 @@
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-06-06 | 2022-07-29 |
 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 | 2022-07-04 | 2022-07-12 |
 | [Let You Down](https://open.spotify.com/track/2UwJWhNPeYfpTaNbI8MNkJ) | [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [Let You Down](https://open.spotify.com/album/0vZ4pVjynDiIPGz5WPyveN) | 2:45 | 2022-06-06 | 2022-07-29 |
+| [Let's Fall in Love for the Night](https://open.spotify.com/track/6I0KEvFfWszVJiCy5hum4V) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 3:10 | 2022-10-19 |  |
 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 | 2022-07-25 | 2022-10-13 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2022-07-25 | 2022-10-20 |
 | [Lighter](https://open.spotify.com/track/5s3RCDdbxRL0ykNxv20Sdk) | [Alyn Wee](https://open.spotify.com/artist/7DJh9nDNvYCoQnmhGaFJiH) | [Alyn](https://open.spotify.com/album/2CViWGevIoTpyB1WwIua6d) | 4:21 | 2022-06-06 | 2022-07-28 |

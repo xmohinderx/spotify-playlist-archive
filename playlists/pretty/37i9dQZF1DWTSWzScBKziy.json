@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 82613,
+  "num_followers": 82621,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGU1ZWVmOWU1YjZlNTE1YmY1M2MxNzgzOTA5NGEyMzlh",
+  "snapshot_id": "MTY2NzAyNzg1OCwwMDAwMDAwMGQ2M2UyNDUyYWU2NWI0MzU5OGFhMzYxMzcyODdkNTkw",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Fight On My Knees",
-        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Fight On My Knees",
-      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Soul Worth Saving",
         "url": "https://open.spotify.com/album/252KuqNw7Z2Q1Otew5IySn"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 226650,
       "name": "Soul Worth Saving",
       "url": "https://open.spotify.com/track/5qzTeetyjgqMLV3CWOFqiD"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Fight On My Knees",
+        "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Fight On My Knees",
+      "url": "https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Left It In The Water",
-        "url": "https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Left It In The Water - Edit",
-      "url": "https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Left It In The Water",
+        "url": "https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Left It In The Water - Edit",
+      "url": "https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Let It Roll",
-        "url": "https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 228219,
-      "name": "Let It Roll",
-      "url": "https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Life Again",
         "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 264428,
       "name": "Life Again",
       "url": "https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Let It Roll",
+        "url": "https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 228219,
+      "name": "Let It Roll",
+      "url": "https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
-        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
-      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Long Way Home (From The Motion Picture \u201cFather Stu\u201d)",
+        "url": "https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Long Way Home - From The Motion Picture \u201cFather Stu\u201d",
+      "url": "https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
@@ -1467,26 +1467,6 @@
       "duration_ms": 238757,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "Show Up Choose Love",
-        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Show Up Choose Love (feat. Jon Reddick)",
-      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1519,6 +1499,26 @@
       "duration_ms": 206576,
       "name": "On And On - Radio",
       "url": "https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Show Up Choose Love",
+        "url": "https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Show Up Choose Love (feat. Jon Reddick)",
+      "url": "https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Love Won\u2019t Let Go",
-        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
-      },
-      "artists": [
-        {
-          "name": "Branan Murphy",
-          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
-        }
-      ],
-      "duration_ms": 198379,
-      "name": "Love Won\u2019t Let Go",
-      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Into The Wild",
         "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 168096,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/7xyXxjGU6p5nBJi2mB198Y"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Love Won\u2019t Let Go",
+        "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "duration_ms": 198379,
+      "name": "Love Won\u2019t Let Go",
+      "url": "https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "God Thing",
-        "url": "https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "God Thing",
-      "url": "https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
       },
@@ -1711,6 +1695,26 @@
       "duration_ms": 252520,
       "name": "Love Over Religion",
       "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     }
   ],
   "unique_name": "Sing A New Song",

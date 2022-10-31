@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,093 likes - 37 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,128 likes - 37 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 25 | [Christmas is Here \(feat\. Late Night Alumni\)](https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 2:47 |
 | 26 | [2020 Christmas](https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A) | [Dominique](https://open.spotify.com/artist/3OVWX97HduBB6SriNxtiQ8) | [2020 Christmas](https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq) | 2:05 |
 | 27 | [Wonderful Time](https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N) | [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Wonderful Time](https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL) | 2:41 |
-| 28 | [Jingle Bells x Deck The Halls](https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU) | [Jingle Bells x Deck The Halls](https://open.spotify.com/album/0B7jS47Ev3FwKRnYlYP6VP) | 2:37 |
-| 29 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
+| 28 | [Jingle Bells](https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs) | [Wubbaduck](https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT) | [Jingle Bells](https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz) | 2:30 |
+| 29 | [Jingle Bells x Deck The Halls](https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m), [Khalil Ramos](https://open.spotify.com/artist/5PuOmp0NiyY5kU1fgccHxU) | [Jingle Bells x Deck The Halls](https://open.spotify.com/album/0B7jS47Ev3FwKRnYlYP6VP) | 2:37 |
 | 30 | [Last Christmas](https://open.spotify.com/track/0bYRQ4kQY4Cu4C7aQYKLMC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Last Christmas](https://open.spotify.com/album/6EJYgzbcpvJRkdbRjfHuiu) | 3:53 |
 | 31 | [Christmas Bounce](https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Christmas Bounce](https://open.spotify.com/album/4e1IEmkrCmWcSvaGCtHLRw) | 2:53 |
 | 32 | [Santa Baby \(feat\. Jane XØ\)](https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 |
 | 37 | [Rock Them Bells](https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Jesse Slayter](https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT) | [A Very Very Decent Christmas](https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt) | 3:15 |
 
-Snapshot ID: `MTY2NjYwMzkyNywwMDAwMDAwMDg2MGI1YzA2YWUwM2VkZDgyYTQ0ZjZiZDg5ZDgwODFl`
+Snapshot ID: `MTY2NjYwMzkyNywwMDAwMDAwMDhiZDgxNjA2NTNiNDgzZTBiMzg1NTc4NGZmNWY5Njdi`

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 104360,
+  "num_followers": 104380,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMGJlMzU4Njg0Yzc4ZDkzYTAyZmMwNzA5OGUwZGI5NzVi",
+  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMGU2YWM3Mzk3OTVlMDA2YWRiZDI0MGMzYzA0MThmMTNl",
   "tracks": [
     {
       "added_at": "2022-10-26 03:00:00",
@@ -407,30 +407,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
-      },
-      "artists": [
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 172794,
-      "name": "+ 1 Minuto",
-      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/7AWmeGS2m6VEeAAUbW4upq"
+      },
+      "artists": [
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 172794,
+      "name": "+ 1 Minuto",
+      "url": "https://open.spotify.com/track/31UbXsSRMDhTnue6NAw22i"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -755,22 +755,18 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
         }
       ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -795,18 +791,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -923,30 +923,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "AMAR \u00e9 para os FORTES",
-        "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Anna Majidson",
-          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "DEPOIS DA TEMPESTADE}",
-      "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "Carinhoso",
         "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 170288,
       "name": "Mais Uma de Carnaval",
       "url": "https://open.spotify.com/track/2xWRAo3t3gFZr05I9yC8WM"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
+        "name": "AMAR \u00e9 para os FORTES",
+        "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "DEPOIS DA TEMPESTADE}",
+      "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
     },
     {
       "added_at": "2022-10-26 03:00:00",

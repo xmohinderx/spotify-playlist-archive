@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-183 songs - 10 hr 32 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+184 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Darling This Isn't](https://open.spotify.com/track/6rpTwGaP1NcNVcFIsQivk4) | [Sorry, Peach](https://open.spotify.com/artist/6kDkKl4Yf2uYYzNxx83aTO), [Honest Creature](https://open.spotify.com/artist/3g7dxn32LcEGhZqHCGi05D) | [Darling This Isn't](https://open.spotify.com/album/7nzsRmhctJd08I0q6sE6k0) | 3:13 | 2022-05-30 | 2022-07-29 |
 | [Days That End in Y](https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [Days That End in Y](https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2) | 2:22 | 2022-05-30 |  |
 | [Dear You \(Act III\)](https://open.spotify.com/track/1Li7RAL8KcNUgLL2DdCuaN) | [shye.](https://open.spotify.com/artist/5SBFpt9Gz53LckT9guA7AS), [Nikita Afonso](https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe) | [Dear You \(Act III\)](https://open.spotify.com/album/56u1zlkOSdeqzWkkTgp75j) | 3:35 | 2022-05-30 | 2022-07-28 |
+| [Deny Me](https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Deny Me](https://open.spotify.com/album/4603uGOYACGfWZho5limbs) | 5:07 | 2022-10-31 |  |
 | [Derek's Song](https://open.spotify.com/track/7BJSeJ9Y5GTKAVXEliENbd) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [Derek's Song](https://open.spotify.com/album/1OidglOWIYDhCy8LTw81y3) | 3:28 | 2022-05-30 | 2022-07-29 |
 | [Did We Miss the Morning?](https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Give Me Something](https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6) | 2:54 | 2022-06-24 | 2022-09-10 |
 | [Dig Deep \- Acoustic Version](https://open.spotify.com/track/1L6rZhpvEMnNLPnUYEU6q4) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Dig Deep \(Acoustic Version\)](https://open.spotify.com/album/7ay5jbQDxnf7Q8DsRue96u) | 3:35 | 2022-05-30 | 2022-07-29 |
@@ -130,7 +131,7 @@
 | [OK](https://open.spotify.com/track/7dWHp7cExG7vL34i5v5hxC) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/0BIuEAg3nDClb11R1SNTyM) | 3:32 | 2022-05-30 | 2022-07-29 |
 | [Orange Sky](https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Four Songs](https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW) | 6:19 | 2022-06-24 |  |
 | [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/1azIfG185DTR8QqLdYHcfY) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/4zV1v3OwcvWb13KSvq4Kbi) | 3:49 | 2022-05-30 | 2022-07-27 |
-| [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 | 2022-06-24 |  |
+| [Paradise \(with Olivia Holt\) \- Acoustic](https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98) | [Brandon Beal](https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu), [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Paradise \(with Olivia Holt\) \[Acoustic\]](https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ) | 3:49 | 2022-06-24 | 2022-10-31 |
 | [Pink \- Live & Acoustic](https://open.spotify.com/track/3aMQ9BrSy2CgCblyimQFtm) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pink \(Live & Acoustic\)](https://open.spotify.com/album/3w1v9vCaFEd8qFzLFTGkTi) | 3:47 | 2022-05-30 | 2022-07-29 |
 | [Pink \- Live & Acoustic](https://open.spotify.com/track/5PjhxJQOcS6XMSIydhsMBe) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Live from the Village \(Acoustic\)](https://open.spotify.com/album/2yPd47Gm4znFqjaC8QzbRq) | 3:47 | 2022-06-24 |  |
 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2022-05-30 |  |

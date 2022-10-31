@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-241 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
+242 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/3vMk9zjuuRtPgQLPS55xS3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Higher Ground](https://open.spotify.com/track/6uGKLZ6z8ogdfDRDwOReTf) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Episode 1 \- EP](https://open.spotify.com/album/2fARr0hI02WNfm4vL6MsWx) | 3:06 | 2021-10-31 |  |
 | [Higher Than Mine](https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Higher Than Mine](https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN) | 3:05 | 2021-10-31 |  |
 | [Hold On](https://open.spotify.com/track/4mTSFX7iAk4JN3IHu1qghA) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Hold On](https://open.spotify.com/album/2qJLcPbOmq2x6Cj0vOs9l5) | 3:54 | 2021-10-31 | 2022-05-06 |
+| [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2021-10-31 |  |
 | [How You Love](https://open.spotify.com/track/1I2NEALPO5AC8mhgiXyBuV) | [Marci Coleman](https://open.spotify.com/artist/1aaF5ghHXxc7ArAYYHEWAs) | [How You Love](https://open.spotify.com/album/2eFIRZLzXKmFXsck5wNVyO) | 3:57 | 2021-10-31 | 2022-03-18 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/2NwLHtXx1LDo3wmjDbQVUH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Matthew Parker Remix\)](https://open.spotify.com/album/6ZIZXM1DADD0cdLNv654k8) | 4:05 | 2021-10-31 | 2022-06-05 |
 | [Human \(Matthew Parker Remix\)](https://open.spotify.com/track/5Vrm9AmA4OabpgwcHdLvFc) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Human \(Deluxe Edition\)](https://open.spotify.com/album/6GVLKFf3wY3iqtSvIRkznK) | 4:05 | 2021-10-31 | 2022-07-17 |
@@ -122,7 +123,7 @@
 | [I Need You](https://open.spotify.com/track/5FH4htVArJA0PMPnTtI8iT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Feared By Hell](https://open.spotify.com/album/4SzRSzmKDSJiCe4WHyAwjc) | 2:37 | 2021-10-31 | 2022-07-10 |
 | [I See You](https://open.spotify.com/track/709TAwgu9RUtiPLVgmZP71) | [Natalie Cleveland](https://open.spotify.com/artist/1vMDnKZvPdfoF3quGrgTi5) | [I See You](https://open.spotify.com/album/0XrKnCiGuRfD5rrB1fynVQ) | 3:27 | 2021-10-31 | 2022-05-16 |
 | [I Will Wait](https://open.spotify.com/track/62sxM2Uha39CysCoVcoGKT) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [I Will Wait](https://open.spotify.com/album/4tOoPNp8aBjo696qCtaxFk) | 3:19 | 2021-10-31 | 2022-07-27 |
-| [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 | 2021-10-31 |  |
+| [I Will Wait](https://open.spotify.com/track/2wkwB6NDsTpt1hBweJmFW5) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Better King](https://open.spotify.com/album/4cVPPMx15HZ4HHpsB7Vcf8) | 3:19 | 2021-10-31 | 2022-10-31 |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2021-10-31 |  |
 | [If You Only Knew!](https://open.spotify.com/track/2iRRQUaxQ1OjbGwymK1Fwb) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [If You Only Knew!](https://open.spotify.com/album/5pnN1A9ab2o78lXfuoYeYd) | 2:50 | 2021-10-31 |  |
 | [It's Gonna Get Better](https://open.spotify.com/track/4xq5lrkKBwpT8QB0iiBjSp) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [It's Gonna Get Better](https://open.spotify.com/album/6ZXqQXiHmTfQQIC1MOC9lI) | 3:36 | 2021-10-31 | 2022-07-28 |

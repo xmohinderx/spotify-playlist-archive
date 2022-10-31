@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-524 songs - 1 day 3 hr 25 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+525 songs - 1 day 3 hr 28 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-01 |  |
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 |  |
-| [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 |  |
+| [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 | 2022-10-31 |
 | [Malibu](https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Malibu](https://open.spotify.com/album/27kBIneDwz5OgFKNkv0HKG) | 2:27 | 2022-09-30 |  |
 | [Memories \- Remix](https://open.spotify.com/track/2HNVCgBarGerVr2NhfYIVl) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Remix Tape](https://open.spotify.com/album/5p7mlL4Sx5QaOmPFL0Lyxu) | 3:00 | 2022-01-14 | 2022-07-29 |
 | [Messiah](https://open.spotify.com/track/3876zu2BcDL39vLkkJGKLZ) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Messiah \(The Mixes\)](https://open.spotify.com/album/7jIoj0HfLJpyzq5aDN1gPh) | 3:04 | 2022-01-14 | 2022-04-20 |
@@ -326,6 +326,7 @@
 | [No Diggity](https://open.spotify.com/track/79T9m6YkRCgP0955CE4UCd) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [No Diggity](https://open.spotify.com/album/42vpQq9br7zBjdcX1cGiIA) | 3:08 | 2022-01-14 | 2022-04-21 |
 | [No Matter Where](https://open.spotify.com/track/4xhpJoHBX3MN7SKkfGjCZU) | [Michael FAY](https://open.spotify.com/artist/0VGxVDRb7Ut8eN2xL7kVXi), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [No Matter Where](https://open.spotify.com/album/1buhmZffcDbvHUa47jjRnH) | 2:52 | 2022-09-02 |  |
 | [No Real Love](https://open.spotify.com/track/07B412zMWZRzwQO1M0ITKB) | [Exed](https://open.spotify.com/artist/3Wqw8JE2LIMDn9xaRL3tOI), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr) | [No Real Love](https://open.spotify.com/album/6J8MhEsBZ7CH5mO423HANi) | 3:07 | 2022-07-22 | 2022-09-03 |
+| [Nobody Else](https://open.spotify.com/track/4qehUdZCqaYo13JrUUrbEm) | [Ljung](https://open.spotify.com/artist/67Tfj03cthIyRsQLHqwI3V), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Nobody Else](https://open.spotify.com/album/0Ct642qUuKNneMDUyYtRnM) | 2:58 | 2022-10-28 |  |
 | [ocean breeze](https://open.spotify.com/track/7Lo9HVc9pwHsgEIAa4NZr0) | [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [ocean breeze](https://open.spotify.com/album/3MxCfS3YK8Xn4p8WRuXzH6) | 1:57 | 2022-04-01 | 2022-10-16 |
 | [Ocean Drive](https://open.spotify.com/track/0k93MXOj0kSXo84SvSDeUz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Ocean Drive](https://open.spotify.com/album/1jlUEbR1VEEGzjK47Xk1gT) | 3:26 | 2022-01-14 | 2022-04-21 |
 | [Ocean Drive](https://open.spotify.com/track/3oFlOq7krfPMUPT4tVrz6o) | [Sole Sole](https://open.spotify.com/artist/4yXtr3OVVcpDlFomRRVM7Z) | [Ocean Drive](https://open.spotify.com/album/0zXUlS0WMGvTIFcB4khZAa) | 2:40 | 2022-04-01 | 2022-07-29 |

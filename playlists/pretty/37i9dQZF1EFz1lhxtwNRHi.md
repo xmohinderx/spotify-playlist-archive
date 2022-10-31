@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0wm02dqR3fjZoHxxNzB85l">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287 likes - 141 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,288 likes - 141 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 21 | [Wonderful Life \(Mi Oh My\) \- From the Angry Birds Movie Original Motion Picture Soundtrack](https://open.spotify.com/track/3s2FxrA4ZXbTR6SlH6LXh9) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Wonderful Life \(Mi Oh My\) \[From the Angry Birds Movie Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2TUIZ6xGn04sMd96KbPVnW) | 3:30 |
 | 22 | [Girls Talk Boys \- From "Ghostbusters" Original Motion Picture Soundtrack](https://open.spotify.com/track/5XWmfpinsT4XbfFsUASSaG) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Girls Talk Boys \(From "Ghostbusters" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YREBUbJTPWQWmjxuJ6h77) | 3:36 |
 | 23 | [Understand](https://open.spotify.com/track/4IiHCtnfw8tZasAeocWqVe) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 5:00 |
-| 24 | [Pray](https://open.spotify.com/track/7vl6ANTdLHg94AvCYXiSIw) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 3:20 |
+| 24 | [Pray \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/3xDU1hmNvH6VfD4qctChIq) | [JRY](https://open.spotify.com/artist/6r514fXAl2fe5cHF6HKOHW), [Rooty](https://open.spotify.com/artist/720RCq9SXgR5AnA4t3hxld) | [Sex Music](https://open.spotify.com/album/6hHYy8Gc4dOtfyXjwhx4nD) | 3:20 |
 | 25 | [O.D.D.](https://open.spotify.com/track/1HuIahUPUXCx7Kz4rgMXFU) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:42 |
 | 26 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 27 | [Summer Nights](https://open.spotify.com/track/6Mq704d8DJi7r8zEsONOKI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Town Called Paradise \(Japan Special Edition\)](https://open.spotify.com/album/473olrWTIYqylqGEVlS9t7) | 3:10 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 140 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 141 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjc3ODQ4NjgsMDAwMDAwMDA4ZTc0MGFiNzUzOGYyNzY0MWFhZDU3NmJmYWFjZmY2NQ==`
+Snapshot ID: `Mjc3ODYzMDgsMDAwMDAwMDA5ZDQ3ODkxYTM5YzMyNzk1YTBlMDQ0MDNlMGQ2ZTJmNg==`

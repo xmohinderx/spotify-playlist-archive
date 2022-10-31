@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
-  "num_followers": 481444,
+  "num_followers": 481577,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMDVmZjZmMWEzYTRkODIzZjM1NmFiZjZiOWU4ZDI5YjQ2",
+  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMGQxOTVhN2Q0NTcyMTZmZDk0MjA1YThlMWY3YjFkOGQw",
   "tracks": [
     {
       "added_at": "2022-03-08 19:58:52",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
-      "added_at": "2022-09-09 18:41:47",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
       "added_at": "2022-03-08 19:58:52",
       "album": {
         "name": "Stompin' At The Savoy",
@@ -611,6 +595,22 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
+    },
+    {
+      "added_at": "2022-09-09 18:41:47",
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-03-08 19:58:52",

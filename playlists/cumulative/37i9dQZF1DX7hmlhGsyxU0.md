@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-148 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+149 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-10 |  |
 | [Ad Infinitum](https://open.spotify.com/track/3sGAvKDYyY93h33E0XGYHd) | [Vincent Isler](https://open.spotify.com/artist/0rHKPUvWd7z8fAIhIpfJMj) | [Ad Infinitum](https://open.spotify.com/album/5CDChnLtuxj0ALvP9GqjfA) | 3:11 | 2022-04-01 |  |
 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 | 2022-04-01 | 2022-07-28 |
+| [Alleluia](https://open.spotify.com/track/4y9K2DWq34Dvl0ZIQpKWIY) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC), [Brenda J Johnson](https://open.spotify.com/artist/31Z4VufQz8ghh6tjrFBACH) | [Alleluia](https://open.spotify.com/album/7EvQEwTKIBBDYj3ZmNEdaQ) | 4:38 | 2022-09-02 |  |
 | [Alleluia](https://open.spotify.com/track/65vrADksDXfMKF5GhWO0BJ) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC), [Brenda J Johnson](https://open.spotify.com/artist/31Z4VufQz8ghh6tjrFBACH) | [Alleluia](https://open.spotify.com/album/0IhqRj6DR2onxdysxhkvMz) | 4:38 | 2022-04-01 | 2022-09-17 |
 | [Alone](https://open.spotify.com/track/7zZhAVT4FOl5JUd9Q7sZCL) | [Michael Coltham](https://open.spotify.com/artist/5T664fmEeBDgjy6BbfXYJd) | [Alone](https://open.spotify.com/album/67hrCzvkSsERGf3vtRsXeu) | 3:48 | 2022-04-01 |  |
 | [Andantino](https://open.spotify.com/track/1fua82IUHQFp7p6wvAQlHX) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 3:56 | 2022-04-01 | 2022-04-21 |
@@ -98,7 +99,7 @@
 | [No Letters Have Come](https://open.spotify.com/track/7E7w3cVm9t07hpCWWGzaTE) | [Arpad Balazs](https://open.spotify.com/artist/719l2CEZbDzxB5rhGbprrx), [Andras Farkas Jr\. Ensemble](https://open.spotify.com/artist/6keF6lcJL7o365xcNJftHn), [Andras Farkas](https://open.spotify.com/artist/3ayIkvtBR9osJfNXtUjdmR) | [Andras Farkas Jr\. Ensemble: Czardas! \- Best of Hungarian Gypsy Tunes](https://open.spotify.com/album/6PvRZPPYkLmXEbnYrTpoDb) | 3:18 | 2022-04-01 | 2022-07-18 |
 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 | 2022-04-01 |  |
 | [Northern Moon](https://open.spotify.com/track/047dIL5wrApvaEO1RCiSwX) | [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Shadows And Horizons](https://open.spotify.com/album/64MnY6yTXNrsRv0raxa8Ao) | 2:09 | 2022-04-01 | 2022-10-22 |
-| [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 | 2022-04-01 |  |
+| [November Sea](https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw) | [Leo Einaudi](https://open.spotify.com/artist/0GHoFPbzSyOcxJ2RB9YmyX) | [Balance](https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI) | 2:26 | 2022-04-01 | 2022-10-31 |
 | [Oak Returns](https://open.spotify.com/track/4NICjgGXc9Gujpv2FfeosZ) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 2:17 | 2022-04-01 | 2022-04-21 |
 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 | 2022-06-24 |  |
 | [Once Again](https://open.spotify.com/track/6SFxknzg00olqCJl4QJEyq) | [Cierna Sobre Ti](https://open.spotify.com/artist/3B4uijr2TavmmonBtJgcW9) | [Once Again](https://open.spotify.com/album/2VneXLzvhPk5Wwn3rxSh1c) | 2:20 | 2022-07-15 |  |

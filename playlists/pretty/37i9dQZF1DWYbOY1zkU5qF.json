@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 111993,
+  "num_followers": 112086,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDcyNTM1MDkyOGQ5MzU4MjQ5NTg4ZjIyYjg5MTFhZjhl",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDNmN2NjOWRhMzJhMmFjY2U5MDM5NTEyMTFlZWQ4OTM0",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Vaina Loca",
-        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
-      },
-      "artists": [
-        {
-          "name": "JayBe",
-          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
-        }
-      ],
-      "duration_ms": 96259,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis Versiones 2",
         "url": "https://open.spotify.com/album/0RgAzvo0x81j4e3jReu4SE"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213000,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Vaina Loca",
+        "url": "https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS"
+      },
+      "artists": [
+        {
+          "name": "JayBe",
+          "url": "https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds"
+        }
+      ],
+      "duration_ms": 96259,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -851,22 +851,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
+        "name": "Cien A\u00f1os",
+        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
       },
       "artists": [
         {
-          "name": "Miky Mendozza",
-          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
-        },
-        {
-          "name": "Diego Amoz",
-          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 125354,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -887,18 +883,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/3zQPzTTmpOxHgPuE9FKqru"
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/2slx4sczbHiZEFALNFW71z"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+          "name": "Miky Mendozza",
+          "url": "https://open.spotify.com/artist/7iJNYh5D6FchEeryIG87vL"
+        },
+        {
+          "name": "Diego Amoz",
+          "url": "https://open.spotify.com/artist/40eNb3QTIcFoH0ga3LTnlN"
         }
       ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/2c0EWHhuCALHaSwzaTkR6z"
+      "duration_ms": 125354,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/3nzQ1oTlpb03DGy5CYk9yT"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Con la miel en los labios",
-        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
+        "name": "La Noche De Anoche",
+        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
       },
       "artists": [
         {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+          "name": "Perdita Cazalla",
+          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
         }
       ],
-      "duration_ms": 210136,
-      "name": "Con la miel en los labios",
-      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
+      "duration_ms": 173661,
+      "name": "La Noche De Anoche",
+      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Noche De Anoche",
-        "url": "https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh"
+        "name": "Con la miel en los labios",
+        "url": "https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi"
       },
       "artists": [
         {
-          "name": "Perdita Cazalla",
-          "url": "https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn"
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
         }
       ],
-      "duration_ms": 173661,
-      "name": "La Noche De Anoche",
-      "url": "https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j"
+      "duration_ms": 210136,
+      "name": "Con la miel en los labios",
+      "url": "https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cristina",
-        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
-      },
-      "artists": [
-        {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
-        }
-      ],
-      "duration_ms": 221159,
-      "name": "Cristina",
-      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 284332,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cristina",
+        "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 221159,
+      "name": "Cristina",
+      "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
     },
     {
       "added_at": "2022-02-18 06:00:00",

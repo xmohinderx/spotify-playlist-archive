@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 801878,
+  "num_followers": 802264,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMDM3NmIxM2EzMThkODc1Y2MyZGE0MTJlYWYwNGMwNDlk",
+  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMGY1NGQ2MDJmNDU0MDI5NzRkYjA0N2UzMmQ4NDhmNTVh",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-10-30 01:50:30",
+      "added_at": "2022-10-31 01:50:12",
       "album": {
         "name": "Chameleons",
         "url": "https://open.spotify.com/album/4bZLJJlvkGpCV0n8xU2duC"
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Jinx",
-        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
-      },
-      "artists": [
-        {
-          "name": "Crumb",
-          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Part III",
-      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Minds Of Our Own",
         "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 217666,
       "name": "Friends",
       "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Part III",
+      "url": "https://open.spotify.com/track/49ztutPq82dK8AYDO2OkN7"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "After School Club",
+        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
         }
       ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
+      "duration_ms": 254284,
+      "name": "Ruby Sparks",
+      "url": "https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "After School Club",
-        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 254284,
-      "name": "Ruby Sparks",
-      "url": "https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN"
+      "duration_ms": 270945,
+      "name": "Thin Thing",
+      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
+        "name": "TECHNICOLOR",
+        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
       },
       "artists": [
         {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
         }
       ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
+      "duration_ms": 188143,
+      "name": "FEEL LIKE",
+      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "TECHNICOLOR",
-        "url": "https://open.spotify.com/album/6tVteBwrmcuOCe3HT7ToCb"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 188143,
-      "name": "FEEL LIKE",
-      "url": "https://open.spotify.com/track/3OEWE9trIOubK63fNhjKk1"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "The Cart",
         "url": "https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 291739,
       "name": "Dreams Via Memories",
       "url": "https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
+      },
+      "artists": [
+        {
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
+        }
+      ],
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+        "name": "MAHAL",
+        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Top Steppa",
-      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+      "duration_ms": 187302,
+      "name": "The Medium",
+      "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1055,22 +1059,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "MAHAL",
-        "url": "https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR"
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 187302,
-      "name": "The Medium",
-      "url": "https://open.spotify.com/track/3LtlQb74pLqC5KsllxIXoV"
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Apoptosis",
+        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 174363,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Apoptosis",
-        "url": "https://open.spotify.com/album/0yo761HLE61km3nqhoCNsq"
+        "name": "Fun Times",
+        "url": "https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi"
       },
       "artists": [
         {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
         }
       ],
-      "duration_ms": 174363,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/7ntbVb2c5nTk2UwM4pBFIw"
+      "duration_ms": 165434,
+      "name": "When She's Gone",
+      "url": "https://open.spotify.com/track/3eDjyFYNaHlHb30i8ai9qx"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1167,22 +1183,6 @@
       "duration_ms": 184256,
       "name": "Under No Nation - Radio Edit",
       "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Fun Times",
-        "url": "https://open.spotify.com/album/0lD6GKaZayk6uyAQVQbQHi"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 165434,
-      "name": "When She's Gone",
-      "url": "https://open.spotify.com/track/3eDjyFYNaHlHb30i8ai9qx"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
-      },
-      "artists": [
-        {
-          "name": "Sam Austins",
-          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
-        }
-      ],
-      "duration_ms": 196964,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Madison",
         "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/1ADdB9S5nwi0sM35WYzIGi"
+      },
+      "artists": [
+        {
+          "name": "Sam Austins",
+          "url": "https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V"
+        }
+      ],
+      "duration_ms": 196964,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/2uvwRdYOa3e5Z87JAtPK3Y"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Optical Wealth + Fox in a Hole",
         "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 181521,
       "name": "Optical Wealth",
       "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1299,22 +1315,6 @@
       "duration_ms": 175657,
       "name": "Blacklight Shine",
       "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "THE DOOR",
-        "url": "https://open.spotify.com/album/7g8ldlK6mpYfe9kKdyz3vh"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "THE DOOR IS CLOSING",
-      "url": "https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Being No One, Going Nowhere",
         "url": "https://open.spotify.com/album/5GOHOQxjLxkcW9oXPJChBf"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 276413,
       "name": "Maps",
       "url": "https://open.spotify.com/track/75fKUcetc638W5uJVF3X7M"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "THE DOOR",
+        "url": "https://open.spotify.com/album/7g8ldlK6mpYfe9kKdyz3vh"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+        }
+      ],
+      "duration_ms": 177005,
+      "name": "THE DOOR IS CLOSING",
+      "url": "https://open.spotify.com/track/2mHD4qUZMC4xBouFAiwwDt"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1499,6 +1499,30 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 187131,
+      "name": "Steal This Mug",
+      "url": "https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Tears of Change",
         "url": "https://open.spotify.com/album/7AIdAe6CcQC3CLdJxY4gXl"
       },
@@ -1551,26 +1575,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+        "name": "The Garden Series",
+        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
       },
       "artists": [
         {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+          "name": "Post Animal",
+          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
         }
       ],
-      "duration_ms": 187131,
-      "name": "Steal This Mug",
-      "url": "https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x"
+      "duration_ms": 323200,
+      "name": "When I Get Home",
+      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "play it pretty",
-        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "dirty claws",
-      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
       },
@@ -1623,34 +1623,34 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Garden Series",
-        "url": "https://open.spotify.com/album/4CQXdBOTPDyxIfQ7x99bwA"
+        "name": "play it pretty",
+        "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
       },
       "artists": [
         {
-          "name": "Post Animal",
-          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
         }
       ],
-      "duration_ms": 323200,
-      "name": "When I Get Home",
-      "url": "https://open.spotify.com/track/2rY4NvZAyYJi8Gvcp0pSI6"
+      "duration_ms": 236000,
+      "name": "dirty claws",
+      "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
     },
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Earth Worship",
-        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
+        "name": "Going Going Gone",
+        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
       },
       "artists": [
         {
-          "name": "Rubblebucket",
-          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
         }
       ],
-      "duration_ms": 217530,
-      "name": "Earth Worship",
-      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
+      "duration_ms": 184893,
+      "name": "Dionysian State",
+      "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Going Going Gone",
-        "url": "https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl"
+        "name": "Earth Worship",
+        "url": "https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA"
       },
       "artists": [
         {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+          "name": "Rubblebucket",
+          "url": "https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Dionysian State",
-      "url": "https://open.spotify.com/track/6F8cfrZbKX2CvTxfxq2T4B"
+      "duration_ms": 217530,
+      "name": "Earth Worship",
+      "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
     },
     {
       "added_at": "2022-10-24 21:28:36",

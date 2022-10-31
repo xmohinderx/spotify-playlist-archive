@@ -1,12 +1,12 @@
 {
   "description": "A collision of punk, metal, hardcore and everything in between. Cover: Drug Church",
-  "num_followers": 439324,
+  "num_followers": 439328,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMDdkZjE2MmIwYjI0YmU2ODcxY2Y3NjJkZmY3YWRhMDdj",
+  "snapshot_id": "MTY2NDcxMTUxNCwwMDAwMDAwMGZjNzU2Njk3YTk5YjJlZDA2YzAzYWNjNzJjZWNjN2Ey",
   "tracks": [
     {
       "added_at": "2022-04-01 16:19:20",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/1tBghD5Z8rBeN7eHDXLamy"
     },
     {
-      "added_at": "2022-04-25 13:33:10",
-      "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
       "added_at": "2022-04-01 16:19:20",
       "album": {
         "name": "Manic",
@@ -107,6 +91,22 @@
       "duration_ms": 215346,
       "name": "Circle The Drain",
       "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+    },
+    {
+      "added_at": "2022-04-25 13:33:10",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "DEATH (Ever Colder)",
-        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "DEATH (Ever Colder)",
-      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Finding God Before God Finds Me (Deluxe)",
         "url": "https://open.spotify.com/album/0fPsaPPbXurVDqFC2qE0Bo"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 261398,
       "name": "Come Undone",
       "url": "https://open.spotify.com/track/4VawjkyqRKLCAj9BwMPyal"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Like a Shadow",
-      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Beautiful Death",
         "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 225493,
       "name": "Let This Haunt You",
       "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Like a Shadow",
+      "url": "https://open.spotify.com/track/5AEMIxJzEsZhdJMWattYUq"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/6ANgmUwBRAm45qW9yrhRQP"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 208920,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/2PjFzTXf8StVOYm25uWvW4"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg"
     },
     {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Barely Alive",
-        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "Red",
-      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
-    },
-    {
       "added_at": "2022-04-25 13:33:10",
       "album": {
         "name": "Bob Vylan Presents The Price Of Life",
@@ -1151,6 +1135,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Barely Alive",
+        "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Return of the Arsonist",
         "url": "https://open.spotify.com/album/2A1RY2fEJAucP1uAiGL5nb"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Crown Shyness",
         "url": "https://open.spotify.com/album/4bci7acXrvSqeJpRsOAJpW"
       },
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 179600,
       "name": "Distance",
       "url": "https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "The Dead Days",
-        "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
-      },
-      "artists": [
-        {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
-        }
-      ],
-      "duration_ms": 212832,
-      "name": "Hell Is Where The Heart Is",
-      "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "The Dead Days",
+        "url": "https://open.spotify.com/album/08M2nrcIACOFrgkjprl4Zn"
+      },
+      "artists": [
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
+        }
+      ],
+      "duration_ms": 212832,
+      "name": "Hell Is Where The Heart Is",
+      "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
     },
     {
       "added_at": "2022-04-01 16:19:20",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-04-01 16:19:20",
       "album": {
-        "name": "Don't Leave Me This Way",
-        "url": "https://open.spotify.com/album/4EJEijJaV4KjMc1niyqoyV"
-      },
-      "artists": [
-        {
-          "name": "Ocean Sleeper",
-          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
-        }
-      ],
-      "duration_ms": 200858,
-      "name": "Sleep Life Away",
-      "url": "https://open.spotify.com/track/360n8IiJdbrlRelrPRsd5n"
-    },
-    {
-      "added_at": "2022-04-01 16:19:20",
-      "album": {
         "name": "Back Then",
         "url": "https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 222937,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9"
+    },
+    {
+      "added_at": "2022-04-01 16:19:20",
+      "album": {
+        "name": "Don't Leave Me This Way",
+        "url": "https://open.spotify.com/album/4EJEijJaV4KjMc1niyqoyV"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 200858,
+      "name": "Sleep Life Away",
+      "url": "https://open.spotify.com/track/360n8IiJdbrlRelrPRsd5n"
     }
   ],
   "unique_name": "Crash Course",

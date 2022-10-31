@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Jack Moves
 
-126 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
+127 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/3MDELIW3DwuUOwrVCjFaSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Only U \- Original Mix](https://open.spotify.com/track/3TTEzp4OfO0nKcBlO8NstK) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Only U](https://open.spotify.com/album/4rR53leHib9wW0G4C8wFM0) | 3:14 | 2021-08-20 | 2022-10-22 |
 | [Over You](https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Over You](https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn) | 6:37 | 2022-01-07 | 2022-10-29 |
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 | 2022-09-02 |  |
-| [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 | 2022-01-28 |  |
+| [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 | 2022-01-28 |  |
+| [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 | 2022-01-28 | 2022-10-31 |
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-28 |  |
 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 |  |

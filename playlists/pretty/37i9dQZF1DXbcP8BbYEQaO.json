@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 156728,
+  "num_followers": 156845,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY2MTAxZjI4MzM1ZjI3ZWYyY2VkMjhhNTMxMzdkOTY0",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGYyYThmYTVlZTFmMjFlMWJiZjMzZDdlNmJmMTE4MTI4",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Diamonds (feat. Aleyna Tilki)",
         "url": "https://open.spotify.com/album/3LNntOoLKspcyfwiYpQZ8o"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 168196,
       "name": "Diamonds (feat. Aleyna Tilki)",
       "url": "https://open.spotify.com/track/2akrIna6A1btLmjPBN8YKI"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -483,6 +483,38 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Iridium",
+        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 166797,
+      "name": "Iridium",
+      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Sting",
         "url": "https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR"
       },
@@ -535,22 +567,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Exscape",
-        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -563,6 +579,22 @@
       "duration_ms": 189373,
       "name": "Constant Repeat",
       "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -599,22 +631,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Iridium",
-        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
+        "name": "PULSE",
+        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
         }
       ],
-      "duration_ms": 166797,
-      "name": "Iridium",
-      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
+      "duration_ms": 189000,
+      "name": "PULSE",
+      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -675,22 +691,6 @@
       "duration_ms": 185893,
       "name": "We Own The Night",
       "url": "https://open.spotify.com/track/6e9EADA7sFGSmD10zcO5cs"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "PULSE",
-        "url": "https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "PULSE",
-      "url": "https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -779,38 +779,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "pl4yg1rl",
-        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "pl4yg1rl",
-      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "No Romeo EP",
-        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "No Romeo",
-      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "The Devil You Know (feat. Micky Blue)",
         "url": "https://open.spotify.com/album/42PJrf36sVECeasPyOxVSL"
       },
@@ -831,6 +799,38 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "No Romeo EP",
+        "url": "https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "No Romeo",
+      "url": "https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "pl4yg1rl",
+        "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "pl4yg1rl",
+      "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Night Call (Deluxe)",
         "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 170319,
       "name": "Night Call",
       "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Nothing's Real",
-        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 214754,
-      "name": "What's It Gonna Be?",
-      "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -879,6 +863,22 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Nothing's Real",
+        "url": "https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "duration_ms": 214754,
+      "name": "What's It Gonna Be?",
+      "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 228711,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Coping Mechanisms",
         "url": "https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 153026,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 228711,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "AMAN",
-        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
+        "name": "cool water",
+        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
       },
       "artists": [
         {
-          "name": "Amanda Tenfjord",
-          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
         }
       ],
-      "duration_ms": 190962,
-      "name": "AMAN",
-      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
+      "duration_ms": 198750,
+      "name": "cool water",
+      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
     }
   ],
   "unique_name": "night pop",

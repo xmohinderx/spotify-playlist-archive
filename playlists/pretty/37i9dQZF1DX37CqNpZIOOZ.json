@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 16337,
+  "num_followers": 16346,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMGZkMDcxNTYyYjg1ZGM1ZTdiYTU4ZDUzZWE0ZTAyNjI3",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDMxMjUzODg1MzQzOGQ1ZjNiMDY2OTFhYjYyMzhmZWU5",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -463,6 +463,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
+      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
-      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
-        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        },
-        {
-          "name": "Andris Nelsons",
-          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
-        }
-      ],
-      "duration_ms": 928133,
-      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
-      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 1065373,
       "name": "Don Juan, Op. 20, TrV 156",
       "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
+        "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "duration_ms": 928133,
+      "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
+      "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -803,6 +803,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
+        "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Alexander Rudin",
+          "url": "https://open.spotify.com/artist/4EpHVPA3kl6dxqOMgCAvQU"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Gerhard Markson",
+          "url": "https://open.spotify.com/artist/1svWIQFwsr50zxq5jhhmAl"
+        }
+      ],
+      "duration_ms": 596640,
+      "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
+      "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Piano Trios Nos. 1 & 2",
         "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
       },
@@ -851,34 +879,6 @@
       "duration_ms": 480000,
       "name": "Arabella, Op. 79, TrV 263: Das war sehr gut, Mandryka",
       "url": "https://open.spotify.com/track/3ZKdNbMGZBPDYpPPJE4jmm"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R.: Don Quixote / Romance for Cello and Orchestra",
-        "url": "https://open.spotify.com/album/7LJ0xREZmgCSt8r1Z4cb2F"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Alexander Rudin",
-          "url": "https://open.spotify.com/artist/4EpHVPA3kl6dxqOMgCAvQU"
-        },
-        {
-          "name": "RT\u00c9 National Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
-        },
-        {
-          "name": "Gerhard Markson",
-          "url": "https://open.spotify.com/artist/1svWIQFwsr50zxq5jhhmAl"
-        }
-      ],
-      "duration_ms": 596640,
-      "name": "Romanze in F Major, TrV 118: Romance for Cello and Orchestra",
-      "url": "https://open.spotify.com/track/5GsKhvtc4KHo9cwf58lpHi"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1072,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
         }
       ],
-      "duration_ms": 981826,
-      "name": "Salome, Op. 54, TrV 215: Ah! Du wolltest mich nicht deinen Mund kussen lassen, Jochanaan!",
-      "url": "https://open.spotify.com/track/4c0SdgSoovTpynYjnafX2v"
+      "duration_ms": 904333,
+      "name": "Capriccio, Op. 85, TrV 279: Kein Andres, das mir so im Herzen loht",
+      "url": "https://open.spotify.com/track/7znTc6EpRkCepCLxEcJ66s"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1124,9 +1124,9 @@
           "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
         }
       ],
-      "duration_ms": 904333,
-      "name": "Capriccio, Op. 85, TrV 279: Kein Andres, das mir so im Herzen loht",
-      "url": "https://open.spotify.com/track/7znTc6EpRkCepCLxEcJ66s"
+      "duration_ms": 981826,
+      "name": "Salome, Op. 54, TrV 215: Ah! Du wolltest mich nicht deinen Mund kussen lassen, Jochanaan!",
+      "url": "https://open.spotify.com/track/4c0SdgSoovTpynYjnafX2v"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 327266,
       "name": "5 Lieder, Op. 39, TrV 189: No. 4. Befreit",
       "url": "https://open.spotify.com/track/4a3jCbhZo3KPvLbz8bUmMh"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3. Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2022-06-20 09:55:21",

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 35837,
+  "num_followers": 35847,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGU0Nzc2MjI1NTFkNzlhNWNhZmZkMWJmMmM0YjcxOTYw",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGJlYTg2MGM2Yzk0MTFkNjkwYWI0NzIyNWVjZjg1YzIz",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -207,22 +207,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
+      "duration_ms": 192000,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -247,6 +243,26 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -327,6 +343,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "My Friends (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW"
       },
@@ -347,26 +383,6 @@
       "duration_ms": 158167,
       "name": "My Friends (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -395,30 +411,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 223232,
-      "name": "BEAUTIFUL (feat. Future & SZA)",
-      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },
@@ -439,18 +431,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 192000,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
+      "duration_ms": 223232,
+      "name": "BEAUTIFUL (feat. Future & SZA)",
+      "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Ain\u2019t Safe (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Ain\u2019t Safe (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Trouble Deluxe Edition",
         "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
@@ -799,26 +819,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "SUVs (Black on Black)",
         "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 157675,
       "name": "SUVs (Black on Black)",
       "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -895,6 +915,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "[BUMP] Pick Me Up",
         "url": "https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM"
       },
@@ -915,26 +955,6 @@
       "duration_ms": 204434,
       "name": "[The Jackie] (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/2cny5OSTr2976U3o018GoV"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Ain\u2019t Safe (feat. Don Toliver)",
-        "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Ain\u2019t Safe (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "The Love Movement",
         "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
       },
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Nikes on My Feet",
         "url": "https://open.spotify.com/album/251tFbDekSN0fthVyqG7sL"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 164411,
       "name": "Nikes on My Feet",
       "url": "https://open.spotify.com/track/4Hq1q82uvzNxUYmgBOxPco"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Do What I Want",
-        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Do What I Want",
-      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Walkin (Key Glock remix)",
-        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/3vV1pBCY7hLtLo3jF11JfO"
       },
       "artists": [
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
-      "duration_ms": 226115,
-      "name": "Walkin - Key Glock remix",
-      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
+      "duration_ms": 171826,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 180000,
       "name": "Denial",
       "url": "https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Walkin (Key Glock remix)",
+        "url": "https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Walkin - Key Glock remix",
+      "url": "https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1623,26 +1623,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Lyricist Lounge Volume 2",
-        "url": "https://open.spotify.com/album/3ZpoX3ij0YBUeJoGfbVH0Q"
+        "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
+        "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
       },
       "artists": [
         {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 239933,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
+      "duration_ms": 227234,
+      "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
+      "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1683,34 +1691,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
-        "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
+        "name": "Lyricist Lounge Volume 2",
+        "url": "https://open.spotify.com/album/3ZpoX3ij0YBUeJoGfbVH0Q"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 227234,
-      "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
-      "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+      "duration_ms": 239933,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/3tC8SJpOwJhDg8WGG1NKGR"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Let It Breathe",
-        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Let It Breathe",
-      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Kool Aid and Frozen Pizza",
         "url": "https://open.spotify.com/album/7xHyZoZLGHVUCdZwG16Zd3"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 157737,
       "name": "Kool Aid and Frozen Pizza",
       "url": "https://open.spotify.com/track/3VmrLy4WZLHDgTXENCIz2p"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Let It Breathe",
+        "url": "https://open.spotify.com/album/6tZVnffRGdPeTtONlgRVia"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Let It Breathe",
+      "url": "https://open.spotify.com/track/0sJgYuySEv6icDbfsrIXYD"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Apt. 505",
-        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
-      },
-      "artists": [
-        {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
-        }
-      ],
-      "duration_ms": 187416,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 239954,
       "name": "Insomniak (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Apt. 505",
+        "url": "https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 187416,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Survivors Guilt",
-        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 352613,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Muddy Waters",
         "url": "https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Survivors Guilt",
+        "url": "https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 352613,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "HDIGH",
         "url": "https://open.spotify.com/album/4Rs6ULV8vvXLigedAE6FUm"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 240000,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/0la0j39Xsph1SHDUJCXJkp"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "ARE YOU WITH THAT?",
-        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 138410,
-      "name": "ARE YOU WITH THAT?",
-      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2022-10-28 03:00:00",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-266 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
+267 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Free My Mind](https://open.spotify.com/track/4mYWE9Agg0hvKuaOaej6vF) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Free My Mind](https://open.spotify.com/album/2OUYqhPPHwCd9K4u8qO9jU) | 2:51 | 2022-08-26 |  |
 | [Funky Sound](https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [HINA](https://open.spotify.com/artist/6sn3ynJRzn7OJUdW9Tzz9K) | [Funky Sound](https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR) | 2:19 | 2022-08-26 | 2022-10-16 |
 | [Get Back \(feat\. TITUS\)](https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Get Back \(feat\. TITUS\)](https://open.spotify.com/album/4qfVFlToM12oeuzk9nvuqO) | 2:40 | 2021-11-26 | 2022-07-28 |
+| [Get It](https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx) | [Afrojack presents NLW](https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Get It](https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO) | 3:11 | 2022-10-28 |  |
 | [Get This Party Jumpin'](https://open.spotify.com/track/4ynbqZykOfiYZx6OV5QJI2) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [Get This Party Jumpin'](https://open.spotify.com/album/0Hx311oNGTzDIi6eJOS4wD) | 3:22 | 2021-10-29 | 2022-10-08 |
 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2022-08-26 |  |
 | [Ghost](https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Ghost](https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4) | 2:41 | 2021-10-29 |  |
@@ -244,7 +245,7 @@
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-10-29 | 2022-08-06 |
 | [Tell Me How](https://open.spotify.com/track/4p6e7cpogv3RbcjzB1HXEZ) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Faith In Chaos](https://open.spotify.com/album/2v9CsJviAEwrbViMJV2muZ) | 3:16 | 2022-03-04 | 2022-04-20 |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2022-04-01 | 2022-08-06 |
-| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 |  |
+| [The Middle](https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K) | [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [The Middle](https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN) | 2:47 | 2022-09-09 | 2022-10-31 |
 | [The Underground](https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [The Underground](https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO) | 2:35 | 2022-07-22 | 2022-08-22 |
 | [This Is Love](https://open.spotify.com/track/0TeIpXK4mS251xn4HNbL5x) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW), [Municipal](https://open.spotify.com/artist/16Kr9q5VCyDw6elRITKlC6) | [This Is Love](https://open.spotify.com/album/5StBcXiU25jAcDmA4GOjQN) | 2:08 | 2022-04-01 | 2022-10-19 |
 | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/track/2KnOz4On4UakMbBYlfPa9K) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Jaxon Rose](https://open.spotify.com/artist/0IyRRQX0XYxwropqhXgZLz) | [Thrills \(feat\. Jaxon Rose\)](https://open.spotify.com/album/0AHVfgQ7mjSC2cocVF5uOx) | 3:22 | 2021-10-29 | 2022-09-13 |

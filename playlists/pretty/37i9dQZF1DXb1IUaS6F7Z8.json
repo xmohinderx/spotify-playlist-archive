@@ -1,12 +1,12 @@
 {
   "description": "All of the best Celtic punk tracks. Cover: The Dreadnoughts",
-  "num_followers": 328282,
+  "num_followers": 328435,
   "original_name": "Celtic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMDBmNjUxZjc1MjJlYjE3MjNlZGZkNzQ0N2NiYmY4MDRk",
+  "snapshot_id": "MTY0NzYxNTU3MSwwMDAwMDAwMGRlNGE1MjBiZjM0NmU5ODM3OTEwNDllZjc4YmUzMTZm",
   "tracks": [
     {
       "added_at": "2022-03-18 14:59:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "The Murders Three",
-        "url": "https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo"
-      },
-      "artists": [
-        {
-          "name": "Brave the Sea",
-          "url": "https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Old Maui",
-      "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "With All Due Respect: The Irish Sessions",
         "url": "https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 217066,
       "name": "Follow Me Up To Carlow",
       "url": "https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "The Murders Three",
+        "url": "https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo"
+      },
+      "artists": [
+        {
+          "name": "Brave the Sea",
+          "url": "https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Old Maui",
+      "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
     },
     {
       "added_at": "2022-03-18 14:59:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-03-18 14:59:31",
       "album": {
-        "name": "Gringo Mariachi",
-        "url": "https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S"
-      },
-      "artists": [
-        {
-          "name": "The Wages of Sin",
-          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Skull Creek Logger",
-      "url": "https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y"
-    },
-    {
-      "added_at": "2022-03-18 14:59:31",
-      "album": {
         "name": "Sobriety",
         "url": "https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 151634,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj"
+    },
+    {
+      "added_at": "2022-03-18 14:59:31",
+      "album": {
+        "name": "Gringo Mariachi",
+        "url": "https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S"
+      },
+      "artists": [
+        {
+          "name": "The Wages of Sin",
+          "url": "https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Skull Creek Logger",
+      "url": "https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y"
     },
     {
       "added_at": "2022-03-18 14:59:31",

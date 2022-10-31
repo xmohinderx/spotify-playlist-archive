@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw blues.\n",
-  "num_followers": 38171,
+  "num_followers": 38300,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2MjkzMywwMDAwMDAwMGEzY2I0ZmVjNTA2YzVlNTdjMzU2ZjE2YzFiMTY5MzQz",
+  "snapshot_id": "MTY2NTc2MjkzMywwMDAwMDAwMGMxYzBjODI1MTkyYzAxYzljNDIwYWVjMDI4N2Y2ZDZl",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:34",
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
     },
     {
-      "added_at": "2022-10-30 01:38:20",
+      "added_at": "2022-10-31 01:39:06",
       "album": {
         "name": "Rockin' With Reed",
         "url": "https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ"
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "Hear My Train A Comin' (Acoustic)",
-      "url": "https://open.spotify.com/track/5H7FF15O9yujsj79WGSF3w"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Bonnie Raitt (2008 Remaster)",
         "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 216093,
       "name": "I Ain't Blue - 2008 Remaster",
       "url": "https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Hear My Train A Comin' (Acoustic)",
+      "url": "https://open.spotify.com/track/5H7FF15O9yujsj79WGSF3w"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -583,22 +583,18 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "An Anthology",
-        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+        "name": "Unplugged (Deluxe Edition) [Live]",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Duane Allman",
-          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
         }
       ],
-      "duration_ms": 232507,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -651,6 +647,22 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
         "name": "Arms of a Lover",
         "url": "https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK"
       },
@@ -683,30 +695,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Angel In The Alleyways",
-        "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        },
-        {
-          "name": "Patti Scialfa",
-          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
-        },
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 260092,
-      "name": "Angel In The Alleyways",
-      "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -735,6 +723,30 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
+        "name": "Angel In The Alleyways",
+        "url": "https://open.spotify.com/album/0dDD5xoKda8099F4wTuByT"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 260092,
+      "name": "Angel In The Alleyways",
+      "url": "https://open.spotify.com/track/4q0iE01soDpTD7jObdxTX9"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -747,6 +759,26 @@
       "duration_ms": 214933,
       "name": "Bumble Bee",
       "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "An Anthology",
+        "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Duane Allman",
+          "url": "https://open.spotify.com/artist/3keUIwmPM4awpPxiy9ZQ1m"
+        }
+      ],
+      "duration_ms": 232507,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -767,18 +799,18 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "That's It! / Duke Recordings Vol. III",
+        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+      "duration_ms": 208000,
+      "name": "Driftin' Blues - Single Version / Stereo",
+      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -799,22 +831,6 @@
       "duration_ms": 194321,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
-        "name": "That's It! / Duke Recordings Vol. III",
-        "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Driftin' Blues - Single Version / Stereo",
-      "url": "https://open.spotify.com/track/4KVEHkTYmCxYwkat9eniQs"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "Too Wet to Plow",
-        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Shines",
-          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Travelling Back Home",
-      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Country Blues Guitar",
         "url": "https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 225640,
       "name": "Walking Blues",
       "url": "https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+        }
+      ],
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -1039,22 +1055,6 @@
       "duration_ms": 201506,
       "name": "The Easy Blues",
       "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2022-10-10 12:52:34",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-10 12:52:34",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 236182,
-      "name": "Money Talks",
-      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
-    },
-    {
-      "added_at": "2022-10-10 12:52:34",
-      "album": {
         "name": "Devil Got My Woman",
         "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 315000,
       "name": "Devil Got My Woman",
       "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+    },
+    {
+      "added_at": "2022-10-10 12:52:34",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 236182,
+      "name": "Money Talks",
+      "url": "https://open.spotify.com/track/0DXUeXEMIHA4aRI6l2X5yY"
     },
     {
       "added_at": "2022-10-10 12:52:34",

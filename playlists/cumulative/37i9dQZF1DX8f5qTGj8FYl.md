@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-204 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+205 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Feel Good Inc.](https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 4:35 | 2020-11-13 | 2022-10-15 |
 | [Feel It](https://open.spotify.com/track/1ZPexPMYcdOTQQr7BFnIpl) | [Dr\. Delight](https://open.spotify.com/artist/5JSEvaXZzKFArz329teDzI) | [Feel It](https://open.spotify.com/album/3bK9aGULeLbciNYE0vTzvX) | 2:07 | 2020-11-13 | 2022-04-20 |
 | [First Impression](https://open.spotify.com/track/19PYtP657yQEAwmduEf1R0) | [True Loves](https://open.spotify.com/artist/1DZpa2hXpHrR7yE3Xnn2Dx) | [First Impression](https://open.spotify.com/album/0CwsDXnmTk8TyTdbwQJXgF) | 4:12 | 2021-01-22 | 2022-07-29 |
-| [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 | 2021-01-22 |  |
+| [First Impression](https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:12 | 2021-01-22 | 2022-10-31 |
 | [Flatfoot](https://open.spotify.com/track/0RHr2hG0bIODmOjaex4oyT) | [Fusik](https://open.spotify.com/artist/4EDtxm2WLicV4I1B9E8kl2) | [Flatfoot](https://open.spotify.com/album/1qXOH9z8qIVELOkM3HZCAm) | 4:33 | 2020-11-13 | 2022-06-30 |
 | [Flying Home](https://open.spotify.com/track/5St8RhYDg6dyF43aFod1YM) | [Felix Magnus Grossmann](https://open.spotify.com/artist/7uWwYPKXHTU6JXRm8VVLtH) | [Big Band Around the World](https://open.spotify.com/album/2fgBvjukx0OLHEmTOK4Cb8) | 2:45 | 2020-11-13 | 2022-04-18 |
 | [Fried Soul](https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Fried Soul](https://open.spotify.com/album/77jIlQfM7IPgXdxEXaDm9O) | 3:36 | 2022-02-25 |  |
@@ -116,6 +116,7 @@
 | [Jimmy's Groove](https://open.spotify.com/track/79eytkCk1dMaHhGr8fcY3P) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/4ke86aiMO3AVhBTM3vmdcE) | 6:17 | 2021-04-02 | 2022-07-29 |
 | [Jump Up \- 7" edit](https://open.spotify.com/track/6UAvcih8yeFJgSe6Hj8AGQ) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Jump Up \(7" edit\)](https://open.spotify.com/album/6uLsmgSr8BEleapqyoeJqg) | 3:42 | 2021-10-22 | 2022-04-17 |
 | [Junkyard Dunebuggy](https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Golden Hour](https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1) | 3:43 | 2021-06-11 |  |
+| [Just Funkin' Around](https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT) | 4:07 | 2020-11-13 |  |
 | [Just Funkin' Around](https://open.spotify.com/track/0XiZC42sXa3KdiaqM3rhu2) | [Pieces Of A Dream](https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE) | [Just Funkin' Around](https://open.spotify.com/album/4U47phHmbpHhaDKlc9inlu) | 4:07 | 2020-11-13 | 2022-04-21 |
 | [Just Like Me](https://open.spotify.com/track/6XBHv4SSNdf6Spz5cLo5Pw) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Style Meets Substance](https://open.spotify.com/album/22HqJmLEXYiQQnVriMJopN) | 4:20 | 2020-11-13 | 2022-04-20 |
 | [Just Shake](https://open.spotify.com/track/5lOcbDk97jxKpvQfK0Pxuy) | [Vito Lalinga \(Vi Mode Inc\. Project\)](https://open.spotify.com/artist/07Z1hrMGpROTkdhqPI6UpM) | [Urban Night](https://open.spotify.com/album/44pq5WmybJ7QEqwLkeZeSZ) | 5:42 | 2021-02-12 | 2022-04-21 |

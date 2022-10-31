@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-167 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+168 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,11 +41,12 @@
 | [Future](https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Future](https://open.spotify.com/album/250asL6HXVThavIF7t9rBc) | 3:25 | 2022-05-27 | 2022-10-30 |
 | [God Is On The Throne](https://open.spotify.com/track/0YPnmywL8MvJpZhxeCrnC9) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [God Is On The Throne](https://open.spotify.com/album/3YxfTJzZ7P82a96RE2TzfZ) | 4:44 | 2022-10-29 |  |
 | [God Really Loves Us](https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [The Kindness Of The Cross](https://open.spotify.com/album/1ry4KqnjXvicjKN5pjN7Pm) | 4:46 | 2022-10-29 |  |
-| [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-05-27 |  |
+| [God Thing](https://open.spotify.com/track/0SI39fe6eJtLtLezge9veM) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [God Thing](https://open.spotify.com/album/1A45aq1ogAeLMNtS7ldJhW) | 3:19 | 2022-05-27 | 2022-10-31 |
 | [God Who Saves](https://open.spotify.com/track/4uIlq5zbKVweM4MM94orVe) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [From the Ballroom](https://open.spotify.com/album/5H7qkvj9OItrJcvT4r2XxN) | 4:50 | 2022-05-27 | 2022-10-30 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2022-05-27 | 2022-07-29 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 | 2022-05-27 |  |
 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 | 2022-05-27 |  |
+| [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 | 2022-10-29 |  |
 | [Good Mood](https://open.spotify.com/track/0he118W7JdHcfV0ooMYt7X) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb) | [Good Mood](https://open.spotify.com/album/6p5sAqadaOyuHTiuhGujJx) | 3:11 | 2022-05-27 | 2022-10-30 |
 | [Grace Greater](https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Grace Greater](https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv) | 4:22 | 2022-05-27 | 2022-10-30 |
 | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/7xAnK3cE81erl8ZTxJbYWq) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Gratitude \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/album/4j9zwwkAKxwLa32RnJHA4t) | 4:12 | 2022-05-27 |  |

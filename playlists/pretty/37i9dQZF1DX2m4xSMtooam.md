@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,825 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,083 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 32 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 |
 | 33 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 |
 | 34 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 |
-| 35 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
-| 36 | [Besame Mucho](https://open.spotify.com/track/2RvRcb0PpVyDr6lnMBbwC5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 6:40 |
-| 37 | [In a mellow tone](https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Jazz + Bossa](https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj) | 3:07 |
+| 35 | [In a mellow tone](https://open.spotify.com/track/5ifsDssC2Yv86cHLg2g8rg) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Jazz + Bossa](https://open.spotify.com/album/5jkc9bfTpFlbK5rIzKeWdj) | 3:07 |
+| 36 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
+| 37 | [Besame Mucho](https://open.spotify.com/track/2RvRcb0PpVyDr6lnMBbwC5) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 6:40 |
 | 38 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
 | 39 | [O Barquinho](https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [From Paris To Rio](https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk) | 4:29 |
 | 40 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 59 | [Aquela Bossa Axé](https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S) | [Affonsinho](https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ) | [Belê](https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx) | 4:29 |
 | 60 | [Fusion](https://open.spotify.com/track/3Zt1ziRYn8ABtqaApKGIcr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Rosa](https://open.spotify.com/album/5WIyLdYc2yschYbWx7BkSU) | 5:07 |
 | 61 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 |
-| 62 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 |
-| 63 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 |
+| 62 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 |
+| 63 | [Felicidade](https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Double Rainbow](https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH) | 4:44 |
 | 64 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 |
 | 65 | [How Insensitive](https://open.spotify.com/track/6XrRsEiP7KccIkRgqxcL70) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Tequila \(Expanded Edition\)](https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I) | 3:49 |
 | 66 | [Quoi, Quoi, Quoi](https://open.spotify.com/track/33LLGxCJUrJAX0XvcvN1AH) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [We Could Be Lovers](https://open.spotify.com/album/5HOeQ6IXZTpbwlqSKstF3v) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 |
 | 100 | [Baubles, Bangles and Beads](https://open.spotify.com/track/1vVm7i0MsbvRSGaX9SkyP0) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:02 |
 
-Snapshot ID: `MTY2NjcwMzY1MywwMDAwMDAwMDc3NGM3OTRlM2JiM2VkNGVlOTFiMGI0MDVkZGQ3NDVk`
+Snapshot ID: `MTY2NjcwMzY1MywwMDAwMDAwMDJiNTQwNDRhMjZiZWVmZjFlMjM3ODg5ZTE5ZTI1YWE5`

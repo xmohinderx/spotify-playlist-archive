@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Michael Benjamin",
-  "num_followers": 71578,
+  "num_followers": 71616,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMDNlYTdhNDQ0NmFiMTdmM2VjYmY3MzE1ZDM1YTI0ZjFk",
+  "snapshot_id": "MTY2NTkyNzQ4NCwwMDAwMDAwMGRmYzAyODcxYmU5MDY1OGEyZjAyMTM5ZTFhMzA4MTVj",
   "tracks": [
     {
       "added_at": "2022-10-16 13:38:04",
@@ -339,6 +339,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Option",
+        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
+      },
+      "artists": [
+        {
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+        }
+      ],
+      "duration_ms": 274106,
+      "name": "Ti doudou",
+      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Law of Automata: Valid",
         "url": "https://open.spotify.com/album/7hrdjSE2CcSXpkFtPF3ULN"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 200000,
       "name": "3 Words (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/5ASFUThyl5kDNMGW43jUOY"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Option",
-        "url": "https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz"
-      },
-      "artists": [
-        {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
-        }
-      ],
-      "duration_ms": 274106,
-      "name": "Ti doudou",
-      "url": "https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Before I Spill Myself",
-        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
-      },
-      "artists": [
-        {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        }
-      ],
-      "duration_ms": 248904,
-      "name": "Chasing Amy",
-      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Quoi qu'il advienne (QQA)",
         "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 303725,
       "name": "Rete La",
       "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Before I Spill Myself",
+        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        }
+      ],
+      "duration_ms": 248904,
+      "name": "Chasing Amy",
+      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -563,22 +563,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Kanvaz",
-        "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
+        "name": "Chante ap ret chante",
+        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
       "artists": [
         {
-          "name": "High Klassified",
-          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
+          "name": "Baky",
+          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
         },
         {
-          "name": "Da-P",
-          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         }
       ],
-      "duration_ms": 178556,
-      "name": "NS Bounce",
-      "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
+      "duration_ms": 253208,
+      "name": "Bay Vag",
+      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -619,22 +619,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Chante ap ret chante",
-        "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
+        "name": "Kanvaz",
+        "url": "https://open.spotify.com/album/6FHdFwiaNMFrFkpEcBOg9l"
       },
       "artists": [
         {
-          "name": "Baky",
-          "url": "https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h"
+          "name": "High Klassified",
+          "url": "https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O"
         },
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Da-P",
+          "url": "https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ"
         }
       ],
-      "duration_ms": 253208,
-      "name": "Bay Vag",
-      "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
+      "duration_ms": 178556,
+      "name": "NS Bounce",
+      "url": "https://open.spotify.com/track/6wUuMSgi7CVstyIr68xIFo"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Bizou",
+        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
+      },
+      "artists": [
+        {
+          "name": "AndyBeatz",
+          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Bizou",
+      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Premier Gaou",
         "url": "https://open.spotify.com/album/2Zlu5cWMRa5Bo4w6aIzSWU"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 227213,
       "name": "Premier Gaou",
       "url": "https://open.spotify.com/track/1bmwVOpz0kURQHYQ49CVv7"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Bizou",
-        "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
-      },
-      "artists": [
-        {
-          "name": "AndyBeatz",
-          "url": "https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Bizou",
-      "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "On va pas baisser les bras",
-        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
-      },
-      "artists": [
-        {
-          "name": "Paska",
-          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
-        },
-        {
-          "name": "Romeomania",
-          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "On va pas baisser les bras",
-      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Eskize Mwen",
         "url": "https://open.spotify.com/album/20CZhVE1A1hP4V70JdZjVE"
       },
@@ -1103,6 +1083,26 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "On va pas baisser les bras",
+        "url": "https://open.spotify.com/album/7Gs6rgXadA2qX6X2qslD6A"
+      },
+      "artists": [
+        {
+          "name": "Paska",
+          "url": "https://open.spotify.com/artist/1bzxy9o2LlCO1NZOXGRSe6"
+        },
+        {
+          "name": "Romeomania",
+          "url": "https://open.spotify.com/artist/3Gd9aSyUrIZVbZmC6q6A4w"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "On va pas baisser les bras",
+      "url": "https://open.spotify.com/track/1xwm9Ue3w6L2R63RbojM7r"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Ayyy",
         "url": "https://open.spotify.com/album/0ZiHsWkTYNhkuBJ5VWLt2T"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 166301,
       "name": "Ayyy",
       "url": "https://open.spotify.com/track/4VYw7E6sI15Y5wvGN36Cx5"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1179,6 +1159,26 @@
       "duration_ms": 526373,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Baby Who",
+        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 187658,
+      "name": "Baby Who",
+      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "Yo Mele Raboday",
         "url": "https://open.spotify.com/album/2BNKzOLRHyDQBtP87YzE6P"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 217272,
       "name": "Yo Mele Raboday",
       "url": "https://open.spotify.com/track/0qtBENOC0lD0BY6Hew47gA"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Baby Who",
-        "url": "https://open.spotify.com/album/6SeV7GDPypz7UTTvGDXiNp"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 187658,
-      "name": "Baby Who",
-      "url": "https://open.spotify.com/track/1tlbn3rzNdbIjIL0OW339s"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Designa",
-        "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
-      },
-      "artists": [
-        {
-          "name": "Gio-K",
-          "url": "https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI"
-        },
-        {
-          "name": "Egar Boi",
-          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Designa",
-      "url": "https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ"
       },
@@ -1435,18 +1415,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
-        "name": "Culo",
-        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+        "name": "Designa",
+        "url": "https://open.spotify.com/album/5SqfQYstMm4D1xi8qVDXt0"
       },
       "artists": [
         {
-          "name": "Jamhaitian",
-          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+          "name": "Gio-K",
+          "url": "https://open.spotify.com/artist/7cnGhb65N4hiSdJ2QWdGxI"
+        },
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
         }
       ],
-      "duration_ms": 192897,
-      "name": "Culo",
-      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
+      "duration_ms": 155294,
+      "name": "Designa",
+      "url": "https://open.spotify.com/track/7d3wIcVooCbZ02cUlhNrZR"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1467,6 +1451,22 @@
       "duration_ms": 225000,
       "name": "House Life",
       "url": "https://open.spotify.com/track/2j07iZkVaaa8S7nj4TIJRe"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
+        "name": "Culo",
+        "url": "https://open.spotify.com/album/45BtC62ucH7IgaAd8JG7ES"
+      },
+      "artists": [
+        {
+          "name": "Jamhaitian",
+          "url": "https://open.spotify.com/artist/5q7fo2hqaDSFvvr8wLZzHq"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "Culo",
+      "url": "https://open.spotify.com/track/76z00avJmFVkjRcnufMEou"
     },
     {
       "added_at": "2022-10-16 13:38:04",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-10-16 13:38:04",
       "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
+    },
+    {
+      "added_at": "2022-10-16 13:38:04",
+      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/1BrlwVcweV89LH95CtdsZ4"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 201040,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/3Iltb5dK3PtsMTDRRvshOz"
-    },
-    {
-      "added_at": "2022-10-16 13:38:04",
-      "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2022-10-16 13:38:04",

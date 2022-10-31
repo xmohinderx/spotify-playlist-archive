@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-121 songs - 7 hr 59 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+122 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [All of Me](https://open.spotify.com/track/0Rpavw7GEeSp5UcC15E2ZG) | [Ashes Remain](https://open.spotify.com/artist/0fkTQEEyEyH71i9tDhS7CO) | [All of Me](https://open.spotify.com/album/3Ew1Xz2UVgxVKbfK9Q3SCl) | 3:43 | 2021-05-28 |  |
 | [Angels vs Demons](https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Angels vs Demons](https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW) | 4:18 | 2022-10-29 |  |
 | [Anger](https://open.spotify.com/track/5gD8v2cQpErVesfUCyHbGV) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [Anger](https://open.spotify.com/album/3BAge5MsnoJBGFOYakKphb) | 6:16 | 2022-03-11 |  |
+| [ANOTHER PLACE](https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [EXILE](https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3) | 4:16 | 2022-10-29 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [The Final Battle](https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy) | 3:53 | 2022-10-29 |  |
 | [Awakening](https://open.spotify.com/track/7FR48bbJ4rMj6VbcMj1S0O) | [Relesser](https://open.spotify.com/artist/2mUGKlvJrS87MDsEFAXIBE) | [Release](https://open.spotify.com/album/3ES159pwFUduOUXzDaxwv3) | 3:21 | 2021-05-28 | 2022-10-30 |
 | [Balconies](https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo) | [Paper Route](https://open.spotify.com/artist/2EoJ4ILZNAHjVtZgmWBaID) | [Real Emotion](https://open.spotify.com/album/4FBgDUQc9uZCuNwySaZPWL) | 4:14 | 2021-05-28 |  |
@@ -40,7 +41,7 @@
 | [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 | 2022-03-11 |  |
 | [Deathgrip](https://open.spotify.com/track/3Ucq1gQdwgIuhytmI1CEyj) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW) | 4:14 | 2022-03-11 |  |
 | [Deathgrip](https://open.spotify.com/track/5hC0PHHxcPJnhg6Mnncub4) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1wuARmufRqgapPJIM888SU) | 4:14 | 2021-05-28 | 2022-07-29 |
-| [DEFENSE MECHANISM](https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [DEFENSE MECHANISM](https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR) | 3:37 | 2022-10-29 |  |
+| [DEFENSE MECHANISM](https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [DEFENSE MECHANISM](https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR) | 3:37 | 2022-10-29 | 2022-10-31 |
 | [Destiny](https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:02 | 2022-01-14 | 2022-03-12 |
 | [Dominion](https://open.spotify.com/track/2fglyYNxnLsjfwE9Zht5eN) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/4pKe3VvswxrKDH4fd3YK6q) | 3:51 | 2022-01-14 | 2022-03-12 |
 | [Dreamcatcher](https://open.spotify.com/track/41LmGmVK8KAQ7QIIhMvOtX) | [Night Argent](https://open.spotify.com/artist/2juQ07Q8H8FEFzrP0SBGid) | [The Fear](https://open.spotify.com/album/0sGZmzDg3gTKKEWx5MqIZ1) | 3:23 | 2022-03-11 |  |
@@ -55,7 +56,7 @@
 | [Fear](https://open.spotify.com/track/26VRGLG9WTk8GjTnxSjuLH) | [The Letter Black](https://open.spotify.com/artist/7AH2bTtNIOYu24O3NuFxhG) | [Pain](https://open.spotify.com/album/5SQnp6ujMnSkSCOQg2g0PV) | 3:45 | 2021-05-28 | 2022-10-13 |
 | [Feel](https://open.spotify.com/track/4Zi1CrhsOZdeg4RB9GeVXB) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/7lEzSWasG7XYYuWGjXJpXs) | 3:20 | 2021-05-28 | 2022-07-29 |
 | [Feel](https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK) | [House of Heroes](https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB) | [Colors](https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I) | 3:20 | 2022-03-11 |  |
-| [feel nothing.](https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j) | [feel nothing.](https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf) | 3:17 | 2022-03-11 |  |
+| [feel nothing.](https://open.spotify.com/track/6RtWU21Io4XwqB8p4lRX2h) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j) | [feel nothing.](https://open.spotify.com/album/3z4tBbtxbwUER31Nz82xyf) | 3:17 | 2022-03-11 | 2022-10-31 |
 | [Flickering Flame](https://open.spotify.com/track/3Xvq1r2UPGxuJbOlJantA1) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Types & Shadows](https://open.spotify.com/album/2UG6o02YM4kdGASi3jFjUZ) | 4:31 | 2021-05-28 | 2022-01-15 |
 | [Fullness](https://open.spotify.com/track/2aDBcIhjP66jyquAtFypKX) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Alpha](https://open.spotify.com/album/5PseGPt9BlRUIwjZCCmt1W) | 4:09 | 2021-05-28 | 2022-03-12 |
 | [GODLESS](https://open.spotify.com/track/5hQYAOxNmbCtiA8Gt5hJAm) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Richie Faulkner](https://open.spotify.com/artist/2L4LdKZ3irp0KZ8ICiSXxS) | [GODLESS](https://open.spotify.com/album/04lvWoFp95y8I89lNt3anU) | 4:54 | 2022-10-29 |  |
@@ -105,7 +106,7 @@
 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 | 2022-03-11 |  |
 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 | 2021-05-28 |  |
 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 | 2022-01-14 |  |
-| [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 | 2022-10-30 |
+| [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 |  |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-05-28 |  |
 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 | 2021-05-28 | 2022-01-15 |
 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 | 2022-01-14 |  |

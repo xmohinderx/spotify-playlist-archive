@@ -1,12 +1,12 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 49272,
+  "num_followers": 49360,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MTc4MywwMDAwMDAwMDBjZDE3YWQ2YzMwNzIyMzkyZmM1NzYxMjNkM2RkMjM4",
+  "snapshot_id": "MTY2NDg5MTc4MywwMDAwMDAwMDhhNDE2OGM2MTQwY2FlNjJlM2NjMWEyZmUxZTY5NjNl",
   "tracks": [
     {
       "added_at": "2022-10-04 13:56:23",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-04 13:56:23",
       "album": {
-        "name": "The Ever Shifting Fields",
-        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
-      },
-      "artists": [
-        {
-          "name": "Seas of Years",
-          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
-        }
-      ],
-      "duration_ms": 277133,
-      "name": "In Collusion with the Waves",
-      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
-    },
-    {
-      "added_at": "2022-10-04 13:56:23",
-      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 311555,
       "name": "What the Heart Craves For",
       "url": "https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy"
+    },
+    {
+      "added_at": "2022-10-04 13:56:23",
+      "album": {
+        "name": "The Ever Shifting Fields",
+        "url": "https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL"
+      },
+      "artists": [
+        {
+          "name": "Seas of Years",
+          "url": "https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS"
+        }
+      ],
+      "duration_ms": 277133,
+      "name": "In Collusion with the Waves",
+      "url": "https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW"
     },
     {
       "added_at": "2022-10-04 13:56:23",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-04 13:56:23",
       "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
-    },
-    {
-      "added_at": "2022-10-04 13:56:23",
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 364166,
       "name": "Dust Bowl",
       "url": "https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM"
+    },
+    {
+      "added_at": "2022-10-04 13:56:23",
+      "album": {
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2022-10-04 13:56:23",

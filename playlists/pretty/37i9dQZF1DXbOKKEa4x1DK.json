@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 11701,
+  "num_followers": 11706,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMGY2OWE2NWJjMjRlN2FhZGU4Yjg1MGE1Mjc1Y2E2MjVi",
+  "snapshot_id": "MTYzNDY2NDUwMiwwMDAwMDAwMDdiMTIzMjQ0ZWQ2N2I5YzQxMzBhZTJhYmE2ZDMwZGQ5",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -75,22 +75,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Suavemente",
-        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Nuestra Cancion",
-      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Am\u00e9rica Sin Queja",
         "url": "https://open.spotify.com/album/5iHMlPownkV9K9VBR2GCoo"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 267706,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/5DrdMZSiRKOVQszXln9VMO"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Suavemente",
+        "url": "https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Nuestra Cancion",
+      "url": "https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -495,6 +495,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Acabando!",
+        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "Borr\u00f3n y Cuenta Nueva",
+      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Me vas a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 302942,
       "name": "Me vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Hay No Se Que Hacer",
-      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Acabando!",
-        "url": "https://open.spotify.com/album/0sEL3rEDSjh1sybrUjVwaB"
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
         }
       ],
-      "duration_ms": 238160,
-      "name": "Borr\u00f3n y Cuenta Nueva",
-      "url": "https://open.spotify.com/track/4ktOth7G3OxN9vTiWF1oxD"
+      "duration_ms": 257560,
+      "name": "Hay No Se Que Hacer",
+      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Juntos Con Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Mi Tonto Amor",
+      "url": "https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Exclusivo",
         "url": "https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM"
       },
@@ -691,22 +707,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Juntos Con Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/1D1qtrP020moJvytYhcRDd"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Mi Tonto Amor",
-      "url": "https://open.spotify.com/track/6UEAh3AEbOMhgyH6OT8pDl"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Milly & Company",
         "url": "https://open.spotify.com/album/1WaHdAxCGI2q58gva4gSrB"
       },
@@ -727,8 +727,8 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
+        "name": "Los A\u00f1os Dorados de Sergio Vargas",
+        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
       },
       "artists": [
         {
@@ -736,9 +736,25 @@
           "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
         }
       ],
-      "duration_ms": 303293,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+      "duration_ms": 284866,
+      "name": "Si Alg\u00fan D\u00eda la Ves",
+      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Bomba 2000",
+        "url": "https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG"
     },
     {
       "added_at": "2021-10-19 17:28:22",
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Donde",
-      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "La Negra Mia",
         "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Donde",
+      "url": "https://open.spotify.com/track/3OoiMXkwdEbsSGPrJMGwlv"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Tonto Corazon",
         "url": "https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW"
       },
@@ -839,6 +855,22 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/4ZvFeFnbxwH4fpYLFEoMui"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/0eaCLC0UBpc0Wh0EikTe9u"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
         "name": "Los Merengues Del Casandra",
         "url": "https://open.spotify.com/album/15iyNrNKUEhvdkytaMoVoR"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 287226,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/0MhCXhIUk0T9GMQdkPjWHw"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Los A\u00f1os Dorados de Sergio Vargas",
-        "url": "https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "Si Alg\u00fan D\u00eda la Ves",
-      "url": "https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
-        "name": "Bomba 2000",
-        "url": "https://open.spotify.com/album/4XkIhuk4TeHc7uGkF6wdeh"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 274226,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/5dQBYhRAkPoMPwTwMfqKcG"
     },
     {
       "added_at": "2021-10-19 17:28:22",

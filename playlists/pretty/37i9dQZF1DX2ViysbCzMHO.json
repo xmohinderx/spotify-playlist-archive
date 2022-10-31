@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 110948,
+  "num_followers": 110970,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGQ3NjE2ZGI4OWI2OWNmZjM2OWI4YWIyNzk4ZjUwZGMw",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDBlZjJmZTYzZDE1N2NiMWIwYzk2MDlmMjVjZDEyNTBi",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -459,18 +459,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Under My Skin (Stripped)",
-        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
+        "name": "Love Like I Drink",
+        "url": "https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Carter Winter",
+          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
+        },
+        {
+          "name": "Allie Colleen",
+          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
         }
       ],
-      "duration_ms": 185110,
-      "name": "Under My Skin - Stripped",
-      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
+      "duration_ms": 195309,
+      "name": "Love Like I Drink",
+      "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -507,38 +511,34 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Love Like I Drink",
-        "url": "https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH"
+        "name": "Under My Skin (Stripped)",
+        "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
       },
       "artists": [
         {
-          "name": "Carter Winter",
-          "url": "https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3"
-        },
-        {
-          "name": "Allie Colleen",
-          "url": "https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 195309,
-      "name": "Love Like I Drink",
-      "url": "https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65"
+      "duration_ms": 185110,
+      "name": "Under My Skin - Stripped",
+      "url": "https://open.spotify.com/track/5Reu0JKQYq7DiOnBAqrWhg"
     },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Hell Of A Way To Go (Acoustic)",
-        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 173126,
-      "name": "Hell Of A Way To Go - Acoustic",
-      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 182327,
       "name": "At the End of a Bar - Acoustic",
       "url": "https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "First Goodbye",
-        "url": "https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p"
-      },
-      "artists": [
-        {
-          "name": "Georgia Webster",
-          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "First Goodbye",
-      "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Just About Over You (Acoustic Version)",
         "url": "https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 188026,
       "name": "Just About Over You - Acoustic Version",
       "url": "https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "First Goodbye",
+        "url": "https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "First Goodbye",
+      "url": "https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6"
     },
     {
       "added_at": "2022-10-28 04:01:00",

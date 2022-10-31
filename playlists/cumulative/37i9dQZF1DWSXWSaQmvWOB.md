@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-580 songs - 1 day 11 hr 32 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+581 songs - 1 day 11 hr 35 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Lay Down](https://open.spotify.com/track/3kbY4SqxaeCKE9ulx71AS1) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:29 | 2021-06-04 | 2022-09-23 |
 | [Lay Up](https://open.spotify.com/track/6XkHHMfaghZ1SNf3V5yM5b) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:06 | 2020-12-11 | 2021-02-28 |
 | [Leave It](https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [What If? / Leave It](https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8) | 3:52 | 2022-07-21 |  |
-| [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-07-28 |  |
+| [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 | 2022-07-28 | 2022-10-31 |
 | [Leave It There](https://open.spotify.com/track/2Qk4YVgLtEhRsaaxUTrYAx) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Leave It There](https://open.spotify.com/album/5vftS4iFWrBfFQw02YvYu0) | 3:48 | 2021-12-03 | 2022-07-29 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-03-06 | 2021-10-29 |
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2020-08-25 | 2021-01-09 |
@@ -486,6 +486,7 @@
 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 | 2021-03-06 | 2022-06-17 |
 | [Talk In The Morning](https://open.spotify.com/track/4jcPICjKkT0vi2nNXQB0nl) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning](https://open.spotify.com/album/5XyVOBpjoALqVuSUky9Jbg) | 3:37 | 2020-03-25\* | 2020-07-18 |
 | [Teach Me](https://open.spotify.com/track/6x51Lq4KaHqB6rHfCpaI5H) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Judas and the Black Messiah: The Inspired Album](https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz) | 3:11 | 2021-02-12 | 2021-04-17 |
+| [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Teenage Love](https://open.spotify.com/track/1qcsKjpHJGoaaD9sUqpxKJ) | [City Park](https://open.spotify.com/artist/6sBplUXsbsTyUAgWo0xHzQ) | [Teenage Love](https://open.spotify.com/album/5D0H5G4gCjZgslzLOE6MQv) | 3:18 | 2020-11-13 | 2021-02-28 |
 | [Tell Me](https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Tell Me](https://open.spotify.com/album/6cMt0oDOEOmr5Th6atET25) | 4:16 | 2021-04-17 | 2021-12-01 |
 | [Tell Me](https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Tell Me](https://open.spotify.com/album/5G0S0RDVw7yKKzW3krfKlV) | 3:42 | 2022-06-30 |  |

@@ -1345,7 +1345,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 159640,
       "name": "As It Was - Spotify Singles",
       "url": "https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t"
@@ -3883,7 +3883,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 268000,
       "name": "Deserto (Ao Vivo)",
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
@@ -5143,7 +5143,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 194469,
       "name": "Evaluasi",
       "url": "https://open.spotify.com/track/2dIBMHByUGcNPzmYBJ6OAj"
@@ -5201,6 +5201,32 @@
       "duration_ms": 173333,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/1w3exvIgbRFV2ijf6qyWm8"
+    },
+    {
+      "album": {
+        "name": "Evoque Prata",
+        "url": "https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE"
+      },
+      "artists": [
+        {
+          "name": "MC MENOR HR",
+          "url": "https://open.spotify.com/artist/33yjk1kQbu7otNngO5pQb8"
+        },
+        {
+          "name": "MC MENOR SG",
+          "url": "https://open.spotify.com/artist/3hXocXy7cs7SZ1JLZUgKBp"
+        },
+        {
+          "name": "DJ ESCOBAR",
+          "url": "https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "Evoque Prata",
+      "url": "https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6"
     },
     {
       "album": {
@@ -15484,6 +15510,24 @@
     },
     {
       "album": {
+        "name": "Tertawan Hati",
+        "url": "https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237863,
+      "name": "Tertawan Hati",
+      "url": "https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54"
+    },
+    {
+      "album": {
         "name": "Thallumaala",
         "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
       },
@@ -16351,6 +16395,28 @@
       "duration_ms": 215591,
       "name": "Tutur Batin",
       "url": "https://open.spotify.com/track/1k1e4Amkn7hIFrEthtazqT"
+    },
+    {
+      "album": {
+        "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+        "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
+      },
+      "artists": [
+        {
+          "name": "Tiago Doid\u00e3o",
+          "url": "https://open.spotify.com/artist/6JyfXyzoX303xiXFwhT9Za"
+        },
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202342,
+      "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
+      "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
     },
     {
       "album": {

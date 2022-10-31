@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 99840,
+  "num_followers": 99953,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMGY1MWY1NzNmNTk0ZDM2NmE1Zjk4ODY3OWY5MDY5NWFm",
+  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMDk1YTZlZDc2NThjOGFiZjJhMTVmMzQyNjJlMjZmNzA0",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "I Bet on Losing Dogs",
-      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Best Friend",
         "url": "https://open.spotify.com/album/7nLg6Pwut1eqXoK51ZjVFW"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 262231,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/3rPtS4nfpy7PsARctAWpzd"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "I Bet on Losing Dogs",
+      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219604,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Overnight",
-        "url": "https://open.spotify.com/album/0cIynhird3mHUUs71R7zsj"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219604,
-      "name": "Overnight",
-      "url": "https://open.spotify.com/track/0hhXziDUO0wNYPsstDQWN6"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Astrovan",
-      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Astrovan",
+      "url": "https://open.spotify.com/track/14e46mURUUwB3i2vTe1gFz"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Lines",
         "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 194906,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Erratic Cinematic",
         "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Saw You In A Dream",
-        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
       "artists": [
         {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Saw You In A Dream",
-      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1111,6 +1095,22 @@
       "duration_ms": 303013,
       "name": "Everything Now",
       "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Saw You In A Dream",
+        "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Saw You In A Dream",
+      "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "For Crying Out Loud (Deluxe)",
         "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215693,
       "name": "You're in Love with a Psycho",
       "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
     },
     {
       "added_at": "2022-10-27 05:38:58",

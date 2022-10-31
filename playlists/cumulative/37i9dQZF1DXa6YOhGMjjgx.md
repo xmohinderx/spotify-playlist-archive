@@ -4,7 +4,7 @@
 
 > This is the best of today's true alternative rock scene.
 
-220 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
+221 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Polaroid](https://open.spotify.com/track/0qOrLJBeP52NTMnNzawvLo) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Polaroid](https://open.spotify.com/album/7tmozRPFTkoGGC8dr7BtcB) | 3:17 | 2021-03-31 | 2022-03-01 |
 | [Pollen](https://open.spotify.com/track/16u39sZAP2UXg9DGU56ZNm) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Pollen \(Single Version\)](https://open.spotify.com/album/4jv8W25FJ0jT9x1uCSZ4Ny) | 3:32 | 2021-05-21 | 2022-07-29 |
 | [Public Enemy](https://open.spotify.com/track/6CSTSByUvQyYIlGStzM3Qd) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Public Enemy](https://open.spotify.com/album/6gWVDCeNynphJ6MIxZRgiN) | 2:29 | 2021-05-21 | 2022-02-23 |
-| [Rich](https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Rich](https://open.spotify.com/album/5ImkIruicv0jQFE6jv2bbA) | 3:10 | 2022-04-29 |  |
+| [Rich](https://open.spotify.com/track/4sFfItk3bF8wrs1KmTJxU6) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Rich](https://open.spotify.com/album/5ImkIruicv0jQFE6jv2bbA) | 3:10 | 2022-04-29 | 2022-10-31 |
 | [Rich](https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Rich](https://open.spotify.com/album/3n0BxFeZoVlqVI17RaJkwl) | 3:10 | 2021-03-31 | 2022-10-15 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Robot Writes A Love Song](https://open.spotify.com/album/3eKWW3j4U5H4XiR1JDH351) | 3:36 | 2022-01-21 | 2022-07-29 |
 | [Robot Writes A Love Song](https://open.spotify.com/track/3JKFWrIPoTGasqvrAn3u3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 3:36 | 2022-04-29 |  |
@@ -201,6 +201,7 @@
 | [The Next Curse](https://open.spotify.com/track/2aksJcRQTO5VKqQh1tr3fO) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [The Next Curse](https://open.spotify.com/album/3Kv5A9uzCg99sqxtZjwce1) | 4:01 | 2021-08-13 |  |
 | [The Rift](https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [The Rift](https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ) | 3:48 | 2021-03-31 |  |
 | [These Days](https://open.spotify.com/track/5cNFlGdGBLVxd1Lt4sfaVt) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/3KiPUhXAfxweY5BSmSG264) | 3:17 | 2021-09-17 | 2022-10-17 |
+| [These Days](https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [These Days](https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty) | 3:17 | 2022-04-29 |  |
 | [This is Our Life](https://open.spotify.com/track/5T38ywOoK6b29fpbTrhwx3) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/0dQPaO9I1hRzDwe2RePxFR) | 3:44 | 2021-03-31 | 2022-07-29 |
 | [This is Our Life](https://open.spotify.com/track/6ckVL9k9M43EKpeXwASuf6) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [This is Our Life](https://open.spotify.com/album/7GIxrgLPIKexc7d5FwNtuX) | 3:44 | 2022-04-29 |  |
 | [Too High](https://open.spotify.com/track/4dOaEi815BXfCllDfB79di) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Too High](https://open.spotify.com/album/62LB05IJUlQ2VcChMtY7d6) | 3:47 | 2021-03-31 | 2022-02-27 |

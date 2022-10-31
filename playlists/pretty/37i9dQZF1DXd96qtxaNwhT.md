@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,172 likes - 86 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,161 likes - 86 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 5 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 |
 | 6 | [Better Off Alone](https://open.spotify.com/track/2jwsv7yOKwI4nd0UmrAnVq) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Better Off Alone](https://open.spotify.com/album/4ItBkJk85xH97hBZdlycIh) | 3:20 |
 | 7 | [Madly In Love](https://open.spotify.com/track/0OnKmnPGGteBmZ6Z3Oxxwy) | [Tobias Floor](https://open.spotify.com/artist/28f3TK0ZklHj7JKNVB8BqB) | [Madly In Love](https://open.spotify.com/album/4JJrksSXSaD4OcZvroeTV3) | 3:43 |
-| 8 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 |
+| 8 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 |
 | 9 | [All For You](https://open.spotify.com/track/53QivzNjgJPblrcmDP0LLv) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [All For You](https://open.spotify.com/album/4Qz9R5WkVwQfAl1oq6ZSFn) | 3:33 |
 | 10 | [Colours Of You](https://open.spotify.com/track/0fgb9XN0RUp5phN8UADvsP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Colours Of You](https://open.spotify.com/album/41YkwGJXDZy4nVAoCipCY7) | 3:38 |
 | 11 | [What I Get for Loving You](https://open.spotify.com/track/1Yp36OdGRGxo5FOGvKrNFd) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [What I Get for Loving You](https://open.spotify.com/album/5rDXynhwvYoIHdqoTmcQRC) | 3:04 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 85 | [happy for you](https://open.spotify.com/track/27KDaaYxMJgJcyixSP7oHO) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [happy for you](https://open.spotify.com/album/7ICy7rPZmqu9weXb8j5LrB) | 2:45 |
 | 86 | [Lose Myself](https://open.spotify.com/track/53luLYwmUbed7o5GyaapIo) | [Abby Wolfe](https://open.spotify.com/artist/3cawuvrU0C4K3p3trV7bPd) | [Lose Myself](https://open.spotify.com/album/6xebwTs10OktQp1jCuNpQ8) | 3:19 |
 
-Snapshot ID: `MTY2NDM0NzY3MiwwMDAwMDAwMDA5NWJkMDk2ZGU1OWJmNDcxN2EyYTcxMzliOTU2YWM0`
+Snapshot ID: `MTY2NDM0NzY3MiwwMDAwMDAwMGEzOWM4Y2E5YzZmMjU2ZTBjMjY3MGRhYWNhYmQ1MjNl`

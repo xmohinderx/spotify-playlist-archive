@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157020,
+  "num_followers": 157010,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGJkNmEzZTk0MDQ2NjM0OWUyNWU2MjE5NzYwMTAzMWIy",
+  "snapshot_id": "MTY2NTQzNjQ3OSwwMDAwMDAwMGNlZjFiMWM0OGJhMmE3M2M4NzBmMGNmMmE0NGNiMDhl",
   "tracks": [
     {
       "added_at": "2022-10-10 21:14:39",
@@ -167,26 +167,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "I Found You",
-        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        },
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 167307,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "Me Provocas",
         "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 147255,
       "name": "Me Provocas",
       "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "I Found You",
+        "url": "https://open.spotify.com/album/377h4vWvsEO8dcErH6z0DQ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 167307,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/3wYOGJYD31sLRmBgCvWxa4"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -651,26 +651,26 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
       },
       "artists": [
         {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+          "name": "Skinny Days",
+          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
         },
         {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
         },
         {
-          "name": "Iwaro",
-          "url": "https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H"
+          "name": "Slopes",
+          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
         }
       ],
-      "duration_ms": 134330,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
+      "duration_ms": 162983,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -699,26 +699,26 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/2dzWfg2MZA2F2SciTuedG2"
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/1QZFFOZrBvFHEZSNdkpDix"
       },
       "artists": [
         {
-          "name": "Skinny Days",
-          "url": "https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq"
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
         },
         {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
         },
         {
-          "name": "Slopes",
-          "url": "https://open.spotify.com/artist/3KJJk2RU4RbO0yoDUZzHwZ"
+          "name": "Iwaro",
+          "url": "https://open.spotify.com/artist/1LUtdGHtTM1H84bU2wQg7H"
         }
       ],
-      "duration_ms": 162983,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/5TPWOzPTIxCjqfqORrzoiO"
+      "duration_ms": 134330,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/6nCGuH4cs03pq76E2joqhE"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -963,30 +963,6 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "Marcus Mollyhus",
-          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
-        },
-        {
-          "name": "Conan Mac",
-          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 174146,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/4FQRmLtmbTjjGseIqbpBLR"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/3Lk4vSi2gzzYFXUlrnXF9Y"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "Marcus Mollyhus",
+          "url": "https://open.spotify.com/artist/1q5yTNpPItkDPjcpVgvDaE"
+        },
+        {
+          "name": "Conan Mac",
+          "url": "https://open.spotify.com/artist/3KzORfDLMiyfTogPTJcEGz"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/0jcDf2K7yJsRAfa7XQmkIt"
     },
     {
       "added_at": "2022-10-10 21:14:39",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2022-10-10 21:14:39",
       "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
+      },
+      "artists": [
+        {
+          "name": "Nick Strand",
+          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
+        },
+        {
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Can't Get Over You",
+      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
+    },
+    {
+      "added_at": "2022-10-10 21:14:39",
+      "album": {
         "name": "Let\u2019s Go Home Together (MOTi Remix)",
         "url": "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN"
       },
@@ -2091,26 +2111,6 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
-    },
-    {
-      "added_at": "2022-10-10 21:14:39",
-      "album": {
-        "name": "Can't Get Over You",
-        "url": "https://open.spotify.com/album/0AfivxxYsD8r0S8fiO4mZR"
-      },
-      "artists": [
-        {
-          "name": "Nick Strand",
-          "url": "https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd"
-        },
-        {
-          "name": "Mio",
-          "url": "https://open.spotify.com/artist/11wkY41Tv6H5BbPopqUoCr"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Can't Get Over You",
-      "url": "https://open.spotify.com/track/4fcckOQKfQRyTGUXOtDCge"
     },
     {
       "added_at": "2022-10-10 21:14:39",

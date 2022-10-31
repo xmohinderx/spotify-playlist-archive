@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 142 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 142 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 14 | [Remember](https://open.spotify.com/track/7rvuYWWPi0m86nnxXYwWTT) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [An Evening With Billie Holiday](https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73) | 2:34 |
 | 15 | [This Can't Be Love: The Boys from Syracuse: This Can't Be Love](https://open.spotify.com/track/2uKLMLYcbqdDCaDQY3l4NT) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Ed Thigpen](https://open.spotify.com/artist/7ofmO3RJ2eeaRhApcStDkI) | [Milestones of a Jazz Legend \- Ben Webster, Vol\. 2 \(1957, 1959\)](https://open.spotify.com/album/336zKOuYLlKKo9JIMDi4bP) | 9:51 |
 | 16 | [Raincheck](https://open.spotify.com/track/6xKrilmBUKENVFpbXN3W1z) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Jazz Poet](https://open.spotify.com/album/2wmca9iELMSj5FXOwns1oP) | 5:00 |
-| 17 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6R7v9XCNRFNmGThLqPf8K6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:34 |
-| 18 | [Sunset And The Mocking Bird \- The Queen's Suite](https://open.spotify.com/track/67BBamyXyAaWjHtJwEBPDa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:47 |
+| 17 | [Sunset And The Mocking Bird \- The Queen's Suite](https://open.spotify.com/track/67BBamyXyAaWjHtJwEBPDa) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:47 |
+| 18 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6R7v9XCNRFNmGThLqPf8K6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:34 |
 | 19 | [Paradise](https://open.spotify.com/track/42sWDtFKf9tWByohvmKokH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:13 |
 | 20 | [Such Sweet Thunder \(Cleo\)](https://open.spotify.com/track/5jTKRe6q1XvY9Qu9B96KTE) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 3:19 |
 | 21 | [Day Dream](https://open.spotify.com/track/0noKq3ZipsYm3cjDsGiqgH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:56 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc3ODQ5MjEsMDAwMDAwMDAyMDFkMjVjNjZmYzFjM2YwMzc0NTg3NThkYjNlNWQyNw==`
+Snapshot ID: `Mjc3ODYzNjEsMDAwMDAwMDBmYzVmMDY3NDc4MjgyNjdhMWI4ZmE2MThlMWIzMzFjNQ==`

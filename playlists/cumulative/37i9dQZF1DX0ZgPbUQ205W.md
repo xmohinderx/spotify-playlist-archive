@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-194 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
+195 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/4VFlkwzjI7ScFjbEAfcPrl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Vila Bela](https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Sankofa](https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf) | 4:44 | 2021-12-17 | 2022-06-01 |
 | [VOYAGE PART III](https://open.spotify.com/track/1C8OOkE8XHjZACttQFqxUW) | [KALEIIDO](https://open.spotify.com/artist/053i0P5lMUJN5zBmcQbLd9), [Stine Steendorph](https://open.spotify.com/artist/6yzK2pb4p4S0teRGnNh6Ff), [Kasper Tranberg](https://open.spotify.com/artist/5asffRDuhmMbyKKC4nxXlt), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Jakob Høyer](https://open.spotify.com/artist/0DqbgnqV1ln3Z0kkEXK7OD) | [VOYAGE PART III](https://open.spotify.com/album/5NuJYxRtzw6KvzaLdJnn25) | 8:40 | 2021-12-17 |  |
 | [Wait Till You See Her](https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF) | [John Abercrombie Quartet](https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z) | [Wait Till You See Her](https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi) | 5:40 | 2021-12-17 | 2022-10-08 |
-| [Waking Arp](https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Waking Arp](https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP) | 6:18 | 2021-12-17 |  |
+| [Waking Arp](https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi) | [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [Waking Arp](https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP) | 6:18 | 2021-12-17 | 2022-10-31 |
 | [Waking Dream](https://open.spotify.com/track/44Nuza1A4cfjOAbE65797r) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Times Revisited](https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM) | 5:02 | 2022-09-15 |  |
 | [Walking In Sand](https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB) | [Stephan Micus](https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj) | [Winter's End](https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB) | 2:47 | 2021-12-17 | 2022-10-08 |
 | [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-17 | 2022-08-18 |
@@ -201,6 +201,7 @@
 | [Within The Clouds](https://open.spotify.com/track/3jBYV1juzLdoHKzbiy8Kqv) | [John Surman](https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK), [Nelson Ayres](https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY), [Rob Waring](https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg) | [Invisible Threads](https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk) | 4:48 | 2021-12-17 | 2022-10-27 |
 | [Wouldn't It Be Loverly](https://open.spotify.com/track/0cg1zPrF59wB0GibluYlE8) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Songs From Home](https://open.spotify.com/album/2pSI826dRU8Gb5NH7UxSxN) | 6:09 | 2021-12-17 | 2022-10-07 |
 | [Yes to You](https://open.spotify.com/track/59f6KRHixp6XhO0e8LgjmU) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 3:35 | 2022-05-25 |  |
+| [Zeta](https://open.spotify.com/track/5hS76ESeC9KLWBNhnfzhDM) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [Zeta](https://open.spotify.com/album/3MJmq3oA2Bs8braVIAS2hc) | 3:19 | 2022-10-27 |  |
 | [Øyne](https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE), [Daniel Herskedal](https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS) | [Øyne](https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS) | 3:30 | 2022-05-26 | 2022-08-18 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

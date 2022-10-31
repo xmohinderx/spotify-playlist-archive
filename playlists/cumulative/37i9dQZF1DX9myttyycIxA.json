@@ -8606,6 +8606,28 @@
     },
     {
       "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        },
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP"
+    },
+    {
+      "album": {
         "name": "Pls",
         "url": "https://open.spotify.com/album/5nAYqQTnaU48kSylS4lFzw"
       },
@@ -9855,10 +9877,28 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 236666,
       "name": "Someone to Love",
       "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
+    },
+    {
+      "album": {
+        "name": "Hiding in Plain Sight",
+        "url": "https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN"
+      },
+      "artists": [
+        {
+          "name": "Drugdealer",
+          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "Someone to Love",
+      "url": "https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T"
     },
     {
       "album": {

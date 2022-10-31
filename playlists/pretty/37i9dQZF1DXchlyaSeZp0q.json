@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 73753,
+  "num_followers": 74019,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDY4Y2U5ZmI0MWUzNTAyMDFiOGY5MzhhM2JhZDU2N2Mz",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDdlZjhkOWM4NGIxZTBkN2E4NDJmNzk2MGNhOWNlYTg2",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-09-08 14:58:04",
       "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Then You Can Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Then You Can Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
     },
     {
       "added_at": "2022-09-08 14:58:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,272 likes - 55 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,360 likes - 55 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 26 | [Fire at Static Valley](https://open.spotify.com/track/0r4MOhVw2anZScz5PTUrJk) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 5:58 |
 | 27 | [Ekki múkk](https://open.spotify.com/track/4aLf8xu5v9TuzVAeIPFETC) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Valtari](https://open.spotify.com/album/0ZHkshyLAi9f8DXdj3Z5ph) | 7:44 |
 | 28 | [Passage](https://open.spotify.com/track/1qjepM8Kvr049e9gE1fkdm) | [Lowercase Noises](https://open.spotify.com/artist/7trvyUUXmPhi1StCNYHj4e) | [Passage](https://open.spotify.com/album/5KFRuWDL0crUoNfvBqMFyw) | 5:47 |
-| 29 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
-| 30 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
+| 29 | [What the Heart Craves For](https://open.spotify.com/track/0HRANjLImYOvlfNF9wG2cy) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Sacrifice & Isolation](https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka) | 5:11 |
+| 30 | [In Collusion with the Waves](https://open.spotify.com/track/6utTjO78Oyvw6LfdeoTlFW) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [The Ever Shifting Fields](https://open.spotify.com/album/5YXSmYWQudOo2mnajpxenL) | 4:37 |
 | 31 | [Ho Renomo](https://open.spotify.com/track/2nBtV4NSZJiarMBMpsn6UH) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 5:11 |
 | 32 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 |
 | 33 | [OUR SIDE HAS TO WIN \(for D.H.\)](https://open.spotify.com/track/6AWgFM6ORRfr9bphIW25bB) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [G\_d's Pee AT STATE'S END!](https://open.spotify.com/album/6gZsJeN8MdITXZMVDXrMk0) | 6:30 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 45 | [Ea: First Movement](https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [Timewave Zero](https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ) | 7:21 |
 | 46 | [Are You There?](https://open.spotify.com/track/5uK3MgCUXANoPoAhWqdfe8) | [MONO](https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3) | [You Are There](https://open.spotify.com/album/4yT7Tq2TN7PcfgEx3EWc8k) | 10:25 |
 | 47 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
-| 48 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
-| 49 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
+| 48 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
+| 49 | [I Dreamt Our Whole City Burned](https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [I Dreamt Our Whole City Burned](https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN) | 4:44 |
 | 50 | [A Citizen's Dream](https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Signals](https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI) | 6:01 |
 | 51 | [Mystik](https://open.spotify.com/track/25HjqUZFeK2tgNuGHiXWCB) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Mystik](https://open.spotify.com/album/03tqMIhiB0qSBTtuuZsOdU) | 2:26 |
 | 52 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 54 | [Drifting](https://open.spotify.com/track/2ttXU3cfx8unAngSRQ60CK) | [Ambient Endeavors](https://open.spotify.com/artist/6K2iIaKWCotVvzrL8ryV2W), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Drifting](https://open.spotify.com/album/1bGo7G5JOcy9jE8S4uNo0H) | 2:53 |
 | 55 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 
-Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDBjZDE3YWQ2YzMwNzIyMzkyZmM1NzYxMjNkM2RkMjM4`
+Snapshot ID: `MTY2NDg5MTc4MywwMDAwMDAwMDhhNDE2OGM2MTQwY2FlNjJlM2NjMWEyZmUxZTY5NjNl`

@@ -4,7 +4,7 @@
 
 > Orbit Culture on top of the biggest Metal playlist!
 
-309 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
+310 songs - 20 hr 27 min - [published](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 | 2021-12-20 | 2022-04-29 |
 | [Death to the Holy](https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:07 | 2022-02-11 | 2022-05-06 |
 | [Ded to Me](https://open.spotify.com/track/0WATUz2EzNC0NT8w4D3HE7) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Ded to Me](https://open.spotify.com/album/1XyQDiFCupKpn5E9yAtlRL) | 3:44 | 2022-10-14 | 2022-10-22 |
-| [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-16 |  |
+| [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-16 | 2022-10-31 |
+| [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 | 2022-10-28 |  |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-29 | 2022-10-01 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-07-15 |  |
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-08-12 | 2022-09-10 |

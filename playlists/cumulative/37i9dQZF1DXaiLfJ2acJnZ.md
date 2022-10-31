@@ -4,13 +4,13 @@
 
 > Lovely, pop\-filled, fun.
 
-203 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
+204 songs - 10 hr 45 min - [published](https://open.spotify.com/playlist/2g79cma7f2NHaiuEcBbTN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2021-11-25 |  |
 | [1982](https://open.spotify.com/track/2A4E5mcSUEnG43PsPCF2IA) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [1982](https://open.spotify.com/album/64MExmLiILoHbsR0xF7tht) | 3:11 | 2021-11-25 | 2022-07-29 |
-| [1982](https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [City That I'm Lost In](https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi) | 3:11 | 2022-09-23 |  |
+| [1982](https://open.spotify.com/track/2l48q7fReW5pz6aaF6Daas) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [City That I'm Lost In](https://open.spotify.com/album/55nT09RXHNHWgx6fX0FYYi) | 3:11 | 2022-09-23 | 2022-10-31 |
 | [5 In The Morning](https://open.spotify.com/track/0hOlbRZFsasbJzcciXRolS) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [5 In The Morning](https://open.spotify.com/album/220klXAbSUKi5mUSdSZndX) | 3:14 | 2022-01-21 | 2022-05-11 |
 | [A\-O\-K](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-01-21 |  |
 | [A\-O\-K](https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc) | 2:53 | 2021-11-25 | 2022-07-29 |
@@ -56,6 +56,7 @@
 | [Everywhere \(BBC Children In Need\)](https://open.spotify.com/track/0z0kUUd2jPQiI2Ob8VXajc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Everywhere \(BBC Children In Need\)](https://open.spotify.com/album/6oR3FdaFqFAUJtQBQ0Lm3I) | 2:51 | 2021-11-25 | 2022-09-24 |
 | [Facts](https://open.spotify.com/track/6OJ6FVTIs6NmeZL3bYuUS4) | [Ama Jones](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Facts](https://open.spotify.com/album/0AVY80t6AY0s3vX5oe43s7) | 3:17 | 2022-01-14 | 2022-01-18 |
 | [Favourite Song](https://open.spotify.com/track/1yF8WDLODa7w1ZbM8cC0Rt) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/3sDbc2qra6qxybxmiiYMni) | 3:39 | 2021-11-25 | 2022-10-15 |
+| [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 | 2022-10-28 |  |
 | [Feel It for You](https://open.spotify.com/track/2AjbxwfJR24dBWmp6tSxy2) | [Lydia Ford](https://open.spotify.com/artist/2pC5evGCBphU1KuCK8MoS5) | [Feel It for You](https://open.spotify.com/album/3Ff4bHMNm5DCD2Xx6EGwBW) | 2:40 | 2021-11-25 | 2022-07-28 |
 | [Feel Something](https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Feel Something](https://open.spotify.com/album/5hnjWGpT06tLDq8u8WxhGI) | 2:43 | 2021-11-25 |  |
 | [Feels Like](https://open.spotify.com/track/1t47VcSCBG5UH6YMU2Bih0) | [ELM](https://open.spotify.com/artist/0z5MH7P2J44oGJjMreM1WD) | [Feels Like](https://open.spotify.com/album/6leWA2yJGegji4vdv2Tkq5) | 0:29 | 2021-11-25 | 2022-07-02 |

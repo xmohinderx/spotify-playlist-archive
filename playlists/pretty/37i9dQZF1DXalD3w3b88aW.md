@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,845 likes - 76 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,852 likes - 76 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 13 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
 | 14 | [Kaytra's Interlude \(feat\. KAYTRANADA\)](https://open.spotify.com/track/5Sf02v5Q9Z9Ewfxmn69JOt) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 1:20 |
 | 15 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
-| 16 | [Runnin' \- Interlude](https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt) | 2:17 |
-| 17 | [Daniel's Interlude](https://open.spotify.com/track/1EGvhh9BxIsSZ52Y7fQ1il) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:25 |
+| 16 | [Daniel's Interlude](https://open.spotify.com/track/1EGvhh9BxIsSZ52Y7fQ1il) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Working On My Karma](https://open.spotify.com/album/11LYtfhFQqoEsnTRgWtBSM) | 2:25 |
+| 17 | [Runnin' \- Interlude](https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt) | 2:17 |
 | 18 | [Hey Sugah \- Interlude](https://open.spotify.com/track/0xgkQ67LbDWjL86nIHeXS3) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 0:51 |
 | 19 | [A.N.G.E.L\. \- Interlude](https://open.spotify.com/track/3sDeuisFRzTK7dfwlNvoNK) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 2:19 |
 | 20 | [I Wanna Be Where You Are](https://open.spotify.com/track/7KZqVqDuJOlxwwZa6mmOGS) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 1:16 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 46 | [Makings Of You \- Interlude](https://open.spotify.com/track/3FAM5Y7Hks9R3qtsUKdPJh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 2:30 |
 | 47 | [Puff's Intro](https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 1:40 |
 | 48 | [Why \(Interlude\)](https://open.spotify.com/track/346GctLi0LBpPTjfTQRkvZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 1:43 |
-| 49 | [I've Changed \(feat\. Lil' Mo\) \- Interlude](https://open.spotify.com/track/6BqzBaFjRWUbZx59inQaY8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 1:05 |
-| 50 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
-| 51 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
+| 49 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
+| 50 | [I've Changed \(feat\. Lil' Mo\) \- Interlude](https://open.spotify.com/track/6BqzBaFjRWUbZx59inQaY8) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92) | [Miss E..\. So Addictive](https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP) | 1:05 |
+| 51 | [Looking For Love \(Interlude\)](https://open.spotify.com/track/3vBQKlQIql3ACIW9wCwt1w) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Damita Jo](https://open.spotify.com/album/0VMneW8zRFEqc2RffLf88S) | 1:29 |
 | 52 | [Room 454: De Vante's " Inhermission"](https://open.spotify.com/track/1sRZRD4cl1xsLUHrZd86yT) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 2:10 |
 | 53 | [Tears Away \(Interlude\)](https://open.spotify.com/track/1wxzkfNwBwpB43Y7KiybNe) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:41 |
-| 54 | [Looks Good With Trouble](https://open.spotify.com/track/0yJl8GDfihXsPOqGQE9bFp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 1:30 |
+| 54 | [Smoke \(Interlude\) \(feat\. Soko\)](https://open.spotify.com/track/5XrSD5qp2cTeSz7zDsNskG) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Soko](https://open.spotify.com/artist/7jY8kqH6TphQsiT0wjlsqZ) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:42 |
 | 55 | [I Surrender \- Interlude](https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:14 |
 | 56 | [Nothing \(Interlude\)](https://open.spotify.com/track/0B6HLF4uh7dDwbWzqR57tP) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 1:31 |
 | 57 | [Don't Go Away \(Interlude\)](https://open.spotify.com/track/1IJi8PLl6G5C4gvaI8LuhG) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [Soul Of A Woman](https://open.spotify.com/album/0k75jOkzHNHY3IdmjyZA9u) | 1:16 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 75 | [Truth or Dare \(Interlude\)](https://open.spotify.com/track/5OVOuE9dQ4BLM3A6jzjf9o) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 1:22 |
 | 76 | [Don't Go Away \- Interlude](https://open.spotify.com/track/18OXiSteYpaqhnqdWxfHQs) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 0:48 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDZkN2M1OTY1OGZhM2FkMzg0YWQwNTBjOWJiYmE0MWI1`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGQxZDQyZGVlNDA3MDBlYTQyZmRlOTg1MzAzYWRhYmNk`

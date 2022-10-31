@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,886 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 34 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
 | 35 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
 | 36 | [All I Need](https://open.spotify.com/track/6vC5WWQXWqBUW5iq7XoGnu) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Night Lights](https://open.spotify.com/album/1UyBQOLKc5jxzrdAOpHjv4) | 6:41 |
-| 37 | [River Drift](https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [River Drift](https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ) | 5:42 |
-| 38 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
+| 37 | [Mokuba](https://open.spotify.com/track/58Ge6PmTc9PfP0mK5GC8Mk) | [TAUK](https://open.spotify.com/artist/6qauwCj8W2mTcDGbyDGo6O) | [Collisions](https://open.spotify.com/album/0Hzx5qahFYpoxFlNz0iHrK) | 5:27 |
+| 38 | [River Drift](https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [River Drift](https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ) | 5:42 |
 | 39 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 |
 | 40 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 41 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 49 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
 | 50 | [The Freeman Massacre](https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [The Freeman Massacre](https://open.spotify.com/album/5uab2WSyu9MVOz23LkHk9B) | 7:51 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGFlMWU5M2NhOGJhNmQ1ZDA4M2ZhOWI5ZTBkZDE0YjUw`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDhmMTVjZWQyYjZjZDBkODU5Yzg0ZTg0ZjE2ZGM0NTFj`

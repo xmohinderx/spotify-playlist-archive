@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 4835,
+  "num_followers": 4847,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDVlZmIzNDkyYjFiM2JmNTA3NTg2ODU2ODE5MmQ2Yjdm",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMGVhM2U0Y2Y2MmM4MGI0MGE2MGJmMGVlZDBmYjk1MmRl",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Mississippi To Mali",
-        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Station Blues",
-      "url": "https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Ishumar: Musique touar\u00e8gue de r\u00e9sistance",
         "url": "https://open.spotify.com/album/5W3fyI4YPle5wruoB9mBOX"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 420160,
       "name": "Tenere wer tat zinchegh",
       "url": "https://open.spotify.com/track/2ublmuB6ysxXMtb64UOIjk"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Mississippi To Mali",
+        "url": "https://open.spotify.com/album/6IzcR4AS2tHjyFq0gBcU6T"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Station Blues",
+      "url": "https://open.spotify.com/track/3EslkE2cZXvv4oiNDZbh3W"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fenfo (Something To Say)",
-        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Fenfo",
-      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "The West African Blues Project",
         "url": "https://open.spotify.com/album/2qmkovxkB5dMiploF5sI2Y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 250600,
       "name": "Dune Blues",
       "url": "https://open.spotify.com/track/6QqzGQfDnaQDwHGVnPkz6u"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fenfo (Something To Say)",
+        "url": "https://open.spotify.com/album/6u7suNUEjTMywnCbZo3ntn"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Fenfo",
+      "url": "https://open.spotify.com/track/3OpagvD17dZQLN53GIj2D3"
     },
     {
       "added_at": "2020-12-01 05:01:00",

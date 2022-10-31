@@ -1,12 +1,12 @@
 {
   "description": "Have a quiet morning with this mix of something familiar and something new.",
-  "num_followers": 492249,
+  "num_followers": 492328,
   "original_name": "Mellow Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDk1NGExYTI5NWU3MWRkMmQ2MDY1ZDM1NjhmYWE3ZDdi",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDY0ZTFmOTlkY2JhOWQyOTM3ZDcyYWI1MzA0ZjViZGZh",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -119,6 +119,22 @@
     {
       "added_at": "2020-10-17 03:18:49",
       "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 162797,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 162797,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/5HphhcOuLFWBj9IghbrKJB"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Paper Airplanes",
-        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 257493,
-      "name": "Paper Airplanes",
-      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Meet The Moonlight",
@@ -695,6 +679,22 @@
       "duration_ms": 305607,
       "name": "Meet The Moonlight",
       "url": "https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR"
+    },
+    {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Paper Airplanes",
+        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "Paper Airplanes",
+      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -761,6 +761,22 @@
       "url": "https://open.spotify.com/track/38jJdP6hG3x63SKrJZutMW"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
       "added_at": "2020-10-17 03:18:49",
       "album": {
         "name": "Patrick Droney",
@@ -795,22 +811,6 @@
       "duration_ms": 177673,
       "name": "Summer Moon (feat. Kevin Kaarl)",
       "url": "https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "Gold-Diggers Sound (Deluxe)",
+        "url": "https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "Summer Rain (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
+    },
+    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Blue",
@@ -957,24 +977,20 @@
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
     },
     {
-      "added_at": "2021-11-19 05:01:00",
+      "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "Gold-Diggers Sound (Deluxe)",
-        "url": "https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB"
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 164038,
-      "name": "Summer Rain (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO"
+      "duration_ms": 199903,
+      "name": "Old Fashioned",
+      "url": "https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0"
     },
     {
       "added_at": "2020-10-17 03:18:49",
@@ -993,38 +1009,6 @@
       "url": "https://open.spotify.com/track/7nce2oQRyKkRb9OCkyKq8u"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "To Let A Good Thing Die",
-        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 199903,
-      "name": "Old Fashioned",
-      "url": "https://open.spotify.com/track/3iI7E4AxiTf0Pmb7oWSjR0"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Angels & Queens - Part I",
-        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 252135,
-      "name": "If You Only Knew",
-      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
-    },
-    {
       "added_at": "2021-07-30 04:01:00",
       "album": {
         "name": "Growth",
@@ -1039,6 +1023,22 @@
       "duration_ms": 170434,
       "name": "Cross My Mind",
       "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+    },
+    {
+      "added_at": "2020-10-17 03:18:49",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ"
     },
     {
-      "added_at": "2020-10-17 03:18:49",
+      "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+        "name": "Angels & Queens - Part I",
+        "url": "https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
         }
       ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+      "duration_ms": 252135,
+      "name": "If You Only Knew",
+      "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
       "added_at": "2021-11-19 15:04:24",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/2fHOiCZWlGwLCEJx1Mpn3z"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "What A Difference She Made",
+        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 175696,
+      "name": "What A Difference She Made",
+      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+    },
+    {
       "added_at": "2021-11-19 15:05:45",
       "album": {
         "name": "(Wish I Didn't Have to) Lie [feat. JORDY]",
@@ -1153,20 +1169,20 @@
       "url": "https://open.spotify.com/track/0HXEPlkF9FrfuuDBCbsEAO"
     },
     {
-      "added_at": "2022-10-14 04:00:00",
+      "added_at": "2020-10-17 03:18:49",
       "album": {
-        "name": "What A Difference She Made",
-        "url": "https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ"
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
         }
       ],
-      "duration_ms": 175696,
-      "name": "What A Difference She Made",
-      "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -1183,22 +1199,6 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": "2020-10-17 03:18:49",
-      "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2022-03-11 05:02:00",

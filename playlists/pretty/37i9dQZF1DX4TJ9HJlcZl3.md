@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Young Gun Silver Fox
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 28 | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/track/4QMipGuTpebExVmTOA2s3C) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Lakers Town \(feat\. Michael McBolton\)](https://open.spotify.com/album/2y9tOyJh8EMvPBnzfsGuUZ) | 3:15 |
 | 29 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 |
 | 30 | [The Lottery](https://open.spotify.com/track/16xoohpKWmRCrSbK5tQtpL) | [The Stepkids](https://open.spotify.com/artist/1JbB3pybR1wjrQSBLaMWyn) | [Troubadour](https://open.spotify.com/album/0IA0ptUhfkuHZa6pz8g82v) | 3:50 |
-| 31 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 |
+| 31 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 |
 | 32 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/5fGWdNGGnvKrrHL6U7c1Vp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Humility \(feat\. George Benson\)](https://open.spotify.com/album/3S41zT1PsTvoqHHEUv7xCc) | 3:17 |
 | 33 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 |
 | 34 | [Without Sun](https://open.spotify.com/track/6lnZykjqn6BVvd3aBHHkXh) | [Swim Mountain](https://open.spotify.com/artist/0k03iT1wmiddzXpZD2spn7) | [If \(Deluxe Edition\)](https://open.spotify.com/album/3jf8VD6LvB13HzkQ3R4evy) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 |
 | 50 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGM1MTM2YmExZTljZGExZWExMjQ5NTgyZDdlOTI0Yzg0`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGVjZDM2MDNhMDFjZTQ4ODE4Mjk5ODkzYmEzMDM5NmJj`

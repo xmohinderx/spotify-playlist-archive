@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ir Sais, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,588 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,606 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 66 | [Cheza Kama Wewe](https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Exray](https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo), [Nellythegoon](https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7) | [Son of the City](https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS) | 5:34 |
 | 67 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 68 | [LOML \(feat\. Olamide\)](https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [LOML \(feat\. Olamide\)](https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH) | 3:16 |
-| 69 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 |
-| 70 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 |
+| 69 | [Toko Challenge](https://open.spotify.com/track/7lVYGPGRWwW6BvRtv56LFU) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [Kreatunez](https://open.spotify.com/artist/1m4eSszfpkM2qznh5FeUKv) | [Toko Challenge](https://open.spotify.com/album/5YM0xejbqgF9nsg4gUHrW0) | 1:38 |
+| 70 | [Poporó](https://open.spotify.com/track/5cTwelN24Ur09iRRqy43Oz) | [Preto Show](https://open.spotify.com/artist/4YlvKlWWHJl1TuXvrk94OW), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Poporó](https://open.spotify.com/album/3JN06AJeeSNLxhpjSR4pLx) | 2:49 |
 
-Snapshot ID: `MTY2MjQ4MTc1MywwMDAwMDAwMGQ4MTg2NDYxZmViZjk0MmI0YWM2Y2NmMzQ5ZTBiMTkx`
+Snapshot ID: `MTY2MjQ4MTc1MywwMDAwMDAwMDQzMzNiMzQ5NzEwOTEyOTgxN2VkOWUxZDI0Nzk0MDAx`

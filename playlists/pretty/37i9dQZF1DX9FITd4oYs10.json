@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 13972,
+  "num_followers": 13980,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDExMTQxYTQ5NDEwYzFlYzAxZWIzNzhlNDdiOTQ5NzA3",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDZhMTg4YTg0NmJmNWIxNTk3Y2M4M2U3YmI1NDA1Yzhi",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -979,6 +979,30 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Olhares",
+        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Olhares",
+      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/6oxM1v9bPLiiVZp0OjtIFG"
       },
@@ -1011,50 +1035,6 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
-        "name": "Olhares",
-        "url": "https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Olhares",
-      "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
         "name": "A Divina Com\u00e9dia",
         "url": "https://open.spotify.com/album/7z0Urrb0oyXZIglsBlREud"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 320744,
       "name": "A Divina Com\u00e9dia",
       "url": "https://open.spotify.com/track/1j9jCO7zGkxuAOJTTZpHiL"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
     },
     {
       "added_at": "2022-08-01 21:43:45",

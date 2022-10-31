@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 745,736 likes - 123 songs - 6 hr 26 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 745,753 likes - 123 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 2 | [die 4 u](https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL), [damnboy!](https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU) | [die 4 u](https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8) | 2:54 |
 | 3 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
 | 4 | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/album/5NchOgnEho2Pd3TX6RNVrR) | 3:58 |
-| 5 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 |
-| 6 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 |
+| 5 | [Runaway](https://open.spotify.com/track/3DzOMCStLUpXvooH03HF1C) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Runaway](https://open.spotify.com/album/0uBqvxbWAPEBvJ9FZnI780) | 4:20 |
+| 6 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 |
 | 7 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 |
 | 8 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 |
 | 9 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 |
 | 10 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 |
 | 11 | [Dreamatic](https://open.spotify.com/track/7Ahq8UweaUdoBHwVR76suu) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Dreamatic](https://open.spotify.com/album/15b6oP9UfGUyEYJpv2V150) | 3:48 |
-| 12 | [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 |
+| 12 | [Annabelle's Tea Party](https://open.spotify.com/track/6nPkoJ32PlIiCmmhnxxZKj) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [Annabelle's Tea Party](https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24) | 3:08 |
 | 13 | [Bloodpressure](https://open.spotify.com/track/5RzDuOcYIKS4HiBoso8MJB) | [Rogers & Dean](https://open.spotify.com/artist/1y2QNK5amkPuPSbqhrWQru), [Amvis](https://open.spotify.com/artist/5Z8apqv6IO2IVBNDRTwgED) | [Bloodpressure](https://open.spotify.com/album/6E9DuYd6nqtww0XbR5L4AM) | 3:28 |
 | 14 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 |
 | 15 | [Illusion](https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Crunr](https://open.spotify.com/artist/6NpDx4k32E3pChXfXeDVTr) | [Illusion](https://open.spotify.com/album/1K5HiEm4XcBAxxrk0afaQE) | 3:17 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 122 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 |
 | 123 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 |
 
-Snapshot ID: `NDc0MCw0NjA1NzNkNGRiZWM0M2JlZGViMTVjMGI0M2YwODk1ZWQ0MzdjODJh`
+Snapshot ID: `NDc0MiwxOGM3YmJkOGZkMjNkMjNhYWNlZWZhMjA3NjBhNmJhZTkxYWMzMjUy`

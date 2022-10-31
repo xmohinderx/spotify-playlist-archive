@@ -121,6 +121,28 @@
     {
       "album": {
         "name": "Alleluia",
+        "url": "https://open.spotify.com/album/7EvQEwTKIBBDYj3ZmNEdaQ"
+      },
+      "artists": [
+        {
+          "name": "Greg Maroney",
+          "url": "https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC"
+        },
+        {
+          "name": "Brenda J Johnson",
+          "url": "https://open.spotify.com/artist/31Z4VufQz8ghh6tjrFBACH"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278700,
+      "name": "Alleluia",
+      "url": "https://open.spotify.com/track/4y9K2DWq34Dvl0ZIQpKWIY"
+    },
+    {
+      "album": {
+        "name": "Alleluia",
         "url": "https://open.spotify.com/album/0IhqRj6DR2onxdysxhkvMz"
       },
       "artists": [
@@ -1755,7 +1777,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 146016,
       "name": "November Sea",
       "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"

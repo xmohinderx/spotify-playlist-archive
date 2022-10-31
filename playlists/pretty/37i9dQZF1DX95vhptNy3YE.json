@@ -1,12 +1,12 @@
 {
   "description": "Kyan e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 154874,
+  "num_followers": 154933,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc3Nzc5MywwMDAwMDAwMDM0ZWY2YmE1MDE4NjQ1MjljYmQ3YzgyZmU5ZDNlZWI4",
+  "snapshot_id": "MTY2Njc3Nzc5MywwMDAwMDAwMDkxMDhiYTQ0ZDRhMThiNjY3ZDU1YTlkNTBhMDU0ZTBh",
   "tracks": [
     {
       "added_at": "2022-10-26 09:49:53",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-10-26 09:49:53",
       "album": {
+        "name": "Ins\u00f4nia (Ao vivo)",
+        "url": "https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "Ins\u00f4nia - Ao vivo",
+      "url": "https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF"
+    },
+    {
+      "added_at": "2022-10-26 09:49:53",
+      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -491,50 +511,6 @@
     {
       "added_at": "2022-10-26 09:49:53",
       "album": {
-        "name": "Ins\u00f4nia (Ao vivo)",
-        "url": "https://open.spotify.com/album/1AbDFvSVfPK95Tpkb5d1F9"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 181157,
-      "name": "Ins\u00f4nia - Ao vivo",
-      "url": "https://open.spotify.com/track/4SGixaEhdRjeZ4PTgavkzF"
-    },
-    {
-      "added_at": "2022-10-26 09:49:53",
-      "album": {
-        "name": "Lado Nerd",
-        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Lado Nerd",
-      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
-    },
-    {
-      "added_at": "2022-10-26 09:49:53",
-      "album": {
         "name": "Quebradas",
         "url": "https://open.spotify.com/album/5wSJkFgoyruJuAblbrr5rH"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 250588,
       "name": "Quebradas",
       "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
+    },
+    {
+      "added_at": "2022-10-26 09:49:53",
+      "album": {
+        "name": "Lado Nerd",
+        "url": "https://open.spotify.com/album/4X0qPgz8rtgBfxSsTY3L5N"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Lado Nerd",
+      "url": "https://open.spotify.com/track/152JuulFiSlmLQU1p3oM4b"
     },
     {
       "added_at": "2022-10-26 09:49:53",
@@ -975,58 +975,6 @@
     {
       "added_at": "2022-10-26 09:49:53",
       "album": {
-        "name": "Melhor Op\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Mc Kanhoto",
-          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Melhor Op\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz"
-    },
-    {
-      "added_at": "2022-10-26 09:49:53",
-      "album": {
-        "name": "Facilitei",
-        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Facilitei",
-      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
-    },
-    {
-      "added_at": "2022-10-26 09:49:53",
-      "album": {
         "name": "Homenagem aos Reliquias 5.0",
         "url": "https://open.spotify.com/album/3Eyjgtt5cxuUnpaH4Z7lSY"
       },
@@ -1083,6 +1031,58 @@
       "duration_ms": 716000,
       "name": "Homenagem aos Reliquias 5.0",
       "url": "https://open.spotify.com/track/3TlhjnXYhY8Vts9aphf6ct"
+    },
+    {
+      "added_at": "2022-10-26 09:49:53",
+      "album": {
+        "name": "Facilitei",
+        "url": "https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Facilitei",
+      "url": "https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF"
+    },
+    {
+      "added_at": "2022-10-26 09:49:53",
+      "album": {
+        "name": "Melhor Op\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Melhor Op\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz"
     },
     {
       "added_at": "2022-10-26 09:49:53",

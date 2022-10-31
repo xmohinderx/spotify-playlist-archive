@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,090 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,134 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 44 | [Kiwi Maddog 20/20 \(version 2 of 2\)](https://open.spotify.com/track/32gMbrYoS2qIA54JmZ9TFn) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:40 |
 | 45 | [Half Right](https://open.spotify.com/track/5KqUAChw7ZFJpc4knm4jka) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:50 |
 
-Snapshot ID: `Mjc3ODQyMzIsMDAwMDAwMDA1ODJkMWVjZDc0ODg1NzY1MmM0YmVmNzk3NzkyMmIwOQ==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAwYmNlMTlkZjU5MGMyYzFkMzVkMmYyYTI2MDc3MmQxMA==`

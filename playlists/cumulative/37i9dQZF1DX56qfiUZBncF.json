@@ -1180,6 +1180,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
+    },
+    {
+      "album": {
         "name": "Fallss",
         "url": "https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H"
       },
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 218506,
       "name": "Interstellar Love (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/59lpmLRHEkHxufzKdOFRRA"

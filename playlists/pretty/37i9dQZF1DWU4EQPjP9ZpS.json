@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 205662,
+  "num_followers": 205860,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMDg5ZjU1NzUwNWUzYTMyOWI3MGQzZTJkYmZmNTZkMzhk",
+  "snapshot_id": "MTY2MjkxODc2MywwMDAwMDAwMDYxN2EwZjNiODIyZmRjYWViZDI3YjI2NjhkNTEyYTA0",
   "tracks": [
     {
       "added_at": "2022-09-11 17:52:42",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
+      },
+      "artists": [
+        {
+          "name": "FM Attack",
+          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
+        }
+      ],
+      "duration_ms": 200019,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Us Ephemeral (George Clanton Remix)",
         "url": "https://open.spotify.com/album/5iXkNJHC66zdyRjnd3tfwR"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 269538,
       "name": "Us Ephemeral (George Clanton Remix)",
       "url": "https://open.spotify.com/track/58V1yIBumv9mbcOhaHPFqe"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "City Lights",
-        "url": "https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc"
-      },
-      "artists": [
-        {
-          "name": "FM Attack",
-          "url": "https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb"
-        }
-      ],
-      "duration_ms": 200019,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Strangers Who Know Every Secret",
-        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
+        "name": "Anomaly",
+        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
       },
       "artists": [
         {
-          "name": "Designed Intervention",
-          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
         }
       ],
-      "duration_ms": 156613,
-      "name": "Strangers Who Know Every Secret",
-      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
+      "duration_ms": 232473,
+      "name": "Anomaly",
+      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
+        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
+        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
       },
       "artists": [
         {
-          "name": "VANITAS\u547d\u6b7b",
-          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
+          "name": "\u732b \u30b7 Corp.",
+          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
         }
       ],
-      "duration_ms": 277570,
-      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
-      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+      "duration_ms": 354000,
+      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
+      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1043,18 +1043,34 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Anomaly",
-        "url": "https://open.spotify.com/album/2BacN89ksqwckgSLcayfkb"
+        "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+        "url": "https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP"
       },
       "artists": [
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "VANITAS\u547d\u6b7b",
+          "url": "https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI"
         }
       ],
-      "duration_ms": 232473,
-      "name": "Anomaly",
-      "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
+      "duration_ms": 277570,
+      "name": "\u65b0\u3057\u3044\u6642\u4ee3, Yes!",
+      "url": "https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Strangers Who Know Every Secret",
+        "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
+      },
+      "artists": [
+        {
+          "name": "Designed Intervention",
+          "url": "https://open.spotify.com/artist/4dpQCIT52Zhd5DkCtGjohT"
+        }
+      ],
+      "duration_ms": 156613,
+      "name": "Strangers Who Know Every Secret",
+      "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1091,22 +1107,6 @@
       "duration_ms": 280000,
       "name": "Melatonin High - Rework 2021",
       "url": "https://open.spotify.com/track/05NcFvbmsIEHSSiu0YN8HU"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
-        "name": "\u30b7 \u30e7 \u30c3 \u30d7 @ \u30d8 \u30eb \u30b7 \u30f3 \u30ad",
-        "url": "https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl"
-      },
-      "artists": [
-        {
-          "name": "\u732b \u30b7 Corp.",
-          "url": "https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "\u90fd \u5e02 \u30d5 \u30a9 \u30fc \u30e9 \u30e0 Consumer [kahvi]",
-      "url": "https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 162228,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/7wWoHrgmniGylyEOxt0CyY"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Psycho Geography",
-        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
-      },
-      "artists": [
-        {
-          "name": "Memorex Memories",
-          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
-        }
-      ],
-      "duration_ms": 201081,
-      "name": "Psycho Geography",
-      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Psycho Geography",
+        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+      },
+      "artists": [
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Psycho Geography",
+      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "24Hrs.",
-        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 145240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Screensaver",
         "url": "https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe"
       },
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
+        "name": "24Hrs.",
+        "url": "https://open.spotify.com/album/5c8pB4iBCoVveYDf8Nf1UI"
+      },
+      "artists": [
+        {
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
+        }
+      ],
+      "duration_ms": 145240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
         "name": "Music: Here To Stay",
         "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
       },
       "artists": [
         {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+          "name": "bbrainz",
+          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
         }
       ],
-      "duration_ms": 78947,
-      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
-      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
+      "duration_ms": 181955,
+      "name": "TELL ME HOW IT FEELS",
+      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
-      },
-      "artists": [
-        {
-          "name": "bbrainz",
-          "url": "https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E"
-        }
-      ],
-      "duration_ms": 181955,
-      "name": "TELL ME HOW IT FEELS",
-      "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
-    },
-    {
-      "added_at": "2022-09-11 17:52:42",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 135035,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/1V8ANe0aZwSRJWRAG8p4ng"
+    },
+    {
+      "added_at": "2022-09-11 17:52:42",
+      "album": {
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
+      },
+      "artists": [
+        {
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
+        }
+      ],
+      "duration_ms": 78947,
+      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
+      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
     },
     {
       "added_at": "2022-09-11 17:52:42",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2022-09-11 17:52:42",
       "album": {
-        "name": "Agoraphilia",
-        "url": "https://open.spotify.com/album/2YDSlxjHqPxovT02jnUU18"
+        "name": "Rash Devices (FM Skyline Remix)",
+        "url": "https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD"
       },
       "artists": [
         {
-          "name": "Gogi 93",
-          "url": "https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ"
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        },
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 221864,
-      "name": "Freedom Airways",
-      "url": "https://open.spotify.com/track/6eVP45Uxmf0VUSqhZKxjVX"
+      "duration_ms": 231049,
+      "name": "Rash Devices (FM Skyline Remix)",
+      "url": "https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM"
     }
   ],
   "unique_name": "vaporwave",

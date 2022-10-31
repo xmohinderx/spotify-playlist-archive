@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 12 min - not published yet
+51 songs - 3 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,8 +32,9 @@
 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 | 2022-10-26 |  |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-10-26 |  |
 | [Me siento bien](https://open.spotify.com/track/1BhVIZ0fuduQfpB7AD3AeY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [10](https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg) | 3:39 | 2022-10-26 |  |
+| [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 | 2022-10-30 |  |
 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 | 2022-10-26 |  |
-| [No eres nadie](https://open.spotify.com/track/4wVTDF3hzYHSrEtPYP8oR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 4:07 | 2022-10-26 |  |
+| [No eres nadie](https://open.spotify.com/track/4wVTDF3hzYHSrEtPYP8oR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 4:07 | 2022-10-26 | 2022-10-31 |
 | [No te puedo besar](https://open.spotify.com/track/4CJ9yzAmxMzzspKSN5AidD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:44 | 2022-10-26 |  |
 | [Por que no ser amigos \(feat\. Dani Martín\)](https://open.spotify.com/track/49bjeL6wU0pqGUUXMJpDQP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Todo esto es muy extraño](https://open.spotify.com/album/0Gmyt4UXxwIgselvhsT3n5) | 3:18 | 2022-10-26 |  |
 | [Qué soy yo para ti \- Remaster 2015](https://open.spotify.com/track/4FUGh9RHqRo4PoYnGkWpNG) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 5:37 | 2022-10-26 |  |

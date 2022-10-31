@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,679 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,696 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmPLr.md) - [plain]
 | 31 | [Deranged](https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 3:07 |
 | 32 | [Cuckoo \(feat\. Little Simz\)](https://open.spotify.com/track/7GIkNL7cGq9JBjtUcD5M28) | [Raleigh Ritchie](https://open.spotify.com/artist/0IB0VjX9NSrGX6PjCXGVcq), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Cuckoo](https://open.spotify.com/album/5n7NB4rs9T7dYKlsUZkSgl) | 4:12 |
 | 33 | [Shotgun](https://open.spotify.com/track/2KlgVJHyLEzEI4aBiGptij) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:08 |
-| 34 | [Gratitude](https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 3:37 |
-| 35 | [Dead Body](https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 3:52 |
+| 34 | [God Bless Mary](https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:16 |
+| 35 | [Persons](https://open.spotify.com/track/1s9vA3Z6u7Jn1KVzUBeRIB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 2:04 |
+| 36 | [Dead Body](https://open.spotify.com/track/0QWDfiuaV7W20y86RGtREF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 3:52 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDA2MmExNzc5ZGRlZmVjMjc0MTI1MWJmMjVjNTBjNzE5Yg==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA3YTU3MWQxZjg5YWFiNzRkZjk4NmZhNDhlY2VmYmMwMg==`

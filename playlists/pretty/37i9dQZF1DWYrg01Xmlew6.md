@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Il meglio da Napoli e dalla scena campana\. Cover: Peppe Soks, MV Killa, Yung Snapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,849 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,936 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 |
-| 2 | [La Notte di San Lorenzo](https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:08 |
-| 3 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
+| 1 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 |
+| 2 | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [Blow \(feat\. Yung Snapp & MV Killa\)](https://open.spotify.com/album/2IlA92NHGZauM3Q6vkEVXR) | 3:03 |
+| 3 | [La Notte di San Lorenzo](https://open.spotify.com/track/3qKU0FvHKfIQSMgEEmYBtF) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:08 |
 | 4 | [SUL IJ E TE](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 |
 | 5 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 6 | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/track/0py1kg1y5iSMWFTXPpjZI3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Sul'A Mia \(feat\. Enzo Dong\)](https://open.spotify.com/album/04Z4Qz5AFiwy0B5li3mmFn) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [Doje Vote](https://open.spotify.com/track/6PupByuUnrfNgW1XowhNe7) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [Doje Vote](https://open.spotify.com/album/2cgmzVomHZo5fH1A1O2WIW) | 2:51 |
 | 50 | [WAVE](https://open.spotify.com/track/40WehEb4Lu7yItCp7AbNIj) | [MACHETE](https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD), [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [CANTERA MACHETE, VOL\. II](https://open.spotify.com/album/41nzTTUD0063x7Te16AYau) | 1:17 |
 
-Snapshot ID: `MTY2NjkwODA2MCwwMDAwMDAwMGZlZmNhYTIxODQ1ZmQxMjFmOTIwNWVlYTU3OGQ3MmM2`
+Snapshot ID: `MTY2NzE2NzI2MCwwMDAwMDAwMDZhOTU4YWFjNTYyMDAxZWFiY2IxMzFiNTgxNjI2OGVj`

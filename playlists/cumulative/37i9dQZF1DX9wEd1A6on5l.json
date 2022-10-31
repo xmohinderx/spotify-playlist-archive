@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 172500,
       "name": "B.O.A (Based On Analysis)",
       "url": "https://open.spotify.com/track/48jL8qMO31Hu6aEczS0CJn"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 161538,
       "name": "Dada",
       "url": "https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 178983,
       "name": "Don't Call Me (feat. Zinoleesky)",
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 166642,
       "name": "emiliana",
       "url": "https://open.spotify.com/track/6cWath96kzfqITDd6S0El8"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 262105,
       "name": "Free (Sounds for Healing)",
       "url": "https://open.spotify.com/track/3t2gYy9cEWzsM1bfb37tJa"
@@ -964,6 +964,24 @@
     },
     {
       "album": {
+        "name": "How To Kill A Man",
+        "url": "https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174590,
+      "name": "How To Kill A Man",
+      "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
+    },
+    {
+      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 171764,
       "name": "Infinity (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
@@ -1322,6 +1340,28 @@
     },
     {
       "album": {
+        "name": "Machala",
+        "url": "https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154565,
+      "name": "Machala",
+      "url": "https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR"
+    },
+    {
+      "album": {
         "name": "Majo (feat. Wizkid, Alpha P & Tay Iwar)",
         "url": "https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo"
       },
@@ -1517,7 +1557,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 162782,
       "name": "Otilo (Izz Gone)",
       "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
@@ -1753,7 +1793,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 214615,
       "name": "Running",
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
@@ -1797,6 +1837,24 @@
       "duration_ms": 194863,
       "name": "Second Sermon - Remix",
       "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "album": {
+        "name": "YOUNG PREACHER",
+        "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78666,
+      "name": "SHE LIKE IGBO",
+      "url": "https://open.spotify.com/track/4G6GeId2tVeACOpPSBKT1L"
     },
     {
       "album": {
@@ -1939,10 +1997,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 193200,
       "name": "Spray Am",
       "url": "https://open.spotify.com/track/3B3jlsEUnfh5sSQ80YK46c"
+    },
+    {
+      "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
     },
     {
       "album": {
@@ -2057,7 +2137,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 208141,
       "name": "TOP MAMA",
       "url": "https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK"

@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 2 min - not published yet
+37 songs - 2 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Deranged](https://open.spotify.com/track/5YGWNm8j6U2C3xrfj9qgS0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Blank Canvas](https://open.spotify.com/album/1o0XDWp8dSojoZ7yZh6fgu) | 3:07 | 2022-10-28 |  |
 | [Flowers](https://open.spotify.com/track/4GEV63x0iGcXTLdcJHH4mm) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:45 | 2022-10-28 |  |
 | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/track/5ZYBczat60p8a2Fnenour4) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Garage Palace \(feat\. Little Simz\)](https://open.spotify.com/album/5JR95SVj6hXkfA3QpfCFvU) | 2:31 | 2022-10-28 |  |
-| [Gratitude](https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 3:37 | 2022-10-28 |  |
+| [God Bless Mary](https://open.spotify.com/track/4hAhIfnJyBDKtjmWaCPCYT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:16 | 2022-10-30 |  |
+| [Gratitude](https://open.spotify.com/track/2kbG99CwKxSZ0NTE4xhteT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 3:37 | 2022-10-28 | 2022-10-31 |
 | [I Love You, I Hate You](https://open.spotify.com/track/7boAnwNPhMVap1oJiIsKCe) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [I Love You, I Hate You](https://open.spotify.com/album/75ncNW4YUYAZ1WsHLpR3sf) | 4:15 | 2022-10-28 |  |
 | [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 | 2022-10-28 |  |
 | [Little Q, Pt\. 1 \- Interlude](https://open.spotify.com/track/4Apa0sGc1pEsBXjX8kqdNG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 1:08 | 2022-10-28 |  |
@@ -30,6 +31,7 @@
 | [One In Rotation + Wide Awake](https://open.spotify.com/track/4HGabMXDHtjOYTNihq6YXF) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:55 | 2022-10-28 |  |
 | [one life, might live](https://open.spotify.com/track/5kZ3mNo3Sjstbq5nVa5CMG) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:34 | 2022-10-28 |  |
 | [Our Conversations w/ Badbadnotgood](https://open.spotify.com/track/5Z8djxiUdWwprRTJWN035z) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 6:03 | 2022-10-28 |  |
+| [Persons](https://open.spotify.com/track/1s9vA3Z6u7Jn1KVzUBeRIB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 2:04 | 2022-10-30 |  |
 | [Picture Perfect](https://open.spotify.com/track/35sOsFocK5HbM7iZ0kYuIM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness in Wonderland](https://open.spotify.com/album/4G50FUTTI4fCDyrxP1UEer) | 3:03 | 2022-10-28 |  |
 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 | 2022-10-28 |  |
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2022-10-28 |  |

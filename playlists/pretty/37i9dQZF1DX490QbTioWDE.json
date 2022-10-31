@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 521043,
+  "num_followers": 521296,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDdmNmM1OGJmY2U3NzMxODQ1Nzc0NDQ1ODFkNTQ0NjZk",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDEwMDZhMDgzNjExMmQ2MzY5ZjgzNmU4MTUyNDhhYjM0",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "25 - Veinticinco",
-        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
+        "name": "Somos lo Que Fuimos (Remix)",
+        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
       },
       "artists": [
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 217428,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
+      "duration_ms": 233287,
+      "name": "Somos lo Que Fuimos - Remix",
+      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -583,42 +587,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Somos lo Que Fuimos (Remix)",
-        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
+        "name": "25 - Veinticinco",
+        "url": "https://open.spotify.com/album/4fla3Qcwml4OLG6hOtkUG2"
       },
       "artists": [
         {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
         }
       ],
-      "duration_ms": 233287,
-      "name": "Somos lo Que Fuimos - Remix",
-      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
+      "duration_ms": 217428,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/0URzkqWsT0YCaV4Nskgwl7"
     },
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
+        "name": "A Pura Snagre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
         }
       ],
-      "duration_ms": 244900,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
+      "duration_ms": 232653,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "A Pura Snagre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/6QbRKDIhCDGXo5f7Sz5m9i"
       },
       "artists": [
         {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf"
+      "duration_ms": 244900,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/2QSGExkfdhQo5mj4dNjAqK"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -715,22 +715,6 @@
       "duration_ms": 208906,
       "name": "Amor Infiel",
       "url": "https://open.spotify.com/track/4a1ZRjPOpkK3iLwIlpQKU4"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Inigualable",
-        "url": "https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9"
-      },
-      "artists": [
-        {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Te pido que la dejes",
-      "url": "https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -755,6 +739,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/1Yq5RNlCkTE1sygpnEstl9"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Te pido que la dejes",
+      "url": "https://open.spotify.com/track/0cH2nR2ISmkLVW7e7ogTYw"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -767,54 +767,6 @@
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
-      },
-      "artists": [
-        {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Sabroso",
-        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
-      },
-      "artists": [
-        {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Lleg\u00f3 Tu Papi",
-      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -835,6 +787,54 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Sabroso",
+        "url": "https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Lleg\u00f3 Tu Papi",
+      "url": "https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Trilog\u00eda: 1er acto",
+        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "duration_ms": 373773,
+      "name": "El Federal",
+      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "En El Gran Rex",
         "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
@@ -847,6 +847,38 @@
       "duration_ms": 194920,
       "name": "Un Mill\u00f3n de Rosas",
       "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "A Pura Snagre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+      },
+      "artists": [
+        {
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+        }
+      ],
+      "duration_ms": 262040,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -891,22 +923,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Trilog\u00eda: 1er acto",
-        "url": "https://open.spotify.com/album/58xHT3uMusEndftUcQR6CZ"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 373773,
-      "name": "El Federal",
-      "url": "https://open.spotify.com/track/3xnEHlraXNEZ3Wu7T3voxR"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Me Duele Tu Nombre (En Vivo)",
         "url": "https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "A Pura Snagre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
+        "name": "Antologia Carlitos La Mona Jimenez",
+        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
       "artists": [
         {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
         }
       ],
-      "duration_ms": 262040,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
+      "duration_ms": 245053,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
-      },
-      "artists": [
-        {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Fiesta Inolvidable Con La Barra",
         "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
@@ -1007,18 +1007,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Antologia Carlitos La Mona Jimenez",
-        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
+        "name": "A Pura Snagre",
+        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
         }
       ],
-      "duration_ms": 245053,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+      "duration_ms": 239080,
+      "name": "No Me Mientas",
+      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Ni Lo Pienses",
+        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+      },
+      "artists": [
+        {
+          "name": "Banda Registrada",
+          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "Usted Se Me Llevo la Vida",
+      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "A Pura Snagre",
-        "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
-      },
-      "artists": [
-        {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
-        }
-      ],
-      "duration_ms": 239080,
-      "name": "No Me Mientas",
-      "url": "https://open.spotify.com/track/1jtPZTHgxsLZkPKdql9GyH"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Sigan Bailando",
         "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 239726,
       "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
       "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1175,22 +1195,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "Todo de T\u00ed",
+        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         },
         {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "El Joaco",
+          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
         }
       ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+      "duration_ms": 179855,
+      "name": "Todo de T\u00ed",
+      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1227,30 +1251,6 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Todo de T\u00ed",
-        "url": "https://open.spotify.com/album/1vKjLZv22Uvl7CHtgLfGK4"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Q' Lokura",
-          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
-        },
-        {
-          "name": "El Joaco",
-          "url": "https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA"
-        }
-      ],
-      "duration_ms": 179855,
-      "name": "Todo de T\u00ed",
-      "url": "https://open.spotify.com/track/1DeyreZEMTeGKKPgSvzppL"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1303,18 +1303,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Ni Diabla Ni Santa",
-        "url": "https://open.spotify.com/album/2oUcalZThOmfHkwnkr47OZ"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
         }
       ],
-      "duration_ms": 189147,
-      "name": "Ni Diabla Ni Santa",
-      "url": "https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi"
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "A Cu\u00e1nto Me Qued\u00e9",
+        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 196970,
+      "name": "A Cu\u00e1nto Me Qued\u00e9",
+      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Fina",
         "url": "https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb"
       },
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Ni Diabla Ni Santa",
+        "url": "https://open.spotify.com/album/2oUcalZThOmfHkwnkr47OZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "duration_ms": 189147,
+      "name": "Ni Diabla Ni Santa",
+      "url": "https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 236920,
       "name": "Maldito Coche Negro",
       "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "A Cu\u00e1nto Me Qued\u00e9",
-        "url": "https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 196970,
-      "name": "A Cu\u00e1nto Me Qued\u00e9",
-      "url": "https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 168757,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/2mpT7VctDY0tWKhI6qOr3f"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 168757,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/77Q6quYnxwWZg8ESqC1mUf"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Trulala - Grandes exitos",
         "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
-      },
-      "artists": [
-        {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1691,6 +1671,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Cuarte Party",
         "url": "https://open.spotify.com/album/71ThIp5nc4WB4v7el7IlGA"
       },
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Ta' Buenisimo",
-        "url": "https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g"
+        "name": "Clavadito en Mi Piel",
+        "url": "https://open.spotify.com/album/7IyvidqKyPRQSYdh7IxNqQ"
       },
       "artists": [
         {
-          "name": "La Fiesta",
-          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
         }
       ],
-      "duration_ms": 235920,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
+      "duration_ms": 222378,
+      "name": "Clavadito en Mi Piel",
+      "url": "https://open.spotify.com/track/6o6e6brRpDEoHopQAeKwy1"
     },
     {
       "added_at": "2022-10-28 03:00:00",

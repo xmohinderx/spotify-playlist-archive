@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 554901,
+  "num_followers": 556503,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDZjYTM3YjI3MWYxMWE0ZTUzNjJjMzc4YWVlYTdlN2Mx",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDIzNTQ2ZGNlN2Q0ODMyMzZlZTAxNDdjMTYzN2U3N2Jl",
   "tracks": [
     {
       "added_at": "2022-10-07 04:56:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "Close Eyes (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 143769,
       "name": "Close Eyes - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-07 04:56:00",
       "album": {
-        "name": "Vision (Slowed)",
-        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
-      },
-      "artists": [
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 299572,
-      "name": "Vision - Slowed",
-      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb]",
         "url": "https://open.spotify.com/album/5aoxJ8A4pmkNBFr3tBDoiC"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 138646,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/5lYLBAH2uSvERWy8GAcBJz"
+    },
+    {
+      "added_at": "2022-10-07 04:56:00",
+      "album": {
+        "name": "Vision (Slowed)",
+        "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 299572,
+      "name": "Vision - Slowed",
+      "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
     },
     {
       "added_at": "2022-10-07 04:56:00",
@@ -849,6 +849,26 @@
       "url": "https://open.spotify.com/track/1GcY5sO7zMpyslzeCW27nU"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Unstoppable (The Remixes)",
+        "url": "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+        }
+      ],
+      "duration_ms": 252750,
+      "name": "Unstoppable - Slowed & Reverb",
+      "url": "https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu"
+    },
+    {
       "added_at": "2022-10-07 04:56:00",
       "album": {
         "name": "Villains (Slowed + Reverb)",
@@ -939,22 +959,6 @@
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
-    },
-    {
-      "added_at": "2022-10-07 04:56:00",
-      "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     }
   ],
   "unique_name": "slowed and reverbed",

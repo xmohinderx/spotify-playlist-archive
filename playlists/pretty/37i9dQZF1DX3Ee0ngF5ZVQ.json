@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Randy Rogers Band",
-  "num_followers": 388075,
+  "num_followers": 388155,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDZjODRhNGFlMDI1MzQxNzI1YjQyYjA3MWQ4Y2RlNjc5",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDQ5MDFhNTQyZGQ3MDBkY2U2MDlkOWVmYzlmNTEwMjNm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 204040,
-      "name": "Highways",
-      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "717 Tapes the Album",
         "url": "https://open.spotify.com/album/1GI8XiKz756eajoeB4onFU"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 169853,
       "name": "Burn It Down - 717 Tapes",
       "url": "https://open.spotify.com/track/59lRASvykN3UQstK839tep"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 204040,
+      "name": "Highways",
+      "url": "https://open.spotify.com/track/0IXdyGzVO91HrnNXW6P5TT"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Drowning in Dreams, Pt. 2",
         "url": "https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 167512,
       "name": "Where the Wildflowers Lay",
       "url": "https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "She Goes Home (Dirty Breakup Song)",
         "url": "https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199666,
       "name": "She Goes Home (Dirty Breakup Song)",
       "url": "https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Built Different",
-        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
+        "name": "Baby Don't",
+        "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Amanda Kate Ferris",
+          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
         }
       ],
-      "duration_ms": 180453,
-      "name": "Built Different",
-      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+      "duration_ms": 183763,
+      "name": "Baby Don't",
+      "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Once in a Blue Moon",
-        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+        "name": "Built Different",
+        "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 187216,
-      "name": "Once in a Blue Moon",
-      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
+      "duration_ms": 180453,
+      "name": "Built Different",
+      "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1299,6 +1295,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Once in a Blue Moon",
+        "url": "https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 187216,
+      "name": "Once in a Blue Moon",
+      "url": "https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Wherever I Am",
         "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Baby Don't",
-        "url": "https://open.spotify.com/album/5GrCqh0RekK6OMylsM5B36"
-      },
-      "artists": [
-        {
-          "name": "Amanda Kate Ferris",
-          "url": "https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49"
-        }
-      ],
-      "duration_ms": 183763,
-      "name": "Baby Don't",
-      "url": "https://open.spotify.com/track/7e1aZNKzXgevv7SiLo4I6G"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Two Left Feet",
+        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
+      },
+      "artists": [
+        {
+          "name": "Cameron James Smith",
+          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Two Left Feet",
+      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Happy Hour",
         "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Two Left Feet",
-        "url": "https://open.spotify.com/album/5t2Ea1xdYg7Fm7M1lSpreK"
+        "name": "Keep Up With A Cowgirl",
+        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
       },
       "artists": [
         {
-          "name": "Cameron James Smith",
-          "url": "https://open.spotify.com/artist/0KPGnaMKvXuA50sWdoxDBp"
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 194298,
-      "name": "Two Left Feet",
-      "url": "https://open.spotify.com/track/1ePkefoLVXVcaEUwZkOM31"
+      "duration_ms": 213759,
+      "name": "Keep up with a Cowgirl",
+      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1655,22 +1671,6 @@
       "duration_ms": 254033,
       "name": "Married Alone (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/0zvwzNNpHS4Z4cLk1KNOzD"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Keep Up With A Cowgirl",
-        "url": "https://open.spotify.com/album/3QOCMsxkLsBT1xtqTq4pvg"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 213759,
-      "name": "Keep up with a Cowgirl",
-      "url": "https://open.spotify.com/track/5OMM7WwSx0yzo95vSSdC44"
     },
     {
       "added_at": "2022-10-28 04:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 9968,
+  "num_followers": 10019,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMGI5MWJlNWJmOWYyMjM5MTQ1ZjkyODZjNmE0ZTQxZWM4",
+  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDBkZmNhZTI5ZGY3YjAzZjAzZDVlNzAwMmFiMzc2OTBh",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -349,6 +349,26 @@
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "Don't Wanna Go",
+        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Stephen Kirkwood",
+          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
+        }
+      ],
+      "duration_ms": 180412,
+      "name": "Don't Wanna Go",
+      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Trip",
@@ -369,24 +389,20 @@
       "url": "https://open.spotify.com/track/7GwDMfDBgPn29Tsq8NAtID"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
+      "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Don't Wanna Go",
-        "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
       },
       "artists": [
         {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "Stephen Kirkwood",
-          "url": "https://open.spotify.com/artist/2B3Vmzyhy4QFnY02UKyMi5"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 180412,
-      "name": "Don't Wanna Go",
-      "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -419,18 +435,22 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+        "name": "Lovelee Dae",
+        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "Blaze (Kevin Hedge)",
+          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
         }
       ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
+      "duration_ms": 382278,
+      "name": "Lovelee Dae",
+      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
     },
     {
       "added_at": "2022-06-10 14:45:01",
@@ -451,26 +471,6 @@
     {
       "added_at": "2022-06-03 18:11:27",
       "album": {
-        "name": "Lovelee Dae",
-        "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
-        },
-        {
-          "name": "Blaze (Kevin Hedge)",
-          "url": "https://open.spotify.com/artist/5ALxJ1yIzIRB3NcmMftPOy"
-        }
-      ],
-      "duration_ms": 382278,
-      "name": "Lovelee Dae",
-      "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
         "name": "I Am Somebody",
         "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
-      },
-      "artists": [
-        {
-          "name": "Low Blow",
-          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -519,6 +503,22 @@
       "duration_ms": 187652,
       "name": "Music4TheMasses - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/1q4SELBOdUcpYPvJp7iwDC"
+    },
+    {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU"
+      },
+      "artists": [
+        {
+          "name": "Low Blow",
+          "url": "https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds"
     },
     {
-      "added_at": "2022-07-08 17:12:43",
-      "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
-      },
-      "artists": [
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 382439,
-      "name": "Femme",
-      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "Strung Up",
@@ -583,6 +567,22 @@
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2022-07-08 17:12:43",
+      "album": {
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+      },
+      "artists": [
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 382439,
+      "name": "Femme",
+      "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/2LEO9efWacG85SkV3cah7q"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Tonight EP",
-        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
-      },
-      "artists": [
-        {
-          "name": "Latmun",
-          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
-        }
-      ],
-      "duration_ms": 352500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
-    },
-    {
       "added_at": "2022-06-03 18:11:27",
       "album": {
         "name": "No Bueno",
@@ -737,20 +721,20 @@
       "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+        "name": "Tonight EP",
+        "url": "https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Latmun",
+          "url": "https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0"
         }
       ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+      "duration_ms": 352500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -771,6 +755,22 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+      },
+      "artists": [
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Freak With Us",
-        "url": "https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
-    },
-    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Nana",
@@ -855,6 +839,22 @@
       "duration_ms": 167638,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1SBEegsKKBMXyXVTLKa1KJ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Freak With Us",
+        "url": "https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
     },
     {
       "added_at": "2022-06-03 18:11:27",

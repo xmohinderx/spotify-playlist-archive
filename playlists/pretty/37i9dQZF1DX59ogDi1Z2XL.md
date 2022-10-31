@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,898 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,937 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 86 | [Way That I Live](https://open.spotify.com/track/66m6J9KhwRIJXLkklTkO3o) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Way That I Live](https://open.spotify.com/album/1nX9bxbCecxfiNVMgPzbSf) | 3:03 |
 | 87 | [Lion](https://open.spotify.com/track/6NSt0fTesiSOlAueU3OIKL) | [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL), [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Only Way is Up](https://open.spotify.com/album/6kYASxqrfQaiVZPG3rLv3D) | 3:09 |
 | 88 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
-| 89 | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/track/4VY4yhB6w8bPAjLvYbE4BX) | [SadBoi](https://open.spotify.com/artist/7ns9rqfu055CbYOOADyk2v) | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/album/3GGOTvsEcjfZFBoHLLuL6H) | 2:33 |
+| 89 | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/track/4VY4yhB6w8bPAjLvYbE4BX) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [That's Your Problem \(STANK HOEZ\)](https://open.spotify.com/album/3GGOTvsEcjfZFBoHLLuL6H) | 2:33 |
 | 90 | [STICK](https://open.spotify.com/track/1dgTZLHXNTXhn0L9D3MNF9) | [Portion](https://open.spotify.com/artist/0XBfHZ0yFMEqfNlEh08jWY) | [I Am Nothing Without \(Deluxe\) \- Trench Baby](https://open.spotify.com/album/3C2MpfvoCw8qw7DpUbM7RW) | 2:12 |
 | 91 | [Doin' Right](https://open.spotify.com/track/65ie1NNOukdiXRk2JPc52a) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Doin' Right](https://open.spotify.com/album/2wEIx2GSSjTbzSiWVzI1tn) | 2:35 |
 | 92 | [AGAIN AND AGAIN](https://open.spotify.com/track/6aoyeRcVD1bGD1CY231zYj) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [AGAIN AND AGAIN](https://open.spotify.com/album/4rGbQvrLyzAQCACGyyWJYu) | 2:33 |

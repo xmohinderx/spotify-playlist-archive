@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 11327,
+  "num_followers": 11354,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3MDIwNCwwMDAwMDAwMGU0NDQ3NzgyMjNmMTM2NDNiN2I0ZTA2NmYwMzYwNzNh",
+  "snapshot_id": "MTY2Njk3MDIwNCwwMDAwMDAwMDQ2Mjc0MGZhY2VmMGVmZjFhOTVmOTgxYWE3Zjg5MGEw",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ"
     },
     {
-      "added_at": "2022-10-30 01:42:18",
+      "added_at": "2022-10-31 01:43:04",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7qZiuy7KLt5j5BXrs76wo3"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/4hVnFwqGpRQJexdLoNwCFn"
     },
     {
-      "added_at": "2022-10-30 01:42:18",
+      "added_at": "2022-10-31 01:43:04",
       "album": {
         "name": "YOUNG PREACHER",
         "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy"
     },
     {
-      "added_at": "2022-10-30 01:42:18",
+      "added_at": "2022-10-31 01:43:04",
       "album": {
         "name": "OMOGE WA JO",
         "url": "https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
-      "added_at": "2022-10-30 01:42:18",
+      "added_at": "2022-10-31 01:43:04",
       "album": {
         "name": "Hypertension",
         "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
@@ -609,24 +609,20 @@
       "url": "https://open.spotify.com/track/4yEBIww3wVoiT7A5v9kQj1"
     },
     {
-      "added_at": "2022-10-07 12:07:17",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2022-09-30 07:02:05",
@@ -649,20 +645,24 @@
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
+      "added_at": "2022-10-07 12:07:17",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -679,38 +679,6 @@
       "duration_ms": 169844,
       "name": "Beautifully",
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "No Dey Form",
-        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        }
-      ],
-      "duration_ms": 140540,
-      "name": "No Dey Form",
-      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -731,6 +699,38 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "No Dey Form",
+        "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
+      },
+      "artists": [
+        {
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
+        }
+      ],
+      "duration_ms": 140540,
+      "name": "No Dey Form",
+      "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
@@ -883,22 +899,6 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2022-08-18 23:00:00",

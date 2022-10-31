@@ -31474,6 +31474,24 @@
     },
     {
       "album": {
+        "name": "Vanity Fool",
+        "url": "https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ"
+      },
+      "artists": [
+        {
+          "name": "Peter Serrado",
+          "url": "https://open.spotify.com/artist/7gcJVmqrLeEiKfWsTNZ9QK"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193735,
+      "name": "Vanity Fool",
+      "url": "https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6"
+    },
+    {
+      "album": {
         "name": "Venice",
         "url": "https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R"
       },

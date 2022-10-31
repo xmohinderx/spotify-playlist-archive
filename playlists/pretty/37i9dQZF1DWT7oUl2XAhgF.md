@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Lee Fields
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,492 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,726 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 55 | [Through It All](https://open.spotify.com/track/65vtwc4JSGhKZJTV0Nhs3W) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:24 |
 | 56 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 |
 | 57 | [Hear Me](https://open.spotify.com/track/1tWiKJTUfH5DjDrJT9P00l) | [The Buttshakers](https://open.spotify.com/artist/2FNblbLTuqK1YeCEE9YWLJ) | [Arcadia](https://open.spotify.com/album/3bjM3xf0u6r9NE15RUJnuv) | 2:36 |
-| 58 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
-| 59 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
-| 60 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
+| 58 | [Starlight](https://open.spotify.com/track/1R4nFxIiipVTeUSFdOnVIy) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 4:02 |
+| 59 | [Red To Violet \- Feat\. Jamila Woods](https://open.spotify.com/track/1uxUW64IFKirksOfzcBWxD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Red To Violet \(Feat\. Jamila Woods\)](https://open.spotify.com/album/5NGXZ7GJKoO0S5vyshT6uv) | 3:22 |
+| 60 | [Trade of Hearts](https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 |
 | 61 | [Sage Motel](https://open.spotify.com/track/0AmK67QC3fhZYvFw74f0fD) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Sage Motel](https://open.spotify.com/album/7J428fRkJYE2u9p2hjrOo9) | 3:52 |
 | 62 | [Cruisin' to the Parque feat\. Y La Bamba](https://open.spotify.com/track/1nCEYuoVGIyff0Gb8acGAq) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Cruisin' To The Parque feat\. Y La Bamba](https://open.spotify.com/album/4WZY8uTnoLtLPyeROJhAxh) | 3:35 |
 | 63 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 69 | [Good, Better, Best](https://open.spotify.com/track/5xJ2iRDQ7jKJl2DLsYJPYD) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Sorry You Couldn't Make It](https://open.spotify.com/album/2p5pkNlYTEAzPdNdLHLMlP) | 2:50 |
 | 70 | [Under The Sun](https://open.spotify.com/track/2RX7oNugjq7hYgWW0yhqQv) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:21 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDZiNjJmMGZmNDMzYWU1NTgwNTRiMTA4MTQ0NDE1NzJj`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGM5ZDYyNDZmMDg2ZjkzN2EyNGJhMzMyMGQzOWRmZGMw`

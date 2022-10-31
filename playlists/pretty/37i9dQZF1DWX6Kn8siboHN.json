@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Carlos & Jos\u00e9 en portada.",
-  "num_followers": 399529,
+  "num_followers": 400220,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMDVmMDY2OTQzM2ZmZTFlMGRhYTM3ZTJlYjMzYjU3ZDA0",
+  "snapshot_id": "MTY0NzQ3ODE5NiwwMDAwMDAwMGVjZjI3NzExNWM4NzI1N2I3MDdlOWY2OWU3ZjE2NzA2",
   "tracks": [
     {
       "added_at": "2022-03-17 00:49:56",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Necesito M\u00e1s De Ti",
         "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 183653,
       "name": "Sentimientos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "De Norte A Sur",
-        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 209613,
-      "name": "Necesito Dec\u00edrtelo",
-      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 159059,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "De Norte A Sur",
+        "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 209613,
+      "name": "Necesito Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "Mundo De Amor",
-        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Mundo De Amor",
-      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
@@ -675,6 +659,38 @@
       "duration_ms": 161253,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 169769,
+      "name": "Una Lagrima y Un Recuerdo",
+      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "Mundo De Amor",
+        "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Mundo De Amor",
+      "url": "https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -707,22 +723,6 @@
       "duration_ms": 196998,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 169769,
-      "name": "Una Lagrima y Un Recuerdo",
-      "url": "https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor"
     },
     {
       "added_at": "2022-03-17 00:49:56",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-03-17 00:49:56",
       "album": {
-        "name": "20 Exitos Historia Musical",
-        "url": "https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv"
-      },
-      "artists": [
-        {
-          "name": "Eliseo Robles Y Los Barbaros Del Norte",
-          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
-        }
-      ],
-      "duration_ms": 220499,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt"
-    },
-    {
-      "added_at": "2022-03-17 00:49:56",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212253,
       "name": "Sabiendo Quien Era Yo",
       "url": "https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ"
+    },
+    {
+      "added_at": "2022-03-17 00:49:56",
+      "album": {
+        "name": "20 Exitos Historia Musical",
+        "url": "https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv"
+      },
+      "artists": [
+        {
+          "name": "Eliseo Robles Y Los Barbaros Del Norte",
+          "url": "https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq"
+        }
+      ],
+      "duration_ms": 220499,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt"
     },
     {
       "added_at": "2022-03-17 00:49:56",

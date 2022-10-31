@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,282 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,435 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 42 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
 | 43 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
 | 44 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 |
-| 45 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
-| 46 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
+| 45 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
+| 46 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 | 47 | [Celtic Storm \(2010\)](https://open.spotify.com/track/3GnmZYcYGFOwLisSqHRjJQ) | [The Mighty Regis](https://open.spotify.com/artist/7ocwcmrX2Fhj5TW4q1BjWp) | [21](https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9) | 3:16 |
-| 48 | [Skull Creek Logger](https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S) | 3:31 |
-| 49 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
+| 48 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
+| 49 | [Skull Creek Logger](https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S) | 3:31 |
 | 50 | [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 |
 
-Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMDBmNjUxZjc1MjJlYjE3MjNlZGZkNzQ0N2NiYmY4MDRk`
+Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMGRlNGE1MjBiZjM0NmU5ODM3OTEwNDllZjc4YmUzMTZm`

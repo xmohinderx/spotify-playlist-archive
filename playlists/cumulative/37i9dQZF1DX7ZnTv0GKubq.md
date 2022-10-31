@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-215 songs - 12 hr 20 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
+216 songs - 12 hr 23 min - [published](https://open.spotify.com/playlist/05s68v4iBuEFERPXDrDMju)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-12 |  |
 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 | 2022-07-17 |  |
 | [And Then Life Was Beautiful](https://open.spotify.com/track/4vUU8lx3iz7u72rpDjhXHi) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0B3zjlIshVUCbkSJDbJNRZ) | 3:23 | 2022-03-21 | 2022-07-27 |
-| [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-23 |  |
+| [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-23 | 2022-10-31 |
 | [Another Guy \- Acoustic](https://open.spotify.com/track/7rWkd70fyKUGw00s6BBSGz) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 3:00 | 2022-07-12 | 2022-08-23 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2022-03-21 | 2022-10-25 |
 | [Apricot Sky](https://open.spotify.com/track/0lyeQNkP5SZTfm2qyxxHsp) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Apricot Sky](https://open.spotify.com/album/5JTdztcQzfsGjSQYOW7q2C) | 3:47 | 2022-03-21 | 2022-07-29 |
@@ -162,6 +162,7 @@
 | [Radio](https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 3:00 | 2022-03-21 | 2022-06-07 |
 | [Rainfall](https://open.spotify.com/track/5PtivWG5NtjrRyg8VmgiMi) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Rainfall](https://open.spotify.com/album/6EdOPfYxBca3GXcFTHuaIG) | 2:53 | 2022-03-21 | 2022-04-29 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2022-03-21 | 2022-07-29 |
+| [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 | 2022-10-23 |  |
 | [Real Deal](https://open.spotify.com/track/2yCT259s8awbxVuW9bBS31) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Real Deal](https://open.spotify.com/album/4I6A3ebJ9csleHvR6ZE9CE) | 4:41 | 2022-03-21 | 2022-06-22 |
 | [Real Thing](https://open.spotify.com/track/5VAhP8RVrJOHhMJL1rcAJz) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Real Thing](https://open.spotify.com/album/5E2hwVmse6NSyT0jFyV9s1) | 3:16 | 2022-03-21 | 2022-06-07 |
 | [Red](https://open.spotify.com/track/58quqftrvxubZ9ZSxpW3eH) | [Noya Rao](https://open.spotify.com/artist/16XiowWxtn1LmT6aTMnzlv) | [Stay](https://open.spotify.com/album/4CT9OJUL8wJxTqAyIr3sLe) | 3:37 | 2022-03-21 | 2022-05-30 |

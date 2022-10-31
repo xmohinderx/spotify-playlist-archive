@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1478268,
+  "num_followers": 1478300,
   "original_name": "Wild + Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDYyZTliMGYxMzk5ZDcwMzI1ZjIzMGE0N2MyMDE1MzM2",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDBiYTdkMTJiYjcwYzU5MmQzZjRiNGE1MWI0NzkwNzMz",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz"
+      },
+      "artists": [
+        {
+          "name": "Sumbuck",
+          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
+        },
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "I Forget Myself (feat. Darlingside)",
         "url": "https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M"
       },
@@ -647,26 +667,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7CfX9MI3qgRHch1OgWL6mz"
-      },
-      "artists": [
-        {
-          "name": "Sumbuck",
-          "url": "https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ"
-        },
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/2TEZu0Rk7Rr6aEARBCMmhj"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Between the Country",
         "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "Song In My Head",
-      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "Song In My Head",
+      "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Sermon on the Rocks",
+        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 196195,
+      "name": "Getting Ready to Get Down",
+      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -859,38 +875,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Sermon on the Rocks",
-        "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 196195,
-      "name": "Getting Ready to Get Down",
-      "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/58GSV5f6YqrgpWOpAku2Ic"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "The Pool",
         "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 242562,
       "name": "The Pool",
       "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "En Garde",
         "url": "https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy"
       },
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/361LO5zSguzbNCQsOOEOd6"
       },
@@ -1243,6 +1243,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
+        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
+      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Ivory Castanets",
         "url": "https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le"
       },
@@ -1275,34 +1307,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
-        "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
       },
       "artists": [
         {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 291533,
-      "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
-      "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+      "duration_ms": 193240,
+      "name": "Call Me in the Afternoon",
+      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Call Me in the Afternoon",
-      "url": "https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 214173,
-      "name": "RHODODENDRON",
-      "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+      "duration_ms": 247373,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/0vrlxoXcbwD8Sklwy59N9g"
+      "duration_ms": 214173,
+      "name": "RHODODENDRON",
+      "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Dancing For The Answers - EP",
-        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 216753,
-      "name": "Punta Cometa - Dancing For The Answers Alt Version",
-      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Boys (Side A)",
         "url": "https://open.spotify.com/album/1b3wprWOJ2VLzsFhyELx30"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 86831,
       "name": "Full Moon Song",
       "url": "https://open.spotify.com/track/0Kl9ZswPXKQBr8PEQ6V3xc"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Dancing For The Answers - EP",
+        "url": "https://open.spotify.com/album/7J8GMfGTfVzoSdZsUgt0Bg"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 216753,
+      "name": "Punta Cometa - Dancing For The Answers Alt Version",
+      "url": "https://open.spotify.com/track/0oiiHes8LMjKbofgD1aDcA"
     },
     {
       "added_at": "2022-10-14 04:00:00",

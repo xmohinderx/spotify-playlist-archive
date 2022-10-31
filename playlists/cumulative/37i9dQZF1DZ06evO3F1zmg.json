@@ -370,6 +370,24 @@
     },
     {
       "album": {
+        "name": "Get It Girl",
+        "url": "https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165302,
+      "name": "Get It Girl",
+      "url": "https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv"
+    },
+    {
+      "album": {
         "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
         "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 165302,
       "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
       "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
@@ -411,6 +429,24 @@
       "duration_ms": 182440,
       "name": "GIVE IT TO EM (feat. Saweetie)",
       "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+    },
+    {
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201583,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C"
     },
     {
       "album": {
@@ -775,7 +811,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 195013,
       "name": "No L's",
       "url": "https://open.spotify.com/track/0RjCea6cbLgCD0h3ELxXSl"

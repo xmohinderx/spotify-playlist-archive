@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Gang Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,964 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,206 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 39 | [The Sun God](https://open.spotify.com/track/6hO3OQ7DDZtjYnVh4EaM3B) | [Hi\-Tek](https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg) | [Hi\-Teknology](https://open.spotify.com/album/1QWTtdbC4PJpN48Ey9o99c) | 4:34 |
 | 40 | [Western Ways, Pt\. 2 \(La Seleccion\) \(feat\. Big Punisher & JuJu\)](https://open.spotify.com/track/0dUKYPzjFe0tJYCKf3USWi) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U), [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [Here Come The Horns](https://open.spotify.com/album/0crKVrdcLTyzjfZL2QpwTq) | 4:00 |
 | 41 | [Don't Play](https://open.spotify.com/track/51DHGAvIbCO1HJMDjq45rT) | [J\-Live](https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE) | [The Best Part](https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG) | 5:04 |
-| 42 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
-| 43 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
+| 42 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
+| 43 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
 | 44 | [Never Fallin'](https://open.spotify.com/track/37xInDwVQ0Z01t0a5ETb8z) | [Living Legends](https://open.spotify.com/artist/0E4UA1bttJjSFNgAkLyQuo) | [Classic](https://open.spotify.com/album/04f4Sfsw4vRlH2zATZ4WRt) | 5:22 |
 | 45 | [Boom \- Explicit Album Version](https://open.spotify.com/track/3CiSdq2SJSSUc1AVUU2F4G) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [Rock City](https://open.spotify.com/album/4ryY8S4t3r2kUmwKgAEqFA) | 3:52 |
 | 46 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 47 | [Blue Flowers](https://open.spotify.com/track/1xQ1v0xnKgZyQX90f75bKt) | [Dr\. Octagon](https://open.spotify.com/artist/7dr3cSEOIZ6tBrm4y1wsnr) | [Dr\. Octagonecologyst](https://open.spotify.com/album/0GAqyZFjgaz6V5ozTS0dfW) | 3:17 |
 | 48 | [Climax](https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
-| 49 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
-| 50 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 |
+| 49 | [Karma](https://open.spotify.com/track/7FyuOzN1V1Whhyh46tPiWZ) | [Mood](https://open.spotify.com/artist/2u2XHKuu3IWZvTvzXiciqu) | [Doom](https://open.spotify.com/album/7hOjTIuKBT7tP9XR0nGYCy) | 3:18 |
+| 50 | [W.O.L.V.E.S.](https://open.spotify.com/track/2NR8YLRBR0AEUc6JQlnldo) | [Krumbsnatcha](https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx), [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Krumbsnatcha Classics](https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx) | 3:53 |
 
-Snapshot ID: `MTY2NDUwNDE0MCwwMDAwMDAwMDQwZDRiODkxZDllOWZmOTdmNWQ2ZWU0ZGY0YTNmNTJl`
+Snapshot ID: `MTY2NDUwNDE0MCwwMDAwMDAwMGE1MjFlMzY2ZWE0MDViMjYwNzA3NDRkZTMxNWFmNzcw`

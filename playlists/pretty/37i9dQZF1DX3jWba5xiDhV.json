@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 57087,
+  "num_followers": 57378,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMDUyMDA1ZDkzMzk4YmI0YTIyMWMxZTljN2YwZTQ4N2Y5",
+  "snapshot_id": "MTY2NTE0MjU3NiwwMDAwMDAwMGMyODAyZTU0ODdhZTYzYTRkYTM4MmEwNTA4ODUxN2Q5",
   "tracks": [
     {
       "added_at": "2022-10-07 08:10:31",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Singles 83/87",
         "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+        }
+      ],
+      "duration_ms": 233640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "When I Let You Down / Boogie Tonight",
-        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
-      },
-      "artists": [
-        {
-          "name": "M & G",
-          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
-        }
-      ],
-      "duration_ms": 366076,
-      "name": "When I Let You Down - Extended Mix",
-      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "Discamore",
         "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+        "name": "When I Let You Down / Boogie Tonight",
+        "url": "https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb"
       },
       "artists": [
         {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+          "name": "M & G",
+          "url": "https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+      "duration_ms": 366076,
+      "name": "When I Let You Down - Extended Mix",
+      "url": "https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju"
     },
     {
       "added_at": "2022-10-07 08:10:31",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+      },
+      "artists": [
+        {
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
         "name": "Dancing on Townsquare",
         "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-07 08:10:31",
       "album": {
-        "name": "Caf\u00e8",
-        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
-      },
-      "artists": [
-        {
-          "name": "Dd Sound",
-          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
-        }
-      ],
-      "duration_ms": 393773,
-      "name": "Caf\u00e8 - Original 1979 Version",
-      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
-    },
-    {
-      "added_at": "2022-10-07 08:10:31",
-      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2022-10-07 08:10:31",
+      "album": {
+        "name": "Caf\u00e8",
+        "url": "https://open.spotify.com/album/1vv5SsVv82uIMDMme0ow28"
+      },
+      "artists": [
+        {
+          "name": "Dd Sound",
+          "url": "https://open.spotify.com/artist/7q9FUGUCmVh5kVfXJyCADD"
+        }
+      ],
+      "duration_ms": 393773,
+      "name": "Caf\u00e8 - Original 1979 Version",
+      "url": "https://open.spotify.com/track/6bKOUB4zXxYFhG4a3x6JGZ"
     },
     {
       "added_at": "2022-10-07 08:10:31",

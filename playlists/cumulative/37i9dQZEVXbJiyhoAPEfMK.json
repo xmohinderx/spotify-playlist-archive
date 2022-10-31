@@ -209,7 +209,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 165270,
       "name": "2000 EURO",
       "url": "https://open.spotify.com/track/3WlettL8B0oET6VdXJMHU0"
@@ -2355,7 +2355,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -4263,7 +4263,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-19",
+      "date_removed": null,
       "duration_ms": 142564,
       "name": "Can't Stop",
       "url": "https://open.spotify.com/track/3uYBoF66yINbbi3r1P5qvT"
@@ -4867,7 +4867,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -5195,7 +5195,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 206272,
       "name": "CP_009_ \u00c9videmment",
       "url": "https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm"
@@ -7465,7 +7465,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 150613,
       "name": "Es ist Abend",
       "url": "https://open.spotify.com/track/5J8dExRYBLUfvOSwfcuVD4"
@@ -8595,7 +8595,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
@@ -9255,7 +9255,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 209259,
       "name": "golden hour",
       "url": "https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg"
@@ -11203,7 +11203,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 192000,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
@@ -12949,7 +12949,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 202395,
       "name": "Lavender Haze",
       "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
@@ -12993,7 +12993,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -13587,7 +13587,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 195514,
       "name": "Lift Me Up - Instrumental",
       "url": "https://open.spotify.com/track/1Jb0BvBueT6TBcZKIRWoJ6"
@@ -14046,6 +14046,24 @@
     },
     {
       "album": {
+        "name": "Loups",
+        "url": "https://open.spotify.com/album/2BuJ5TRvHRpwBMejWE58ob"
+      },
+      "artists": [
+        {
+          "name": "Chien Bleu",
+          "url": "https://open.spotify.com/artist/21UIXPSaKR74RQ5TjuYpPI"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181022,
+      "name": "Loups",
+      "url": "https://open.spotify.com/track/3KzTHRkzKeXTze7D0MMqzi"
+    },
+    {
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/0vndkr7vpb2k1w0WSSMysu"
       },
@@ -14400,6 +14418,56 @@
     },
     {
       "album": {
+        "name": "Luxembourg City",
+        "url": "https://open.spotify.com/album/54Jn8fHfYMS8M5Jcyn5i6b"
+      },
+      "artists": [
+        {
+          "name": "Bezza",
+          "url": "https://open.spotify.com/artist/0MfPlLNDak7ZuAIbxzbzde"
+        },
+        {
+          "name": "C.D.S 13 El Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2z31MZaeGLYoytawUEtoP0"
+        },
+        {
+          "name": "Skaymen",
+          "url": "https://open.spotify.com/artist/1U9LphshaB4FShZbi7dWOq"
+        },
+        {
+          "name": "Mc Santos",
+          "url": "https://open.spotify.com/artist/6SltrPvlTgDlX3UYksPcwG"
+        },
+        {
+          "name": "Bandii",
+          "url": "https://open.spotify.com/artist/0fboZQxoSfWQiSIcgQg5VW"
+        },
+        {
+          "name": "Ferow",
+          "url": "https://open.spotify.com/artist/0KeGyOyqGem91ATZDq7NDK"
+        },
+        {
+          "name": "Karekz",
+          "url": "https://open.spotify.com/artist/3FgeZVvyZMDnZrGTo3MUSv"
+        },
+        {
+          "name": "Raime",
+          "url": "https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu"
+        },
+        {
+          "name": "Nixo",
+          "url": "https://open.spotify.com/artist/0gKz850UFSfv8IZWKsSJgS"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286998,
+      "name": "Luxembourg City",
+      "url": "https://open.spotify.com/track/5O7O4n706M7NCdfV7iygm1"
+    },
+    {
+      "album": {
         "name": "LV",
         "url": "https://open.spotify.com/album/2L0oLld7kQ6sP1zdTsbs3H"
       },
@@ -14517,6 +14585,24 @@
       "duration_ms": 137174,
       "name": "Machen Geld",
       "url": "https://open.spotify.com/track/30NOYXdrNtURakJTZQzVkb"
+    },
+    {
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "album": {
@@ -15633,7 +15719,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 178500,
       "name": "Million\u00e4r",
       "url": "https://open.spotify.com/track/0QltWldlWMsdcxCgmJss3k"
@@ -17257,7 +17343,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 195924,
       "name": "Nie mehr gehen",
       "url": "https://open.spotify.com/track/3iBU3w9MbrqFdB9mOa2JeK"
@@ -21407,7 +21493,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
@@ -22211,7 +22297,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
@@ -23759,7 +23845,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

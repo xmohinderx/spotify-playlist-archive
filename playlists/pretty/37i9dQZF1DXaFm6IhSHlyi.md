@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,969 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,021 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 98 | [Пряталась в ванной](https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN) | [Mari Kraimbrery](https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i) | [Пряталась в ванной](https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX) | 3:10 |
 | 99 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 |
 | 100 | [Your Song \- My One and Only You](https://open.spotify.com/track/311a0P87ZiMjjCaoQSZEfh) | [Julie Anne San Jose](https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy) | [Your Song \(My One and Only You\)](https://open.spotify.com/album/3mNbu0ZXCMNFS6308EQ4qU) | 3:42 |
-| 101 | [Крылья](https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy) | [Artik & Asti](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [7 \(Part 2\)](https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl) | 3:30 |
-| 102 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 |
+| 101 | [Wassellik Khabar](https://open.spotify.com/track/4USDc2ee6XNky5miYt5QTN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [From Nassif Zeytoun with Love](https://open.spotify.com/album/60D9VCdWGbTklahFkQYmDq) | 3:56 |
+| 102 | [Крылья](https://open.spotify.com/track/2uPfnpMuL4poAmSKVx8QSy) | [Artik & Asti](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [7 \(Part 2\)](https://open.spotify.com/album/1ls6wJRjbuR6QVKmb9p0Kl) | 3:30 |
 | 103 | [Fade Away](https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 Days My Prince \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do) | 3:52 |
 | 104 | [Woh Din Yaad Aande Ne](https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9) | [Piyush Mehroliyaa](https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Woh Din Yaad Aande Ne \(From "Code M"\)](https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92) | 3:53 |
 | 105 | [Hanggang Sa Huli \- From "24/7"](https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Hanggang Sa Huli \(From "24/7"\)](https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO) | 4:18 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 115 | [Vanha \(feat\. BEHM\)](https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Vanha \(feat\. BEHM\)](https://open.spotify.com/album/6cjvE8s8S7B11IvfjQNZhA) | 3:29 |
 | 116 | [111](https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU) | 3:50 |
 | 117 | [Majnony Ana](https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:02 |
-| 118 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
-| 119 | [Tender love](https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love song](https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp) | 3:50 |
+| 118 | [Tender love](https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love song](https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp) | 3:50 |
+| 119 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
 | 120 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 | 121 | [Night within you](https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you](https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL) | 4:14 |
 | 122 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 136 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
 | 137 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 |
 | 138 | [Patience](https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3) | 2:50 |
-| 139 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
-| 140 | [Trapped](https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [DOCUMENTARY](https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt) | 4:09 |
+| 139 | [Trapped](https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [DOCUMENTARY](https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt) | 4:09 |
+| 140 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
 | 141 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
 | 142 | [사랑의인사](https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy) | [적재](https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd) | [투유프로젝트 \- Sugar Man3 Episode.11](https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB) | 5:07 |
 | 143 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
 | 150 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
 
-Snapshot ID: `MTY2NjAxODgwMCwwMDAwMDAwMDBhZWY4ZTQ3Y2RjMDMxY2NlMjE5MGFiZDljNDM2Mzk4`
+Snapshot ID: `MTY2NjAxODgwMCwwMDAwMDAwMDRjMmQwYjk0ZmE3YmYzZmEzOGRiMGYwMGE1MDk4YTMy`

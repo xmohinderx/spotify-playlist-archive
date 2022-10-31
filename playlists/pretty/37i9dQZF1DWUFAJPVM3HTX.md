@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Nelccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,638 likes - 126 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,711 likes - 126 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 6 | [Westwood Village](https://open.spotify.com/track/2cHolA4zLWwMsTwHQDWd70) | [Hiddenhillsforever](https://open.spotify.com/artist/5mnayWI8SChstkGK5BvMsp) | [Westwood Village](https://open.spotify.com/album/1BLbiwlIkhwhtJL0Nl0j6M) | 3:46 |
 | 7 | [Early Morning Lovin'](https://open.spotify.com/track/5LscbHhS4pncIqMrD0fxuM) | [Troy Tyler](https://open.spotify.com/artist/07hgLDZPVB5N3xr3RrVRdK) | [Early Morning Lovin'](https://open.spotify.com/album/4tsShhuztSPvcJlFRMaHjv) | 2:44 |
 | 8 | [NASTY](https://open.spotify.com/track/6tGbU5DyBzn03Q2zKaea1T) | [Ed Washington](https://open.spotify.com/artist/6knRVgBl4teDv6IvxElbUv) | [Hedonism](https://open.spotify.com/album/7CIvWJfsAiB2AT3SV0S5bq) | 2:11 |
-| 9 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5c8r3GIga4OjvvefAs405K) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 |
+| 9 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 |
 | 10 | [Racing Home](https://open.spotify.com/track/0iUtGIaO5gGI10zPD5qkh4) | [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Racing Home](https://open.spotify.com/album/3hQBmJ9haqOVdp0xt7xCHi) | 2:23 |
 | 11 | [All There Is](https://open.spotify.com/track/4X9Emc9xzo2X5xcw8iJnJn) | [Jasmine Janai](https://open.spotify.com/artist/7vNrZ0Dps51Eg9LrY0FVjU) | [All There Is](https://open.spotify.com/album/3nrwZaK2dheRVsisWn8MA1) | 2:33 |
 | 12 | [Can't Let You Go](https://open.spotify.com/track/2QKtxGVgEcIuR6l1MBH3Db) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [Can't Let You Go](https://open.spotify.com/album/3hNiQ6sCsxdTsnE3I8B2jL) | 2:21 |

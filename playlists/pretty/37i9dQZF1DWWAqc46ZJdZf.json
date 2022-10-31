@@ -1,12 +1,12 @@
 {
   "description": "Songs of empowerment and pride. Photography: <a href=\"https://www.instagram.com/waheedpix/\">Adreinne Waheed</a>",
-  "num_followers": 665097,
+  "num_followers": 665061,
   "original_name": "Black Lives Matter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMDI5OGI4OTkyYjE5ZTQzYmU1YWUyMTRkNDIwMTA3M2Fh",
+  "snapshot_id": "MTY0NzM2NjM4MCwwMDAwMDAwMGQ4MTE4ZjdhNTQyMjRiNzZlMjA1NjJkNWRkN2M4NWFh",
   "tracks": [
     {
       "added_at": "2022-02-14 17:17:29",
@@ -171,26 +171,6 @@
     {
       "added_at": "2022-02-14 17:17:29",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 289760,
-      "name": "Freedom (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY"
-    },
-    {
-      "added_at": "2022-02-14 17:17:29",
-      "album": {
         "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 452773,
       "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S"
+    },
+    {
+      "added_at": "2022-02-14 17:17:29",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 289760,
+      "name": "Freedom (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7aBxcRw77817BrkdPChAGY"
     },
     {
       "added_at": "2022-02-14 17:17:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-02-14 17:17:29",
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Black Is Beautiful",
+      "url": "https://open.spotify.com/track/2hq1MJnuAPnJfNm3xGdqZp"
+    },
+    {
+      "added_at": "2022-02-14 17:17:29",
+      "album": {
         "name": "Smoke From Fire (with The Hics)",
         "url": "https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 186433,
       "name": "Smoke From Fire (with The Hics)",
       "url": "https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL"
-    },
-    {
-      "added_at": "2022-02-14 17:17:29",
-      "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Black Is Beautiful",
-      "url": "https://open.spotify.com/track/2hq1MJnuAPnJfNm3xGdqZp"
     },
     {
       "added_at": "2022-02-14 17:17:29",

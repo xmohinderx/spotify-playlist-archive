@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer!  Foto: morgana / Arte: Isu Kim",
-  "num_followers": 12569,
+  "num_followers": 12587,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDMwZGNjNWY4NjBmNTk3YjY5MGE0NTg1NTFiZDg4NjBh",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDk1NDQ3ZTQ1ZTBmYjA0ZTVmNGRjYTJiOWJlNGFlYmQz",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Olhando / Pedindo",
+        "url": "https://open.spotify.com/album/0yYtP3sgQi1ORShxSbJqbz"
+      },
+      "artists": [
+        {
+          "name": "VILU",
+          "url": "https://open.spotify.com/artist/4A7eAJ0LhYRbPpgx8WrsYb"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Olhando / Pedindo",
+      "url": "https://open.spotify.com/track/5K1zEz96WplSxbRaJeMBkj"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Chuva de Ver\u00e3o",
         "url": "https://open.spotify.com/album/5l29R0Ztm14OgLi7BCJi1U"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 180158,
       "name": "Chuva de Ver\u00e3o",
       "url": "https://open.spotify.com/track/6HEfROuxbeZxDYPQsDrNng"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Olhando / Pedindo",
-        "url": "https://open.spotify.com/album/0yYtP3sgQi1ORShxSbJqbz"
-      },
-      "artists": [
-        {
-          "name": "VILU",
-          "url": "https://open.spotify.com/artist/4A7eAJ0LhYRbPpgx8WrsYb"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Olhando / Pedindo",
-      "url": "https://open.spotify.com/track/5K1zEz96WplSxbRaJeMBkj"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Rouquid\u00e3o",
-        "url": "https://open.spotify.com/album/6Lb82lCrQr6b0ZkhSAox9u"
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
       },
       "artists": [
         {
-          "name": "Chorou Bebel",
-          "url": "https://open.spotify.com/artist/3l1Do0Qcg30ywoKApiWmu1"
-        },
-        {
-          "name": "Duarte",
-          "url": "https://open.spotify.com/artist/4TTKi5ThwRcTW2Fp21Z6Sc"
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Rouquid\u00e3o",
-      "url": "https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF"
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -431,6 +427,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Rouquid\u00e3o",
+        "url": "https://open.spotify.com/album/6Lb82lCrQr6b0ZkhSAox9u"
+      },
+      "artists": [
+        {
+          "name": "Chorou Bebel",
+          "url": "https://open.spotify.com/artist/3l1Do0Qcg30ywoKApiWmu1"
+        },
+        {
+          "name": "Duarte",
+          "url": "https://open.spotify.com/artist/4TTKi5ThwRcTW2Fp21Z6Sc"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Rouquid\u00e3o",
+      "url": "https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Ent\u00e3o Me Diz",
         "url": "https://open.spotify.com/album/5rS4Dlac0grWfVUgBUTUay"
       },
@@ -443,6 +459,22 @@
       "duration_ms": 171038,
       "name": "Ent\u00e3o Me Diz",
       "url": "https://open.spotify.com/track/44jbh10mXNnHmrl1IWEWz5"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Voc\u00ea se foi",
+        "url": "https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX"
+      },
+      "artists": [
+        {
+          "name": "Thalicia",
+          "url": "https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Voc\u00ea se foi",
+      "url": "https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -467,6 +499,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "VOU EMBORA DO BRASIL",
         "url": "https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD"
       },
@@ -483,34 +531,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Voc\u00ea se foi",
-        "url": "https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX"
+        "name": "Meu Mundo",
+        "url": "https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck"
       },
       "artists": [
         {
-          "name": "Thalicia",
-          "url": "https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz"
+          "name": "Izaki Lima",
+          "url": "https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2"
         }
       ],
-      "duration_ms": 155440,
-      "name": "Voc\u00ea se foi",
-      "url": "https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+      "duration_ms": 234927,
+      "name": "Meu Mundo",
+      "url": "https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -535,18 +567,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Meu Mundo",
-        "url": "https://open.spotify.com/album/004cQK4QWSIdxRQNyvhkck"
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
       },
       "artists": [
         {
-          "name": "Izaki Lima",
-          "url": "https://open.spotify.com/artist/33KnzfUaoOX9QPrF4Fy6s2"
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
         }
       ],
-      "duration_ms": 234927,
-      "name": "Meu Mundo",
-      "url": "https://open.spotify.com/track/7n8TcUtlwDE3uPuBMVDfPL"
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -583,22 +615,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -719,22 +719,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+        "name": "SANTA PACI\u00caNCIA...",
+        "url": "https://open.spotify.com/album/4OgS6jo5P32ZkYk8TAvBDj"
       },
       "artists": [
         {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+      "duration_ms": 174500,
+      "name": "SANTA PACI\u00caNCIA...",
+      "url": "https://open.spotify.com/track/5vQqxaZPzLrxFxXkbG4E0L"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -755,18 +751,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Amor Vagabundo",
-        "url": "https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD"
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
       "artists": [
         {
-          "name": "Theo Kant",
-          "url": "https://open.spotify.com/artist/1tAAuWHZwqVUVnLuFn29bL"
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Amor Vagabundo",
-      "url": "https://open.spotify.com/track/0eajyfbIwb4H8d0vLaMlo3"
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "SANTA PACI\u00caNCIA...",
-        "url": "https://open.spotify.com/album/4OgS6jo5P32ZkYk8TAvBDj"
+        "name": "Amor Vagabundo",
+        "url": "https://open.spotify.com/album/6wOV2GjvqqfvRNtpVq6DDD"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "Theo Kant",
+          "url": "https://open.spotify.com/artist/1tAAuWHZwqVUVnLuFn29bL"
         }
       ],
-      "duration_ms": 174500,
-      "name": "SANTA PACI\u00caNCIA...",
-      "url": "https://open.spotify.com/track/5vQqxaZPzLrxFxXkbG4E0L"
+      "duration_ms": 213333,
+      "name": "Amor Vagabundo",
+      "url": "https://open.spotify.com/track/0eajyfbIwb4H8d0vLaMlo3"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "<del>",
         "url": "https://open.spotify.com/album/3OGKnoDXG51ErKpxp8K80D"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 114081,
       "name": "Baby",
       "url": "https://open.spotify.com/track/45m3FACOkyhoxR0mVHwWfD"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "MANEQUIM",
         "url": "https://open.spotify.com/album/7L82m1lafBqBMRKI5QruQZ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 135145,
       "name": "MANEQUIM",
       "url": "https://open.spotify.com/track/38x0h6m3LO6Twv5KyrzAAr"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2022-10-28 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: LA INDIA, Goyo.",
-  "num_followers": 529389,
+  "num_followers": 529434,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDA3ZjYwNTQxZmJhZjhlZWM1Njk5MTE3ZGMxMjg1NjI2",
+  "snapshot_id": "MTY2Njg1MTIxOCwwMDAwMDAwMDg5NDdiZjM5YzgwM2YwM2I0NWUzMjJlZDkxZGRiM2Rk",
   "tracks": [
     {
       "added_at": "2022-10-27 06:13:38",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 212821,
-      "name": "Ambulancia",
-      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
+      "duration_ms": 175280,
+      "name": "Colombia, Mi Encanto",
+      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -539,6 +535,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 222043,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Se\u00f1or Juez",
         "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
       },
@@ -559,34 +571,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL"
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 222043,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Colombia, Mi Encanto",
-      "url": "https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8"
+      "duration_ms": 212821,
+      "name": "Ambulancia",
+      "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "BEB\u00c9",
-        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "BEB\u00c9",
-      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -715,22 +695,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Lao' a Lao'",
-        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 184341,
-      "name": "Lao' a Lao'",
-      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -751,6 +715,42 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Lao' a Lao'",
+        "url": "https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 184341,
+      "name": "Lao' a Lao'",
+      "url": "https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "BEB\u00c9",
+        "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "BEB\u00c9",
+      "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2mqDkPwBQZe7dMydgXEbtT"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 170106,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/1ESyXyXxZmII2sXhMVpk9D"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252100,
+      "name": "Nada de Nada",
+      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -803,22 +819,6 @@
       "duration_ms": 280916,
       "name": "Dividimos (Bachata Version)",
       "url": "https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252100,
-      "name": "Nada de Nada",
-      "url": "https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -871,6 +871,22 @@
       "duration_ms": 216897,
       "name": "Loter\u00eda",
       "url": "https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Pa'lla Voy",
+        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 246787,
+      "name": "Pa'lla Voy",
+      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Pa'lla Voy",
-        "url": "https://open.spotify.com/album/7Egfnc2y2UO9Gqeh5nYzDh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 246787,
-      "name": "Pa'lla Voy",
-      "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Ag\u00fcita e Coco",
         "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 176759,
       "name": "Ag\u00fcita e Coco",
       "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 374053,
+      "name": "Tu Vida en la M\u00eda",
+      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 374053,
-      "name": "Tu Vida en la M\u00eda",
-      "url": "https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Nubes Negras",
         "url": "https://open.spotify.com/album/011TN0rPa3Kzv2TLpAh6Wl"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "T\u00fa 1ero",
-        "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 189357,
-      "name": "T\u00fa 1ero",
-      "url": "https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Si Tu Te Atreves",
         "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
       },
@@ -1267,22 +1251,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
+        "name": "T\u00fa 1ero",
+        "url": "https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL"
       },
       "artists": [
         {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         }
       ],
-      "duration_ms": 200895,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
+      "duration_ms": 189357,
+      "name": "T\u00fa 1ero",
+      "url": "https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1303,6 +1283,26 @@
       "duration_ms": 236254,
       "name": "Imaginarme Sin Ti",
       "url": "https://open.spotify.com/track/6wLAOahVdeEJxhEOH8byCL"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/3o6SD5t7AH2NNHNVpABnTu"
+      },
+      "artists": [
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 200895,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/2v8qnf24J4GRVRwYhZcO1s"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 215915,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
         "name": "Los Recuerdos",
         "url": "https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 161906,
       "name": "Los Recuerdos",
       "url": "https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/0kAsWiX9vauYBBqcspZPHW"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 215915,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5RsWQQ8DWwrZZEHv9UvcYT"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Leandro D\u00edaz Special Edition",
+        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "duration_ms": 227900,
+      "name": "Matilde Lina",
+      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Cari\u00f1o M\u00edo",
         "url": "https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 197106,
       "name": "Cari\u00f1o M\u00edo",
       "url": "https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Leandro D\u00edaz Special Edition",
-        "url": "https://open.spotify.com/album/15YN8Utsvs8BZuxgWGccns"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        }
-      ],
-      "duration_ms": 227900,
-      "name": "Matilde Lina",
-      "url": "https://open.spotify.com/track/2uTXEOD9TzgYoD6iupAxab"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Sin Amenazas",
+        "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 258760,
+      "name": "Sin Amenazas",
+      "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Ojal\u00e1 (Remix)",
         "url": "https://open.spotify.com/album/7sNRUbrS9DLbbZTtP40KgH"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 219718,
       "name": "Ojal\u00e1 - Remix",
       "url": "https://open.spotify.com/track/1gkf7yielXnNYK1BqHPkHj"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Sin Amenazas",
-        "url": "https://open.spotify.com/album/6LSl2OOTA6nE0Gt6Sk6dU8"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 258760,
-      "name": "Sin Amenazas",
-      "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2035,6 +2035,26 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
+        "name": "Pa'mi",
+        "url": "https://open.spotify.com/album/72FTTLV9T0i47Gix0xHbx1"
+      },
+      "artists": [
+        {
+          "name": "Peter Nieto",
+          "url": "https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "Pa'mi",
+      "url": "https://open.spotify.com/track/6Wh5YfzT3jlTIlCD32lgfr"
+    },
+    {
+      "added_at": "2022-10-27 06:13:38",
+      "album": {
         "name": "Abrete",
         "url": "https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5"
       },
@@ -2055,26 +2075,6 @@
       "duration_ms": 254290,
       "name": "Abrete",
       "url": "https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD"
-    },
-    {
-      "added_at": "2022-10-27 06:13:38",
-      "album": {
-        "name": "Pa'mi",
-        "url": "https://open.spotify.com/album/72FTTLV9T0i47Gix0xHbx1"
-      },
-      "artists": [
-        {
-          "name": "Peter Nieto",
-          "url": "https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 229894,
-      "name": "Pa'mi",
-      "url": "https://open.spotify.com/track/6Wh5YfzT3jlTIlCD32lgfr"
     },
     {
       "added_at": "2022-10-27 06:13:38",
@@ -2223,22 +2223,18 @@
     {
       "added_at": "2022-10-27 06:13:38",
       "album": {
-        "name": "Te Di (Bachata Version)",
-        "url": "https://open.spotify.com/album/2Qts95fsNILaro3JqadM8O"
+        "name": "Ziriguidum",
+        "url": "https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB"
       },
       "artists": [
         {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        },
-        {
-          "name": "Pavel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/1hXeYjc99nEtjQmzp75IPN"
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Te Di - Bachata Version",
-      "url": "https://open.spotify.com/track/0UGwXhOY0puqYasfDDh8ZU"
+      "duration_ms": 201250,
+      "name": "Ziriguidum",
+      "url": "https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi"
     }
   ],
   "unique_name": "Tropical Hits",

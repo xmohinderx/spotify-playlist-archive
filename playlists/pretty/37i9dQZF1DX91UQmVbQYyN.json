@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Florence + The Machine",
-  "num_followers": 501654,
+  "num_followers": 501720,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMDMwM2QxMGQ3ODVjN2I1YjUxZjFlYzg3NjllOTQyNzU1",
+  "snapshot_id": "MTY0ODA2OTA4MywwMDAwMDAwMGE5Y2FkMmQwZGNlMjRhOTA5ZjliYzE5OGI1MmE5NDdi",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "Ribs",
-      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 258969,
+      "name": "Ribs",
+      "url": "https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Kala",
         "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 205200,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Modus Vivendi",
         "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "MAGDALENE",
-        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "cellophane",
-      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 228466,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "MAGDALENE",
+        "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "cellophane",
+      "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 262520,
       "name": "Every Time the Sun Comes Up",
       "url": "https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Antisocialites",
+        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Dreams Tonite",
+      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Fetch The Bolt Cutters",
-        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 201352,
-      "name": "Under The Table",
-      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "Heartthrob",
         "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 209280,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Fetch The Bolt Cutters",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
+      },
+      "artists": [
+        {
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
+        }
+      ],
+      "duration_ms": 201352,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "the rainbow cassette",
-        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
-      },
-      "artists": [
-        {
-          "name": "mazie",
-          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
-        }
-      ],
-      "duration_ms": 102954,
-      "name": "i think i wanna be alone",
-      "url": "https://open.spotify.com/track/0uORqw0i7S97SG4dwb4Ett"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
         "name": "MY WOMAN",
         "url": "https://open.spotify.com/album/3CHcldbsbrBOOlw8cnLpNm"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 202200,
       "name": "Shut Up Kiss Me",
       "url": "https://open.spotify.com/track/3EEr6l5PYelwkrvvKX7N0X"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 102954,
+      "name": "i think i wanna be alone",
+      "url": "https://open.spotify.com/track/0uORqw0i7S97SG4dwb4Ett"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
+        "name": "So Jealous",
+        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "duration_ms": 150293,
+      "name": "Walking with a Ghost",
+      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
         "name": "Kissing Lessons",
         "url": "https://open.spotify.com/album/0uXVaGNDshKcJr0CXlWeYj"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 114653,
       "name": "Kissing Lessons",
       "url": "https://open.spotify.com/track/3KRdLDjxlAY7ku93tOG0b1"
-    },
-    {
-      "added_at": "2022-03-08 05:00:00",
-      "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Road Head",
-      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+      "duration_ms": 195106,
+      "name": "Road Head",
+      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
     },
     {
       "added_at": "2022-03-08 05:00:00",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2022-03-08 05:00:00",
       "album": {
-        "name": "So Jealous",
-        "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
       "artists": [
         {
-          "name": "Tegan and Sara",
-          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 150293,
-      "name": "Walking with a Ghost",
-      "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2022-03-08 05:00:00",

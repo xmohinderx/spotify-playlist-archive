@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Fred again..
 
-541 songs - 1 day 6 hr 55 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
+542 songs - 1 day 6 hr 59 min - [published](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Deja Vu](https://open.spotify.com/track/4QXXgWWwBpsVp2DSlufBYo) | [Cyril M](https://open.spotify.com/artist/4wK7xzsbUZ1jC7qDgmIWpV), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Deja Vu](https://open.spotify.com/album/1tKkhl4587VKJtLIrgHsJ7) | 2:26 | 2022-08-26 | 2022-09-24 |
 | [Deja Vu](https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Deja Vu](https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY) | 3:18 | 2021-12-31 | 2022-03-26 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-21 | 2022-10-26 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-21 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-21 | 2022-10-31 |
 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 | 2021-12-31 | 2022-04-09 |
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-02 | 2022-10-15 |
 | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/track/1kwHrBWAlucOE57lWugotk) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Do It Better \(feat\. Zoe Wees\)](https://open.spotify.com/album/5mqNZCRQAKtzzDyohUmBEU) | 2:50 | 2022-05-27 | 2022-10-01 |

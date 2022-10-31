@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-175 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+176 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 |  |
-| [Ghir Ntiya \- غير انتيا](https://open.spotify.com/track/6XoNRINIM8Lbgv8WDESilv) | [Othmane Boulboul](https://open.spotify.com/artist/2TZI7LihfsP6ZEW0W18dkY) | [Ghir Ntiya \(غير انتيا\)](https://open.spotify.com/album/4px3SsR6W8XCcftVF35v3M) | 3:05 | 2022-10-13 |  |
+| [Ghir Ntiya \- غير انتيا](https://open.spotify.com/track/6XoNRINIM8Lbgv8WDESilv) | [Othmane Boulboul](https://open.spotify.com/artist/2TZI7LihfsP6ZEW0W18dkY) | [Ghir Ntiya \(غير انتيا\)](https://open.spotify.com/album/4px3SsR6W8XCcftVF35v3M) | 3:05 | 2022-10-13 | 2022-10-31 |
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-01-15 | 2022-07-12 |
 | [Goulo Lhabibi](https://open.spotify.com/track/7ERaNCwzEUT8AOrFsKLWmm) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Goulo Lhabibi](https://open.spotify.com/album/0h2Uhhf98ZSqkcVensqc9y) | 2:41 | 2022-02-16 | 2022-06-12 |
 | [Ha Mamma](https://open.spotify.com/track/0Tfz7a7pNfv4D5yp35DNFR) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Ha Mamma](https://open.spotify.com/album/3WxV7oGGwoeFDMBUrciCLW) | 2:46 | 2022-09-26 |  |
@@ -136,7 +136,7 @@
 | [Ntiya Lm3alma](https://open.spotify.com/track/5IlkjrCw2DmkH8klRfa9Dt) | [Aymane Serhani](https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2) | [Ntiya Lm3alma](https://open.spotify.com/album/7qXWfxYUr4A6bUlDy41fII) | 3:24 | 2022-05-26 | 2022-07-17 |
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2021-12-25 | 2022-01-08 |
 | [Omri](https://open.spotify.com/track/0UoPZZKHTNXyAKvnQC0PrY) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Omri](https://open.spotify.com/album/6uPeVzOEUmO69h6gsNt2rn) | 3:20 | 2022-09-01 |  |
-| [Oui Oui](https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Oui Oui](https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8) | 3:04 | 2022-05-23 |  |
+| [Oui Oui](https://open.spotify.com/track/6RSzvqWsZHJi0Gd6y6RE5f) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Oui Oui](https://open.spotify.com/album/7pfjDS1yHElsYKni049KL8) | 3:04 | 2022-05-23 | 2022-10-31 |
 | [Porfavor](https://open.spotify.com/track/0QQsxD6ZVzBINIgNgqWCF5) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Porfavor](https://open.spotify.com/album/0q83zWh0GQLgiGUl7U5wAs) | 2:45 | 2021-12-25 | 2022-03-04 |
 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 | 2022-07-25 | 2022-09-02 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
@@ -160,6 +160,7 @@
 | [Walo Maliya والو ماليا](https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Walo Maliya](https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN) | 3:30 | 2022-06-16 |  |
 | [Warda](https://open.spotify.com/track/2QLNQhYYJCSlxiErVS40H4) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW) | [Warda](https://open.spotify.com/album/3ZnpCRoUy8950vnQSWmDhx) | 3:25 | 2022-02-14 | 2022-06-28 |
 | [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 | 2022-10-25 |  |
+| [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 | 2022-10-30 |  |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-01-17 |  |
 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 | 2022-07-19 |  |
 | [Ya Bent Nass](https://open.spotify.com/track/2s5o3Di1s0dWOkL1iYnTJl) | [Zamane](https://open.spotify.com/artist/12Idndj4QId8wutMkBpBcc), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Ya Bent Nass](https://open.spotify.com/album/2tFxYpE665zTN9sL4qVizP) | 3:06 | 2022-05-26 | 2022-06-21 |

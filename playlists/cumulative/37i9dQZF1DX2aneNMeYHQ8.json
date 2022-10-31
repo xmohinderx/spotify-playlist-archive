@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Cannabis Tree",
+        "url": "https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS"
+      },
+      "artists": [
+        {
+          "name": "Rome & Duddy",
+          "url": "https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291186,
+      "name": "Cannabis Tree",
+      "url": "https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR"
+    },
+    {
+      "album": {
         "name": "Changing",
         "url": "https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj"
       },
@@ -3541,7 +3559,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 205824,
       "name": "The Best Part of Letting Go",
       "url": "https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF"

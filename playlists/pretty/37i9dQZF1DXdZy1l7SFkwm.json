@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 30838,
+  "num_followers": 30868,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDkxMWVmMWQ5MTE4ZjY2ODllZTM4MGU5MWQzOTY0NmY4",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDA5Zjk0ZjY4ZWE3YWFlYjZjOWZjNDZmMjQ0YTE1OTg3",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -295,22 +295,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 327866,
       "name": "Candela",
       "url": "https://open.spotify.com/track/1eHGsCdAWh1Ffowzacpfoi"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -603,8 +603,8 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Por Causa De Voc\u00ea, Menina",
-      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -683,8 +683,8 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
       },
       "artists": [
         {
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
         }
       ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
-      },
-      "artists": [
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Soy El Rey",
-      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
+      "duration_ms": 167066,
+      "name": "Por Causa De Voc\u00ea, Menina",
+      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -727,6 +711,22 @@
       "duration_ms": 396440,
       "name": "Amor verdadero",
       "url": "https://open.spotify.com/track/6Ds9miFD06FwpFdAuqDo0h"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Soy El Rey",
+      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -767,22 +767,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Lonely Teardrops",
-        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Lonely Teardrops",
-      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Wonderful World, Beautiful People",
         "url": "https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 164066,
       "name": "Many Rivers To Cross",
       "url": "https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Lonely Teardrops",
+        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 166213,
+      "name": "Lonely Teardrops",
+      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -871,22 +871,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
-        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 168706,
-      "name": "Beggin' - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -931,6 +915,22 @@
       "duration_ms": 135093,
       "name": "A R\u00e3",
       "url": "https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jersey Beat: The Music Of Frankie Valli and The Four Seasons",
+        "url": "https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg"
+      },
+      "artists": [
+        {
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+        }
+      ],
+      "duration_ms": 168706,
+      "name": "Beggin' - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "O Morro (N\u00e3o Tem Vez)",
-      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "El Tr\u00edo Los Panchos / Por Siempre Boleros",
         "url": "https://open.spotify.com/album/4dJcbMoV2N10NKW9G0bXec"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174106,
       "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
       "url": "https://open.spotify.com/track/0gKj8QF7esmwphbJe2DZF5"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 176146,
+      "name": "O Morro (N\u00e3o Tem Vez)",
+      "url": "https://open.spotify.com/track/5jMc7pAGFQ5lRqfaM7AsU5"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Caetano Veloso",
+        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Soy Loco Por Ti America - Remastered 2006",
+      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Guisando: Doing A Job",
         "url": "https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 168160,
       "name": "Beach Samba",
       "url": "https://open.spotify.com/track/2jCjSJuWQ4GSj9vhrFywDj"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Caetano Veloso",
-        "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Soy Loco Por Ti America - Remastered 2006",
-      "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Bossa Nova Carlos Lyra",
-        "url": "https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lyra",
-          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
-        }
-      ],
-      "duration_ms": 80800,
-      "name": "Lobo Bobo (Foolish Wolf)",
-      "url": "https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 238413,
       "name": "La negra Tomasa",
       "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Bossa Nova Carlos Lyra",
+        "url": "https://open.spotify.com/album/6SkCc0AyioogFxwJwYZUZl"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lyra",
+          "url": "https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS"
+        }
+      ],
+      "duration_ms": 80800,
+      "name": "Lobo Bobo (Foolish Wolf)",
+      "url": "https://open.spotify.com/track/5wjEUKBi5gkrrZ6lZxzC5Y"
     },
     {
       "added_at": "2021-03-15 16:04:53",

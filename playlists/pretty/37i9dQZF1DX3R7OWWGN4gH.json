@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 718578,
+  "num_followers": 720539,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDQ3NDk5MGQ4YTY2ODg4YzFhYjNmNGEwZjZkOTA5NzQw",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDdjOWEwNmQyYmMxYjdmMGIxYjRjNmRlOWI4MTZjYmNm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 190883,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 195920,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 190883,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "13 Reasons Why (Season 3)",
-        "url": "https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 204887,
-      "name": "Teeth",
-      "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "13 Reasons Why (Season 3)",
+        "url": "https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 204887,
+      "name": "Teeth",
+      "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "ALL OUT",
         "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 177028,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Party Favors",
-        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 214087,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3bTzAFtvHyDWJcIyTQijGO"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 185122,
       "name": "If I Killed Someone For You",
       "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Party Favors",
+        "url": "https://open.spotify.com/album/08VQWx0GZFqmUgRtGPntdg"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 214087,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3bTzAFtvHyDWJcIyTQijGO"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 201520,
-      "name": "Mad Hatter",
-      "url": "https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1087,6 +1087,38 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Neveroddoreven",
+        "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
+      },
+      "artists": [
+        {
+          "name": "I Monster",
+          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Who Is She ?",
+      "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Mad Hatter",
+      "url": "https://open.spotify.com/track/5gWtkdgdyt5bZt9i6n3Kqd"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "I'm Sorry...",
         "url": "https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 193080,
       "name": "Wires",
       "url": "https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Panic Room",
-        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
-      },
-      "artists": [
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 237772,
-      "name": "Panic Room",
-      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Neveroddoreven",
-        "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
+        "name": "Panic Room",
+        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
       },
       "artists": [
         {
-          "name": "I Monster",
-          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Who Is She ?",
-      "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
+      "duration_ms": 237772,
+      "name": "Panic Room",
+      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        }
-      ],
-      "duration_ms": 195717,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "BADLANDS (Deluxe)",
         "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
       },
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "Choke",
+        "url": "https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+      "duration_ms": 195717,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 159293,
-      "name": "overwhelmed",
-      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Thrill Seeker",
         "url": "https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 158666,
       "name": "Emperor's New Clothes",
       "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Overwhelmed",
+        "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "overwhelmed",
+      "url": "https://open.spotify.com/track/5jjZikDrEd0by1o7V3fO4y"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1651,22 +1651,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Six: The Musical (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
+        "name": "Sunset on Summerville",
+        "url": "https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r"
       },
       "artists": [
         {
-          "name": "SIX",
-          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
-        },
-        {
-          "name": "Christina Modestou",
-          "url": "https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7"
+          "name": "Madds Buckley",
+          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
         }
       ],
-      "duration_ms": 245303,
-      "name": "Don't Lose Ur Head",
-      "url": "https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3"
+      "duration_ms": 233979,
+      "name": "The Red Means I Love You",
+      "url": "https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8"
     }
   ],
   "unique_name": "Villain Mode",

@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 650604,
+  "num_followers": 650723,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDFhOWRmODA5ZGZlMjMyZWU4ZjE5Y2VmMjE0YTczODBh",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGY0MTg2MTE4ZTZmMDJhYTQ5Y2ZiOWYxYmJiZDZhZThm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "\u70ba\u611b\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 177000,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "\u70ba\u611b\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 234600,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/3e0qSxu1fNPzDlwqWN3cBD"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Origin of Symmetry",
-        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "You Are My Sunshine (with Chris Stapleton)",
         "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Origin of Symmetry",
+        "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 308756,
+      "name": "Love and Happiness",
+      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus)",
       "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 308756,
-      "name": "Love and Happiness",
-      "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Drain The Blood",
         "url": "https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 180866,
       "name": "Eye Of The Tiger",
       "url": "https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 215146,
       "name": "What's Going On - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 218389,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Rita Wilson Now & Forever: Duets",
         "url": "https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 293066,
       "name": "Slip Slidin' Away",
       "url": "https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
     }
   ],
   "unique_name": "Classic Covers",

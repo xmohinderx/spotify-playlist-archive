@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Rihanna \(pictured\), SZA, Shania Twain, dvsn, Fred again.., and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,855 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,920 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 62 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 |
 | 63 | [Shootouts In Soho \(feat\. A$AP Rocky & Stove God Cooks\)](https://open.spotify.com/track/5jcbcNw3MnXSEhYqXM3pcC) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:29 |
 | 64 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 |
-| 65 | [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv), [NO](https://open.spotify.com/artist/6NkUxoYd8qeWelS4nuzwr4) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 |
+| 65 | [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 |
 | 66 | [CRYPT](https://open.spotify.com/track/1oLnJ7OXGCvdRWBgkiTQfU) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [CRYPT](https://open.spotify.com/album/7Jz9ANs32REV7h7C3z1Yw2) | 1:45 |
 | 67 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
 | 68 | [OOGA BOOGA!](https://open.spotify.com/track/4gKWtJGlhxKKSyV65llt2G) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [OOGA BOOGA!](https://open.spotify.com/album/0S180TSjO1KVmxh4oZHimt) | 2:19 |

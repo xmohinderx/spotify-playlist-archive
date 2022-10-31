@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Big Bllakk, LEALL, Major RD, Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,526 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,559 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 43 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
 | 44 | [Noturno](https://open.spotify.com/track/1BPNkG24sSYmzLkaUAukUW) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Noturno](https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz) | 2:49 |
 | 45 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
-| 46 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
+| 46 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 47 | [Contar](https://open.spotify.com/track/6hWt28DuuWFXj8DEi9Gm1C) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Aguida Beats](https://open.spotify.com/artist/4IC1m7XcmBRlxYFoAl23E1) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 3:32 |
-| 48 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
-| 49 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
+| 48 | [Quebrando Regras](https://open.spotify.com/track/1khFaNabDuHN814N0ww0Mj) | [Xandy MC](https://open.spotify.com/artist/5oQnCQtwReXr4ai56qGWMC), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Quebrando Regras](https://open.spotify.com/album/24kyFBNUZsYmm19GISzgoW) | 2:26 |
+| 49 | [Riqueza](https://open.spotify.com/track/3YfHTvRU8S08RL3UWUEiEr) | [Dendê](https://open.spotify.com/artist/306dURz1s90QIIZaVusODl), [Vinão Beats](https://open.spotify.com/artist/6z3MdWWG4r2vJivLpHV9WH) | [Riqueza](https://open.spotify.com/album/0ReYt8t0Bttf1Y6dDnimjs) | 2:20 |
 | 50 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMGRlMzM5ZWRmNDkzNTdjNWYzMWM2ZDcxZjE3ZGY1NTFh`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDdlYzVhNTFhNzczMzZmNTZhNjAwYzA1ZGUwMmNhYzFk`

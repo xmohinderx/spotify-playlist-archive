@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Drugdealer
 
-682 songs - 1 day 15 hr 0 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+684 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [Phase](https://open.spotify.com/track/3IOpJYHofSXLSTyzXXc4uO) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Phase](https://open.spotify.com/album/0RVkJ3E9z3vm2DOnqpSmc4) | 4:08 | 2022-03-26 | 2022-04-14 |
 | [photograph](https://open.spotify.com/track/0zFzJ5xtaSOtOhcmWBKJvu) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [photograph](https://open.spotify.com/album/6oPlHI8HkXSFBgUJAMmuGZ) | 3:18 | 2022-04-29 | 2022-06-19 |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-14 |  |
+| [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 |  |
 | [Pls](https://open.spotify.com/track/0huewUKXZxVWSsQlrGT19m) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED), [Mina Walker](https://open.spotify.com/artist/3Ck1jo2CdzAFX1T16jZdhr) | [Pls](https://open.spotify.com/album/5nAYqQTnaU48kSylS4lFzw) | 3:00 | 2021-05-14 | 2022-04-17 |
 | [Pool Hopping](https://open.spotify.com/track/3MMGTD1oJQ6MZSHLap5ec6) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Pool Hopping](https://open.spotify.com/album/6kSbPYilCl1GgskOg6RQlE) | 3:07 | 2021-06-11 | 2022-03-27 |
 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 | 2022-04-29 | 2022-08-27 |
@@ -544,7 +545,8 @@
 | [Soft Blood](https://open.spotify.com/track/3VzbX4GWZgEpwmZWuNW2Ik) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Soft Blood](https://open.spotify.com/album/2Xzu9hEsXtsO2nw54J2ubK) | 1:40 | 2021-03-05 | 2022-04-29 |
 | [Soft Stud](https://open.spotify.com/track/2i1jIsRpjjzaV85v1fS4Hu) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Mother of My Children](https://open.spotify.com/album/2QjUIrwCIeXwORe8R4u7tH) | 6:08 | 2021-06-02 | 2022-04-29 |
 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 | 2022-10-14 |  |
-| [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 |  |
+| [Someone to Love](https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Someone to Love](https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5) | 3:56 | 2022-08-26 | 2022-10-31 |
+| [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-10-21 |  |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-04-29 | 2022-06-19 |
 | [Something Else](https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Something Else](https://open.spotify.com/album/52qxd2pn2DC8uk51R4Yf7z) | 4:19 | 2021-03-05 | 2022-04-18 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-04-02 | 2022-04-29 |

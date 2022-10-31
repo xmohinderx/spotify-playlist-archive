@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 747,
+  "num_followers": 768,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDcwYTFhNmZlZGFhNWVhZWQxMjQ4MjJjOGI2OWU0ZmM3",
+  "snapshot_id": "MTY2NDY0MDAwMCwwMDAwMDAwMDg4YjI1MDM5MWE3ODJlMTRkODdmMDI4Y2U4NjEzNDkw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Watch The Throne (Deluxe)",
-        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Who Gon Stop Me",
-      "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Rich Slave",
         "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 211213,
       "name": "RNB (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/0hng8bySwA3wbhPNeSg7Mo"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Who Gon Stop Me",
+      "url": "https://open.spotify.com/track/3R1k8P1MrDdLSRhlTaaWAS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

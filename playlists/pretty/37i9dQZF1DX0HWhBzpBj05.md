@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 
 > Spread some cheer with this list of new and old seasonal favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,583 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,632 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 25 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 |
 | 26 | [White Christmas](https://open.spotify.com/track/72Z28IsvEVLjSWdUKEQgZ0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:38 |
 | 27 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
-| 28 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0ImOL4s238XPV8d2DKTJ2D) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:38 |
+| 28 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/0cBCE4fJztY5LcB6P7P2io) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:38 |
 | 29 | [Last Christmas](https://open.spotify.com/track/1jjuOT18tPbqXhaxvsBani) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Last Christmas](https://open.spotify.com/album/2UOO3MgYXf829xN014WdNX) | 3:32 |
 | 30 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 |
 | 31 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HWhBzpBj05.md) - [plain]
 | 71 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 |
 | 72 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
 | 73 | [Don't Save It All for Christmas Day](https://open.spotify.com/track/4ruIMJnh6mPhiNWE9amaEF) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:37 |
-| 74 | [Winter Wonderland \- Single Version](https://open.spotify.com/track/0Mdu7wOTmDiqHTH8z7cDnL) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 3:01 |
+| 74 | [Winter Wonderland \- Single Version](https://open.spotify.com/track/5LptlBSMWkU65JuGu2U6j9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:01 |
 | 75 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 | 76 | [The Twelve Days of Christmas](https://open.spotify.com/track/1phlddT9rezMBppm6WDVdW) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Complete RCA Christmas Collection](https://open.spotify.com/album/6QSSyJyDQVshrNr7SnqKsE) | 3:59 |
 | 77 | [We Wish You A Merry Christmas](https://open.spotify.com/track/73pcHkUzQTD3IqYrHfqUf8) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Christmas Romance](https://open.spotify.com/album/5iSA8cwqAeL2Ep7RcnT62N) | 3:49 |
 | 78 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 |
 
-Snapshot ID: `MTY2NjUzOTYzMSwwMDAwMDAwMDUwZGNlYTE5MTdmZjU4OTA5YzBhNjhhMGU0ZDZhY2Qx`
+Snapshot ID: `MTY2NjUzOTYzMSwwMDAwMDAwMGVkNzdkYTY0NjRmMGZiOWJiZWFkNjQ2YzVjMzU2ZWVk`

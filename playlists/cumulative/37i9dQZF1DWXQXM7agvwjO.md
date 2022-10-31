@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: SURL \(South Korea\)
 
-454 songs - 1 day 3 hr 12 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
+455 songs - 1 day 3 hr 17 min - [published](https://open.spotify.com/playlist/150ZZwzNCm1BXFjIA5T8kJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Coming Back](https://open.spotify.com/track/6GrOZYmO4cbVHGz5IGWjd7) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Coming Back](https://open.spotify.com/album/60RRYz2U7iQkuYRvIoAXsn) | 3:29 | 2022-10-13 |  |
 | [Cooking For One](https://open.spotify.com/track/2GurjJblHxTdQ7OVmQFfKJ) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Cooking For One](https://open.spotify.com/album/1nKLZECJDOD2mgFgaotaNK) | 2:41 | 2022-10-20 |  |
 | [CRAY CRAY](https://open.spotify.com/track/4TWfqCndoNB9iXs9PNZ4qS) | [The Sulis Club](https://open.spotify.com/artist/27vU0dOcGeurMc8VYTSfsQ) | [CRAY CRAY](https://open.spotify.com/album/6N5p0VTqHdBmeQKgumUyx5) | 3:15 | 2022-06-30 | 2022-08-05 |
+| [Cultivation](https://open.spotify.com/track/0xHiVZ6UcONGic2PgIeu55) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Benjamin Varney](https://open.spotify.com/artist/5jC1DZRmodcLQvEd4WbAOX) | [Cultivation](https://open.spotify.com/album/6TLAPS18p4RNBH1HsIX7dn) | 4:52 | 2022-10-30 |  |
 | [Cá Đuối](https://open.spotify.com/track/7mXhhwuJSi7ymaHhp4HFag) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Cá Đuối](https://open.spotify.com/album/2bAlCgGwk13Mv164quGunk) | 4:03 | 2022-06-02 | 2022-07-17 |
 | [Damn](https://open.spotify.com/track/1QwudZWY8vblm2FxnB5T6q) | [Merakki](https://open.spotify.com/artist/0mwrCJZK8W2px2zfL0psfl) | [Damn](https://open.spotify.com/album/5bOTQffztbHEb5hmVUsEMw) | 3:07 | 2022-09-29 |  |
 | [Dan Terang](https://open.spotify.com/track/6w8sK1XIs2sYC8zuZCtWkQ) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Dan Terang](https://open.spotify.com/album/2ZyGhjDcQsy5JRD6tAqgMY) | 10:15 | 2022-07-14 | 2022-08-19 |

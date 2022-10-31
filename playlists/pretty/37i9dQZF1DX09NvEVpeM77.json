@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 211626,
+  "num_followers": 211917,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDQ5MTU3YzJiMDg0MDQ4NmFhMGJmNjExZDhjMTQ3Mzc1",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGEwMzE5N2E4ZjJkOGMyYzFiYjg3MjJhZjQ3MTAzNjdj",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/6i9dZZQWNB06HKsQYKTiPF"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 170173,
-      "name": "Take The Money And Run",
-      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
-    },
-    {
       "added_at": "2022-03-04 19:14:07",
       "album": {
         "name": "Fire of Unknown Origin",
@@ -587,6 +571,22 @@
       "duration_ms": 271000,
       "name": "Burnin' for You",
       "url": "https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 170173,
+      "name": "Take The Money And Run",
+      "url": "https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu"
     },
     {
       "added_at": "2022-03-04 19:14:07",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
     },
     {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Rock'n Me",
-      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
-    },
-    {
       "added_at": "2022-06-15 19:50:25",
       "album": {
         "name": "But Seriously, Folks...",
@@ -701,6 +685,22 @@
       "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"
     },
     {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Fly Like An Eagle",
+        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Rock'n Me",
+      "url": "https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq"
+    },
+    {
       "added_at": "2022-03-14 17:21:32",
       "album": {
         "name": "Permanent Waves",
@@ -731,22 +731,6 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
-    },
-    {
-      "added_at": "2022-03-04 19:00:59",
-      "album": {
-        "name": "Fly Like An Eagle",
-        "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 282693,
-      "name": "Fly Like An Eagle",
-      "url": "https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI"
     },
     {
       "added_at": "2022-03-31 19:45:13",
@@ -795,6 +779,22 @@
       "duration_ms": 188083,
       "name": "Dance the Night Away - 2015 Remaster",
       "url": "https://open.spotify.com/track/4RS9PmtHQe7I0o5fEeweOY"
+    },
+    {
+      "added_at": "2022-03-04 19:00:59",
+      "album": {
+        "name": "Chicago II",
+        "url": "https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "25 or 6 to 4 - 2002 Remaster",
+      "url": "https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW"
     },
     {
       "added_at": "2022-03-04 19:00:59",

@@ -4,7 +4,7 @@
 
 > Feel great with these timelessly fun songs!
 
-292 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/0lR8wd9COqP0E60EfeBfJ2)
+293 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/0lR8wd9COqP0E60EfeBfJ2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,8 +124,9 @@
 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 | 2019-05-26\* | 2022-07-29 |
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/0rTkE0FmT4zT2xL6GXwosU) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [I Got You \(I Feel Good\)](https://open.spotify.com/album/2VM5yuYcvftfvYvJC0RwwW) | 2:45 | 2019-06-21 | 2021-03-23 |
 | [I Melt with You](https://open.spotify.com/track/6J2rMSRhgb4HuX6dWgM3nJ) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 4:11 | 2020-01-07 | 2022-07-29 |
-| [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2019-06-21 |  |
+| [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 | 2019-06-21 | 2022-10-31 |
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4DRBaZ760gyk7LWnaJFqsJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:25 | 2019-05-26\* | 2022-04-19 |
+| [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2020-08-05 |  |
 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 | 2019-05-26\* | 2022-06-27 |
 | [I Will Survive](https://open.spotify.com/track/6b8IKVufOkAawvQVguQxmo) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Universal Masters Collection](https://open.spotify.com/album/2ZKHRi6J0lQXWpFNITH45t) | 3:17 | 2019-05-26\* | 2022-04-20 |
 | [I'll Take You There](https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:16 | 2019-06-21 | 2022-04-21 |

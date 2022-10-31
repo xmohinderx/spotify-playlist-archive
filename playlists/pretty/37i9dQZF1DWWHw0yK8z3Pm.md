@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Julian Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,679 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,690 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 2 | [Stolen Lands](https://open.spotify.com/track/3612vDRgEpnvWNy9DqSny1) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Beyond the Reservoir](https://open.spotify.com/album/3jA5Mx5hdVzDaY7dJbfC3W) | 6:10 |
 | 3 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 |
 | 4 | [Two Wolves](https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA) | 4:04 |
-| 5 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 |
+| 5 | [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 |
 | 6 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 7 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 |
 | 8 | [Instant Cash for Gold](https://open.spotify.com/track/5KAiIOtmYxJlW6fIkgWWsH) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Instant Cash for Gold](https://open.spotify.com/album/6USRdm9O0GBJFyQLKav3JR) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Caroline](https://open.spotify.com/track/3ME0oA0PvhyIabL6ZiDOea) | [Willie Stratton](https://open.spotify.com/artist/1vEiaSJR9xF1T2Ckp4oZwT) | [Caroline](https://open.spotify.com/album/2OyX6YzNKwM7C8dX6NOI5I) | 4:08 |
 | 100 | [Nobody](https://open.spotify.com/track/3S1jrpvGleaEv1KQ8mXCpK) | [David James Allen](https://open.spotify.com/artist/3a1RtSeqazHL2kYLbhydx3) | [Nobody](https://open.spotify.com/album/3No89K9dFtQ4UQGyq1IPL2) | 2:53 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDZhNWY0MjdhMzIyMTA3NGIzZGIzNWIzMWE2NmQ3Y2Vh`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGViYjJmZjBiNjI1YjYyZmYyOTYzZmFjNzEzMDZjZGU4`

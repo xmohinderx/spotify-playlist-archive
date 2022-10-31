@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,082 likes - 71 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,101 likes - 71 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 16 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 |
 | 17 | [There Is No Christmas Like a Home Christmas](https://open.spotify.com/track/4fh3vQKUQFOsPqAcoLBa8r) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [The Classic Christmas Album](https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi) | 3:15 |
 | 18 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/3FBelB9y5TwsdJMLPYBsbs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 3:02 |
-| 19 | [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 |
+| 19 | [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 |
 | 20 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/5KMun6paSlHbeejlmQI279) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [The Classic Christmas Album](https://open.spotify.com/album/4rBIMMvhMZMa3Q0X4LRYQi) | 2:34 |
 | 21 | [Let It Snow \(with Michel Legrand\)](https://open.spotify.com/track/5tRAaJn5XtjQbIcrkHligQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:18 |
 | 22 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs of December \(Anniversary Edition\)](https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk) | 4:49 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pYJHz6u9GC.md) - [plain]
 | 70 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1WrksSayukHRLctEsjcSGf) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/1QKSquXHKLOclEqcstI9vN) | 4:03 |
 | 71 | [O Little Town Of Bethlehem](https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:19 |
 
-Snapshot ID: `MTY2NDI2MDcwOCwwMDAwMDAwMGVlMDQ3MzMxM2NhN2JmZjAxMmJjNTdmMmYxMDE3ZjFl`
+Snapshot ID: `MTY2NDI2MDcwOCwwMDAwMDAwMGE4ZjI2YWQ4ZjY1MzVjZTk0NDk0ODNlMjdmZjc2MDNh`

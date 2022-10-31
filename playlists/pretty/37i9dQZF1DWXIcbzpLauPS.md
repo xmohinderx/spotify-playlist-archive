@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new Core at its finest\. Cover: The Devil Wears Prada
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,134 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,180 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 15 | [Dead Inside](https://open.spotify.com/track/4hZIolup6cgYhrzzGq46aq) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Run](https://open.spotify.com/album/3PsbQWb1jzu1TieGQwvjd7) | 3:24 |
 | 16 | [Rain Down](https://open.spotify.com/track/0WcS5eAg9byayXJFZ75eEi) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Rain Down](https://open.spotify.com/album/2qcmpfLRQq8qi4WCJOI1oc) | 4:07 |
 | 17 | [A Form of Protest](https://open.spotify.com/track/1LDQFdGTEXOnycDC8CJ5p1) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [A Form of Protest](https://open.spotify.com/album/7sPoZ4Nxv34iSFIwmbUCrA) | 3:09 |
-| 18 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
-| 19 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 |
+| 18 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 |
+| 19 | [Reaper](https://open.spotify.com/track/6I7ilpVQq4oETOdmHPL5LE) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Reaper](https://open.spotify.com/album/6RnuLQwxEgHaHPyWjel051) | 3:19 |
 | 20 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 |
 | 21 | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/track/3CLV93SK84UzGD5EHm3vsT) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Pain Remains II: After All I've Done, I'll Disappear](https://open.spotify.com/album/7s8v300WVzKUhsATpx692e) | 5:36 |
 | 22 | [Into Oblivion](https://open.spotify.com/track/1ZlTDTGu86Bxf0RQX2RjMz) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Curse Of Existence](https://open.spotify.com/album/7GiQ5guVJwb7hScDnhfsAW) | 4:15 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 33 | [You Must Die](https://open.spotify.com/track/62FvxmmrGxBBEBI6yBkI0E) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [You Must Die](https://open.spotify.com/album/5caFwAXPLpgbK5DtDnHBTj) | 2:42 |
 | 34 | [Anomaly](https://open.spotify.com/track/4y2WxyFPLHaLoHkxymgNar) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Anomaly](https://open.spotify.com/album/3x0fD3AKsVdr63OInlGAXv) | 3:43 |
 | 35 | [Heretic](https://open.spotify.com/track/6O6U83grucuxSktER0IbrM) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Heretic](https://open.spotify.com/album/0lQqsnfP4Hwy8KoIg1H07y) | 3:22 |
-| 36 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
-| 37 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
-| 38 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
-| 39 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
+| 36 | [Venenosa](https://open.spotify.com/track/39Vg7SGvdJTeEq3rtKKwk2) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Venenosa](https://open.spotify.com/album/6obCslVAsNkI4LfaYTH2G7) | 3:10 |
+| 37 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 |
+| 38 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 |
+| 39 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 |
 | 40 | [A Killing Word](https://open.spotify.com/track/3jVZdrq596QrH6xq4l6jgI) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Deathrattle Sing for Me](https://open.spotify.com/album/3M166GrcDHdQBuV2ChB2As) | 4:44 |
 | 41 | [Hotel Underground](https://open.spotify.com/track/0CoxiZuaRFycPJ0Xl1oSOJ) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Hotel Underground](https://open.spotify.com/album/3GdgTYJ6MCD7nsQ8uZZly5) | 2:46 |
-| 42 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
-| 43 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
+| 42 | [White Washed \- 2022](https://open.spotify.com/track/6Aco1hY5ciwgaWPFm7sTd1) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [White Washed & Composure 2022](https://open.spotify.com/album/6zaOIfy2Fy8ez7UnAv1ZJ8) | 3:57 |
+| 43 | [Alive or Only Burning](https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 3:09 |
 | 44 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 |
 | 45 | [Reflections](https://open.spotify.com/track/1Llt2DZh24nULvOmBj8Ooc) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [Reflections](https://open.spotify.com/album/1uTmZIJQxa9q0viqcGoexw) | 3:07 |
 | 46 | [RE\-Animate](https://open.spotify.com/track/1swGkxWE39ddPCPLwWyWLw) | [For The Fallen Dreams](https://open.spotify.com/artist/0rsHKddRhuze38fVL0egOY) | [RE\-Animate](https://open.spotify.com/album/4ivJq2bYddTsyWUjEtTBHJ) | 3:19 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 56 | [Suffer](https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Suffer](https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2) | 3:23 |
 | 57 | [Lost](https://open.spotify.com/track/6WMFC3iy36DscTJEG0huzK) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [The Collapse](https://open.spotify.com/album/4np2KGjQ8ARvYgHz5o0pAr) | 3:30 |
 | 58 | [Miscreation](https://open.spotify.com/track/5YcT4GfUGdJSuoiZwiv26Z) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Miscreation](https://open.spotify.com/album/6iVF7LgG1mjmMfBGF5jGP2) | 3:33 |
-| 59 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 |
-| 60 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 |
+| 59 | [Damage Done](https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/1PbfLW19jXBEwveMzJqBRk) | 3:27 |
+| 60 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 |
 | 61 | [Suffocate](https://open.spotify.com/track/7aIKpaMchQAKcNv7W8GQhv) | [Execution Day](https://open.spotify.com/artist/3f3CYDS0i8Z0Egxp9gwD1Z) | [Suffocate](https://open.spotify.com/album/6KXqyVNZsxl7NwgQVvtZ4C) | 3:47 |
 | 62 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 |
 | 63 | [Be Someone](https://open.spotify.com/track/13saTla2BZhPkAm5OWRaFW) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Be Someone](https://open.spotify.com/album/3wHYbhls679gOOr45eAWZv) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [The Snow](https://open.spotify.com/track/5Ud87h3Gmcelf0F22qObT8) | [Devil May Care](https://open.spotify.com/artist/7i4fpNdyHzYPX3TFjEqKll) | [The Snow](https://open.spotify.com/album/5sDZlTzQLxtxKceKQsNZZo) | 3:44 |
 | 75 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 |
 
-Snapshot ID: `MTY2Njk0MDQwMCwwMDAwMDAwMDFjNjIwODQxNGRmMWJlOGJkODlkZjc0N2U2NGQ0NTY2`
+Snapshot ID: `MTY2Njk0MDQwMCwwMDAwMDAwMGU4OTBlYmU1MzY2YmRkYjc0MmEyNjQ1OTA5MjE0Yjgy`

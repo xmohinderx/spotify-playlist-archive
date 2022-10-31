@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,410 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,506 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 31 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 32 | [Indigo Grit \(feat\. guest\)](https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [guest](https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 1:52 |
 | 33 | [Forward](https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Forward / Wreck Dive](https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN) | 3:16 |
-| 34 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 |
-| 35 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 34 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 35 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 |
 | 36 | [I Lost You When the Rain Sang a Song \- Original Mix](https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2) | [Seven24](https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7), [Soty](https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ) | [Leave No Path Untaken](https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU) | 2:40 |
 | 37 | [Drømmefanger \(Extended\)](https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Kingdom Two Crowns: Norse Lands Soundtrack \(Extended\)](https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry) | 3:03 |
 | 38 | [Abiogenesis](https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Langstrakt](https://open.spotify.com/artist/5bxnRnhjdhinmUwndSYYW9), [Davide Rossi](https://open.spotify.com/artist/3n5USfahZSYCaiIYW58Mmy), [Philip I Schneider](https://open.spotify.com/artist/6jNPFpAGou2NfLUIUo7X8P) | [Kasper Bjørke Quartet: Abiogenesis](https://open.spotify.com/album/3QcNobksry2yytTgmxFq36) | 12:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 49 | [Stranger](https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9) | [YL Hooi](https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY) | [Untitled](https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf) | 4:10 |
 | 50 | [Chapitre I](https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Lost in Time](https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7) | 1:54 |
 
-Snapshot ID: `MTY2NTQwNzIyMiwwMDAwMDAwMDhlOWQ3YjM4ZmNhN2NiZGExMGI1Mzk2ZTJhZjRiOGYy`
+Snapshot ID: `MTY2NTQwNzIyMiwwMDAwMDAwMDUwMTAyNjg2ODBjOTk3NmQ2ZTAxNWYxMmU1MDkxMDgx`

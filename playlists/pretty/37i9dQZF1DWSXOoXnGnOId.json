@@ -1,12 +1,12 @@
 {
   "description": "A new take on the freshest dance tracks with remixes from Dubdogz & J\u00d8RD, Sonny Fodera, LP Giobbi and more!",
-  "num_followers": 14498,
+  "num_followers": 14500,
   "original_name": "mint Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMGJiYTZjZDMxODE0MzRhMDFlMjdjMmNlNmMxM2E4MDFi",
+  "snapshot_id": "MTY0NTc2NTI2MCwwMDAwMDAwMDc3MmNkZjA1NTI5ZDUyNzMxMTFkYmViNGM3NmI5ZTEz",
   "tracks": [
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Teen Scene (Remixes)",
+        "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 271915,
+      "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
+      "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
         "url": "https://open.spotify.com/album/1vRHkXLF6mnJfuf7eiSqs0"
       },
@@ -1511,30 +1535,6 @@
       "duration_ms": 158654,
       "name": "Way Too Long (feat. Anne-Marie & MoStack) [Clean Bandit Remix]",
       "url": "https://open.spotify.com/track/5PTsOdz21tg6lwzEXYEiY0"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Teen Scene (Remixes)",
-        "url": "https://open.spotify.com/album/7Bv9aPTB8Fm0bEA6FLCz4I"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        },
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        }
-      ],
-      "duration_ms": 271915,
-      "name": "Teen Scene (ft Buddy) - Wax Motif Remix",
-      "url": "https://open.spotify.com/track/79IJUGY4ELv8iMeAGYk83S"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
+        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Jarvis Cocker",
+          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
+      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "Oops (I'm Sorry) (Remixes)",
         "url": "https://open.spotify.com/album/0CYWtgfYNiTjAvyc9NU0rr"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 205645,
       "name": "Oops (I'm Sorry) - KC Lights Remix",
       "url": "https://open.spotify.com/track/6GdfTrSKxEYefdOp3l3JRL"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "Straight To The Morning (Dillon Francis vs. Hot Chip Remix)",
-        "url": "https://open.spotify.com/album/7q8Qi6mAXkwHcbfmPu8dpe"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Jarvis Cocker",
-          "url": "https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "Straight To The Morning - Dillon Francis vs. Hot Chip Remix",
-      "url": "https://open.spotify.com/track/1F6bub8N75eJMObYHzO6nK"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1711,30 +1711,6 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
-        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
-        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        },
-        {
-          "name": "TELYKast",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
-      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
         "name": "Anywhere (Tujamo Remix)",
         "url": "https://open.spotify.com/album/4b0VH42ioq2Dwkdq9P57MT"
       },
@@ -1755,6 +1731,30 @@
       "duration_ms": 157138,
       "name": "Anywhere - Tujamo Remix",
       "url": "https://open.spotify.com/track/5F4M2SV3RSBRExodlp8aEt"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
+        "name": "Safe With Me (feat. Audrey Mika) [TELYKast Remix]",
+        "url": "https://open.spotify.com/album/5pL739VFxeeskpvmeZm0Wm"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        },
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Safe With Me (feat. Audrey Mika) - TELYKast Remix",
+      "url": "https://open.spotify.com/track/7anpvzufgVXCtL0Z84UPGp"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2021-07-30 04:00:00",
       "album": {
+        "name": "1 Day 2 Nights (Billen Ted Remix)",
+        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 134892,
+      "name": "1 Day 2 Nights - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
+    },
+    {
+      "added_at": "2021-07-30 04:00:00",
+      "album": {
         "name": "My Feelings",
         "url": "https://open.spotify.com/album/6XnzdnYMwOIEgVMEewejQe"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 181922,
       "name": "My Feelings - Mokita Remix",
       "url": "https://open.spotify.com/track/2XTZYSCs3FrfDbDylamb4T"
-    },
-    {
-      "added_at": "2021-07-30 04:00:00",
-      "album": {
-        "name": "1 Day 2 Nights (Billen Ted Remix)",
-        "url": "https://open.spotify.com/album/1QPi1PkxnAODE6FU7JmcOD"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 134892,
-      "name": "1 Day 2 Nights - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/26JFTc3vuL7SaThskNTneM"
     },
     {
       "added_at": "2021-07-30 04:00:00",

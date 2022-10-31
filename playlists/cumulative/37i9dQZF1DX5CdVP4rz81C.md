@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michal Leah
 
-1,020 songs - 2 day 5 hr 47 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,022 songs - 2 day 5 hr 53 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-08-12 | 2022-10-01 |
 | [hail mary](https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [hail mary](https://open.spotify.com/album/66ffihcpI4EZbBw8XlkPkR) | 2:30 | 2021-12-31 | 2022-02-05 |
 | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/track/4A8pBxx0of2Y8r56dT0atf) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Hallucinogenics \(feat\. Lana Del Rey\)](https://open.spotify.com/album/41tUnMTVSyImoq1Dyr5UhX) | 3:06 | 2020-10-13\* | 2021-02-22 |
-| [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-17 |  |
+| [Happening Again](https://open.spotify.com/track/0AHKkQET4CwFDD2TXQi7Tc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/1a5EdAP8QdSVwIhYYiF2G4) | 2:53 | 2022-10-28 |  |
+| [Happening Again](https://open.spotify.com/track/1XYb7j151Uoan1RVDpt9F4) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Happening Again](https://open.spotify.com/album/6Kf3JOaJGuR058TJqrB4gM) | 2:53 | 2022-06-17 | 2022-10-31 |
 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 | 2021-12-09 | 2022-10-22 |
 | [Happy Ending](https://open.spotify.com/track/7cRZRBbNdODYhhTDaUVgJm) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 3:48 | 2022-05-20 | 2022-06-04 |
 | [happy for me](https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [happy for me](https://open.spotify.com/album/5BMliAH2ieqeKktKa1qsbK) | 3:11 | 2021-09-11 | 2021-10-16 |
@@ -435,7 +436,8 @@
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2020-10-13\* | 2020-11-13 |
 | [I Can't Help But Feel](https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [I Can't Help But Feel](https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr) | 2:58 | 2022-04-01 | 2022-04-29 |
 | [i can't sleep](https://open.spotify.com/track/3y3wEiN8vcWl2DxaxL7gNC) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [i can't sleep](https://open.spotify.com/album/1hqF9QEWGcPsmvuX5u99xm) | 2:42 | 2021-05-29 | 2021-06-12 |
-| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 |  |
+| [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-09 | 2022-10-31 |
+| [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 | 2022-10-28 |  |
 | [i don't wanna be yours](https://open.spotify.com/track/5Mk6npt9ZdkUTvlY6sZuY0) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [i don't wanna be yours](https://open.spotify.com/album/77MOdQXrbPpAD6svCnqiOo) | 2:39 | 2022-05-20 | 2022-08-27 |
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-06-25 |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2021-10-16 | 2022-02-05 |

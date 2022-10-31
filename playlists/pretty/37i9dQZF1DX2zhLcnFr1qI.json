@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 34093,
+  "num_followers": 34128,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYwMzkyNywwMDAwMDAwMDg2MGI1YzA2YWUwM2VkZDgyYTQ0ZjZiZDg5ZDgwODFl",
+  "snapshot_id": "MTY2NjYwMzkyNywwMDAwMDAwMDhiZDgxNjA2NTNiNDgzZTBiMzg1NTc4NGZmNWY5Njdi",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
+      },
+      "artists": [
+        {
+          "name": "Wubbaduck",
+          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
+        }
+      ],
+      "duration_ms": 150021,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Jingle Bells x Deck The Halls",
         "url": "https://open.spotify.com/album/0B7jS47Ev3FwKRnYlYP6VP"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 157972,
       "name": "Jingle Bells x Deck The Halls",
       "url": "https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
-      },
-      "artists": [
-        {
-          "name": "Wubbaduck",
-          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
-        }
-      ],
-      "duration_ms": 150021,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
     },
     {
       "added_at": "2021-12-17 05:01:00",

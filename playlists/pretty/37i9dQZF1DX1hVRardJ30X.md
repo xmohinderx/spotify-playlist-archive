@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anitta, El Alfa & Black Eyed Peas
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,951 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,044 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [Órbita \(Feat\. Polimá Westcoast\)](https://open.spotify.com/track/3JfDVjrRznqU9GV5fsP9HD) | [Sticky M.A.](https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Órbita \(Feat\. Polimá Westcoast\)](https://open.spotify.com/album/2E5OyVnkgKG3lmHOFH6Zap) | 3:14 |
 | 21 | [La Nostalgia](https://open.spotify.com/track/6Qzc529xVvSHBHUthN1iLi) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Nostalgia](https://open.spotify.com/album/0LucJB7zlBpTKEDOolGdMh) | 3:14 |
 | 22 | [Rebelión](https://open.spotify.com/track/102UCB50ltvB7X7JeUbqNm) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Alacran Records](https://open.spotify.com/artist/4wntooRTuvapbOnY6fgAcv) | [Rebelión](https://open.spotify.com/album/6mtwe0M6HGV6EEpIn2pkY3) | 3:14 |
-| 23 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2), [Maria Elisa Ayerbe](https://open.spotify.com/artist/4xdOufnPR3v5k4gqrvVL9C) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
+| 23 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
 | 24 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 |
 | 25 | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/track/6OsOskqADfdiSX1LqLGtkk) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [RELAX CON MAX \- Spotify Singles](https://open.spotify.com/album/4Lj0WgYY0R8DLHM6v2jVr1) | 2:30 |
 | 26 | [Mata Hari](https://open.spotify.com/track/0w0oFIxWoThs83xjn5bMHQ) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Mata Hari](https://open.spotify.com/album/7zjQYfbVemScYYMq724krx) | 2:46 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 34 | [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 |
 | 35 | [American Pie \- Latin Version](https://open.spotify.com/track/6V3KK18i4adLPTWUT4QT2R) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7), [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie \(Latin Version\)](https://open.spotify.com/album/5ldTpqWXNaxgmFePhcdtqN) | 4:36 |
 | 36 | [Déjame Vivir](https://open.spotify.com/track/39ulM5TbEcmHASRR2Bkq0f) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri) | [Déjame Vivir](https://open.spotify.com/album/7tg4v929DwQa3At5yFDUn5) | 3:56 |
-| 37 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/48O6VBStYGsCV90kzK5uS9) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
+| 37 | [NEÓN](https://open.spotify.com/track/3nRhaIvACfTDowMcx9MfWT) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Rike Music](https://open.spotify.com/artist/5Z3rl70bDu6OgrO4bJ9Mcu) | [NEÓN](https://open.spotify.com/album/73xJu4BJoj7WxAKcn8pVvG) | 3:20 |
 | 38 | [VUELA](https://open.spotify.com/track/5dEqMVRYYBVbQpNLeiTDoZ) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Jaz](https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM) | [VUELA](https://open.spotify.com/album/2vIQWJbZWAyvUL6SDp3TWr) | 2:49 |
 | 39 | [DIME ALI](https://open.spotify.com/track/4A2qmxbGbkNSeY5MLDyyft) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi) | [DIME ALI](https://open.spotify.com/album/441IjxVcMUJPFzW0o7phea) | 2:41 |
 | 40 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 |

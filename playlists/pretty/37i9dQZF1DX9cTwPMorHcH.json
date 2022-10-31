@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 49135,
+  "num_followers": 49205,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDY3YjNjMTA0NWE1MmQyNGRjY2YyZTY1ZTI0OGFmNjBk",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMGJiYWIxOWFmZmU5ZjRiNTAxMTRjNTQ0OTk1NDdhYzEx",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 321133,
-      "name": "Mannish Boy",
-      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Ultimate Santana",
         "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 195866,
       "name": "Black Magic Woman",
       "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 321133,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 184960,
       "name": "One Bourbon, One Scotch, One Beer",
       "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -335,22 +335,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bluesbreakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 212600,
       "name": "All Your Love - Stereo",
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 486773,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/3BF9J3DjZuNKcfiAwkTsWK"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Up and Rolling",
-        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Up and Rolling",
-      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "A Bothered Mind",
@@ -811,6 +795,22 @@
       "duration_ms": 196426,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Up and Rolling",
+        "url": "https://open.spotify.com/album/5jEiXH4G09AiHqBkEm2ZMM"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Up and Rolling",
+      "url": "https://open.spotify.com/track/1Wg6dLYXgqxs0YtQS6ifco"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 240493,
       "name": "Flesh & Bone (Dedicated to B.B. King) (with Van Morrison)",
       "url": "https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Outside Of This Town",
+      "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Outside Of This Town",
-      "url": "https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1505,22 +1505,6 @@
       "url": "https://open.spotify.com/track/7edVi9jsBJZWucczN03kXW"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Chosen Line",
-        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
-      },
-      "artists": [
-        {
-          "name": "Benny Walker",
-          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
-        }
-      ],
-      "duration_ms": 230620,
-      "name": "Money and Fools",
-      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Keb' Mo'",
@@ -1535,6 +1519,22 @@
       "duration_ms": 138533,
       "name": "Am I Wrong",
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
+    },
+    {
+      "added_at": "2021-07-23 04:01:00",
+      "album": {
+        "name": "Chosen Line",
+        "url": "https://open.spotify.com/album/40qZJVfOO3lXWaXIHVTXqn"
+      },
+      "artists": [
+        {
+          "name": "Benny Walker",
+          "url": "https://open.spotify.com/artist/7vkMTeJB89xakcCt1kaU0W"
+        }
+      ],
+      "duration_ms": 230620,
+      "name": "Money and Fools",
+      "url": "https://open.spotify.com/track/76iRpYJl2cL7B6VCJ8Qkie"
     },
     {
       "added_at": "2021-10-22 04:02:00",

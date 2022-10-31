@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,778 songs - 4 day 6 hr 51 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,779 songs - 4 day 6 hr 55 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1649,6 +1649,7 @@
 | [Uwrongo \- Edit](https://open.spotify.com/track/0fbTo4K9JAiTHjWKdPYOEJ) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Uwrongo](https://open.spotify.com/album/5pkudC1antnSh0PFDPwKn8) | 4:14 | 2021-07-12 | 2021-11-19 |
 | [Vacation](https://open.spotify.com/track/5p55yFIL88rvD1F7gcd8Sn) | [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF), [Sam von Horn](https://open.spotify.com/artist/3DX8h6Mv96ZPhiNdAtCLMU) | [Vacation](https://open.spotify.com/album/4MZhvsafxwJVvpqrpnZQlv) | 4:20 | 2020-07-28 | 2020-08-20 |
 | [Vagabond](https://open.spotify.com/track/0EMCFDCNq78eWHGLZQqqgz) | [Amara](https://open.spotify.com/artist/52F2aDMq8CHtduF5nLXRrw) | [Vagabond](https://open.spotify.com/album/6QEmCmDKbIL1TzkUkjBZ5t) | 3:21 | 2021-04-17 | 2021-05-03 |
+| [Vanity Fool](https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6) | [Peter Serrado](https://open.spotify.com/artist/7gcJVmqrLeEiKfWsTNZ9QK) | [Vanity Fool](https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ) | 3:13 | 2022-10-30 |  |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |
 | [venice beach when i met you](https://open.spotify.com/track/2uQGWB7S4YKVgMfCgZIeuU) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [venice beach when i met you](https://open.spotify.com/album/7wLnXExY5Vhth8QgnpnURs) | 3:29 | 2021-05-14 | 2021-05-30 |
 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 | 2022-07-29 |  |

@@ -4,7 +4,7 @@
 
 > Enjoy the sweet Christmas time in the company of the biggest crooners\. Cover: Nat King Cole.
 
-98 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
+99 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/1eJxr6WZ5eZ509L1qOagxF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/1W2ubWPoj734ZnvX48fZIk) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/0z4qw7aZuMr5FORtxjg922) | 3:37 | 2021-10-01 | 2022-07-29 |
 | [Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/6ZAMd3TZVqxIGfrKpYtMk4) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards \(Deluxe\)](https://open.spotify.com/album/1VYCn0CRDslR7uAVZ17AGy) | 3:37 | 2021-10-01 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/1moEucbMhmAK6KVPoNw6ms) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:30 | 2021-10-01 |  |
-| [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 | 2021-10-01 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/2jtkTVjSfw7caWpFN2TSor) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87) | 3:20 | 2022-09-27 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/2MslTB54EOMr1GgJbTzj0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 3:21 | 2021-10-01 | 2022-10-31 |
 | [Christmas Time Is Here](https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [A Legendary Christmas](https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM) | 3:21 | 2021-10-01 | 2022-07-29 |
 | [Christmasland](https://open.spotify.com/track/0xUiru9yWM0IRcwyeiJa9d) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall: The Tony Bennett Christmas Album](https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC) | 2:23 | 2021-10-01 |  |
 | [Christmasland](https://open.spotify.com/track/4uem1XCcsG4rCk4wl2Why7) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Snowfall \- The Tony Bennett Christmas Album](https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc) | 2:23 | 2021-10-01 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "R&B without boundaries. Cover: RealestK",
-  "num_followers": 1302225,
+  "num_followers": 1302566,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDE3MjUzYmY3NGJhNGUxYzlhNmZjNWNkMDk5ZjFlZjRj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDkxMDMzM2YwZDY3NGJjMmIwYzRjNzI5OTU4ZmYyMDg5",
   "tracks": [
     {
       "added_at": "2022-10-07 16:19:24",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/6DpLbRHQLP3dJvz3khE3UE"
     },
     {
-      "added_at": "2022-08-19 04:17:01",
-      "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
-    },
-    {
       "added_at": "2022-10-28 04:00:00",
       "album": {
         "name": "Exscape",
@@ -603,6 +587,22 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "added_at": "2022-08-19 04:17:01",
+      "album": {
+        "name": "Shameless",
+        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 175386,
+      "name": "Shameless",
+      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -705,6 +705,22 @@
       "url": "https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt"
     },
     {
+      "added_at": "2022-07-22 14:09:12",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Keep It Lo",
@@ -765,22 +781,6 @@
       "url": "https://open.spotify.com/track/207wpnoruEx0FoLj2Z8cQj"
     },
     {
-      "added_at": "2022-07-22 14:09:12",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
-    },
-    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Y4",
@@ -813,22 +813,6 @@
       "url": "https://open.spotify.com/track/7gbB9Wy6GkDr0dOZvw6ihK"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
-    },
-    {
       "added_at": "2022-09-23 04:05:05",
       "album": {
         "name": "Deep Green",
@@ -843,6 +827,22 @@
       "duration_ms": 203181,
       "name": "Deep Green",
       "url": "https://open.spotify.com/track/0hHnuKAlRRLyG7bYg474B8"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1009,6 +1009,26 @@
       "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Luv 4 Rent",
+        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        }
+      ],
+      "duration_ms": 171676,
+      "name": "Lee & Lovie (with Reggie)",
+      "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Automatic (Orion Sun Remix)",
@@ -1027,26 +1047,6 @@
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "NOT TiGHT",
-        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
-      },
-      "artists": [
-        {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "BOWLiNG (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1081,6 +1081,26 @@
       "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "NOT TiGHT",
+        "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "BOWLiNG (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/3Sk51FK0sTdiRQN477u5oq"
+    },
+    {
       "added_at": "2022-09-09 04:06:40",
       "album": {
         "name": "Like Neptune",
@@ -1097,22 +1117,6 @@
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Washed Away",
-        "url": "https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 216178,
-      "name": "Washed Away",
-      "url": "https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg"
-    },
-    {
       "added_at": "2022-09-30 04:58:25",
       "album": {
         "name": "Inside Out \u2013 A COLORS SHOW",
@@ -1127,6 +1131,22 @@
       "duration_ms": 232570,
       "name": "Inside Out \u2013 A COLORS SHOW",
       "url": "https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Washed Away",
+        "url": "https://open.spotify.com/album/1GqPpESoA8N9DvPWtzaFMG"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 216178,
+      "name": "Washed Away",
+      "url": "https://open.spotify.com/track/4Ci2V1PsULUIdpcd4YVlLg"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1215,6 +1235,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "sorry",
+        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 220199,
+      "name": "sorry",
+      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -1233,20 +1269,20 @@
       "url": "https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-10-14 04:01:00",
       "album": {
-        "name": "sorry",
-        "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 220199,
-      "name": "sorry",
-      "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1281,38 +1317,6 @@
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
-      "added_at": "2022-10-14 04:01:00",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
-    },
-    {
-      "added_at": "2022-08-19 04:17:01",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Circmvnt",
@@ -1335,18 +1339,18 @@
     {
       "added_at": "2022-08-19 04:17:01",
       "album": {
-        "name": "So Bad",
-        "url": "https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq"
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 213381,
-      "name": "So Bad",
-      "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1367,6 +1371,22 @@
       "duration_ms": 159732,
       "name": "Buzzed",
       "url": "https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT"
+    },
+    {
+      "added_at": "2022-08-19 04:17:01",
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq"
+      },
+      "artists": [
+        {
+          "name": "St. Panther",
+          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
+        }
+      ],
+      "duration_ms": 213381,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg"
     },
     {
       "added_at": "2022-08-26 04:05:16",
@@ -1425,22 +1445,6 @@
       "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
     },
     {
-      "added_at": "2022-09-30 04:04:40",
-      "album": {
-        "name": "5 MO' MINUTES",
-        "url": "https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "5 MO' MINUTES",
-      "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Getaway",
@@ -1457,20 +1461,20 @@
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
     },
     {
-      "added_at": "2022-09-09 04:06:40",
+      "added_at": "2022-09-30 04:04:40",
       "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
+        "name": "5 MO' MINUTES",
+        "url": "https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Top Steppa",
-      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+      "duration_ms": 161142,
+      "name": "5 MO' MINUTES",
+      "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1505,24 +1509,20 @@
       "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-09-09 04:06:40",
       "album": {
-        "name": "Luv 4 Rent",
-        "url": "https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT"
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
       },
       "artists": [
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Reggie",
-          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 171676,
-      "name": "Lee & Lovie (with Reggie)",
-      "url": "https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL"
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1543,6 +1543,22 @@
       "duration_ms": 216585,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2DDU8tcHwfrs7HbJQN2Aqu"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Dreams 2 Reality",
+        "url": "https://open.spotify.com/album/63csfi2IBLJh9kozmsThfd"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        }
+      ],
+      "duration_ms": 170937,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/4cGpNrOWFOonEF9yt9Z1Xi"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -1681,22 +1697,6 @@
       "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        }
-      ],
-      "duration_ms": 176456,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
-    },
-    {
       "added_at": "2022-07-29 04:14:33",
       "album": {
         "name": "Poster Girl",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Brown Angel",
-        "url": "https://open.spotify.com/album/0UjaOB9o3zp7dQnuiG3yMG"
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/5tVG29NcCqvk0e1cQUbdKu"
       },
       "artists": [
         {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+          "name": "Ojerime",
+          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Brown Angel",
-      "url": "https://open.spotify.com/track/5KFj6CPcfKGS6MI3gQEzNe"
+      "duration_ms": 176456,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
     }
   ],
   "unique_name": "Alternative R&B",

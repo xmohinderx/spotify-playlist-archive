@@ -1,29 +1,13 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 58276,
+  "num_followers": 58461,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDQ5Mzc2NmZlYjQ5YmJkMjgxYTNjY2ExNzQzZGQ3MGY0",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGQ1MDA1NzBjOGNhNGZjYmNhM2Q2ZmFkYTY0ZjU5ZDE3",
   "tracks": [
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 372866,
-      "name": "Breathe Deeper",
-      "url": "https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4"
-    },
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 284640,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 372866,
+      "name": "Breathe Deeper",
+      "url": "https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "TB Resucitation",
-        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
-      },
-      "artists": [
-        {
-          "name": "Hardfloor",
-          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
-        }
-      ],
-      "duration_ms": 542939,
-      "name": "Acperience 1",
-      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Defiant Order",
         "url": "https://open.spotify.com/album/1MsCuVWBWkuk7sORdaFL4B"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 221946,
       "name": "DEFIANT ORDER",
       "url": "https://open.spotify.com/track/1GFVCLOATBClL1I1zLGjvO"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "TB Resucitation",
+        "url": "https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN"
+      },
+      "artists": [
+        {
+          "name": "Hardfloor",
+          "url": "https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk"
+        }
+      ],
+      "duration_ms": 542939,
+      "name": "Acperience 1",
+      "url": "https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "United Acid Emirates",
-        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
-      },
-      "artists": [
-        {
-          "name": "Ceephax Acid Crew",
-          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Commuter",
-      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 432217,
       "name": "Patchwork Jazz",
       "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "United Acid Emirates",
+        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+      },
+      "artists": [
+        {
+          "name": "Ceephax Acid Crew",
+          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Sector II: Acid",
         "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 465312,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",

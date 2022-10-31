@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,964 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,991 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 17 | [Clear Enough](https://open.spotify.com/track/0iqbvLUoANlhXizwGUKWHJ) | [Oakman](https://open.spotify.com/artist/2OooYq9h9rL9kUM2hRrKwW) | [Plastic World](https://open.spotify.com/album/4SxMaBkSKYysgd0JM1tewe) | 2:50 |
 | 18 | [Self Love Age](https://open.spotify.com/track/7eteiaoID1a0mzNHOIHpnR) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [Lemon Twins](https://open.spotify.com/album/5vkFCpD1Jb7SMDIDv1xeCK) | 4:26 |
 | 19 | [Anyone, Evermore](https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n) | [The Great Divide](https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn) | [Linger Over, Linger On](https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX) | 4:43 |
-| 20 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 |
-| 21 | [Afterlife](https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k) | [Animal Triste](https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh) | [Night of the Loving Dead](https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh) | 3:23 |
+| 20 | [Afterlife](https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k) | [Animal Triste](https://open.spotify.com/artist/4w7FwiYOd9cJQ7Pr5o31Eh) | [Night of the Loving Dead](https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh) | 3:23 |
+| 21 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 |
 | 22 | [Gung Ho](https://open.spotify.com/track/2poNoMk0YyxePxeJidM4Jf) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Evol'](https://open.spotify.com/album/7nF02J94or6lPZirx6MxE4) | 5:06 |
 | 23 | [A Man Oustanding In His Field](https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [We The People Of The Soil](https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR) | 3:53 |
 | 24 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 |
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 55 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 |
 | 56 | [Getaway](https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO) | [MEULE](https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H) | [Meule](https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo) | 3:48 |
 | 57 | [Get Down](https://open.spotify.com/track/7EYX172yTq0YMvhAqe0RTP) | [Dewaere](https://open.spotify.com/artist/2FIwxqF6IF8jSI3J79miOF) | [Slot Logic](https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W) | 3:24 |
-| 58 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 |
-| 59 | [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 |
-| 60 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 |
+| 58 | [Welcome Newcomers](https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj) | [Cosse](https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH) | [Nothing Belongs to Anything](https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3) | 5:08 |
+| 59 | [Full House](https://open.spotify.com/track/1BkdBZBqMvDlyZjbxJ0RYO) | [Sport](https://open.spotify.com/artist/5kKhcEMSytHUQK1KOHfYxx) | [Slow](https://open.spotify.com/album/2GtKStxZmmULokdaAkKwmG) | 3:20 |
+| 60 | [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 |
 | 61 | [Others](https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp) | [Grit](https://open.spotify.com/artist/7MqjgK85RJWzT4IS6gkCVJ) | [Shreds of Tales](https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl) | 3:31 |
 | 62 | [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 |
 | 63 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
 | 64 | [So Quarrelsome](https://open.spotify.com/track/5Z9zNP3QnZUZNvakIDKTbP) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/34dXeWYkadymUqJYIWuwYh) | 3:17 |
-| 65 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 |
-| 66 | [So Sorry](https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Thousand Shadows Vol.1](https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3) | 3:21 |
+| 65 | [So Sorry](https://open.spotify.com/track/1jXuf4JztonnpLw3IO0UB9) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Thousand Shadows Vol.1](https://open.spotify.com/album/6QWuE2Js1brZVSvtzlriH3) | 3:21 |
+| 66 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
 | 67 | [Stick It Out](https://open.spotify.com/track/3LglMEtGTUFhAPTxa5ewwa) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Hara](https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU) | 3:24 |
-| 68 | [Vegan Porn Food](https://open.spotify.com/track/5Q7WoXFIG0X0jEcR4BKAQU) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Billy Believe](https://open.spotify.com/album/2TucJEKDdHS6doCvqeWmvR) | 4:46 |
-| 69 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
+| 68 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 |
+| 69 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 |
 | 70 | [Three Years Later](https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2) | [Do It Later](https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF), [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Three Years Later](https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7) | 2:58 |
-| 71 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 |
-| 72 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 |
-| 73 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
+| 71 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 |
+| 72 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 |
+| 73 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 |
 | 74 | [Survived the Great Flood](https://open.spotify.com/track/7GURR3G9Me29ZusRHTOrGH) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 3:42 |
-| 75 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 |
+| 75 | [Fireworks](https://open.spotify.com/track/08JoE08IrBh5FOW91eq7Hu) | [Equipe de Foot](https://open.spotify.com/artist/3sf80v7vKTD23bvp5Xl836) | [Chantal](https://open.spotify.com/album/3U3htuQSFAzCQZgQy42D7W) | 4:13 |
 
-Snapshot ID: `MTY2Mzg0MjAzNSwwMDAwMDAwMGQ4MzNjOTczNWFjNjUwOTk5NmZkZmRkZGQ2NWViNmIw`
+Snapshot ID: `MTY2Mzg0MjAzNSwwMDAwMDAwMGUyNWM2ZjYyNWIxYzFkZGExY2I1MWI4ZjY0NDkyOGJj`

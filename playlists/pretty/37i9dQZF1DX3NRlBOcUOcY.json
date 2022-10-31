@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 443963,
+  "num_followers": 443983,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMGNhY2RmNzhhZWI1OTExYmUyZDkwNTIxZGVmMTg3MTU3",
+  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMGJkNWQ3OWRkODdjZWRmZDEyNmZjYzZjZDkzNzk3OWM4",
   "tracks": [
     {
       "added_at": "2022-10-07 16:07:51",
@@ -289,24 +289,24 @@
       "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
     },
     {
-      "added_at": "2022-10-30 01:39:56",
+      "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Minuto",
-        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
+        "name": "Sin Se\u00f1al",
+        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
       },
       "artists": [
         {
-          "name": "Papi Sousa",
-          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 177397,
-      "name": "Un Minuto",
-      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+      "duration_ms": 185084,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Sin Se\u00f1al",
-        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Sin Se\u00f1al",
-      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -391,26 +371,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -427,6 +387,26 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -463,26 +443,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
-      },
-      "artists": [
-        {
-          "name": "NATYASH",
-          "url": "https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST"
-        },
-        {
-          "name": "Sara Hebe",
-          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
-        }
-      ],
-      "duration_ms": 219414,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "XT4S1S",
         "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
@@ -499,18 +459,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "NATYASH",
+          "url": "https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST"
+        },
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 219414,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -535,6 +499,22 @@
       "duration_ms": 240413,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -931,22 +911,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -963,6 +927,22 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1039,22 +1019,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1075,6 +1039,22 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1437,6 +1417,26 @@
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
+      "added_at": "2022-10-31 01:40:13",
+      "album": {
+        "name": "Un Minuto",
+        "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 177397,
+      "name": "Un Minuto",
+      "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+    },
+    {
       "added_at": "2022-10-07 16:07:51",
       "album": {
         "name": "Mal De Amores",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "BORRACHA",
-        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
-      },
-      "artists": [
-        {
-          "name": "Felix Klain",
-          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 204981,
-      "name": "BORRACHA",
-      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Tacones Rojos (With John Legend)",
         "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 188746,
       "name": "Tacones Rojos - With John Legend",
       "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "BORRACHA",
+        "url": "https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex"
+      },
+      "artists": [
+        {
+          "name": "Felix Klain",
+          "url": "https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 204981,
+      "name": "BORRACHA",
+      "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1611,18 +1611,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Cuando la noche arriba",
-        "url": "https://open.spotify.com/album/3I5cBoDLQMAymTGPlDeo1O"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 179196,
-      "name": "Cuando la noche arriba",
-      "url": "https://open.spotify.com/track/4h8G92N79vf7w3RGzdDhLI"
+      "duration_ms": 199120,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
+        "name": "Cuando la noche arriba",
+        "url": "https://open.spotify.com/album/3I5cBoDLQMAymTGPlDeo1O"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 199120,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+      "duration_ms": 179196,
+      "name": "Cuando la noche arriba",
+      "url": "https://open.spotify.com/track/4h8G92N79vf7w3RGzdDhLI"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Ramona Flowers",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 181240,
+      "name": "Ramona Flowers",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Noche Loca (feat. Zion & Lennox)",
         "url": "https://open.spotify.com/album/6MoHDbLYzKtNORDoxMIt5Y"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 223377,
       "name": "Noche Loca (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/2gOLGbF7BttwYpG7vADdGV"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Ramona Flowers",
-        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Ramona Flowers",
-      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1759,6 +1759,46 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Cumbia Del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176234,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Winnie Pooh",
         "url": "https://open.spotify.com/album/0oDpw4EOFV53oC23SU5jJT"
       },
@@ -1787,26 +1827,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176234,
-      "name": "Fiesta",
-      "url": "https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Aura (Spanish Version)",
         "url": "https://open.spotify.com/album/6LWAOYIqPzIdujffA7ah7W"
       },
@@ -1819,6 +1839,30 @@
       "duration_ms": 208097,
       "name": "Aura - Spanish Version",
       "url": "https://open.spotify.com/track/5l8bXrvNDKsc41o07lL9YN"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Dale Pa' Ya (feat. Gente De Zona)",
+        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
+      },
+      "artists": [
+        {
+          "name": "Big Time Rush",
+          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 216730,
+      "name": "Dale Pa' Ya (feat. Gente de Zona)",
+      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1847,50 +1891,6 @@
       "duration_ms": 171866,
       "name": "Baila As\u00ed (feat. Chiquis)",
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Cumbia Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3mfwypID037UHlutwTYINo"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "Cumbia Del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4dURe03os9BAxIO0RThU28"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Dale Pa' Ya (feat. Gente De Zona)",
-        "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
-      },
-      "artists": [
-        {
-          "name": "Big Time Rush",
-          "url": "https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 216730,
-      "name": "Dale Pa' Ya (feat. Gente de Zona)",
-      "url": "https://open.spotify.com/track/591rTyO18GKHVUbb6M0WIX"
     },
     {
       "added_at": "2022-10-07 16:07:51",

@@ -4,7 +4,7 @@
 
 > A journey in the modern & old Sudanese sounds.<br/>Cover: Soulja
 
-116 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
+117 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/330x5xETTSDAN35Rsqqz7H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 | 2021-12-09 | 2022-07-29 |
 | [Amnesia \(with Ari Lennox & Kiddominant\)](https://open.spotify.com/track/7LMhHrfftRJVsmNpMnZew3) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Spilled Milk 1](https://open.spotify.com/album/5L0fqBCRKpkOHDNiwTgJbZ) | 3:35 | 2021-12-09 | 2022-07-30 |
 | [Argos Farfish](https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:38 | 2021-12-09 |  |
+| [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [Papii](https://open.spotify.com/artist/1kM5oRCVuQgb3oOtGqGHu8) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 | 2022-10-31 |  |
 | [Ascension](https://open.spotify.com/track/14r1JJrfqFar4ZP3WelS33) | [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6) | [Ascension EP](https://open.spotify.com/album/581kDZ2X4nbK53dn3WzYon) | 3:15 | 2021-12-09 | 2022-07-28 |
 | [Asly](https://open.spotify.com/track/6yd4XAjTaBDb3mXWT0AI4j) | [TooDope](https://open.spotify.com/artist/7D0M64Ii5Iv83dlQ50PMnd), [Eaz Da Bully](https://open.spotify.com/artist/2lGPSSDGEuGfpakifE8kbp) | [Asly](https://open.spotify.com/album/7wLNRBJA0Y1AkV48IKv3Hx) | 3:24 | 2021-12-09 |  |
 | [Azara Alhai](https://open.spotify.com/track/2bUEt4DCNb6idQ84isIpo3) | [Rasha](https://open.spotify.com/artist/6grYfB8l8WZo0NOtdcWWls) | [Sudaniyat](https://open.spotify.com/album/4qKyrkwm1F2CvDUx6OGAw5) | 6:27 | 2021-12-09 |  |
@@ -69,7 +70,7 @@
 | [Malouf Aloyoon](https://open.spotify.com/track/1iPfE8bCIqQWqkL1Pu6eN7) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [Malouf Aloyoon](https://open.spotify.com/album/2Qb6m4mcj9PXwNBf7l0FI2) | 3:09 | 2021-12-09 | 2022-07-30 |
 | [MaMuhim](https://open.spotify.com/track/7fUlWvzlUIr3ijziHXtnlM) | [MarSimba](https://open.spotify.com/artist/04mOXDs7deriXMuchiI48W) | [MaMuhim](https://open.spotify.com/album/2Dc6X5SdB6Bl5dCaGAAve1) | 3:43 | 2022-07-28 |  |
 | [MaMuhim](https://open.spotify.com/track/5jqrCxRC2qTQxYuz9oWuPH) | [MazMars](https://open.spotify.com/artist/19m8P5KGufVKe4a29nwACa), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H) | [MaMuhim](https://open.spotify.com/album/7BZDsvwxKBjboLoGY4UtdO) | 3:43 | 2021-12-09 | 2022-07-29 |
-| [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-09 |  |
+| [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 | 2021-12-09 | 2022-10-31 |
 | [Mango](https://open.spotify.com/track/3KjHzQBWVP8ZoLvAunNBnF) | [Sinkane](https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w) | [Dépaysé](https://open.spotify.com/album/3TCAGitdvxPinzCDSrP0uv) | 4:02 | 2021-12-09 | 2022-07-13 |
 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 | 2021-12-09 |  |
 | [Matalib \- COLORS Sudan](https://open.spotify.com/track/1jxzCZRphA9XMgYJxWwrRn) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib \- COLORS Sudan](https://open.spotify.com/album/4tB0DZqgYqg0lY2GhW2sbH) | 2:38 | 2021-12-09 | 2022-07-28 |

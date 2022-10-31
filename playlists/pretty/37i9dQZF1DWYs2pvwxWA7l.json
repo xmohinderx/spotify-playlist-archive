@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=fsDz-2fGR3-ZW6Yt7ww_Vw\"> WizKid </a>  ",
-  "num_followers": 372515,
+  "num_followers": 372809,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1OTk4NCwwMDAwMDAwMGI0ZDEyOTRhMDM5MTQ4MGU2MjBkOTI2ZjE0MWFkYzZm",
+  "snapshot_id": "MTY2Njk1OTk4NCwwMDAwMDAwMDYxOWQxYzcyM2IzZGZkODNmOGJkYTQwYmY4YWRjNGE4",
   "tracks": [
     {
       "added_at": "2022-10-28 12:26:24",
@@ -899,8 +899,8 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
       "artists": [
         {
@@ -908,13 +908,13 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 160799,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
-      "added_at": "2022-08-22 18:00:00",
-      "album": {
-        "name": "In My Mind - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
-      },
-      "artists": [
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "In My Mind - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
-    },
-    {
       "added_at": "2022-06-08 08:17:45",
       "album": {
         "name": "Lie",
@@ -983,6 +967,22 @@
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2022-08-22 18:00:00",
+      "album": {
+        "name": "In My Mind - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4O5mKHI9LNEB3WetqF8zOd"
+      },
+      "artists": [
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "In My Mind - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1echqVmMoUZE22trTEqfL5"
     },
     {
       "added_at": "2022-06-08 08:17:45",
@@ -1019,8 +1019,8 @@
     {
       "added_at": "2022-06-08 08:17:45",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
       },
       "artists": [
         {
@@ -1028,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 160799,
-      "name": "One Woman",
-      "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2022-09-29 23:00:00",

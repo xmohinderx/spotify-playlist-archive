@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 579442,
+  "num_followers": 579677,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDk3NGIwNGE1N2YzNGJlOWIzNjdjZTQ4YjkwMjg2MTRh",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDUxYjk3YmFjMDUyYTQ1ZDQ0Y2YxMDQzNzgyY2M3NDM5",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Oro Salsero (20 \u00c9xitos)",
         "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 281960,
       "name": "Hasta El Sol De Hoy",
       "url": "https://open.spotify.com/track/5WclvUYBMB0461AqVf2SNm"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Para Ti...",
         "url": "https://open.spotify.com/album/5PTzP5nx9BStBILTrfJAZP"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 326040,
       "name": "Dile A El",
       "url": "https://open.spotify.com/track/7v7VXdLHnTq8q4wmvSo7A9"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Mirandote",
+      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
         "name": "Ironias",
         "url": "https://open.spotify.com/album/2xwNxVeLxGwduVdMVOqRzd"
       },
@@ -1431,6 +1447,22 @@
       "duration_ms": 291800,
       "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
       "url": "https://open.spotify.com/track/7Kz4ntJk8ACKH7sojsfTTv"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1451,22 +1483,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Nacimiento Y Recuerdos",
-        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Mirandote",
-      "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Muy Agradecido",
         "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 273746,
       "name": "La Salsa Vive",
       "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/6V6vxDi68N7hDDxm3SwIJO"
     },
     {
       "added_at": "2022-08-31 06:45:44",

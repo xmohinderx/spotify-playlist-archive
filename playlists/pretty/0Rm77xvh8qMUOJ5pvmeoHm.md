@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Get your 2022 Halloween Party started with these party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 193,773 likes - 66 songs - 3 hr 44 min
+[Topsify](https://open.spotify.com/user/topsify) - 193,766 likes - 66 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

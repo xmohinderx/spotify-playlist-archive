@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,245 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,242 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 13 | [honey](https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:53 |
 | 14 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 15 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 |
-| 16 | [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 |
+| 16 | [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 |
 | 17 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 |
 | 18 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 |
 | 19 | [Vertigo](https://open.spotify.com/track/0NTJhzc9o13AjDZ6whwfzo) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Vertigo](https://open.spotify.com/album/1gBonXVwrcg3EwOYo26jE5) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 99 | [Sleepwalker](https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [As Blue as Indigo](https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG) | 3:28 |
 | 100 | [NERVOUS](https://open.spotify.com/track/10WvNF3jA8WiFTTKbl1gme) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Simon Neil](https://open.spotify.com/artist/1bacSIxMGJgKSpuzxRXpiz) | [NERVOUS](https://open.spotify.com/album/69N9gAB78UpWOcVB7rWcp0) | 4:06 |
 
-Snapshot ID: `MTYzODM2NjY1MywwMDAwMDAwMGNjNzhkMTRmZDVkNWNhMDRjODljY2M2ZDA5MGVkMTk5`
+Snapshot ID: `MTYzODM2NjY1MywwMDAwMDAwMDJhNGE2YmY2YWUxOTNiNzQ4NTg1YzIxZmY2NzY4MGU4`

@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-358 songs - 1 day 1 hr 52 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+359 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Shoulder of Orion](https://open.spotify.com/track/7AkQVlVzkZMCCHLtIzUT9d) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 5:02 | 2022-04-01 |  |
 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 | 2022-04-22 |  |
 | [Sideways in Dreams](https://open.spotify.com/track/7bquaJAoCaaUbCvgPa4Uln) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Sideways in Dreams](https://open.spotify.com/album/1T9LIBX20FwLtO0DA3Mu7T) | 3:57 | 2022-02-25 | 2022-04-24 |
-| [SILHOUETTE](https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [SILHOUETTE](https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ) | 5:31 | 2022-09-09 |  |
+| [SILHOUETTE](https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [SILHOUETTE](https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ) | 5:31 | 2022-09-09 | 2022-10-31 |
 | [Silicon Tare](https://open.spotify.com/track/1JFkrUDkIubIAFwbSnTFNC) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/3ftWeKrk8xQYkf5S6AMcH5) | 4:02 | 2022-07-22 |  |
 | [Silicon Tare](https://open.spotify.com/track/6YYpEOBjVdQbn9Inrl0Ja0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/4W0SW2PgLJ9Ea4IfVfEh4v) | 4:02 | 2022-04-01 | 2022-04-20 |
 | [Slasher](https://open.spotify.com/track/5vM6DijoozNO7hLQGJtc6H) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE) | [Slasher](https://open.spotify.com/album/5QUP91rvNu4bXxoTP4IuQk) | 3:58 | 2021-10-15 | 2022-03-11 |
@@ -361,6 +361,7 @@
 | [When We Touch](https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b) | [Benny Smiles](https://open.spotify.com/artist/6O1kKmQt2LuXaIgt2eKl2M) | [When We Touch](https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen) | 3:13 | 2021-10-15 |  |
 | [White Crows](https://open.spotify.com/track/4Ct71cFMTrnOIRr7jU0vbt) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Parallel Lives](https://open.spotify.com/album/6WANTLfKAunhmukRM6tuse) | 5:08 | 2022-02-04 |  |
 | [Who We Are](https://open.spotify.com/track/07L7vNGluze4WliEWWrlxL) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/7FlBT8zq827hd5KbxCMy7V) | 3:13 | 2022-07-08 | 2022-10-13 |
+| [Who We Are](https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Who We Are](https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS) | 3:13 | 2022-10-28 |  |
 | [Why?](https://open.spotify.com/track/7oGJe42CJT5sqQOKfilqmW) | [Ampersounds](https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD), [Zen Freeman](https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG) | [Why?](https://open.spotify.com/album/5QTDZ9YYznQVSu1RIQHnO6) | 6:03 | 2022-04-15 | 2022-04-23 |
 | [Years and Elements](https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 2:30 | 2022-02-04 | 2022-10-15 |
 | [Восход](https://open.spotify.com/track/6bHALIZwaxHrITYEKDstjm) | [Луч](https://open.spotify.com/artist/49T1P1FQTiwitma7DgToRZ) | [Энергия](https://open.spotify.com/album/1yTToe2FoBck49HofSM0HN) | 4:08 | 2022-06-17 | 2022-06-30 |

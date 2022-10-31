@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 45073,
+  "num_followers": 45088,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMGJkMDRhYWEwZTkzZjgzN2U1ODQyNDcwYzU3ZjZlMmI4",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDcyNjI4NGZkYjJmNTkyMzk2MGRlZTVmZTgxZTYyYWFj",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "El Comienzo del Final",
-        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 173816,
-      "name": "El Comienzo del Final",
-      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
-    },
-    {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
         "name": "Veneno Verde",
         "url": "https://open.spotify.com/album/0fUsckdzWbnwiSRXQJU0Wi"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 155373,
       "name": "Veneno Verde",
       "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/3oM3BRjkt5Mdqrg4p2SBgo"
     },
     {
-      "added_at": "2022-10-14 05:00:00",
-      "album": {
-        "name": "A Ti S\u00ed Te Quer\u00eda",
-        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 179875,
-      "name": "A Ti S\u00ed Te Quer\u00eda",
-      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
-    },
-    {
       "added_at": "2022-09-23 19:34:49",
       "album": {
         "name": "Vuela y Vuela",
@@ -563,6 +547,22 @@
       "duration_ms": 181141,
       "name": "Vuela y Vuela",
       "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
+    },
+    {
+      "added_at": "2022-10-14 05:00:00",
+      "album": {
+        "name": "A Ti S\u00ed Te Quer\u00eda",
+        "url": "https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 179875,
+      "name": "A Ti S\u00ed Te Quer\u00eda",
+      "url": "https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -801,6 +801,22 @@
       "url": "https://open.spotify.com/track/7ysAUADcyTyB2EmPXrtLoJ"
     },
     {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "SRT",
+        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 178748,
+      "name": "SRT",
+      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "No S\u00e9 Que Tengas",
@@ -821,20 +837,20 @@
       "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
+      "added_at": "2022-10-07 15:36:37",
       "album": {
-        "name": "SRT",
-        "url": "https://open.spotify.com/album/0DbVzazbyboM9WB3XBVVei"
+        "name": "Sombrero Vaquero",
+        "url": "https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67"
       },
       "artists": [
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "GOHN",
+          "url": "https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W"
         }
       ],
-      "duration_ms": 178748,
-      "name": "SRT",
-      "url": "https://open.spotify.com/track/0kPHa4gC1vwie3CIOATJm3"
+      "duration_ms": 209530,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 226887,
       "name": "Era Mia",
       "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
-    },
-    {
-      "added_at": "2022-10-07 15:36:37",
-      "album": {
-        "name": "Sombrero Vaquero",
-        "url": "https://open.spotify.com/album/5tvRh6JRYFbFauFFDiSz67"
-      },
-      "artists": [
-        {
-          "name": "GOHN",
-          "url": "https://open.spotify.com/artist/7KiKSecWZrDV4n3oD0sX6W"
-        }
-      ],
-      "duration_ms": 209530,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
     },
     {
       "added_at": "2022-09-23 19:34:49",

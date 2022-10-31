@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,556 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,883 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 13 | [Reviver \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/0LAOGIAFvEnMnzrO5oaAb5) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Reviver \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/08fGtbr8PDy84u2KRrNuXS) | 4:06 |
 | 14 | [Broken](https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0) | [Broken](https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx) | 3:19 |
 | 15 | [Darkest Hour](https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [Darkest Hour \[UKF10\]](https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh) | 4:45 |
-| 16 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
-| 17 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
+| 16 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
+| 17 | [Fearless](https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Fearless](https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72) | 2:20 |
 | 18 | [LIFT YOU UP](https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm) | [BLVCK CROWZ](https://open.spotify.com/artist/6uotnBX5ysB2Y2FIE6FbPg), [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [LIFT YOU UP](https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp) | 3:01 |
 | 19 | [SUB ZERO](https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [AUTOPILOT](https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c) | 3:14 |
 | 20 | [This Feeling](https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [This Feeling](https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH) | 4:21 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 28 | [Rain God](https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP) | [Dawn Wall](https://open.spotify.com/artist/6gnohqGISFUVpTSqT3TtiO) | [Rain God](https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y) | 4:27 |
 | 29 | [Dreams](https://open.spotify.com/track/7HOeuULGsJMkZ20gZlrMZr) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm) | [Dreams](https://open.spotify.com/album/1RccSdAkSfnHnNLC05Z7xi) | 3:08 |
 | 30 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
-| 31 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
-| 32 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
-| 33 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
+| 31 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
+| 32 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
+| 33 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
 | 34 | [Feel Alive](https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Feel Alive](https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3) | 4:08 |
 | 35 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
 | 36 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 44 | [Gang](https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule) | [Phil Gonzo](https://open.spotify.com/artist/5MOUpeSR9eHImHFNg78RCU) | [Gang](https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf) | 4:31 |
 | 45 | [Overdrive](https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Emma McGann](https://open.spotify.com/artist/7i99rgVJyrVbho0pfVUtzF) | [Overdrive](https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG) | 3:51 |
 | 46 | [BARRICADE](https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [BARRICADE](https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq) | 3:20 |
-| 47 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 |
-| 48 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 |
+| 47 | [Breathe](https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Breathe](https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh) | 4:08 |
+| 48 | [Move To The Beat Like](https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX) | [401 WST](https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X) | [Move To The Beat Like](https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip) | 1:46 |
 | 49 | [staring at the sun](https://open.spotify.com/track/0wdRyHfJO0bFpfucQ2I3nL) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [staring at the sun](https://open.spotify.com/album/201ZOCobiWNDSwZ1DXLKCZ) | 2:31 |
 | 50 | [Think About Me](https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr) | [Azifm](https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7), [Scout](https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg) | [Think About Me](https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT) | 4:40 |
 
-Snapshot ID: `MTY2NTc3MTQwMSwwMDAwMDAwMDE5Mjg2MmFkZGUwZTllMmQ4ZmRkMjMzNDI5YzE2ZjY2`
+Snapshot ID: `MTY2NTc3MTQwMSwwMDAwMDAwMDY5NDU2YTUxOTcyMDhkMzRiMjAxMWJhMzQzMGNhYmIy`

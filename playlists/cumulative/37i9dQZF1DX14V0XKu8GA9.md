@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 | 2022-09-24 |
+| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 |  |
 | [3D](https://open.spotify.com/track/6LiyOWO4jQa7NoRbn6QjkU) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [3D](https://open.spotify.com/album/3ORNsOzHhyeoCuYoT0lJrr) | 3:04 | 2022-09-11 |  |
 | [4 the Streets](https://open.spotify.com/track/6RFKghJxTPFzY79UvzgYC4) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [TTYL](https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk) | 2:45 | 2022-03-21 | 2022-07-07 |
 | [4K](https://open.spotify.com/track/5TSGACpIB1nU7JWQt0rOOd) | [Briii](https://open.spotify.com/artist/34VzRIQKCinOPKAtCh7rPG), [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH) | [4K](https://open.spotify.com/album/1rqgi0je1KqAeM08Apkkin) | 2:15 | 2022-01-10 | 2022-02-26 |
@@ -98,7 +98,7 @@
 | [IMMA BOSS](https://open.spotify.com/track/6BAA5MSBachRac7xTjBpFi) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [IMMA BOSS](https://open.spotify.com/album/4FxhRWbXrLuKSEAtWSqsDL) | 2:26 | 2022-01-10 | 2022-03-16 |
 | [Intro](https://open.spotify.com/track/1jYZrtonzjaGnpNa37Lr5j) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Intro](https://open.spotify.com/album/15WEEtf9XIoKyRZAOmLvV0) | 1:26 | 2022-02-25 | 2022-07-06 |
 | [Issues](https://open.spotify.com/track/1Yd6gGCtpnjv8CIIGMFMLh) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Issues](https://open.spotify.com/album/6jmbapN6JWRxcuvFTQ6kS0) | 2:41 | 2022-01-10 | 2022-03-16 |
-| [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 | 2022-07-06 |  |
+| [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 | 2022-07-06 | 2022-10-31 |
 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 | 2022-02-25 |  |
 | [J Cats](https://open.spotify.com/track/12GGT1BGSbtqmqlWVsCosM) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Boxer Loko](https://open.spotify.com/artist/57SGxiBuRVW6bvORd3W06s) | [J Cats](https://open.spotify.com/album/2qxIz1NXau9d6Y8xyFFScK) | 2:50 | 2022-01-10 | 2022-02-23 |
 | [King](https://open.spotify.com/track/09kObeWOUDBirupT0xYrkY) | [Sick Jacken](https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4) | [King](https://open.spotify.com/album/1ebIcQn3qLAcAXEqg8Y873) | 2:06 | 2022-01-10 | 2022-02-23 |

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1379912,
+  "num_followers": 1380407,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMDkxZTdjZWFkZmVhNmI5ZGE3OGY2NzhkZGU4MTc3NzY2",
+  "snapshot_id": "MTY2Mzk1MjgxMSwwMDAwMDAwMGU4ZTUwOWQ5MTFhMDNmYzcwZTk3ZDZhMjA2NzUxNjBl",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Jungle Boogie",
-      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Shaft (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Theme From Shaft - Remastered",
-      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Express Yourself",
         "url": "https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Shaft (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Theme From Shaft - Remastered",
+      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
     },
     {
       "added_at": "2022-09-23 17:06:51",

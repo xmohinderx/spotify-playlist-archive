@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 271396,
+  "num_followers": 271523,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMDA2MjIxM2E2ZTJjYzcwODNiOTk1NmFiN2Y0ZDE4NjM4",
+  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMDE5MzMyOTZlYmU2MTQ4NmQxZDRkM2NiZmJjOWFmZTg2",
   "tracks": [
     {
       "added_at": "2022-10-28 13:11:24",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 313586,
       "name": "Beyond Beliefs",
       "url": "https://open.spotify.com/track/0SbDNXZYqfsMarINcb72X5"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Ghost (Fejk\u00e1 Remix)",
-        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        },
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "Ghost - Fejk\u00e1 Remix",
-      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "NO SKIN",
         "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Ghost (Fejk\u00e1 Remix)",
+        "url": "https://open.spotify.com/album/1DBPmf1j5JFX6FooAnFqYV"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 283106,
+      "name": "Ghost - Fejk\u00e1 Remix",
+      "url": "https://open.spotify.com/track/2I78O9gyeZXS9b0VnWTU7Q"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 293701,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 343278,
       "name": "Clarion - Kiasmos Remix",
       "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/46UzxFevi5s9dLn4Tez9th"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 293701,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "False Gods EP (Short Edits)",
-        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
-      },
-      "artists": [
-        {
-          "name": "Alegant",
-          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        }
-      ],
-      "duration_ms": 214122,
-      "name": "Get Down - Short Edit",
-      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Need To Feel Loved (Nils Hoffmann Remix)",
         "url": "https://open.spotify.com/album/3tGTJ20bG5us1bj4cC9AhH"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 224467,
       "name": "Need To Feel Loved - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/20ctMnCm00vFtUUUQYSskZ"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "False Gods EP (Short Edits)",
+        "url": "https://open.spotify.com/album/00IZ6CeGgcz7mY2qtqUFT4"
+      },
+      "artists": [
+        {
+          "name": "Alegant",
+          "url": "https://open.spotify.com/artist/5x8bXmbyCTgrQzyJOHLWtO"
+        },
+        {
+          "name": "Tube & Berger",
+          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
+        }
+      ],
+      "duration_ms": 214122,
+      "name": "Get Down - Short Edit",
+      "url": "https://open.spotify.com/track/4EMHeoQ2e2WgUKtALdLvLw"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Kiss U",
-        "url": "https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd"
-      },
-      "artists": [
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 335043,
-      "name": "Kiss U",
-      "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 448000,
       "name": "Madman",
       "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Kiss U",
+        "url": "https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
+        }
+      ],
+      "duration_ms": 335043,
+      "name": "Kiss U",
+      "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
     },
     {
       "added_at": "2022-10-28 13:11:24",

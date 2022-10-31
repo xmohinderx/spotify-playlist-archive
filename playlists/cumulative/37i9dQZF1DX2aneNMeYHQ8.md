@@ -4,7 +4,7 @@
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: All Them Witches
 
-224 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+225 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brother the Cloud](https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Brother the Cloud](https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB) | 4:22 | 2022-01-14 | 2022-07-02 |
 | [Can't You See](https://open.spotify.com/track/4zKmIWfueAoDC9PGxtK3kN) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/0kWAbbzDOr4jMznmbTOPHC) | 3:30 | 2021-09-10 | 2022-07-28 |
 | [Can't You See](https://open.spotify.com/track/7CpvqCIiimMVOzFICK5Pxr) | [Skrizzly Adams](https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK) | [Can't You See](https://open.spotify.com/album/6AJjWiP7hffkRm6q0ORVX9) | 3:30 | 2022-07-01 |  |
+| [Cannabis Tree](https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR) | [Rome & Duddy](https://open.spotify.com/artist/56sqxTFviOe84mo1jj3faF) | [Cannabis Tree](https://open.spotify.com/album/3kNkXgyw5SatiRBU8lTGFS) | 4:51 | 2022-10-21 |  |
 | [Changing](https://open.spotify.com/track/1l24p4pRr1KmoLsI6OUTry) | [The Brazen Youth](https://open.spotify.com/artist/7tnIA4ww5dwoyENYz4GM5T) | [Changing](https://open.spotify.com/album/1OYygBBOq2U4tqiEKfRFlj) | 3:40 | 2021-10-22 | 2022-04-23 |
 | [Chasing Rainbows](https://open.spotify.com/track/5PiFSQFnq2YOxmDa2eq71h) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Chasing Rainbows](https://open.spotify.com/album/3MyG5ELX5oBw9B7lSNldka) | 3:27 | 2021-12-10 | 2022-07-02 |
 | [Chrysanthemums](https://open.spotify.com/track/1DWlM8z38cCw2R91jnvTtr) | [Born Ruffians](https://open.spotify.com/artist/7wGrLSB3v7jkV3fSsjYwtv) | [Chrysanthemums](https://open.spotify.com/album/4hMsCqUzEtPGqK5G9EH5Z6) | 4:00 | 2022-04-22 |  |
@@ -199,7 +200,7 @@
 | [the angel of 8th ave.](https://open.spotify.com/track/4QMSoa7Fh3y4kmMNuBtOgt) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/3nyaiiTRMC9IvbMPoGe4r8) | 3:58 | 2021-06-18 | 2022-03-12 |
 | [The Avalanche](https://open.spotify.com/track/2brqpT1vL7T5mBJYFGRVPT) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [The Avalanche](https://open.spotify.com/album/1taXLQKx7np0GCW938yzVI) | 2:36 | 2021-09-17 | 2022-02-12 |
 | [The Bandit](https://open.spotify.com/track/55meRTYBw8S5q7KF3DkjL7) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [The Bandit / 100,000 People](https://open.spotify.com/album/37jVrA1CD7d55Ft12iASUr) | 4:10 | 2021-01-29 |  |
-| [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 |  |
+| [The Best Part of Letting Go](https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F) | 3:25 | 2022-10-21 | 2022-10-31 |
 | [The Best Part of Letting Go](https://open.spotify.com/track/64nduduwh4o6m0PXplVum0) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [The Best Part of Letting Go](https://open.spotify.com/album/4wMICcEMpmsBz771u42o7h) | 3:28 | 2021-10-29 | 2022-07-26 |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-10-29 |  |
 | [The Haves](https://open.spotify.com/track/2HSg6TSfOlPu9XT7nO7S8P) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [The Haves](https://open.spotify.com/album/1LDXF0EzuqLl6ZthDJDo8E) | 5:06 | 2021-11-19 | 2022-01-15 |

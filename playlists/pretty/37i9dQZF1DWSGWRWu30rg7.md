@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Meiska  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,225 likes - 73 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,227 likes - 73 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

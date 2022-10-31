@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Taylor Swift
 
-1,712 songs - 3 day 17 hr 30 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
+1,713 songs - 3 day 17 hr 34 min - [published](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,8 @@
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-22 | 2022-08-30 |
 | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Deep End \(feat\. Lil Skies\)](https://open.spotify.com/album/3E8eOi78N03MllCrjGGcVz) | 2:11 | 2022-07-18 | 2022-07-26 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-24 | 2022-10-26 |
-| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-24 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-24 |  |
+| [Delilah \(pull me out of this\)](https://open.spotify.com/track/7AohgoKr11kxSXv2iJNZTn) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/0ylmSHBDV3vRrYH52ijiU4) | 4:10 | 2022-10-24 | 2022-10-31 |
 | [Delorean](https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:39 | 2022-01-24 | 2022-02-01 |
 | [Demon](https://open.spotify.com/track/2LnQSUceWUnowlkQTfOMVy) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Demon](https://open.spotify.com/album/7fpY1iDm5Ow3r1YE8eqy7R) | 2:45 | 2022-05-03 | 2022-05-10 |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-13 | 2022-06-22 |

@@ -1,12 +1,12 @@
 {
   "description": "uh-oh?",
-  "num_followers": 43048,
+  "num_followers": 43148,
   "original_name": "pov: te enamoras de tu bestie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMGVmMWVjODVkYzJkZTljZjY2MTQwZDg5MjQwNWYxZGZl",
+  "snapshot_id": "MTY1OTQ1ODI1OSwwMDAwMDAwMGE0MTY2ODgzNjAwODEwY2Q0Yzc2MzYxNTg3YThlZWY5",
   "tracks": [
     {
       "added_at": "2022-08-02 16:37:39",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "hate to be lame",
-        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 156798,
-      "name": "hate to be lame (feat. FINNEAS)",
-      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "Solo Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3R3w9aYqqhKCkLuifBxvw6"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 144624,
       "name": "Solo Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/5UxLx0jK2aCcAD50Cu4dSw"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "hate to be lame",
+        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 156798,
+      "name": "hate to be lame (feat. FINNEAS)",
+      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
     },
     {
       "added_at": "2022-08-02 16:37:39",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-08-02 16:37:39",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
-    },
-    {
-      "added_at": "2022-08-02 16:37:39",
-      "album": {
         "name": "Dos X Tres (Demo)",
         "url": "https://open.spotify.com/album/08Zm5sk7EWsFa0vunI16rJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 150991,
       "name": "Dos X Tres (Demo)",
       "url": "https://open.spotify.com/track/5uOdakRKQbRu6HJnorQ5on"
+    },
+    {
+      "added_at": "2022-08-02 16:37:39",
+      "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/0wzK2m89t22oOayHYfV75U"
     },
     {
       "added_at": "2022-08-02 16:37:39",

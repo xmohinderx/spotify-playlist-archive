@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/4RcOBBWDX6MKLzCgOsZWnl)
+65 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/4RcOBBWDX6MKLzCgOsZWnl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [It Must Be Love](https://open.spotify.com/track/1zBKJIhcErReXXjAW1YWrY) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:42 | 2022-06-19 | 2022-08-14 |
 | [Jack Be Nimble](https://open.spotify.com/track/3a9YIblicd1hdUlal06Sy1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old School Soul Masters](https://open.spotify.com/album/2OVIXQV91GUe2P0bESbRNh) | 2:45 | 2022-05-26 | 2022-10-03 |
 | [Jan](https://open.spotify.com/track/6vk4bs3o5EPeRceLmTtGZE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 4:35 | 2022-05-25 |  |
-| [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 | 2022-05-25 |  |
+| [Jefferies Rock](https://open.spotify.com/track/7nunGSSMVd4wx8GnKAckXr) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/1affb9CK5rnqn1ntuxd5dB) | 2:31 | 2022-05-25 | 2022-10-31 |
 | [Just to Be](https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:19 | 2022-05-25 |  |
 | [Let Me In Your Mind](https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:10 | 2022-08-13 | 2022-09-15 |
+| [Let's Try It Again](https://open.spotify.com/track/2aPvrQet8EzBFwwO1RZsg1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:24 | 2022-10-30 |  |
 | [Lonely Lonely](https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:18 | 2022-07-21 | 2022-08-01 |
 | [Me Tarzan, You Jane](https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:19 | 2022-05-25 |  |
 | [Memories are Here to Stay](https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:17 | 2022-05-25 |  |

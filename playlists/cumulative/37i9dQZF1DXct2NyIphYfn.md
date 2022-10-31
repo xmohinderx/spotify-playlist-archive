@@ -4,7 +4,7 @@
 
 > Some of the most beautiful French love songs.
 
-142 songs - 8 hr 52 min - [published](https://open.spotify.com/playlist/7bHpNw5RhYKen90eNPVY3R)
+143 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/7bHpNw5RhYKen90eNPVY3R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/1GjxNG4nifFXDjBitP58UQ) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/6UYD7lkD6lb1msC35VR9K5) | 3:17 | 2021-01-30 | 2022-07-27 |
 | [Comme j'ai toujours envie d'aimer \(version 2001\)](https://open.spotify.com/track/5E3wkDtNAPeqMNJHwczB55) | [Marc Hamilton](https://open.spotify.com/artist/4tSPtm10lKqc2KYps8Hslm) | [Comme j'ai toujours envie d'aimer](https://open.spotify.com/album/4zRTAGVOXT4kpqfEFjNcNH) | 3:17 | 2021-01-30 |  |
 | [D'amour ou d'amitié](https://open.spotify.com/track/3rdeNLCo1qBIE9Q9zMLQu9) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Reprises Vol.1](https://open.spotify.com/album/3lSPJWmIKB3lFKxOxTvYA0) | 3:58 | 2021-01-30 | 2022-07-29 |
-| [Danse avec moi](https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:54 | 2021-01-30 |  |
+| [Danse avec moi](https://open.spotify.com/track/6GUIugMBHC5mAFJGQ6MIKa) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:54 | 2021-01-30 | 2022-10-31 |
 | [Darling](https://open.spotify.com/track/1bIN8BFK0u87P7HmsgT9Jn) | [Renée martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Cow\-Girl dorée](https://open.spotify.com/album/6khQPaAH40JKAHWvPmsRm3) | 3:28 | 2022-01-18 | 2022-07-14 |
 | [Debout](https://open.spotify.com/track/4WPqwHscUKuB8x1NqK5tT2) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 3:14 | 2022-01-18 |  |
 | [Dis, quand reviendras\-tu ?](https://open.spotify.com/track/69VtPeUVg5gBtaPOZWxSHC) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII) | [Fanny Bloom](https://open.spotify.com/album/2AkUJJ4DUHVT9Wg8V7xO2P) | 3:50 | 2021-01-30 |  |
@@ -35,6 +35,7 @@
 | [Effeuille\-moi le coeur](https://open.spotify.com/track/1k68669ntnKMiCCNXL7vas) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [Effeuille\-moi le cœur](https://open.spotify.com/album/6wlgztSzCfeoD3RZsKiSqE) | 2:19 | 2021-01-30 | 2022-07-29 |
 | [Escale à Madrid](https://open.spotify.com/track/2SpKEnFdyDWnHs1ZD33Lan) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:40 | 2022-01-18 |  |
 | [Et je t'aime encore](https://open.spotify.com/track/0enVQlLvLZ4zKBk9ugnayG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [1 fille & 4 types](https://open.spotify.com/album/5j2HOG1RPwjjgioUOWLcS7) | 3:26 | 2021-01-30 | 2022-07-23 |
+| [Et je t'aime encore \- English version](https://open.spotify.com/track/2Fp37ixPar6VZYhFhGaKg5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 3:24 | 2021-01-30 |  |
 | [Et si tu n'existais pas](https://open.spotify.com/track/1GeszH3DWCOKwK0d8D5gEZ) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin](https://open.spotify.com/album/32ZaJ7p8xvsYE8udh6vyOg) | 3:26 | 2021-01-30 |  |
 | [Et si tu n'existais pas](https://open.spotify.com/track/7aSXnm1hOSvDTAJJUqavOS) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Best Of L'Album Souvenir](https://open.spotify.com/album/1i5iA41fk0Hv1p1DS3LVfo) | 3:28 | 2021-01-30 | 2022-07-27 |
 | [Explosion](https://open.spotify.com/track/0JKO9jlTWf5yzIMSyiS78i) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [La grande nuit vidéo](https://open.spotify.com/album/70ctMLPWLjNb5L96kyJCGv) | 2:30 | 2022-01-18 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 241533,
+  "num_followers": 241700,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMGQ2OGE0MWQwNmZjNmRiMmJmNDllOTQ5YmIyMzg5N2Yz",
+  "snapshot_id": "MTY2MzMwMDgwMSwwMDAwMDAwMDdhZGJmNzJiYjBlYTJmMjE3NTBkNzAxNTlmYzAwMTFk",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "DaFuture Is Now",
-        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
-      },
-      "artists": [
-        {
-          "name": "Android Apartment",
-          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sunset On The Shore",
-      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "You Can't Run",
         "url": "https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf"
       },
@@ -1107,50 +1091,34 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+        "name": "DaFuture Is Now",
+        "url": "https://open.spotify.com/album/2BiPA3CRhV8V2Am99lVF6s"
       },
       "artists": [
         {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
         }
       ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
+      "duration_ms": 171428,
+      "name": "Sunset On The Shore",
+      "url": "https://open.spotify.com/track/6Ust10S1TYG2aDNjfm7AX4"
     },
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Pok\u00e9wave III",
-        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+        "name": "HANDZ",
+        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
       },
       "artists": [
         {
-          "name": "Neon95",
-          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+          "name": "Hatena",
+          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Rainbow Badge",
-      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
-      },
-      "artists": [
-        {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
-        }
-      ],
-      "duration_ms": 173232,
-      "name": "Lovin' Is Everywhere",
-      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
+      "duration_ms": 280975,
+      "name": "NOTFAIR",
+      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1171,6 +1139,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/1AglI76RB3xj0yA2Z0NJ8B"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 141145,
       "name": "Shiny Shiny",
       "url": "https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Pok\u00e9wave III",
+        "url": "https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw"
+      },
+      "artists": [
+        {
+          "name": "Neon95",
+          "url": "https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Rainbow Badge",
+      "url": "https://open.spotify.com/track/58maRxsmhNQcne43mcphIV"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "HANDZ",
-        "url": "https://open.spotify.com/album/6Ezo4A6I3ALOQb3IFGwmnu"
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
       },
       "artists": [
         {
-          "name": "Hatena",
-          "url": "https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi"
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
         }
       ],
-      "duration_ms": 280975,
-      "name": "NOTFAIR",
-      "url": "https://open.spotify.com/track/3nUNXXdCDSEtaSVqU9xgf6"
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Orca Adventure DX",
-        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        }
-      ],
-      "duration_ms": 171135,
-      "name": "Orca Adventure DX",
-      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Mental Geller",
         "url": "https://open.spotify.com/album/1RAlbo3baBGlmwClDMJuaT"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 348750,
       "name": "DJ BFF Slideshow",
       "url": "https://open.spotify.com/track/7AP8KoLB9WR7rFT91yzVdD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Orca Adventure DX",
+        "url": "https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7"
+      },
+      "artists": [
+        {
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        }
+      ],
+      "duration_ms": 171135,
+      "name": "Orca Adventure DX",
+      "url": "https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Ain't Nobody",
-        "url": "https://open.spotify.com/album/6oCpqWxhmsp28zYymYPORx"
-      },
-      "artists": [
-        {
-          "name": "Pele",
-          "url": "https://open.spotify.com/artist/3JRX8ZDgaAGRr8ddYqV4B8"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Ain't Nobody",
-      "url": "https://open.spotify.com/track/67NS8TA0g9Mhu0Ok0wuQ7I"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Get Up, Get Out",
         "url": "https://open.spotify.com/album/4OSsGrfHerg5NI6VGr8mZI"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 202577,
       "name": "Get Up, Get Out",
       "url": "https://open.spotify.com/track/4wMEf9tBAUqvekUIoJLyOG"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Ain't Nobody",
+        "url": "https://open.spotify.com/album/6oCpqWxhmsp28zYymYPORx"
+      },
+      "artists": [
+        {
+          "name": "Pele",
+          "url": "https://open.spotify.com/artist/3JRX8ZDgaAGRr8ddYqV4B8"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/67NS8TA0g9Mhu0Ok0wuQ7I"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Bae 5",
         "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Meta",
-        "url": "https://open.spotify.com/album/4jer70CR6OE98ndQsd5EhS"
-      },
-      "artists": [
-        {
-          "name": "Xalaxia",
-          "url": "https://open.spotify.com/artist/4IapR7yGjcCQrQYnYKAI0z"
-        }
-      ],
-      "duration_ms": 238064,
-      "name": "Meta",
-      "url": "https://open.spotify.com/track/2ZKw6mmUGhML0Ij90TZh6w"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1567,34 +1567,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Muse",
-        "url": "https://open.spotify.com/album/2ShjCMuKZHSMMYgqqqjrkH"
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/4jer70CR6OE98ndQsd5EhS"
       },
       "artists": [
         {
-          "name": "Sui Uzi",
-          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+          "name": "Xalaxia",
+          "url": "https://open.spotify.com/artist/4IapR7yGjcCQrQYnYKAI0z"
         }
       ],
-      "duration_ms": 164647,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/7syLmoHMJrR2LQSNdrO3zZ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
-      },
-      "artists": [
-        {
-          "name": "Versiple",
-          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
-        }
-      ],
-      "duration_ms": 303148,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
+      "duration_ms": 238064,
+      "name": "Meta",
+      "url": "https://open.spotify.com/track/2ZKw6mmUGhML0Ij90TZh6w"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1611,6 +1595,22 @@
       "duration_ms": 132000,
       "name": "REFRESH",
       "url": "https://open.spotify.com/track/2rxb4x0lE8Wq8xA5tgeZ58"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
+      },
+      "artists": [
+        {
+          "name": "Versiple",
+          "url": "https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU"
+        }
+      ],
+      "duration_ms": 303148,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "Untold",
+        "url": "https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1"
+      },
+      "artists": [
+        {
+          "name": "Sui Uzi",
+          "url": "https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "B4E",
         "url": "https://open.spotify.com/album/6X6BP547q2EhoEsDVbwMt6"
       },
@@ -1695,30 +1711,6 @@
       "duration_ms": 172443,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Monstruo Japon\u00e9s",
-        "url": "https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2"
-      },
-      "artists": [
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        },
-        {
-          "name": "Rubimente",
-          "url": "https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4"
-        },
-        {
-          "name": "Schizo Forg",
-          "url": "https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0"
-        }
-      ],
-      "duration_ms": 250344,
-      "name": "Monstruo Japon\u00e9s",
-      "url": "https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG"
     }
   ],
   "unique_name": "Future Funk",

@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-212 songs - 15 hr 21 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
+213 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/5ZYLdoOmMnnHS8FyiGqREd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Suena Tu Canto](https://open.spotify.com/track/6af3gkqJwZRgifUmWWNRTh) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Suena Tu Canto](https://open.spotify.com/album/3Go1r8uelLjlMgwAHcyokh) | 3:48 | 2022-05-18 | 2022-07-26 |
 | [Sueño Nómade](https://open.spotify.com/track/48IuvQA45zrS1FJBKhOLH8) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Sueño Nómade](https://open.spotify.com/album/2jl3Ee3yRurbYUoq2ffbLN) | 3:00 | 2022-04-17 | 2022-07-24 |
 | [Suonno](https://open.spotify.com/track/2MwvBhrK7pL4qP3KMnp5uL) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo / Suonno](https://open.spotify.com/album/0xUqQAygc6UIpXcSXvKyRT) | 4:21 | 2022-10-01 | 2022-10-18 |
-| [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 | 2022-06-15 |  |
+| [Superstylin'](https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr) | [Out of This World](https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ) | 4:49 | 2022-06-15 | 2022-10-31 |
 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 | 2022-04-17 | 2022-07-29 |
 | [Tecolotin \- Chancha Vía Circuito Remix](https://open.spotify.com/track/7hvacROmK0NSMl6An0BZ9o) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Cenotes \(Deluxe Edition\)](https://open.spotify.com/album/49SC0iDWnUvugi5UHZQuOQ) | 4:06 | 2022-01-04 | 2022-07-29 |
 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 | 2022-06-15 |  |
@@ -216,6 +216,7 @@
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-08-08 | 2022-10-28 |
 | [Voyage](https://open.spotify.com/track/30iCh43omsKboQwN3OEd3Z) | [Tapioca](https://open.spotify.com/artist/1DP9pSzo1vWXDJdXELfOEr) | [Voyage](https://open.spotify.com/album/4XJC4gEUO1tIZx2CbIVXbF) | 5:15 | 2022-04-07 | 2022-07-24 |
 | [Xica Xica](https://open.spotify.com/track/1IkN4xIoHRSkk0j5t50S42) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:28 | 2022-01-04 | 2022-10-13 |
+| [Xica Xica](https://open.spotify.com/track/2xoHLJpHsV08cZKGfk5315) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Uji](https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G), [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [Balance](https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC) | 4:28 | 2022-06-15 |  |
 | [XP](https://open.spotify.com/track/6wYZP0PNiWW5LaAB9JNyQb) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/6GejDhVjHKAmQnPkyW6csf) | 2:55 | 2022-08-19 | 2022-09-20 |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-10-01 |  |
 | [Yale](https://open.spotify.com/track/00VHqKIeXGsZjoVLzanwlx) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Yale](https://open.spotify.com/album/69aWtxaNpf4Tm2sCsGB4Qi) | 4:30 | 2022-01-04 | 2022-07-25 |

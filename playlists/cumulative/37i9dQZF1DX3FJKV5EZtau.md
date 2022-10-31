@@ -4,7 +4,7 @@
 
 > Electro tunes for your virtual world.
 
-302 songs - 17 hr 33 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+303 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Electric Soul](https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Electric Soul](https://open.spotify.com/album/1KkZWI3TFLJL6BfWis40JF) | 3:27 | 2022-01-07 | 2022-09-26 |
 | [Endgame \(feat\. Aeria\)](https://open.spotify.com/track/3P5XaFgG3IgpbA6nhPQEJb) | [Rubayne](https://open.spotify.com/artist/3HbsDinWqq6h7SXIjVEpIz), [Aeria](https://open.spotify.com/artist/0xIkiN6ruvEtYA13pkLExe) | [Endgame \(feat\. Aeria\)](https://open.spotify.com/album/3uYebFzzsF9ECABrBPSQYx) | 2:36 | 2022-01-07 | 2022-07-29 |
 | [Enter REM](https://open.spotify.com/track/4TXjpUyeao6glOJfVARWi3) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Enter REM](https://open.spotify.com/album/71hcjKcbu0W3A87LKeKQN7) | 2:41 | 2022-01-07 |  |
+| [Error Sound](https://open.spotify.com/track/4NfZ4p7FW83hiePlB8t0J1) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW) | [Error Sound](https://open.spotify.com/album/6SHBQsvgVsvadUIDdtbPal) | 2:50 | 2022-10-07 |  |
 | [escape](https://open.spotify.com/track/5RIQAscyytbIzWpkB1G7mt) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/6Socr2o1jPF3u5sDkoSdsY) | 3:44 | 2022-01-07 | 2022-09-13 |
 | [escape](https://open.spotify.com/track/7BN0NHDHYkfACPK4OTwqv6) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [escape](https://open.spotify.com/album/2l4Obrxe2uaLuCXb5WzHbg) | 3:44 | 2022-09-02 |  |
 | [Eternal](https://open.spotify.com/track/5IPNnqPAvdVEcYanVKihca) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Eternal](https://open.spotify.com/album/5LB31xPvUGvNI4EqqjXvtA) | 3:33 | 2022-01-07 |  |
@@ -170,7 +171,7 @@
 | [Maybe](https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [Maybe](https://open.spotify.com/album/6Kw1eFD6pwT1metqBiUoft) | 3:18 | 2022-01-28 | 2022-07-15 |
 | [Memories](https://open.spotify.com/track/0c07SIKPJuFVDJjcmc160D) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Memories](https://open.spotify.com/album/0rmPcSAav94By4MMUYCUSn) | 3:52 | 2022-01-07 | 2022-07-25 |
 | [Mermaid](https://open.spotify.com/track/0jaMyOCkBqBFps33YS3ZOR) | [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Mermaid](https://open.spotify.com/album/0VrzLFj7WnmdRFFzZff1yE) | 3:51 | 2022-01-07 |  |
-| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 |  |
+| [Message](https://open.spotify.com/track/2HugpozniKFTxu2us4YqBV) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Message](https://open.spotify.com/album/1aYV3ULEfkmN2NAO25yXLy) | 3:57 | 2022-10-07 | 2022-10-31 |
 | [Metamorphosis](https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Metamorphosis](https://open.spotify.com/album/58X1FSKjMEcuWTyHWU9LSX) | 4:08 | 2022-04-15 | 2022-04-19 |
 | [Mike Tyson](https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Mike Tyson](https://open.spotify.com/album/1IFy7kRW05yfv5CPfiFK0f) | 3:19 | 2022-01-07 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/7JSS036IjVSwD64TAr6n32) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Good Faith](https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr) | 4:10 | 2022-01-07 |  |

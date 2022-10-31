@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1021491,
+  "num_followers": 1021758,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDFiZjExZmNmZjIwYWViM2VhN2UzNjJkNmVmOWQ1MTdm",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGNkNTk2ZmM5NWVjMmZjMTViYmMwMjQzMWNhNGY3NTY1",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -295,6 +295,30 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+        }
+      ],
+      "duration_ms": 223641,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/6D8fbdTViKv8biaCwcrquo"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
-        }
-      ],
-      "duration_ms": 223641,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "2nd Exit",
-        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
-      },
-      "artists": [
-        {
-          "name": "2nd Exit",
-          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
-        }
-      ],
-      "duration_ms": 176884,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 227826,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "2nd Exit",
+        "url": "https://open.spotify.com/album/7DYnI0CZgasN25teMmX9O9"
+      },
+      "artists": [
+        {
+          "name": "2nd Exit",
+          "url": "https://open.spotify.com/artist/4M0DtVyxxAVjPTFQYPpX1y"
+        }
+      ],
+      "duration_ms": 176884,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/0Wk1F7rr43ANfiyAgHZxOs"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
-      },
-      "artists": [
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "A Little Of This",
-      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 281866,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ"
+      },
+      "artists": [
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "A Little Of This",
+      "url": "https://open.spotify.com/track/1M3D5FWqKil0eNpKksKBa1"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Jagged Tooth Crook",
         "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Drive Slow",
-        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Drive Slow",
-      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "and the Anonymous Nobody...",
         "url": "https://open.spotify.com/album/73USNxSgFncLAsOAWfIA4J"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 279754,
       "name": "Pain",
       "url": "https://open.spotify.com/track/6eLSYGoJhXsR6ZhQEtTC3o"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Drive Slow",
+        "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4yMBcIwa2gx9Rrfln7sqvB"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "079 (FloFilz Remix)",
         "url": "https://open.spotify.com/album/2LAwQ1P6VCCjLce4yLMHGY"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 117546,
       "name": "079 (FloFilz Remix)",
       "url": "https://open.spotify.com/track/5IFLAZ4FQ9V7ITlTypLqYa"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4yMBcIwa2gx9Rrfln7sqvB"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1471,6 +1471,30 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Everything's Beautiful",
+        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Phonte",
+          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Violets (feat. Phonte)",
+      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/55yMb48WHIzbK1CG63qG0L"
       },
@@ -1499,30 +1523,6 @@
       "duration_ms": 218240,
       "name": "Sunlit Days",
       "url": "https://open.spotify.com/track/3eSHjsvLZ8MslZiXZMdW93"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Everything's Beautiful",
-        "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Phonte",
-          "url": "https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Violets (feat. Phonte)",
-      "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Fonografie",
         "url": "https://open.spotify.com/album/0RnwCZYkpbdVnodYGVYY7T"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 199640,
       "name": "Laid Back",
       "url": "https://open.spotify.com/track/4ol5yijURde62kN9JOV35E"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1691,6 +1691,30 @@
       "duration_ms": 205013,
       "name": "Politickin",
       "url": "https://open.spotify.com/track/5z9lBph5OY6SjPYcropOYV"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Chicken Wings (Remix)",
+        "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Bando.",
+          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
+        }
+      ],
+      "duration_ms": 165565,
+      "name": "Chicken Wings - Remix",
+      "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1775,30 +1799,6 @@
       "duration_ms": 126839,
       "name": "Low",
       "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Chicken Wings (Remix)",
-        "url": "https://open.spotify.com/album/7MdK6WWMMy9V2w8prCgycb"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Bando.",
-          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
-        }
-      ],
-      "duration_ms": 165565,
-      "name": "Chicken Wings - Remix",
-      "url": "https://open.spotify.com/track/69xqdbiaS6u1cnDWuaNtJM"
     },
     {
       "added_at": "2022-10-13 22:00:00",

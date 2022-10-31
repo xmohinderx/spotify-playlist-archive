@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,818 likes - 47 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,821 likes - 47 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 46 | [All In My Head \(feat\. AWOLNATION\)](https://open.spotify.com/track/0HQrTFhNkxL1EQdOiN0ZFf) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [OCCULT CLASSIC](https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw) | 4:26 |
 | 47 | [Shoestrings](https://open.spotify.com/track/0QvqrTGC7FSolbg8rQbHGa) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:11 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDBhNjI1OTQwYTE2OTYyNzUzYjQ0NzkyODQzMjE0YjcwNg==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA4NmY4NDM2YWEyNjdhOTIzMGIxMmRlNDYzMjNlNTQzMg==`

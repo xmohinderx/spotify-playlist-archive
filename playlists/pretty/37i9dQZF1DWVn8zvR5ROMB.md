@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Lainey Wilson, Russell Dickerson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,510 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,699 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 20 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
 | 21 | [Pretty Little Devils](https://open.spotify.com/track/6rcQA9q2ZdJeUzZKZU6pUg) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Pretty Little Devils](https://open.spotify.com/album/6laMfCUBqD0g3uVQRUYNBO) | 2:59 |
 | 22 | [Get Busy](https://open.spotify.com/track/7HhUQkx0XPfvG8ifFHfpDg) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Moondog](https://open.spotify.com/album/7gY8OzFuoIxBovFN2v6cKB) | 3:35 |
-| 23 | [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv), [NO](https://open.spotify.com/artist/6NkUxoYd8qeWelS4nuzwr4) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 |
+| 23 | [Break Your Heart](https://open.spotify.com/track/3QPtrudQrqhhFOUaKI2Vk2) | [Amanda Jordan](https://open.spotify.com/artist/5UzX8YYER6nwjEoJjt6QCv) | [Break Your Heart](https://open.spotify.com/album/4c2eFl0R7Ws4OAwUq2uDUo) | 2:45 |
 | 24 | [Always Known](https://open.spotify.com/track/6a6N51A7NV4xHkUH6o6Val) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Always Known](https://open.spotify.com/album/1PhReRL1AHGgw3ANMHDK4B) | 2:39 |
 | 25 | [Break It In a Bar](https://open.spotify.com/track/0iKIXB41XPzdxLSqPTgC7R) | [Leaving Austin](https://open.spotify.com/artist/67igAZjBrO42dnYYbTT6WI) | [Break It In a Bar](https://open.spotify.com/album/2L1fbvvbBEHaDKaJ6aTRQg) | 2:52 |
 | 26 | [Ain't in No Hurry](https://open.spotify.com/track/1PEnpXLatOxCkKD8fg1zHT) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Ain't in No Hurry](https://open.spotify.com/album/5BIg8wuqo3Eu7LMwRz4eym) | 3:41 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 41 | [Velvet](https://open.spotify.com/track/25QTevPHXzAPicpxgmny0W) | [Gray Robinson](https://open.spotify.com/artist/63juSKfpmqNHD7auhki1Hh) | [Velvet](https://open.spotify.com/album/4PHLWV28tO65Iw5a5PyNce) | 2:42 |
 | 42 | [The Chipotle Song](https://open.spotify.com/track/1yXt4omPDj0DYK5VbGeSUX) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [The Chipotle Song](https://open.spotify.com/album/3wst38Ed1mNT4sHRegn9ky) | 2:45 |
 | 43 | [First Night In L.A.](https://open.spotify.com/track/3sXsUqw19w5vmBA509riOF) | [Paige Nichols](https://open.spotify.com/artist/1NnenkFJW6KNISXvwngy5H) | [First Night In L.A.](https://open.spotify.com/album/4fH0IJAvnV2F6CpZNkXnLe) | 3:27 |
-| 44 | [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 |
+| 44 | [Boots Mine Gold](https://open.spotify.com/track/2ceZV0m3C8uafOk2WBrTuj) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Honey Harper & The Infinite Sky](https://open.spotify.com/album/400XedHANVhPNbid6j0UQc) | 3:11 |
 | 45 | [Devil Woman](https://open.spotify.com/track/2FOYduGg1q44F6wOtL4kOT) | [Caleb Lee Hutchinson](https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6) | [Songs I'll Never Play Again](https://open.spotify.com/album/6lDX2zkYHJ0yzvfNEemMSx) | 3:53 |
 | 46 | [Car Trouble](https://open.spotify.com/track/5fVtbkqaCmEW4ilvrgP3xF) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Car Trouble](https://open.spotify.com/album/6quccN4IpdGATlsFGDZW47) | 2:56 |
 | 47 | [Keep on Keepin' On](https://open.spotify.com/track/3tmP1cd3GjRGqw7Eaj6rVZ) | [Carolyn Miller](https://open.spotify.com/artist/6LkLlXe5Moqo1X9uyBLLdH) | [Keep on Keepin' On](https://open.spotify.com/album/4dCUlzZpMqmJ8QbNjZOPJ4) | 2:58 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 58 | [Good For You](https://open.spotify.com/track/6XP9c5GuSDoxhOvYLxHvVi) | [Bryan Lanning](https://open.spotify.com/artist/4lBpdC0ZU9G6dm05V1XAq7) | [Good For You](https://open.spotify.com/album/4suCRGJkeN2fcnYXqNRy8S) | 2:56 |
 | 59 | [Cadillac Cool](https://open.spotify.com/track/0I2R4b3h7hekN578AkLfzC) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Cadillac Cool](https://open.spotify.com/album/3DN9I8BczPxOo7vKqksykV) | 3:02 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGRmMmE2MzkwN2MxZDJiOTAxMDliYTk4NjM3MzMwZTI3`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGExNDEwMjBjNDI5ZGExM2M2NzZhZDE2ZDlkM2NhYTM2`

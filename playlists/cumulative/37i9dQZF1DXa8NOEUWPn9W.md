@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Mau P
 
-421 songs - 1 day 1 hr 34 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
+422 songs - 1 day 1 hr 38 min - [published](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-01 | 2022-10-29 |
 | [Shaolin Dreams](https://open.spotify.com/track/2sGFufjNzWIVBp5vRR7Sgm) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv) | [Shaolin Dreams](https://open.spotify.com/album/43xx4WgDHH1gCUVdDZoiq5) | 4:28 | 2021-07-31 | 2022-04-18 |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/4qUx0Q2kGLwjkweKThS3rj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:52 | 2022-09-30 |  |
+| [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/track/3NGC2t1KnSOFcDQv8EI2Pl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Flirta D](https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR) | [Sidewindah \(feat\. Flirta D\)](https://open.spotify.com/album/43sQLpO0FFy5wfXcWyyXCm) | 3:33 | 2022-10-31 |  |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-03-28 |  |
 | [Sinner](https://open.spotify.com/track/3kyskiCpYM2ALQUSEShFMY) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/0r0BHXYjOcX5vviQJbdpaT) | 3:58 | 2022-03-11 | 2022-07-29 |
 | [Skywalk](https://open.spotify.com/track/4AHbsdacRagQT4GklwTtON) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Skywalk](https://open.spotify.com/album/1zZoGGDWhOU8af0gYRfsuB) | 5:03 | 2021-09-18 | 2022-07-29 |
@@ -348,7 +349,7 @@
 | [Spiritual Thing](https://open.spotify.com/track/4FvJTqvTXr0e4reHF6CKH8) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q), [PvssyCat](https://open.spotify.com/artist/6ctlU7z2EqhgtXOYcHtEGC), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Spiritual Thing](https://open.spotify.com/album/02czhiYrZJ3tSJDQUCllv1) | 3:38 | 2021-08-07 | 2022-07-21 |
 | [Step\-Grandma](https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh) | [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Step\-Grandma](https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy) | 2:40 | 2021-07-17 | 2022-09-10 |
 | [Still Sleepless](https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Still Sleepless](https://open.spotify.com/album/0R8Q1Ssj8x17w30NUas7yu) | 2:42 | 2021-09-18 |  |
-| [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-09-16 |  |
+| [Strut](https://open.spotify.com/track/0nevM5K8CCJOTbAcpOS1Js) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Strut](https://open.spotify.com/album/7kJtQku5TZl47Wkl0taooD) | 2:40 | 2022-09-16 | 2022-10-31 |
 | [Sublime](https://open.spotify.com/track/1CX73iXs4CVUKESOG8BpwT) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sublime](https://open.spotify.com/album/7hZavz18HfmCCdBPNuhw7M) | 3:01 | 2021-07-25 | 2022-07-21 |
 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 | 2021-03-27\* | 2021-05-22 |
 | [Sun Goes Down](https://open.spotify.com/track/28cF5QOu0CWdyTt6lYxIeA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sun Goes Down](https://open.spotify.com/album/1vbX5xsy8Dz96qmskVY8SI) | 2:34 | 2021-03-27\* | 2021-04-24 |

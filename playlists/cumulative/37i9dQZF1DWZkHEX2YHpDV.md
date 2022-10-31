@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Knuckle Puck
 
-834 songs - 1 day 20 hr 35 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
+835 songs - 1 day 20 hr 38 min - [published](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Nights Alone](https://open.spotify.com/track/4pqfAjOdONW9IGHq5BV328) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Into the Raging Sea](https://open.spotify.com/album/668M0j58jceb2KVxomANs6) | 3:20 | 2021-12-10 | 2022-08-03 |
 | [No Cure](https://open.spotify.com/track/4X9zfw0vC8npHy6rlRWiWd) | [Sunsleeper](https://open.spotify.com/artist/3KHHh4WVfyUa9ZwE63jdir) | [No Cure](https://open.spotify.com/album/2f8PtESjnAVCnIohsbYQcj) | 2:53 | 2022-02-04 | 2022-06-07 |
 | [No King but Me](https://open.spotify.com/track/2ZGPOrli2QCDz1it8FB15f) | [Trade Wind](https://open.spotify.com/artist/3FCfL4lKWE7vm3mCcOd570) | [No King but Me](https://open.spotify.com/album/76B2fMieLd5n0q6esQ6wgr) | 3:50 | 2022-03-25 | 2022-04-20 |
-| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-07-08 |  |
+| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2022-07-08 | 2022-10-31 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-12-10 | 2022-07-29 |
 | [Nomu](https://open.spotify.com/track/4vLqMaYufCNrk4D2DA3mja) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Nomu](https://open.spotify.com/album/0B4NOE3I9keouma91iRaLx) | 2:47 | 2021-12-10 | 2022-05-20 |
 | [Not My Problem \(feat\. Travis Barker\)](https://open.spotify.com/track/6bh6ikJRlhImSFjsNBJy5b) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Not My Problem \(feat\. Travis Barker\)](https://open.spotify.com/album/4fXdiWjzTk2avnWi9WKSAr) | 3:25 | 2021-12-10 | 2022-06-21 |
@@ -816,6 +816,7 @@
 | [Wine](https://open.spotify.com/track/4sabSrrqKCFk8vTA74TgqB) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Wine](https://open.spotify.com/album/6pDRJg6d7r1xH6YTF5qPrS) | 4:09 | 2021-12-10 | 2022-07-26 |
 | [Wish U Were Here](https://open.spotify.com/track/3egjkRdPlspVey0i0RCPEx) | [Makeout](https://open.spotify.com/artist/4RkIeqeY7seRZby4X73Ajk) | [Wish U Were Here](https://open.spotify.com/album/02oi3rIz1xSiDAt3DUrky0) | 2:44 | 2021-12-10 | 2022-07-29 |
 | [Wish You Well](https://open.spotify.com/track/7KuSHOqPEgLzE8UwSoaKX1) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Wish You Well](https://open.spotify.com/album/7DllxBuh4dcjrORcKNkyQf) | 2:46 | 2022-08-26 | 2022-09-19 |
+| [Wishing You Hell](https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Wishing You Hell](https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa) | 3:14 | 2022-10-21 |  |
 | [WITCH HVNT](https://open.spotify.com/track/1mkDFLxzMR5FiEisymYLpq) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [WITCH HVNT](https://open.spotify.com/album/4oDfyYVfvM1RX349xgaWBJ) | 3:55 | 2022-01-14 | 2022-07-06 |
 | [Wolf Boy](https://open.spotify.com/track/7uv654mZzZWHY7Lj9pnXsl) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA) | [Wolf Boy](https://open.spotify.com/album/4oCld1YIYyaxHKz2xiYsJG) | 2:56 | 2021-12-10 | 2022-07-09 |
 | [Worth It](https://open.spotify.com/track/22uRfgnUlPZXfd4BCaretS) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Worth It](https://open.spotify.com/album/065aiQ08pX7qfmkRr912fL) | 3:53 | 2021-12-10 | 2022-07-27 |

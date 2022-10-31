@@ -5275,7 +5275,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 331145,
       "name": "SILHOUETTE",
       "url": "https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn"
@@ -6715,6 +6715,24 @@
       "duration_ms": 193300,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/07L7vNGluze4WliEWWrlxL"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/6F520hQ7Mc4QVoFSRggMNS"
+      },
+      "artists": [
+        {
+          "name": "Lamorn",
+          "url": "https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193300,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/0YtKptsHPmje5CEXbwmnPi"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,665 likes - 57 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,700 likes - 57 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 21 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 |
 | 22 | [Rhythm of Love / Can't Help Falling in Love \- EP Version](https://open.spotify.com/track/2gUJHhcjHiozaETPvjezUy) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Six Pack: Volume 2](https://open.spotify.com/album/26vgJStksNILcA0C3FTtX6) | 3:33 |
 | 23 | [Don't Stop Believin' \(Glee Cast Version\) \- Cover of Journey](https://open.spotify.com/track/6rjnRocdCULjLF61x2NR5e) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 1](https://open.spotify.com/album/3bzOPF8mGdoW059DsGfMXj) | 3:52 |
-| 24 | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS) | 4:06 |
-| 25 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
+| 24 | [Game of Thrones \(Main Title\)](https://open.spotify.com/track/5DUvVCB64zoCHRRCJWnF98) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Covers, Vol\. III](https://open.spotify.com/album/3zEKL1CNwJGP0ajJg7OrnQ) | 2:48 |
+| 25 | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/track/3yHbeOQLmNRo1KGfH0lNJz) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me](https://open.spotify.com/album/6EQTNhJYK0TUuvWiAomciS) | 4:06 |
 | 26 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3YlqY0ICO5DZj2ay8vRjJ1) | [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Sam Tsui](https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0), [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Alex G](https://open.spotify.com/artist/2WWTUZ3LpcAAPhSEz3H0rg) | [Send My Love \(To Your New Lover\)](https://open.spotify.com/album/0dAsLsV88EZovxVFjbSZHa) | 3:30 |
 | 27 | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/track/44l4cnTTo3BgrPtqePhJFu) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [KRNFX](https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S) | [I Knew You Were Trouble \(feat\. KRNFX\)](https://open.spotify.com/album/5lnK6yv9zcn1TYbZtTZxYS) | 3:35 |
 | 28 | [We Belong \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg) | [Rebel Wilson](https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq), [Adam Devine](https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:34 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
 | 57 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDU2Yjg1NzhkNTk0YzMyOGUxNTUyYzljOWI0ZTJjNDAz`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDA4ZmNjYTdhOWRkODc0ZmMwMjA1ZjZkZjA1Y2UyYTgz`

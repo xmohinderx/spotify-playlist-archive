@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 28770,
+  "num_followers": 28800,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjg0MCwwMDAwMDAwMGNlN2I2YTgxZTE4MDcyZTI5ZDJmM2E2ODMwMTEzM2Y4",
+  "snapshot_id": "MTY2NTc2Mjg0MCwwMDAwMDAwMDU1ZWQzZTJiZjFlZGNjZTQ5ZjExY2ZkNWRlYzI0OTQ0",
   "tracks": [
     {
       "added_at": "2022-09-30 17:57:08",
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/5bWxtgC36JZDNgXckBfXGy"
     },
     {
-      "added_at": "2022-10-30 01:25:13",
+      "added_at": "2022-10-31 01:25:25",
       "album": {
         "name": "Proof of My Existence",
         "url": "https://open.spotify.com/album/1yqH34M8NBfm5sDYW6Idqh"
@@ -399,6 +399,26 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
+      },
+      "artists": [
+        {
+          "name": "Azaleh",
+          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
+        },
+        {
+          "name": "Dawncall",
+          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
+        }
+      ],
+      "duration_ms": 259310,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Contain (In Key)",
         "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 488706,
       "name": "Contain (In Key)",
       "url": "https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Momentum",
-        "url": "https://open.spotify.com/album/3ZOL9Y9Kq9TMTGm4383Ifp"
-      },
-      "artists": [
-        {
-          "name": "Azaleh",
-          "url": "https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY"
-        },
-        {
-          "name": "Dawncall",
-          "url": "https://open.spotify.com/artist/5dzYbfvhKNpTGO9eHjSnMq"
-        }
-      ],
-      "duration_ms": 259310,
-      "name": "Momentum",
-      "url": "https://open.spotify.com/track/2DAmhFxekgHVKags01Zl1h"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -619,22 +619,18 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Penelope Trappes Death Revisited",
-        "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
+        "name": "skins n slime",
+        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
       },
       "artists": [
         {
-          "name": "Malcolm Pardon",
-          "url": "https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV"
-        },
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
         }
       ],
-      "duration_ms": 315562,
-      "name": "Penelope Trappes meets Silent Rumble",
-      "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+      "duration_ms": 369400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -655,18 +651,22 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "skins n slime",
-        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
+        "name": "Penelope Trappes Death Revisited",
+        "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
       "artists": [
         {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+          "name": "Malcolm Pardon",
+          "url": "https://open.spotify.com/artist/3LCJTqV9F11tXAQptDv1bV"
+        },
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 369400,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
+      "duration_ms": 315562,
+      "name": "Penelope Trappes meets Silent Rumble",
+      "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
     },
     {
-      "added_at": "2022-10-30 01:25:13",
+      "added_at": "2022-10-31 01:25:25",
       "album": {
         "name": "Balmy Evening",
         "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "No era s\u00f3lida",
-        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 177157,
-      "name": "Disuelta",
-      "url": "https://open.spotify.com/track/5hVYVwbP1a5VPbclGeRcm3"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 223986,
       "name": "58500 - Daniel Avery Remix",
       "url": "https://open.spotify.com/track/2ejCzJvM2f7tqG2fu56EEm"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "No era s\u00f3lida",
+        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 177157,
+      "name": "Disuelta",
+      "url": "https://open.spotify.com/track/5hVYVwbP1a5VPbclGeRcm3"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "Shortwave Memories",
-        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 249672,
-      "name": "Formanta",
-      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "Plonk",
         "url": "https://open.spotify.com/album/1NLglnqr3MZju3F0upWXzU"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 564154,
       "name": "Plonk VI",
       "url": "https://open.spotify.com/track/6r5vGrYSklN6D9QGwfCxii"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Shortwave Memories",
+        "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 249672,
+      "name": "Formanta",
+      "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Wants a Diamond Pivot Bright",
+        "url": "https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC"
+      },
+      "artists": [
+        {
+          "name": "M. Sage",
+          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
+        },
+        {
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+        }
+      ],
+      "duration_ms": 177682,
+      "name": "Valley Candle",
+      "url": "https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Past and Future Tense",
         "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
@@ -1431,58 +1451,6 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
-        "name": "CRATER",
-        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
-      },
-      "artists": [
-        {
-          "name": "Booker Stardrum",
-          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
-        }
-      ],
-      "duration_ms": 322948,
-      "name": "Walking Through Still Air",
-      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Wants a Diamond Pivot Bright",
-        "url": "https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC"
-      },
-      "artists": [
-        {
-          "name": "M. Sage",
-          "url": "https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR"
-        },
-        {
-          "name": "Patrick Shiroishi",
-          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
-        }
-      ],
-      "duration_ms": 177682,
-      "name": "Valley Candle",
-      "url": "https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 399893,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
         "name": "Burst / Glimmer",
         "url": "https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb"
       },
@@ -1515,6 +1483,38 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "CRATER",
+        "url": "https://open.spotify.com/album/4Ymq9bQ78qugxlnWVfs5b0"
+      },
+      "artists": [
+        {
+          "name": "Booker Stardrum",
+          "url": "https://open.spotify.com/artist/5pHsBWZqG49vT69cBDbDZ5"
+        }
+      ],
+      "duration_ms": 322948,
+      "name": "Walking Through Still Air",
+      "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 399893,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Pavel Milyakov & Bendik Giske",
         "url": "https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx"
       },
@@ -1531,6 +1531,26 @@
       "duration_ms": 190783,
       "name": "Untitled 2",
       "url": "https://open.spotify.com/track/186loHqzmLS5hdB0ocZ84S"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Circle 19",
+      "url": "https://open.spotify.com/track/3idz0NhLw93H5optXL4v2K"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1567,26 +1587,6 @@
       "duration_ms": 450006,
       "name": "Agalma V",
       "url": "https://open.spotify.com/track/6pwsr8MsXAGYWHeJirQyRW"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
-      },
-      "artists": [
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Circle 19",
-      "url": "https://open.spotify.com/track/3idz0NhLw93H5optXL4v2K"
     },
     {
       "added_at": "2022-09-30 17:57:08",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2022-09-30 17:57:08",
       "album": {
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2022-09-30 17:57:08",
+      "album": {
         "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
         "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 361854,
       "name": "Vespera",
       "url": "https://open.spotify.com/track/4AaprdeMMgEgo2iIOQAztk"
-    },
-    {
-      "added_at": "2022-09-30 17:57:08",
-      "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2022-09-30 17:57:08",

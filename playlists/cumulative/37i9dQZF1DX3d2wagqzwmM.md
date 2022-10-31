@@ -4,7 +4,7 @@
 
 > Big rooms with big sounds\. Cover: Quintino
 
-207 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
+208 songs - 10 hr 51 min - [published](https://open.spotify.com/playlist/6qNCTGV1lgbBTyQi4Ez9QG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Lose It](https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Lose It](https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj) | 2:43 | 2022-09-08 |  |
 | [Lowrider](https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Lowrider](https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0) | 2:31 | 2022-07-28 | 2022-10-08 |
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |
+| [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 |  |
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-04-14 | 2022-07-29 |
 | [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 |  |
 | [Massive](https://open.spotify.com/track/41NEHLGt9hJul5U0IBad8b) | [Omnia](https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA) | [Massive](https://open.spotify.com/album/13KY2D8oRoXqvuz3JrwlPg) | 3:11 | 2022-04-21 | 2022-05-28 |
@@ -156,7 +157,7 @@
 | [Rave Time \(W&W Edit\)](https://open.spotify.com/track/0UVBULfbKPCgJc779Zun1M) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Rave Time \(W&W Edit\)](https://open.spotify.com/album/6rc64cETuaFKfFjcxnJyDL) | 2:49 | 2022-09-22 |  |
 | [Readymade Sweat](https://open.spotify.com/track/47RHGBGyfNHQkyT9m5lXpi) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Blood, Sweat & Smiles](https://open.spotify.com/album/2CDFsCNzHaS5NSj0tSBVCy) | 2:53 | 2022-05-19 | 2022-07-29 |
 | [REBELS NEVER DIE](https://open.spotify.com/track/2GHD6eBLzyupwqjvmYWrGZ) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:15 | 2022-09-08 |  |
-| [REMINISCE](https://open.spotify.com/track/33P76PS6skAOeQzYK77xss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Lee Grant](https://open.spotify.com/artist/19pSUWoyECeTrV165Seg5j) | [REMINISCE](https://open.spotify.com/album/1Y4ABtKiNxOSu8WfBunKBP) | 4:01 | 2022-07-07 |  |
+| [REMINISCE](https://open.spotify.com/track/33P76PS6skAOeQzYK77xss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Lee Grant](https://open.spotify.com/artist/19pSUWoyECeTrV165Seg5j) | [REMINISCE](https://open.spotify.com/album/1Y4ABtKiNxOSu8WfBunKBP) | 4:01 | 2022-07-07 | 2022-10-31 |
 | [Ride With Me \(feat\. Kid Ink\) \- Blasterjaxx & Tungevaag Remix](https://open.spotify.com/track/5A72ceCUwcsMUqkzd5t5Nu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Ride With Me \(feat\. Kid Ink\) \[Blasterjaxx & Tungevaag Remix\]](https://open.spotify.com/album/4aelIqUCHvwZEigEXvL6SI) | 2:56 | 2022-04-14 |  |
 | [Risk It All](https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Risk It All](https://open.spotify.com/album/72DWqm09UUQnBiKuvCU41H) | 3:20 | 2022-04-14 | 2022-07-28 |
 | [Run Away](https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Run Away](https://open.spotify.com/album/3gZDrYqECHtsaX6DI7QfRF) | 2:36 | 2022-04-14 | 2022-09-16 |

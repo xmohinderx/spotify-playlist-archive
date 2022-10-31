@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 36102,
+  "num_followers": 36103,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMDUxNmFiMmFlMmZlODNiMTU4YzQwNzZlOGI4MTQ1Yjll",
+  "snapshot_id": "MTYxOTY5MTI1NCwwMDAwMDAwMGMyMDIyNGI4NTM2NDYxMzVhOWMwMTIzNTRmZmFkODY4",
   "tracks": [
     {
       "added_at": "2019-10-02 08:54:10",
@@ -629,6 +629,22 @@
       "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
     },
     {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
+    },
+    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -645,20 +661,20 @@
       "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Giblet Gravy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+        "name": "Let It Be Me (Live)",
+        "url": "https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
+      "duration_ms": 181812,
+      "name": "My Baby Just Cares For Me - Live At Vine St. Bar & Grill, 1987",
+      "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -679,22 +695,6 @@
       "duration_ms": 165080,
       "name": "Nice Work If You Can Get It",
       "url": "https://open.spotify.com/track/0voKz9hHJcNGiY3KtNRl4I"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Let It Be Me (Live)",
-        "url": "https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "My Baby Just Cares For Me - Live At Vine St. Bar & Grill, 1987",
-      "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -767,22 +767,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "Jive At Six",
-      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Trio 64",
         "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 275133,
       "name": "Dancing In The Dark",
       "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -887,22 +887,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "A Simple Tune",
-      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "The Lionel Hampton Quintet",
         "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Blues Caravan",
-        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
       "artists": [
         {
-          "name": "Buddy Rich And His Sextet",
-          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 189346,
-      "name": "BR Blues",
-      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -951,6 +935,22 @@
       "duration_ms": 217960,
       "name": "I Wished On The Moon - Stereo Version",
       "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "BR Blues",
+      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges & His Orchestra",
-          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
-        }
-      ],
-      "duration_ms": 151533,
-      "name": "Ruint",
-      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Conversations With Myself",
         "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 290466,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "duration_ms": 151533,
+      "name": "Ruint",
+      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1059,26 +1059,6 @@
       "duration_ms": 340893,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Samba Para Dos",
-        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Schifrin",
-          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 606413,
-      "name": "Samba Para Dos",
-      "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -1099,6 +1079,26 @@
       "duration_ms": 402533,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 606413,
+      "name": "Samba Para Dos",
+      "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Lonely One",
-        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 280053,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
         "name": "Flip Wails: The Best Of The Verve Years",
         "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
       },
@@ -1505,52 +1489,20 @@
       "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie Sextet",
-          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "I Can't Get Started",
-      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
-    },
-    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
         }
       ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Gettin' To It",
-        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 323306,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+      "duration_ms": 280053,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1571,6 +1523,54 @@
       "duration_ms": 353026,
       "name": "Ad Lib Blues",
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-02 08:54:10",

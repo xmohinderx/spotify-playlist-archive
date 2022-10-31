@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Ashe",
-  "num_followers": 400801,
+  "num_followers": 400851,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGIwZGE3MzEyZDM2MjEyMjdiNWU4ZjdlMDU5NjA4ODM1",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDg2OTIxNzZiODE0NjhkMzRiNWQzZWU5MDViZGNhZTRk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK"
     },
     {
-      "added_at": "2022-04-15 04:01:00",
-      "album": {
-        "name": "dose",
-        "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 180807,
-      "name": "dose",
-      "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Private Space",
@@ -555,6 +539,22 @@
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2"
+    },
+    {
+      "added_at": "2022-04-15 04:01:00",
+      "album": {
+        "name": "dose",
+        "url": "https://open.spotify.com/album/1d7ZvdaYXUPqDCInEnl4nD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 180807,
+      "name": "dose",
+      "url": "https://open.spotify.com/track/4KGTM5EQEWR1QMDvo8dzaZ"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -865,6 +865,26 @@
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "about time",
@@ -887,22 +907,18 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 164693,
-      "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -919,22 +935,6 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5XRvidlLFT4rMytzHK7smn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 225665,
       "name": "LAX",
       "url": "https://open.spotify.com/track/1o0nAjgZwMDK9TI4TTUSNn"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 173985,
-      "name": "Magical Thinking",
-      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
+      "duration_ms": 143386,
+      "name": "Baby I'll Wait",
+      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 143386,
-      "name": "Baby I'll Wait",
-      "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
+      "duration_ms": 173985,
+      "name": "Magical Thinking",
+      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "WTSGD (with Alessia Cara)",
@@ -1315,22 +1331,6 @@
       "duration_ms": 244013,
       "name": "WTSGD (with Alessia Cara)",
       "url": "https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Someone to Love",
-        "url": "https://open.spotify.com/album/42PFGz6vnOm79L3kYli8Z5"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Someone to Love",
-      "url": "https://open.spotify.com/track/6FAoGmM3fdvOvEivi9edSd"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Don't Lose Sight",
@@ -1647,22 +1631,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "On Top of the World",
-        "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 239044,
-      "name": "On Top of the World",
-      "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -1675,6 +1643,22 @@
       "duration_ms": 250933,
       "name": "Final Days",
       "url": "https://open.spotify.com/track/4CJiAsRwM7MaCgWlnFaSRz"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "On Top of the World",
+        "url": "https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 239044,
+      "name": "On Top of the World",
+      "url": "https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 195413,
       "name": "Madelyn",
       "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 215787,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
     }
   ],
   "unique_name": "Retro Pop",

@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 3758,
+  "num_followers": 3803,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MTIzOSwwMDAwMDAwMDFjNTVjODBmMjNmNjQzYTg0YjI2OGU0Y2FjYzFjMDI1",
+  "snapshot_id": "MTY2Njk2MTIzOSwwMDAwMDAwMDE5MjI2ZGU5ZTViOTIwNGMwMGMxMzM2YzdmOTlmNjhh",
   "tracks": [
     {
       "added_at": "2022-07-28 23:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Video Games",
         "url": "https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Perfect Girl (feat. MisterKay)",
         "url": "https://open.spotify.com/album/10SAFauFQQneSjEe47W0hw"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Don't Take Your Love",
         "url": "https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Only",
         "url": "https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
-      "added_at": "2022-10-30 01:29:45",
+      "added_at": "2022-10-31 01:30:09",
       "album": {
         "name": "Table for Two",
         "url": "https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp"
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-06-24 06:21:37",
       "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 230721,
+      "name": "Time N Affection",
+      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
         "name": "Wasting Time ( feat. Drake & The Neptunes )",
         "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
@@ -893,42 +913,6 @@
       "url": "https://open.spotify.com/track/7Bzgs1crJViC1NEliHSp8O"
     },
     {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 230721,
-      "name": "Time N Affection",
-      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2022-06-24 06:21:37",
-      "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
       "added_at": "2022-08-05 07:52:38",
       "album": {
         "name": "Playboy",
@@ -951,6 +935,22 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
+    },
+    {
+      "added_at": "2022-06-24 06:21:37",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2022-06-24 06:21:37",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz"
     },
     {
-      "added_at": "2022-07-22 04:39:56",
-      "album": {
-        "name": "If I Get Caught",
-        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 186114,
-      "name": "If I Get Caught",
-      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
-    },
-    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Black Panther: Wakanda Forever Prologue",
@@ -1055,6 +1039,22 @@
       "duration_ms": 213860,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
+      "added_at": "2022-07-22 04:39:56",
+      "album": {
+        "name": "If I Get Caught",
+        "url": "https://open.spotify.com/album/6Z5ow1B7KDZYRusJpyqQYS"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 186114,
+      "name": "If I Get Caught",
+      "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
       "added_at": "2022-08-26 09:38:47",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
     },
     {
-      "added_at": "2022-09-19 07:33:37",
-      "album": {
-        "name": "Miss My Dawgs",
-        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 205788,
-      "name": "Miss My Dawgs (with 6LACK)",
-      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
-    },
-    {
       "added_at": "2022-06-24 06:21:37",
       "album": {
         "name": "D O D O (Adekunle Gold Version)",
@@ -1475,6 +1455,26 @@
       "duration_ms": 179884,
       "name": "D O D O - Adekunle Gold Version",
       "url": "https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W"
+    },
+    {
+      "added_at": "2022-09-19 07:33:37",
+      "album": {
+        "name": "Miss My Dawgs",
+        "url": "https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 205788,
+      "name": "Miss My Dawgs (with 6LACK)",
+      "url": "https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc"
     },
     {
       "added_at": "2022-08-05 07:52:38",

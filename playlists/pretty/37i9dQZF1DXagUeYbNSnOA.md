@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,361 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,366 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 23 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
 | 24 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 25 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
-| 26 | [Mejor Que Antes](https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Mejor Que Antes](https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU) | 4:04 |
-| 27 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
+| 26 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
+| 27 | [Mejor Que Antes](https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Mejor Que Antes](https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU) | 4:04 |
 | 28 | [Posguerra](https://open.spotify.com/track/5Kb5RhVvDm5he4xTJ1aNqQ) | [Atrás Hay Truenos](https://open.spotify.com/artist/6KDozt8X774pjyp1oVMsmz) | [Posguerra](https://open.spotify.com/album/78FkR6dvHY3QXLu5Y7wDZF) | 4:11 |
 | 29 | [Habla Claro](https://open.spotify.com/track/4umBg5LdVN10ndZ605idaQ) | [Queens Tafari](https://open.spotify.com/artist/4rKOg5tFcABYTjPHseU3fK) | [Habla Claro](https://open.spotify.com/album/6YXHNTLs6P6K92BYebBdYH) | 2:30 |
 | 30 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 48 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
 | 49 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 50 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
-| 51 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
-| 52 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
-| 53 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
-| 54 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
-| 55 | [Sombras](https://open.spotify.com/track/01nlKVa79FmkgQ9oYTQzcC) | [Kids Are Fine](https://open.spotify.com/artist/61BZt7XBK4I6rBigflezos) | [Sombras](https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F) | 3:26 |
-| 56 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
-| 57 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
-| 58 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 |
+| 51 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 52 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
+| 53 | [Reíte](https://open.spotify.com/track/1VWmj6TYc1UdEsamBt1VLf) | [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Reíte](https://open.spotify.com/album/2GvYbgbsVHC4SVDhqyFt2q) | 3:37 |
+| 54 | [Inconsciencia](https://open.spotify.com/track/4Dm11rwqGsTvDLml88JyIL) | [La Honte](https://open.spotify.com/artist/4Irt9HPbh6MbM90waVOFiA) | [Inconsciencia](https://open.spotify.com/album/10PYCHUMNWA4vfuXR8DByd) | 3:32 |
+| 55 | [AGUA CON SAL](https://open.spotify.com/track/2kvbeU7k2FyJe4YeozhRHg) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [AGUA CON SAL](https://open.spotify.com/album/0LrLOhCO0xMlpS9a19rE5m) | 3:18 |
+| 56 | [Sombras](https://open.spotify.com/track/01nlKVa79FmkgQ9oYTQzcC) | [Kids Are Fine](https://open.spotify.com/artist/61BZt7XBK4I6rBigflezos) | [Sombras](https://open.spotify.com/album/3dp6pcPCn6wJ08AyUuAy4F) | 3:26 |
+| 57 | [El Juego](https://open.spotify.com/track/0PeRTtaDFNmmvKAboAVQkP) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [El Juego](https://open.spotify.com/album/1h9nTZa5Z7euPox6PFtCfH) | 2:48 |
+| 58 | [Es el Final Me Alejo](https://open.spotify.com/track/6maJAvK0EEnYJlwd2Rilfo) | [Hermanas](https://open.spotify.com/artist/6DhjvxaxmaX7X9WGAGnxSr), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo), [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K) | [Hermanas](https://open.spotify.com/album/76M6D300MhUyIFv3gvoI54) | 3:21 |
 | 59 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 | 60 | [CHEKE\-CHEKE](https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2) | [Nico Legon](https://open.spotify.com/artist/61Le1rJ93LGe5oLoe7sGRv), [Julián Barneix](https://open.spotify.com/artist/42MtpIBsOfvk3WbTcFKH4W) | [CHEKE\-CHEKE](https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt) | 4:21 |
 
-Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMGNiMzQ5MDNjZGExMGU4MDczNzJkYjk5YjAyZTc4YmFl`
+Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMDUxNmM1MTZiOWRkMjk3YmFlYzI1ZGU4ZjE4YzA1NjJk`

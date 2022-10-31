@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Brunão Morada
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,265 likes - 70 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,305 likes - 70 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's \(Ao Vivo\)](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 |
 | 2 | [A Alegria do Senhor \- Ao Vivo](https://open.spotify.com/track/7k1jfZcZ7iR2Uo8Iwpb7Mp) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [A Alegria do Senhor \(Ao Vivo\)](https://open.spotify.com/album/66KsjpCinRANmeDJ3ONaiy) | 3:40 |
 | 3 | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE) | [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW) | [Aviva\-Nos / A Terra Clama / Fogo e Glória](https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63) | 9:25 |
-| 4 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 |
-| 5 | [Estamos de Pé \- Ao Vivo](https://open.spotify.com/track/715slv9zyByop7EttlmTjQ) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG) | 6:36 |
+| 4 | [Estamos de Pé \- Ao Vivo](https://open.spotify.com/track/715slv9zyByop7EttlmTjQ) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Estamos de Pé \(Ao Vivo\)](https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG) | 6:36 |
+| 5 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 |
 | 6 | [Que o Cordeiro Receba \(feat\. Alessandro Vilas Boas\) \- Ao Vivo](https://open.spotify.com/track/5BSwIem2uF7yyKNF8h9n37) | [Flavio Vasques](https://open.spotify.com/artist/2Jroqtcn3pmgLSJfMc6KYf), [Alessandro Vilas Boas](https://open.spotify.com/artist/7nMA5jUpayvsedWUkX9lx7) | [Que o Cordeiro Receba \(feat\. Alessandro Vilas Boas\) \[Ao Vivo\]](https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe) | 9:22 |
 | 7 | [Herege](https://open.spotify.com/track/5yZBk4qrWmgRGcWHtt74ot) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Herege](https://open.spotify.com/album/1aZjMqH9pQ0RHhyjxOmEqv) | 4:09 |
 | 8 | [OH! Se Fendesses \- Ao Vivo](https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Ele É \(Ao Vivo\)](https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP) | 6:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 69 | [Essência](https://open.spotify.com/track/6NWnC1i5JJsuqcO94XkpzF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Essência](https://open.spotify.com/album/4o9nv6ts5TjlhYSQXMIxJ7) | 4:29 |
 | 70 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 |
 
-Snapshot ID: `MTY2NTc1NjQ2MSwwMDAwMDAwMDIwMDU4ODg2YmY4MjFjN2Y4MjE3M2FiM2FlYWFhNDA3`
+Snapshot ID: `MTY2NTc1NjQ2MSwwMDAwMDAwMDI3OWVhOWM2ZDQwMzhhYjQ2YTAwZWI2N2I0Zjg1YTQ0`

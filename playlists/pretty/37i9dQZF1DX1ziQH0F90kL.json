@@ -1,12 +1,12 @@
 {
   "description": "The Reggaeton hits of yesterday and today.",
-  "num_followers": 68711,
+  "num_followers": 68771,
   "original_name": "Now & Then Reggaeton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMDg4NzZhMGU3OThiOTkwOGRkOWU2NTBhYTMzZTg3OTgy",
+  "snapshot_id": "MTY1NDE5OTUxOSwwMDAwMDAwMGJjMjQ0OWZiMDIzZTEwM2E4N2VjYjcwMGZjMGRiMmNl",
   "tracks": [
     {
       "added_at": "2022-06-02 19:51:59",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2022-06-02 19:51:59",
       "album": {
-        "name": "Borracho",
-        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
-    },
-    {
-      "added_at": "2022-06-02 19:51:59",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 207786,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/1DdrejuwM8C3ExsXaPAgF8"
+    },
+    {
+      "added_at": "2022-06-02 19:51:59",
+      "album": {
+        "name": "Borracho",
+        "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
     },
     {
       "added_at": "2022-06-02 19:51:59",

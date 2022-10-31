@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-252 songs - 14 hr 17 min - [published](https://open.spotify.com/playlist/5HXLTrGkLfaN5i0vPRiA78)
+253 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/5HXLTrGkLfaN5i0vPRiA78)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 | 2022-09-08 |  |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2022-09-08 |  |
 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 | 2022-09-08 |  |
-| [Heart & Soul](https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/436wUKlBnir0ZcfpBTLixm) | 2:42 | 2022-10-28 |  |
+| [Heart & Soul](https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/436wUKlBnir0ZcfpBTLixm) | 2:42 | 2022-10-28 | 2022-10-31 |
+| [Heart & Soul](https://open.spotify.com/track/6PvtIeDteCDh7JVDjzQ2vF) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/1AqhupWS7VVO5LaAve8qCO) | 2:42 | 2022-10-30 |  |
 | [Heaven](https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven \[From "Fifty Shades Freed \(Original Motion Picture Soundtrack\)"\]](https://open.spotify.com/album/6L3gI00jSEv7LZB7bqt6rq) | 3:11 | 2022-09-08 |  |
 | [Heaven On My Mind \(with Sigala\)](https://open.spotify.com/track/4ksheDQWyWfjG5ETO0aokW) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 3:13 | 2022-09-08 |  |
 | [Hickie](https://open.spotify.com/track/1ZA1fwhekZjbYO8QOaoSnG) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Note to Self](https://open.spotify.com/album/7rFdqsJiYh3rFwR8r7Nn4Q) | 3:03 | 2022-09-08 |  |

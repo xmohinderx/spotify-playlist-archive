@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-369 songs - 21 hr 1 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+370 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,8 @@
 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 | 2021-03-02 | 2022-07-08 |
 | [Till Then](https://open.spotify.com/track/7IEaxDFdRJyEpKVYV6iAds) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/2QjhLePTnaWv2eBUbCwceA) | 3:21 | 2022-09-22 |  |
 | [To Be Young Gifted and Black](https://open.spotify.com/track/1mS95GjtVbZM0rIDjsOVW3) | [Bob Andy](https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4), [Marcia Griffiths](https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:06 | 2022-09-22 |  |
-| [Too Late \- 7" Mix](https://open.spotify.com/track/1BnIAYjpKyAkOHHx2xfeKn) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Best of Gregory Isaacs](https://open.spotify.com/album/1Y2S9QSaLyeg3hbyXRFZLM) | 2:47 | 2022-09-22 |  |
+| [Too Late \- 7" Mix](https://open.spotify.com/track/6Kc2RjSw2HXKNU2BZRlniN) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Winner \- The Roots of Gregory Isaacs 1974\-1978](https://open.spotify.com/album/0XiWne50xxHBDoEE1XoLz6) | 2:46 | 2022-09-22 |  |
+| [Too Late \- 7" Mix](https://open.spotify.com/track/1BnIAYjpKyAkOHHx2xfeKn) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [The Best of Gregory Isaacs](https://open.spotify.com/album/1Y2S9QSaLyeg3hbyXRFZLM) | 2:47 | 2022-09-22 | 2022-10-31 |
 | [Train To Skaville](https://open.spotify.com/track/466HPqJP2wrgOyI222XvPs) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Absolutely The Best Of Reggae Vol\. 1](https://open.spotify.com/album/0U9LMMfkDK3alar1KZ7JEX) | 2:54 | 2021-03-02 | 2022-07-29 |
 | [Train to Skaville](https://open.spotify.com/track/44L7aDHaRzb9pMWEZjSH8u) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Engine 54](https://open.spotify.com/album/5au1BqNBpQFx0TCmIE3KZz) | 2:57 | 2021-03-02 |  |
 | [Travelling Man](https://open.spotify.com/track/2XTSni6joC6dtqry69nXwH) | [The Techniques](https://open.spotify.com/artist/7aSGHNg5TRgbrzaUclcNAK) | [Little Did You Know](https://open.spotify.com/album/5B20Ijd7dySD3Edz69sQ2f) | 2:33 | 2022-09-22 |  |

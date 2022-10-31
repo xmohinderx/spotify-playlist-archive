@@ -1,12 +1,12 @@
 {
   "description": "The Corridos of yesterday and today all in one place!",
-  "num_followers": 22810,
+  "num_followers": 22836,
   "original_name": "Now & Then Corridos ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTk4NjkyOSwwMDAwMDAwMGY4ZmQ2MjgyYjU5ZmEwYTFmODVlYTVmMDE5ODYyNmQ3",
+  "snapshot_id": "MTY2NTk4NjkyOSwwMDAwMDAwMDFhMzA3NTcwMDc3NjQ4NjA1NmMyYjIwY2ZmYjE5N2Zi",
   "tracks": [
     {
       "added_at": "2022-10-17 06:08:49",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-17 06:08:49",
       "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
+    },
+    {
+      "added_at": "2022-10-17 06:08:49",
+      "album": {
         "name": "Los Mire Con Talento",
         "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 163000,
       "name": "Los Mire Con Talento",
       "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
-    },
-    {
-      "added_at": "2022-10-17 06:08:49",
-      "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": "2022-10-17 06:08:49",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-10-17 06:08:49",
       "album": {
-        "name": "Sencillo Soy",
-        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
+        "name": "14 Tucanazos Bien Pesados",
+        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
       "artists": [
         {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 172954,
-      "name": "Sencillo Soy",
-      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
+      "duration_ms": 163191,
+      "name": "Mis Tres Animales",
+      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
     },
     {
       "added_at": "2022-10-17 06:08:49",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-10-17 06:08:49",
       "album": {
-        "name": "14 Tucanazos Bien Pesados",
-        "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
+        "name": "Sencillo Soy",
+        "url": "https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv"
       },
       "artists": [
         {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         }
       ],
-      "duration_ms": 163191,
-      "name": "Mis Tres Animales",
-      "url": "https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p"
+      "duration_ms": 172954,
+      "name": "Sencillo Soy",
+      "url": "https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh"
     },
     {
       "added_at": "2022-10-17 06:08:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,709 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,789 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 49 | [La Vieja Escuela](https://open.spotify.com/track/7LCcSgOoFtUnfmG3kxzQ9F) | [4 de a Caballo](https://open.spotify.com/artist/41JHmI3S4Jo07FN7oXyeMI), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [La Vieja Escuela](https://open.spotify.com/album/1LcpnxXXFkmQ8evfFaUIXz) | 3:11 |
 | 50 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDA2NzJhZWRmOWYxZDdlOWNjZjczODE3N2ZhZDU4YjNlYg==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA3YWQ4MzFiOTdhMDY5ZDYyMjM1YWUyNjFjMjAzNzliOQ==`

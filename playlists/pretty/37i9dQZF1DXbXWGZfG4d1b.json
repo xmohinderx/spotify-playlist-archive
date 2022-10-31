@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 15767,
+  "num_followers": 15774,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDVlODI5YmRjMWFhMGRkZGNlOGE2YjYxYzM3NjU2MGQy",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDIxMmI5MmI2ZWIzNTgxNmU3MjQ5N2U4ODNlYzQwZTk4",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Doble de Riesgo",
-        "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 227979,
-      "name": "Tus Amigos de la Cia",
-      "url": "https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 230437,
       "name": "Que No",
       "url": "https://open.spotify.com/track/3xoF6TyldRJh0Fa2zIhEif"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Doble de Riesgo",
+        "url": "https://open.spotify.com/album/3AldHEpT3we5tF068rm14O"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 227979,
+      "name": "Tus Amigos de la Cia",
+      "url": "https://open.spotify.com/track/7HAiG8HPZWEUYy23xi2Hvu"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 186474,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/3KHUWqXRqY1F8Fh9MzbjmH"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 186474,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/36zwjrHtrOTS593mZiQz24"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -871,22 +871,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "AMORA",
-        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
+        "name": "El Pr\u00f3ximo Verano",
+        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
       },
       "artists": [
         {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 208822,
-      "name": "AMORA",
-      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+      "duration_ms": 269705,
+      "name": "El Pr\u00f3ximo Verano",
+      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -923,18 +919,38 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "El Pr\u00f3ximo Verano",
-        "url": "https://open.spotify.com/album/48IfeqDJcdA6ce5fxZ0oIv"
+        "name": "AMORA",
+        "url": "https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
         }
       ],
-      "duration_ms": 269705,
-      "name": "El Pr\u00f3ximo Verano",
-      "url": "https://open.spotify.com/track/5wnRZoCrnjF3Nqb9ZrSbqt"
+      "duration_ms": 208822,
+      "name": "AMORA",
+      "url": "https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Comprensi\u00f3n1",
-        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 145407,
-      "name": "5A",
-      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 230725,
       "name": "Sin Condiciones",
       "url": "https://open.spotify.com/track/7KBaqcgs2UAPZ3Tf3YCJaG"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Comprensi\u00f3n1",
+        "url": "https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 145407,
+      "name": "5A",
+      "url": "https://open.spotify.com/track/2T1g1V41vJ06rgVGMpBXMZ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 147053,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/1rDN4coWkaGReLYZ55WRWn"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
+      "duration_ms": 147053,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/2evNqTcmNYPUErVp1L9yNp"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "La Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7"
+        "name": "Mejor Sin Miedo",
+        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
       "artists": [
         {
-          "name": "Mauro Conforti & La Vida Marciana",
-          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
-        },
-        {
-          "name": "Haien",
-          "url": "https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu"
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
         }
       ],
-      "duration_ms": 175065,
-      "name": "La Ilusi\u00f3n",
-      "url": "https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q"
+      "duration_ms": 188632,
+      "name": "Mejor Sin Miedo",
+      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Mejor Sin Miedo",
-        "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
+        "name": "La Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/5DVRGgvC9qX7k7dZPz8ok7"
       },
       "artists": [
         {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+          "name": "Mauro Conforti & La Vida Marciana",
+          "url": "https://open.spotify.com/artist/30dlrYGnnNuIHRCAUP6dXr"
+        },
+        {
+          "name": "Haien",
+          "url": "https://open.spotify.com/artist/3hZeDi28TENOJwzyYR1dxu"
         }
       ],
-      "duration_ms": 188632,
-      "name": "Mejor Sin Miedo",
-      "url": "https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX"
+      "duration_ms": 175065,
+      "name": "La Ilusi\u00f3n",
+      "url": "https://open.spotify.com/track/4Pi4u4y0MNy3Il74fQHy3q"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Somos 2",
-        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 152264,
-      "name": "Somos 2",
-      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "ORDEN Y PROGRESO",
         "url": "https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 185002,
       "name": "ACUARIOS",
       "url": "https://open.spotify.com/track/5QyyzMLh3lYr88rJJmr8xf"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Somos 2",
+        "url": "https://open.spotify.com/album/06zzXQzjcg1tm4uZECft9p"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 152264,
+      "name": "Somos 2",
+      "url": "https://open.spotify.com/track/4KYJmmm4q5tUCJHR4w3vwK"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1503,18 +1503,34 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Mujer Cebra",
+        "url": "https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "XXYY",
+      "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Mujer Cebra",
-        "url": "https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3"
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
       "artists": [
         {
-          "name": "Mujer Cebra",
-          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 166536,
-      "name": "XXYY",
-      "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 233671,
       "name": "La Poesia Intermitente",
       "url": "https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "El Elogio de la Sombra",
-        "url": "https://open.spotify.com/album/13S2Q6iGiVAyCXP28hTTZ1"
-      },
-      "artists": [
-        {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
-        },
-        {
-          "name": "Joaqu\u00edn Vitola",
-          "url": "https://open.spotify.com/artist/4GHo23JMbtceTkGJdnEaXd"
-        }
-      ],
-      "duration_ms": 172315,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Sigo Dando Amor",
         "url": "https://open.spotify.com/album/4uw3Z2Eb92CPFMbjFsmtVu"
       },
@@ -1699,6 +1679,22 @@
       "duration_ms": 281750,
       "name": "Sigo Dando Amor",
       "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
+      },
+      "artists": [
+        {
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
+        }
+      ],
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     }
   ],
   "unique_name": "6PM Indie",

@@ -1440,6 +1440,24 @@
     },
     {
       "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202209,
+      "name": "No Love In LA",
+      "url": "https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK"
+    },
+    {
+      "album": {
         "name": "No Love In LA / Punching Bag",
         "url": "https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr"
       },
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-10-31",
       "duration_ms": 202656,
       "name": "No Love In LA",
       "url": "https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Lily Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,973 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,024 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 19 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
 | 20 | [Caravan](https://open.spotify.com/track/41D6o74AzOBpD4jQwRZ2ZF) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Caravan](https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb) | 3:04 |
 | 21 | [Haunted by Potential](https://open.spotify.com/track/4gnDGcNhLlQUEWIw76RnRc) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Haunted by Potential](https://open.spotify.com/album/34x7VUFi3qHl9NewJ8Sxe2) | 3:38 |
-| 22 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 |
+| 22 | [I Don't Care](https://open.spotify.com/track/5N1LnQuqkyjnECcgnceJ8s) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/7HKoDnOx3f2youZnMImKBi) | 3:03 |
 | 23 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 |
 | 24 | [you'd never know](https://open.spotify.com/track/1I2zZtHCrBkoTgfwxnNKZ9) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [you'd never know](https://open.spotify.com/album/7lv1W2OS7elIXJ8whpCYJW) | 3:05 |
 | 25 | [Magical Thinking](https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Magical Thinking](https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 99 | [Some Things Aren't Meant Forever](https://open.spotify.com/track/1jzM9IcYwaKZZLh1LTSxFc) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [how to get through a breakup](https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX) | 3:05 |
 | 100 | [Younger Self](https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5) | [Nancy Daines](https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR) | [Younger Self](https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe) | 3:23 |
 
-Snapshot ID: `MTY2Njk5NzMzOSwwMDAwMDAwMDk5ZjEyNDJkYTljY2RkMDA1ODllNWFkMWIyNzMzNzZi`
+Snapshot ID: `MTY2Njk5NzMzOSwwMDAwMDAwMGNhNjY3MjNkNzllZTViYjUxMWUzNjQ4ZDVkNGYyYzVi`

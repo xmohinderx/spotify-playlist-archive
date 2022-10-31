@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 454779,
+  "num_followers": 454907,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGQ4MjQ0Y2JkNTVhNGJmMDZlZTFjNzg5MThmNTZhZWVi",
+  "snapshot_id": "MTY0MTgxODc0MiwwMDAwMDAwMGFmZmNhMzdmM2VhMDgxYWU5Yzc5OWE3ZTdmMjI5YjQz",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -291,22 +291,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
-      },
-      "artists": [
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Altogether",
         "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 198600,
       "name": "I'm in the Mood for Dancing",
       "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
+      },
+      "artists": [
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2021-07-04 17:34:32",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 
 > This is Valentín Elizalde\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,828 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,976 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26EKuA.md) - [plain]
 | 49 | [Pa' Que Son Pasiones](https://open.spotify.com/track/3efT4wg1RQG0nkKrN2zegl) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Pa' Que Son Pasiones](https://open.spotify.com/album/3PBwBac0AfDItVJ7qe4l9U) | 3:12 |
 | 50 | [Catarino Y Los Rurales](https://open.spotify.com/track/1YLIdBkPxQwklrVk9RlzJP) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [En Vivo Desde Villa Juarez Sonora](https://open.spotify.com/album/0QkFGha0sQ1mFhuUEOKlxy) | 3:30 |
 
-Snapshot ID: `Mjc3ODQyMzEsMDAwMDAwMDBmY2FlZWZmYjA2YjJhYmZiY2RhOTUxNzhmNGJhZjhlYQ==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA2MmZhMThiMDE3NDRlMDkxMDk4ZDNmNjJjZDc5NzE3ZA==`

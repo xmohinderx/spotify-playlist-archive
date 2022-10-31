@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,650 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,671 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 37 | [Sea Lo Que Sea](https://open.spotify.com/track/2kiKVXbHnLIYaogcR9rb2T) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:18 |
 | 38 | [Le Dire Que Me Gusta](https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t), [Frank Velasquez](https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq) | [Mayor de Edad](https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ) | 3:11 |
 | 39 | [Chiquitita](https://open.spotify.com/track/1iG2hQLrcod9GNiBWqav7a) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Camina Sin Mirar Atras](https://open.spotify.com/album/4IUQ0cRqUA8Te5LlNMfeD0) | 4:45 |
-| 40 | [Cara Bonita](https://open.spotify.com/track/7xLcYIHPsPipnEkpoCQl11) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Con Banda Sinaloense](https://open.spotify.com/album/4iE9RvuOdi3H6lCwkWlm0b) | 3:18 |
-| 41 | [Juan Martha](https://open.spotify.com/track/6XxETo2rCSl3A9I6zXjR0f) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Los Mejores 15 Exitos](https://open.spotify.com/album/2nfLRPRrEuNLHbiOtxgdu9) | 3:46 |
-| 42 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/5bquzZnV00bIi7pTZZPeKy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Favoritas](https://open.spotify.com/album/4A3hrXyS9pAqrwbp0zK0ws) | 2:44 |
-| 43 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
-| 44 | [Clave Siete](https://open.spotify.com/track/4LJvzv6VvDuLZxQ1tGlexg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Exitos de Coleccion](https://open.spotify.com/album/3zjAmnX1cOJSFJu90xhVG5) | 3:56 |
-| 45 | [Es Por Ti](https://open.spotify.com/track/5LACTc0id37jxR2cVICzWJ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:31 |
+| 40 | [Juan Martha](https://open.spotify.com/track/6XxETo2rCSl3A9I6zXjR0f) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Los Mejores 15 Exitos](https://open.spotify.com/album/2nfLRPRrEuNLHbiOtxgdu9) | 3:46 |
+| 41 | [Cara Bonita](https://open.spotify.com/track/7xLcYIHPsPipnEkpoCQl11) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Con Banda Sinaloense](https://open.spotify.com/album/4iE9RvuOdi3H6lCwkWlm0b) | 3:18 |
+| 42 | [Ella \(Me Cansé De Rogarle\)](https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 3:22 |
+| 43 | [Me Gusta Tener de a Dos](https://open.spotify.com/track/5bquzZnV00bIi7pTZZPeKy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Favoritas](https://open.spotify.com/album/4A3hrXyS9pAqrwbp0zK0ws) | 2:44 |
+| 44 | [Es Por Ti](https://open.spotify.com/track/5LACTc0id37jxR2cVICzWJ) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:31 |
+| 45 | [Clave Siete](https://open.spotify.com/track/4LJvzv6VvDuLZxQ1tGlexg) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Exitos de Coleccion](https://open.spotify.com/album/3zjAmnX1cOJSFJu90xhVG5) | 3:56 |
 | 46 | [Loco \- Version Mariachi](https://open.spotify.com/track/1SFSlKPiGIhMUuTULvzdSO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/67sPpbNpfW5iOFwrZmbWb6) | 3:01 |
 | 47 | [De Nayarit a Tijuana](https://open.spotify.com/track/2NipbSffrwVdoKtv2PFLqa) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Ambiciosa](https://open.spotify.com/album/3NnfZz4LSjS7dJuLQtQrF6) | 2:49 |
-| 48 | [Esa Fue Mi Novia](https://open.spotify.com/track/0UfhN8MDNdqBeVJM2cYqSE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Exitos](https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13) | 2:27 |
-| 49 | [Hice De Todo](https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:50 |
+| 48 | [Hice De Todo](https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:50 |
+| 49 | [Esa Fue Mi Novia](https://open.spotify.com/track/0UfhN8MDNdqBeVJM2cYqSE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [20 Grandes Exitos](https://open.spotify.com/album/56x9DFswcIstlVuPa0WG13) | 2:27 |
 | 50 | [Cristaleros Michoacanos \- Banda](https://open.spotify.com/track/2xNgSqkOoSuTUq50Ma5W2h) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Corridos Ke Mandan](https://open.spotify.com/album/2jVrHdwjagxttYkQFypph8) | 2:42 |
 
-Snapshot ID: `Mjc3ODQyMzIsMDAwMDAwMDA0YzM3OGZmMTkzNWI0MTAyMDhkZmYyMmE0MThhYmFjYw==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBjZjYxZTBkZDVhYjY2N2ExMDgxMGRmZTE1YTI5MWVmYg==`

@@ -4,7 +4,7 @@
 
 > Hand\-curated cuts from the vault, no record player required.
 
-240 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
+241 songs - 17 hr 35 min - [published](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,10 +180,11 @@
 | [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2021-12-03 | 2022-10-13 |
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2022-09-15 |  |
 | [Pretty Bright Light](https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT) | [RSD](https://open.spotify.com/artist/5z8Vn9xoYJ3OXi6VSfohzF) | [Good Energy \(A Singles Collection\)](https://open.spotify.com/album/2SyWnW8ujtBeNV4SUvSOBL) | 5:08 | 2021-12-03 | 2022-03-10 |
-| [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 |  |
+| [Pueblo](https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT) | [Hugo](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Pueblo](https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ) | 1:43 | 2022-06-03 | 2022-10-31 |
 | [Raise It Up](https://open.spotify.com/track/5mS0JXt10eEjAeC7wVhEzU) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Raise It Up](https://open.spotify.com/album/3D7cYgUup0f9rtiSV9YfLn) | 2:37 | 2021-12-03 | 2022-07-29 |
 | [Raw Chef](https://open.spotify.com/track/3KfNOSIKV6kBpx6yesYEkC) | [F.S\. Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [2X1=4](https://open.spotify.com/album/1t6aWXi0WtgC6vyWnpNxdM) | 5:41 | 2021-12-03 | 2022-07-28 |
 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 | 2021-12-03 |  |
+| [Revelation Dub](https://open.spotify.com/track/1wCcfw6WxRWoic7UHV2Aez) | [Kabanjak](https://open.spotify.com/artist/5JelVUCQwLevnbFnjeiPK4) | [Fantastic Freeriding the Next Chapter](https://open.spotify.com/album/4m2o851gadxmuGsR8pJjDE) | 3:34 | 2022-09-15 |  |
 | [Romeo \(feat\. Bas\)](https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Romeo \(feat\. Bas\)](https://open.spotify.com/album/5D56sDvjs4SkBUQQ8kHAir) | 2:46 | 2021-12-03 |  |
 | [Safe In My Arms](https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 3:38 | 2021-12-03 | 2022-07-29 |
 | [Sauce](https://open.spotify.com/track/1vf8YxG1eBOulIZ7dvXRGk) | [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [That Secret Sauce](https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ) | 2:54 | 2021-12-03 | 2022-05-21 |

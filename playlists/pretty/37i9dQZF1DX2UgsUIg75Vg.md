@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Col3trane
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277,339 likes - 111 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,277,539 likes - 111 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 48 | [Angels & Queens](https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens](https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK) | 3:19 |
 | 49 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 |
 | 50 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
-| 51 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5c8r3GIga4OjvvefAs405K) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 |
+| 51 | [Fallen](https://open.spotify.com/track/5hYaxGftxpX2ViqdQWgtN2) | [DREAMPOOL](https://open.spotify.com/artist/1ner6qUxcQA3x3mdqLGhwQ), [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm), [Leon King](https://open.spotify.com/artist/5F0WhfIf9hNizpdTTV8Y0o) | [Fallen](https://open.spotify.com/album/3d6H4ynqGzeqrB6FABHaIf) | 3:03 |
 | 52 | [Waiting Line](https://open.spotify.com/track/2ocs2nQNMIbsqnnjn3UXFi) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [edbl & friends \- James Berkeley](https://open.spotify.com/album/1PWqHNJJqIVuy6Y2xYNa1C) | 3:25 |
 | 53 | [No Loot](https://open.spotify.com/track/5Xq1L2ILS866R5R6udOp3P) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/6GDRF8EqwmHYR7k5CxvNU4) | 2:43 |
 | 54 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |

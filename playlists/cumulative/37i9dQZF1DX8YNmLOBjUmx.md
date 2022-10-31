@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Måneskin
 
-114 songs - 6 hr 23 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
+115 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/1udUiCD9eyyN72NZN3L8o8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [My Town \(feat\. Joe Talbot\)](https://open.spotify.com/track/7wENOKvqU7Noq6cutuH9Bp) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sticky](https://open.spotify.com/album/3mU7AoUGdBqLu8LfjArZPK) | 2:44 | 2021-12-01 | 2022-10-13 |
 | [My Way, Soon](https://open.spotify.com/track/32NJ4kh1Aqrc9XGRoXvGie) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Battle at Garden’s Gate](https://open.spotify.com/album/7kjLKy9JLbwM9F7eDQEnd2) | 4:15 | 2021-12-01 |  |
 | [NERVOUS](https://open.spotify.com/track/10WvNF3jA8WiFTTKbl1gme) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Simon Neil](https://open.spotify.com/artist/1bacSIxMGJgKSpuzxRXpiz) | [NERVOUS](https://open.spotify.com/album/69N9gAB78UpWOcVB7rWcp0) | 4:06 | 2021-12-01 |  |
-| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2021-12-01 |  |
+| [No Love In LA](https://open.spotify.com/track/6bmJYonQyJrjlmBiGf9OeK) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:22 | 2021-12-01 |  |
+| [No Love In LA](https://open.spotify.com/track/3umZJ14AG4lctE7Dj7xEVn) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6eeA8ZWz6tMe2lpNQ9QOMr) | 3:22 | 2021-12-01 | 2022-10-31 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-12-01 | 2022-07-29 |
 | [Nothing Can Kill Us](https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 2:50 | 2021-12-01 |  |
 | [Nowhere Generation](https://open.spotify.com/track/3j7V0K2tn1IJF1Yciu91Gv) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:52 | 2021-12-01 |  |

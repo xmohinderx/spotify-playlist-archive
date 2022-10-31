@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,192 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,197 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 44 | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/track/22SS2T6TwIEI3FefmB9IRA) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Waiting On Me \(feat\. Swizz Beatz, YG, BIA & Giggs\)](https://open.spotify.com/album/61Lg0x5PtyijXiDxu9s8uJ) | 3:36 |
 | 45 | [BADSIDE](https://open.spotify.com/track/4i52IhZoFDXVxKhJewywbs) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BADSIDE](https://open.spotify.com/album/3j7poPDs9oT3VEMtPdw8jf) | 3:44 |
 | 46 | [SUPABIEN](https://open.spotify.com/track/5rxgQs8vyfy4z3IErxGscx) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 1:43 |
-| 47 | [OMG](https://open.spotify.com/track/0KZgWM9NQnbJYxP31XtL4k) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [OMG](https://open.spotify.com/album/3Sdnzuh874KS2fpvbOKfVh) | 3:01 |
-| 48 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 |
+| 47 | [Gucci Comin' Home](https://open.spotify.com/track/4r6AFRv8b4KurDJvm7BZ5N) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Gucci Comin' Home](https://open.spotify.com/album/1dXVrNCauP1ZD51Xc2LCIU) | 2:59 |
+| 48 | [OMG](https://open.spotify.com/track/0KZgWM9NQnbJYxP31XtL4k) | [Maejor](https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [OMG](https://open.spotify.com/album/3Sdnzuh874KS2fpvbOKfVh) | 3:01 |
 | 49 | [FUNGSHWAY](https://open.spotify.com/track/1FPKkqAxaTAxLsercL5u4g) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FUNGSHWAY](https://open.spotify.com/album/42wFEFxRYzwQiDyKIYn5pO) | 2:59 |
 | 50 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 
-Snapshot ID: `Mjc3ODQyMzIsMDAwMDAwMDAyODk1YWFmNTI1ODI0YzA0MzFkZDNkNjIzYTI0NzM2ZA==`
+Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA2ZDA2ODg1MmIxNmI4NzQzN2JlMzdhNTViZTIzMjdlNg==`

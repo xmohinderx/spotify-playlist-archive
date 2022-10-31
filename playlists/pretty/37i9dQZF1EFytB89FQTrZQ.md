@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,974 likes - 229 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,973 likes - 229 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 9 | [Instruction \(feat\. Demi Lovato & Stefflon Don\)](https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:45 |
 | 10 | [Gecko \(Overdrive\)](https://open.spotify.com/track/3nNqmaZvoRqVV8RUOP9CCt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\)](https://open.spotify.com/album/0Sj3xIEjtRDCycGXNdv7bu) | 2:45 |
 | 11 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
-| 12 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
-| 13 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
+| 12 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
+| 13 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
 | 14 | [Hold Up](https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:41 |
 | 15 | [MORE & MORE](https://open.spotify.com/track/2bAAj29XGc4h1G4oEGYCmg) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 3:19 |
 | 16 | [Wasabi](https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 2:34 |
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 192 | [FEEL YOU](https://open.spotify.com/track/70tZOuiCoXijXf0k9UkL6R) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 4:07 |
 | 193 | [Side](https://open.spotify.com/track/3FCPnsGbuiMkulse3bIwac) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [The Update](https://open.spotify.com/album/6JYgOftBgWHRATb0Euhuu0) | 3:29 |
 | 194 | [THE SECOND I'M RICH](https://open.spotify.com/track/1PXp44geCGN7CAYx2Wvgv9) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK) | [22 MINUTES LATER](https://open.spotify.com/album/6XKzZUj9aeS1YygwyVVrG7) | 3:31 |
-| 195 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
-| 196 | [Heart & Soul](https://open.spotify.com/track/43CUlaY5YEGT9FAswTrge2) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/436wUKlBnir0ZcfpBTLixm) | 2:42 |
+| 195 | [Heart & Soul](https://open.spotify.com/track/6PvtIeDteCDh7JVDjzQ2vF) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [Heart & Soul](https://open.spotify.com/album/1AqhupWS7VVO5LaAve8qCO) | 2:42 |
+| 196 | [18](https://open.spotify.com/track/2QbbUFIQwpTutcyGaMwcPt) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [18](https://open.spotify.com/album/7yKSrXrzR1AyTYJv74zAsk) | 3:28 |
 | 197 | [Obsessive](https://open.spotify.com/track/2yAMjZcxepb11bPIuEJIBq) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/4rRbuLIqkwT2gAMfhKuXNq) | 3:04 |
 | 198 | [I Heard Love](https://open.spotify.com/track/1ZKbC4vkxqFEsWCqKCcJ6y) | [IV Rox](https://open.spotify.com/artist/6r1dwRRUw0Kta4L2r9jE1g), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [I Heard Love](https://open.spotify.com/album/3bfp1AZpIfWWw1cmkbB67h) | 2:42 |
 | 199 | [Stay Up Late](https://open.spotify.com/track/6HwcP5hOF6tEshbe7TK1v7) | [Monsieur Adi](https://open.spotify.com/artist/4KF0B66rZU4yV2hruz7YN4), [Red](https://open.spotify.com/artist/0c40kUZxVfkOXQe2mGaSY4) | [Stay Up Late](https://open.spotify.com/album/1eyjlAkoMsxOWfetHbNgyD) | 3:38 |
@@ -238,4 +238,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 228 | [Be \- Interlude](https://open.spotify.com/track/0dnBbRsly9KvuxI8x6FJqT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:17 |
 | 229 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 
-Snapshot ID: `Mjc3ODQ4NjUsMDAwMDAwMDBmNDMwZDViOTdmNjU5NDY2M2ExZTU1Y2E0OGE1YWYyNg==`
+Snapshot ID: `Mjc3ODYzMDUsMDAwMDAwMDA2NWM2NDlhYjVkY2M2MzA0YTY3ODAzZjE0MjMwOWMzNg==`

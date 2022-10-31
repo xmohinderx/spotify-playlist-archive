@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Brun\u00e3o Morada",
-  "num_followers": 108265,
+  "num_followers": 108305,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDIwMDU4ODg2YmY4MjFjN2Y4MjE3M2FiM2FlYWFhNDA3",
+  "snapshot_id": "MTY2NTc1NjQ2MSwwMDAwMDAwMDI3OWVhOWM2ZDQwMzhhYjQ2YTAwZWI2N2I0Zjg1YTQ0",
   "tracks": [
     {
       "added_at": "2022-10-14 14:07:40",
@@ -63,6 +63,22 @@
     {
       "added_at": "2022-10-14 14:07:40",
       "album": {
+        "name": "Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
+      },
+      "artists": [
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 396911,
+      "name": "Estamos de P\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
+    },
+    {
+      "added_at": "2022-10-14 14:07:40",
+      "album": {
         "name": "Assume a Responsa",
         "url": "https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 259862,
       "name": "Assume a Responsa",
       "url": "https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg"
-    },
-    {
-      "added_at": "2022-10-14 14:07:40",
-      "album": {
-        "name": "Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6lXUIWSsJYF3slmnIatAuG"
-      },
-      "artists": [
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 396911,
-      "name": "Estamos de P\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/715slv9zyByop7EttlmTjQ"
     },
     {
       "added_at": "2022-10-14 14:07:40",

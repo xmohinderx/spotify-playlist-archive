@@ -1,28 +1,28 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 11806,
+  "num_followers": 11854,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMzMjkzNCwwMDAwMDAwMDYzMDIzNTI0MjBiNTBhMjAxOGRjMTkzOWJmZmE4NTM5",
+  "snapshot_id": "MTY2NzEyOTEwMywwMDAwMDAwMDkwYWJmMDZmMzAxN2YwNjAwMWFkOTFhNjVhZWM0ODEx",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 210346,
-      "name": "Common Person",
-      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
+      "duration_ms": 183829,
+      "name": "Nzaza",
+      "url": "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b"
     },
     {
       "added_at": "2022-08-05 07:46:32",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
     },
     {
+      "added_at": "2022-09-09 09:21:43",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Ototo",
+      "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
+    },
+    {
       "added_at": "2021-07-05 06:40:30",
       "album": {
         "name": "Twice As Tall",
@@ -73,20 +89,28 @@
       "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-10-30 11:25:03",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "YOUNG PREACHER",
+        "url": "https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         }
       ],
-      "duration_ms": 183829,
-      "name": "Nzaza",
-      "url": "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b"
+      "duration_ms": 181250,
+      "name": "FAKE NIKES (feat. Blxckie & Cheque)",
+      "url": "https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy"
     },
     {
       "added_at": "2022-10-21 06:15:34",
@@ -137,20 +161,20 @@
       "url": "https://open.spotify.com/track/1D4hpAqcDvnWI7AizCRpcL"
     },
     {
-      "added_at": "2022-09-09 09:21:43",
+      "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 156734,
-      "name": "Ototo",
-      "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
     },
     {
       "added_at": "2021-10-01 05:40:45",
@@ -171,6 +195,22 @@
       "duration_ms": 232500,
       "name": "Want It All (feat. Polo G)",
       "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "added_at": "2022-10-30 11:25:03",
+      "album": {
+        "name": "No Religion",
+        "url": "https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        }
+      ],
+      "duration_ms": 137147,
+      "name": "No Religion",
+      "url": "https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP"
     },
     {
       "added_at": "2021-07-05 06:40:30",
@@ -211,6 +251,22 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2022-10-30 11:25:03",
+      "album": {
+        "name": "Sounds from the Slums",
+        "url": "https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu"
+      },
+      "artists": [
+        {
+          "name": "Larruso",
+          "url": "https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Make a Way",
+      "url": "https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI"
     },
     {
       "added_at": "2022-09-09 09:21:43",
@@ -305,20 +361,32 @@
       "url": "https://open.spotify.com/track/4ugk39VVWM6HHxvhTD1OSF"
     },
     {
-      "added_at": "2022-10-13 23:00:00",
+      "added_at": "2022-10-30 11:25:03",
       "album": {
-        "name": "I Appreciate",
-        "url": "https://open.spotify.com/album/7Dl0Af6heAdgdG2yXSamlA"
+        "name": "Happily Ever After",
+        "url": "https://open.spotify.com/album/1CyOpQIKz9ScoXOgEQUQaf"
       },
       "artists": [
         {
-          "name": "YAW BERK",
-          "url": "https://open.spotify.com/artist/5nCRn3Xb3daKxoy7GtWLgD"
+          "name": "M3dal",
+          "url": "https://open.spotify.com/artist/2djlkuPiXmdN2kTGSuX9Qq"
+        },
+        {
+          "name": "GIDI",
+          "url": "https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI"
+        },
+        {
+          "name": "Brenya",
+          "url": "https://open.spotify.com/artist/2MTCgcnZ7XfN5Xbkzeuswe"
+        },
+        {
+          "name": "Yung6ix",
+          "url": "https://open.spotify.com/artist/1q2U0RJo12z8YmBfb1RwOt"
         }
       ],
-      "duration_ms": 162873,
-      "name": "I Appreciate",
-      "url": "https://open.spotify.com/track/3kjmP9UbEJyvmAHRgqKCTy"
+      "duration_ms": 216746,
+      "name": "Governor",
+      "url": "https://open.spotify.com/track/5u3K16NYnDR8llAqKIcdYF"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -593,26 +661,6 @@
       "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
     },
     {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "\u00c0j\u00e0l\u00e1 Travel (Remix)",
-        "url": "https://open.spotify.com/album/2DsBLOT4nk3UjFq80hw3Pz"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 199439,
-      "name": "\u00c0j\u00e0l\u00e1 Travel (Remix)",
-      "url": "https://open.spotify.com/track/5SBpWlMbFWtW8XKh6mOWFp"
-    },
-    {
       "added_at": "2021-07-05 06:40:30",
       "album": {
         "name": "Outside",
@@ -767,22 +815,6 @@
       "duration_ms": 154070,
       "name": "Our Father",
       "url": "https://open.spotify.com/track/1DEVIcioSRXQrY8QMTqazG"
-    },
-    {
-      "added_at": "2022-01-20 23:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167499,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
     },
     {
       "added_at": "2022-07-14 23:00:00",
@@ -1331,30 +1363,6 @@
       "duration_ms": 186666,
       "name": "Daddy (feat. Chillz)",
       "url": "https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW"
-    },
-    {
-      "added_at": "2022-02-17 23:00:00",
-      "album": {
-        "name": "MMM (feat. MohBad & Rexxie)",
-        "url": "https://open.spotify.com/album/2c0Hw7NttM43n6upLfPsvE"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "MMM (feat. MohBad & Rexxie)",
-      "url": "https://open.spotify.com/track/6x9rQpOpQUg1R9SW9CVt5f"
     },
     {
       "added_at": "2022-01-20 23:00:00",

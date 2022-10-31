@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Stormzy, DJ Khaled, Megan Thee Stallion and more
 
-86 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
+87 songs - 4 hr 44 min - [published](https://open.spotify.com/playlist/14bEBF0XIXvpomoPm6muAO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-06-16 |  |
 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 | 2022-09-29 |  |
 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 | 2022-10-07 |  |
-| [LOCATION 58](https://open.spotify.com/track/1bAmibDN20SFZWrAaHmDPJ) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [LOCATION 58](https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h) | 3:07 | 2022-08-19 |  |
+| [LOCATION 58](https://open.spotify.com/track/1bAmibDN20SFZWrAaHmDPJ) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [LOCATION 58](https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h) | 3:07 | 2022-08-19 | 2022-10-31 |
+| [Location 58](https://open.spotify.com/track/24Tr8EkduWD1T6lA2ubiRO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Location 58](https://open.spotify.com/album/3tYkRgiqgc6Tld3aRIvNsi) | 3:07 | 2022-08-19 |  |
 | [Love](https://open.spotify.com/track/0wj0rGLu2CnpGEZBiXcZZi) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 1:55 | 2022-06-16 | 2022-08-20 |
 | [Love Me](https://open.spotify.com/track/4e0FYxSROat25pH16zMTZI) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:57 | 2022-06-16 | 2022-09-23 |
 | [Mel Made Me Do It](https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Mel Made Me Do It](https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw) | 7:20 | 2022-09-22 |  |

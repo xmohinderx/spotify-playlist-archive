@@ -1,15 +1,15 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 38154,
+  "num_followers": 38214,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY1MDhjYjYyZjhkNGRlMDFmNWFkMDlhZTI4MDAxYzI3",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDJmZWEzZjVhMGZlMDJmNTNmNzgxYmIyMjNkNDlmZjFh",
   "tracks": [
     {
-      "added_at": "2022-10-30 01:20:51",
+      "added_at": "2022-10-31 01:21:44",
       "album": {
         "name": "Convergency",
         "url": "https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
-      "added_at": "2022-10-30 01:20:51",
+      "added_at": "2022-10-31 01:21:44",
       "album": {
         "name": "Cupid Shuffle",
         "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
     },
     {
-      "added_at": "2022-10-30 01:20:51",
+      "added_at": "2022-10-31 01:21:44",
       "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1"
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
+      "added_at": "2022-05-06 04:02:00",
+      "album": {
+        "name": "The Trilogy, Pt. 3: White",
+        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 308092,
+      "name": "Step into Love",
+      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "In His Vision",
@@ -367,22 +383,6 @@
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
-    },
-    {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "The Trilogy, Pt. 3: White",
-        "url": "https://open.spotify.com/album/5JOp5nvHOvF3jLQ0MaidMh"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 308092,
-      "name": "Step into Love",
-      "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -533,6 +533,38 @@
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "G-Stream 2-Turn It Up",
+        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 270946,
+      "name": "G-Wiggle",
+      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "After Party",
@@ -569,22 +601,6 @@
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "Look Both Ways",
@@ -599,22 +615,6 @@
       "duration_ms": 283760,
       "name": "Look Both Ways",
       "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "G-Stream 2-Turn It Up",
-        "url": "https://open.spotify.com/album/69dx6W2l6wJdcvRYhFDlt8"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 270946,
-      "name": "G-Wiggle",
-      "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -713,38 +713,6 @@
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Stride",
-        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
-      },
-      "artists": [
-        {
-          "name": "Eric Essix",
-          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Stride",
-      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
-    },
-    {
       "added_at": "2022-07-01 04:02:00",
       "album": {
         "name": "Making Love To You",
@@ -763,6 +731,38 @@
       "duration_ms": 285069,
       "name": "Making Love To You",
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Stride",
+        "url": "https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF"
+      },
+      "artists": [
+        {
+          "name": "Eric Essix",
+          "url": "https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Stride",
+      "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Here She Comes",
-        "url": "https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 219777,
-      "name": "Here She Comes",
-      "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
-    },
-    {
       "added_at": "2022-02-14 15:14:54",
       "album": {
         "name": "A Midnight Rendezvous",
@@ -831,6 +815,22 @@
       "duration_ms": 237586,
       "name": "Pioneer Town",
       "url": "https://open.spotify.com/track/53djpTONT01aF8xYjuLosr"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Here She Comes",
+        "url": "https://open.spotify.com/album/3YJsSNEY87S84ghTUPvCbk"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 219777,
+      "name": "Here She Comes",
+      "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -849,24 +849,24 @@
       "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2022-04-01 04:02:00",
       "album": {
-        "name": "Radio Vibe",
-        "url": "https://open.spotify.com/album/3GjKiMur3GBEWHIrQEjjTq"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/0MurAaGHilyDEL78yDIYGA"
       },
       "artists": [
         {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
         },
         {
-          "name": "Jeanette Harris",
-          "url": "https://open.spotify.com/artist/7jGPYcJEXorMuY90PnvvXn"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 249529,
-      "name": "Radio Vibe - radio single",
-      "url": "https://open.spotify.com/track/37kqA5lnqJMJzDXeVuiTgj"
+      "duration_ms": 274096,
+      "name": "Busta Move",
+      "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
     }
   ],
   "unique_name": "New Smooth Jazz",

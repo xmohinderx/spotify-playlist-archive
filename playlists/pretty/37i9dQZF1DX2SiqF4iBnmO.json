@@ -1,12 +1,12 @@
 {
   "description": "A more than 40 years spanning collection of multi-genre music produced on a TR-808 drum machine. Cover: Egyptian Lover",
-  "num_followers": 48955,
+  "num_followers": 49097,
   "original_name": "808 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMDhkMjIxNmFhYjYyMzA2NWJiODEyNDhiNzE3YjEwZGJl",
+  "snapshot_id": "MTYzNTI1NjEyOSwwMDAwMDAwMGY0YzE1OWUzMmU1YjY0MmU3ZTQ0YTZjYzAyYTc4NjVl",
   "tracks": [
     {
       "added_at": "2021-10-20 15:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 191306,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Mista Don't Play: Everythangs Workin",
         "url": "https://open.spotify.com/album/71GZEl78TMbuZ1sBbjDGZw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 253360,
       "name": "Chickenhead (feat. Three 6 Mafia & La Chat)",
       "url": "https://open.spotify.com/track/2rOiZGbR0wwI0ip0wSAK26"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 191306,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
       "added_at": "2021-10-20 15:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2021-10-20 15:00:00",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Clear",
-      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
-    },
-    {
-      "added_at": "2021-10-20 15:00:00",
-      "album": {
         "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
         "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 409648,
       "name": "Feels So Real (Won't Let Go) - 12\" Version",
       "url": "https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ"
+    },
+    {
+      "added_at": "2021-10-20 15:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Clear",
+      "url": "https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr"
     },
     {
       "added_at": "2021-10-20 15:00:00",

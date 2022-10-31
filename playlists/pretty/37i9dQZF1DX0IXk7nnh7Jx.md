@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence! Cover: John Mark McMillan
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,793 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,804 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 33 | [Loved by You](https://open.spotify.com/track/6MAjOwyEXcZtwZUPNpIeij) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Loved by You](https://open.spotify.com/album/3ee6AoUEELOwg9kAGkSfwm) | 4:54 |
 | 34 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
 | 35 | [Held by Your Love](https://open.spotify.com/track/0dg0c9iEAUZkMb7bKjMjVK) | [Lion & Bear](https://open.spotify.com/artist/5TsRb3Um92OMG44jdhhk1g) | [Hollows](https://open.spotify.com/album/2imamoQz5Xq5JRVd1SFP0l) | 4:26 |
-| 36 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
-| 37 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
+| 36 | [DNA](https://open.spotify.com/track/0UtnmtF2Tj880Xs1sRP3gb) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:47 |
+| 37 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 |
 | 38 | [Falling Up](https://open.spotify.com/track/1sL6ZOwabMjS7h4dQVvkeC) | [Laity](https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41) | [LET YOURSELF BE LOVED](https://open.spotify.com/album/1Ru5mrSp6RQUPpQFf0doee) | 3:19 |
 | 39 | [Light of Your Grace](https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Light of Your Grace](https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD) | 3:09 |
 | 40 | [Worth It All](https://open.spotify.com/track/0LO9dTebf6qQ8apUEF93VI) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [Worth It All](https://open.spotify.com/album/3BYHGBqcqYRwby8vAk5xXD) | 3:37 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 49 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
 | 50 | [Trust](https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD) | [The Bookouts](https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF) | [Trust](https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN) | 5:20 |
 | 51 | [Sunday Morning](https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Sunday Morning](https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY) | 4:59 |
-| 52 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 |
-| 53 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 |
+| 52 | [Trust](https://open.spotify.com/track/0sPyXfEgBXTAvI5LMdyY91) | [Strahan](https://open.spotify.com/artist/4x0DaBFhtHy0ol0ia4UJaP) | [Trust](https://open.spotify.com/album/4FG2QHZ20IVXsbyYY4Jz64) | 5:17 |
+| 53 | [Where Would I Be](https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm) | [Seeker & Servant](https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu) | [Leaving Shadowland](https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE) | 3:26 |
 | 54 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
 | 55 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 |
 | 56 | [Follow Me](https://open.spotify.com/track/2Qq5fpfXnpqWvHsvXuMH3O) | [Angelique Marketon](https://open.spotify.com/artist/75aegD7DtUiK9w9LP9iwsA) | [Follow Me](https://open.spotify.com/album/0VUJTXs1I6cpspWGfjcIjJ) | 5:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 59 | [Never Grow Tired](https://open.spotify.com/track/68m3fFj8up50boqi077Yr8) | [The Evidence](https://open.spotify.com/artist/4MED9DlaFRdyMhD445Wqxe) | [Never Grow Tired](https://open.spotify.com/album/6YsIjF6Wr2kPr25CVI3F7M) | 4:21 |
 | 60 | [What Living's All About](https://open.spotify.com/track/6NPKhuDKnzS9U7HWzUhVxe) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [What Living's All About](https://open.spotify.com/album/6j6dWYkn8W6sZdyJw1NWqU) | 3:06 |
 
-Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMDZlYjljNTUyZWZhNTc5YTZkZTE5OTg3OGVmYWYyOGRh`
+Snapshot ID: `MTYwODI3MTMzNCwwMDAwMDAwMGE5Y2JhNTU2ZWVlM2QxODk3ZDM5MWRmMmQ5NjVjMGVh`

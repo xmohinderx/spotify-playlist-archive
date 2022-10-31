@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ?si=s7Ba4WY\_RJ63\_SmmSavT\-g">Black Sherif </a>
 
-130 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
+131 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/1XAJ71W9OWLJNt1VAjOZn2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 | 2021-06-18 | 2022-05-06 |
 | [Bebe](https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Bebe](https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6) | 2:07 | 2022-06-16 | 2022-08-26 |
 | [Big Flexa](https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [C'buda M](https://open.spotify.com/artist/3rdDFMUUzxsQODbgrY6mCf), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup), [Banaba Des](https://open.spotify.com/artist/02CpmHJhuAVY5YybphI3Wn), [Sdida](https://open.spotify.com/artist/7MVdJWzuMTtXvvaovjs3bB), [Man T](https://open.spotify.com/artist/5syvopnKgETMISE53XS578) | [Big Flexa](https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3) | 5:27 | 2022-06-30 |  |
-| [BLICKY](https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:55 | 2022-05-20 |  |
+| [Blicky](https://open.spotify.com/track/5vhSfPxnK4ldS5ZMmrfZnc) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:55 | 2022-09-15 |  |
+| [BLICKY](https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:55 | 2022-05-20 | 2022-10-31 |
 | [Bling \(feat\. Amaarae & Buju\)](https://open.spotify.com/track/7MQ2FWFVuim1L1O3wXjkdZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 3:50 | 2021-05-03 | 2022-05-06 |
 | [Bloody Samaritan](https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:07 | 2021-10-08 |  |
 | [Caro](https://open.spotify.com/track/4IeThM9hJimbEGQTnYZSMC) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [YP & Azanti, Vol\. 1](https://open.spotify.com/album/25LfqQ1lXE7en9Ktzvcbck) | 3:08 | 2021-05-03 | 2022-05-06 |
