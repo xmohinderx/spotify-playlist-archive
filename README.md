@@ -4548,6 +4548,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Top 50 \- Vietnam](/playlists/pretty/37i9dQZEVXbLdGSmz6xilI.md)
 - [Top Boy Official Playlist](/playlists/pretty/37i9dQZF1DWTuEPedcYvVB.md)
 - [Top Brasil](/playlists/pretty/37i9dQZF1DX0FOF1IUWK1W.md)
+- [Top Cantopop Hits](/playlists/pretty/37i9dQZF1DWW6TogMpx8Q2.md)
 - [Top Christian & Gospel](/playlists/pretty/37i9dQZF1DXcb6CQIjdqKy.md)
 - [Top Christian Contemporary](/playlists/pretty/37i9dQZF1DWUileP28ODwg.md)
 - [Top Christian Presents..\. Best Christian & Gospel Songs of 2021](/playlists/pretty/37i9dQZF1DXbrknLz4Do7C.md)
