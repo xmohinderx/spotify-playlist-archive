@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 143953,
+  "num_followers": 144054,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDg1NWM2MjhjMDNjZGU1NTY2N2RkY2ViZTI2MWIxODA5",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMGFhMDM1NDEwOTVlOWM5Yzc4ZGRhZDYxZjNlNWRjNDFl",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup - Mono",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Bayou Country (Expanded Edition)",
         "url": "https://open.spotify.com/album/5pCRW9AT4BgoMOS52pRoJq"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 187213,
       "name": "Proud Mary",
       "url": "https://open.spotify.com/track/6pxWv6GV35VGmcPf5dh6CH"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup - Mono",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street - Stereo",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -575,22 +559,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Soul Men",
         "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
@@ -603,6 +571,38 @@
       "duration_ms": 159000,
       "name": "Soul Man",
       "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street - Stereo",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "A Hard Day's Night (Remastered)",
         "url": "https://open.spotify.com/album/6wCttLq0ADzkPgtRnUihLV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 154200,
       "name": "A Hard Day's Night - Remastered 2009",
       "url": "https://open.spotify.com/track/5J2CHimS7dWYMImCHkEFaJ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "This Old Heart Of Mine",
         "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -735,6 +719,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hums Of The Lovin' Spoonful",
-        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Summer in the City - Remastered",
-      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Summer in the City - Remastered",
+      "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Up-Tight",
-        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Comin' Home Baby",
         "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 165360,
       "name": "Comin' Home Baby",
       "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Up-Tight",
+        "url": "https://open.spotify.com/album/0qnHA4SDco9mPuWGzDqVDK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Twist & Shout",
-        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "Twist And Shout",
-      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 149800,
       "name": "Take Good Care Of My Baby",
       "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Twist & Shout",
+        "url": "https://open.spotify.com/album/7jfWeD13O9Y9AOdVSMtGDT"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Twist And Shout",
+      "url": "https://open.spotify.com/track/7iFdUmdqT9XrsJdSGf9KrX"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Elvis 30 #1 Hits (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Viva Las Vegas (Bonus Track)",
-      "url": "https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Star Time",
-        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+        "name": "Elvis 30 #1 Hits (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
         }
       ],
-      "duration_ms": 128173,
-      "name": "Papa's Got A Brand New Bag",
-      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+      "duration_ms": 144840,
+      "name": "Viva Las Vegas (Bonus Track)",
+      "url": "https://open.spotify.com/track/6qNY8xr8GNcvskh5GkVS7b"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 106066,
       "name": "The Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Star Time",
+        "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 128173,
+      "name": "Papa's Got A Brand New Bag",
+      "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,628 likes - 39 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,642 likes - 39 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 38 | [Polaroids of Polar Bears](https://open.spotify.com/track/6PXHIf7p7t4BaTD1j5jy1U) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:08 |
 | 39 | [Tonight, I'm Going to Wash the Hippy](https://open.spotify.com/track/71XUygQBakUzroHHcXHXg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [The Switcheroo Series](https://open.spotify.com/album/0TTp9wSNMiDXxb8003wzAP) | 5:47 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA3N2U1ZmRlNzc2NTg0MGNkOWJkMDQxNGMxY2E5ZWFkYw==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDAxYTM3ZDBlNzMwYjY3NGFkY2I0OGM5MjRiNTA4MDU3YQ==`

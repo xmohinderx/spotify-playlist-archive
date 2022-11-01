@@ -2003,7 +2003,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 366306,
       "name": "Cover Up",
       "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
@@ -4629,7 +4629,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 265000,
       "name": "It Was A Very Good Year",
       "url": "https://open.spotify.com/track/37vFLEQMtzQCnZC3Uy0Qtd"
@@ -6272,6 +6272,24 @@
     },
     {
       "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/3MIbD4YIed4Yt1hrHq5zqU"
+      },
+      "artists": [
+        {
+          "name": "Flo Blue",
+          "url": "https://open.spotify.com/artist/26xMgiYGCqdjCitorf1MoF"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252017,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/7zhVCBnlJu0HSpULPSoOpB"
+    },
+    {
+      "album": {
         "name": "Turn Up The Quiet",
         "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
       },
@@ -6591,7 +6609,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 308192,
       "name": "One Day, Forever",
       "url": "https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06"

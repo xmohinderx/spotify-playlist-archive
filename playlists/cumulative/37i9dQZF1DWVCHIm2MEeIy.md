@@ -4,7 +4,7 @@
 
 > Time to rave again.
 
-243 songs - 23 hr 7 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
+244 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/5ZDZU4DCEvLnxIZybyWNjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Greece 2000 \- Sean Finn Radio Edit](https://open.spotify.com/track/6PujLWvaXM1jUF7IXvs2CF) | [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS), [No Hopes](https://open.spotify.com/artist/4eRfkq2oGeOhnEEndl184K) | [Greece 2000 \(Radio Edits\)](https://open.spotify.com/album/3wLV28G8AcsDFgRAdvKBFL) | 2:55 | 2022-04-15 | 2022-07-29 |
 | [Gummihammer](https://open.spotify.com/track/2gOvWkgY153efoAcywh7pi) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [KOMMIT](https://open.spotify.com/album/3jjmGtJT3ZHFV272azCeYl) | 6:47 | 2022-04-15 |  |
 | [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/0L11P6fPsxE8x5jGGHdL0z) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5KthnKFWptxsMyEXxmvBei) | 5:29 | 2022-04-15 | 2022-07-29 |
-| [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 | 2022-06-24 |  |
+| [Hands On..\. Don't Waste My Time](https://open.spotify.com/track/7zPHYX5tpIZYszcKrwfOo0) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Hands On...](https://open.spotify.com/album/5HCJLQJG0k7lMLXyi5zcT1) | 5:29 | 2022-06-24 | 2022-11-01 |
 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 | 2022-04-15 |  |
 | [Heaven \- Oliver Schories Club Mix](https://open.spotify.com/track/2ZtjuNdPKbiRlxCAm7J8Tt) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Heaven \(Oliver Schories Club Mix\)](https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn) | 3:45 | 2022-10-14 |  |
 | [HI](https://open.spotify.com/track/5x0lhxt4DBf7ja3RRCLCXF) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [HI](https://open.spotify.com/album/2wj4oyjeXPn6XlGxsaqAmB) | 8:25 | 2022-04-15 | 2022-05-19 |
@@ -148,6 +148,7 @@
 | [Moonspell](https://open.spotify.com/track/1ffXmvAVzxOGTbsxgKxJrk) | [Elif \(TR\)](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Moonspell](https://open.spotify.com/album/0XoIr7qWzP0nAY80UmnLAF) | 7:46 | 2022-04-15 | 2022-06-01 |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 | 2022-07-20 |
 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 | 2022-10-29 |  |
+| [Moving On](https://open.spotify.com/track/0LJ33gGNQlxoLJlOsZLGNE) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/1ggOs7osv7Gtv6w5Pf9rwl) | 3:25 | 2022-10-14 |  |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |

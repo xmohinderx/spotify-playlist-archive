@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-809 songs - 1 day 18 hr 17 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
+810 songs - 1 day 18 hr 21 min - [published](https://open.spotify.com/playlist/5DcefufghevVf1SGhXA5NO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,7 @@
 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 | 2019-06-23 | 2021-10-11 |
 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 | 2019-05-26\* |  |
 | [The End](https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 11:43 | 2019-07-22 | 2019-08-27 |
-| [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2019-06-27 |  |
+| [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2019-06-27 | 2022-11-01 |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2019-06-24 | 2022-10-03 |
 | [The Game Of Love](https://open.spotify.com/track/3YaSR3Ug3nTBTP6N1iSgYf) | [Wayne Fontana & The Mindbenders](https://open.spotify.com/artist/2VkASgJ3IjpMHG5aYXx4t2) | [60's Gold](https://open.spotify.com/album/2ZVgfQF9ljaMugBwVJMoM8) | 2:06 | 2019-07-23 | 2021-10-11 |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-06-08 |  |
@@ -721,6 +721,7 @@
 | [This Will Be Our Year](https://open.spotify.com/track/02KpkaZbiutsR0ucxce4Sh) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 2:07 | 2019-06-22 | 2021-10-14 |
 | [Time Has Come Today](https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [Time Has Come: The Best Of The Chambers Brothers](https://open.spotify.com/album/5ZFPnWBCasn1DZRGk1Qpdu) | 4:50 | 2019-07-23 | 2020-08-15 |
 | [Time of the Season \- Mono Version](https://open.spotify.com/track/2iUyvvPhSYN68f67c7xeVo) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Time of the Season / She's Not There](https://open.spotify.com/album/3U7gkGSzvOl0QqCe0dnOdW) | 3:34 | 2019-06-27 | 2021-10-14 |
+| [Time of the Season \- Mono Version](https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp) | 3:34 | 2022-08-12 |  |
 | [To Love Somebody](https://open.spotify.com/track/0mbS3VwRbO6HVBMPXnzOGA) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Bee Gees' 1st](https://open.spotify.com/album/2ESenDgBlvBFn6G1SfVZIw) | 3:02 | 2020-08-15 |  |
 | [To Love Somebody](https://open.spotify.com/track/3rGFsUgyH9GbbYJT4iwbhJ) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Bee Gees' 1st](https://open.spotify.com/album/7vuSqubgqkVA95zgz0R44a) | 3:02 | 2019-05-26\* | 2022-07-29 |
 | [To Sir with Love](https://open.spotify.com/track/0gBFr7N2D1GfhkXIIepIGG) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [To Sir With Love](https://open.spotify.com/album/37J4FeONwmD1Gl3PzvZGv3) | 2:46 | 2019-05-27 | 2022-07-29 |

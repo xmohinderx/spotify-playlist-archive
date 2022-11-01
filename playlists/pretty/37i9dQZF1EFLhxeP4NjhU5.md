@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RQ58d96XlDjmx0a7GZ5xX">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759 likes - 157 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 762 likes - 157 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 112 | [Amigos Na' Mas](https://open.spotify.com/track/1zuMoycNBmpN4p6X8sJeh5) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
 | 113 | [Mira \- Versión Salsa](https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Mira](https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X) | 3:36 |
 | 114 | [Inmoral](https://open.spotify.com/track/46gbEJEggbwei6Jo9upjCc) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:57 |
-| 115 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 |
-| 116 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
+| 115 | [LOKITA](https://open.spotify.com/track/48mGOtVuxLr7sq8jZpWLxi) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LOKITA](https://open.spotify.com/album/2C5FraiTW9fYi3WQOQytTC) | 3:13 |
+| 116 | [OTRA NO](https://open.spotify.com/track/3f2K8tmTI3mHzojNYqae4h) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:32 |
 | 117 | [Como la Primera Vez](https://open.spotify.com/track/0UEtBB5XmhnvHJFYQhAFEH) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ) | [Como la Primera Vez](https://open.spotify.com/album/0pmiKB4we2oro8peDqzs5c) | 4:20 |
 | 118 | [Obsesion](https://open.spotify.com/track/3nd5T9R83RsqZO6O9wuQnb) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:13 |
 | 119 | [Déjame Saber](https://open.spotify.com/track/7HfZN66yT8nvaMpF1Gligt) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Déjame Saber](https://open.spotify.com/album/4cjJ5l83fvenum0M9GttmN) | 3:19 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 129 | [Remate](https://open.spotify.com/track/5CxiDctwwCb40MVA8Lbe17) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:26 |
 | 130 | [Por Mi Culpa](https://open.spotify.com/track/2UfFPYeWLimTFRC90At4Jd) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:22 |
 | 131 | [Bebé](https://open.spotify.com/track/4JwN1v4cLawt6tI4Y8Chi2) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Bebé](https://open.spotify.com/album/0uJAmPNlqIFQEhIBCQC7xi) | 3:24 |
-| 132 | [Quiero](https://open.spotify.com/track/0mD0bi4kxvKYJh8stjNN8G) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
-| 133 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 132 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
+| 133 | [Quiero](https://open.spotify.com/track/0mD0bi4kxvKYJh8stjNN8G) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:10 |
 | 134 | [Irma](https://open.spotify.com/track/3BggSspByGIm5dUWz7UceG) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:27 |
 | 135 | [Frozen](https://open.spotify.com/track/6qiPrJwiT5BHKeGPF11cTO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:40 |
 | 136 | [LA MINI](https://open.spotify.com/track/0VgcHeHNVJlDN8U1BuoksG) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:09 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 156 | [Rally](https://open.spotify.com/track/0snt078vtq4zd5F1K1zSOF) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 2:28 |
 | 157 | [La Llevo Al Cielo](https://open.spotify.com/track/2tzrgCbD9yRrWlfWddf2ku) | [Kallde "El Rey Del Placer"](https://open.spotify.com/artist/2KQZ7yr0nr7NphqCy7QHRR) | [La Llevo Al Cielo](https://open.spotify.com/album/0M0ULIaP7cDdO9DpE06JwU) | 3:44 |
 
-Snapshot ID: `Mjc3ODYzNjEsMDAwMDAwMDBjNmU3OGFmYmJhYzdmNTI0NTg1NjA2YjhiY2E2NDU5MA==`
+Snapshot ID: `Mjc3ODc4MDEsMDAwMDAwMDBjY2M3YzVlODE4ZjQ3YmY1ODA1MzdmMTliNGMyNGQyMg==`

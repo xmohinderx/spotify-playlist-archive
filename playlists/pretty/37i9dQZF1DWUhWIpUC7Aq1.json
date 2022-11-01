@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 61308,
+  "num_followers": 61469,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMGRmZGJlN2U1NjgyOWNmMDZjOWE0ODFmNWVmNWQ1ODY5",
+  "snapshot_id": "MTY2MzAwMDg5MSwwMDAwMDAwMDk5NDZmMWZkZTg3N2I2MzI1Nzc5ZDcwMjJkODMzM2Vk",
   "tracks": [
     {
       "added_at": "2022-08-26 20:04:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -467,38 +467,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Wincing The Night Away",
-        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 236711,
-      "name": "Australia",
-      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -515,18 +483,18 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Wincing The Night Away",
+        "url": "https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 215293,
-      "name": "America",
-      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+      "duration_ms": 236711,
+      "name": "Australia",
+      "url": "https://open.spotify.com/track/47TQjzeG4KI0XWWb0wkbri"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -588,9 +556,25 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 220720,
-      "name": "For Emma",
-      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -703,6 +687,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 129333,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 203066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 129333,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
-        "name": "Elephant Gun",
-        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Elephant Gun",
-      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
         "name": "The Execution Of All Things",
         "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 223133,
       "name": "With Arms Outstretched",
       "url": "https://open.spotify.com/track/0EKUJ4OqrNWaHpNPODNTaf"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
+        "name": "Elephant Gun",
+        "url": "https://open.spotify.com/album/6nGeQUOXlKSENB3A9ijD20"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Elephant Gun",
+      "url": "https://open.spotify.com/track/52Nm0n6chJlGJJqhiZ6oMz"
     },
     {
       "added_at": "2022-08-26 20:04:38",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2022-08-26 20:04:38",
       "album": {
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
+      },
+      "artists": [
+        {
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
+    },
+    {
+      "added_at": "2022-08-26 20:04:38",
+      "album": {
         "name": "Numbers & Mumbles",
         "url": "https://open.spotify.com/album/75uYCevfxAInfAFSrBUBIa"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 261253,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
-    },
-    {
-      "added_at": "2022-08-26 20:04:38",
-      "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "What\u2019s Important",
-      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     }
   ],
   "unique_name": "Twee",

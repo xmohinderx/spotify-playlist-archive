@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-204 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
+205 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/1rcqnJTuxkgmJDpLbQBBLY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 | 2022-06-09 |  |
 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 | 2022-06-09 |  |
 | [Quien encendió la luz](https://open.spotify.com/track/7uI0ZH9w4Fzldb0dj7gngZ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Quien encendió la luz](https://open.spotify.com/album/5195FGFR87Ixc9EjKwpbbu) | 3:26 | 2022-06-09 | 2022-10-15 |
+| [Quiero Abrazarte Tanto](https://open.spotify.com/track/4VBSpxGwGLtgxlsDsuEd1P) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [¿Quién Puso Más?](https://open.spotify.com/album/7zyhfDK83RBHS4eM22OG3G) | 3:05 | 2022-10-27 |  |
 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 | 2022-06-09 |  |
 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 | 2022-06-09 |  |
 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 | 2022-06-09 |  |
@@ -200,7 +201,7 @@
 | [Una de Dos \- Remasterizado](https://open.spotify.com/track/4QmQLKTxrxjUd2GJfwFdmT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 4:49 | 2022-06-09 | 2022-07-29 |
 | [Una décima de segundo \- Piano bar](https://open.spotify.com/track/65xghLRhFJr8n4k7P6jy80) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Una Décima de Segundo](https://open.spotify.com/album/5teTy4a7CayMzxwLdFJZ3c) | 2:25 | 2022-06-30 | 2022-07-18 |
 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 | 2022-06-09 |  |
-| [Verde Selva](https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Vida Plena](https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk) | 3:44 | 2022-06-09 |  |
+| [Verde Selva](https://open.spotify.com/track/5xUdjeu6jLea7OniZP7d8e) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [La Vida Plena](https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk) | 3:44 | 2022-06-09 | 2022-11-01 |
 | [Vida Loca](https://open.spotify.com/track/4w9o81y0dXFKgraEwfEgTz) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:14 | 2022-08-11 |  |
 | [Vidas cruzadas \(feat\. Ivan Ferreiro\)](https://open.spotify.com/track/7n3vJc7HYnvqo8Gn7FnXJh) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ), [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 3:33 | 2022-06-30 | 2022-09-23 |
 | [Y Nos Dieron las Diez](https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Fisica Y Quimica](https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC) | 5:02 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,439 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,446 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 9 | [Amalgame](https://open.spotify.com/track/21ATIZAwB9QXBOpTzw2lDM) | [Les Respectables](https://open.spotify.com/artist/1BgrTWzH5jW2zl79JfSLtl) | [$=Bonheur](https://open.spotify.com/album/3S1vz4DSEQFippvw8v05ev) | 4:27 |
 | 10 | [Moisi moé'ssi](https://open.spotify.com/track/7AjsJZERJcf80ZqBSK9JYL) | [Fred Fortin](https://open.spotify.com/artist/5ryQZJpg6hSgRjMO5Jh5I1) | [Joseph Antoine Frédéric Fortin Perron](https://open.spotify.com/album/4eX5rBmbbwvO2aDefCrDLo) | 3:15 |
 | 11 | [Gros tas d'marde](https://open.spotify.com/track/4sNMeBsZYUFRwSj2CfUOpE) | [GrimSkunk](https://open.spotify.com/artist/5RC6gtSdMierMrsHaCn9eL) | [Fieldtrip](https://open.spotify.com/album/7dxPJbTYWfHj9SzsbRtZhV) | 3:10 |
-| 12 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
-| 13 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
+| 12 | [Le petit castor](https://open.spotify.com/track/7d2Z5noBhH5DWDVm0JtcIe) | [Yelo Molo](https://open.spotify.com/artist/6Myhhn1uQSl9qnbjSVfZPs) | [Méli\-molo](https://open.spotify.com/album/670rCJX9NEOutCLX8zoz1I) | 4:38 |
+| 13 | [Le savant fou](https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN) | [eXterio](https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF) | [Le délire du savant fou](https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J) | 3:19 |
 | 14 | [Les patates](https://open.spotify.com/track/7BnwGX5p7SSgcsST0vBS08) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 2:56 |
 | 15 | [R'viens Pas Trop Tard](https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS) | [Zebulon](https://open.spotify.com/artist/21P7XY4ebrRnhvVa8UxGBQ) | [L'oeil Du Zig](https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe) | 3:27 |
 | 16 | [Crabe](https://open.spotify.com/track/6ddojwlnvq2ITqdqCeuSJm) | [Les Goules](https://open.spotify.com/artist/2aBnogNdLxxLhpnRji3maA) | [Les Goules](https://open.spotify.com/album/6fts4TU4zrjx6IyYmbdwQC) | 3:38 |
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 20 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
 | 21 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 22 | [Ton amour est trop lourd](https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5) | 1:57 |
-| 23 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
-| 24 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
-| 25 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
-| 26 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
+| 23 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
+| 24 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
+| 25 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
+| 26 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
 | 27 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
 | 28 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
 | 29 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Touche pas](https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V) | [Elyzabeth Diaga](https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj) | [Elyzabeth Diaga](https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d) | 3:06 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDQ1MWVjOTZmNjRjZDljNGE0MTMwZTc4MjhlNWI2ZWQ0`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDMxZTVhN2JkNmQ5YzNlZjhjYzZiODk1NzQ5NzVjYWJk`

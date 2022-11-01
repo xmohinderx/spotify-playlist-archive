@@ -1,12 +1,12 @@
 {
   "description": "the best of the best tracks. Cover: Phoebe Bridgers",
-  "num_followers": 688470,
+  "num_followers": 689203,
   "original_name": "Essential Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNTgyOCwwMDAwMDAwMDBmY2NiM2IyOTM2Yzg0ZjJiYjkwMWM1MjBmYzMxNmJi",
+  "snapshot_id": "MTY2NjgyNTgyOCwwMDAwMDAwMGFjNDMyZGFhMGRlZTVmYmYxZWU1MjI0NDVjMTAwYmNk",
   "tracks": [
     {
       "added_at": "2022-10-26 23:10:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 290146,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -235,18 +219,18 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Vibes",
-        "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
       "artists": [
         {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 189160,
-      "name": "Young",
-      "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"
+      "duration_ms": 290146,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -263,6 +247,22 @@
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/5CNckxfLf4TCoMOoxgAU8l"
       },
@@ -391,38 +407,6 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 351640,
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -463,6 +447,22 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 351640,
+      "name": "Brooklyn Baby",
+      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "Offering",
         "url": "https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 190185,
+      "name": "Royals",
+      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
         "name": "Bury Me At Makeout Creek",
         "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 278640,
       "name": "First Love / Late Spring",
       "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 190185,
-      "name": "Royals",
-      "url": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "Cavetown",
         "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
       },
@@ -771,22 +755,6 @@
       "duration_ms": 179955,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Skiptracing",
-        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
-      },
-      "artists": [
-        {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -807,18 +775,34 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 319560,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Skiptracing",
+        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Homage",
+      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -839,34 +823,18 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         }
       ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+      "duration_ms": 319560,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -883,6 +851,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -947,6 +931,22 @@
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 246755,
-      "name": "Buzzcut Season",
-      "url": "https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "Everything All The Time",
         "url": "https://open.spotify.com/album/7ik4rjxOnmwnAWWzjj5ni3"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 246755,
+      "name": "Buzzcut Season",
+      "url": "https://open.spotify.com/track/51QEyJI5M7uyd8DOh9tqQY"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx"
       },
@@ -1435,6 +1435,22 @@
       "duration_ms": 98544,
       "name": "Pain",
       "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 277676,
+      "name": "Moon Song",
+      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 277676,
-      "name": "Moon Song",
-      "url": "https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "Cavetown",
         "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
       },
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
         "name": "Del Water Gap",
         "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
       },
@@ -1543,18 +1559,34 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+        "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
+    },
+    {
+      "added_at": "2022-10-26 23:10:28",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
     },
     {
       "added_at": "2022-10-26 23:10:28",
@@ -1575,22 +1607,6 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Sunset Lover",
-        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 237792,
-      "name": "Sunset Lover",
-      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
         "name": "Tieduprightnow",
         "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
@@ -1607,34 +1623,18 @@
     {
       "added_at": "2022-10-26 23:10:28",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Sunset Lover",
+        "url": "https://open.spotify.com/album/4Ky2PpWb26OxNabAMffyBw"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 247150,
-      "name": "Mariners Apartment Complex",
-      "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
-    },
-    {
-      "added_at": "2022-10-26 23:10:28",
-      "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+      "duration_ms": 237792,
+      "name": "Sunset Lover",
+      "url": "https://open.spotify.com/track/0hNduWmlWmEmuwEFcYvRu1"
     }
   ],
   "unique_name": "Essential Indie",

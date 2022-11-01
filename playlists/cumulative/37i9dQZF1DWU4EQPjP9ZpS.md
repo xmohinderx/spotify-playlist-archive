@@ -4,7 +4,7 @@
 
 > get lost in the  a e s t h e t i c
 
-386 songs - 21 hr 21 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
+387 songs - 21 hr 25 min - [published](https://open.spotify.com/playlist/3K3vRAXhujlSaYFy6U6zNx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [Procedurally Generated Corridor](https://open.spotify.com/track/5q2UHZf5yh7IWQZ6JjqwPZ) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Exit simulation](https://open.spotify.com/album/4zUa2DNiTxWo4lzVMwF6LZ) | 1:44 | 2022-01-26 | 2022-07-15 |
 | [Psycho Geography](https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68) | [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Psycho Geography](https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh) | 3:21 | 2022-06-06 |  |
 | [Psychology of Desire](https://open.spotify.com/track/0ZvvQvDIQUKj30b1CwA6lP) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [Doom Mix, Vol\. V](https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL) | 3:47 | 2021-12-08 | 2022-07-26 |
-| [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD) | 3:51 | 2022-06-06 |  |
+| [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/track/4YmYML44U2s4QgdAP0oNrM) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L), [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Rash Devices \(FM Skyline Remix\)](https://open.spotify.com/album/1K6ONT5q55ZqSqdOlN0QFD) | 3:51 | 2022-06-06 | 2022-11-01 |
 | [Ready](https://open.spotify.com/track/5nyQzFdSrpty5ogo2pQH1h) | [Ambientcloud](https://open.spotify.com/artist/1YAxvWH0nQeTwtPxOzynf6) | [Ready](https://open.spotify.com/album/38idADPCBOedtHFKSaeMva) | 2:17 | 2022-01-26 | 2022-06-19 |
 | [Real Time Lover](https://open.spotify.com/track/2dOvBBtJFetqjje2vZwbl2) | [Skeleton Lipstick](https://open.spotify.com/artist/05MvGEWQ5WcQVKnaQNzjdG) | [Real Time Lover](https://open.spotify.com/album/29Us2Mha3vkZxmxW4AFJgh) | 3:38 | 2022-04-12 | 2022-07-24 |
 | [Relax](https://open.spotify.com/track/0p9jPV9H74VqFEKsX1P1fV) | [Ahero](https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv) | [Cloud Zero](https://open.spotify.com/album/3VABoV6hfnboGf0JMInFEw) | 2:52 | 2022-09-11 |  |
@@ -298,6 +298,7 @@
 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 | 2022-04-11 | 2022-07-18 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
 | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/2scoNjwADGcWEbSOKjy5oJ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/4DqYWsmyVGtZy4GuAMS5Rz) | 4:04 | 2021-12-08 | 2022-08-13 |
+| [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/track/3ao2Od12RCMXeRSSk8XbUZ) | [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Sparkling Lights \(W Ancient Fan Death Studios\)](https://open.spotify.com/album/5TxXuszoIFAtpet7APPeYb) | 4:04 | 2022-09-11 |  |
 | [Spectre](https://open.spotify.com/track/2AcYagmdjrM7wzTFwsjGMP) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Spectre](https://open.spotify.com/album/7MYuHhnFpEW9r2MeOCfzwI) | 3:01 | 2021-12-08 | 2022-07-25 |
 | [Sport Yacht](https://open.spotify.com/track/38FbBka1qyJYKgLLa5GmHH) | [Diett Colaa](https://open.spotify.com/artist/75LxlR7pH6fY62STwrTDHG) | [Creating Dreams](https://open.spotify.com/album/7mFL3gJWelOTbPEBpii346) | 2:07 | 2021-12-08 | 2022-07-17 |
 | [Stadium \(Ignition\)](https://open.spotify.com/track/2WCveeofd0kR3foemnS2OK) | [Teamm Jordann](https://open.spotify.com/artist/5TKHFb2x3jcBmSHaXFlZj0) | [Champion](https://open.spotify.com/album/3tWoKFWL3zjIL8IuukhOWv) | 3:41 | 2021-12-08 | 2022-07-16 |

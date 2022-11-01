@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 
 > A mediterranean sundown soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,578 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,609 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 4 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 |
 | 5 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
 | 6 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
-| 7 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
+| 7 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
 | 8 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
-| 9 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
-| 10 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
+| 9 | [Pelota](https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 2:47 |
+| 10 | [Breezin'](https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Breezin'](https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5) | 5:41 |
 | 11 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 |
 | 12 | [Olson](https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 1:31 |
 | 13 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 34 | [Blurred](https://open.spotify.com/track/0jJLwPDpyuZRpd800yScN0) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 5:05 |
 | 35 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 36 | [Final Days \- Bonobo Remix](https://open.spotify.com/track/4RHMC3OE3oBpS32peJ6tR6) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Final Days \(Bonobo Remix\)](https://open.spotify.com/album/7cPU3dVK7sRJKdQ6JNlAVB) | 5:40 |
-| 37 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
+| 37 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
 | 38 | [One Evening](https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI) | 3:36 |
-| 39 | [Les Nuits](https://open.spotify.com/track/4P8qXnroR43S0xk0hmSbNs) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5pwdeiIEpfn2TF7M1J21MR) | 6:20 |
+| 39 | [Night Air](https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Mirrorwriting](https://open.spotify.com/album/30MSPzoWz0TzaFY7zx02XD) | 5:22 |
 | 40 | [Don't Want This to Be Over](https://open.spotify.com/track/6jag4moGKMJfZYl0liyLB7) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Satchmode](https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 5:17 |
 | 41 | [Get It Up For Love](https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ) | [Ned Doheny](https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw) | [Hard Candy](https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA) | 4:41 |
 | 42 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 45 | [América](https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8) | [Pietro Nicosia](https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG) | [América](https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro) | 4:30 |
 | 46 | [sketches](https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [sketches of transition](https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21) | 4:03 |
 | 47 | [Closer to You](https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Amo Amo](https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn) | 3:51 |
-| 48 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
-| 49 | [Next To You](https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 4:22 |
+| 48 | [Next To You](https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 4:22 |
+| 49 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 |
 | 50 | [Venasque](https://open.spotify.com/track/20XyCtN4HMiL1BsvXyengf) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Since Then\. 2017](https://open.spotify.com/album/74FdEWxQOWLu9lBEuMmdmM) | 4:34 |
 | 51 | [All Inclusive](https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ) | 6:27 |
 | 52 | [Weather Storm](https://open.spotify.com/track/4u5KFWcW1ptk0hJqp2lrCE) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Protection](https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC) | 4:59 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 81 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 82 | [Alone \- Paradise](https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Mediterraneo \(Club Favourites Collection '90/98\)](https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s) | 6:46 |
 | 83 | [Coconut Mango](https://open.spotify.com/track/6VRgvci0hYokJguaBzGZmj) | [Arrangement](https://open.spotify.com/artist/6RxI3tCP0Olcb9dMar7e9e) | [Coconut Mango](https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj) | 5:25 |
-| 84 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 85 | [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 |
-| 86 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 |
+| 84 | [Heartbreaker](https://open.spotify.com/track/4vcPegtrtRJPUXrnfxqvg9) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [When We On](https://open.spotify.com/album/7GhRdXt7AoyDIo9i9laYzM) | 5:26 |
+| 85 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
+| 86 | [Outer Sunset](https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/09kooFexe8JArV583iIkaj) | 4:10 |
 | 87 | [My Boy \- Edit](https://open.spotify.com/track/0WguORZMIHRuKEyXnzOioL) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [My Boy](https://open.spotify.com/album/6QTWDp9lo8zn2iTVRO9iAd) | 3:29 |
 | 88 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF) | 4:17 |
 | 89 | [Pina Colada \(Jazz Mix\)](https://open.spotify.com/track/4ygxOijRQ07KUiYvaRdBQv) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Pina Colada \(And Other Early Tunes\)](https://open.spotify.com/album/1tzIjTWqLA6GbBCOKiukjc) | 6:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdlSSSctCmk.md) - [plain]
 | 99 | [Josephine \- French Edit](https://open.spotify.com/track/34SVJolkVb1gdfv4wNdrGh) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 7:08 |
 | 100 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 
-Snapshot ID: `MTY2MjM5NDYyNiwwMDAwMDAwMDAxMDIzNzllNTQzOTVmMjAzOTNiM2I2OGZlZTYyZTRj`
+Snapshot ID: `MTY2MjM5NDYyNiwwMDAwMDAwMDljZDRiZmVkZDY1YzAwODZkYzMwZDExMDA1ZjNiZDBi`

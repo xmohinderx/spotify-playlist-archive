@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 
 > This is Luis R Conriquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,472 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,784 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 29 | [Aquí Seguimos De Pie](https://open.spotify.com/track/7KGs838LI4AjgRDlDkQYPD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Aqui Seguimos De Pie](https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu) | 4:00 |
 | 30 | [El Baleado](https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Baleado](https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX) | 3:39 |
 | 31 | [El Nano](https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Nano](https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot) | 2:40 |
-| 32 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 |
-| 33 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 |
+| 32 | [Bien Alerta \- En vivo](https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bien Alerta \(En vivo\)](https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx) | 2:33 |
+| 33 | [El Tony](https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [No Paramos de Chambear](https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97) | 3:14 |
 | 34 | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sangre De Reyes \(En Vivo\)](https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E) | 3:23 |
 | 35 | [El Gordo](https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Gordo](https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA) | 2:46 |
 | 36 | [Por Clave El Doble R](https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Belicos](https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c) | 4:05 |
 | 37 | [Sin Apodo \(En Vivo\)](https://open.spotify.com/track/0Up3NfbU2p9keQHqcPZYQO) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sin Apodo \(En Vivo\)](https://open.spotify.com/album/2jDt8iQGBpf0kHtlKm7ZdM) | 3:21 |
-| 38 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
-| 39 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 |
+| 38 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 |
+| 39 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 |
 | 40 | [Dejate De Cosas](https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Dejate De Cosas \(En Vivo\)](https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD) | 2:05 |
 | 41 | [El H \(En Vivo\)](https://open.spotify.com/track/6053Is00EA36bQRzjvairQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Pisteando Con Amigos \(En Vivo\)](https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU) | 3:00 |
 | 42 | [El Primito \(En Vivo\)](https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Primito \(En Vivo\)](https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aI7Qc.md) - [plain]
 | 49 | [En Phoenix Ruleteamos](https://open.spotify.com/track/4u5OPcN6zuLd9hJGB1PPjM) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Phoenix Ruleteamos](https://open.spotify.com/album/2Kjrnq2AqljOmHQPTzwT4t) | 3:55 |
 | 50 | [Paz En Este Amor \(En Vivo\)](https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Desde La Oficina \(En Vivo\)](https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy) | 3:26 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBiMGEwMmE0YzdiM2NkNzNiNjYwYTVkNTkxNGYxNzUzOA==`
+Snapshot ID: `Mjc3ODcwNDcsMDAwMDAwMDBjNWMxNjYxOWYxZDI5OTY3YTEyODhhYjU2MzI4YWQ5Mg==`

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: \u00c1lex Eugenio.",
-  "num_followers": 96621,
+  "num_followers": 96676,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMGY3YWM5M2I0NzJlOWEzNzRmMzQyNjdhZDM1ZGE1MzM2",
+  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDU1YjhmNTJmMmIwMDViYTM2YmIyY2U2ZTAwMGE4MzUz",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 275751,
       "name": "Quien lo dir\u00eda",
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Las Dos Caras del Hilo",
-        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Tu Ciudad",
-      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/5O4fzDFmTZXSRjQZpMc9P5"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 181798,
       "name": "El Tiempo Est\u00e1 Despu\u00e9s",
       "url": "https://open.spotify.com/track/4nQuCvORJ38iJzJEUgPend"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Las Dos Caras del Hilo",
+        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 214405,
+      "name": "Tu Ciudad",
+      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "la corriente",
-        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 175642,
-      "name": "la corriente",
-      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "la corriente",
+        "url": "https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 175642,
+      "name": "la corriente",
+      "url": "https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -903,6 +903,22 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -975,22 +991,6 @@
       "duration_ms": 172094,
       "name": "A 200 mil",
       "url": "https://open.spotify.com/track/4xlYwJBHbhw46i3VFsLW1n"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Las Bestias Que Me Acompa\u00f1an",
-        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 222428,
-      "name": "Las Bestias Que Me Acompa\u00f1an",
-      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Versiones Desnudas",
         "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 219000,
       "name": "Dame M\u00e1s (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Las Bestias Que Me Acompa\u00f1an",
+        "url": "https://open.spotify.com/album/2E5Wh7UwYnFMUZmPInBiOa"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 222428,
+      "name": "Las Bestias Que Me Acompa\u00f1an",
+      "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Tu Casa",
-        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
-      },
-      "artists": [
-        {
-          "name": "Lola Membrillo",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Tu Casa",
-      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 312413,
       "name": "Nin\u0303a de mis ojos",
       "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Tu Casa",
+        "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
+      },
+      "artists": [
+        {
+          "name": "Lola Membrillo",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Tu Casa",
+      "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Al Margen de Ojal\u00e1",
-        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Iwasaki",
-          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Al Margen de Ojal\u00e1",
-      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Limoneros",
         "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Al Margen de Ojal\u00e1",
+        "url": "https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Iwasaki",
+          "url": "https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Al Margen de Ojal\u00e1",
+      "url": "https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Moment\u00e1nea",
-        "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
       "artists": [
         {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
         }
       ],
-      "duration_ms": 240449,
-      "name": "Moment\u00e1nea",
-      "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Moment\u00e1nea",
+        "url": "https://open.spotify.com/album/2iX8rvlCGWePx3CYdg0P3a"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Moment\u00e1nea",
+      "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "Aho Uhal",
         "url": "https://open.spotify.com/album/65DlBfjz05l7ogPJOi19Sg"
       },
@@ -1651,34 +1667,18 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
+        "name": "Fuimos Los Dos",
+        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
         }
       ],
-      "duration_ms": 178573,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+      "duration_ms": 137450,
+      "name": "Prefiero No Decir Nada",
+      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1695,6 +1695,22 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Me Quedo Aqu\u00ed (Bonus Track)",
-        "url": "https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Me Quedo Aqu\u00ed - Bonus Track",
-      "url": "https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "La Sangre del Mundo",
         "url": "https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H"
       },
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Me Quedo Aqu\u00ed (Bonus Track)",
+        "url": "https://open.spotify.com/album/491Dqm9bqKjGxkgvYNaXja"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Me Quedo Aqu\u00ed - Bonus Track",
+      "url": "https://open.spotify.com/track/6cxVIwPmlGl6LSfo0iGSJv"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "Volar\u00e9",
         "url": "https://open.spotify.com/album/4hRvRKx006dk4eFUtNrDH1"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 195360,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/3uOlDLlb6pSt6W4VffyXJR"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     }
   ],
   "unique_name": "Cancionistas",

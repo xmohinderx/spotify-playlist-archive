@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 141399,
+  "num_followers": 141453,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMDE1ZjJhMzdiOTljNmI2MWZjMTY1M2Y5YmE0ZmNhMzEw",
+  "snapshot_id": "MTY0MDI3NDQ0NSwwMDAwMDAwMGM4NGExOTYzYzE2Y2YxNTZjMjllYWI4Njc0ZGQ3ODQ4",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
-      },
-      "artists": [
-        {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
-        }
-      ],
-      "duration_ms": 125544,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
       },
@@ -171,6 +155,38 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/4w88QeWw7lHIDL9fvPdUfj"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "duration_ms": 125544,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/5JtWUJ45BRxGP6F4Tnoej4"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Say It With Music",
+        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Stranger In Paradise",
+      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Feels So Good",
         "url": "https://open.spotify.com/album/5w0p1F0Q1wBqsX2UiX6CCD"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 139653,
       "name": "Red Roses For A Blue Lady",
       "url": "https://open.spotify.com/track/4GXXOBUEpCr58TFHIkLrZ0"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Say It With Music",
-        "url": "https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Stranger In Paradise",
-      "url": "https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Before the Rain",
-        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
-      },
-      "artists": [
-        {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
-        }
-      ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Los Recuerdos Est\u00e1n Hechos de Esto Vol. 1",
         "url": "https://open.spotify.com/album/5aQPUujM556YFCGjR4FPof"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 189346,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/2qQN7AqqDvUYbpjR7zidQm"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -759,6 +759,38 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Fandango",
+        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        }
+      ],
+      "duration_ms": 202367,
+      "name": "Route 101",
+      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Fandango",
-        "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert",
-          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
-        }
-      ],
-      "duration_ms": 202367,
-      "name": "Route 101",
-      "url": "https://open.spotify.com/track/0v6LhMOPClXKdV3KB72iJG"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -823,22 +839,6 @@
       "duration_ms": 257633,
       "name": "The Shuffle",
       "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Instrumental History, The Best",
-        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Marchetti",
-          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "L'Incontro - 1M1",
-      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Orange Blossom Special And Wheels",
         "url": "https://open.spotify.com/album/2M9TCUQuMDdf1NSHbTMUh0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 128785,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/2RVrL0fZ7O0mwdyWlwjyLW"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Instrumental History, The Best",
+        "url": "https://open.spotify.com/album/4IfUM4HqTrBNX2gm5VZCVq"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Marchetti",
+          "url": "https://open.spotify.com/artist/6Zbp6LgCp3MBRiNbfsjUCd"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "L'Incontro - 1M1",
+      "url": "https://open.spotify.com/track/0AtgGfGsikBai32OmGVSlo"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Danke Schoen - Helmut Zacharias",
-        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
-      },
-      "artists": [
-        {
-          "name": "Helmut Zacharias",
-          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "Claire",
-      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "14 Estelares",
         "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Danke Schoen - Helmut Zacharias",
+        "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
+      },
+      "artists": [
+        {
+          "name": "Helmut Zacharias",
+          "url": "https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Claire",
+      "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Manolo Sanlucar",
         "url": "https://open.spotify.com/album/1POsubNNoXHoZPs0Po5Eyn"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 205773,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "100 All Time Greatest Hits",
-        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 142986,
-      "name": "Les Parapluies de Cherbourg",
-      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Rain Forest",
         "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 145573,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "100 All Time Greatest Hits",
+        "url": "https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 142986,
+      "name": "Les Parapluies de Cherbourg",
+      "url": "https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Santo & Johnny",
-        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
       },
       "artists": [
         {
-          "name": "Santo & Johnny",
-          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
         }
       ],
-      "duration_ms": 135493,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
+      "duration_ms": 116400,
+      "name": "Java",
+      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2ipfX3lhie8G2uo8qoRoFB"
+        "name": "Santo & Johnny",
+        "url": "https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68"
       },
       "artists": [
         {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
         }
       ],
-      "duration_ms": 116400,
-      "name": "Java",
-      "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
+      "duration_ms": 135493,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/2LCxsIKM9bl8lrPlL2EUmz"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Le Cin\u00e9ma De Francis Lai",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Bilitis",
+      "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Le Cin\u00e9ma De Francis Lai",
-        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Bilitis",
-      "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Roger Williams Greatest Hits",
-        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1815,18 +1799,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Michel Legrand y Su Gran Orquesta",
-        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+        "name": "Roger Williams Greatest Hits",
+        "url": "https://open.spotify.com/album/36Ihz8xQOoJ9SuBquldW7i"
       },
       "artists": [
         {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
         }
       ],
-      "duration_ms": 135360,
-      "name": "Boum",
-      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
+      "duration_ms": 181866,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/4AyqwjnbbWfFLPKL4UUSzU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1843,6 +1827,22 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Michel Legrand y Su Gran Orquesta",
+        "url": "https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 135360,
+      "name": "Boum",
+      "url": "https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE"
     },
     {
       "added_at": "2020-12-08 19:02:01",

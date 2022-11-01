@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1636807,
+  "num_followers": 1636931,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk4MjM5OSwwMDAwMDAwMGFjOGU4N2FkYjVmN2FkMTc1ZDBlNDFmYTUzZGI1MWEy",
+  "snapshot_id": "MTY2Njk4MjM5OSwwMDAwMDAwMDY5Yzc4NGYxODVmYWNmODI5ZjYzYWM4N2VjNzc0NWFk",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 135053,
       "name": "Dua Lipa",
       "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 135264,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -643,6 +643,22 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -687,22 +703,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 135264,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -723,26 +723,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
         "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
       },
@@ -755,22 +735,6 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "GTG",
-        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 93893,
-      "name": "GTG",
-      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -799,6 +763,26 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "GTG",
+        "url": "https://open.spotify.com/album/4KvTJJPmcAd1XJaO3UrARG"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 93893,
+      "name": "GTG",
+      "url": "https://open.spotify.com/track/46M2hXnaQpueG7vSvgVtVH"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204346,
       "name": "No Friends In The Industry",
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1007,6 +1007,26 @@
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Do It Again (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "duration_ms": 213206,
+      "name": "Do It Again (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1055,26 +1075,6 @@
       "duration_ms": 228000,
       "name": "9 Lives (feat. Polo G & NLE Choppa)",
       "url": "https://open.spotify.com/track/6DVJ7Aqbml1X3wGxxV5QH5"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Do It Again (feat. 2Rare)",
-        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "2Rare",
-          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
-        }
-      ],
-      "duration_ms": 213206,
-      "name": "Do It Again (feat. 2Rare)",
-      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1289,6 +1289,38 @@
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Bag Talk",
+        "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 147435,
+      "name": "Bag Talk",
+      "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "Umm Hmm",
+      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+    },
+    {
       "added_at": "2022-09-23 04:00:00",
       "album": {
         "name": "54321",
@@ -1303,22 +1335,6 @@
       "duration_ms": 182325,
       "name": "54321",
       "url": "https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "The Big 3",
-        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 183186,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+        "name": "The Big 3",
+        "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
       "artists": [
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 132750,
-      "name": "Umm Hmm",
-      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
+      "duration_ms": 183186,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1503,38 +1519,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Haitian Scarface",
-        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 145245,
-      "name": "Haitian Scarface",
-      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 179148,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "Waddup (feat. Polo G)",
         "url": "https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9"
       },
@@ -1555,6 +1539,38 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 179148,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Haitian Scarface",
+        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 145245,
+      "name": "Haitian Scarface",
+      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
         "name": "Fantastic",
         "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
       },
@@ -1569,10 +1585,10 @@
       "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Bag Talk",
-        "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
@@ -1580,9 +1596,9 @@
           "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 147435,
-      "name": "Bag Talk",
-      "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
+      "duration_ms": 190509,
+      "name": "Black Hearted",
+      "url": "https://open.spotify.com/track/25qk9xa71F1POdI4vj7rbi"
     },
     {
       "added_at": "2022-09-23 04:00:00",
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 190509,
-      "name": "Black Hearted",
-      "url": "https://open.spotify.com/track/25qk9xa71F1POdI4vj7rbi"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
         "name": "From The Can",
         "url": "https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69"
       },
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2022-09-23 04:00:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 207213,
-      "name": "KEEP IT BURNIN (feat. Kanye West)",
-      "url": "https://open.spotify.com/track/7rWCWzPRftzZTZtIyQtaDU"
+      "duration_ms": 178775,
+      "name": "GANG GANG (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/0ezwvY7TkCwDEkKR49084k"
     }
   ],
   "unique_name": "Hip Hop Controller",

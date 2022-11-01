@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,881 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,918 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cr4xG.md) - [plain]
 | 43 | [Brave This Storm](https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 44 | [Ascendancy](https://open.spotify.com/track/25mSOE3LW1IREKGhSeRUVx) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:25 |
 | 45 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
-| 46 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
+| 46 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
 | 47 | [Villainy Thrives](https://open.spotify.com/track/7LUxLggr0vvXXGS9o8Xq80) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:54 |
 | 48 | [Pillars of Serpents \- 2019 Version](https://open.spotify.com/track/4mTV3JOltmiOgDAtTCkZMz) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Pillars of Serpents \(2019 Version\)](https://open.spotify.com/album/3jqNwVmVa0spWGEyLRwHim) | 5:03 |
 | 49 | [Ember to Inferno](https://open.spotify.com/track/3IKNbveo9wfVgEjEFLpY6b) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ember to Inferno](https://open.spotify.com/album/3hnOE93weJxgpQZOkVC4as) | 4:11 |
-| 50 | [Black](https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:27 |
+| 50 | [Inception of the End](https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 3:48 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAxMzlhYzZhZmM5NDczNWU1MmEzNDY1MzY2ZDdmNzgyMw==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDBhYzI1ZTdiYWM0ODg4ZmI2MzBiMDUzNzRiOGE1OWE2Ng==`

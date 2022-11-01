@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,779 songs - 4 day 6 hr 55 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,781 songs - 4 day 7 hr 1 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,6 +805,7 @@
 | [Into the Heart](https://open.spotify.com/track/189mmnEksomXk86AvZ8kwk) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Into the Heart](https://open.spotify.com/album/2SAqHunL22wnXnwEIKmF8L) | 4:41 | 2021-02-06 | 2021-02-16 |
 | [Into The Wild](https://open.spotify.com/track/7mnuBuSAUe1UUErw1dTgrM) | [Ken Norton](https://open.spotify.com/artist/36UPwl8VFSHwng6c2ysgDS) | [Into The Wild](https://open.spotify.com/album/7E4xarHovJ7zjVBrlyMJLu) | 2:17 | 2021-12-10 | 2021-12-27 |
 | [Iron Man](https://open.spotify.com/track/5bGMedm8ohIGxe8pLRv7E3) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 3:21 | 2019-09-29\* | 2021-11-19 |
+| [Is the Juice Worth the Squeeze](https://open.spotify.com/track/1hEPIQxS1KHHd2iXaYfHGT) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Is the Juice Worth the Squeeze](https://open.spotify.com/album/2pcDfVkZRMXayA0vt0BWUK) | 3:15 | 2022-10-31 |  |
 | [Islands 666](https://open.spotify.com/track/16Yelu4DCDryBwD3x7d76j) | [Griffith James](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP) | [Comfortably High](https://open.spotify.com/album/63T4B7eiV6fz3BfeFo1mXL) | 3:39 | 2021-09-19 | 2021-10-04 |
 | [Issues \(Can you let go of me?\)](https://open.spotify.com/track/0Fg0rHqPfHZCxgGCTBY9OF) | [Rylai](https://open.spotify.com/artist/7KDj25EE7znAHMUL9DQEQz) | [Issues \(Can you let go of me?\)](https://open.spotify.com/album/4Pl9ca3mA9GZ0BCI1VNHTQ) | 3:30 | 2022-09-09 | 2022-09-25 |
 | [It Will Happen](https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [It Will Happen](https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x) | 2:31 | 2022-03-25 | 2022-04-10 |
@@ -880,6 +881,7 @@
 | [Lava](https://open.spotify.com/track/6cr32HRXGnxzeb2CigrVw9) | [EFIA](https://open.spotify.com/artist/7gxMBeCcMlBk8mczc1fkKd) | [Lava](https://open.spotify.com/album/5XJY6MAzMt0rcAXjR4LPNO) | 3:49 | 2019-11-11 | 2019-12-04 |
 | [LAY WITH ME \(REMIX\)](https://open.spotify.com/track/3LbyMox8uvUT1uX6OSSNXZ) | [BAM.](https://open.spotify.com/artist/4b6sRvbiJdiUvlEMGx4TjX) | [SEXTAPE \(DELUXE\)](https://open.spotify.com/album/3QaHKMwrqImPnxzZvfqRcD) | 3:00 | 2022-03-18 | 2022-04-05 |
 | [Leave](https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG) | [Jacob Miller](https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6) | [Leave](https://open.spotify.com/album/2Ec0JzyMefidRWUoITDtJN) | 4:27 | 2022-01-28 | 2022-02-13 |
+| [leave her](https://open.spotify.com/track/1jRTd3222ruwh0czzrjZKo) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [leave her](https://open.spotify.com/album/4u7DeTIrAdV5lvatL0iWlO) | 3:03 | 2022-10-31 |  |
 | [Leave Me Alone \- Radio Edit](https://open.spotify.com/track/0KvlHmo9eESDJZ6HlwBQId) | [YLLOW](https://open.spotify.com/artist/2V4UFfOx7rKFQffasDTLEp), [Vyel](https://open.spotify.com/artist/5xmehWlamvEZUh99hiIL7e) | [Leave Me Alone](https://open.spotify.com/album/0KjlI5dFICMSRxhHaIk1me) | 3:06 | 2021-02-19 | 2021-04-26 |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-05-05 |  |
 | [Lemon Drop Love](https://open.spotify.com/track/1JyopKP0MWBHzoJ7DkdUbp) | [Daada](https://open.spotify.com/artist/6IgM3LTBZqe39HgR9M3vXk) | [Lemon Drop Love](https://open.spotify.com/album/4119qf3YohFopZ5Exz3mdL) | 3:49 | 2021-09-27 | 2021-10-13 |

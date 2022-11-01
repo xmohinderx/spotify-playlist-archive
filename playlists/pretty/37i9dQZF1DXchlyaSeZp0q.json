@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 74019,
+  "num_followers": 74276,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDdlZjhkOWM4NGIxZTBkN2E4NDJmNzk2MGNhOWNlYTg2",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMDcwYTBkNTQxZDJhMTkwNzQ4Y2U4MmM3NzRlNmY2YTNk",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -219,38 +219,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Winner In You",
-        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 290840,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
-    },
-    {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -279,6 +247,38 @@
       "duration_ms": 383502,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Winner In You",
+        "url": "https://open.spotify.com/album/5wESpjGUZ1QKY2DziNM5fN"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 290840,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
       "added_at": "2022-09-08 14:58:04",
@@ -471,26 +471,6 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 225533,
       "name": "Don't Give Up On Me",
       "url": "https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2021-11-11 14:02:18",
@@ -603,6 +603,26 @@
     {
       "added_at": "2021-11-11 14:02:18",
       "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "I Miss You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
+    },
+    {
+      "added_at": "2021-11-11 14:02:18",
+      "album": {
         "name": "The Very Best of Otis Redding",
         "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 353680,
       "name": "Hurry Up This Way Again",
       "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
-    },
-    {
-      "added_at": "2021-11-11 14:02:18",
-      "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "I Miss You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
     },
     {
       "added_at": "2021-11-11 14:02:18",

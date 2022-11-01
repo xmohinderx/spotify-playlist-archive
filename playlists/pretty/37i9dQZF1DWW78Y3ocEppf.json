@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Mariah The Scientist",
-  "num_followers": 36273,
+  "num_followers": 36352,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMDk2MiwwMDAwMDAwMDg1ZTFjYjVhZTMwZGQwMjJkMDFmZDllZTYxNmFmMGYx",
+  "snapshot_id": "MTY2NjkzMDk2MiwwMDAwMDAwMDBlNWEwZDg2ZWE0ZjFmMWEzMDliNGNmOTVjZjQ5MWIx",
   "tracks": [
     {
       "added_at": "2022-09-24 17:23:41",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/2LvIbGvUKWgVhkKG1SfpYZ"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
-    },
-    {
       "added_at": "2022-10-28 04:22:42",
       "album": {
         "name": "Shirt",
@@ -71,6 +55,22 @@
       "duration_ms": 181830,
       "name": "Shirt",
       "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
       "added_at": "2022-08-06 10:43:59",
@@ -161,22 +161,6 @@
       "url": "https://open.spotify.com/track/4QokysYZE2otPdhq5L4EM0"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
-    },
-    {
       "added_at": "2022-09-23 04:09:12",
       "album": {
         "name": "Ctrl (Deluxe)",
@@ -191,22 +175,6 @@
       "duration_ms": 178000,
       "name": "Awkward",
       "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 169013,
-      "name": "JACKIE BROWN",
-      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -227,6 +195,22 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "JACKIE BROWN",
+      "url": "https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Candydrip",
+        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -257,20 +257,20 @@
       "url": "https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-09-09 04:09:30",
       "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
+      "duration_ms": 188579,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
     },
     {
       "added_at": "2022-10-28 04:22:42",
@@ -305,20 +305,24 @@
       "url": "https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6"
+        "name": "Please Do Not Lean",
+        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 188579,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul"
+      "duration_ms": 240937,
+      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
+      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -353,20 +357,20 @@
       "url": "https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 242823,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -385,40 +389,36 @@
       "url": "https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 226011,
-      "name": "LOOSE CHANGE",
-      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+      "duration_ms": 242823,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3vZGtceCbJVh5aDT4XhE0p"
     },
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Please Do Not Lean",
-        "url": "https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 240937,
-      "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
-      "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+      "duration_ms": 168182,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
       "added_at": "2022-10-07 16:24:50",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -475,70 +459,6 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
-    },
-    {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "Ophiuchus",
-        "url": "https://open.spotify.com/album/620qzo3UWQBOdSw8KjcTq1"
-      },
-      "artists": [
-        {
-          "name": "Bairi",
-          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
-        }
-      ],
-      "duration_ms": 99207,
-      "name": "Ophiuchus",
-      "url": "https://open.spotify.com/track/68PgezyNLbpX7dABzVpLDy"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 162006,
-      "name": "ROLLING STONE",
-      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
-    },
-    {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN"
-      },
-      "artists": [
-        {
-          "name": "Eli Derby",
-          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
-        }
-      ],
-      "duration_ms": 179154,
-      "name": "3am",
-      "url": "https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -561,6 +481,22 @@
       "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
     },
     {
+      "added_at": "2022-10-14 05:33:57",
+      "album": {
+        "name": "Ophiuchus",
+        "url": "https://open.spotify.com/album/620qzo3UWQBOdSw8KjcTq1"
+      },
+      "artists": [
+        {
+          "name": "Bairi",
+          "url": "https://open.spotify.com/artist/2zCT4CABRrHliK2UmzjIUP"
+        }
+      ],
+      "duration_ms": 99207,
+      "name": "Ophiuchus",
+      "url": "https://open.spotify.com/track/68PgezyNLbpX7dABzVpLDy"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "YESSIE",
@@ -581,6 +517,38 @@
       "url": "https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/0WWhWyHvnWbxXl3lTDGQJN"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "duration_ms": 179154,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/1pXiO2TJZw3n2BzstJxWao"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "LOOSE CHANGE",
+      "url": "https://open.spotify.com/track/00imgaPlYRrMGn9o83hfmk"
+    },
+    {
       "added_at": "2022-09-09 04:09:30",
       "album": {
         "name": "Spotify Singles",
@@ -597,20 +565,20 @@
       "url": "https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -627,6 +595,22 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -657,6 +641,22 @@
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
     },
     {
+      "added_at": "2022-10-28 04:22:42",
+      "album": {
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 172131,
+      "name": "Make Me Stay",
+      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
+    },
+    {
       "added_at": "2022-07-15 04:00:00",
       "album": {
         "name": "Still Over It",
@@ -677,22 +677,6 @@
       "url": "https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr"
     },
     {
-      "added_at": "2022-10-28 04:22:42",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 172131,
-      "name": "Make Me Stay",
-      "url": "https://open.spotify.com/track/3REQkt60mafExNVnJehMdL"
-    },
-    {
       "added_at": "2022-09-30 04:04:59",
       "album": {
         "name": "What's Up (feat. Jagged Edge)",
@@ -711,6 +695,38 @@
       "duration_ms": 219729,
       "name": "What's Up (feat. Jagged Edge)",
       "url": "https://open.spotify.com/track/2HI6OFcMNUyS0IEwp4hffV"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 162006,
+      "name": "ROLLING STONE",
+      "url": "https://open.spotify.com/track/0e0JshRej2NwT7jahEmv52"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 192545,
       "name": "Irresponsible",
       "url": "https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/2S60VhuP8sgoc0D7aD2cvh"
     },
     {
-      "added_at": "2022-09-09 04:09:30",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "age/sex/location",
-        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 163700,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-09-09 04:09:30",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "age/sex/location",
+        "url": "https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 163700,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
     },
     {
       "added_at": "2022-09-23 04:09:12",
@@ -969,6 +969,22 @@
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 143092,
+      "name": "BILL$",
+      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
+    },
+    {
       "added_at": "2022-09-02 04:00:00",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -987,22 +1003,6 @@
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 143092,
-      "name": "BILL$",
-      "url": "https://open.spotify.com/track/0H6CZCG2F1N3XZWNZAVqE7"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "VICES",
-        "url": "https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ"
-      },
-      "artists": [
-        {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "VICES",
-      "url": "https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Get Home SAFE (Part 1)",
-        "url": "https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9"
+        "name": "VICES",
+        "url": "https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ"
       },
       "artists": [
         {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        },
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 116571,
-      "name": "By My Side (feat. Kaash Paige)",
-      "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
+      "duration_ms": 183750,
+      "name": "VICES",
+      "url": "https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1451,6 +1431,26 @@
       "duration_ms": 255800,
       "name": "Distance",
       "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Get Home SAFE (Part 1)",
+        "url": "https://open.spotify.com/album/1DFMDukfXi9x0okLHjDNd9"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "By My Side (feat. Kaash Paige)",
+      "url": "https://open.spotify.com/track/0OixmRL2iIbWyDH6rn77M7"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+        "name": "Hues",
+        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
       },
       "artists": [
         {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 194679,
-      "name": "Don't You Know",
-      "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
+      "duration_ms": 150182,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -1595,6 +1595,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
+      },
+      "artists": [
+        {
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+        }
+      ],
+      "duration_ms": 194679,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/5FAQkTyzcSraGEQORCmhaz"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1633,36 +1649,20 @@
       "url": "https://open.spotify.com/track/0Fx6PkOC2Nm0eqXKiqiaF6"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-10-14 05:33:57",
       "album": {
-        "name": "Feelings 4 You",
-        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+        "name": "Figures",
+        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 256202,
-      "name": "Feelings 4 You",
-      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Hues",
-        "url": "https://open.spotify.com/album/1amj52SgnV7kq8TtDSrq09"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 150182,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/0rlX8acfJKPQ3NVHjxR7ml"
+      "duration_ms": 152590,
+      "name": "Figures",
+      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     },
     {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Feelings 4 You",
+        "url": "https://open.spotify.com/album/4zQasO3J7GKXQ8zEdFSbqx"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 256202,
+      "name": "Feelings 4 You",
+      "url": "https://open.spotify.com/track/7whRnyXkGLSkwluSMe1JH5"
+    },
+    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "No Drama",
@@ -1695,22 +1711,6 @@
       "duration_ms": 189200,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
-    },
-    {
-      "added_at": "2022-10-14 05:33:57",
-      "album": {
-        "name": "Figures",
-        "url": "https://open.spotify.com/album/7EsBZPtz7JAFwEhhpuE65q"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 152590,
-      "name": "Figures",
-      "url": "https://open.spotify.com/track/7zEeY9dw8wpTrxn4Ll26bu"
     },
     {
       "added_at": "2022-08-05 04:11:54",

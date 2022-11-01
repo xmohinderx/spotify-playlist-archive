@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 127117,
+  "num_followers": 127161,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDQzZDFiOGVlMmQ5MmZlMjAzZTNlNTA1ODRkYmU0ZmFj",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMGMzMTYzYzk1MzA0NGVhMTMzYmE1OTFmNjdiOGZjN2Zi",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 191226,
       "name": "I Want You to Want Me",
       "url": "https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2021-12-16 19:14:26",
@@ -795,18 +795,18 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+        "name": "Our Favourite Shop",
+        "url": "https://open.spotify.com/album/75nT99YVabgYL2UcyKrPHa"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "The Style Council",
+          "url": "https://open.spotify.com/artist/3loflELg7MzgrOyNqERolN"
         }
       ],
-      "duration_ms": 211630,
-      "name": "(What's So Funny 'Bout) Peace, Love And Understanding",
-      "url": "https://open.spotify.com/track/77XzsYwTkvLoveW01Lanrk"
+      "duration_ms": 204333,
+      "name": "Walls Come Tumbling Down",
+      "url": "https://open.spotify.com/track/00cn1ynXQhURwsgv69fN0b"
     }
   ],
   "unique_name": "Power Pop",

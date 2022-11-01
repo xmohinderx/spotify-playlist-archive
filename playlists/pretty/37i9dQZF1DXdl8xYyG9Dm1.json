@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=r9po0m5GS-OqftcZy_pYog\"> Blxckie </a> ",
-  "num_followers": 102729,
+  "num_followers": 102793,
   "original_name": "No Wahala",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1OTMxNywwMDAwMDAwMDFlNTMxZDliMzUzN2U4ZmY5NWI0MDI5OTBlYzY5ZTFj",
+  "snapshot_id": "MTY2Njk1OTMxNywwMDAwMDAwMGJhNjE0NDU3M2JhNWY0ZjdlNGUxMTc3NzAzOTRlZmQ4",
   "tracks": [
     {
       "added_at": "2022-10-28 12:15:17",
@@ -293,22 +293,6 @@
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
-      "added_at": "2022-10-07 05:52:45",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "45",
-      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
-    },
-    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "Always (feat. Black Sherif)",
@@ -327,6 +311,22 @@
       "duration_ms": 154957,
       "name": "Always (feat. Black Sherif)",
       "url": "https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF"
+    },
+    {
+      "added_at": "2022-10-07 05:52:45",
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "45",
+      "url": "https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -433,6 +433,26 @@
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
     },
     {
+      "added_at": "2021-10-22 05:42:52",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
+    },
+    {
       "added_at": "2022-09-16 04:26:33",
       "album": {
         "name": "Ivyson Army Tour Mixtape",
@@ -481,6 +501,38 @@
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Second Sermon",
+        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 166147,
+      "name": "Second Sermon",
+      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
+    },
+    {
       "added_at": "2021-10-14 23:00:00",
       "album": {
         "name": "Green With Envy",
@@ -503,26 +555,6 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
-    },
-    {
-      "added_at": "2021-10-22 05:42:52",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
       "added_at": "2022-07-21 23:00:00",
@@ -579,54 +611,6 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Jack",
-        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Jack",
-      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Second Sermon",
-        "url": "https://open.spotify.com/album/1WtUCwDqTypySaG8c5yC8C"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 166147,
-      "name": "Second Sermon",
-      "url": "https://open.spotify.com/track/6quFWbUf88BS0pWUNrwVCR"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Big Energy",
-        "url": "https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
         "name": "Kpos Lifestyle, Vol. 1",
         "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
       },
@@ -639,6 +623,26 @@
       "duration_ms": 120000,
       "name": "Solace",
       "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+    },
+    {
+      "added_at": "2021-11-04 23:01:00",
+      "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2021-10-14 23:00:00",
@@ -659,6 +663,22 @@
       "duration_ms": 266867,
       "name": "Style & Fashion (feat. Obongjayar)",
       "url": "https://open.spotify.com/track/3BhgQ0PWWyy7xaSd3ZjwWw"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J"
     },
     {
       "added_at": "2021-12-09 23:01:00",
@@ -699,26 +719,6 @@
       "duration_ms": 202886,
       "name": "Bigger (feat. Olamide & Nas)",
       "url": "https://open.spotify.com/track/4z3ccPbq2JBOPMCSVzjvGg"
-    },
-    {
-      "added_at": "2021-11-04 23:01:00",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/1qkMjWTD1QY2OYZY6nFAAy"
     },
     {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Best I Ever Had",
-        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
-    },
-    {
       "added_at": "2022-04-21 23:00:00",
       "album": {
         "name": "Son Of Jacob",
@@ -807,6 +791,22 @@
       "duration_ms": 173980,
       "name": "Jungle Music, Pt. 2",
       "url": "https://open.spotify.com/track/14K8hW2G2QR14sN5nl0VG1"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Best I Ever Had",
+        "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/26GutI9CH23aj4ZZlhLVXc"
     },
     {
       "added_at": "2022-05-26 23:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 194606,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
         "name": "Coachella",
         "url": "https://open.spotify.com/album/0pR0ivVxPWH03hRgsNJMuh"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 150665,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/6eoQu7hIN0aWLG50WmZGxh"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/29hNVh1pdk9Nmw12i9x88N"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 194606,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0qacFbOL6VbnBSNFCv8hEk"
     },
     {
       "added_at": "2022-02-03 23:02:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2021-10-14 23:00:00",
       "album": {
+        "name": "Ball Till We Fall",
+        "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 143220,
+      "name": "Ball Till We Fall",
+      "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
+    },
+    {
+      "added_at": "2021-10-14 23:00:00",
+      "album": {
         "name": "ASTRONAUTE",
         "url": "https://open.spotify.com/album/2BIMATZr1ZmgpYAoZOvGPT"
       },
@@ -1331,26 +1351,6 @@
       "duration_ms": 192153,
       "name": "All the smoke",
       "url": "https://open.spotify.com/track/0NmIi08d05F0ziGm3wqMaG"
-    },
-    {
-      "added_at": "2021-10-14 23:00:00",
-      "album": {
-        "name": "Ball Till We Fall",
-        "url": "https://open.spotify.com/album/1ykaxeBYRvI0boqwTezPTx"
-      },
-      "artists": [
-        {
-          "name": "Kida Kudz",
-          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 143220,
-      "name": "Ball Till We Fall",
-      "url": "https://open.spotify.com/track/4ZrGslwrdNckETI7gktSwS"
     },
     {
       "added_at": "2021-10-14 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Check out these Hip Hop classics that are great for the whole family.",
-  "num_followers": 32720,
+  "num_followers": 32798,
   "original_name": "Raised on Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDI0OWJiN2ViNzFjYzA4YjAxOGU5ZTkzZGFmMjk1ZmNm",
+  "snapshot_id": "MTY0OTc5NjA1NSwwMDAwMDAwMDI2OTA4NjViMThmMzM4YzMwYjM0M2JmYmE1ZWU3ODkw",
   "tracks": [
     {
       "added_at": "2020-09-29 17:19:21",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "Homebase",
-        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Jazzmatazz Volume 1",
@@ -303,6 +287,22 @@
       "duration_ms": 279640,
       "name": "Loungin'",
       "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "Homebase",
+        "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
     },
     {
       "added_at": "2021-03-19 15:07:31",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
     },
     {
-      "added_at": "2022-01-10 20:50:24",
-      "album": {
-        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
-        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
-      },
-      "artists": [
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "Mistadobalina",
-      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
-    },
-    {
       "added_at": "2020-09-29 17:19:21",
       "album": {
         "name": "Profilin': The Hits",
@@ -379,6 +363,22 @@
       "duration_ms": 301893,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/3Yxmpx64AdWAzG3qAD4Dty"
+    },
+    {
+      "added_at": "2022-01-10 20:50:24",
+      "album": {
+        "name": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
+        "url": "https://open.spotify.com/album/2XYtkhFpj90gSdbdmk0Wur"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "Mistadobalina",
+      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC"
     },
     {
       "added_at": "2021-04-08 15:31:12",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/6jg8Y7gArYgZeXUBPMre0V"
     },
     {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 272706,
-      "name": "Tennessee",
-      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
-    },
-    {
       "added_at": "2021-03-19 15:07:31",
       "album": {
         "name": "Life After Death (2014 Remaster)",
@@ -483,6 +467,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 272706,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/1aaoIHFT9UqhlaEwLAhh00"
     },
     {
       "added_at": "2020-09-29 17:19:21",
@@ -587,38 +587,6 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
-        "name": "Holy Intellect (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
-      },
-      "artists": [
-        {
-          "name": "Poor Righteous Teachers",
-          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
-        }
-      ],
-      "duration_ms": 311080,
-      "name": "Rock Dis Funky Joint",
-      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
-        "name": "2 Hype",
-        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
-      },
-      "artists": [
-        {
-          "name": "Kid 'N Play",
-          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Gittin' Funky",
-      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
-    },
-    {
-      "added_at": "2020-09-29 17:19:21",
-      "album": {
         "name": "RUN-DMC (Expanded Edition)",
         "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
       },
@@ -635,6 +603,22 @@
     {
       "added_at": "2020-09-29 17:19:21",
       "album": {
+        "name": "Holy Intellect (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79kOIV8l2lC7oZtRrvjNPm"
+      },
+      "artists": [
+        {
+          "name": "Poor Righteous Teachers",
+          "url": "https://open.spotify.com/artist/1j6sK1bUYK36UNfLjdOfFy"
+        }
+      ],
+      "duration_ms": 311080,
+      "name": "Rock Dis Funky Joint",
+      "url": "https://open.spotify.com/track/4sqa3la7lW1uCj10PuUiJK"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/3QcgmERUy859oM1YDj9hAT"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224826,
       "name": "Monie in the Middle",
       "url": "https://open.spotify.com/track/6RiQpptxeHspavyW50JiEw"
+    },
+    {
+      "added_at": "2020-09-29 17:19:21",
+      "album": {
+        "name": "2 Hype",
+        "url": "https://open.spotify.com/album/1XN7cuhq8ZIvWsUUZ9xDzR"
+      },
+      "artists": [
+        {
+          "name": "Kid 'N Play",
+          "url": "https://open.spotify.com/artist/7mldB9nEb6VC2cUj7EcgFw"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "Gittin' Funky",
+      "url": "https://open.spotify.com/track/1gnOtJnOZErFPsADj08XVr"
     },
     {
       "added_at": "2020-09-29 17:19:21",

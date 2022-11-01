@@ -4,7 +4,7 @@
 
 > Start the day with a morning run together with these easy and joyful tracks.
 
-122 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/2WAtRSHZaBulDBBbec59eF)
+123 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2WAtRSHZaBulDBBbec59eF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [breathin](https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:18 | 2021-11-26 |  |
 | [Burn](https://open.spotify.com/track/0xMd5bcWTbyXS7wPrBtZA6) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 3:51 | 2022-06-10 | 2022-10-15 |
 | [Burn](https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/2Dw4fYqDQnxsgoXDdMbqh3) | 3:51 | 2022-01-21 | 2022-04-21 |
+| [Burn](https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Nights](https://open.spotify.com/album/1gKVOJVxDTqw9IaCbKaYd4) | 3:51 | 2022-08-26 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [DNCE](https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh) | 3:39 | 2021-11-26 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2022-08-12 |  |
 | [Cheap Thrills \(feat\. Sean Paul\)](https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:44 | 2022-06-10 | 2022-08-13 |
@@ -109,7 +110,7 @@
 | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:42 | 2022-01-21 | 2022-09-20 |
 | [Sorry](https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:20 | 2021-11-26 |  |
 | [Spaces](https://open.spotify.com/track/4yE2cyRZyXzgP8OVZfGDK6) | [GRAHM](https://open.spotify.com/artist/1vO1ZQwWzPZXXhxkOT13Wl) | [Spaces](https://open.spotify.com/album/2fPg6MRdAWKV43Bul3RQH3) | 4:46 | 2021-11-26 | 2022-07-29 |
-| [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 | 2021-11-26 |  |
+| [Stargazing](https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Stargazing \- EP](https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2) | 3:56 | 2021-11-26 | 2022-11-01 |
 | [Stay \(feat\. Maty Noyes\)](https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:59 | 2022-01-21 | 2022-04-20 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-11-26 |  |
 | [Stitches \- Seeb Remix](https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Stitches \(Seeb Remix\)](https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV) | 2:47 | 2022-01-21 | 2022-07-29 |

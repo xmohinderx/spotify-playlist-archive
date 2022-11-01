@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 158675,
+  "num_followers": 158707,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ5NDQxOCwwMDAwMDAwMGM4M2QyOGM4NWMyY2U3ZTFiN2Y5M2NiZjIxOWE3NTIz",
+  "snapshot_id": "MTY2NDQ5NDQxOCwwMDAwMDAwMDhlN2RlNmJlNmZkZjk2NmQ5MDIwZThlYTkzZWU2NmI4",
   "tracks": [
     {
       "added_at": "2022-09-29 23:26:16",
@@ -223,6 +223,30 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
         "name": "Volare",
         "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
@@ -279,26 +303,18 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+        "name": "Si Te La Encuentras Por Ah\u00ed",
+        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+      "duration_ms": 191573,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -323,22 +339,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Si Te La Encuentras Por Ah\u00ed",
-        "url": "https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 139576,
-      "name": "TE DESEO LO MEJOR",
-      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -467,6 +451,22 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139576,
+      "name": "TE DESEO LO MEJOR",
+      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "No Sabe Igual",
-        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "No Sabe Igual",
-      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -751,6 +735,38 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "No Sabe Igual",
+        "url": "https://open.spotify.com/album/4hU6NEWq45slvWt16hEgX3"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136062,
+      "name": "No Sabe Igual",
+      "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 198706,
       "name": "BEB\u00c9",
       "url": "https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "NOW",
-        "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 192507,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Otra Noche Sin Ti",
         "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
@@ -919,18 +899,22 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 192507,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/5gJuYaon5zaZahQyAd0LVx"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -947,6 +931,22 @@
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
+        "name": "Club Diecis\u00e9is",
+        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 171832,
+      "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
+      "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
         "name": "Dos Problemas (feat. Big Soto) [Remix]",
         "url": "https://open.spotify.com/album/6J5v3KTP6mYNd02doPo4mM"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 243216,
       "name": "Dos Problemas (feat. Big Soto) - Remix",
       "url": "https://open.spotify.com/track/7bx66Je824Iak8c1CfsMrE"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
-        "name": "Club Diecis\u00e9is",
-        "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 171832,
-      "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
-      "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Portales",
-        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Dopamina",
         "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "T\u00edrame Un Hello",
-        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
+        "name": "Portales",
+        "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
       "artists": [
         {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello",
-      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
+      "duration_ms": 155586,
+      "name": "Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/2gWN7hIUWkNR6aBBIE7tLG"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1399,6 +1383,22 @@
       "duration_ms": 191223,
       "name": "Apaga la Luz",
       "url": "https://open.spotify.com/track/3RcUVxCMyG9HXmmDbNHQmM"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "T\u00edrame Un Hello",
+        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello",
+      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
-        "name": "Canciones Pa Mi Ex Vol.1",
-        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 148149,
-      "name": "Fue Lindo",
-      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
-    },
-    {
-      "added_at": "2022-09-29 23:26:16",
-      "album": {
         "name": "Tu Veneno",
         "url": "https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS"
       },
@@ -1483,22 +1451,18 @@
     {
       "added_at": "2022-09-29 23:26:16",
       "album": {
-        "name": "Ya No Somos",
-        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
       },
       "artists": [
         {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 189152,
-      "name": "Ya No Somos",
-      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-09-29 23:26:16",
@@ -1523,6 +1487,42 @@
       "duration_ms": 229946,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/54FoR5osiOJtVae7SCdSnq"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "Canciones Pa Mi Ex Vol.1",
+        "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 148149,
+      "name": "Fue Lindo",
+      "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
+    },
+    {
+      "added_at": "2022-09-29 23:26:16",
+      "album": {
+        "name": "Ya No Somos",
+        "url": "https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Ya No Somos",
+      "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     },
     {
       "added_at": "2022-09-29 23:26:16",

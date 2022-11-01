@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 31245,
+  "num_followers": 31292,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMGJiMzU5ZTM1OGE3ZGM0MjljYzE5MmNjOTk0YzVmYmIx",
+  "snapshot_id": "MTY2MzAyMTY3OSwwMDAwMDAwMDcyN2U4ODM4YmE3OWJkNzhlMjUxYjI0OGFhZWFlZDI1",
   "tracks": [
     {
       "added_at": "2022-09-12 22:27:59",
@@ -863,6 +863,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/5zf588YtEJAR9rQBP8NeOb"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 371706,
       "name": "Casanova - Extended Version",
       "url": "https://open.spotify.com/track/1Q2lpDwSeNTn5qawq0IkVu"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 295125,
+      "name": "Bad Girls - 12\" Version",
+      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 244733,
       "name": "Put Your Body In It",
       "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 295125,
-      "name": "Bad Girls - 12\" Version",
-      "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Cuchi-Cuchi",
-        "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
+        "name": "Donna Summer (Re-Mastered & Expanded)",
+        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
       },
       "artists": [
         {
-          "name": "Charo",
-          "url": "https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I"
-        },
-        {
-          "name": "The Salsoul Orchestra",
-          "url": "https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4"
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
         }
       ],
-      "duration_ms": 377405,
-      "name": "Dance A Little Bit Closer - 12\" Mix",
-      "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
+      "duration_ms": 262320,
+      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
+      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
-        "name": "Donna Summer (Re-Mastered & Expanded)",
-        "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
+        "name": "Cuchi-Cuchi",
+        "url": "https://open.spotify.com/album/6chDvBqfNYlYh6NtGAo8ht"
       },
       "artists": [
         {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+          "name": "Charo",
+          "url": "https://open.spotify.com/artist/0WKIRXNWr6cYlm8ZYVXD1I"
+        },
+        {
+          "name": "The Salsoul Orchestra",
+          "url": "https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4"
         }
       ],
-      "duration_ms": 262320,
-      "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
-      "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+      "duration_ms": 377405,
+      "name": "Dance A Little Bit Closer - 12\" Mix",
+      "url": "https://open.spotify.com/track/3cwMDPUQ0Y8PQSg68HV2Fn"
     },
     {
       "added_at": "2022-09-12 22:27:59",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-09-12 22:27:59",
       "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 429813,
+      "name": "Angel in My Pocket - Extended Version",
+      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
+    },
+    {
+      "added_at": "2022-09-12 22:27:59",
+      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 317480,
       "name": "Victim",
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
-    },
-    {
-      "added_at": "2022-09-12 22:27:59",
-      "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 429813,
-      "name": "Angel in My Pocket - Extended Version",
-      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
     },
     {
       "added_at": "2022-09-12 22:27:59",

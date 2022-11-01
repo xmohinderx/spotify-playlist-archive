@@ -1533,7 +1533,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -5423,6 +5423,24 @@
       "duration_ms": 255066,
       "name": "Sun Is Shining",
       "url": "https://open.spotify.com/track/5kBHjpK4YGXVnOMXDUDjgX"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "album": {

@@ -1,28 +1,28 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 63082,
+  "num_followers": 63100,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYwNDAxMSwwMDAwMDAwMGU3YTJmZWJiYWYzMWJiN2E0MWRkNzkzMmU5N2E3ODdm",
+  "snapshot_id": "MTY2NzE4NTQwMCwwMDAwMDAwMDBhNzhjNGEzZjQyMDM0NTZlMDYzZmU4MTI0YzI3YTQ3",
   "tracks": [
     {
-      "added_at": "2022-10-31 01:30:30",
+      "added_at": "2022-11-01 01:32:45",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw"
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/389b4U72Vr5x3oiHa8RPa2"
       },
       "artists": [
         {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
         }
       ],
-      "duration_ms": 207107,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ"
+      "duration_ms": 200773,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5KYo9TWZkFvypernAQDp1M"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -39,22 +39,6 @@
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2022-10-31 01:30:30",
-      "album": {
-        "name": "i'm sorry",
-        "url": "https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 224673,
-      "name": "i'm sorry",
-      "url": "https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -325,6 +309,22 @@
       "url": "https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv"
     },
     {
+      "added_at": "2022-10-24 09:33:31",
+      "album": {
+        "name": "i'm sorry",
+        "url": "https://open.spotify.com/album/5aWgEPJqCnnc2wdmMHWc7B"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 224673,
+      "name": "i'm sorry",
+      "url": "https://open.spotify.com/track/6WVcHr4xidTULfA2GJh2ZR"
+    },
+    {
       "added_at": "2022-10-17 14:37:21",
       "album": {
         "name": "Spotify Singles",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
+        "name": "Six Feet Apart",
+        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "Six Feet Apart",
+      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
         "name": "Peace Or Love",
         "url": "https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 249937,
       "name": "Grow As We Go (feat. Sara Bareilles)",
       "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
-        "name": "Six Feet Apart",
-        "url": "https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "Six Feet Apart",
-      "url": "https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
-        "name": "Love Adolescent",
-        "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
-      },
-      "artists": [
-        {
-          "name": "Michael Carreon",
-          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
-        }
-      ],
-      "duration_ms": 263633,
-      "name": "The Simple Things",
-      "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
         "name": "A World Gone By",
         "url": "https://open.spotify.com/album/1v6uXxqTdAlPttUpBFesB8"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 253597,
       "name": "Ordinary People",
       "url": "https://open.spotify.com/track/3y8PDnOgyPXasEnEoYKXwb"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
+        "name": "Love Adolescent",
+        "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
+      },
+      "artists": [
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        }
+      ],
+      "duration_ms": 263633,
+      "name": "The Simple Things",
+      "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -777,6 +777,38 @@
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
     },
     {
+      "added_at": "2022-10-24 09:33:31",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/4c8A95egg8m0QCgWYxGisw"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 207107,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7uhaG1MmBzH5KU6X0TMNBJ"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
+        "name": "Secret (Acoustic)",
+        "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
+      },
+      "artists": [
+        {
+          "name": "Angel Snow",
+          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Secret - Acoustic",
+      "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
+    },
+    {
       "added_at": "2022-10-17 14:37:21",
       "album": {
         "name": "January",
@@ -795,18 +827,18 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
-        "name": "Secret (Acoustic)",
-        "url": "https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3"
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
       "artists": [
         {
-          "name": "Angel Snow",
-          "url": "https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Secret - Acoustic",
-      "url": "https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS"
+      "duration_ms": 201266,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -839,22 +871,6 @@
       "duration_ms": 180466,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
-        "name": "Here With Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
-      },
-      "artists": [
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 164478,
-      "name": "Here With Me - Acoustic",
-      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
         "name": "Fingertips",
         "url": "https://open.spotify.com/album/0V6P8zzga41xlAM7YWF7pO"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
-        "name": "Luna Moth",
-        "url": "https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8"
+        "name": "Here With Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
         }
       ],
-      "duration_ms": 204135,
-      "name": "Luna Moth",
-      "url": "https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL"
+      "duration_ms": 164478,
+      "name": "Here With Me - Acoustic",
+      "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -1015,6 +1015,22 @@
       "duration_ms": 153885,
       "name": "\u2014star.",
       "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
+        "name": "Luna Moth",
+        "url": "https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 204135,
+      "name": "Luna Moth",
+      "url": "https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 191953,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 195752,
       "name": "Found",
       "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 191953,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -1135,6 +1151,22 @@
     {
       "added_at": "2022-10-17 14:37:21",
       "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2022-10-17 14:37:21",
+      "album": {
         "name": "Small Town Boy (Deluxe)",
         "url": "https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd"
       },
@@ -1163,22 +1195,6 @@
       "duration_ms": 222704,
       "name": "Wildflowers",
       "url": "https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2022-10-17 14:37:21",
@@ -1231,26 +1247,6 @@
       "duration_ms": 251819,
       "name": "Don't Stop Believing",
       "url": "https://open.spotify.com/track/2cPPd2bGMjuxUcYPA2Y7fh"
-    },
-    {
-      "added_at": "2022-10-17 14:37:21",
-      "album": {
-        "name": "You Belong To Somebody Else",
-        "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 199144,
-      "name": "You Belong To Somebody Else",
-      "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

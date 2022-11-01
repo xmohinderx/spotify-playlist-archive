@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,235 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,270 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 22 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 23 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
 | 24 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
-| 25 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
-| 26 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
-| 27 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
-| 28 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
+| 25 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
+| 26 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
+| 27 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 |
+| 28 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
 | 29 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
 | 30 | [Spider](https://open.spotify.com/track/2yfozOE8IyeOz8NLqmU0OT) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Spider](https://open.spotify.com/album/6BLGrbjxYgMxugvnOJLfxx) | 2:54 |
 | 31 | [Natural](https://open.spotify.com/track/6BZ0VMdtzWZZ3ecUMKmarw) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 3:40 |
@@ -58,25 +58,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 48 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
 | 49 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
 | 50 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
-| 51 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
-| 52 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
-| 53 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
-| 54 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
+| 51 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
+| 52 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
+| 53 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
+| 54 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
 | 55 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
-| 56 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
+| 56 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
 | 57 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 |
 | 58 | [inside out](https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:28 |
 | 59 | [With You](https://open.spotify.com/track/06kvUr3p93vBQT1n1Dv3Se) | [Rellek Brown](https://open.spotify.com/artist/5YZZLC4P2XEqDLsQDoGsME) | [With You](https://open.spotify.com/album/11Tq32iGErxMwUQqpYom5r) | 3:11 |
-| 60 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 |
-| 61 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 |
-| 62 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
-| 63 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
-| 64 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 |
-| 65 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 |
+| 60 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
+| 61 | [Heaven](https://open.spotify.com/track/7EqgMVJIt8rUhf1OZJrxtx) | [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [Encore](https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK) | 3:28 |
+| 62 | [Damaged](https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Damaged](https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z) | 3:16 |
+| 63 | [deeper](https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 4:39 |
+| 64 | [Leave It All Behind](https://open.spotify.com/track/3qVvrLFBxnn2QwLJp5b6ST) | [Bumpy](https://open.spotify.com/artist/1uAUZi6INPwUJIZw00ElUS) | [Leave It All Behind](https://open.spotify.com/album/7sDIYblX51PE0P5Dd2P4wh) | 3:55 |
+| 65 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 |
 | 66 | [Open Up](https://open.spotify.com/track/4UDVrGYUdqaJ8o3yL1snpV) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Dawn](https://open.spotify.com/album/0UoHPF3kjLWKwSHkfmvlIq) | 3:51 |
 | 67 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 |
 | 68 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 | 69 | [Jasmine](https://open.spotify.com/track/25AouMLMx284p5h06BcYBH) | [MOHI](https://open.spotify.com/artist/7Js2UhLghB9qaiZRfK275R) | [Jasmine](https://open.spotify.com/album/6hvqJBXUe6Zgd8yfL6zI3r) | 3:29 |
 | 70 | [Changes](https://open.spotify.com/track/0O3YBAj2Ly1LDA2Q0QtjTQ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Changes](https://open.spotify.com/album/5YQ0n6vBeXrc5vbnls88ha) | 3:23 |
 
-Snapshot ID: `MTY2NjI3MDQwNCwwMDAwMDAwMDVlM2I0YzYyNWQ0MGY3NDFkODQzMzA2NTFjYjgwZWIw`
+Snapshot ID: `MTY2NjI3MDQwNCwwMDAwMDAwMDEyNmVlOWI5ZjhlMzYzMGNjM2I0ZDZjOWRmY2FlODRh`

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2321,
+  "num_followers": 2327,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMDUyN2YzMTg4NjNjOTAyOWJjMTMwZjg1YTQ5MjI5Mjc1",
+  "snapshot_id": "MTY2NTExNzM1NSwwMDAwMDAwMGQ5MTY3ZjhjN2IyMGUzZDIyODA5ZWE4ZDEyMGFjM2Nj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:35:55",
@@ -339,6 +339,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Coming To You Live",
+        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 204218,
+      "name": "Know Me (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me the Money 777 Episode 1",
         "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
       },
@@ -387,6 +407,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 200142,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Unwanted Life",
         "url": "https://open.spotify.com/album/3PUy3iSMoPWXNLezd6bi3r"
       },
@@ -403,38 +439,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Coming To You Live",
-        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
       },
       "artists": [
         {
           "name": "DPR LIVE",
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
         }
       ],
-      "duration_ms": 204218,
-      "name": "Know Me (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/0c0Gf3FpG1NKKThB434Qbl"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 200142,
-      "name": "Siren",
-      "url": "https://open.spotify.com/track/4eFXETUyAguBzHZ1KkOAAZ"
+      "duration_ms": 103119,
+      "name": "just dream it",
+      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -507,22 +523,6 @@
       "duration_ms": 196706,
       "name": "Acceptance Speech (Feat. B.I)",
       "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 103119,
-      "name": "just dream it",
-      "url": "https://open.spotify.com/track/0Iz4In7qPeiZXLvt6YhOwP"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/4WkcSqzSz1q7oNpZEBNZFc"
       },
@@ -779,22 +763,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "2 4 : 2 6",
-        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        }
-      ],
-      "duration_ms": 257919,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 224856,
       "name": "Flow Away",
       "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "2 4 : 2 6",
+        "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "duration_ms": 257919,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0XAjKGJBKFVfiG3XvGwIcH"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 2",
         "url": "https://open.spotify.com/album/6KPCcxkR5B80HyRQaAjqiq"
       },
@@ -899,18 +879,18 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Man proposes God disposes",
-        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+        "name": "Show Me the Money 5 Episode 3",
+        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
       "artists": [
         {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Man proposes God disposes",
-      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
+      "duration_ms": 261196,
+      "name": "Forever (Prod. By GRAY)",
+      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -947,18 +927,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Show Me the Money 5 Episode 3",
-        "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
       "artists": [
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         }
       ],
-      "duration_ms": 261196,
-      "name": "Forever (Prod. By GRAY)",
-      "url": "https://open.spotify.com/track/4wFAvJ6hmcjEJPUw3ap2CM"
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -991,30 +975,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 362314,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -1043,6 +1003,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 216428,
       "name": "SUPERNOVA (Feat. CHANGMO, GSoul & DUT2)",
       "url": "https://open.spotify.com/track/0qaKZzxxFzRGnbvGmfcs5S"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 362314,
+      "name": "WORLDWIDE",
+      "url": "https://open.spotify.com/track/7vjHsRjCtkyzGkzFnZk2eY"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 102753,
-      "name": "Till I Die",
-      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "Show Me the Money 5 Episode 1",
         "url": "https://open.spotify.com/album/5UQev1u3NhjIYEmq4dvYMw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 282197,
       "name": "Air DoTheQ",
       "url": "https://open.spotify.com/track/4upOsnQ7cX92RhM4WYj94b"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 102753,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 161191,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 210923,
       "name": "\uc545\ucc29\uac19\uc774 (Feat. \ud638\ubbf8\ub4e4)",
       "url": "https://open.spotify.com/track/6UeoIWK1kN7bACDiAz0Ll1"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "Show Me the Money 5 Episode 3",
         "url": "https://open.spotify.com/album/2dJUR9ZUYXb4pcgqmzXRpA"
       },
@@ -1611,18 +1627,26 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+      "duration_ms": 184586,
+      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
+      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1659,30 +1683,6 @@
       "duration_ms": 241777,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
-      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        }
+      ],
+      "duration_ms": 123287,
+      "name": "MIRACLE(Album version)",
+      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        }
-      ],
-      "duration_ms": 123287,
-      "name": "MIRACLE(Album version)",
-      "url": "https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
         "name": "MULTILLIONAIRE",
         "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
       },
@@ -1807,26 +1807,6 @@
       "duration_ms": 291066,
       "name": "111%",
       "url": "https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
-        }
-      ],
-      "duration_ms": 256071,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1851,6 +1831,26 @@
       "duration_ms": 189834,
       "name": "Double Up (Feat. skinny brown, CK)",
       "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
     },
     {
       "added_at": "2022-10-07 04:35:55",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2022-10-07 04:35:55",
       "album": {
+        "name": "THE STRANGER",
+        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
+      },
+      "artists": [
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+        }
+      ],
+      "duration_ms": 161631,
+      "name": "GOT TO KNOW",
+      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
+    },
+    {
+      "added_at": "2022-10-07 04:35:55",
+      "album": {
         "name": "MULTILLIONAIRE",
         "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 237815,
       "name": "Still On My Way",
       "url": "https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ"
-    },
-    {
-      "added_at": "2022-10-07 04:35:55",
-      "album": {
-        "name": "THE STRANGER",
-        "url": "https://open.spotify.com/album/68qFH3Tshdnqp4u3ttmHJB"
-      },
-      "artists": [
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
-        }
-      ],
-      "duration_ms": 161631,
-      "name": "GOT TO KNOW",
-      "url": "https://open.spotify.com/track/4YwC2hm29FAHzKtO2TTIXc"
     },
     {
       "added_at": "2022-10-07 04:35:55",

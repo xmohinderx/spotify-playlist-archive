@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-588 songs - 1 day 7 hr 18 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+589 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Aldrig mer tillbaka](https://open.spotify.com/track/0TRWebGVO0wuelGMnAHkkm) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Älskling EP](https://open.spotify.com/album/0ksVRgGY7uTN70btWV3ObS) | 2:56 | 2022-04-07 |  |
 | [Aldrig Nu](https://open.spotify.com/track/3qoMs4kUASB2z2wTyO8hJf) | [MIA](https://open.spotify.com/artist/364nwDA1paIChosKjuNMV3) | [Aldrig Nu](https://open.spotify.com/album/5RO32hFSccBxgZkxHxOwuo) | 3:50 | 2021-12-16 | 2022-03-11 |
 | [Aldrig Nånsin](https://open.spotify.com/track/4RJEkGx7A2cBPAbpZ97EhF) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Aldrig Nånsin](https://open.spotify.com/album/3PcrPJevf4LpzSnsHYyADS) | 3:06 | 2021-12-16 | 2022-03-11 |
-| [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 | 2022-04-01 |  |
+| [Aldrig säga aldrig](https://open.spotify.com/track/4Za77Ywg9rpSmK24PkWBxU) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Aldrig säga aldrig](https://open.spotify.com/album/48c81KMFLdJJO9lJpuvGr8) | 3:10 | 2022-04-01 | 2022-11-01 |
 | [Aldrig varit du](https://open.spotify.com/track/0z0qh8NUY5OMwbm4NU2dPS) | [Theo Ama](https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ) | [Aldrig varit du](https://open.spotify.com/album/07xGfv3Iwl2pnxIxaMGo6U) | 2:41 | 2022-07-21 | 2022-07-27 |
 | [All My Heroes](https://open.spotify.com/track/3kznrAMtKVUCyIwd6RPnYN) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/7tbUp2NTr7CxIgIF04Kf5U) | 3:25 | 2022-03-10 | 2022-05-11 |
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
@@ -249,6 +249,7 @@
 | [I Tryyy](https://open.spotify.com/track/5HmGO03u18BN9rNxQC2Gjd) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [I Tryyy](https://open.spotify.com/album/1X0qO82VYKKv16gYpOQLuR) | 4:11 | 2022-06-16 | 2022-06-18 |
 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/7Hjo1HHU4AEnYc509tRhjK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [I Will Be Better Than You At Letting Go](https://open.spotify.com/album/5Zhiw61adJtxcJtoILhQ2b) | 2:46 | 2022-04-07 | 2022-04-30 |
 | [I'm Coming Home](https://open.spotify.com/track/4UKu4kk8t9fTj9RsqxSMV5) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [I'm Coming Home](https://open.spotify.com/album/4NacRixpn1ImOnKmwlgBfc) | 1:21 | 2022-06-21 |  |
+| [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-11-01 |  |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |

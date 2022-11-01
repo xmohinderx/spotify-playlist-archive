@@ -1,12 +1,12 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 443983,
+  "num_followers": 444010,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMGJkNWQ3OWRkODdjZWRmZDEyNmZjYzZjZDkzNzk3OWM4",
+  "snapshot_id": "MTY2NTY5NTM0OCwwMDAwMDAwMGZiM2NhNjRiZjlhMDMwYWY2ZWFiNDRkNWExMTVmMTkz",
   "tracks": [
     {
       "added_at": "2022-10-07 16:07:51",
@@ -195,42 +195,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -247,6 +211,22 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -271,26 +251,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "La Esquina del Mall",
-        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "La Esquina del Mall",
-      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Sin Se\u00f1al",
         "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
       },
@@ -311,6 +271,26 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "La Esquina del Mall",
+        "url": "https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 207387,
+      "name": "La Esquina del Mall",
+      "url": "https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -318,11 +298,35 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -351,26 +355,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -391,26 +375,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
       },
@@ -423,6 +387,22 @@
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -459,26 +439,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
-      },
-      "artists": [
-        {
-          "name": "NATYASH",
-          "url": "https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST"
-        },
-        {
-          "name": "Sara Hebe",
-          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
-        }
-      ],
-      "duration_ms": 219414,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
       },
@@ -503,18 +463,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "NATYASH",
+          "url": "https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST"
+        },
+        {
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 219414,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -555,6 +519,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -675,6 +659,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Miel",
-        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 124589,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Sin Novia",
         "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 159482,
       "name": "Nota",
       "url": "https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "duration_ms": 124589,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "El Cielo Se Me Cay\u00f3",
+        "url": "https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 123041,
+      "name": "El Cielo Se Me Cay\u00f3",
+      "url": "https://open.spotify.com/track/7q72vajxaywdWMdena6o54"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 198540,
       "name": "Sci-Fi",
       "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "El Cielo Se Me Cay\u00f3",
-        "url": "https://open.spotify.com/album/49E0S14vGXYJSMrloi57sn"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 123041,
-      "name": "El Cielo Se Me Cay\u00f3",
-      "url": "https://open.spotify.com/track/7q72vajxaywdWMdena6o54"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
-        "name": "Favorito",
-        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 211613,
-      "name": "Favorito",
-      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
         "name": "LENTITO",
         "url": "https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3"
       },
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Favorito",
+        "url": "https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 211613,
+      "name": "Favorito",
+      "url": "https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
@@ -1417,7 +1417,7 @@
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
     },
     {
-      "added_at": "2022-10-31 01:40:13",
+      "added_at": "2022-11-01 01:42:51",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Tacones Rojos (With John Legend)",
+        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Tacones Rojos - With John Legend",
+      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "Bomb\u00f3n",
         "url": "https://open.spotify.com/album/0GFImdl3NY6mK69oBH9J4g"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 182089,
       "name": "Chimbo",
       "url": "https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Tacones Rojos (With John Legend)",
-        "url": "https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Tacones Rojos - With John Legend",
-      "url": "https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W"
     },
     {
       "added_at": "2022-10-07 16:07:51",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2022-10-07 16:07:51",
       "album": {
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2022-10-07 16:07:51",
+      "album": {
         "name": "No Puede Ser (con Eladio Carrion)",
         "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
       },
@@ -1627,26 +1647,6 @@
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
-    },
-    {
-      "added_at": "2022-10-07 16:07:51",
-      "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
     },
     {
       "added_at": "2022-10-07 16:07:51",

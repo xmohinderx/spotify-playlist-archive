@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Álex Eugenio.
 
-307 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+308 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 | 2022-03-04 | 2022-04-09 |
 | [Cosa de Mi Imaginación](https://open.spotify.com/track/72mVVaM7TSPxAgCnSQ1Jr3) | [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok), [Roko](https://open.spotify.com/artist/6ojcfYFPAIR0IMn6JFJzMr), [Nacho Mur](https://open.spotify.com/artist/6cX4krqTwKWyrfU7QkzmDf) | [Cosa de Mi Imaginación](https://open.spotify.com/album/1HZAnw6s2oNMSckUeEVAbb) | 4:25 | 2022-04-01 | 2022-04-19 |
 | [Cruz del Sur](https://open.spotify.com/track/12XcueeDOyE1QHgkHZWJyY) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Diego Martez](https://open.spotify.com/artist/7gG4LD4vgTgOIK6mDLKMMX) | [Cruz del Sur](https://open.spotify.com/album/5aD3f3tNUtbVN3IeQbmkc9) | 5:06 | 2021-12-24 | 2022-02-18 |
-| [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 | 2021-12-24 |  |
+| [Cuando los Años Pasen](https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Después de Todo: Compilado Latinoamericano](https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX) | 3:03 | 2021-12-24 | 2022-11-01 |
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2021-12-24 |  |
 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 | 2021-12-24 |  |
 | [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 | 2021-12-24 |  |
@@ -221,6 +221,7 @@
 | [Piel de Chocolate](https://open.spotify.com/track/5XQh4vwyqX76llZj3rC3wr) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Piel de Chocolate](https://open.spotify.com/album/5g1fEzk22bhr46WFzg7pRw) | 3:37 | 2022-07-22 | 2022-08-26 |
 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 | 2022-07-22 |  |
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
+| [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 |  |
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2021-12-24 | 2022-07-28 |
 | [Pulmón](https://open.spotify.com/track/0cawJnGa5dqxVTBakjrfGd) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Pulmón](https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl) | 3:49 | 2022-04-01 | 2022-05-16 |
 | [Punto de No Retorno](https://open.spotify.com/track/5e0YvZ9pN4KJmhxkboPCpp) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Punto de No Retorno](https://open.spotify.com/album/7FhO2Owgg8bs15TB4vhChh) | 3:33 | 2022-02-04 | 2022-03-12 |

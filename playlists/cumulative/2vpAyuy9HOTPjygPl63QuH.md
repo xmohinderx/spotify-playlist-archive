@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-528 songs - 1 day 6 hr 38 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+529 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Visions \(feat\. Jena\)](https://open.spotify.com/track/55NSeWK8Kt9F24Bkj1jSGW) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Visions \(feat\. Jena\)](https://open.spotify.com/album/78MOzdvJblOkE5jEvnxASh) | 3:33 | 2022-06-10 | 2022-06-18 |
 | [Voices](https://open.spotify.com/track/1Bt5AlG0cCfgYgg76MABjc) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Voices](https://open.spotify.com/album/6sAUFVrj4Sw5OT08nt5bxe) | 2:52 | 2022-09-23 | 2022-10-01 |
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-08-05 | 2022-09-03 |
+| [Waist Thin Ass Fat](https://open.spotify.com/track/2DkdLt6NPPBNwxIQQI99D7) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Waist Thin Ass Fat](https://open.spotify.com/album/2yvBlvRgMqpoMbRiHUP7xy) | 4:04 | 2022-10-31 |  |
 | [Wait \(Kenty Clide Remix\)](https://open.spotify.com/track/76hQGlAuPjMh0uYxDfm1qU) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kenty Clide](https://open.spotify.com/artist/2Shy7amYgzRmadn7sX4Ri0) | [Wait \(Remixes\)](https://open.spotify.com/album/5Z1WbgKEYL2baoQWLDovBG) | 3:17 | 2022-04-28 | 2022-05-14 |
 | [Waiting](https://open.spotify.com/track/1cc2nVGNyYhT4gFHO43uuD) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Katie Bosworth](https://open.spotify.com/artist/28FYH39CCzDfykrD0PpA5J) | [Waiting](https://open.spotify.com/album/5RPCYlInHds49FBeHlglpA) | 4:24 | 2022-04-28 | 2022-05-14 |
 | [Waiting](https://open.spotify.com/track/3E3TP2YxTD3TBtoGxKJ3X4) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd) | [Waiting](https://open.spotify.com/album/1lRWLeid0IUaPuEz0a2c8u) | 3:48 | 2022-10-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Lainey Wilson, Russell Dickerson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,699 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,817 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

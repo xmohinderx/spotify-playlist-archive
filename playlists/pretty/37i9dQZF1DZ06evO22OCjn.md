@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,650 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,793 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Calm Down](https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 4:25 |
 | 50 | [Odogwu](https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Odogwu](https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA) | 3:05 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBmMmEzOWNjYzlmYzc3ZDcyZWQ3MTliMjE1ZjAwNjUxMg==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDBjYzcxNDc1ZjFkNjliMjBmOGE4MjVkMzI0MTk5NTNlMQ==`

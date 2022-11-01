@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 17092,
+  "num_followers": 17153,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDZlNzIzNjk1YWQwNmM1ZjdjZGU5YzI2ZTEzMWJlMTI1",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGIwYTY5ZmI2Y2YzMDc1Y2Q2OWE5NjhkZjFjMzJkMDMw",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177249,
-      "name": "Como Que Me Enamoro - En Vivo",
-      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -319,6 +303,38 @@
       "duration_ms": 194962,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177249,
+      "name": "Como Que Me Enamoro - En Vivo",
+      "url": "https://open.spotify.com/track/7IZ738mnMnhVhxzn8m06qn"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 278073,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -355,38 +371,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Desde El Cant\u00f3n (en Vivo)",
-        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 173663,
-      "name": "Me Estoy Enamorando - en Vivo",
-      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 278073,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/3lbCkWmaQKphoT2ZWdQrQs"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "MMXX's",
         "url": "https://open.spotify.com/album/7GukTesEXhrBTQNjorHbKv"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+        "name": "Desde El Cant\u00f3n (en Vivo)",
+        "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
       },
       "artists": [
         {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 209664,
-      "name": "Que Bonito Es Querer",
-      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
+      "duration_ms": 173663,
+      "name": "Me Estoy Enamorando - en Vivo",
+      "url": "https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -431,6 +415,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 209664,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/7Jcvu13qlP4km0uDX9p2pZ"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -667,6 +667,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "80% M\u00edo",
+        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Soy Para Ti",
         "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 160250,
       "name": "Soy Para Ti",
       "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "80% M\u00edo",
-        "url": "https://open.spotify.com/album/4bovzjkzR9rzjByiJitH0x"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/6iNwkkQ0JzYAflbTk405MD"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00e1gicos Besitos",
-        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "M\u00e1gicos Besitos",
-      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/7oX2OUdZkT1pOgOj7pfFRe"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 273386,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/7CWdtbKVwXWgWeWGzZiprW"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "M\u00e1gicos Besitos",
+        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "M\u00e1gicos Besitos",
+      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Te Quiero Aqui (Live Session)",
+        "url": "https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        },
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Te Quiero Aqui (Live Session)",
+      "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Dar\u00eda Todo Por Ti",
         "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
       },
@@ -1327,42 +1347,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "No Est\u00e1 De M\u00e1s",
-        "url": "https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 192642,
-      "name": "No Est\u00e1 De M\u00e1s",
-      "url": "https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Te Quiero Aqui (Live Session)",
-        "url": "https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        },
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Te Quiero Aqui (Live Session)",
-      "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Te Presumo",
         "url": "https://open.spotify.com/album/1cYCoUjpvXwpfAhOgDnFoF"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 179256,
       "name": "Te Presumo",
       "url": "https://open.spotify.com/track/0tFHkmet0a0XkW1ZEjv0Lh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "No Est\u00e1 De M\u00e1s",
+        "url": "https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 192642,
+      "name": "No Est\u00e1 De M\u00e1s",
+      "url": "https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Ya Me Vi",
-        "url": "https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25"
-      },
-      "artists": [
-        {
-          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
-          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
-        }
-      ],
-      "duration_ms": 171586,
-      "name": "Ya Me Vi",
-      "url": "https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Mi Flaca",
         "url": "https://open.spotify.com/album/6ER067IaW5l1r0vmvzefpq"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Ya Me Vi",
+        "url": "https://open.spotify.com/album/2yj7jiUObCnbAmUZJroe25"
+      },
+      "artists": [
+        {
+          "name": "Banda La Ejecutiva de Mazatlan Sinaloa",
+          "url": "https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y"
+        }
+      ],
+      "duration_ms": 171586,
+      "name": "Ya Me Vi",
+      "url": "https://open.spotify.com/track/4KutOSvfb2MFvR0ROX4jtS"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/376vclrFtiKhgh434miOCI"
       },
@@ -1595,38 +1595,6 @@
       "duration_ms": 159120,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4UPX8tA4fQ6hLLZzjEvI2K"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "M\u00eda",
-        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
-      },
-      "artists": [
-        {
-          "name": "Nuevo Elemento",
-          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "No Te Voy a Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO"
-      },
-      "artists": [
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        }
-      ],
-      "duration_ms": 196048,
-      "name": "No Te Voy a Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1663,6 +1631,38 @@
       "duration_ms": 225666,
       "name": "Me Gustas - Live",
       "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "No Te Voy a Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/491yKJJXDQHzlHB5kLO8aO"
+      },
+      "artists": [
+        {
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
+        }
+      ],
+      "duration_ms": 196048,
+      "name": "No Te Voy a Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/5MqeIXeVi4oMnyrtLFVUVh"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "M\u00eda",
+        "url": "https://open.spotify.com/album/3ly22PHkAVV8oZT0hJ18bp"
+      },
+      "artists": [
+        {
+          "name": "Nuevo Elemento",
+          "url": "https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/1FtgJQpa7QUD30TxjnzzpL"
     },
     {
       "added_at": "2022-02-11 20:24:54",

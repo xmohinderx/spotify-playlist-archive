@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee.",
-  "num_followers": 115257,
+  "num_followers": 115272,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMGZjMjljYWY4ZmEzY2JhYjdkNzQ0YjVlNjliZTlkODJh",
+  "snapshot_id": "MTY2NTY5ODQwMCwwMDAwMDAwMDIwOGNjZGFiZTRkZDg2YzI5Nzc5MmRhMTMxNGU5MDY0",
   "tracks": [
     {
       "added_at": "2022-10-13 22:00:00",
@@ -371,22 +371,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+        "name": "Little Airplanes",
+        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         }
       ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
+      "duration_ms": 330614,
+      "name": "Little Airplanes",
+      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -407,6 +403,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Obscure",
+        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
+      },
+      "artists": [
+        {
+          "name": "LYANE",
+          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
+        }
+      ],
+      "duration_ms": 153345,
+      "name": "Obscure",
+      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/4QrlY7zLqIns9wayxlvit3"
       },
@@ -423,18 +435,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Little Airplanes",
-        "url": "https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj"
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
         }
       ],
-      "duration_ms": 330614,
-      "name": "Little Airplanes",
-      "url": "https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz"
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -455,22 +471,6 @@
       "duration_ms": 163298,
       "name": "Shallow Breathing",
       "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Obscure",
-        "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
-      },
-      "artists": [
-        {
-          "name": "LYANE",
-          "url": "https://open.spotify.com/artist/0cQEcLmC43QHccKlphpAYK"
-        }
-      ],
-      "duration_ms": 153345,
-      "name": "Obscure",
-      "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Hundred Fifty Up",
+        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 264192,
+      "name": "Hundred Fifty Up",
+      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Gaia",
         "url": "https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 417391,
       "name": "Pelicanism",
       "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Hundred Fifty Up",
-        "url": "https://open.spotify.com/album/6LvmyVnczzlxxdC7c9xEvO"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 264192,
-      "name": "Hundred Fifty Up",
-      "url": "https://open.spotify.com/track/3ru2qqEuNU3mCFcr1bgb7C"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Ruby Veil",
-        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
-      },
-      "artists": [
-        {
-          "name": "Daniel Hokum",
-          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
-        }
-      ],
-      "duration_ms": 485006,
-      "name": "Blues On",
-      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Ruby Veil",
+        "url": "https://open.spotify.com/album/6qYiTQ9XQVfE0cyJWwFwLN"
+      },
+      "artists": [
+        {
+          "name": "Daniel Hokum",
+          "url": "https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd"
+        }
+      ],
+      "duration_ms": 485006,
+      "name": "Blues On",
+      "url": "https://open.spotify.com/track/3DEU62sc5nQrgunfkT6Tck"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -907,26 +907,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Solar Nights - The Remixes",
-        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
+        "name": "Schijn EP",
+        "url": "https://open.spotify.com/album/1n2xeiiI5Xg5QIF4L8TJj8"
       },
       "artists": [
         {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Anduze",
-          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
-        },
-        {
-          "name": "NTEIBINT",
-          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
+          "name": "Tijn Driessen",
+          "url": "https://open.spotify.com/artist/72rUaMyAbakKV2eF1K8Bbc"
         }
       ],
-      "duration_ms": 261908,
-      "name": "Athena - NTEIBINT Remix",
-      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
+      "duration_ms": 439626,
+      "name": "Schijn",
+      "url": "https://open.spotify.com/track/0BqIlgXl5N353o0wXseQkp"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -951,18 +943,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Schijn EP",
-        "url": "https://open.spotify.com/album/1n2xeiiI5Xg5QIF4L8TJj8"
+        "name": "Solar Nights - The Remixes",
+        "url": "https://open.spotify.com/album/1ncN3KtEAVTlRXi7ITwnNV"
       },
       "artists": [
         {
-          "name": "Tijn Driessen",
-          "url": "https://open.spotify.com/artist/72rUaMyAbakKV2eF1K8Bbc"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Anduze",
+          "url": "https://open.spotify.com/artist/52uJn5izVG1gicalLRYGQn"
+        },
+        {
+          "name": "NTEIBINT",
+          "url": "https://open.spotify.com/artist/6fJxi0zWcEG0argPVsSrXw"
         }
       ],
-      "duration_ms": 439626,
-      "name": "Schijn",
-      "url": "https://open.spotify.com/track/0BqIlgXl5N353o0wXseQkp"
+      "duration_ms": 261908,
+      "name": "Athena - NTEIBINT Remix",
+      "url": "https://open.spotify.com/track/0A4kpU4AJnf6l8TEni6RUh"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
+        "name": "Ltdblbl008",
+        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
+      },
+      "artists": [
+        {
+          "name": "Retromigration",
+          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
+        },
+        {
+          "name": "Nephews",
+          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
+        }
+      ],
+      "duration_ms": 396501,
+      "name": "Kindness",
+      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
         "name": "Messin' Around (Mogul Remix)",
         "url": "https://open.spotify.com/album/29hveGpUSeZEDiYOw78PdX"
       },
@@ -1183,26 +1203,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Ltdblbl008",
-        "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
-      },
-      "artists": [
-        {
-          "name": "Retromigration",
-          "url": "https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar"
-        },
-        {
-          "name": "Nephews",
-          "url": "https://open.spotify.com/artist/34Ky5XufX81eJrO9vYjbXQ"
-        }
-      ],
-      "duration_ms": 396501,
-      "name": "Kindness",
-      "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Echo Of Youth Remodel",
         "url": "https://open.spotify.com/album/736ZHBrEbC3XvvacaoA1t6"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 298440,
       "name": "Youth - Satin Jackets Remix",
       "url": "https://open.spotify.com/track/3Vm1sSi0FyIpQ7fYHHMW8Q"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+      },
+      "artists": [
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Parrot Fever",
-        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
+        "name": "Tempranillo",
+        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
       },
       "artists": [
         {
-          "name": "Kazam",
-          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
         }
       ],
-      "duration_ms": 268474,
-      "name": "Parrot Fever",
-      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
+      "duration_ms": 377060,
+      "name": "Tempranillo",
+      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Tempranillo",
-        "url": "https://open.spotify.com/album/2wJKMd7MSk2KB3JmlYfc4J"
+        "name": "Parrot Fever",
+        "url": "https://open.spotify.com/album/4bupRjY5TnuoO5MbSxBIKD"
       },
       "artists": [
         {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+          "name": "Kazam",
+          "url": "https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha"
         }
       ],
-      "duration_ms": 377060,
-      "name": "Tempranillo",
-      "url": "https://open.spotify.com/track/48KcLnGPfXDikD5Snv7q16"
+      "duration_ms": 268474,
+      "name": "Parrot Fever",
+      "url": "https://open.spotify.com/track/1oFLxZDxOVThs5gjWIFlrN"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Proto/Emotions",
-        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
-      },
-      "artists": [
-        {
-          "name": "Black Loops",
-          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Ballo Da Solo",
-      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Resilience",
         "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
@@ -1443,6 +1427,42 @@
       "duration_ms": 415903,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Proto/Emotions",
+        "url": "https://open.spotify.com/album/4rr2Eq0wpYVm7vPEb4QsrY"
+      },
+      "artists": [
+        {
+          "name": "Black Loops",
+          "url": "https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB"
+        }
+      ],
+      "duration_ms": 319743,
+      "name": "Ballo Da Solo",
+      "url": "https://open.spotify.com/track/78dqpHCQLKp9rwWAQpGBvM"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Cosmic Breeze 003",
+        "url": "https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq"
+      },
+      "artists": [
+        {
+          "name": "Toolate Groove",
+          "url": "https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN"
+        },
+        {
+          "name": "Reda",
+          "url": "https://open.spotify.com/artist/73gK6cuWHbh5kUPwvKd4im"
+        }
+      ],
+      "duration_ms": 466398,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1495,26 +1515,6 @@
       "duration_ms": 224400,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/46qdT0wtTVMsPvpQnqdzPN"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
-        "name": "Cosmic Breeze 003",
-        "url": "https://open.spotify.com/album/7j6WWLDq1XvZX4LJmhwlYq"
-      },
-      "artists": [
-        {
-          "name": "Toolate Groove",
-          "url": "https://open.spotify.com/artist/2ztp3GKsaGp6ZWLzs12OEN"
-        },
-        {
-          "name": "Reda",
-          "url": "https://open.spotify.com/artist/73gK6cuWHbh5kUPwvKd4im"
-        }
-      ],
-      "duration_ms": 466398,
-      "name": "Keep Me Satisfied",
-      "url": "https://open.spotify.com/track/4YNHbvr4RfxsAWXIwSxyYs"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Voyage Direct (2020 Remaster)",
         "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
       },
@@ -1695,26 +1679,6 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
-      },
-      "artists": [
-        {
-          "name": "Somni",
-          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
-        },
-        {
-          "name": "Duren",
-          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
-        }
-      ],
-      "duration_ms": 191005,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
-    },
-    {
-      "added_at": "2022-10-13 22:00:00",
-      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1739,22 +1703,38 @@
     {
       "added_at": "2022-10-13 22:00:00",
       "album": {
-        "name": "What Should I Do",
-        "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
       },
       "artists": [
         {
-          "name": "Mike Rogers",
-          "url": "https://open.spotify.com/artist/30iQozQQHxvlI4n6SoCs3c"
-        },
-        {
-          "name": "Abee",
-          "url": "https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 175908,
-      "name": "What Should I Do",
-      "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/08SC4H56dAvQNwqhbOo18k"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Duren",
+          "url": "https://open.spotify.com/artist/6rNkP5FvNekmphnA8NCYE5"
+        }
+      ],
+      "duration_ms": 191005,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2PXDK2k7QSjGLfzBjuZ1hw"
     },
     {
       "added_at": "2022-10-13 22:00:00",
@@ -1775,6 +1755,26 @@
       "duration_ms": 314271,
       "name": "So High - Ron Carroll Late Nite Tweak Dub",
       "url": "https://open.spotify.com/track/70z3t4iKWlXnqxpYYKlWjJ"
+    },
+    {
+      "added_at": "2022-10-13 22:00:00",
+      "album": {
+        "name": "What Should I Do",
+        "url": "https://open.spotify.com/album/4XGCfM4K2z1ksTnKj8vPhX"
+      },
+      "artists": [
+        {
+          "name": "Mike Rogers",
+          "url": "https://open.spotify.com/artist/30iQozQQHxvlI4n6SoCs3c"
+        },
+        {
+          "name": "Abee",
+          "url": "https://open.spotify.com/artist/6m2g4euj5zHX4iI1Ufc7g2"
+        }
+      ],
+      "duration_ms": 175908,
+      "name": "What Should I Do",
+      "url": "https://open.spotify.com/track/5ottrg422qsSZyX7pVtuoL"
     },
     {
       "added_at": "2022-10-13 22:00:00",

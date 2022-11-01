@@ -1,12 +1,12 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 1544,
+  "num_followers": 1550,
   "original_name": "Gold Skool K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTI2MTY0MCwwMDAwMDAwMDEyZmZhODQ3NjgwYWZkMGJhZjBjYWJlMGQ1MjNjY2My",
+  "snapshot_id": "MTYyOTI2MTY0MCwwMDAwMDAwMGVhMzE5OGE4MTJjNjUyYzE2MjViZWJmODdjODYyZWMw",
   "tracks": [
     {
       "added_at": "2021-08-18 04:40:40",
@@ -139,22 +139,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Band of Dynamic Brothers",
-        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        }
-      ],
-      "duration_ms": 224893,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 187259,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Mirror (28 Look at Youth)",
         "url": "https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t"
       },
@@ -207,22 +175,34 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
+        "name": "Band of Dynamic Brothers",
+        "url": "https://open.spotify.com/album/4Vb6ViMVJhqYaCyV6Y7VU1"
       },
       "artists": [
         {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        },
-        {
-          "name": "AG",
-          "url": "https://open.spotify.com/artist/2Fi0a9OJGrQAcvbeRtJfV3"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 226373,
-      "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG)",
-      "url": "https://open.spotify.com/track/2RVjDCmtwaBf8RBq9kQGY8"
+      "duration_ms": 224893,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/0SPZ7y0fJiozsuWLSAocOl"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 187259,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/3ttJRHDJ9zuG9uU4qrE2VJ"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -263,18 +243,22 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
       },
       "artists": [
         {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/2Fi0a9OJGrQAcvbeRtJfV3"
         }
       ],
-      "duration_ms": 220957,
-      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
-      "url": "https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe"
+      "duration_ms": 226373,
+      "name": "\ubc18\uac11\uc2b5\ub2c8\ub2e4 (feat. AG)",
+      "url": "https://open.spotify.com/track/2RVjDCmtwaBf8RBq9kQGY8"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -319,46 +303,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Swan Songs",
-        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Kim Jong Wan of NELL",
-          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
-        }
-      ],
-      "duration_ms": 280053,
-      "name": "Let It Rain (feat. \uae40\uc885\uc644)",
-      "url": "https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/5X9HpdqvYTN9BKh27tkr2f"
-      },
-      "artists": [
-        {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        },
-        {
-          "name": "Sol Flower",
-          "url": "https://open.spotify.com/artist/4NoIpOwGPpKTSGETBltguG"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "No. 3 (feat. Sol Flower)",
-      "url": "https://open.spotify.com/track/0ld6OTonElmaIg1PLfbxZD"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "The Real Me",
         "url": "https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE"
       },
@@ -375,18 +319,22 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+        "name": "Swan Songs",
+        "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
       "artists": [
         {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Jong Wan of NELL",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
         }
       ],
-      "duration_ms": 200843,
-      "name": "\uc18c\uc678\ub41c \ubaa8\ub450, \uc67c\ubc1c\uc744 \ud55c \ubcf4 \uc55e\uc73c\ub85c!",
-      "url": "https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ"
+      "duration_ms": 280053,
+      "name": "Let It Rain (feat. \uae40\uc885\uc644)",
+      "url": "https://open.spotify.com/track/3bG8MFdLEqTXFtUkr1UrXW"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -435,38 +383,18 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "LUCKYNUMBERS",
-        "url": "https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF"
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Muzie",
-          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
         }
       ],
-      "duration_ms": 220880,
-      "name": "BAAAM (Feat. Muzie of UV)",
-      "url": "https://open.spotify.com/track/1Zhu3hBdD87txCgJvj3jrU"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "High Society",
-        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 218600,
-      "name": "\ud3c9\ud654\uc758 \ub0a0",
-      "url": "https://open.spotify.com/track/0JccxO232uQwz6Rl7TIjNQ"
+      "duration_ms": 220957,
+      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
+      "url": "https://open.spotify.com/track/2jsrFWgixfjCPU7oJVc3Xe"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -503,18 +431,58 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Drunken Tiger Best",
-        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+        "name": "High Society",
+        "url": "https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq"
       },
       "artists": [
         {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         }
       ],
-      "duration_ms": 211475,
-      "name": "\ub0a8\uc790\uae30 \ub54c\ubb38\uc5d0",
-      "url": "https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC"
+      "duration_ms": 218600,
+      "name": "\ud3c9\ud654\uc758 \ub0a0",
+      "url": "https://open.spotify.com/track/0JccxO232uQwz6Rl7TIjNQ"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/5X9HpdqvYTN9BKh27tkr2f"
+      },
+      "artists": [
+        {
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+        },
+        {
+          "name": "Sol Flower",
+          "url": "https://open.spotify.com/artist/4NoIpOwGPpKTSGETBltguG"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "No. 3 (feat. Sol Flower)",
+      "url": "https://open.spotify.com/track/0ld6OTonElmaIg1PLfbxZD"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "LUCKYNUMBERS",
+        "url": "https://open.spotify.com/album/4I0RE0MF6b3Hw4Z0iWosxF"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Muzie",
+          "url": "https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "BAAAM (Feat. Muzie of UV)",
+      "url": "https://open.spotify.com/track/1Zhu3hBdD87txCgJvj3jrU"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -555,26 +523,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 231386,
-      "name": "Chool Check (Feat. Naul For Brown Eyed Soul)",
-      "url": "https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "\ucd08\ud589",
         "url": "https://open.spotify.com/album/0BnkU6dYFzTvLgIANM8C2D"
       },
@@ -587,6 +535,22 @@
       "duration_ms": 307475,
       "name": "Baby Don'T Cry",
       "url": "https://open.spotify.com/track/0Fpjb7QcpOQldTpPbVdadK"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 200843,
+      "name": "\uc18c\uc678\ub41c \ubaa8\ub450, \uc67c\ubc1c\uc744 \ud55c \ubcf4 \uc55e\uc73c\ub85c!",
+      "url": "https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -639,6 +603,26 @@
       "duration_ms": 242706,
       "name": "My Style",
       "url": "https://open.spotify.com/track/40UsCnzkWu5B958U7BCNJR"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
+        }
+      ],
+      "duration_ms": 231386,
+      "name": "Chool Check (Feat. Naul For Brown Eyed Soul)",
+      "url": "https://open.spotify.com/track/4ZF6Qks7QaEr0lxaLoCxQP"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -699,6 +683,22 @@
       "duration_ms": 298109,
       "name": "\uc6b0\ub9ac \uac19\uc774\ud574\uc694",
       "url": "https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Drunken Tiger Best",
+        "url": "https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 211475,
+      "name": "\ub0a8\uc790\uae30 \ub54c\ubb38\uc5d0",
+      "url": "https://open.spotify.com/track/77tm4bsQ9boEXrlIOtI4eC"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -815,6 +815,42 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
+        "name": "but I \ub4dc\ub824",
+        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 218671,
+      "name": "\ub098\ub294\ub098\ubed0",
+      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Superior Vol. 1 - This Iz My Life",
+        "url": "https://open.spotify.com/album/6qMDEfSa6SB7YLaA6AaEQu"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Solo To The Top 2 (feat. Kim Bum Soo)",
+      "url": "https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/0iId2qa493w4lk0LEWhy35"
       },
@@ -847,6 +883,46 @@
       "duration_ms": 276800,
       "name": "\ub108\uac00 \ub0a0 \ub5a0\ub098\uba74 \uc548\ub418\ub294 \uc774\uc720",
       "url": "https://open.spotify.com/track/4qeHcnmSFGSsj3zYfHeaS1"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
+      },
+      "artists": [
+        {
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+        },
+        {
+          "name": "MC Sniper",
+          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
+      "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Quiet Storm: A Night Record",
+        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Basick, Rimi, Beenzino, Fana & San E",
+          "url": "https://open.spotify.com/artist/3aoEyffqOgo49pdydeDz8G"
+        }
+      ],
+      "duration_ms": 252920,
+      "name": "Airplane Music (feat. Basick, Rimi, Beenzino, Fana & San E)",
+      "url": "https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -884,69 +960,9 @@
           "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
         }
       ],
-      "duration_ms": 218671,
-      "name": "\ub098\ub294\ub098\ubed0",
-      "url": "https://open.spotify.com/track/42S1lt5LXC4HJKXgDyxcuB"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Quiet Storm: A Night Record",
-        "url": "https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC"
-      },
-      "artists": [
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "Basick, Rimi, Beenzino, Fana & San E",
-          "url": "https://open.spotify.com/artist/3aoEyffqOgo49pdydeDz8G"
-        }
-      ],
-      "duration_ms": 252920,
-      "name": "Airplane Music (feat. Basick, Rimi, Beenzino, Fana & San E)",
-      "url": "https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Superior Vol. 1 - This Iz My Life",
-        "url": "https://open.spotify.com/album/6qMDEfSa6SB7YLaA6AaEQu"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Solo To The Top 2 (feat. Kim Bum Soo)",
-      "url": "https://open.spotify.com/track/571Mbe40o9w04hbGRRVZdz"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
-      },
-      "artists": [
-        {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
-        },
-        {
-          "name": "MC Sniper",
-          "url": "https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "\uc80a\uc740\uc774\uc758 \uc591\uc9c0 (feat. MC Sniper)",
-      "url": "https://open.spotify.com/track/1Gg9JEerKSgFy9p5tV642n"
+      "duration_ms": 273345,
+      "name": "\uac1c \ud0a4\uc6cc",
+      "url": "https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -967,54 +983,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "HONEY FAMILY",
-        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
-      },
-      "artists": [
-        {
-          "name": "Honey Family",
-          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
-        }
-      ],
-      "duration_ms": 293041,
-      "name": "\ub7a9\uad50 1\ub9c9",
-      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "but I \ub4dc\ub824",
-        "url": "https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 273345,
-      "name": "\uac1c \ud0a4\uc6cc",
-      "url": "https://open.spotify.com/track/7nJajp3VF440nxyfmy8TSq"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Overclass - 2021 Remaster",
-      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Garion [Special Edition]",
         "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
       },
@@ -1031,6 +999,42 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
+        "name": "HONEY FAMILY",
+        "url": "https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T"
+      },
+      "artists": [
+        {
+          "name": "Honey Family",
+          "url": "https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX"
+        }
+      ],
+      "duration_ms": 293041,
+      "name": "\ub7a9\uad50 1\ub9c9",
+      "url": "https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Superior Vol. 2 - Seoul City's Finest",
+        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "Lim Jeong Hee",
+          "url": "https://open.spotify.com/artist/6VDMtQjKKIrMJ3bog4MdaJ"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Hiphop Music (feat. Lim Jeong Hee)",
+      "url": "https://open.spotify.com/track/15x7ZH3FVq146zBXEiS13P"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -1043,6 +1047,42 @@
       "duration_ms": 223640,
       "name": "You Don\u2019t Know",
       "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Best of Best",
+        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        },
+        {
+          "name": "\uc870\uc544",
+          "url": "https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI"
+        }
+      ],
+      "duration_ms": 256417,
+      "name": "\uac70\uc6b8 - New Version",
+      "url": "https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Andre",
+        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
+      },
+      "artists": [
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        }
+      ],
+      "duration_ms": 230797,
+      "name": "Spell My Name Right - Original Version",
+      "url": "https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1071,58 +1111,18 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Andre",
-        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
       },
       "artists": [
         {
-          "name": "yankie",
-          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
         }
       ],
-      "duration_ms": 230797,
-      "name": "Spell My Name Right - Original Version",
-      "url": "https://open.spotify.com/track/6TQyRDsOS92C9SvoRYlCkq"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Superior Vol. 2 - Seoul City's Finest",
-        "url": "https://open.spotify.com/album/1mGSvFoUY424YVLrMWBGW6"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "Lim Jeong Hee",
-          "url": "https://open.spotify.com/artist/6VDMtQjKKIrMJ3bog4MdaJ"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Hiphop Music (feat. Lim Jeong Hee)",
-      "url": "https://open.spotify.com/track/15x7ZH3FVq146zBXEiS13P"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Best of Best",
-        "url": "https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        },
-        {
-          "name": "\uc870\uc544",
-          "url": "https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI"
-        }
-      ],
-      "duration_ms": 256417,
-      "name": "\uac70\uc6b8 - New Version",
-      "url": "https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5"
+      "duration_ms": 223578,
+      "name": "Overclass - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4s39gBYJ7Zz8x97VPMaSWL"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1143,6 +1143,26 @@
       "duration_ms": 208066,
       "name": "Feeling You",
       "url": "https://open.spotify.com/track/6RCgCE0UuHV3FaLwE3DSwa"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Beatz 4 Da Streetz",
+        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
+      },
+      "artists": [
+        {
+          "name": "Joosuc",
+          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
+        },
+        {
+          "name": "YURI",
+          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "4 Life (feat. YURI)",
+      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1235,46 +1255,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Beatz 4 Da Streetz",
-        "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
-      },
-      "artists": [
-        {
-          "name": "Joosuc",
-          "url": "https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf"
-        },
-        {
-          "name": "YURI",
-          "url": "https://open.spotify.com/artist/3YXQOd2FjcAdsulPQNwRIX"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "4 Life (feat. YURI)",
-      "url": "https://open.spotify.com/track/5BfZj4ajLxQstbAtBCmGW2"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
-      },
-      "artists": [
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 241263,
-      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Garion [Special Edition]",
         "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
       },
@@ -1284,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
         }
       ],
-      "duration_ms": 277306,
-      "name": "\ud68c\uc0c1",
-      "url": "https://open.spotify.com/track/13NieYoXXcIUaQgXdkldej"
+      "duration_ms": 228240,
+      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
+      "url": "https://open.spotify.com/track/5DMjrMLMtjy4q3S1mjoyeR"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1339,6 +1319,26 @@
       "duration_ms": 506070,
       "name": "\ud55c\uae38\uc744 \uac78\uc5b4\uac00\ub77c (with \ud53c\ud0c0\uc785, \ub77c\uc784\uc5b4\ud0dd, \ub9c8\uc774\ub178\uc2a4, \ub300\ud314, \ub098\ucc30, \ub10b\uc5c5\uc0e8, MC \uba54\ud0c0, Wimpy & Sean2slow) - Remix Version",
       "url": "https://open.spotify.com/track/4orjqC4JPPjNFy1oVnArEP"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
+        }
+      ],
+      "duration_ms": 241263,
+      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Garion [Special Edition]",
-        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
-      },
-      "artists": [
-        {
-          "name": "Garion",
-          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "\uc5b8\ub354\uadf8\ub77c\uc6b4\ub4dc",
-      "url": "https://open.spotify.com/track/5DMjrMLMtjy4q3S1mjoyeR"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Beatz 4 Da Streetz",
         "url": "https://open.spotify.com/album/5fW9o5IqCJxz7jt3tJk7oh"
       },
@@ -1431,26 +1415,18 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Modern Rhymes XX",
-        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+        "name": "Garion [Special Edition]",
+        "url": "https://open.spotify.com/album/5ym8UvuOOIEGRqPPYkNRFw"
       },
       "artists": [
         {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        },
-        {
-          "name": "The Illest I.L.L.S.",
-          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
+          "name": "Garion",
+          "url": "https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp"
         }
       ],
-      "duration_ms": 172421,
-      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
+      "duration_ms": 277306,
+      "name": "\ud68c\uc0c1",
+      "url": "https://open.spotify.com/track/13NieYoXXcIUaQgXdkldej"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1491,6 +1467,54 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Soulman",
+          "url": "https://open.spotify.com/artist/2byXk8UtNJKEyt9qHnd7SH"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0o8oqMHJ1YLMk0bqQvCxoX"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Modern Rhymes XX",
+        "url": "https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "P-Type",
+          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
+        },
+        {
+          "name": "The Illest I.L.L.S.",
+          "url": "https://open.spotify.com/artist/5uWKonV7gPmynKub7povSG"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "What U Write 4 (Feat. P-Type & The Illest I.L.L.S.) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/2tZ3CBO9HMzi6bVDUutpuN"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
         "name": "Handalas",
         "url": "https://open.spotify.com/album/0RmuofqnwuvBbioiOv1jm8"
       },
@@ -1515,26 +1539,18 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
       },
       "artists": [
         {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Soulman",
-          "url": "https://open.spotify.com/artist/2byXk8UtNJKEyt9qHnd7SH"
+          "name": "BAECHIGI",
+          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
         }
       ],
-      "duration_ms": 234520,
-      "name": "One Way",
-      "url": "https://open.spotify.com/track/0o8oqMHJ1YLMk0bqQvCxoX"
+      "duration_ms": 76560,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1563,18 +1579,26 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/7nzH9dvMJT3qMTrB0mZOTo"
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
       },
       "artists": [
         {
-          "name": "BAECHIGI",
-          "url": "https://open.spotify.com/artist/1mKRJeL6KrSlwLG8gvwSQP"
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "Zito",
+          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
+        },
+        {
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 76560,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/7553bLdYfafxdS7Lzx9Alf"
+      "duration_ms": 230506,
+      "name": "Twisted Words",
+      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1595,6 +1619,30 @@
       "duration_ms": 222697,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/6VmLjAp3u7v3jFSSWpF4qC"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Bobby Kim",
+          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
+        },
+        {
+          "name": "Sean2Slow",
+          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Climb High",
+      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1655,70 +1703,26 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+        "name": "More Than Music",
+        "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
       },
       "artists": [
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+          "name": "Infinite Flow (I.F)",
+          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
         },
-        {
-          "name": "Bobby Kim",
-          "url": "https://open.spotify.com/artist/5s5g2cVTox2dzQE65XOD4z"
-        },
-        {
-          "name": "Sean2Slow",
-          "url": "https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Climb High",
-      "url": "https://open.spotify.com/track/6t5aUI9PC1NWSaWlUquNTw"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
         {
           "name": "Kebee",
           "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
         },
         {
-          "name": "Zito",
-          "url": "https://open.spotify.com/artist/1WSXciPLlOnr0DcLVWqext"
-        },
-        {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Twisted Words",
-      "url": "https://open.spotify.com/track/14qjYcNnyyK0hbBpRZdS5W"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "MP Hip Hop 2001 \ub300\ubc15",
-        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
-      },
-      "artists": [
-        {
-          "name": "Da Crew",
-          "url": "https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo"
-        },
-        {
-          "name": "Leo Kekoa",
-          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Hiphop Beginner Class (4 Beginners)",
-      "url": "https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD"
+      "duration_ms": 291333,
+      "name": "Alchemy (feat. Kebee, Paloalto)",
+      "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1747,26 +1751,22 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "More Than Music",
-        "url": "https://open.spotify.com/album/0LmooMzTUYiGpGAdesf5Vq"
+        "name": "MP Hip Hop 2001 \ub300\ubc15",
+        "url": "https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1"
       },
       "artists": [
         {
-          "name": "Infinite Flow (I.F)",
-          "url": "https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc"
+          "name": "Da Crew",
+          "url": "https://open.spotify.com/artist/1pxWngQhTWdOpwE8CBCfjo"
         },
         {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+          "name": "Leo Kekoa",
+          "url": "https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk"
         }
       ],
-      "duration_ms": 291333,
-      "name": "Alchemy (feat. Kebee, Paloalto)",
-      "url": "https://open.spotify.com/track/7mB6gNS7nALqjiMHlGDUVC"
+      "duration_ms": 258466,
+      "name": "Hiphop Beginner Class (4 Beginners)",
+      "url": "https://open.spotify.com/track/4rZ652DdqI6n3mRqNwoScD"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -1931,26 +1931,6 @@
     {
       "added_at": "2021-08-18 04:40:40",
       "album": {
-        "name": "Poetree Syndrome",
-        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
-      },
-      "artists": [
-        {
-          "name": "Kebee",
-          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "\ub9c8\ubd80",
-      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
         "name": "Respect 4 Brotha",
         "url": "https://open.spotify.com/album/5Bv2IsJcWaidMMPdpBqFzT"
       },
@@ -1971,6 +1951,74 @@
       "duration_ms": 313893,
       "name": "Respect 4 Brotha (feat. Ill Skillz, K.O.D.)",
       "url": "https://open.spotify.com/track/4lcPZcMao0N1c61w7OC0sg"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Poetree Syndrome",
+        "url": "https://open.spotify.com/album/2BBRKCB78xTmsyMPDt6FOo"
+      },
+      "artists": [
+        {
+          "name": "Kebee",
+          "url": "https://open.spotify.com/artist/3TLffOgVLta1P3b7mQypvt"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "\ub9c8\ubd80",
+      "url": "https://open.spotify.com/track/7fQmpoHQ4aVyx5wtWyOmSo"
+    },
+    {
+      "added_at": "2021-08-18 04:40:40",
+      "album": {
+        "name": "Heavy Deep",
+        "url": "https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S"
+      },
+      "artists": [
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "New Champ",
+          "url": "https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x"
+        },
+        {
+          "name": "Wutan",
+          "url": "https://open.spotify.com/artist/6X4GGufs8OhbUC1fy1xuUn"
+        },
+        {
+          "name": "Carry Diamond",
+          "url": "https://open.spotify.com/artist/668WLxdywDsMAFUBhA1qNU"
+        },
+        {
+          "name": "Aggy",
+          "url": "https://open.spotify.com/artist/5hbb9WTByfALU419TtemEE"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        },
+        {
+          "name": "Rocky L",
+          "url": "https://open.spotify.com/artist/2PfohzKLBaecNEJfvSCPA6"
+        },
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "B.L.K. (feat. New Champ, Wutan, Carry Diamond, CeeJay, Swings, Okasian, Rocky L & Vasco) [Bonus Track]",
+      "url": "https://open.spotify.com/track/5Aa65H6ueFTucHVZcSV4Bf"
     },
     {
       "added_at": "2021-08-18 04:40:40",
@@ -2003,22 +2051,6 @@
       "duration_ms": 253453,
       "name": "\ub5a0\ubc84\ub9ac Pt. 2 (feat. Pocyomkin, 1 Kyne, Sean2slow & \ub354\ube14\ucf00\uc774)",
       "url": "https://open.spotify.com/track/45ZvoX8iUXO4rfdb30wyST"
-    },
-    {
-      "added_at": "2021-08-18 04:40:40",
-      "album": {
-        "name": "\uc808\ucda9 3 : \ubd88\ud55c\ub2f9\ub4e4\uc758 \uc9c4\uc785\uacfc \uc804\ud22c Pt. 1",
-        "url": "https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz"
-      },
-      "artists": [
-        {
-          "name": "P-Type",
-          "url": "https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "\ubd88\ud55c\ub2f9's oblige",
-      "url": "https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc"
     }
   ],
   "unique_name": "Gold Skool K-Hip Hop",

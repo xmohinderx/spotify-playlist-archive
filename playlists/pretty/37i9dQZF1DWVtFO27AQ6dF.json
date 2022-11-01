@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica motivacional para quemar esa hamburguesa que comiste el finde.",
-  "num_followers": 273408,
+  "num_followers": 273483,
   "original_name": "Maldita Hamburguesa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0NTM2OSwwMDAwMDAwMGJkODY5MWQ3NGE2YTkyZTNhZWIyYjMyY2YwZWI2Y2E0",
+  "snapshot_id": "MTY1NzA0NTM2OSwwMDAwMDAwMDdlYjJkNTlhNzRmYzM1MTc0OGMyY2YwOGVkYmYxOTRh",
   "tracks": [
     {
       "added_at": "2022-07-05 18:22:49",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Back In Black",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 293183,
       "name": "Crazy Train",
       "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -379,6 +363,38 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
       },
@@ -411,38 +427,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Whole Lotta Love - 1990 Remaster",
-      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Vol. 3: The Subliminal Verses",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Whole Lotta Love - 1990 Remaster",
+      "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Eye Of The Tiger",
         "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Ace of Spades (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Ace of Spades",
-      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 312293,
       "name": "Hells Bells",
       "url": "https://open.spotify.com/track/69QHm3pustz01CJRwdo20z"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Ace of Spades (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Ace of Spades",
+      "url": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Beggars Banquet (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2022-07-05 18:22:49",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-05 18:22:49",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2022-07-05 18:22:49",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2022-07-05 18:22:49",
+      "album": {
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2022-07-05 18:22:49",

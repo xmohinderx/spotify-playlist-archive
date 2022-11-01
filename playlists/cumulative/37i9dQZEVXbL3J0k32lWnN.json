@@ -11030,6 +11030,24 @@
     },
     {
       "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "album": {
         "name": "Mona Lisa (feat. Lord Siva)",
         "url": "https://open.spotify.com/album/4bOYDZcsOGNSyid7BtDOIN"
       },
@@ -13997,7 +14015,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 196246,
       "name": "Skulder Ved Skulder (Danmarks Officielle Fodboldsang)",
       "url": "https://open.spotify.com/track/29413BdSqM2XRMdu4XT4EK"

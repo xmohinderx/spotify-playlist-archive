@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-204 songs - 12 hr 32 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+205 songs - 12 hr 34 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,10 +127,11 @@
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
 | [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* |  |
-| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 |  |
+| [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 | 2022-11-01 |
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
 | [Navi](https://open.spotify.com/track/37XRBuSza57EcexazvYqQy) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Summer](https://open.spotify.com/album/3iEJDeVcMLzAFJToGcih34) | 1:22 | 2020-12-08\* | 2021-01-07 |
 | [Near Light](https://open.spotify.com/track/5ykXsKJqx0GE0dsogxjylG) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Living Room Songs](https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp) | 3:28 | 2020-12-08\* | 2021-05-27 |
+| [Nest](https://open.spotify.com/track/1tF0s3w15QwAstjAwZefU7) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/2VSX4uQxgeaB6tEYdQgv7D) | 1:35 | 2022-10-21 |  |
 | [Nest](https://open.spotify.com/track/5GaRRamkVUErMUVVnNoQRF) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/0ChlHHVziwSh8UbBMEeiH5) | 1:35 | 2022-07-22 | 2022-10-13 |
 | [Nest](https://open.spotify.com/track/2lrHZUfgnVMPmFLEwXR8CD) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/4K1bUcDd62JYkD2AJ7zQ2H) | 1:35 | 2020-12-08\* | 2022-07-29 |
 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 | 2022-10-31 |

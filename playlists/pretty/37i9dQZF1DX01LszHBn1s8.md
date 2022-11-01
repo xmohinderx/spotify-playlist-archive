@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > sza AND rihanna on the same day?? 😱🤯
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,791 likes - 565 songs - 1 day 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,861 likes - 565 songs - 1 day 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

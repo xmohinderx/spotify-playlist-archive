@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8357,
+  "num_followers": 8374,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMGE1MTkzZmRmNmZmYWQ0ODgxZjFmZjhhZjc3MWQ3NTRm",
+  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMDc4M2RhMGE2Y2Q0MGNhZjg5M2JlMDNhZGYxNGEwNGE2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -337,6 +337,26 @@
       "url": "https://open.spotify.com/track/3Rs7oJOhAAqqyouYBYFQ18"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Black Panther: Wakanda Forever Prologue",
+        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
+        }
+      ],
+      "duration_ms": 213860,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
@@ -363,26 +383,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": "2022-07-28 23:00:00",
-      "album": {
-        "name": "Black Panther: Wakanda Forever Prologue",
-        "url": "https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa"
-        }
-      ],
-      "duration_ms": 213860,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR"
     },
     {
       "added_at": "2022-09-01 23:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Mayana",
+        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Your Body (feat. Buju)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 130918,
       "name": "Your Body (feat. Buju)",
       "url": "https://open.spotify.com/track/1IqNlIUJivQXXSp6MgCwRl"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Mayana",
-        "url": "https://open.spotify.com/album/3ZW36cj6b0bNOrcICqqsek"
-      },
-      "artists": [
-        {
-          "name": "A\u1e63a",
-          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Mayana",
-      "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
     },
     {
       "added_at": "2022-08-18 23:00:00",
@@ -727,6 +727,26 @@
       "duration_ms": 258577,
       "name": "Osondu",
       "url": "https://open.spotify.com/track/7IkanW59HjJBCtEUARmJNx"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Rosemary",
+        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Rosemary",
+      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
       "added_at": "2022-06-16 23:00:00",
@@ -799,22 +819,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Rosemary",
-        "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
+        "name": "History",
+        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 188760,
-      "name": "Rosemary",
-      "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
+      "duration_ms": 177946,
+      "name": "History",
+      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -839,26 +859,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "History",
-        "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "History",
-      "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 166666,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4NAEUOMQAGzQ5qO7pzZSjn"
-    },
-    {
-      "added_at": "2022-08-12 05:44:57",
-      "album": {
-        "name": "Crayons",
-        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
-      },
-      "artists": [
-        {
-          "name": "Prey\u00e9",
-          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
-        }
-      ],
-      "duration_ms": 143527,
-      "name": "Crayons",
-      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -903,6 +887,22 @@
       "duration_ms": 162352,
       "name": "Naked Wire",
       "url": "https://open.spotify.com/track/5sFwnVasc8RuDlatiNHOXN"
+    },
+    {
+      "added_at": "2022-08-12 05:44:57",
+      "album": {
+        "name": "Crayons",
+        "url": "https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS"
+      },
+      "artists": [
+        {
+          "name": "Prey\u00e9",
+          "url": "https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD"
+        }
+      ],
+      "duration_ms": 143527,
+      "name": "Crayons",
+      "url": "https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1"
     },
     {
       "added_at": "2022-06-09 23:00:00",

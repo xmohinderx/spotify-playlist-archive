@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-528 songs - 1 day 4 hr 27 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+529 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:10 | 2022-05-13 | 2022-09-10 |
 | [Gametime](https://open.spotify.com/track/2primSwE1mzJTP6Mm6oKQ4) | [BEATSMASH](https://open.spotify.com/artist/7FFbcFSr2g8ylh2P0S7TTB), [Aytac Turkut](https://open.spotify.com/artist/4P02yxj5KzLm7xMaL3BX5x), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:43 | 2022-09-22 |  |
 | [Getting That](https://open.spotify.com/track/4Hxz97CwxzlqlK7W8Kxntf) | [Julius Kasa](https://open.spotify.com/artist/1JZo7N1gtIboIvIuCgzFE2), [Mumbay](https://open.spotify.com/artist/4I66jYiJWLDzeCfHEOuFp9) | [Getting That](https://open.spotify.com/album/2YiypdIo6uyD5inxXUrRiD) | 3:00 | 2022-08-20 | 2022-10-08 |
+| [Ghost Town](https://open.spotify.com/track/2YO54djjxe6AYyhCpYZm2s) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [ThatBehavior](https://open.spotify.com/artist/5t9XxQeHFQ0dXRbbEK7MjB), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Ghost Town](https://open.spotify.com/album/2gTAy9SOcnOWdMxxtFT3nv) | 2:32 | 2022-10-31 |  |
 | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/track/2xj2RlQypxJbCLEJSaVWkS) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Ghost Town \(feat\. David Frank\)](https://open.spotify.com/album/4xCzMVQZYKhCU29cbFX07l) | 3:32 | 2022-07-18 | 2022-08-14 |
 | [Go Home](https://open.spotify.com/track/0e7Ana1Q5SrYM0Va7z2V7i) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH) | [Go Home](https://open.spotify.com/album/6izq0ZIJydzdk4eTG36bWZ) | 3:12 | 2022-01-14 | 2022-03-05 |
 | [Go Off](https://open.spotify.com/track/7peXYPvAVHw77scTuY5TWL) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:05 | 2022-06-16 |  |

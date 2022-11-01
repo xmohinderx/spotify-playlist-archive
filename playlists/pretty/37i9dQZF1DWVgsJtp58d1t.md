@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from SZA, Stormzy, Willow, YoungBoy Never Broke Again, Joeboy, Phabo, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,460 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,546 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

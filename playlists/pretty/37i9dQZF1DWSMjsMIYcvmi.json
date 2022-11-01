@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 13072,
+  "num_followers": 13073,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNzY2NDg0MiwwMDAwMDAwMDYwYjdmMDEwYzU0NWNlNGI3ZDY3OWE1OTJmNzMwZDQ0",
+  "snapshot_id": "MTYwNzY2NDg0MiwwMDAwMDAwMDBiNjAyNDcyMWM1M2EyNDQ0MGY0YTAzYmZmM2U1NGUw",
   "tracks": [
     {
       "added_at": "2020-09-08 09:44:15",
@@ -57,22 +57,6 @@
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
-      "added_at": "2020-12-09 12:53:48",
-      "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
       "added_at": "2020-01-07 11:03:16",
       "album": {
         "name": "\u00f7 (Deluxe)",
@@ -87,6 +71,22 @@
       "duration_ms": 263400,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
+    },
+    {
+      "added_at": "2020-12-09 12:53:48",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2020-06-05 11:02:55",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
+      "added_at": "2019-04-02 06:22:26",
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
+    },
+    {
       "added_at": "2020-12-09 12:53:48",
       "album": {
         "name": "you broke me first",
@@ -237,38 +253,6 @@
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
-      "added_at": "2019-04-02 06:22:26",
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f"
-    },
-    {
-      "added_at": "2020-12-09 12:53:48",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 172324,
-      "name": "positions",
-      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
       "added_at": "2020-06-05 11:02:55",
       "album": {
         "name": "Dark Lane Demo Tapes",
@@ -307,6 +291,22 @@
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2020-12-09 12:53:48",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "positions",
+      "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
     },
     {
       "added_at": "2020-09-08 09:44:15",
@@ -359,46 +359,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2020-08-18 11:51:36",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285634,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2020-09-08 09:44:15",
-      "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2020-01-07 11:03:16",
@@ -457,6 +417,26 @@
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
     },
     {
+      "added_at": "2020-08-18 11:51:36",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
       "added_at": "2020-09-08 09:44:15",
       "album": {
         "name": "Don't Start Now",
@@ -473,22 +453,6 @@
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
-      "added_at": "2020-12-09 12:53:48",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
-    },
-    {
       "added_at": "2020-06-05 11:02:55",
       "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
@@ -503,6 +467,26 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "added_at": "2020-09-08 09:44:15",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2020-12-09 12:53:48",
@@ -591,6 +575,22 @@
       "duration_ms": 163636,
       "name": "ROXANNE",
       "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "added_at": "2020-12-09 12:53:48",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2020-12-09 12:53:48",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
+      "added_at": "2020-09-08 09:44:15",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Midnight Sky",
+      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
+    },
+    {
       "added_at": "2020-08-18 11:51:36",
       "album": {
         "name": "Savage Love (Laxed - Siren Beat)",
@@ -855,22 +871,6 @@
       "duration_ms": 158571,
       "name": "Sunday Best",
       "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
-    },
-    {
-      "added_at": "2020-09-08 09:44:15",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Midnight Sky",
-      "url": "https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX"
     },
     {
       "added_at": "2020-09-08 09:44:15",
@@ -1141,42 +1141,6 @@
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
     },
     {
-      "added_at": "2020-09-08 09:44:15",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 212868,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
-    },
-    {
-      "added_at": "2020-12-09 12:53:48",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172692,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
-    },
-    {
       "added_at": "2020-12-09 12:53:48",
       "album": {
         "name": "Diamonds",
@@ -1229,20 +1193,24 @@
       "url": "https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D"
     },
     {
-      "added_at": "2020-01-07 11:03:16",
+      "added_at": "2020-09-08 09:44:15",
       "album": {
-        "name": "Suncity",
-        "url": "https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 210666,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/5kfNriitmkNE8mUbZ7gbq8"
+      "duration_ms": 212868,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN"
     },
     {
       "added_at": "2019-03-03 14:34:21",
@@ -1263,6 +1231,38 @@
       "duration_ms": 216419,
       "name": "Ocean (feat. Khalid)",
       "url": "https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS"
+    },
+    {
+      "added_at": "2020-12-09 12:53:48",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2HICqd0ltMKNrkhfmWSuKy"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 141223,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/6HlE9t71z9DjGi7KqSyEpA"
+    },
+    {
+      "added_at": "2020-12-09 12:53:48",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172692,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
     }
   ],
   "unique_name": "9 to 5",

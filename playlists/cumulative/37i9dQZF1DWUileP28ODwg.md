@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-253 songs - 15 hr 46 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+254 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U) | 2:41 | 2022-03-25 | 2022-07-29 |
 | [Good Feeling \- Radio Version](https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6) | [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [Good Feeling \(Radio Version\)](https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ) | 2:41 | 2022-07-08 |  |
 | [Good Lord](https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Good Lord](https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF) | 3:19 | 2022-04-22 | 2022-08-27 |
+| [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 | 2022-10-01 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-04-29 | 2022-08-27 |
 | [Grace Greater](https://open.spotify.com/track/3r1MrcpE5LtKhNH7mwUEqI) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW) | [Grace Greater](https://open.spotify.com/album/08v702QxIDfuwvpTsXPVWv) | 4:22 | 2022-05-13 | 2022-06-11 |
 | [Grateful](https://open.spotify.com/track/7ICNXE7zp182uWnUE0wZr7) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Grateful](https://open.spotify.com/album/4GT48NVYrNcbtX7f6ce2P4) | 3:12 | 2022-02-25 | 2022-03-21 |
@@ -148,7 +149,7 @@
 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2022-02-25 | 2022-04-23 |
 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-10-01 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-22 | 2022-06-11 |
-| [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-08 |  |
+| [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-07-08 | 2022-11-01 |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-19 |  |
 | [Lover Of My Soul](https://open.spotify.com/track/1lJElVuNSdUt0cYFgCbYDF) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Lover Of My Soul](https://open.spotify.com/album/2XiNPGl83ACsMuIMETQXxh) | 3:22 | 2022-03-19 | 2022-04-29 |
 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 | 2022-02-25 | 2022-04-23 |

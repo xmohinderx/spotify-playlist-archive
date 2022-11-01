@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。cover: 和久井沙良
 
-72 songs - 5 hr 59 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
+73 songs - 6 hr 1 min - [published](https://open.spotify.com/playlist/7J6KTI9ttmEPnJtwsQFdN5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [MASQUERADE!](https://open.spotify.com/track/7COeUxxiLP2GqTIzOvCZhK) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [MASQUERADE!](https://open.spotify.com/album/4Z7AfRdyvxpPPH837iTaXS) | 3:48 | 2022-09-06 | 2022-10-05 |
 | [Midnight Crisp](https://open.spotify.com/track/44egUa8FkT17spwSFvQis6) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Midnight Crisp](https://open.spotify.com/album/2eSj73qPvFATLh2sNxHDrG) | 5:26 | 2022-09-06 |  |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2022-09-06 |  |
-| [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 | 2022-09-06 |  |
+| [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 | 2022-09-06 | 2022-11-01 |
 | [Mr.Kelp](https://open.spotify.com/track/78AsSev9SxDU4H1TNOpeQr) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Mr.Kelp](https://open.spotify.com/album/397OakmJY7vTlw15J9b1dK) | 3:56 | 2022-10-11 |  |
 | [Night Cruise](https://open.spotify.com/track/5dGZZQGVOIjMjQCmguuYEo) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [PARADISE](https://open.spotify.com/album/5Sv5HS9ZNFdGsNwJkbLjQD) | 5:49 | 2022-09-06 |  |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2022-09-06 |  |
@@ -56,6 +56,7 @@
 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [INO hidefumi](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 | 2022-09-06 |  |
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |
 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 | 2022-09-06 |  |
+| [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 |  |
 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 | 2022-09-06 |  |
 | [Theme of “House of Jaxx”](https://open.spotify.com/track/1qucmF56XOiRvwaQWcI7Xs) | [House of Jaxx](https://open.spotify.com/artist/7v9iqfzdbh5i5njjSc9sjs) | [House of Jaxx](https://open.spotify.com/album/5zvDArByRwmVEhHDy911XY) | 8:28 | 2022-09-06 | 2022-10-12 |
 | [tietie](https://open.spotify.com/track/22QIfhCJOZweyxywstzKVy) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [吉田沙良](https://open.spotify.com/artist/1ViGD87a75ygr0WdYoildM), [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [tietie](https://open.spotify.com/album/5QN9QmFzpMU0Et8mqbSvdb) | 3:11 | 2022-10-25 |  |

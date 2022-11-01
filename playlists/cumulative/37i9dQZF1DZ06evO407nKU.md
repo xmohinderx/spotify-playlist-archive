@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/6Y7WCOGwQgghlGDjlm7brC)
+74 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/6Y7WCOGwQgghlGDjlm7brC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,11 +40,12 @@
 | [Lo Que Yo Sentia](https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 | 2022-06-01 |  |
 | [Lo Sé](https://open.spotify.com/track/6FOdDUjwDhXKj7SO2wONlo) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:05 | 2022-06-01 |  |
 | [Los Compadres](https://open.spotify.com/track/1YvHZhfE5wj4kpGdu5fUdA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Buenas Obras](https://open.spotify.com/album/6gDP1ynRcVtBCkhgle34Oy) | 3:34 | 2022-06-05 | 2022-07-07 |
-| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 |  |
+| [Luchon](https://open.spotify.com/track/3SbiPpfN0l8BmeQZOFKUWu) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 2:43 | 2022-06-01 | 2022-11-01 |
 | [Me Hubieras Cobrado](https://open.spotify.com/track/7kjrKf3poQGEoNMXnQVAMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Hubieras Cobrado](https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW) | 4:16 | 2022-08-22 |  |
 | [Mi Error](https://open.spotify.com/track/08UWHH1UZwowsKGkWphHCz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:24 | 2022-06-13 | 2022-07-11 |
 | [Mi Ranchito \- En Vivo](https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Grupo X30](https://open.spotify.com/artist/3q5RR1RLDShDlGMYRr8t4B), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Mi Ranchito](https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z) | 2:54 | 2022-10-12 |  |
 | [Mi Sueno Seria](https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:30 | 2022-06-01 | 2022-10-17 |
+| [Morí](https://open.spotify.com/track/60ZnEd8EldyWJUJ9wuTqZN) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Douglas Bastidas Tranzas](https://open.spotify.com/artist/6ekmUnU8sgXqLDJWWWSNvz) | [Morí](https://open.spotify.com/album/5WGVNULWg82krh2zUUwM79) | 3:48 | 2022-10-31 |  |
 | [Mujer Hermosa](https://open.spotify.com/track/0XhaVvPNfXxl3qDV5cpg4T) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:42 | 2022-06-01 |  |
 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 | 2022-06-01 |  |
 | [No La Hagas Sufrir](https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 3:33 | 2022-06-01 |  |

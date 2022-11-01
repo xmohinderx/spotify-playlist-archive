@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 337554,
+  "num_followers": 337744,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTIwMDM1OCwwMDAwMDAwMDMzNTgzN2IzYTMzOTVlYjliMTIwM2MwMGY4NjVmNjEy",
+  "snapshot_id": "MTY2NTIwMDM1OCwwMDAwMDAwMGEwOTU0YzAzM2MwZmFlYzI2Yzg0YmQzMmE3MGViZjM4",
   "tracks": [
     {
       "added_at": "2022-10-08 03:39:18",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "The Days / Nights",
+        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 176658,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "The Days / Nights",
-        "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 176658,
-      "name": "The Nights",
-      "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -343,26 +343,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Levels - Radio Edit",
+      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -739,18 +755,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg"
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 199906,
-      "name": "Levels - Radio Edit",
-      "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -791,26 +811,6 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Scared to Be Lonely",
         "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 220883,
       "name": "Scared to Be Lonely",
       "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -935,6 +935,26 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "Levitating (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "Levitating (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Piece Of Your Heart",
-        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 152913,
-      "name": "Piece Of Your Heart",
-      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "Piece Of Your Heart",
+        "url": "https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 152913,
+      "name": "Piece Of Your Heart",
+      "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/6NHS3hV16MZyfcp0nSHdrd"
       },
@@ -1419,26 +1439,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Pharmacy",
         "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
       },
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "World War Joy",
         "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 217640,
       "name": "Call You Mine",
       "url": "https://open.spotify.com/track/2oejEp50ZzPuQTQ6v54Evp"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Solo (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Solo (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
@@ -2099,18 +2079,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "CTRL + ALT + DEL",
-        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+        "name": "Solo (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
       },
       "artists": [
         {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 153166,
-      "name": "CTRL + ALT + DEL",
-      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
+      "duration_ms": 222653,
+      "name": "Solo (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2131,6 +2115,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "CTRL + ALT + DEL",
+        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 153166,
+      "name": "CTRL + ALT + DEL",
+      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2183,6 +2183,26 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
         "url": "https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr"
       },
@@ -2203,26 +2223,6 @@
       "duration_ms": 168253,
       "name": "Don\u2019t Go (with Justin Bieber & Don Toliver)",
       "url": "https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2643,6 +2643,26 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "artists": [
+        {
+          "name": "Martin Solveig",
+          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "duration_ms": 191387,
+      "name": "Hello (feat. Dragonette)",
+      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "Sunshine. The EP",
         "url": "https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c"
       },
@@ -2663,22 +2683,22 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/1Jbwq1BswM8apm7pjRZKq8"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
       },
       "artists": [
         {
-          "name": "Martin Solveig",
-          "url": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
         },
         {
-          "name": "Dragonette",
-          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 191387,
-      "name": "Hello (feat. Dragonette)",
-      "url": "https://open.spotify.com/track/3sl4dcqSwxHVnLfqwF2jly"
+      "duration_ms": 205653,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2743,6 +2763,26 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
+        "name": "A Town Called Paradise (Deluxe)",
+        "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
         "name": "FRIENDS KEEP SECRETS",
         "url": "https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ"
       },
@@ -2779,46 +2819,6 @@
       "duration_ms": 210491,
       "name": "Say So (Jax Jones Midnight Snack Remix)",
       "url": "https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/1yZZdubJ2rovC4QIBP8riQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1yAPglN5AGf7UoLK062ZYq"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
-        "name": "A Town Called Paradise (Deluxe)",
-        "url": "https://open.spotify.com/album/1116PKIKlArm87HVaPtonW"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/7m3povhdMDLZwuEKak0l0n"
     },
     {
       "added_at": "2022-10-08 03:39:18",
@@ -2967,26 +2967,6 @@
     {
       "added_at": "2022-10-08 03:39:18",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 185564,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
-    },
-    {
-      "added_at": "2022-10-08 03:39:18",
-      "album": {
         "name": "Hallucinate (Paul Woolford Remix)",
         "url": "https://open.spotify.com/album/6u8iiQQwRvqig5X4ILVNje"
       },
@@ -3003,6 +2983,26 @@
       "duration_ms": 238765,
       "name": "Hallucinate - Paul Woolford Remix",
       "url": "https://open.spotify.com/track/3v7hMuewavfpJx8sytJ4AO"
+    },
+    {
+      "added_at": "2022-10-08 03:39:18",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/4SKuocn48AWlILmj6Dl1eY"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 185564,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/5LibBRN1juZ7RiUR0e2Hax"
     },
     {
       "added_at": "2022-10-08 03:39:18",

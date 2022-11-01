@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Maz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,139,368 likes - 66 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,139,343 likes - 66 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

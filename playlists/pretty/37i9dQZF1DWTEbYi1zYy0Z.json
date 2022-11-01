@@ -1,15 +1,15 @@
 {
   "description": "So fresh, so smooth. Cover: Candy Dulfer",
-  "num_followers": 38214,
+  "num_followers": 38272,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDJmZWEzZjVhMGZlMDJmNTNmNzgxYmIyMjNkNDlmZjFh",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGNjOWI3OGIzNWI5YTU0Mzg4MGZkZmFkYTdjODcxMDQ4",
   "tracks": [
     {
-      "added_at": "2022-10-31 01:21:44",
+      "added_at": "2022-11-01 01:24:58",
       "album": {
         "name": "Convergency",
         "url": "https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J"
     },
     {
-      "added_at": "2022-10-31 01:21:44",
+      "added_at": "2022-11-01 01:24:58",
       "album": {
         "name": "Cupid Shuffle",
         "url": "https://open.spotify.com/album/0KBYThI0Id17QHj1ebUlrE"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/7uyen5w5Zba0kMI6EhoqG9"
     },
     {
-      "added_at": "2022-10-31 01:21:44",
+      "added_at": "2022-11-01 01:24:58",
       "album": {
         "name": "I'm Good",
         "url": "https://open.spotify.com/album/2eqo8o737VCnrQaMFk1fe1"
@@ -209,6 +209,22 @@
       "url": "https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN"
     },
     {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 248573,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
+    },
+    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Summer Solstice",
@@ -227,22 +243,6 @@
       "duration_ms": 200050,
       "name": "Summer Solstice",
       "url": "https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 248573,
-      "name": "Detour",
-      "url": "https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Jazz Party",
-        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Jazz Party",
-      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Trilogy, Pt. 3: White",
@@ -335,6 +319,22 @@
       "duration_ms": 308092,
       "name": "Step into Love",
       "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Jazz Party",
+        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Jazz Party",
+      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -385,22 +385,6 @@
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Foolish Heart",
-        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
-      },
-      "artists": [
-        {
-          "name": "Johnny James Dr J",
-          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
-        }
-      ],
-      "duration_ms": 217151,
-      "name": "Foolish Heart",
-      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
-    },
-    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Another Day In Paradise",
@@ -415,6 +399,22 @@
       "duration_ms": 275680,
       "name": "Another Day In Paradise",
       "url": "https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU"
+    },
+    {
+      "added_at": "2022-03-04 05:01:00",
+      "album": {
+        "name": "Foolish Heart",
+        "url": "https://open.spotify.com/album/6HPS4UYCNF4snOQHcCTLlj"
+      },
+      "artists": [
+        {
+          "name": "Johnny James Dr J",
+          "url": "https://open.spotify.com/artist/7u6nxhjlzbZs2q7tJlP0SJ"
+        }
+      ],
+      "duration_ms": 217151,
+      "name": "Foolish Heart",
+      "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/50MtaTholYQZwggn6EvbTl"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Step to This",
-        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Step to This",
-      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
-    },
-    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "G-Stream 2-Turn It Up",
@@ -565,6 +549,22 @@
       "url": "https://open.spotify.com/track/4HjRmQiDLMQ1VQcVQuuh3d"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Step to This",
+        "url": "https://open.spotify.com/album/6rTjAAEpcN8YlEqey7hyOM"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Step to This",
+      "url": "https://open.spotify.com/track/2MGeSEuFPUd3YPOWSFzdqC"
+    },
+    {
       "added_at": "2022-09-23 04:01:00",
       "album": {
         "name": "After Party",
@@ -579,6 +579,22 @@
       "duration_ms": 230187,
       "name": "After Party",
       "url": "https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Look Both Ways",
+        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 283760,
+      "name": "Look Both Ways",
+      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -599,22 +615,6 @@
       "duration_ms": 253720,
       "name": "H.A.D. (featuring Chieli Minucci)",
       "url": "https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Look Both Ways",
-        "url": "https://open.spotify.com/album/6S2AOidMcHGkQDOiDpAxrj"
-      },
-      "artists": [
-        {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
-        }
-      ],
-      "duration_ms": 283760,
-      "name": "Look Both Ways",
-      "url": "https://open.spotify.com/track/1v1SJOhvTYwMbamGubPw34"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Summertime in Nyc (Instrumental Mix)",
-        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 210179,
-      "name": "Summertime in Nyc (Instrumental Mix)",
-      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "The Inauguration of Jtjazz (Jesse Thompson the Man Behind the Keys)",
@@ -783,6 +767,22 @@
       "duration_ms": 293280,
       "name": "Weekend Groove",
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Summertime in Nyc (Instrumental Mix)",
+        "url": "https://open.spotify.com/album/6Npy31tIY5yvCpV77agfU0"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 210179,
+      "name": "Summertime in Nyc (Instrumental Mix)",
+      "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/00b26U0KfuVGD9Wl6Ud4dG"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Red Tiger",
-        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
-      },
-      "artists": [
-        {
-          "name": "Blair Bryant",
-          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
-        }
-      ],
-      "duration_ms": 249262,
-      "name": "Relentless",
-      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -867,6 +851,22 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Red Tiger",
+        "url": "https://open.spotify.com/album/2jYih8CJwo4nzuzy5aokwV"
+      },
+      "artists": [
+        {
+          "name": "Blair Bryant",
+          "url": "https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq"
+        }
+      ],
+      "duration_ms": 249262,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/3S7QaZDPqc14xWObHGVfyk"
     }
   ],
   "unique_name": "New Smooth Jazz",

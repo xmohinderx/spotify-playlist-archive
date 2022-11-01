@@ -6905,7 +6905,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 253306,
       "name": "Isolated",
       "url": "https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8"
@@ -10203,6 +10203,28 @@
       "duration_ms": 227933,
       "name": "Potential",
       "url": "https://open.spotify.com/track/5eLw62EGF4HnF6KdlZQ752"
+    },
+    {
+      "album": {
+        "name": "PPL",
+        "url": "https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "PPL",
+      "url": "https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i"
     },
     {
       "album": {

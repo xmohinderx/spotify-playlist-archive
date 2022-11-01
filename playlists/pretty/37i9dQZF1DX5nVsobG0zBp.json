@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 33273,
+  "num_followers": 33321,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGJiMGM4ZjE0YjAxYTNkMGFkN2IyMjQ5ZjJkMWQ4YjMw",
+  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGRhMGI1ZDk4YzRkZjkxZWE1NTNiN2U4OTUzY2U2YWE3",
   "tracks": [
     {
       "added_at": "2022-10-27 23:00:00",
@@ -595,6 +595,38 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "duration_ms": 260800,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "WUOW",
+        "url": "https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "WUOW",
+      "url": "https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "Irrespons\u00e1vel",
         "url": "https://open.spotify.com/album/1kPMe6IT9S56HnFRnHiISK"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "WUOW",
-        "url": "https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "WUOW",
-      "url": "https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
         "name": "Galileu",
         "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 182362,
       "name": "Galileu",
       "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
-      },
-      "artists": [
-        {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
-        }
-      ],
-      "duration_ms": 260800,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
         "name": "Mechelas",
         "url": "https://open.spotify.com/album/0QMmMOUt3WxYg2BwZNn7F1"
       },
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+        "name": "HEI",
+        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
         }
       ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+      "duration_ms": 208000,
+      "name": "HEI",
+      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -771,34 +755,18 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "HEI",
-        "url": "https://open.spotify.com/album/6bDFFQM5OGIerK8zwL2j9F"
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
       },
       "artists": [
         {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 208000,
-      "name": "HEI",
-      "url": "https://open.spotify.com/track/5IsQNZTVP4Lkfn2eMVE0nt"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Juvena",
-        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "Juvena",
-      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+      "duration_ms": 222642,
+      "name": "S\u00f3 Queria Sorrir",
+      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -835,6 +803,58 @@
       "duration_ms": 219992,
       "name": "P\u00e3o na Mesa (feat. Richie Campbell)",
       "url": "https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "Juvena",
+        "url": "https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "Juvena",
+      "url": "https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "#FFFFFF",
+        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        },
+        {
+          "name": "F\u00ednix MG",
+          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
+        }
+      ],
+      "duration_ms": 336528,
+      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
+      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -883,6 +903,22 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Sentimento Safari",
+        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Sentimento Safari",
+      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6kG5qLjX8Hr16VQoKu52gP"
       },
@@ -915,58 +951,6 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "Conto",
-        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 202886,
-      "name": "Conto",
-      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Sentimento Safari",
-        "url": "https://open.spotify.com/album/4Oy7rehFfj44km84s11jUv"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Sentimento Safari",
-      "url": "https://open.spotify.com/track/2t98sYRAQZAXqdwi3Sf6pQ"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "#FFFFFF",
-        "url": "https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        },
-        {
-          "name": "F\u00ednix MG",
-          "url": "https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u"
-        }
-      ],
-      "duration_ms": 336528,
-      "name": "\u00c0 Vontade (feat. F\u00ednix MG)",
-      "url": "https://open.spotify.com/track/68VCmJEV8PFoOPGE1ALxtM"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
         "name": "\u00c9 ASSIM",
         "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 249078,
       "name": "\u00c9 ASSIM",
       "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "Conto",
+        "url": "https://open.spotify.com/album/4NrZXXjyNk5kfq7sNr7TFi"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 202886,
+      "name": "Conto",
+      "url": "https://open.spotify.com/track/5lYAphI00oZ5ZtH7CEJDqV"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "STAY FLY",
-        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "STAY FLY",
-      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
     }
   ],
   "unique_name": "Rap Tuga Hits",

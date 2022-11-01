@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: The 1975",
-  "num_followers": 2211522,
+  "num_followers": 2211604,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgyNjA0MywwMDAwMDAwMGEyMjdmZmIzMjJjOWYxZDI0Y2JjZmY2N2RhZGU5Y2Nm",
+  "snapshot_id": "MTY2NjgyNjA0MywwMDAwMDAwMDgzMzI3YTI5MzY3YTA5M2UyZDE3YWE3NDdlOTQxYjY1",
   "tracks": [
     {
       "added_at": "2022-10-24 17:35:55",
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
-      "added_at": "2022-10-31 01:38:13",
+      "added_at": "2022-11-01 01:41:00",
       "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
-      "added_at": "2022-10-31 01:38:13",
+      "added_at": "2022-11-01 01:41:00",
       "album": {
         "name": "Shut up My Moms Calling",
         "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S"
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Body Paint",
-        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "Body Paint",
-      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "I'm In Love With You",
         "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 262623,
       "name": "I'm In Love With You",
       "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Body Paint",
+        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
-      "added_at": "2022-10-31 01:38:13",
+      "added_at": "2022-11-01 01:41:00",
       "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Everything I Know About Love",
-        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "There\u2019d Better Be A Mirrorball",
         "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 265798,
       "name": "There\u2019d Better Be A Mirrorball",
       "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
+      "added_at": "2022-11-01 01:41:00",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "The 1975",
+      "url": "https://open.spotify.com/track/7omxuGYsym1n2RlVf86OF9"
+    },
+    {
       "added_at": "2022-10-24 17:35:55",
       "album": {
         "name": "Beatopia",
@@ -467,22 +483,6 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2022-10-31 01:38:13",
-      "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "The 1975",
-      "url": "https://open.spotify.com/track/7omxuGYsym1n2RlVf86OF9"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G"
+      "duration_ms": 303903,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/3G9l0CsH7HCkr0SqDE1juj"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -655,38 +655,18 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 303903,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/3G9l0CsH7HCkr0SqDE1juj"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 257746,
-      "name": "Spitting Off the Edge of the World",
-      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+      "duration_ms": 211200,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -743,6 +723,26 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 257746,
+      "name": "Spitting Off the Edge of the World",
+      "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -791,38 +791,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Surfing in Iceland",
-        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Surfing in Iceland",
-      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
-        "name": "Cool It Down",
-        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "Slowing Down",
         "url": "https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4"
       },
@@ -839,6 +807,38 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Surfing in Iceland",
+        "url": "https://open.spotify.com/album/5DI2qF4E1jhRgpnqAArL5q"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Surfing in Iceland",
+      "url": "https://open.spotify.com/track/1z5oBUPtPK58v4slX1AlTx"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
         "name": "Jesus Freak Lighter",
         "url": "https://open.spotify.com/album/4UXPiUnb4mAFgsvaq7B6SP"
       },
@@ -851,6 +851,22 @@
       "duration_ms": 152380,
       "name": "Jesus Freak Lighter",
       "url": "https://open.spotify.com/track/22MPIMPsoi0vd46wsbpzfE"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Cool It Down",
+        "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -883,22 +899,6 @@
       "duration_ms": 191960,
       "name": "Love Letter From The Sea to The Shore",
       "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Hard to Let Go",
-        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 247615,
-      "name": "Hard to Let Go",
-      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
+        "name": "Hard to Let Go",
+        "url": "https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 247615,
+      "name": "Hard to Let Go",
+      "url": "https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Xeno",
+        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Thinking Bout You",
+      "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "Xeno",
-        "url": "https://open.spotify.com/album/54DKeR5680lyfCrx7Gpmfr"
-      },
-      "artists": [
-        {
-          "name": "rei brown",
-          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Thinking Bout You",
-      "url": "https://open.spotify.com/track/7HJbpVOycx32pDjWvpF9hp"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
       },
@@ -1167,6 +1167,38 @@
       "duration_ms": 124247,
       "name": "Pharmacist",
       "url": "https://open.spotify.com/track/6yGqH32ObxCiI1ycDKoIWQ"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
+    },
+    {
+      "added_at": "2022-10-24 17:35:55",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2022-10-24 17:35:55",
@@ -1207,22 +1239,6 @@
     {
       "added_at": "2022-10-24 17:35:55",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 250613,
       "name": "Hot & Heavy",
       "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
-    },
-    {
-      "added_at": "2022-10-24 17:35:55",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     }
   ],
   "unique_name": "Ultimate Indie",

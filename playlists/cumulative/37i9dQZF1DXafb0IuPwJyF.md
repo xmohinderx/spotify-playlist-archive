@@ -4,7 +4,7 @@
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  RADWIMPS
 
-532 songs - 1 day 9 hr 12 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
+533 songs - 1 day 9 hr 16 min - [published](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 | 2022-06-12 | 2022-07-25 |
 | [MEMORIES](https://open.spotify.com/track/3NfKXjvzsP17Tra55CffOO) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 3:25 | 2022-08-28 | 2022-09-05 |
 | [Message](https://open.spotify.com/track/3r1eh0G1uNiCvjClCCmLvb) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:23 | 2022-09-01 | 2022-09-21 |
+| [Mid\-20s](https://open.spotify.com/track/4h4Oa8uzPl6eW0Eh9bBLqP) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Tasty City](https://open.spotify.com/album/4ZcHvn5pkdDxn60PhV7OjN) | 3:44 | 2022-10-31 |  |
 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 | 2022-02-20 | 2022-03-07 |
 | [Mirror](https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Mirror](https://open.spotify.com/album/5y2ZMwQ0HLRXW0Rsidiqws) | 3:31 | 2022-10-30 |  |
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-09 |  |
@@ -281,7 +282,7 @@
 | [With Us](https://open.spotify.com/track/3V3qaACLm2qFCvYZ1amkco) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [With Us](https://open.spotify.com/album/0JmNrJnN3y0CfwpMnoYMrE) | 3:10 | 2022-05-08 | 2022-05-16 |
 | [Yasashisa Ni Afureta Sekaide](https://open.spotify.com/track/3PGlB1DpDki7Bb5sIG6Nd9) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Sunny Bottle](https://open.spotify.com/album/1lgYCVITev3MpgbsAkP2Or) | 4:18 | 2022-07-25 | 2022-08-29 |
 | [YONA YONA DANCE \- フレデリズム Ver.](https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [YONA YONA DANCE \(フレデリズム Ver.\)](https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj) | 3:49 | 2022-01-23 | 2022-02-14 |
-| [YOSOMI](https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [YOSOMI](https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8) | 3:35 | 2022-10-23 |  |
+| [YOSOMI](https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [YOSOMI](https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8) | 3:35 | 2022-10-23 | 2022-11-01 |
 | [You To You](https://open.spotify.com/track/66GEPhYAtcsWI7GThQcixQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt), [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [You To You](https://open.spotify.com/album/0Uyi2JOBe0wmMPZbF16P2L) | 4:01 | 2022-03-13 | 2022-03-21 |
 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2022-03-06 | 2022-04-04 |
 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 | 2022-06-05 | 2022-06-28 |

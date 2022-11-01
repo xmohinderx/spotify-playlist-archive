@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,885 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,893 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 13 | [Bloody Samaritan \(with Kelly Rowland\) \- Remix](https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Bloody Samaritan \(with Kelly Rowland\) \[Remix\]](https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX) | 3:09 |
 | 14 | [u turn me on \(but u give me depression\)](https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u turn me on \(but u give me depression\)](https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8) | 2:27 |
 | 15 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 |
-| 16 | [Soygun](https://open.spotify.com/track/2UuC5wKOxlhB3JIwA88gxO) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Soygun](https://open.spotify.com/album/0QGEwC4RnPMAfuTnOj0sti) | 3:16 |
-| 17 | [Cute Boy](https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q) | [Cute Boy](https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv) | 3:05 |
-| 18 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 |
-| 19 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
-| 20 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
+| 16 | [Cute Boy](https://open.spotify.com/track/7DS5SpsWS7rtKeAfe9rbfn) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a), [Forever Tel Aviv](https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q) | [Cute Boy](https://open.spotify.com/album/3oOsxujiwXlaed2q2h71Fv) | 3:05 |
+| 17 | [Rari](https://open.spotify.com/track/2pObwRg2GniOUROCOk0pDk) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Rari](https://open.spotify.com/album/4nKa1aVHe4MdYdBMIPKnJ0) | 2:48 |
+| 18 | [Soygun](https://open.spotify.com/track/2UuC5wKOxlhB3JIwA88gxO) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Soygun](https://open.spotify.com/album/0QGEwC4RnPMAfuTnOj0sti) | 3:16 |
+| 19 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
+| 20 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 |
 | 21 | [Quién lo diría](https://open.spotify.com/track/1Vn9WZyRBcAYMxL8vS4DtY) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Quién lo diría](https://open.spotify.com/album/5IN3H4Ss9JSUTFnG8ldyqg) | 3:10 |
 | 22 | [Die Together](https://open.spotify.com/track/35b0iM96Uid8KI5s83IEHM) | [Amanda Tenfjord](https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr) | [Die Together](https://open.spotify.com/album/2wwjIcsUvhqDVJt95NrgQB) | 2:55 |
 | 23 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 60 | [Kalimutan](https://open.spotify.com/track/1degd7Nhtw4z6zt8y6KwDZ) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Kalimutan](https://open.spotify.com/album/4abIbIvI6BG7uRdrUocI1D) | 3:29 |
 | 61 | [Milkshake](https://open.spotify.com/track/1l2vMP0Cov7ogJOF2l6MXm) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Milkshake](https://open.spotify.com/album/1T9A30JUrolQtPiDHxwDiG) | 3:42 |
 | 62 | [心動 \(2018錄音棚現場版\)](https://open.spotify.com/track/18o4aM3pSmPPH155wbTdRz) | [黃韻玲](https://open.spotify.com/artist/4xrtpNTYCptiF589wuFr0w) | [心動 \(2018錄音棚現場版\)](https://open.spotify.com/album/2hV8CBsMjmliBi5jUL151T) | 5:01 |
-| 63 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 |
-| 64 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
+| 63 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
+| 64 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 |
 | 65 | [Mukhtasir Baatein](https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Mukhtasir Baatein](https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo) | 2:42 |
 | 66 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 |
 | 67 | [let you die](https://open.spotify.com/track/3CShLgFtZm6fBATsPOozj4) | [Xainab](https://open.spotify.com/artist/4BNNfDC7ThgGtyqzWmWO3h) | [let you die](https://open.spotify.com/album/17xTgliuV4JyltgL1MlLTR) | 4:02 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 70 | [Day Off](https://open.spotify.com/track/3HV9EPgIUq0SM4NZfJvBHs) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Darnos Un Dia / Day Off](https://open.spotify.com/album/6EM4z696J7abauiSw0RtXZ) | 4:04 |
 | 71 | [Back to the Basics](https://open.spotify.com/track/7kBaoqgIZPVngTiN3nbjab) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Back to the Basics](https://open.spotify.com/album/0o3Tghkt3jiW5t21LHttmC) | 3:28 |
 
-Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDlhNzg5NmFmMWQ3YjIyOGI4MDFjOTg3M2ZiMjViNDY2`
+Snapshot ID: `MTY2NjAxNTI3NSwwMDAwMDAwMDc2ZDFkODk4YTBhNjkyNzgwMjk1ZGVjNDNhN2RmNWU4`

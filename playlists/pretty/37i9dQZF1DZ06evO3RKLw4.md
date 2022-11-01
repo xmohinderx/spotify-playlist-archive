@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,628 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,637 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 39 | [Dominoes Fall](https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:43 |
 | 40 | [The Wolf](https://open.spotify.com/track/0rwQS0EU9Gg5EuA5d9Q5mm) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:38 |
 | 41 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
-| 42 | [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 |
+| 42 | [Detroit](https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:24 |
 | 43 | [If The Kids Are United](https://open.spotify.com/track/5aL313wM2AQsQvdDNXrMXR) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Give Em The Boot II](https://open.spotify.com/album/2N7UbvqcQZDXWZrfHDeoYa) | 2:41 |
 | 44 | [Disconnected](https://open.spotify.com/track/6m4HKtDDwzVHdZAW6GMNdH) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:00 |
 | 45 | [Back Where I Belong](https://open.spotify.com/track/6dWFLuPwTUWTkF42fXlBIt) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...Honor Is All We Know \(Deluxe Edition\)](https://open.spotify.com/album/5mLjbMgKEL9ybpmKSQDoP4) | 2:12 |
-| 46 | [Detroit](https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:24 |
+| 46 | [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 |
 | 47 | [Black Derby Jacket](https://open.spotify.com/track/63eDmxXVSiFiibXVaG7o5t) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 2:35 |
 | 48 | [Spirit of '87](https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:22 |
 | 49 | [Track Fast](https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 0:58 |
 | 50 | [Rats In The Hallway](https://open.spotify.com/track/4xjmfrqmUWgLSoaRA78qs3) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 2:21 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA0MzY4Y2ZmMmNkM2EwZDAwZWYzZWU2MmM3MmY5MGQ3ZQ==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDBiYzQ5YTUyNmQwYjJjYTY5N2E0Y2FlOTczOGJkYTc0OA==`

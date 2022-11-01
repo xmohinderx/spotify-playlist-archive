@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 346759,
+  "num_followers": 346877,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwNDQ5NDA4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIwNTMzODY0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "T\u00e1 na Hora do Jair J\u00e1 Ir Embora",
         "url": "https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT"
@@ -29,7 +29,43 @@
       "url": "https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Festa do Lula, Vol. 1",
+        "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
+      },
+      "artists": [
+        {
+          "name": "Festa do Lula",
+          "url": "https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG"
+        },
+        {
+          "name": "DJ F\u00e1bio ACM",
+          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
+        }
+      ],
+      "duration_ms": 106444,
+      "name": "Lula L\u00e1 no Funk (O Pai T\u00e1 On)",
+      "url": "https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Chora Pestista",
+        "url": "https://open.spotify.com/album/1AxOq1oAY4qwAfQsrMVuGw"
+      },
+      "artists": [
+        {
+          "name": "La Banda Loka Liberal",
+          "url": "https://open.spotify.com/artist/1MBvUFXEGwNhT7cfqJYap9"
+        }
+      ],
+      "duration_ms": 147983,
+      "name": "Chora Pestista",
+      "url": "https://open.spotify.com/track/2pRnBqG0J8FGcL8CbW6U1A"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Evoque Prata",
         "url": "https://open.spotify.com/album/7cZr5DfcAIy3bSd6Ce84zE"
@@ -53,7 +89,7 @@
       "url": "https://open.spotify.com/track/1597vvneWf0zoQrg2D8yH6"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Mel do Egito",
         "url": "https://open.spotify.com/album/1K2DSlKbEWe1BYgbIzUck1"
@@ -73,7 +109,87 @@
       "url": "https://open.spotify.com/track/58VUikMywNpRelwEx8khdh"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Sem Medo de Ser Feliz",
+        "url": "https://open.spotify.com/album/5cSuHiOiiOskvpSz0oV0GG"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00e9rio Carvalho",
+          "url": "https://open.spotify.com/artist/5HqZFPdtGjIescyJkhruFh"
+        }
+      ],
+      "duration_ms": 123242,
+      "name": "Sem Medo de Ser Feliz",
+      "url": "https://open.spotify.com/track/44ZhAfd7cBfGiDZ9viaAJg"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Somos Todas Bolsonaro",
+        "url": "https://open.spotify.com/album/45QfZ7XTaEbvzsQCAoMrtA"
+      },
+      "artists": [
+        {
+          "name": "Talita Caldas",
+          "url": "https://open.spotify.com/artist/4WbE03BFgEEUS8WYuJsDyk"
+        }
+      ],
+      "duration_ms": 133084,
+      "name": "Somos Todas Bolsonaro",
+      "url": "https://open.spotify.com/track/1O0lSAwmkjSEezMwS4Z7KC"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Capit\u00e3o do Povo",
+        "url": "https://open.spotify.com/album/2MhCvp4sYqv1QoalR3ONxx"
+      },
+      "artists": [
+        {
+          "name": "Capit\u00e3o do Povo",
+          "url": "https://open.spotify.com/artist/3B3sVt5n7eQ1HBPYh9Wonq"
+        }
+      ],
+      "duration_ms": 132439,
+      "name": "Capit\u00e3o do Povo",
+      "url": "https://open.spotify.com/track/6TprH6zDp2oAB4YGtOpWgt"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "T\u00f4 Com Saudade do Tempo de Lula",
+        "url": "https://open.spotify.com/album/3Mpe6QRkfPEDM7NOIEvSiR"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "duration_ms": 126380,
+      "name": "T\u00f4 Com Saudade do Tempo de Lula",
+      "url": "https://open.spotify.com/track/5J0xpihXuHvMxj7L70y6KH"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Lula L\u00e1 2022",
+        "url": "https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M"
+      },
+      "artists": [
+        {
+          "name": "Esquerda Festiva",
+          "url": "https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK"
+        }
+      ],
+      "duration_ms": 110137,
+      "name": "Lula L\u00e1 2022",
+      "url": "https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "WORTH NOTHING",
         "url": "https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI"
@@ -93,7 +209,23 @@
       "url": "https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "O Lula ta vindo ai, faz o L ai",
+        "url": "https://open.spotify.com/album/5eANuCKCdALqk8WBV9DJ8T"
+      },
+      "artists": [
+        {
+          "name": "JD Imperador",
+          "url": "https://open.spotify.com/artist/06j5Cg3oyQlwa0moPToxZ5"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "O Lula ta vindo ai, faz o L ai",
+      "url": "https://open.spotify.com/track/1RS5I2aKMDsBTksvayCp2w"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Portal Orbital",
         "url": "https://open.spotify.com/album/5SUD19UmmTt7m32odWRrrj"
@@ -125,7 +257,43 @@
       "url": "https://open.spotify.com/track/1xdFNUWqA9Y6QXeetLr0ea"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Lula \u00c9 a Tropa do 13",
+        "url": "https://open.spotify.com/album/18XHn2nFNdqjrI4XESWUCA"
+      },
+      "artists": [
+        {
+          "name": "WF Fam\u00edlia Sagrada Fam\u00edlia",
+          "url": "https://open.spotify.com/artist/4cub4WLzDhmA2a9tH0MGzv"
+        },
+        {
+          "name": "DJ F\u00e1bio ACM",
+          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
+        }
+      ],
+      "duration_ms": 236538,
+      "name": "Lula \u00c9 a Tropa do 13",
+      "url": "https://open.spotify.com/track/1FExdF82LBqhrMr7IvM2i4"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Lula Presidente",
+        "url": "https://open.spotify.com/album/7GhPlpD6BVnUqKxrzPkh3t"
+      },
+      "artists": [
+        {
+          "name": "Nuno Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/0xCH32DXtsZ9TReOcv1iH1"
+        }
+      ],
+      "duration_ms": 108582,
+      "name": "Lula Presidente",
+      "url": "https://open.spotify.com/track/7obBa7zskrwsoXyJN9agRe"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Festa do Lula, Vol. 1",
         "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
@@ -140,31 +308,47 @@
           "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
         }
       ],
-      "duration_ms": 106444,
-      "name": "Lula L\u00e1 no Funk (O Pai T\u00e1 On)",
-      "url": "https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA"
+      "duration_ms": 103594,
+      "name": "Lula L\u00e1 no Funk 150 Bpm",
+      "url": "https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
-        "name": "Capit\u00e3o do Povo",
-        "url": "https://open.spotify.com/album/2MhCvp4sYqv1QoalR3ONxx"
+        "name": "Samba do Jero",
+        "url": "https://open.spotify.com/album/5oEgXcE3PccdkBKDDMPKLR"
       },
       "artists": [
         {
-          "name": "Capit\u00e3o do Povo",
-          "url": "https://open.spotify.com/artist/3B3sVt5n7eQ1HBPYh9Wonq"
+          "name": "Jer\u00f4nimo 13",
+          "url": "https://open.spotify.com/artist/5CK5lJSZDLPMRr9UVCJTNh"
         }
       ],
-      "duration_ms": 132439,
-      "name": "Capit\u00e3o do Povo",
-      "url": "https://open.spotify.com/track/6TprH6zDp2oAB4YGtOpWgt"
+      "duration_ms": 98834,
+      "name": "Samba do Jero",
+      "url": "https://open.spotify.com/track/4nEqA8ipSTiKaW07oEzAbS"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
-        "name": "T\u00f4 Com Saudade do Tempo de Lula",
-        "url": "https://open.spotify.com/album/3Mpe6QRkfPEDM7NOIEvSiR"
+        "name": "Pegou Press\u00e3o",
+        "url": "https://open.spotify.com/album/4QMUsEV8EE9hY1zL1MkY3Q"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/4aBp0Z26C08EMvbMsxzsdg"
+        }
+      ],
+      "duration_ms": 101800,
+      "name": "Pegou Press\u00e3o",
+      "url": "https://open.spotify.com/track/2TPBF32aTOGErlturGmjYc"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Lambad\u00e3o do 13",
+        "url": "https://open.spotify.com/album/00DHxyPPWHGFVfPzQ6SX3w"
       },
       "artists": [
         {
@@ -172,28 +356,28 @@
           "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
         }
       ],
-      "duration_ms": 126380,
-      "name": "T\u00f4 Com Saudade do Tempo de Lula",
-      "url": "https://open.spotify.com/track/5J0xpihXuHvMxj7L70y6KH"
+      "duration_ms": 271125,
+      "name": "Lambad\u00e3o do 13",
+      "url": "https://open.spotify.com/track/2flbxR9KLk6285IAHouEh9"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
-        "name": "Sem Medo de Ser Feliz",
-        "url": "https://open.spotify.com/album/5cSuHiOiiOskvpSz0oV0GG"
+        "name": "Deixa o Gado Berrar",
+        "url": "https://open.spotify.com/album/4ZUuKd76OfRy0lrbPDhmxv"
       },
       "artists": [
         {
-          "name": "Rog\u00e9rio Carvalho",
-          "url": "https://open.spotify.com/artist/5HqZFPdtGjIescyJkhruFh"
+          "name": "Maderada",
+          "url": "https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp"
         }
       ],
-      "duration_ms": 123242,
-      "name": "Sem Medo de Ser Feliz",
-      "url": "https://open.spotify.com/track/44ZhAfd7cBfGiDZ9viaAJg"
+      "duration_ms": 274025,
+      "name": "Deixa o Gado Berrar",
+      "url": "https://open.spotify.com/track/4PVR5VpIT83zKYgDAJ58M9"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Sorrisin de Puto",
         "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
@@ -213,7 +397,27 @@
       "url": "https://open.spotify.com/track/40k60zCk96BsZNf2IbN0mY"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
+        "url": "https://open.spotify.com/album/3XXHD09mS7ND3cACWcilwZ"
+      },
+      "artists": [
+        {
+          "name": "MC Lil",
+          "url": "https://open.spotify.com/artist/70Xuy7hYKF1SMmWsrIuwit"
+        },
+        {
+          "name": "MC Koban",
+          "url": "https://open.spotify.com/artist/1DbHXtBNm674GMpTHOj7iy"
+        }
+      ],
+      "duration_ms": 132949,
+      "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
+      "url": "https://open.spotify.com/track/3zHhmDnPEKM4ZbeDStAmXH"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Felina",
         "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
@@ -233,7 +437,7 @@
       "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
@@ -249,39 +453,7 @@
       "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "O Lula ta vindo ai, faz o L ai",
-        "url": "https://open.spotify.com/album/5eANuCKCdALqk8WBV9DJ8T"
-      },
-      "artists": [
-        {
-          "name": "JD Imperador",
-          "url": "https://open.spotify.com/artist/06j5Cg3oyQlwa0moPToxZ5"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "O Lula ta vindo ai, faz o L ai",
-      "url": "https://open.spotify.com/track/1RS5I2aKMDsBTksvayCp2w"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Eu Vou Tacar x Essas Hora da Noite",
-        "url": "https://open.spotify.com/album/43w7xbaBwdn8lkgXEGWY75"
-      },
-      "artists": [
-        {
-          "name": "Dj Mt Oliveira",
-          "url": "https://open.spotify.com/artist/5h9joM2EsxToLaDG7XZM8M"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Eu Vou Tacar x Essas Hora da Noite",
-      "url": "https://open.spotify.com/track/29zKJzP17tazl0BtEaATee"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Saxofone Irracional",
         "url": "https://open.spotify.com/album/4PJ3xnPfC9V7oLTbTtIaeT"
@@ -305,23 +477,23 @@
       "url": "https://open.spotify.com/track/3nZPkQKmLyXhSkX4cwnrew"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
-        "name": "Pegou Press\u00e3o",
-        "url": "https://open.spotify.com/album/4QMUsEV8EE9hY1zL1MkY3Q"
+        "name": "Eu Vou Tacar x Essas Hora da Noite",
+        "url": "https://open.spotify.com/album/43w7xbaBwdn8lkgXEGWY75"
       },
       "artists": [
         {
-          "name": "Juliano Maderada",
-          "url": "https://open.spotify.com/artist/4aBp0Z26C08EMvbMsxzsdg"
+          "name": "Dj Mt Oliveira",
+          "url": "https://open.spotify.com/artist/5h9joM2EsxToLaDG7XZM8M"
         }
       ],
-      "duration_ms": 101800,
-      "name": "Pegou Press\u00e3o",
-      "url": "https://open.spotify.com/track/2TPBF32aTOGErlturGmjYc"
+      "duration_ms": 136615,
+      "name": "Eu Vou Tacar x Essas Hora da Noite",
+      "url": "https://open.spotify.com/track/29zKJzP17tazl0BtEaATee"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Ultimamente Speed",
         "url": "https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4"
@@ -337,7 +509,23 @@
       "url": "https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Oh Lula Eu Vou Votar em Tu",
+        "url": "https://open.spotify.com/album/7LDbGwAgJnhcb34UB1SAPZ"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "duration_ms": 188821,
+      "name": "Oh Lula Eu Vou Votar em Tu",
+      "url": "https://open.spotify.com/track/4mT4oWnsGzigQ6PgGHFXx5"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
@@ -357,91 +545,7 @@
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Lambad\u00e3o do 13",
-        "url": "https://open.spotify.com/album/00DHxyPPWHGFVfPzQ6SX3w"
-      },
-      "artists": [
-        {
-          "name": "Juliano Maderada",
-          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
-        }
-      ],
-      "duration_ms": 271125,
-      "name": "Lambad\u00e3o do 13",
-      "url": "https://open.spotify.com/track/2flbxR9KLk6285IAHouEh9"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Lula \u00c9 a Tropa do 13",
-        "url": "https://open.spotify.com/album/18XHn2nFNdqjrI4XESWUCA"
-      },
-      "artists": [
-        {
-          "name": "WF Fam\u00edlia Sagrada Fam\u00edlia",
-          "url": "https://open.spotify.com/artist/4cub4WLzDhmA2a9tH0MGzv"
-        },
-        {
-          "name": "DJ F\u00e1bio ACM",
-          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
-        }
-      ],
-      "duration_ms": 236538,
-      "name": "Lula \u00c9 a Tropa do 13",
-      "url": "https://open.spotify.com/track/1FExdF82LBqhrMr7IvM2i4"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "DE GLOCK RAJADA AQUI NO PPG",
-        "url": "https://open.spotify.com/album/5hrZRZMhgnl1TK1AqGHf47"
-      },
-      "artists": [
-        {
-          "name": "Mc Boc\u00e3o Capixaba",
-          "url": "https://open.spotify.com/artist/775iJyr1r8cC7zDyaADidj"
-        }
-      ],
-      "duration_ms": 61074,
-      "name": "DE GLOCK RAJADA AQUI NO PPG",
-      "url": "https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Soca Fofo",
-        "url": "https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg"
-      },
-      "artists": [
-        {
-          "name": "A Dama",
-          "url": "https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K"
-        }
-      ],
-      "duration_ms": 112941,
-      "name": "Soca Fofo",
-      "url": "https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Lula L\u00e1 2022",
-        "url": "https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M"
-      },
-      "artists": [
-        {
-          "name": "Esquerda Festiva",
-          "url": "https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK"
-        }
-      ],
-      "duration_ms": 110137,
-      "name": "Lula L\u00e1 2022",
-      "url": "https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Ai, Pedro",
         "url": "https://open.spotify.com/album/48NWKWTq2Yt5SpZOUz0MQU"
@@ -481,7 +585,55 @@
       "url": "https://open.spotify.com/track/16ynDQ7sRgkEo85Rt7M4U0"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "DE GLOCK RAJADA AQUI NO PPG",
+        "url": "https://open.spotify.com/album/5hrZRZMhgnl1TK1AqGHf47"
+      },
+      "artists": [
+        {
+          "name": "Mc Boc\u00e3o Capixaba",
+          "url": "https://open.spotify.com/artist/775iJyr1r8cC7zDyaADidj"
+        }
+      ],
+      "duration_ms": 61074,
+      "name": "DE GLOCK RAJADA AQUI NO PPG",
+      "url": "https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Soca Fofo",
+        "url": "https://open.spotify.com/album/5zQocLAf5L3TjSXaEHwztg"
+      },
+      "artists": [
+        {
+          "name": "A Dama",
+          "url": "https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K"
+        }
+      ],
+      "duration_ms": 112941,
+      "name": "Soca Fofo",
+      "url": "https://open.spotify.com/track/2Dr1TBlRFIXJUPEgQVh5Zq"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "\u00c9 o Mito",
+        "url": "https://open.spotify.com/album/6ZVm8tcezQqV8Ta4nzH2sf"
+      },
+      "artists": [
+        {
+          "name": "DJ Rea\u00e7a",
+          "url": "https://open.spotify.com/artist/5FAyiWRD1bTtw1bu881k7T"
+        }
+      ],
+      "duration_ms": 183509,
+      "name": "\u00c9 o Mito",
+      "url": "https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Eu Gosto Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO"
@@ -501,7 +653,23 @@
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Hinos dos Campe\u00f5es - Volume 2",
+        "url": "https://open.spotify.com/album/27YdA2BrcjTci49YSoMsjm"
+      },
+      "artists": [
+        {
+          "name": "Orquestra e Coro Cid (Flabanda)",
+          "url": "https://open.spotify.com/artist/23Ha8ej75ohEIGNmlBTuDP"
+        }
+      ],
+      "duration_ms": 133328,
+      "name": "Hino do Flamengo",
+      "url": "https://open.spotify.com/track/2KGYg5LBQKpA4Js8BBcOkn"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Deserto (Ao Vivo)",
         "url": "https://open.spotify.com/album/3dRnmYdGMMDgBxx3vdd6yW"
@@ -517,7 +685,79 @@
       "url": "https://open.spotify.com/track/1a5LfJGq0vuCWQ9Mme0Ac7"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Baile de Favela (Remix)",
+        "url": "https://open.spotify.com/album/2QooHZjnY08kc69Dnrdb4V"
+      },
+      "artists": [
+        {
+          "name": "Piero da Vinci & Fr4nk Cr4nk",
+          "url": "https://open.spotify.com/artist/5h4fVp3m9YtTT2LLDi6azy"
+        }
+      ],
+      "duration_ms": 251259,
+      "name": "Baile de Favela - Remix",
+      "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "MPB4",
+          "url": "https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM"
+        },
+        {
+          "name": "Quarteto Em Cy",
+          "url": "https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Apesar De Voc\u00ea",
+      "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Time de Lula",
+        "url": "https://open.spotify.com/album/7ANaurTJUt8vrJjl1TMw9V"
+      },
+      "artists": [
+        {
+          "name": "Voz do Povo",
+          "url": "https://open.spotify.com/artist/7CAMQyocFxtqWS5JGrtnS7"
+        }
+      ],
+      "duration_ms": 93664,
+      "name": "Time de Lula",
+      "url": "https://open.spotify.com/track/4iFJhgQ83sJiVMTNUJBKMp"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Votei Em Bolsonaro",
+        "url": "https://open.spotify.com/album/62y8QQDiCd4BTUPUuh0Pgf"
+      },
+      "artists": [
+        {
+          "name": "valdemir calado da silva",
+          "url": "https://open.spotify.com/artist/1TI8xKO0QOYq2wg9OlC0zV"
+        }
+      ],
+      "duration_ms": 125152,
+      "name": "Votei Em Bolsonaro",
+      "url": "https://open.spotify.com/track/7tsxZN3H8ETCoAxgSETgi9"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
@@ -537,7 +777,7 @@
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "M\u00e9dia Boa (Ao Vivo)",
         "url": "https://open.spotify.com/album/15FjGqqvJgrSc4DowwwBKj"
@@ -553,7 +793,7 @@
       "url": "https://open.spotify.com/track/1dMyIigB6MDsfD3xuG6TbO"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Cheiro da Karolina",
         "url": "https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI"
@@ -569,7 +809,7 @@
       "url": "https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Aqui Na Parma Tu Vem Pra Fuder",
         "url": "https://open.spotify.com/album/6TLHkb7dghgkYTlmtrZkM8"
@@ -589,43 +829,7 @@
       "url": "https://open.spotify.com/track/3euydCfGHLFjuwHA7G7AUJ"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Hinos dos Campe\u00f5es - Volume 2",
-        "url": "https://open.spotify.com/album/27YdA2BrcjTci49YSoMsjm"
-      },
-      "artists": [
-        {
-          "name": "Orquestra e Coro Cid (Flabanda)",
-          "url": "https://open.spotify.com/artist/23Ha8ej75ohEIGNmlBTuDP"
-        }
-      ],
-      "duration_ms": 133328,
-      "name": "Hino do Flamengo",
-      "url": "https://open.spotify.com/track/2KGYg5LBQKpA4Js8BBcOkn"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Festa do Lula, Vol. 1",
-        "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
-      },
-      "artists": [
-        {
-          "name": "Festa do Lula",
-          "url": "https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG"
-        },
-        {
-          "name": "DJ F\u00e1bio ACM",
-          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
-        }
-      ],
-      "duration_ms": 103594,
-      "name": "Lula L\u00e1 no Funk 150 Bpm",
-      "url": "https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Tubar\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
@@ -657,7 +861,23 @@
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Lula Voltando",
+        "url": "https://open.spotify.com/album/7kKsXaeQtNskSSVbpzC5nX"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Lula Voltando",
+      "url": "https://open.spotify.com/track/5RbrVslJMKheZGFRMKKzZb"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "SARRA NOS MENOR QUE TA DE GLOCK NA CINTURA",
         "url": "https://open.spotify.com/album/7xQwkgNguN6SUKwTNZwNCE"
@@ -681,7 +901,23 @@
       "url": "https://open.spotify.com/track/2N8MJun4bBUDCG92sSlpsS"
     },
     {
-      "added_at": "2022-10-30 12:50:08",
+      "added_at": "2022-10-31 12:17:44",
+      "album": {
+        "name": "Vai dar PT",
+        "url": "https://open.spotify.com/album/5meX0ewl7cSOu4hwzXC5Ez"
+      },
+      "artists": [
+        {
+          "name": "MC Rahell",
+          "url": "https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "Vai dar PT",
+      "url": "https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9"
+    },
+    {
+      "added_at": "2022-10-31 12:17:44",
       "album": {
         "name": "Mal Sei Falar de Amor",
         "url": "https://open.spotify.com/album/2p6554PCcGEKWrSLknXpAr"
@@ -699,270 +935,6 @@
       "duration_ms": 128000,
       "name": "Mal Sei Falar de Amor",
       "url": "https://open.spotify.com/track/1BoMpKPeITtg3HN9Ursz5T"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/4a4c1QDOCxkOB82wTaVxCJ"
-      },
-      "artists": [
-        {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 120405,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Oh Lula Eu Vou Votar em Tu",
-        "url": "https://open.spotify.com/album/7LDbGwAgJnhcb34UB1SAPZ"
-      },
-      "artists": [
-        {
-          "name": "Juliano Maderada",
-          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
-        }
-      ],
-      "duration_ms": 188821,
-      "name": "Oh Lula Eu Vou Votar em Tu",
-      "url": "https://open.spotify.com/track/4mT4oWnsGzigQ6PgGHFXx5"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Papo de Agustinho",
-        "url": "https://open.spotify.com/album/6zhoQQ4slrBbrAKrhTycwo"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Papo de Agustinho",
-      "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Bandida Perversa",
-        "url": "https://open.spotify.com/album/4t6q079qY2YAosMUqoblFq"
-      },
-      "artists": [
-        {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "Mc Lina",
-          "url": "https://open.spotify.com/artist/6V9TYyxua6RS2GXbt4E55Q"
-        },
-        {
-          "name": "Doug Hits",
-          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
-        },
-        {
-          "name": "DJ RC",
-          "url": "https://open.spotify.com/artist/7gbxPcZ5qqE53k6a5zUSFk"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Bandida Perversa",
-      "url": "https://open.spotify.com/track/3PKuWhiebOVLFRBwn9gqEF"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Nightmare Before Christmas",
-        "url": "https://open.spotify.com/album/2qmppQg4IgJRMFbWuwQLw7"
-      },
-      "artists": [
-        {
-          "name": "Disney Characters",
-          "url": "https://open.spotify.com/artist/6utdPEv71mR0DnGp74cJIz"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "This Is Halloween",
-      "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Ultimamente",
-        "url": "https://open.spotify.com/album/1skHfn9J8rBeU5k2Fn0LVy"
-      },
-      "artists": [
-        {
-          "name": "dreko",
-          "url": "https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy"
-        }
-      ],
-      "duration_ms": 171976,
-      "name": "Ultimamente",
-      "url": "https://open.spotify.com/track/6WK2qXh0q13CbohnLtz0bB"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "N\u00e3o Fosse T\u00e3o Tarde",
-        "url": "https://open.spotify.com/album/1ZOX8Vo6kp2UzdSGUCJ2lN"
-      },
-      "artists": [
-        {
-          "name": "LUCASS ABOIADOR",
-          "url": "https://open.spotify.com/artist/2lOMLaD4Ft5EKz7ztDIWtG"
-        }
-      ],
-      "duration_ms": 142988,
-      "name": "N\u00e3o Fosse T\u00e3o Tarde",
-      "url": "https://open.spotify.com/track/15k0jgOtUlgF5117rVSAQi"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "HELP EVER HURT NEVER",
-        "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
-      "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Joga Essa Xereca",
-        "url": "https://open.spotify.com/album/3eCK3Azv1Mc5hIcbEbldA2"
-      },
-      "artists": [
-        {
-          "name": "DJ WOODY ORIGINAL",
-          "url": "https://open.spotify.com/artist/2FyYRZ6POfSLRwdEN13GpW"
-        },
-        {
-          "name": "Mc Daneve",
-          "url": "https://open.spotify.com/artist/2UP2QtuQ8dT1519woNtUV2"
-        },
-        {
-          "name": "MC K.K",
-          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
-        },
-        {
-          "name": "DJ Vil\u00e3o DS",
-          "url": "https://open.spotify.com/artist/1yTrrABG9Vr2Y9lbHupN3f"
-        }
-      ],
-      "duration_ms": 133799,
-      "name": "Joga Essa Xereca",
-      "url": "https://open.spotify.com/track/3Hp2O1pOmFSa32O0E2ZGnO"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "\u00c9 o Mito",
-        "url": "https://open.spotify.com/album/6ZVm8tcezQqV8Ta4nzH2sf"
-      },
-      "artists": [
-        {
-          "name": "DJ Rea\u00e7a",
-          "url": "https://open.spotify.com/artist/5FAyiWRD1bTtw1bu881k7T"
-        }
-      ],
-      "duration_ms": 183509,
-      "name": "\u00c9 o Mito",
-      "url": "https://open.spotify.com/track/72A8rHS99kqVlOg2nwI7q7"
-    },
-    {
-      "added_at": "2022-10-30 12:50:08",
-      "album": {
-        "name": "Hit dos Solteiros , Dia dos Namorados, Uni-Dune-Te, Dj Ff Ta Solteiro",
-        "url": "https://open.spotify.com/album/0OkGSQrJPZLTGW1OjleO2z"
-      },
-      "artists": [
-        {
-          "name": "DJ FF",
-          "url": "https://open.spotify.com/artist/5Vnq6asYoLJ4on5FQ7Nev6"
-        }
-      ],
-      "duration_ms": 161461,
-      "name": "Hit dos Solteiros , Dia dos Namorados, Uni-Dune-Te, Dj Ff Ta Solteiro",
-      "url": "https://open.spotify.com/track/17MAhrUerlgDQZU6HdR5Zk"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

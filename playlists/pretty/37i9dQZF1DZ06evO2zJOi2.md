@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 > This is Morgan Wallen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,852 likes - 32 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,111 likes - 32 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 31 | [Stand Alone](https://open.spotify.com/track/5Gy4y79aKl44KZ2BpmgY7P) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 4:09 |
 | 32 | [Yin Yang Girl](https://open.spotify.com/track/1jYHeWuwdAcaI7D97GTxF2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Stand Alone \- EP](https://open.spotify.com/album/2F66LRNUc5LQRC9qEVhfeu) | 3:27 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA4YTVlZDc4MzJhMjI3N2YxNjZmZjUwZDZiNTk1ZDc4ZA==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA2OTc1Yjk4MzA1NzUyYWVlZjhhYjU2NzUwNGExZTBiNg==`

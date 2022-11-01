@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 16346,
+  "num_followers": 16367,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMDMxMjUzODg1MzQzOGQ1ZjNiMDY2OTFhYjYyMzhmZWU5",
+  "snapshot_id": "MTY1NTcxODkyMSwwMDAwMDAwMGNlNmM0MmNkOTQ0Y2I4YjJlYjBkYWIxYjY0ZWY3NmJj",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -319,6 +319,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 336253,
+      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
+      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Traumerei Am Kamin",
         "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 442720,
       "name": "Intermezzo, Op. 72, TrV 246a: Traumerei am Kamin (Dreaming by the Fireside)",
       "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 336253,
-      "name": "Piano Sonata in B Minor, Op. 5, TrV 103: II. Adagio cantabile",
-      "url": "https://open.spotify.com/track/2ywE1VwAIPDBUTmoVQuy42"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
+      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
-      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -579,6 +579,30 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Through Life & Love",
+        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Louise Alder",
+          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
+        },
+        {
+          "name": "Joseph Middleton",
+          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
+        }
+      ],
+      "duration_ms": 138834,
+      "name": "Rote Rosen, TrV 119",
+      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -623,30 +647,6 @@
       "duration_ms": 928133,
       "name": "Till Eulenspiegels lustige Streiche (Till Eulenspiegel's Merry Pranks), Op. 28, TrV 171",
       "url": "https://open.spotify.com/track/4p0X3sBErkuxoyNAUPzi7C"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Through Life & Love",
-        "url": "https://open.spotify.com/album/3njOqW0wggzLTL5EQxMwPk"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Louise Alder",
-          "url": "https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq"
-        },
-        {
-          "name": "Joseph Middleton",
-          "url": "https://open.spotify.com/artist/3sAF38QhpHj5zeTuvTB7Zd"
-        }
-      ],
-      "duration_ms": 138834,
-      "name": "Rote Rosen, TrV 119",
-      "url": "https://open.spotify.com/track/06coE8XndDciGk7LOYhkBh"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -775,8 +775,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Heimliche Aufforderung",
-        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
+        "name": "Strauss: Piano Trios Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
       },
       "artists": [
         {
@@ -784,21 +784,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Christiane Karg",
-          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
+          "name": "Amelia Piano Trio",
+          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
         },
         {
-          "name": "Malcolm Martineau",
-          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
-        },
-        {
-          "name": "Felix Klieser",
-          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
+          "name": "Max Mandel",
+          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Alphorn, o. Op.",
-      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+      "duration_ms": 240306,
+      "name": "Standchen, TrV 114",
+      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -831,8 +827,8 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Piano Trios Nos. 1 & 2",
-        "url": "https://open.spotify.com/album/00s2P1buYthLmGCADnRplP"
+        "name": "Strauss: Heimliche Aufforderung",
+        "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
       "artists": [
         {
@@ -840,17 +836,21 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Amelia Piano Trio",
-          "url": "https://open.spotify.com/artist/4h7J09G0nNzkoK9UFBkFMB"
+          "name": "Christiane Karg",
+          "url": "https://open.spotify.com/artist/1ciVg5ahmKB06VBabf8tsL"
         },
         {
-          "name": "Max Mandel",
-          "url": "https://open.spotify.com/artist/1lgyh5VKSj4wK26xwOuNuE"
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        },
+        {
+          "name": "Felix Klieser",
+          "url": "https://open.spotify.com/artist/6iEsUJcTGn6UC6G4Qce84z"
         }
       ],
-      "duration_ms": 240306,
-      "name": "Standchen, TrV 114",
-      "url": "https://open.spotify.com/track/4vSZuTSLCZNj9EeCE60d0p"
+      "duration_ms": 265000,
+      "name": "Alphorn, o. Op.",
+      "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -999,30 +999,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
-        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Weimar Staatskapelle",
-          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 364893,
-      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
-      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "Strauss: 3 Hymns - Opera arias",
         "url": "https://open.spotify.com/album/5g5pDsEAVjQvO6WdAxQehK"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 1199106,
       "name": "Capriccio, Op. 85, TrV 279: Andante con moto - Morgen mittag um elf!",
       "url": "https://open.spotify.com/track/24dlZ6GS4fK0aYQ6USmVwZ"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss, R.: Symphonia Domestica / Metamorphosen",
+        "url": "https://open.spotify.com/album/3g40wVDDpr2buEmYh8akCR"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Weimar Staatskapelle",
+          "url": "https://open.spotify.com/artist/0VvmMBc28vh7Cys9YOo3i5"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 364893,
+      "name": "Symphonia domestica, Op. 53, TrV 209: Wiegenlied -",
+      "url": "https://open.spotify.com/track/1hHxXXb8ePbAgG8ofykYSH"
     },
     {
       "added_at": "2022-06-20 09:55:21",

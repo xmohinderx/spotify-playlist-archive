@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Jim Legxacy",
-  "num_followers": 128495,
+  "num_followers": 128563,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDJmNWM2ZGVkMzU0MjI0MzlhZDEzZDlhMjY1NzBjMzli",
+  "snapshot_id": "MTY2Njk1MzM3MCwwMDAwMDAwMDZiNTQwZDgwMTI4NDAyYTY1NjliMjg4ODVlOTc1N2M3",
   "tracks": [
     {
       "added_at": "2022-10-23 19:19:20",
@@ -211,22 +211,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "24's",
-        "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
-      },
-      "artists": [
-        {
-          "name": "JBee",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "24's",
-      "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Local Mvp",
         "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 158000,
       "name": "Stylin'",
       "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "24's",
+        "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
+      },
+      "artists": [
+        {
+          "name": "JBee",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "24's",
+      "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -519,18 +519,22 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "NO BONNIE N CLYDE",
-        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
       "artists": [
         {
-          "name": "KAHUKX",
-          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 133400,
-      "name": "NO BONNIE N CLYDE",
-      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -555,38 +559,34 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+        "name": "NO BONNIE N CLYDE",
+        "url": "https://open.spotify.com/album/5E1DYCj30VW0PshMibXmFm"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "KAHUKX",
+          "url": "https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+      "duration_ms": 133400,
+      "name": "NO BONNIE N CLYDE",
+      "url": "https://open.spotify.com/track/31EJY5zvDJhQdfXc7g4V7T"
     },
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Leon the Professional",
-        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
         }
       ],
-      "duration_ms": 181200,
-      "name": "Leon the Professional",
-      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
+      "duration_ms": 248817,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/4qInGWd8oKXlKxZCdqS8EL"
+        "name": "Leon the Professional",
+        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
       },
       "artists": [
         {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 248817,
-      "name": "Happy Ending",
-      "url": "https://open.spotify.com/track/3nv43IARMsDxgfHHpEfeCQ"
+      "duration_ms": 181200,
+      "name": "Leon the Professional",
+      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
     },
     {
       "added_at": "2022-10-23 19:19:20",
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/664xNHBYkCWIkIWXuop9lc"
     },
     {
-      "added_at": "2022-10-31 01:46:27",
+      "added_at": "2022-11-01 01:49:17",
       "album": {
         "name": "Love is a Lottery",
         "url": "https://open.spotify.com/album/0BmQyo8T0Oief6QZjsbQfZ"
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-23 19:19:20",
       "album": {
-        "name": "ELVIS (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Sometimes I Feel Like A Motherless Child",
-      "url": "https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO"
-    },
-    {
-      "added_at": "2022-10-23 19:19:20",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 193586,
       "name": "July",
       "url": "https://open.spotify.com/track/5bdNxTwJXOD9Pn4lieRapv"
+    },
+    {
+      "added_at": "2022-10-23 19:19:20",
+      "album": {
+        "name": "ELVIS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Sometimes I Feel Like A Motherless Child",
+      "url": "https://open.spotify.com/track/0ZbsKlIZ1LBXEmCJOaO3pO"
     }
   ],
   "unique_name": "Free Form",

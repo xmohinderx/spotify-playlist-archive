@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Puro Sentimiento",
-  "num_followers": 82754,
+  "num_followers": 82808,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMGRjYTU3ZjY1MmI5NGY1MTFjNTBkMjRjMTA0ZTdhYzg2",
+  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMDQ1NDgxYzU0NmVjOTU0NjRkYTM5ZjBlYzYzZGYyN2Y3",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Amor de Estudiante",
+        "url": "https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "duration_ms": 326453,
+      "name": "Cervecero",
+      "url": "https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Por Qu\u00e9 Te Fuiste",
         "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Amor de Estudiante",
-        "url": "https://open.spotify.com/album/0duHeGHeuv8HAzKMrxtskK"
-      },
-      "artists": [
-        {
-          "name": "Armonia 10",
-          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
-        }
-      ],
-      "duration_ms": 326453,
-      "name": "Cervecero",
-      "url": "https://open.spotify.com/track/5tt27Q87bSQG4OjYtj8aPh"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "A Llorar a Otra Parte",
         "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 233813,
       "name": "L\u00e1rgate",
       "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
-        "name": "He Sentido Amor",
-        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
-      },
-      "artists": [
-        {
-          "name": "Amaya Hnos",
-          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
-        }
-      ],
-      "duration_ms": 235154,
-      "name": "He Sentido Amor",
-      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -543,22 +527,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Directo al Coraz\u00f3n, Vol. 18",
-        "url": "https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE"
-      },
-      "artists": [
-        {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
-        }
-      ],
-      "duration_ms": 213669,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "El Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ"
       },
@@ -571,6 +539,22 @@
       "duration_ms": 247986,
       "name": "J\u00farame",
       "url": "https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "He Sentido Amor",
+        "url": "https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX"
+      },
+      "artists": [
+        {
+          "name": "Amaya Hnos",
+          "url": "https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ"
+        }
+      ],
+      "duration_ms": 235154,
+      "name": "He Sentido Amor",
+      "url": "https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -623,6 +607,22 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
+        "name": "Directo al Coraz\u00f3n, Vol. 18",
+        "url": "https://open.spotify.com/album/7qMhIUFDDzM9uEIlhT5mnE"
+      },
+      "artists": [
+        {
+          "name": "Agua Marina",
+          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+        }
+      ],
+      "duration_ms": 213669,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/6ZRWmk8bYmHCcseZqyykWR"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
         "name": "Los Querendones de la Cumbia, Vol. 1",
         "url": "https://open.spotify.com/album/42HTe6akwChVCYeLijteif"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Me Vas a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
+        "name": "D\u00edas Felices",
+        "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
       },
       "artists": [
         {
-          "name": "Orquesta Candela",
-          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
+          "name": "Puro Sentimiento",
+          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
         }
       ],
-      "duration_ms": 233564,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc"
+      "duration_ms": 276192,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "D\u00edas Felices",
-        "url": "https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb"
+        "name": "Me Vas a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj"
       },
       "artists": [
         {
-          "name": "Puro Sentimiento",
-          "url": "https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR"
+          "name": "Orquesta Candela",
+          "url": "https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU"
         }
       ],
-      "duration_ms": 276192,
-      "name": "Recuerdos",
-      "url": "https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3"
+      "duration_ms": 233564,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc"
     },
     {
       "added_at": "2022-08-05 05:00:00",

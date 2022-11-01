@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,347 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,476 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,24 +68,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 58 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 |
 | 59 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
 | 60 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
-| 61 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
-| 62 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 |
+| 61 | [Soft Meadow](https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 5:28 |
+| 62 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
 | 63 | [Inspirit](https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Healing Is A Miracle](https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo) | 4:12 |
 | 64 | [My Lights Kiss Your Thoughts Every Moment](https://open.spotify.com/track/7FUUtoODxCE6EbzPR3rRXN) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Rushing](https://open.spotify.com/album/4shmthaRgqJbSA7CEeM3VV) | 2:16 |
 | 65 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
 | 66 | [At Height](https://open.spotify.com/track/6LxPmMmwY76D4XPCvZnQR3) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Bright Serpent](https://open.spotify.com/album/5qi4aoHpcDfsoTbVsjPXwI) | 3:52 |
 | 67 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
 | 68 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
-| 69 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
-| 70 | [Constant Reminder](https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 1:30 |
+| 69 | [Constant Reminder](https://open.spotify.com/track/2R1ie4gZr9VXwVQlqrdGNP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Tiny Reminders](https://open.spotify.com/album/3HaeZlQ5SdtBwUPPGgkC99) | 1:30 |
+| 70 | [Appeayl 2 U part 1](https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75) | [Gayngs](https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI) | [Appeayl 2 U](https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U) | 3:56 |
 | 71 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
-| 72 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
-| 73 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
+| 72 | [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 |
+| 73 | [born slipping](https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 4:32 |
 | 74 | [FTLOG](https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [FTLOG](https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l) | 4:07 |
 | 75 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 76 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
-| 77 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 |
-| 78 | [Lilith](https://open.spotify.com/track/3nSfJkSb7xRtrtJMKohXGc) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 4:38 |
+| 77 | [Lilith](https://open.spotify.com/track/3nSfJkSb7xRtrtJMKohXGc) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Not For Threes](https://open.spotify.com/album/5O4LYrdtTr4nMnkn2GwP74) | 4:38 |
+| 78 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 |
 | 79 | [acceptance](https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [acceptance](https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs) | 5:11 |
 | 80 | [Natura Sophia](https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:03 |
 | 81 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 87 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
 | 88 | [SHEEP](https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 5:19 |
 | 89 | [Together \- Rework](https://open.spotify.com/track/5cawG3coP2I6fBQA5ijRZI) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Go / Together](https://open.spotify.com/album/6GCT7ifev46JcCnPC6CYzw) | 8:06 |
-| 90 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
-| 91 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
+| 90 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
+| 91 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
 | 92 | [The Feeling \(Of Warmth And Beauty\)](https://open.spotify.com/track/1tC9xO79zNRqB2BM2PMMse) | [Richard H\. Kirk](https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr) | [Virtual State](https://open.spotify.com/album/5wNAn44g7RbdOrQS8jR8Ok) | 6:08 |
 | 93 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 94 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
 | 100 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 |
 
-Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMGI0ZTI4Njc3MTc4MmM4YzQzNmNmZTA5YjJkOGZhN2Fh`
+Snapshot ID: `MTY0Mzg1NjIwNiwwMDAwMDAwMGUyZDU3YmRkZDA4NGYyOTE5YTgzNTEwMDk1OWJmZjNi`

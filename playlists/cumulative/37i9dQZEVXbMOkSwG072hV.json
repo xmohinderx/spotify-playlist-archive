@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 251259,
       "name": "Baile de Favela - Remix",
       "url": "https://open.spotify.com/track/70v2lrNsFa38VeEEWKCjLP"
@@ -1773,7 +1773,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 118153,
       "name": "Bandida Perversa",
       "url": "https://open.spotify.com/track/3PKuWhiebOVLFRBwn9gqEF"
@@ -2980,6 +2980,24 @@
     },
     {
       "album": {
+        "name": "Chora Pestista",
+        "url": "https://open.spotify.com/album/1AxOq1oAY4qwAfQsrMVuGw"
+      },
+      "artists": [
+        {
+          "name": "La Banda Loka Liberal",
+          "url": "https://open.spotify.com/artist/1MBvUFXEGwNhT7cfqJYap9"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147983,
+      "name": "Chora Pestista",
+      "url": "https://open.spotify.com/track/2pRnBqG0J8FGcL8CbW6U1A"
+    },
+    {
+      "album": {
         "name": "Chrissy, Wake Up",
         "url": "https://open.spotify.com/album/5pTUl9j9aiSHSdWp1gt0jb"
       },
@@ -3551,6 +3569,24 @@
       "duration_ms": 231529,
       "name": "Deixa N\u00f3s Viver em Paz",
       "url": "https://open.spotify.com/track/0jiDy1aEzi1j4DiMdI6gVT"
+    },
+    {
+      "album": {
+        "name": "Deixa o Gado Berrar",
+        "url": "https://open.spotify.com/album/4ZUuKd76OfRy0lrbPDhmxv"
+      },
+      "artists": [
+        {
+          "name": "Maderada",
+          "url": "https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274025,
+      "name": "Deixa o Gado Berrar",
+      "url": "https://open.spotify.com/track/4PVR5VpIT83zKYgDAJ58M9"
     },
     {
       "album": {
@@ -4911,7 +4947,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -6075,7 +6111,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 161461,
       "name": "Hit dos Solteiros , Dia dos Namorados, Uni-Dune-Te, Dj Ff Ta Solteiro",
       "url": "https://open.spotify.com/track/17MAhrUerlgDQZU6HdR5Zk"
@@ -6827,7 +6863,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 133799,
       "name": "Joga Essa Xereca",
       "url": "https://open.spotify.com/track/3Hp2O1pOmFSa32O0E2ZGnO"
@@ -7427,6 +7463,42 @@
       "duration_ms": 103594,
       "name": "Lula L\u00e1 no Funk 150 Bpm",
       "url": "https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry"
+    },
+    {
+      "album": {
+        "name": "Lula Presidente",
+        "url": "https://open.spotify.com/album/7GhPlpD6BVnUqKxrzPkh3t"
+      },
+      "artists": [
+        {
+          "name": "Nuno Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/0xCH32DXtsZ9TReOcv1iH1"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108582,
+      "name": "Lula Presidente",
+      "url": "https://open.spotify.com/track/7obBa7zskrwsoXyJN9agRe"
+    },
+    {
+      "album": {
+        "name": "Lula Voltando",
+        "url": "https://open.spotify.com/album/7kKsXaeQtNskSSVbpzC5nX"
+      },
+      "artists": [
+        {
+          "name": "Juliano Maderada",
+          "url": "https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Lula Voltando",
+      "url": "https://open.spotify.com/track/5RbrVslJMKheZGFRMKKzZb"
     },
     {
       "album": {
@@ -8807,7 +8879,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -8825,7 +8897,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
@@ -9789,7 +9861,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 142988,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/15k0jgOtUlgF5117rVSAQi"
@@ -10647,7 +10719,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 173333,
       "name": "Papo de Agustinho",
       "url": "https://open.spotify.com/track/5cCwZJUf8QiCQGnyakhpmF"
@@ -12021,7 +12093,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 120405,
       "name": "Reverse",
       "url": "https://open.spotify.com/track/5TGkZGCUoV1zvFxQOIQM5O"
@@ -12185,6 +12257,24 @@
       "duration_ms": 171384,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
+    },
+    {
+      "album": {
+        "name": "Samba do Jero",
+        "url": "https://open.spotify.com/album/5oEgXcE3PccdkBKDDMPKLR"
+      },
+      "artists": [
+        {
+          "name": "Jer\u00f4nimo 13",
+          "url": "https://open.spotify.com/artist/5CK5lJSZDLPMRr9UVCJTNh"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98834,
+      "name": "Samba do Jero",
+      "url": "https://open.spotify.com/track/4nEqA8ipSTiKaW07oEzAbS"
     },
     {
       "album": {
@@ -13300,6 +13390,24 @@
     },
     {
       "album": {
+        "name": "Somos Todas Bolsonaro",
+        "url": "https://open.spotify.com/album/45QfZ7XTaEbvzsQCAoMrtA"
+      },
+      "artists": [
+        {
+          "name": "Talita Caldas",
+          "url": "https://open.spotify.com/artist/4WbE03BFgEEUS8WYuJsDyk"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133084,
+      "name": "Somos Todas Bolsonaro",
+      "url": "https://open.spotify.com/track/1O0lSAwmkjSEezMwS4Z7KC"
+    },
+    {
+      "album": {
         "name": "Sorrisin de Puto",
         "url": "https://open.spotify.com/album/70Vfc79R6cAOrP1ZMa7TGv"
       },
@@ -14285,7 +14393,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/4a9RlnJ0v1T7HgLtps1HvI"
@@ -14307,6 +14415,24 @@
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe"
+    },
+    {
+      "album": {
+        "name": "Time de Lula",
+        "url": "https://open.spotify.com/album/7ANaurTJUt8vrJjl1TMw9V"
+      },
+      "artists": [
+        {
+          "name": "Voz do Povo",
+          "url": "https://open.spotify.com/artist/7CAMQyocFxtqWS5JGrtnS7"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93664,
+      "name": "Time de Lula",
+      "url": "https://open.spotify.com/track/4iFJhgQ83sJiVMTNUJBKMp"
     },
     {
       "album": {
@@ -14497,7 +14623,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 132949,
       "name": "Traz de Volta o Lula e Manda Embora o Bolsonaro",
       "url": "https://open.spotify.com/track/3zHhmDnPEKM4ZbeDStAmXH"
@@ -14939,7 +15065,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 171976,
       "name": "Ultimamente",
       "url": "https://open.spotify.com/track/6WK2qXh0q13CbohnLtz0bB"
@@ -15153,7 +15279,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 165558,
       "name": "Vai dar PT",
       "url": "https://open.spotify.com/track/4Ti7WdCbPoxBBURxuY6sT9"
@@ -15808,6 +15934,24 @@
     },
     {
       "album": {
+        "name": "Votei Em Bolsonaro",
+        "url": "https://open.spotify.com/album/62y8QQDiCd4BTUPUuh0Pgf"
+      },
+      "artists": [
+        {
+          "name": "valdemir calado da silva",
+          "url": "https://open.spotify.com/artist/1TI8xKO0QOYq2wg9OlC0zV"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125152,
+      "name": "Votei Em Bolsonaro",
+      "url": "https://open.spotify.com/track/7tsxZN3H8ETCoAxgSETgi9"
+    },
+    {
+      "album": {
         "name": "ZIMA",
         "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
       },
@@ -16305,7 +16449,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,513 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,749 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 30 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 31 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 32 | [Follow You Down](https://open.spotify.com/track/6rqkwoZu5oX5hugeyiJCM8) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Congratulations I'm Sorry](https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE) | 4:30 |
-| 33 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
-| 34 | [Backwater](https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg) | [Meat Puppets](https://open.spotify.com/artist/2h9yQhKyqOMex3QFMVeq7F) | [Too High To Die](https://open.spotify.com/album/33NHMtzngLZw6GBB1nNpVJ) | 3:40 |
-| 35 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 |
-| 36 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 37 | [Everything To Everyone](https://open.spotify.com/track/6BdD561PmmMhpUYI7Qhaut) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:20 |
-| 38 | [Til I Hear It From You](https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Til I Hear It From You](https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut) | 3:52 |
+| 33 | [I'll Stick Around](https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 3:52 |
+| 34 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
+| 35 | [Til I Hear It From You](https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Til I Hear It From You](https://open.spotify.com/album/1Hb3wpvKy2PytjaBAZNAut) | 3:52 |
+| 36 | [Backwater](https://open.spotify.com/track/3KZVWVH4epY2JGaqRs8bqg) | [Meat Puppets](https://open.spotify.com/artist/2h9yQhKyqOMex3QFMVeq7F) | [Too High To Die](https://open.spotify.com/album/33NHMtzngLZw6GBB1nNpVJ) | 3:40 |
+| 37 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
+| 38 | [Everything To Everyone](https://open.spotify.com/track/6BdD561PmmMhpUYI7Qhaut) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [So Much For The Afterglow](https://open.spotify.com/album/7xk1Tl6UZ8OALZkFEagPsM) | 3:20 |
 | 39 | [Everything Zen](https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:38 |
 | 40 | [Saint Joe On The School Bus](https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 3:20 |
 | 41 | [Tyler](https://open.spotify.com/track/4ti5I6Wxmj8CNpAxVHKohx) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Rubberneck](https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN) | 4:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [Clumsy](https://open.spotify.com/track/5IOUNrN8E37eLGdLNRr9aC) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:27 |
 | 60 | [I'm Above](https://open.spotify.com/track/6NQZtrzKlUkY81Bw00avaI) | [Mad Season](https://open.spotify.com/artist/0T7JQxpy1Li93vLNirbv0Z) | [Above \(Deluxe Edition\)](https://open.spotify.com/album/1cqta2uSKVYdom7CRMGDwn) | 5:44 |
 
-Snapshot ID: `MTY1NjUyMDA3NSwwMDAwMDAwMGNjM2QyMjU0OTZmNTE2ZjYzN2VhNzkwMTA0N2Y0Yzhi`
+Snapshot ID: `MTY1NjUyMDA3NSwwMDAwMDAwMDYzNWI0N2VmNDlkZTNmMmZhZTYwZTg5NTk2OTA2MzEx`

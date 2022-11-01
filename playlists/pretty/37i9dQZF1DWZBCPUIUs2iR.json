@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: George Strait",
-  "num_followers": 339015,
+  "num_followers": 339724,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMGQ4NjljM2I1NTJlMWQ1MjJiOGZhZWI5MTUwNGFkYzYw",
+  "snapshot_id": "MTY2MzIxNDQwMCwwMDAwMDAwMDczYzNlZDM2ZDMyMzJjM2RkYWE4NDEyZTcyYjYwMjY2",
   "tracks": [
     {
       "added_at": "2022-09-15 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Blue Ain't Your Color",
-      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
         "name": "#1s ... and then some",
         "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 208106,
       "name": "My Maria",
       "url": "https://open.spotify.com/track/09qzRI951OVkXGCc33gzcT"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Blue Ain't Your Color",
+      "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
         "name": "Old Boots, New Dirt",
         "url": "https://open.spotify.com/album/5p3nTBqh8WCoQfRDAaVp68"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 157653,
       "name": "Don't It Make My Brown Eyes Blue",
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Just To See You Smile",
-      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "George Strait's Greatest Hits",
-        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "You Look So Good In Love",
-      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
+        "name": "George Strait's Greatest Hits",
+        "url": "https://open.spotify.com/album/7x8avOLIjaENw4csHfd40c"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "You Look So Good In Love",
+      "url": "https://open.spotify.com/track/5BYOLEoFD1fWokKncxz7BQ"
     },
     {
       "added_at": "2022-09-15 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-09-15 04:00:00",
       "album": {
-        "name": "Greatest Hits - Finest Performances",
-        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Fightin Side Of Me",
-      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
-    },
-    {
-      "added_at": "2022-09-15 04:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 203733,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5toaXJWnmQCnGRh8eOrEwE"
+    },
+    {
+      "added_at": "2022-09-15 04:00:00",
+      "album": {
+        "name": "Greatest Hits - Finest Performances",
+        "url": "https://open.spotify.com/album/15bCIHfExC17px6iAMdtCi"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Fightin Side Of Me",
+      "url": "https://open.spotify.com/track/3gP4z9Muyf51JdDyN91upf"
     },
     {
       "added_at": "2022-09-15 04:00:00",

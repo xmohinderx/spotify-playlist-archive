@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Don Tetto",
-  "num_followers": 79498,
+  "num_followers": 79510,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGMzNzBhYmNiNzAyMmNhYjY2MzQ4NzQyMjBjZTdlOTAx",
+  "snapshot_id": "MTY2NTY3Mzk2MCwwMDAwMDAwMGFkZGFmOGE5OTE0ZGJkMjM4ZWRkOTg4ZWM1ZWY4NTQ4",
   "tracks": [
     {
       "added_at": "2022-10-13 15:12:40",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Babel (Special Edition)",
-        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        }
-      ],
-      "duration_ms": 227369,
-      "name": "Lobo Hombre en Paris",
-      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Ni\u00f1o Gigante",
         "url": "https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT"
       },
@@ -171,22 +155,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Volver Amar",
-        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
-      },
-      "artists": [
-        {
-          "name": "Los De Adentro",
-          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 152386,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Babel (Special Edition)",
+        "url": "https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        }
+      ],
+      "duration_ms": 227369,
+      "name": "Lobo Hombre en Paris",
+      "url": "https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Volver Amar",
+        "url": "https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW"
+      },
+      "artists": [
+        {
+          "name": "Los De Adentro",
+          "url": "https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Cent\u00e9simo Humano",
-        "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
-      },
-      "artists": [
-        {
-          "name": "Mad Tree",
-          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
-        }
-      ],
-      "duration_ms": 206225,
-      "name": "Alquimia",
-      "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Amor Biling\u00fce",
         "url": "https://open.spotify.com/album/2r5lhBiWdmah14tIjGxDfg"
       },
@@ -283,22 +267,34 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Perro Come Perro",
-        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
+        "name": "Cent\u00e9simo Humano",
+        "url": "https://open.spotify.com/album/7t4Jq35hft0aD3CO5LnS9O"
+      },
+      "artists": [
+        {
+          "name": "Mad Tree",
+          "url": "https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h"
+        }
+      ],
+      "duration_ms": 206225,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/6EpYwPKXRSvbiEzQleo3Ex"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Sesiones 10.10 (En Vivo)",
+        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
       },
       "artists": [
         {
           "name": "Superlitio",
           "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        },
-        {
-          "name": "LosPetitFellas",
-          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
         }
       ],
-      "duration_ms": 197334,
-      "name": "Perro Come Perro",
-      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
+      "duration_ms": 307040,
+      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
+      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -339,6 +335,22 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
+        "name": "B (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 201853,
+      "name": "Todo Va a Arder",
+      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
         "name": "Sigo",
         "url": "https://open.spotify.com/album/0XcwHtwzFbnrXuX1CzhFKQ"
       },
@@ -351,6 +363,42 @@
       "duration_ms": 199294,
       "name": "Sigo",
       "url": "https://open.spotify.com/track/2D9fsqNw4aMABpchC5Once"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Perro Come Perro",
+        "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
+      },
+      "artists": [
+        {
+          "name": "Superlitio",
+          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
+        },
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "duration_ms": 197334,
+      "name": "Perro Come Perro",
+      "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -375,8 +423,8 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "B (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY"
+        "name": "Colibr\u00ed",
+        "url": "https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu"
       },
       "artists": [
         {
@@ -384,25 +432,9 @@
           "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
         }
       ],
-      "duration_ms": 201853,
-      "name": "Todo Va a Arder",
-      "url": "https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
-      },
-      "artists": [
-        {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
+      "duration_ms": 256040,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -439,38 +471,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Sesiones 10.10 (En Vivo)",
-        "url": "https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4"
-      },
-      "artists": [
-        {
-          "name": "Superlitio",
-          "url": "https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB"
-        }
-      ],
-      "duration_ms": 307040,
-      "name": "No S\u00e9 Si Volver\u00e1 (2010) - En Vivo",
-      "url": "https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Barco de Papel",
-        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 212009,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Polvo Eres",
         "url": "https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Colibr\u00ed",
-        "url": "https://open.spotify.com/album/0yYCk0qyBlh48OuDK4NVbu"
+        "name": "Doce Vientos",
+        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
         }
       ],
-      "duration_ms": 256040,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/216H8CQbJTycq60Km6gPoJ"
+      "duration_ms": 222185,
+      "name": "Somos Coyotes",
+      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -531,22 +531,6 @@
       "duration_ms": 240293,
       "name": "Desvanecer",
       "url": "https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "Doce Vientos",
-        "url": "https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 222185,
-      "name": "Somos Coyotes",
-      "url": "https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -571,6 +555,38 @@
       "duration_ms": 210378,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Barco de Papel",
+        "url": "https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 212009,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Buitres",
+        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Hacia la Noche",
+      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -623,22 +639,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Buitres",
-        "url": "https://open.spotify.com/album/0to2ICjzDMqXzRnuqdpyWL"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Hacia la Noche",
-      "url": "https://open.spotify.com/track/5hYUEq039TJgnaft2WljmT"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 187093,
       "name": "Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/1X5Hcf0u95e76eqv10NbiA"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -687,22 +703,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Regular",
         "url": "https://open.spotify.com/album/3iEhnVbah8jQdHjkW6klrZ"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 196826,
       "name": "Planetas",
       "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        },
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
+      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -795,26 +815,6 @@
       "duration_ms": 203584,
       "name": "Salir Ileso",
       "url": "https://open.spotify.com/track/4x5YCTYmHCJV32RO5TAbr0"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-        "url": "https://open.spotify.com/album/4vfwmzv1lPoDCvwF5WJaic"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        },
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "El Pasado Fue Mejor (feat. Don Tetto)",
-      "url": "https://open.spotify.com/track/61WodHXkoMsddMRcWTnI6Z"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-13 15:12:40",
       "album": {
-        "name": "Sangre de Pr\u00f3fugo",
-        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Sangre de Pr\u00f3fugo",
-      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
         "name": "Aqu\u00ed Vamos Otra Vez",
         "url": "https://open.spotify.com/album/5M58twn7mZ9tDQstqmH6nD"
       },
@@ -943,6 +927,38 @@
       "duration_ms": 198545,
       "name": "Te Valgo",
       "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "Sangre de Pr\u00f3fugo",
+        "url": "https://open.spotify.com/album/3GUih0xpe5DyYkX9fS2lec"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Sangre de Pr\u00f3fugo",
+      "url": "https://open.spotify.com/track/1r7yQwhdxRWhRWKh8OkmsE"
+    },
+    {
+      "added_at": "2022-10-13 15:12:40",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
+      },
+      "artists": [
+        {
+          "name": "Los Maricas",
+          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Ning\u00fan Lugar",
+      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     },
     {
       "added_at": "2022-10-13 15:12:40",
@@ -995,22 +1011,6 @@
       "duration_ms": 237658,
       "name": "Portales",
       "url": "https://open.spotify.com/track/7vfAJciqCRz31okZI9flNg"
-    },
-    {
-      "added_at": "2022-10-13 15:12:40",
-      "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
-      },
-      "artists": [
-        {
-          "name": "Los Maricas",
-          "url": "https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Ning\u00fan Lugar",
-      "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
     }
   ],
   "unique_name": "Rock Colombia",

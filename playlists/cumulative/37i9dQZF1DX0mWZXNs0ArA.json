@@ -576,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Gilded Lily - Sped Up",
+      "url": "https://open.spotify.com/track/5fqusHbZRDZrLikLiFwWTq"
+    },
+    {
+      "album": {
         "name": "go (Higher & Faster)",
         "url": "https://open.spotify.com/album/4AYcD9XP7uY260D49LoQU6"
       },

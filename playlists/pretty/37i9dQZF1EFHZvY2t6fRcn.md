@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 62 | [Fuck Me Up](https://open.spotify.com/track/1VcwifrNRxSIkHtqy13vax) | [Shae Jacobs](https://open.spotify.com/artist/6ImrY70oL7099KK1RSFq1J) | [Fuck Me Up](https://open.spotify.com/album/32NQLuqP0xjHSjjD9Peb4N) | 3:07 |
 | 63 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 |
 | 64 | [The Long Way Out](https://open.spotify.com/track/7jyFsn0Q15HCZSHgAUMLuG) | [Evan Konrad](https://open.spotify.com/artist/1kbwbl2LLa2zBfnKQbvw6Y) | [Denial](https://open.spotify.com/album/1fPgAKSCrUoxkezdx7Hv6C) | 3:34 |
-| 65 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 |
-| 66 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
+| 65 | [Fate \(feat\. Amber Mark\)](https://open.spotify.com/track/5ARNp5KHWr4CW8icZuOtSg) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:31 |
+| 66 | [EMPATHY](https://open.spotify.com/track/5csiTZbWuNHlU6kkqElpad) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7dwjYiomQezxXA6Gwd0fUE) | 3:15 |
 | 67 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 |
 | 68 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 |
 | 69 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 87 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 88 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc3ODYzMTEsMDAwMDAwMDBkZjRmZjdlNTVjYjhlZDI4MjhhOTUyN2JmOTY3YTQ0Mw==`
+Snapshot ID: `Mjc3ODc3NTEsMDAwMDAwMDA1ZTIyYmQ3OTQzMTVlOWY3MzJhOTE3YmI0OTZjZTZkNA==`

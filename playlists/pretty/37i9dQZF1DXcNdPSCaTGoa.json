@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 27862,
+  "num_followers": 27881,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDIxZTNhNDU4MWViZmQwNDk2ZDAzOTU5YzhkMmNmZjhi",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGE1MWIyZDBiOTdiMTI3N2I0NzZlNzg5NDk4MzhhNWVj",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/3fl49HroL5DvBAB9ezbj8w"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Sibongile",
-        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
-      },
-      "artists": [
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 351053,
-      "name": "Ndihamba Nawe",
-      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
-    },
-    {
       "added_at": "2019-03-07 11:13:19",
       "album": {
         "name": "Graceland (25th Anniversary Deluxe Edition)",
@@ -191,6 +175,22 @@
       "duration_ms": 228413,
       "name": "Homeless (with Ladysmith Black Mambazo)",
       "url": "https://open.spotify.com/track/75fomtP3etOOIJDBAXVawy"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Sibongile",
+        "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
+      },
+      "artists": [
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "duration_ms": 351053,
+      "name": "Ndihamba Nawe",
+      "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
     },
     {
       "added_at": "2019-02-03 07:29:50",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/6V4nFLl9m00qZOmY1coV8b"
     },
     {
-      "added_at": "2020-03-16 14:57:25",
-      "album": {
-        "name": "Lenyora",
-        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
-      },
-      "artists": [
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 341506,
-      "name": "Groovers Prayer",
-      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Buyelekhaya",
@@ -343,6 +327,22 @@
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/4gqlaIb409m6NNMG5w64kN"
+    },
+    {
+      "added_at": "2020-03-16 14:57:25",
+      "album": {
+        "name": "Lenyora",
+        "url": "https://open.spotify.com/album/4O8DBlsMzrukb209docL0j"
+      },
+      "artists": [
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 341506,
+      "name": "Groovers Prayer",
+      "url": "https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG"
     },
     {
-      "added_at": "2020-04-13 08:48:47",
-      "album": {
-        "name": "Durbans Finest",
-        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
-      },
-      "artists": [
-        {
-          "name": "Blackwhole",
-          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "1000 Seconds",
-      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Loliwe",
@@ -459,6 +443,22 @@
       "duration_ms": 272386,
       "name": "Loliwe",
       "url": "https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z"
+    },
+    {
+      "added_at": "2020-04-13 08:48:47",
+      "album": {
+        "name": "Durbans Finest",
+        "url": "https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd"
+      },
+      "artists": [
+        {
+          "name": "Blackwhole",
+          "url": "https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "1000 Seconds",
+      "url": "https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 351746,
-      "name": "Shibobo / The Final Countdown",
-      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "Nomvula",
@@ -707,18 +691,18 @@
     {
       "added_at": "2019-02-03 06:58:55",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+      "duration_ms": 351746,
+      "name": "Shibobo / The Final Countdown",
+      "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -735,6 +719,22 @@
       "duration_ms": 265773,
       "name": "Vuli Ndlela",
       "url": "https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Jack Parow",
-        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
-      },
-      "artists": [
-        {
-          "name": "Jack Parow",
-          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
-        }
-      ],
-      "duration_ms": 248933,
-      "name": "Cooler as Ekke",
-      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
-    },
-    {
       "added_at": "2018-09-23 12:30:57",
       "album": {
         "name": "The Ultimate Collection: Mbongeni Ngema",
@@ -799,26 +783,6 @@
       "duration_ms": 310236,
       "name": "Stimela SaseZola",
       "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "Respect Toasted Gona' Ganati",
-        "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
-      },
-      "artists": [
-        {
-          "name": "Trompies",
-          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
-        },
-        {
-          "name": "Tzozo",
-          "url": "https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Bengim'ngaka",
-      "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -855,6 +819,22 @@
     {
       "added_at": "2019-02-03 06:58:55",
       "album": {
+        "name": "Jack Parow",
+        "url": "https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4"
+      },
+      "artists": [
+        {
+          "name": "Jack Parow",
+          "url": "https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA"
+        }
+      ],
+      "duration_ms": 248933,
+      "name": "Cooler as Ekke",
+      "url": "https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
         "name": "Kalawa Jazmee Classics: Bongo Maffin",
         "url": "https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 320240,
       "name": "Thathi Sgubu",
       "url": "https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "Respect Toasted Gona' Ganati",
+        "url": "https://open.spotify.com/album/0LfP1AWyHdWVQOZZLVFaNr"
+      },
+      "artists": [
+        {
+          "name": "Trompies",
+          "url": "https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018"
+        },
+        {
+          "name": "Tzozo",
+          "url": "https://open.spotify.com/artist/3j2kQ3pshmhfVJt5u0Lx2L"
+        }
+      ],
+      "duration_ms": 315653,
+      "name": "Bengim'ngaka",
+      "url": "https://open.spotify.com/track/7dl5CSZCD7qo8hrrRPMraM"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
     },
     {
+      "added_at": "2019-03-07 11:17:53",
+      "album": {
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
+    },
+    {
       "added_at": "2019-02-03 07:20:41",
       "album": {
         "name": "Guz Hits",
@@ -949,22 +965,6 @@
       "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
-      "added_at": "2019-03-07 11:17:53",
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
-    },
-    {
       "added_at": "2019-02-03 07:29:50",
       "album": {
         "name": "Njalo",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9"
     },
     {
-      "added_at": "2019-02-03 06:58:55",
-      "album": {
-        "name": "Undisputed",
-        "url": "https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22"
-      },
-      "artists": [
-        {
-          "name": "Big Nuz",
-          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
-        }
-      ],
-      "duration_ms": 388226,
-      "name": "Umlilo",
-      "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
-    },
-    {
       "added_at": "2021-06-27 04:29:30",
       "album": {
         "name": "The Ultimate 'Hotstix'",
@@ -1011,6 +995,22 @@
       "duration_ms": 294200,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD"
+    },
+    {
+      "added_at": "2019-02-03 06:58:55",
+      "album": {
+        "name": "Undisputed",
+        "url": "https://open.spotify.com/album/2cQDCBfZcDYvm7425eHk22"
+      },
+      "artists": [
+        {
+          "name": "Big Nuz",
+          "url": "https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp"
+        }
+      ],
+      "duration_ms": 388226,
+      "name": "Umlilo",
+      "url": "https://open.spotify.com/track/50i8jd73XOz5kQvDNvcj5R"
     },
     {
       "added_at": "2019-02-12 08:16:33",

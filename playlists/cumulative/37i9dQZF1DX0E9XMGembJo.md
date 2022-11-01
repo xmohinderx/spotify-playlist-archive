@@ -4,7 +4,7 @@
 
 > your daily dose of dopamine
 
-445 songs - 1 day 0 hr 37 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
+446 songs - 1 day 0 hr 40 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 | 2022-03-28 | 2022-04-14 |
 | [Alley\-Oop](https://open.spotify.com/track/00lroakMBzkEPKCt2eNfrf) | [Dazy Chain](https://open.spotify.com/artist/2gHF2JSNXKMMTfF1mQxEK9), [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Alley\-Oop](https://open.spotify.com/album/0OJLq8CREfpFv87oUACfF4) | 2:48 | 2022-08-08 | 2022-09-24 |
 | [Alright](https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [I Should Coco](https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd) | 3:00 | 2022-04-01 | 2022-04-11 |
-| [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-08-19 |  |
+| [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-08-19 | 2022-11-01 |
 | [Ani Kuni \- Edit](https://open.spotify.com/track/0Ae5IeIdyaIzp43cdXXtZc) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 2:49 | 2022-03-28 | 2022-04-20 |
 | [Animal](https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Habits](https://open.spotify.com/album/7xpjpdislqMXOCw5xsDt4g) | 3:32 | 2022-03-28 | 2022-04-19 |
 | [Anything You Want](https://open.spotify.com/track/78LMazmfqncADjyJVae8dN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Anything You Want](https://open.spotify.com/album/0heGEO3au4OmkR8Oor96qu) | 2:03 | 2022-03-11 | 2022-04-06 |
@@ -136,6 +136,7 @@
 | [emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-07-25 | 2022-09-10 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-06 |  |
 | [Expressing What Matters](https://open.spotify.com/track/3FeVszrXFJCEcmbYWBZtRQ) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Ecstasy](https://open.spotify.com/album/6BcSwoWKyFgB4CoVIYLxac) | 4:23 | 2022-03-25 | 2022-04-21 |
+| [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-10-28 |  |
 | [FANTAZIA](https://open.spotify.com/track/3XetDJxSDARsex7zU9KEpM) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 5:36 | 2022-03-25 | 2022-04-18 |
 | [Favorite Song](https://open.spotify.com/track/1sFstGV1Z3Aw5TDFCiT7vK) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 3:05 | 2022-05-27 | 2022-06-17 |
 | [Favourite Clothes](https://open.spotify.com/track/7oUpTUajw3HrcbEoCjKpCt) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Favourite Clothes](https://open.spotify.com/album/3mWnjokIlIO78gJvXYAj2X) | 3:06 | 2021-12-29 | 2022-02-11 |

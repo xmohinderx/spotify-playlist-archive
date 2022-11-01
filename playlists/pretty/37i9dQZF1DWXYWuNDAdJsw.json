@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 800495,
+  "num_followers": 800644,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMGE5ZWQ1ZjMxZmFjOTY5NTkwOGYxNTE4M2I5Y2FmZmEw",
+  "snapshot_id": "MTY2Njc5OTM2OSwwMDAwMDAwMDUyMzQ1NmE4ZDNiODBlZWQ5MTU2NDM0YjQ0MGFiOTg0",
   "tracks": [
     {
       "added_at": "2022-08-05 16:27:56",
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-10-31 01:29:26",
+      "added_at": "2022-11-01 01:31:59",
       "album": {
         "name": "Un Minuto",
         "url": "https://open.spotify.com/album/2eQPvJkkpQVvrHkpqxegW8"
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 148143,
+      "name": "Un Verano Sin Ti",
+      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 239920,
       "name": "Llamado de Emergencia",
       "url": "https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 148143,
-      "name": "Un Verano Sin Ti",
-      "url": "https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 169247,
+      "name": "Si Estuvi\u00e9semos Juntos",
+      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "INTER SHIBUYA (FERXXO EDITION)",
         "url": "https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 201122,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 169247,
-      "name": "Si Estuvi\u00e9semos Juntos",
-      "url": "https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 233128,
+      "name": "Otra Noche en Miami",
+      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -679,22 +695,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 233128,
-      "name": "Otra Noche en Miami",
-      "url": "https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Desnudarte",
         "url": "https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Cuando Te Bes\u00e9",
         "url": "https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 254383,
       "name": "Cuando Te Bes\u00e9",
       "url": "https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -779,26 +779,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 233639,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 200746,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "Sentimiento, Elegancia y Maldad",
         "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
       "url": "https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Unica",
-      "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Demasiado Tarde",
+        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 271548,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "No Te Veo",
         "url": "https://open.spotify.com/album/5hwGqi428VUXq9w1Lg8rIP"
       },
@@ -1527,42 +1547,6 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
-        "name": "Demasiado Tarde",
-        "url": "https://open.spotify.com/album/6ZWbDDl3KHIruXOq6rZxGa"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 271548,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5KFx45L84KmBINWLh6TEiL"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "TENGO FE",
-        "url": "https://open.spotify.com/album/6UPvSRGmjYtS836FC9Nf78"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "TENGO FE",
-      "url": "https://open.spotify.com/track/0uLmfXydlSdAJusUjZ02oj"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
         "name": "Realidad",
         "url": "https://open.spotify.com/album/1OOSq9FkFZ7GcIpaJr9dYL"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 197013,
       "name": "Me Gusta - Remix",
       "url": "https://open.spotify.com/track/17G9G5tBsdzmKmoHIh00sX"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
+        "name": "TENGO FE",
+        "url": "https://open.spotify.com/album/6UPvSRGmjYtS836FC9Nf78"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "TENGO FE",
+      "url": "https://open.spotify.com/track/0uLmfXydlSdAJusUjZ02oj"
     },
     {
       "added_at": "2022-08-05 16:27:56",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-08-05 16:27:56",
       "album": {
+        "name": "Viendo el Techo",
+        "url": "https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 188954,
+      "name": "Viendo el Techo",
+      "url": "https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk"
+    },
+    {
+      "added_at": "2022-08-05 16:27:56",
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 162040,
       "name": "Dispuesto (feat. Ozuna)",
       "url": "https://open.spotify.com/track/0L3DcFGrGtixx5MmxJbJNI"
-    },
-    {
-      "added_at": "2022-08-05 16:27:56",
-      "album": {
-        "name": "Viendo el Techo",
-        "url": "https://open.spotify.com/album/4ikugcbfJKooYlQACL2MUN"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 188954,
-      "name": "Viendo el Techo",
-      "url": "https://open.spotify.com/track/0iWxrdjwEGOrTC9AszgAJk"
     },
     {
       "added_at": "2022-08-05 16:27:56",

@@ -1,12 +1,12 @@
 {
   "description": "A soft and slow Jazz soundtrack to play in the background to all your activities.",
-  "num_followers": 45148,
+  "num_followers": 45281,
   "original_name": "Soft Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcwMzc5NywwMDAwMDAwMDZjMTU0NGZkYTczYTk0NzU3NDM2YmRkZTI2YjMzMzc5",
+  "snapshot_id": "MTY2NjcwMzc5NywwMDAwMDAwMDcxZDI3MTFiYWQxZWEwNDAwYWQ4MTQ5MTcxZjJiZDQ4",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -207,6 +187,22 @@
       "duration_ms": 269000,
       "name": "I've Never Been In Love Before - Vocal Version",
       "url": "https://open.spotify.com/track/5Fpbw9DCdROeT1JtJWi7lR"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "A Swingin' Affair",
+        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 409840,
+      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
+      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -235,18 +231,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "A Swingin' Affair",
-        "url": "https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3"
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 409840,
-      "name": "(It Will Have To Do) Until The Real Thing Comes Along - Remastered",
-      "url": "https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A"
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -267,22 +267,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
         },
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+      "duration_ms": 211066,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -347,6 +347,30 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 588840,
+      "name": "Please Send Me Someone To Love",
+      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Street Of Dreams",
         "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
@@ -379,30 +403,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
-        }
-      ],
-      "duration_ms": 588840,
-      "name": "Please Send Me Someone To Love",
-      "url": "https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 222360,
       "name": "What's The Rush",
       "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "The Parable Of The Poet",
-        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
-      },
-      "artists": [
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "BENEDICTION",
-      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 186560,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/4W6g5kfwp0LVBFauBSdx08"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "The Parable Of The Poet",
+        "url": "https://open.spotify.com/album/2rQub6XmlQJb8bGYHhjBsD"
+      },
+      "artists": [
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "BENEDICTION",
+      "url": "https://open.spotify.com/track/1WVJQYCwg6I2a0gATnQEAH"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -863,38 +863,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 264920,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Ain't Misbehavin",
-      "url": "https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Know What I Mean? [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
       },
@@ -915,6 +883,38 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Ain't Misbehavin",
+      "url": "https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 264920,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Darn that Dream",
         "url": "https://open.spotify.com/album/6StNAT06U2F7veDX8UdZCd"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 299046,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/0GGvzr8DvHlwkkDsxX97Mm"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Music For Lovers",
+        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 462773,
+      "name": "I Should Care",
+      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 539266,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/4xmNWf3u3LM9hu2noChFzA"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Music For Lovers",
-        "url": "https://open.spotify.com/album/0DNcDpKHbwG5lBz8sZnWga"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 462773,
-      "name": "I Should Care",
-      "url": "https://open.spotify.com/track/7tDQECVWJrDYkwzdJMWkEK"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Chet (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 318946,
+      "name": "Tis Autumn",
+      "url": "https://open.spotify.com/track/6g82W4awZ4ZqSs2jUT5goS"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "The Now",
         "url": "https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Chet (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 318946,
-      "name": "Tis Autumn",
-      "url": "https://open.spotify.com/track/6g82W4awZ4ZqSs2jUT5goS"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Simplicity",
         "url": "https://open.spotify.com/album/6SXKypQFf1M6rN5wdZ7s30"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 118561,
       "name": "Avidity",
       "url": "https://open.spotify.com/track/3FIZziHP2yndFDt2JdZ4Mg"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "If The Moon Turns Green",
+      "url": "https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 187500,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "If The Moon Turns Green",
-      "url": "https://open.spotify.com/track/3VVfyUGLBWKkTbGIuoLd1l"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "For Lonely Lovers",
+        "url": "https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "The Sun Forgot To Shine This Morning",
+      "url": "https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 303133,
       "name": "Fujiyama",
       "url": "https://open.spotify.com/track/4Iv4KgHBWsFhLNXXMvyUmb"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Plays Charles Mingus",
-        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
-      },
-      "artists": [
-        {
-          "name": "Peter Nordahl Trio",
-          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
-        }
-      ],
-      "duration_ms": 191518,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1283,18 +1283,34 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "For Lonely Lovers",
-        "url": "https://open.spotify.com/album/7C0U90ZfIzSYNpPu4gFyzD"
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 160000,
-      "name": "The Sun Forgot To Shine This Morning",
-      "url": "https://open.spotify.com/track/1PFa49yuGnGXRrHcuvE3Fx"
+      "duration_ms": 348546,
+      "name": "I Don't Stand A Ghost Of A Chance With You",
+      "url": "https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Plays Charles Mingus",
+        "url": "https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f"
+      },
+      "artists": [
+        {
+          "name": "Peter Nordahl Trio",
+          "url": "https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok"
+        }
+      ],
+      "duration_ms": 191518,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/77BESrsUN386SrjEA7siB5"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 549093,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 348546,
-      "name": "I Don't Stand A Ghost Of A Chance With You",
-      "url": "https://open.spotify.com/track/1U40ZDyutQGASuOrNlVM2S"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 368266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Portrait In Jazz [Keepnews Collection]",
         "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus",
-        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 348760,
-      "name": "Manha De Carnaval",
-      "url": "https://open.spotify.com/track/5dn2ogDHiTDFMwW597ip2T"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "More Than Ever",
         "url": "https://open.spotify.com/album/2fvT46J3wLSyRyCEvNCPFv"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 371835,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/2v4qjnLzXPqxZiM635UZwt"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus",
+        "url": "https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 348760,
+      "name": "Manha De Carnaval",
+      "url": "https://open.spotify.com/track/5dn2ogDHiTDFMwW597ip2T"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 301333,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/5bemClhFeQ7fcth7mjjnKO"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 368266,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Happy Moods",
+        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Jamal",
+          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+        }
+      ],
+      "duration_ms": 96986,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/0k0hexhhae8c7wrgr9d42v"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "But Beautiful",
         "url": "https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 170693,
       "name": "For Heaven's Sake",
       "url": "https://open.spotify.com/track/4kAwnSBZKNrCVwjwZnVNgf"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Since I Fell for You",
-      "url": "https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Happy Moods",
-        "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal",
-          "url": "https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O"
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
         }
       ],
-      "duration_ms": 96986,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/0k0hexhhae8c7wrgr9d42v"
+      "duration_ms": 263866,
+      "name": "Since I Fell for You",
+      "url": "https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8"
     },
     {
       "added_at": "2022-10-20 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 611876,
+  "num_followers": 611858,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGQzYzEwMzg4MjZjMmZiYTI5YjQ2YTJiZGNmMTM5NTk3",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDQyOTg1N2VjYjFmNmM0OGNhNTlmYTcxOWZjNGU2ZDQ4",
   "tracks": [
     {
       "added_at": "2022-10-05 20:33:45",
@@ -271,38 +271,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Save Rock And Roll",
-        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "My Songs Know What You Did In The Dark (Light Em Up)",
-      "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 205158,
-      "name": "bloody valentine",
-      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "The Colour And The Shape",
         "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
@@ -315,6 +283,22 @@
       "duration_ms": 231480,
       "name": "Monkey Wrench",
       "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Save Rock And Roll",
+        "url": "https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "My Songs Know What You Did In The Dark (Light Em Up)",
+      "url": "https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -347,6 +331,22 @@
       "duration_ms": 206640,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 205158,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 223173,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 210685,
       "name": "Like A Villain",
       "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "With Teeth",
         "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 211680,
       "name": "The Hand That Feeds",
       "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 245120,
       "name": "Burning",
       "url": "https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "THREE HEADS*",
-        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 171842,
-      "name": "THREE HEADS*",
-      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Aggressive",
         "url": "https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 211430,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "THREE HEADS*",
+        "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 171842,
+      "name": "THREE HEADS*",
+      "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "TIRED OF WINNING",
-        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
-      },
-      "artists": [
-        {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        }
-      ],
-      "duration_ms": 206586,
-      "name": "TIRED OF WINNING",
-      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "Everything's Electric",
         "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "TIRED OF WINNING",
+        "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "TIRED OF WINNING",
+      "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-10-05 20:33:45",
-      "album": {
         "name": "I Hate You",
         "url": "https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 162877,
       "name": "I Hate You",
       "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
+    },
+    {
+      "added_at": "2022-10-05 20:33:45",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-10-05 20:33:45",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2022-10-05 20:33:45",
       "album": {
-        "name": "Foxglove",
-        "url": "https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd"
+        "name": "SZNZ: Summer",
+        "url": "https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H"
       },
       "artists": [
         {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 218552,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+      "duration_ms": 208920,
+      "name": "Records",
+      "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
     }
   ],
   "unique_name": "Rock Me Up",

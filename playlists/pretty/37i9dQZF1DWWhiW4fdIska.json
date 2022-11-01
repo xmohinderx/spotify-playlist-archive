@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 14573,
+  "num_followers": 14593,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMGZhYjBiZGRmMjVjY2U3NDI5NTNhYmQyMWUzN2NjN2Yw",
+  "snapshot_id": "MTYzODkwNTIwOSwwMDAwMDAwMDllOThlNDg5YmIxNmM0NGZhMGE2Y2Q5YzRlNDc4MGJi",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -139,18 +139,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
       "artists": [
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
+      "duration_ms": 297373,
+      "name": "Lenny",
+      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -171,18 +171,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
       },
       "artists": [
         {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
         }
       ],
-      "duration_ms": 297373,
-      "name": "Lenny",
-      "url": "https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c"
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -395,18 +379,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 362400,
-      "name": "Now That I'm Down",
-      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -423,6 +407,22 @@
       "duration_ms": 189133,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Now That I'm Down",
+      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 373000,
       "name": "Ventilator Blues",
       "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blues Is King (Live At The International Club, Chicago/1966)",
-        "url": "https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 211840,
-      "name": "Tired Of Your Jive - Live At The International Club, Chicago/1966",
-      "url": "https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "The Very Best Of Albert King",
         "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 192493,
       "name": "Blues Power",
       "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blues Is King (Live At The International Club, Chicago/1966)",
+        "url": "https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "Tired Of Your Jive - Live At The International Club, Chicago/1966",
+      "url": "https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM"
     },
     {
       "added_at": "2020-10-21 20:41:20",

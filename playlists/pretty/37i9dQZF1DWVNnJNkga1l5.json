@@ -1,12 +1,12 @@
 {
   "description": "Temazos inolvidables para darle un toque dulce a tus comidas.",
-  "num_followers": 103007,
+  "num_followers": 103088,
   "original_name": "Cocina con Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjgxMzA5MywwMDAwMDAwMDAwZmUyZDI2OTZiMWY4NGJhMDQzMTI3YzE2ZjMyYTE0",
+  "snapshot_id": "MTY1MjgxMzA5MywwMDAwMDAwMDk3NzQxZGVmMTk4ZGM2MTAxMTEwOTU1ZGQ2MzE5YzFi",
   "tracks": [
     {
       "added_at": "2022-05-17 18:44:52",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
-        "name": "Fijaci\u00f3n Oral, Vol. 1",
-        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Las de la Intuici\u00f3n",
-      "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
     },
     {
       "added_at": "2022-05-17 18:44:52",
@@ -427,6 +427,38 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "Nunca Es Suficiente",
+      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
+        "name": "Fijaci\u00f3n Oral, Vol. 1",
+        "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Las de la Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
         "name": "Caja de M\u00fasica",
         "url": "https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 260079,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Nunca Es Suficiente",
-      "url": "https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb"
     },
     {
       "added_at": "2022-05-17 18:44:52",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
-        "name": "Diego En Los 70",
-        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
         "name": "Canta Trovador",
         "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
+        "name": "Diego En Los 70",
+        "url": "https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
         "name": "Sereno",
         "url": "https://open.spotify.com/album/1UufdUSICfRcrISutnCtyv"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 291440,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/0HmQkmfYXRPweIg1ycw1R8"
-    },
-    {
-      "added_at": "2022-05-17 18:44:52",
-      "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2022-05-17 18:44:52",
@@ -767,18 +751,18 @@
     {
       "added_at": "2022-05-17 18:44:52",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2022-05-17 18:44:52",
@@ -795,6 +779,22 @@
       "duration_ms": 264173,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
+    },
+    {
+      "added_at": "2022-05-17 18:44:52",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2022-05-17 18:44:52",

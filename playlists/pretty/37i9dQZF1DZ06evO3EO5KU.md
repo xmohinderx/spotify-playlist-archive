@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,495 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,526 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Quiereme Como Te Quiero](https://open.spotify.com/track/53wvzzOV807YPN1YOn52Em) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:56 |
 | 50 | [El Hombre Tranquilo](https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:07 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAzMjVhMzAwODYxYmY2ZWU3NDcwYjRhYTFmMGQyNDQyMw==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA4ZTQzODg1Yzk4YThiMWIwNjVlMmEyNjdkNGNhZThmYQ==`

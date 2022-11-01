@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,767 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,824 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,16 +51,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 41 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 |
 | 42 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 |
 | 43 | [Lights \(feat\. Blu\)](https://open.spotify.com/track/0ivm0kmxQLyp6njZ7QerWn) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Orbit](https://open.spotify.com/album/3qjoOf3C7LHzNJz9xJOF6p) | 3:17 |
-| 44 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 |
-| 45 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 44 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
+| 45 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 |
 | 46 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 |
 | 47 | [Trickster](https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 3:42 |
-| 48 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 |
-| 49 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
+| 48 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
+| 49 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 |
 | 50 | [タイミングでしょ \(feat\. Awich\)](https://open.spotify.com/track/5TsBHbTbAUNQmUtvpS4kDI) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [タイミングでしょ \(feat\. Awich\)](https://open.spotify.com/album/3n2RDR1czTdnOTO52bx3OB) | 3:51 |
-| 51 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 |
-| 52 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 |
-| 53 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 |
+| 51 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
+| 52 | [続・革命前夜](https://open.spotify.com/track/2osm196jE2UjFkwkwvVPTu) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [from JAPAN 3](https://open.spotify.com/album/1rgfecWGctA7ett2HdShmx) | 4:31 |
+| 53 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 |
 | 54 | [D'Addario](https://open.spotify.com/track/39F8ghQo929nMGZAbNPpXM) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [D'Addario](https://open.spotify.com/album/0Jo41bqYOYzkwRA7MtttF3) | 4:48 |
 | 55 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 56 | [ピント](https://open.spotify.com/track/2BUaLRp0NsvfWOWtqnJrYe) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ピント](https://open.spotify.com/album/4CDlpPToQl8dlAYsvYriko) | 4:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 59 | [HOMEWORK](https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [HOMEWORK](https://open.spotify.com/album/30ZEBL5NnWPGAwd80jEsHG) | 2:51 |
 | 60 | [Rules](https://open.spotify.com/track/6x108QFQh3AP7wzQt6zqxY) | [TAIKING](https://open.spotify.com/artist/5HLC9fMLoFX5wSst6we011), [Tao Tsuchiya](https://open.spotify.com/artist/078uTew0ffZM8zKSYdZsDQ) | [Rules](https://open.spotify.com/album/0zRsI6dnQZsxKZvbNdM7fn) | 3:35 |
 
-Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMGYwMmQ1ZjQ1Y2VhZDFlOTVjYjUwM2U2OTdkMmY3NGRk`
+Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMGJkYWEwZDRmYTVkZTIxNWM5YmM0ZGNmNDE3ZmU5OGRh`

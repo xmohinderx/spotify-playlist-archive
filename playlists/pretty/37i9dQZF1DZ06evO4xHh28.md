@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,000 likes - 42 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,150 likes - 42 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 41 | [F.T.W.W.W.](https://open.spotify.com/track/1Fmz64vSu0CgsYMm7iqlSH) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Mad Gear and Missile Kid EP](https://open.spotify.com/album/5opukBgphgATwbRHHMXgCM) | 2:27 |
 | 42 | [Burn Bright](https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 4:17 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA4ZTliNjdmMTk5ZTdiYTRiMzVmOTRlYzcxNDE1MWFiZg==`
+Snapshot ID: `Mjc3ODcwNDcsMDAwMDAwMDBkYTNiZDNjZDMxMmJmYzk0NzYzMmFmNDIwMjkzNDRkZQ==`

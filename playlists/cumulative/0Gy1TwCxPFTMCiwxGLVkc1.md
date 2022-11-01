@@ -2,9 +2,9 @@
 
 ### [Kids Music](https://open.spotify.com/playlist/0Gy1TwCxPFTMCiwxGLVkc1)
 
-> Brand\-new and fan\-favorite kids tunes for your littles ones on this 100% family\-friendly playlist!
+> Kids music the whole family can enjoy\. Enjoy new tunes and old favorites on this kids playlist.
 
-71 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
+72 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/1xwqNtCgsi5kgP4g07FmIb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-05-27 | 2022-10-26 |
 | [Best Dress](https://open.spotify.com/track/3EvUbBdAytE6Cywr1OZGLx) | [19&YOU](https://open.spotify.com/artist/13yCAnmLQoRIQKXHa6lFai) | [Best Dress](https://open.spotify.com/album/2mcs399XGsrglhADN0KJ9u) | 3:11 | 2022-05-27 | 2022-10-26 |
 | [Bright Lights](https://open.spotify.com/track/76qQor3rG3Heo4TWhyZumC) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Bright Lights](https://open.spotify.com/album/2boFQNrjqTeNJj9AprJ0k3) | 4:22 | 2022-10-25 |  |
-| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 |  |
+| [Bubbly \- Slowed + Reverb](https://open.spotify.com/track/6K6hl1ceOTvY98SzIZcWpO) | [Slo\-Fi Ghost](https://open.spotify.com/artist/53CzJMzuc48qgtKvJYGo1P) | [Bubbly \(Slowed + Reverb\)](https://open.spotify.com/album/3iwV87pfXLTHPY3w2BW2qg) | 3:06 | 2022-06-10 | 2022-11-01 |
 | [Busy Puppy \- From "Disney Junior Music: Mickey Mouse Funhouse"](https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG) | [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Busy Puppy \(From "Disney Junior Music: Mickey Mouse Funhouse"\)](https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU) | 2:19 | 2022-10-25 |  |
+| [Colors](https://open.spotify.com/track/4Z2hrwfZ1M1weUjJGntx8X) | [Toys and Colors](https://open.spotify.com/artist/4VQOpZxMHHLlhGH3VnGk9K) | [Colors](https://open.spotify.com/album/1ChRiPd2fBXfiFoSvtqVv1) | 2:13 | 2022-10-31 |  |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/11aNnE6AFyuYbk4bSlHKFO) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6clCHFOEINamO4FKR5s2h4) | 3:05 | 2022-05-27 | 2022-10-26 |
 | [Danger Force Theme Song](https://open.spotify.com/track/5okA8zg7xLkYHKLXjjL9IK) | [Danger Force](https://open.spotify.com/artist/5jco0Od4vChi5xTq1EZDRn) | [Fightin' Crimes, Spittin' Rhymes](https://open.spotify.com/album/1ooagJ6hmORE1KZJ4eUyu3) | 1:34 | 2022-10-25 |  |
 | [Diet Mountain Dew](https://open.spotify.com/track/4O9dZs2B0ilk4PEfX2bPEv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:42 | 2022-05-27 | 2022-10-26 |
@@ -27,7 +28,7 @@
 | [Firebuds Let's Roll \(Firebuds Theme\) \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Firebuds Let's Roll \(Firebuds Theme\) \[From "Disney Junior Music: Firebuds"\]](https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE) | 1:00 | 2022-10-25 |  |
 | [Ghostbusters](https://open.spotify.com/track/4moSfoSE5AtrVtSb4yta2Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 3:20 | 2022-10-25 |  |
 | [God Is A Freak](https://open.spotify.com/track/42ApAik1crGHN42WXIHxaa) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/4Dn0TrB9r7UZSMv94EXVct) | 3:07 | 2022-05-27 | 2022-10-26 |
-| [Going To The Beach](https://open.spotify.com/track/1rxOa5yXbJPRDfuOyoHf62) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg) | [Kids Sing Pete The Cat](https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd) | 1:56 | 2022-10-25 |  |
+| [Going To The Beach](https://open.spotify.com/track/1rxOa5yXbJPRDfuOyoHf62) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg) | [Kids Sing Pete The Cat](https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd) | 1:56 | 2022-10-25 | 2022-11-01 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/116IS04a18L5lKQADerNeb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/3FYzzktY8TFWNCXVGfJZL6) | 3:13 | 2022-05-27 | 2022-10-26 |
 | [I Love My Nails](https://open.spotify.com/track/2k82Sd9BFxoWlraYIjuyjM) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [I Love My Nails](https://open.spotify.com/album/5nGPsA2CATVAgLAqgKtG0I) | 3:22 | 2022-05-27 | 2022-10-26 |
 | [I See It In The Sea](https://open.spotify.com/track/3MeadeAORRkIN1ABuqsRaX) | [Noggin](https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn), [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Meet The Alpha Beats \(Official Soundtrack Album\)](https://open.spotify.com/album/26Sb4jPOes5KjZsAeexcWT) | 2:17 | 2022-10-25 |  |

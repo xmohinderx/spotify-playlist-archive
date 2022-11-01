@@ -4,7 +4,7 @@
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-109 songs - 7 hr 37 min - [published](https://open.spotify.com/playlist/3sRnc53jhYf8ZsxDWtZTQ9)
+110 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/3sRnc53jhYf8ZsxDWtZTQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Riding with the King](https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:24 | 2021-03-03 |  |
 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 | 2021-03-03 |  |
 | [Route 66](https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:51 | 2021-03-03 |  |
+| [Save Me](https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [Cry No More](https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y) | 4:35 | 2021-03-03 |  |
 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 | 2021-03-03 |  |
 | [Shelter Me](https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV) | [Tab Benoit](https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB), [Louisiana's LeRoux](https://open.spotify.com/artist/6055P8DekQCGx47sckcoIF) | [Power Of The Pontchartrain](https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm) | 5:04 | 2021-03-03 |  |
 | [Simple Man](https://open.spotify.com/track/3bNM6obnxsPd9hbJlsrQhL) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Brighter Days](https://open.spotify.com/album/3tvCSsZA2AfdQ1aE2xGF5U) | 3:03 | 2022-02-25 |  |
@@ -110,7 +111,7 @@
 | [Wang Dang Doodle](https://open.spotify.com/track/1cXc92MX9kFjMrrDsvdf9w) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 3:02 | 2021-03-03 |  |
 | [We Get By](https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Get By](https://open.spotify.com/album/162ZDwMcg8NGzp6BPKy58G) | 3:35 | 2021-03-03 |  |
 | [We Made It](https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Benton County Relic](https://open.spotify.com/album/6N2kgU28H4AZWrsnw8IVeu) | 3:34 | 2021-05-14 |  |
-| [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 | 2021-03-03 |  |
+| [What Kind Of Woman Is This?](https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 5:17 | 2021-03-03 | 2022-11-01 |
 | [Why Don't You Eat Where You Slept Last Night?](https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej) | [Zuzu Bollin](https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ) | [Texas Bluesman](https://open.spotify.com/album/2xw1vOxRhhr9iywYKcI18h) | 2:54 | 2021-03-03 |  |
 | [Wildflowers & Wine](https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:48 | 2021-03-03 |  |
 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 | 2021-03-03 |  |

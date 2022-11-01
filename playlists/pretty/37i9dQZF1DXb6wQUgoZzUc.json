@@ -1,12 +1,12 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 806827,
+  "num_followers": 807111,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTU5MDQzNSwwMDAwMDAwMDU2YmIxMjFhZDQ4ODQxODJjY2IxMzljNjNkZWFhYzZm",
+  "snapshot_id": "MTY2NTU5MDQzNSwwMDAwMDAwMDFkOTRiNWUzYTNhZjI3ZmJjNWE1NjQxNjRiM2U3YTM0",
   "tracks": [
     {
       "added_at": "2022-10-12 16:00:35",
@@ -547,6 +547,26 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+        "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+      "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
-        "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
-      "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 220056,
-      "name": "Si No Le Contesto",
-      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 220056,
+      "name": "Si No Le Contesto",
+      "url": "https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "Tendencia Global",
         "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 182186,
       "name": "Sensacion Del Bloque",
       "url": "https://open.spotify.com/track/5clFSlfkCRlhnH1cAQjSBi"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "Guatauba XXX",
+        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Guatauba",
+      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "Guatauba XXX",
-        "url": "https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Guatauba",
-      "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -1447,24 +1463,8 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+      "duration_ms": 195066,
+      "name": "Expl\u00edcito",
+      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 158086,
-      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
-      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
-    },
-    {
-      "added_at": "2022-10-12 16:00:35",
-      "album": {
         "name": "The Bad Boy",
         "url": "https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 235626,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
+    },
+    {
+      "added_at": "2022-10-12 16:00:35",
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
       "added_at": "2022-10-12 16:00:35",
@@ -1643,18 +1643,38 @@
     {
       "added_at": "2022-10-12 16:00:35",
       "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/2WA4eZXER4ZLTBftVKvrnO"
       },
       "artists": [
         {
+          "name": "Super Yei",
+          "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
+        },
+        {
+          "name": "Jone Quest",
+          "url": "https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE"
+        },
+        {
+          "name": "Sammy",
+          "url": "https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ"
+        },
+        {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Expl\u00edcito",
-      "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
+      "duration_ms": 307435,
+      "name": "La Forma en Que Me Miras",
+      "url": "https://open.spotify.com/track/57Ba26w9eoXx8BBUNgRNLV"
     }
   ],
   "unique_name": "La Casa del Perreo",

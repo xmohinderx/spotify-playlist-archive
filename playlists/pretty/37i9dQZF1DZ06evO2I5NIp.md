@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,613 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,616 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 26 | [In The Blood Of The Blues](https://open.spotify.com/track/6ZmqDRKnUzyS1L3Df2BrRk) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:52 |
 | 27 | [Too Far To Be Gone](https://open.spotify.com/track/4r1WnPDsaFvIkKhgdAGUCV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:46 |
 | 28 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 |
-| 29 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
+| 29 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 |
 | 30 | [Great Rain](https://open.spotify.com/track/06KVyBpihkWpiiMpu8SJGY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:45 |
-| 31 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 |
+| 31 | [Hand In Hand](https://open.spotify.com/track/6uQUnTUMRwvzZjyFy0dKX2) | [Ian Siegal](https://open.spotify.com/artist/1buMo53v5SZw5zacWQKqMo), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Stone by Stone](https://open.spotify.com/album/2gGjqhOtJgGHXs6nr1iuAl) | 4:28 |
 | 32 | [Walk Until I Ride](https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:12 |
 | 33 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/5vYM0NGLtGNidLnC34Ij4L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:21 |
 | 34 | [Ka\-Ching](https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:01 |
 | 35 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 |
 | 36 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:53 |
-| 37 | [Have Mercy](https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:23 |
-| 38 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
+| 37 | [It's 2 A.M.](https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:28 |
+| 38 | [Have Mercy](https://open.spotify.com/track/5MIfKtG48KDC7GZgP7GiYa) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:23 |
 | 39 | [Too Close](https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:39 |
-| 40 | [Jesus Just Left Chicago](https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:35 |
-| 41 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
-| 42 | [Beat Up Guitar](https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:27 |
+| 40 | [Devil's Hand](https://open.spotify.com/track/1GgXOtHDgL4eh6nmEq3yyP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:43 |
+| 41 | [Beat Up Guitar](https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 4:27 |
+| 42 | [Wild, Wild Woman](https://open.spotify.com/track/1cAHyfQAe4SC062WFdssy2) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Deluxe Edition](https://open.spotify.com/album/747l6AGzZzDh8yBQLJgLgT) | 3:21 |
 | 43 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 |
-| 44 | [Devil's Hand](https://open.spotify.com/track/1GgXOtHDgL4eh6nmEq3yyP) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:43 |
-| 45 | [I Sing The Blues](https://open.spotify.com/track/6yDMznqxh0KFnifAL5a9C1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:59 |
-| 46 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
-| 47 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 |
+| 44 | [Isn't That So](https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:17 |
+| 45 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 |
+| 46 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 |
+| 47 | [I Sing The Blues](https://open.spotify.com/track/6yDMznqxh0KFnifAL5a9C1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:59 |
 | 48 | [Who Stole My Radio?](https://open.spotify.com/track/0Jei5BgldWjnvWsg5lMZXB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [The Soul Truth](https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU) | 3:57 |
-| 49 | [Lemon Pie](https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:25 |
-| 50 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
+| 49 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
+| 50 | [Lemon Pie](https://open.spotify.com/track/1du6ikTuFwWd7QweSi8Nss) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 3:25 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAzMDQ0MTNlMzg0ZDAxZjcxZWNiYzRjOGQ4YjU5NDIwOA==`
+Snapshot ID: `Mjc3ODcwNDcsMDAwMDAwMDA4ZTU1NzFmOGY5NDg4M2M5ODFmODlhZTllYWQ1MzVlNA==`

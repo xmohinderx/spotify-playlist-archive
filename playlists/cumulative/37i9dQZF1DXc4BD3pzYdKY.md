@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: <br/> Zauntee
 
-706 songs - 1 day 11 hr 36 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+707 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Changes](https://open.spotify.com/track/243S95CgXiKLn56mfqiiSD) | [Nat Lauren](https://open.spotify.com/artist/2snS4684SFSBRAB9LIvSDL), [Jay Steezy](https://open.spotify.com/artist/3dErHgSjyhYjxSp97JwAy5) | [Changes](https://open.spotify.com/album/0mdCtJs1zE9c5ejQSjCwza) | 3:06 | 2022-06-25 | 2022-08-08 |
 | [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 | 2022-07-17 | 2022-09-20 |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-04-29 | 2022-07-08 |
+| [Child of the King](https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Child of the King](https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi) | 1:41 | 2022-10-29 |  |
 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 | 2022-06-25 |  |
 | [Church Girl](https://open.spotify.com/track/48hRBPZDRp1RWAPxQLBo8u) | [Drika Will](https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB) | [Church Girl](https://open.spotify.com/album/4hUrCpbrfaARZK2hEPv4LO) | 2:53 | 2022-06-25 | 2022-08-10 |
 | [Church House Trap House](https://open.spotify.com/track/5fHCpPepEmxTS8bFNCA0Rm) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Church House Trap House](https://open.spotify.com/album/3gMNVLSueOnDCuXYRQCCXx) | 2:18 | 2022-09-11 |  |
@@ -670,7 +671,7 @@
 | [We Win \(Space Jam: A New Legacy\) \(and Kirk Franklin\)](https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [We Win \(Space Jam: A New Legacy\)](https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo) | 3:14 | 2021-12-11 | 2022-02-01 |
 | [Weak](https://open.spotify.com/track/6I8QRmOo5zmfxXUDVKMAMt) | [Jamil](https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu), [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Weak](https://open.spotify.com/album/1DYMycWURwhkbSnV8MNtqA) | 2:41 | 2022-02-04 | 2022-04-25 |
 | [WEEEEEEE](https://open.spotify.com/track/0mfDzWeydHEOyPyAegX6U0) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [WEEEEEEE](https://open.spotify.com/album/40Uw06qtsQDCOgKXM0z5MS) | 1:58 | 2022-09-11 | 2022-09-26 |
-| [WELLS FARGO](https://open.spotify.com/track/5d28TynZA3IcTnFneWTVHk) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [A3](https://open.spotify.com/artist/5hQa99PDLWHdKY7xc90hcq) | [WELLS FARGO](https://open.spotify.com/album/24ahvMQRoXWRXZON4L7SNy) | 2:41 | 2022-09-16 |  |
+| [WELLS FARGO](https://open.spotify.com/track/5d28TynZA3IcTnFneWTVHk) | [MvkeyyJ](https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB), [Wxlf](https://open.spotify.com/artist/7qznACJ6acDAbx0LV39BrM), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [A3](https://open.spotify.com/artist/5hQa99PDLWHdKY7xc90hcq) | [WELLS FARGO](https://open.spotify.com/album/24ahvMQRoXWRXZON4L7SNy) | 2:41 | 2022-09-16 | 2022-11-01 |
 | [WHAT A DAY](https://open.spotify.com/track/4gWoygRy7vI1Hxs99fymb3) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [WHAT A DAY](https://open.spotify.com/album/40aNMrVZkiEXfzPTTUQa6Y) | 2:43 | 2021-12-11 | 2022-05-29 |
 | [What I Like](https://open.spotify.com/track/5Yd20D9Kt282CO1ANW0QXI) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f), [Kevi Morse](https://open.spotify.com/artist/5St4lPQjCFHH7dobvEFLLI) | [BARELY STARTED](https://open.spotify.com/album/0vvhC7bKZ7F04QxJ0ISoBT) | 2:53 | 2022-04-29 | 2022-08-07 |
 | [What's Real?](https://open.spotify.com/track/2thWj62nRGWNfFRLHFXtCL) | [Melvillous](https://open.spotify.com/artist/0rP1JrlHuwm3oS32Hpli8J) | [Last Born](https://open.spotify.com/album/3y7MhPRGUQP7qGTGvW5Juk) | 3:45 | 2021-12-11 | 2021-12-23 |

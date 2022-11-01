@@ -2,9 +2,9 @@
 
 ### [EQUAL AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX74ozWuOfjjm)
 
-> Listen to the women of AU & NZ at full volume\. Cover: Vera Blue
+> Listen to the women of AU & NZ at full volume\. Cover: Pania
 
-286 songs - 15 hr 34 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
+290 songs - 15 hr 47 min - [published](https://open.spotify.com/playlist/4PJNyPSll9BI9JEGTXEKxV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,8 @@
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-03-06 | 2022-05-03 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-02 |  |
 | [Feeling Good Feeling Great](https://open.spotify.com/track/2BeTDiDs3ttu9BXdDe3smE) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/6KJ5b8kHrWLKv7Fs2pjZJ3) | 1:57 | 2022-03-06 | 2022-10-23 |
-| [Feeling Good Feeling Great](https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/7iB4JqDfRuOuHf0Uiq6n7g) | 1:58 | 2022-10-02 |  |
-| [Fight For Me](https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Blak Matriarchy](https://open.spotify.com/album/2mzKzKFYWgxSAy7tzXrUxY) | 3:02 | 2022-04-05 |  |
+| [Feeling Good Feeling Great](https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Feeling Good Feeling Great](https://open.spotify.com/album/7iB4JqDfRuOuHf0Uiq6n7g) | 1:58 | 2022-10-02 | 2022-11-01 |
+| [Fight For Me](https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Blak Matriarchy](https://open.spotify.com/album/2mzKzKFYWgxSAy7tzXrUxY) | 3:02 | 2022-04-05 | 2022-11-01 |
 | [Finest Quality](https://open.spotify.com/track/6WoUQDuKmRp0o08NBrSp1l) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Good Company \- EP](https://open.spotify.com/album/4yTvwbp957jWpDOSt2voOe) | 3:27 | 2022-04-05 |  |
 | [FLARE](https://open.spotify.com/track/16hxnA8hrQ7hT5cKzuRfUI) | [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [FLARE](https://open.spotify.com/album/3xTwXIBYS3w4LjFtIi7hIO) | 3:18 | 2022-02-03 | 2022-07-04 |
 | [Flood](https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/6HD4wqnJYMPX3v3guWqjG6) | 3:43 | 2022-07-31 | 2022-08-30 |
@@ -103,11 +103,12 @@
 | [Glimmer](https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju) | [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55) | [Glimmer](https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD) | 3:11 | 2022-04-05 | 2022-10-03 |
 | [Glow](https://open.spotify.com/track/09NpMJO80vtOO5kH0uKPaw) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Glow](https://open.spotify.com/album/1R6ntu2OZzt8K8trkqtjPQ) | 3:08 | 2022-02-03 | 2022-08-01 |
 | [God Is A Freak](https://open.spotify.com/track/4cqj8FIWkyR5A2XBtcqRMU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/1MNgeaQuHhr47jSmqQH47e) | 3:07 | 2022-02-03 | 2022-09-06 |
+| [gold star](https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [gold star](https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G) | 3:06 | 2022-10-31 |  |
 | [Golden Hours](https://open.spotify.com/track/2j5M6lRvFyXLBKyb8CbJCq) | [Saski](https://open.spotify.com/artist/4UfJMiu878W1bQhjsuRj4t) | [Golden Hours](https://open.spotify.com/album/2s0YQ7W9iUi3MfAeq8NKyJ) | 2:20 | 2022-02-03 | 2022-05-28 |
 | [Good For A Girl](https://open.spotify.com/track/7pQdxhXAq1UuogbmbNeuIk) | [Germein](https://open.spotify.com/artist/1fOL2BMtY8LrtytFUGGfC7) | [Good For A Girl](https://open.spotify.com/album/4vpHnbFKlOHfVA4H2tlVLJ) | 2:50 | 2022-02-03 | 2022-04-06 |
 | [Gravity](https://open.spotify.com/track/0HmX9AOxfCcFSHpNLcRrHi) | [Ahlei](https://open.spotify.com/artist/5QyAbE7iRKVzJ5PXa3WpHq) | [Gravity](https://open.spotify.com/album/4JNFIuyUgQhnZyS7RCvWzP) | 3:02 | 2022-07-03 |  |
 | [Happy Hangover](https://open.spotify.com/track/3ZJl1SIywHZqVrriDKn7fl) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Happy Hangover](https://open.spotify.com/album/4h3KVC4rJ091snKcRorfWn) | 3:38 | 2022-02-03 | 2022-04-06 |
-| [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 | 2022-03-01 |  |
+| [Haunted](https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Growing Pains](https://open.spotify.com/album/2Xq1V8fJL89IUm4eOBzMOu) | 3:33 | 2022-03-01 | 2022-11-01 |
 | [Haunted](https://open.spotify.com/track/5iazYkEr6zbeZYjoUGwEBn) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Haunted](https://open.spotify.com/album/1U7TrNXieHR1rMTjs7R2jj) | 3:23 | 2022-07-03 |  |
 | [Hazardous](https://open.spotify.com/track/5dXBl4xlY7k7uDM2iW2Uyw) | [PRINS](https://open.spotify.com/artist/1aA95KMV62fwsApbrObQwq) | [Hazardous](https://open.spotify.com/album/6nyfNXsxawX9x4X0ovoCTb) | 2:46 | 2022-10-02 |  |
 | [Headroom](https://open.spotify.com/track/60H0HIt7mIPD3dZnlOCc97) | [Micra](https://open.spotify.com/artist/0riJKpNDw4fboGdUimavkK) | [Headroom](https://open.spotify.com/album/2pE7v0KHgpvx2ss1ggtbDF) | 3:55 | 2022-04-05 | 2022-10-03 |
@@ -151,6 +152,7 @@
 | [Just So You Won't Be Alone](https://open.spotify.com/track/0WrGFZ1DRTA0aZweYSvNJL) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Just So You Won't Be Alone](https://open.spotify.com/album/4QmXwOYi6qjPegiLNl7pRH) | 2:54 | 2022-04-05 | 2022-09-06 |
 | [Karamata](https://open.spotify.com/track/5qUMqzVJew3mhZxoN7JZB5) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Karamata](https://open.spotify.com/album/3ATbcnGmSoHJm0ZhPWKuBt) | 3:41 | 2022-09-05 |  |
 | [Kawakawa](https://open.spotify.com/track/0UskdhhbACeXbohWfhzrt5) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [woo!](https://open.spotify.com/artist/0jP7f3TNcoJ4mTRy3nHWIU) | [Seashell Cassette](https://open.spotify.com/album/2is1JGLmcYbojlQAZENVYL) | 3:16 | 2022-10-02 |  |
+| [Keep Up](https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm) | [Keep Up](https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39) | 3:30 | 2022-10-31 |  |
 | [KEITH \- Pop Remix](https://open.spotify.com/track/5P9CxTCFWzaom9YM2dnVDN) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [KEITH \(Pop Remix\)](https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m) | 2:52 | 2022-05-02 | 2022-09-06 |
 | [Kill You Boy](https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Kill You Boy](https://open.spotify.com/album/0k04UZ8pBPvS2anavEPrjG) | 2:36 | 2022-05-27 | 2022-09-06 |
 | [Killing Me Babe](https://open.spotify.com/track/7IdTfba5Z3ZwFS9KmJ4mgM) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Killing Me Babe](https://open.spotify.com/album/2WE5IWEq96LJCWVAQxM4l5) | 2:28 | 2022-10-02 |  |
@@ -182,6 +184,7 @@
 | [Move Boy](https://open.spotify.com/track/2IanjT7nd31ufhBK83QEQ1) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Move Boy](https://open.spotify.com/album/4ltHhXDKRiBK43dGzSWdLj) | 3:28 | 2022-07-03 | 2022-09-06 |
 | [Mutual XO](https://open.spotify.com/track/5IGoUYZdWjfTUjGlfeTKRc) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Mutual XO](https://open.spotify.com/album/4poZocs3xwN5Xp0WgdQU46) | 2:52 | 2022-03-06 | 2022-05-28 |
 | [My All](https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [My All](https://open.spotify.com/album/4udtcIAttKDLjbwVdpRFbg) | 2:31 | 2022-02-03 | 2022-04-06 |
+| [MY CREW](https://open.spotify.com/track/20Fc8yrDyPYPLN1ZxN3Qd9) | [PANIA](https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf) | [MY CREW](https://open.spotify.com/album/69sc9XZkeV6qwgQjK3KlsE) | 2:32 | 2022-10-31 |  |
 | [My Love](https://open.spotify.com/track/4yh6EBN3znQleMs93ZnWbU) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [My Love](https://open.spotify.com/album/2PoDonQVcSPBcACIXnUyA1) | 3:29 | 2022-02-03 | 2022-05-28 |
 | [Myriagon \(No Photos Please\)](https://open.spotify.com/track/1bHMdStFH8IKo8KO3umtyC) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Myriagon \(No Photos Please\)](https://open.spotify.com/album/5yJA9xeRSuSX3FIlsJIG8L) | 2:54 | 2022-10-02 |  |
 | [Naked](https://open.spotify.com/track/5mUt693rCV1aMGHIuMe0pu) | [Jess Day](https://open.spotify.com/artist/5NQljfPqllxB64U0rpCnsk) | [Naked](https://open.spotify.com/album/2NIRrSHvc3qbJ4LWrLAYtJ) | 3:12 | 2022-02-03 | 2022-07-04 |
@@ -226,7 +229,7 @@
 | [Selfish](https://open.spotify.com/track/625zvGkOpwTNi4tZ54bdZH) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4F1hweOR3EvXq0VxMm6bUF) | 2:08 | 2022-03-01 | 2022-10-03 |
 | [Sentimental](https://open.spotify.com/track/29ZBpjEMa3oUqkCgqH3qZA) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Sentimental](https://open.spotify.com/album/0ZJo2SFmj1t8mDhOg2Y7yi) | 3:11 | 2022-02-03 | 2022-04-06 |
 | [Shut Up](https://open.spotify.com/track/32kJ7lgfSi9RZ7DH9H5pam) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/1I81drD9QtaTfW28JObEey) | 2:39 | 2022-03-06 | 2022-07-29 |
-| [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 | 2022-07-03 |  |
+| [Shut Up](https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Shut Up](https://open.spotify.com/album/3bn0loXOlkfKBUGszzTz82) | 2:39 | 2022-07-03 | 2022-11-01 |
 | [Sick To My Stomach](https://open.spotify.com/track/0KsX41llne8z0tX1kyTXwo) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Sick To My Stomach](https://open.spotify.com/album/4Klr3xrFeQrNjf1PNMLiKk) | 3:14 | 2022-04-05 | 2022-07-29 |
 | [Sick To My Stomach](https://open.spotify.com/track/54m0ShUEWaiYTqnsidhYvM) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/0y5iNHmiygdkqhEgSCHDRV) | 3:14 | 2022-07-03 | 2022-09-06 |
 | [sleep in](https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [sleep in](https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8) | 2:37 | 2022-07-03 |  |
@@ -259,6 +262,7 @@
 | [The Curse](https://open.spotify.com/track/491AYsTWGpOClL9A5cbcQv) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [The Curse](https://open.spotify.com/album/2xnsVRZdZto2ItOA4OwD7s) | 2:44 | 2022-05-27 |  |
 | [The Dream State](https://open.spotify.com/track/0BY1UMRp2LFzqWZ17jS6nu) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [The Dream State](https://open.spotify.com/album/6fcWkvPaizsp4KsW9Vhb6e) | 2:53 | 2022-04-14 | 2022-05-28 |
 | [The Limit](https://open.spotify.com/track/7FBwokXPo9nkVPElGPls8x) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [The Limit](https://open.spotify.com/album/54oWSvqgcKAlSsP0DPN6aN) | 2:44 | 2022-03-06 | 2022-05-03 |
+| [Thing For You](https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo) | [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Thing For You](https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl) | 3:14 | 2022-10-31 |  |
 | [This Enchanted \- Edit](https://open.spotify.com/track/0t0lC8avHPxxf9VqiItfj6) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [This Enchanted](https://open.spotify.com/album/5DU1S08aBz1JPVN6Q2hIWj) | 3:07 | 2022-02-03 | 2022-03-02 |
 | [Thoughts From My Bed](https://open.spotify.com/track/5RjF5qxO7SlAT0jMN3LqKs) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [Thoughts From My Bed](https://open.spotify.com/album/1MyvolG2lTa1sJOkhVnoSv) | 2:26 | 2022-09-05 |  |
 | [Threads](https://open.spotify.com/track/2SJ0exVB6NRWLbdjCsNWAd) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Threads](https://open.spotify.com/album/1SZmDUuIlro250y8TPMMbd) | 3:52 | 2022-10-02 |  |

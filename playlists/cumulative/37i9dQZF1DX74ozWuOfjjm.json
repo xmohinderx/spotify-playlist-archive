@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Listen to the women of AU & NZ at full volume. Cover: Vera Blue",
+  "description": "Listen to the women of AU & NZ at full volume. Cover: Pania",
   "name": "EQUAL AU & NZ",
   "published_playlist_ids": [
     "4PJNyPSll9BI9JEGTXEKxV"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 118000,
       "name": "Feeling Good Feeling Great",
       "url": "https://open.spotify.com/track/4AQfmenuVJJdptJfjUw8Sj"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 182037,
       "name": "Fight For Me",
       "url": "https://open.spotify.com/track/3Q5CNIOXwGVxkRvqDJBX3L"
@@ -1746,6 +1746,24 @@
     },
     {
       "album": {
+        "name": "gold star",
+        "url": "https://open.spotify.com/album/30AyS7pdsIF8h0pOgzfM0G"
+      },
+      "artists": [
+        {
+          "name": "\u016ala",
+          "url": "https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "gold star",
+      "url": "https://open.spotify.com/track/61BvDWK5JRzPhdn0qWqtvR"
+    },
+    {
+      "album": {
         "name": "Golden Hours",
         "url": "https://open.spotify.com/album/2s0YQ7W9iUi3MfAeq8NKyJ"
       },
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 213661,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/5W4ajZQRbMCZSaK7dQdymn"
@@ -2630,6 +2648,24 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/4SDqBoOMC07Q2ObQBQrQ39"
+      },
+      "artists": [
+        {
+          "name": "Kinder",
+          "url": "https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210210,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1posBKEgD6xCwLZVu5JpLl"
+    },
+    {
+      "album": {
         "name": "KEITH (Pop Remix)",
         "url": "https://open.spotify.com/album/7iI58yZEmaNGVhGGMq6v8m"
       },
@@ -3197,6 +3233,24 @@
       "duration_ms": 151116,
       "name": "My All",
       "url": "https://open.spotify.com/track/35CoDqsVF0P2w8Lgir7wrs"
+    },
+    {
+      "album": {
+        "name": "MY CREW",
+        "url": "https://open.spotify.com/album/69sc9XZkeV6qwgQjK3KlsE"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152271,
+      "name": "MY CREW",
+      "url": "https://open.spotify.com/track/20Fc8yrDyPYPLN1ZxN3Qd9"
     },
     {
       "album": {
@@ -4031,7 +4085,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 159095,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/4sqUqP7QJrCtoAUGfFDjFE"
@@ -4615,6 +4669,24 @@
       "duration_ms": 164873,
       "name": "The Limit",
       "url": "https://open.spotify.com/track/7FBwokXPo9nkVPElGPls8x"
+    },
+    {
+      "album": {
+        "name": "Thing For You",
+        "url": "https://open.spotify.com/album/4ABTbFxYXfuFCXmtjSLgsl"
+      },
+      "artists": [
+        {
+          "name": "Zoe A'dore",
+          "url": "https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Thing For You",
+      "url": "https://open.spotify.com/track/5suy4kzP9HFYs468dPVdRo"
     },
     {
       "album": {

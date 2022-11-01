@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,929 likes - 78 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,946 likes - 78 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 5 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 |
 | 6 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
 | 7 | [Changes](https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Spirit Moves](https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5) | 2:41 |
-| 8 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 9 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 8 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
+| 9 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 10 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 |
 | 11 | [1957](https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w) | [Milo Greene](https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF) | [Milo Greene](https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w) | 3:24 |
 | 12 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 37 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 38 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 39 | [Had To Hear](https://open.spotify.com/track/4IAE7M8Qw88f59W0uqNujJ) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Atlas](https://open.spotify.com/album/5k7WCAZPSbJYzjW5SCQ5sn) | 4:50 |
-| 40 | [Where Are You Now](https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 3:37 |
-| 41 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
-| 42 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
-| 43 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
+| 40 | [Supernova](https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Supernova](https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW) | 3:55 |
+| 41 | [Swing Lo Magellan](https://open.spotify.com/track/2JtL0a3NHcGkFQ7kfDLKUT) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/5zQgu9qi6mK8KuleuzM22C) | 2:37 |
+| 42 | [It's Only Life](https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:01 |
+| 43 | [Where Are You Now](https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 3:37 |
 | 44 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 45 | [We Will Become Silhouettes \- Remastered](https://open.spotify.com/track/0xn9WsyWhNbfI82Ipnpwqa) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 5:00 |
 | 46 | [All Yours](https://open.spotify.com/track/0R8cy4E7RWoP0oxiYY4GF1) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3Q3xd77C966yd3RbQXBGAc) | 3:42 |
-| 47 | [Suffering](https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 6:02 |
-| 48 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
+| 47 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
+| 48 | [Suffering](https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 6:02 |
 | 49 | [Blue Spotted Tail](https://open.spotify.com/track/7DVVuEwuBOx7fcUvYwqngv) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb) | 3:05 |
 | 50 | [Museum of Flight](https://open.spotify.com/track/66FQj8xV0Jv082kNhzKdGi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Maraqopa \(Deluxe Edition\)](https://open.spotify.com/album/0M9qrwqS1gTf7ONzbws7z4) | 2:50 |
 | 51 | [Fighter Girl](https://open.spotify.com/track/7vWSEWnBtWb48R7gJ6qngk) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [In The Ever](https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2) | 3:20 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 64 | [Brandy Alexander](https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:36 |
 | 65 | [Chicago \(acoustic version\)](https://open.spotify.com/track/6tclkDfOgetmI3nE5nY0Xw) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [The Avalanche](https://open.spotify.com/album/03nhmvStqDyX6JCJk64Owr) | 4:40 |
 | 66 | [The Sweetest Thing](https://open.spotify.com/track/4ItIxgaequ7RJRpIo0VF0X) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [My Maudlin Career](https://open.spotify.com/album/7tcYHOoBL2DoocG2T7x8tg) | 4:22 |
-| 67 | [I Was An Eagle](https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:21 |
-| 68 | [Tuck the Darkness In](https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:50 |
+| 67 | [Tuck the Darkness In](https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ) | 4:50 |
+| 68 | [I Was An Eagle](https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Once I Was An Eagle](https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl) | 4:21 |
 | 69 | [Terror in the Canyons \(The Wounded Master\)](https://open.spotify.com/track/6CIG1IuqeBpKn451VMlAkh) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 4:05 |
 | 70 | [Carried Away](https://open.spotify.com/track/6HHQc73TnikIFQOg2aHNCu) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [All Birds Say](https://open.spotify.com/album/7DpBHGSsMMr3B6m6KDLv4h) | 4:03 |
 | 71 | [Tears of Joy](https://open.spotify.com/track/5GMoEWEtU2uNZlx8nKMqRG) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/3KCUdkkeANyKXs40lQcmme) | 4:05 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [Dinosaur Sex](https://open.spotify.com/track/5R9BaUKPIPBBadJSbB5knl) | [Emmy The Great](https://open.spotify.com/artist/3BniKY9Gw01zy21IDlVhaM) | [Virtue \(Bonus Edition\)](https://open.spotify.com/album/1XdpKifugaz7auUgwwQGiL) | 5:37 |
 | 78 | [My Baby Don't Understand Me](https://open.spotify.com/track/1mwwueuXt5NPPtnJyswwA9) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Natalie Prass](https://open.spotify.com/album/21zH1ohnZ6T0g95ZnUTwBM) | 5:12 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDI5MWVhZjA2ZDMzZjFlMGVkM2U0MjczZmFkMjJlOTUy`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDRhNTc2NGM4N2RlZjNmOTA5NDFhODY3NDc1OWVjY2Uz`

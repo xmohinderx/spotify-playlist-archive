@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-357 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
+358 songs - 21 hr 18 min - [published](https://open.spotify.com/playlist/7nowwmXF5288KAzDDzHkBy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 | 2022-05-31 | 2022-07-25 |
 | [Control](https://open.spotify.com/track/3NrMppEmrfhrz9OXaUejp7) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Last Dance](https://open.spotify.com/album/68basHoqk34JRezSeXRacF) | 2:50 | 2022-07-22 | 2022-08-12 |
 | [CORSO](https://open.spotify.com/track/46oHvXwpEZOFX518we1nJD) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 | 2021-07-01 | 2022-04-09 |
-| [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 | 2022-07-22 |  |
+| [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/track/75xEZnNXRr4G2kZ15fREXo) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Crash Course \(feat\. Biig Piig\)](https://open.spotify.com/album/0IlNWIAHo25nBG3tb1xSHQ) | 2:47 | 2022-07-22 | 2022-11-01 |
 | [Crave You](https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz) | 3:54 | 2022-05-31 |  |
 | [Crimewave](https://open.spotify.com/track/3yQFmN8A5S8Kf1nUJuvb01) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/5nM3cUPxqg7iqjaoyeCWtN) | 4:18 | 2021-11-12 | 2022-04-17 |
 | [CRISIS](https://open.spotify.com/track/43czZSFDYr2i6HDJw580n5) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [CRISIS](https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G) | 3:13 | 2020-12-31 |  |
@@ -303,6 +303,7 @@
 | [Sweet Disposition](https://open.spotify.com/track/49x8Zp5wDjoquBE1THLLCV) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/4NeSW0h0cdKXzjKxhCJmLl) | 3:51 | 2020-12-31 | 2022-04-12 |
 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 | 2021-11-19 | 2022-06-04 |
 | [Tarantino](https://open.spotify.com/track/3FBiYeUHxCbgsQmRz10abu) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Atlas](https://open.spotify.com/album/26LTl351R5RC8NwHJkGV6P) | 3:23 | 2021-11-12 | 2022-07-29 |
+| [Tell Me Your Fears](https://open.spotify.com/track/6VNsbTa6RzTmuLZzu0dfzj) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Tell Me Your Fears](https://open.spotify.com/album/0LPyaX5NBuV8HUz5vhQBzS) | 2:14 | 2022-11-01 |  |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2020-12-31 | 2022-08-12 |
 | [The Difference \- Extended](https://open.spotify.com/track/1ZtYQ0Xa0FceWOEYOjshui) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference \(Extended\)](https://open.spotify.com/album/0pG9gnZqvyWxbzw3NSYkmr) | 3:57 | 2020-12-31 | 2022-07-27 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2022-01-20 | 2022-08-12 |

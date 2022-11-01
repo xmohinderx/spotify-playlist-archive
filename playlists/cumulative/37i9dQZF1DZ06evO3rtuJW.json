@@ -402,6 +402,28 @@
     },
     {
       "album": {
+        "name": "Glitches",
+        "url": "https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118889,
+      "name": "Glitches (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -541,7 +563,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 142759,
       "name": "I Told Her (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5ybvTSA7a1w5ARhT2wpP4O"

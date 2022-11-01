@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Poppy",
-  "num_followers": 537662,
+  "num_followers": 537835,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDYxZGZhNWU2NmM5NTAwYWQzZjMzODc4OGUzYmYwYzNh",
+  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDBjNmI1ZGVjODYxYzdkMWY5MzM3MzEwN2E0ZjI2MmQ2",
   "tracks": [
     {
       "added_at": "2022-10-28 12:07:52",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
       },
@@ -155,6 +139,42 @@
       "duration_ms": 254811,
       "name": "The In-Between",
       "url": "https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Seize the Power",
+        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 139728,
+      "name": "Clique",
+      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -191,22 +211,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Seize the Power",
-        "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
+        "name": "Fear of Dying",
+        "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
       },
       "artists": [
         {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        },
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 139728,
-      "name": "Clique",
-      "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
+      "duration_ms": 163062,
+      "name": "Fear of Dying",
+      "url": "https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -231,38 +247,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "We Bring You the Stars",
-        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
-      },
-      "artists": [
-        {
-          "name": "Metalite",
-          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "We Bring You the Stars",
-      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Talk To Me (feat. Lzzy Hale)",
         "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "We Bring You the Stars",
+        "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "Metalite",
+          "url": "https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg"
         }
       ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
+      "duration_ms": 180373,
+      "name": "We Bring You the Stars",
+      "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -335,6 +319,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Bottom of a Bottle",
         "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 302179,
-      "name": "How's the Heart?",
-      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+      "duration_ms": 302179,
+      "name": "How's the Heart?",
+      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Swamped XX",
         "url": "https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Sleeping with the Enemy",
         "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 212927,
       "name": "Sleeping with the Enemy",
       "url": "https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Entertain You",
-        "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 211045,
-      "name": "Entertain You",
-      "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -575,6 +543,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Amorphous",
         "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 259549,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Entertain You",
+        "url": "https://open.spotify.com/album/0kLPfU7TA882mqHNmrMVWB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 276200,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Yeah Right",
-      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 219630,
       "name": "Salma Hayek",
       "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1019,22 +1035,6 @@
       "duration_ms": 192000,
       "name": "Ghost Myself",
       "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+      "duration_ms": 147666,
+      "name": "Play the Greatest Hits",
+      "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Play the Greatest Hits",
-      "url": "https://open.spotify.com/track/0rSuev4QLH0DydIV7PosuX"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "I Disagree (more)",
         "url": "https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 193499,
       "name": "I Disagree",
       "url": "https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "K.M.B.",
-        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "K.M.B.",
-      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Conquering",
-        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
       },
       "artists": [
         {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Mark Of The Grave",
-      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1291,6 +1275,22 @@
       "duration_ms": 263799,
       "name": "Selkie",
       "url": "https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Conquering",
+        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mark Of The Grave",
+      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
     },
     {
       "added_at": "2022-10-28 12:07:52",

@@ -4,7 +4,7 @@
 
 > A collection of Hip Hop hits and viral trends feat Lil Baby, Drake, GloRilla &amp; more\. Updated weekly!  Cover: JID
 
-94 songs - 5 hr 24 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
+95 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Headshots \(4r Da Locals\)](https://open.spotify.com/track/2rFTRICumonxxZKxxfEu8R) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Headshots \(4r Da Locals\)](https://open.spotify.com/album/2gGoV7NU9CdWtNhIcvUKQ1) | 3:13 | 2022-05-31 | 2022-07-28 |
 | [Honest](https://open.spotify.com/track/48uFORndjPzqyqqmzSjrsY) | [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [Real Hustlers Only](https://open.spotify.com/album/6tmkKxNXdTLkpbowLfodkk) | 2:47 | 2022-09-02 |  |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-05-31 |  |
+| [I Ain't Gone Hold Ya](https://open.spotify.com/track/4MSPFX1ofy7dyojuEmTn8X) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 2:16 | 2022-10-31 |  |
 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 | 2022-05-31 | 2022-09-10 |
 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 | 2022-05-31 |  |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-07-08 |  |

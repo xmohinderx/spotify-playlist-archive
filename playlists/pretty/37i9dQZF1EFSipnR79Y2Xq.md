@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m03aDw5dqfBpheQEDSYGp">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133 likes - 21 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 136 likes - 21 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSipnR79Y2Xq.md) - [plain]
 | 12 | [Porque Sigo Vivo](https://open.spotify.com/track/1sWJERxemKdTKXVGL4zFrJ) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Porque Sigo Vivo](https://open.spotify.com/album/75AAhtE3Tff60VDqsQ8hOf) | 3:04 |
 | 13 | [Voy A Superarte \- En Vivo](https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Voy A Superarte \(En Vivo\)](https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx) | 2:45 |
 | 14 | [Confirmo \- En Vivo](https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Confirmo \(En Vivo\)](https://open.spotify.com/album/6TSpDvl2aa6W5XRX2pWyfs) | 2:40 |
-| 15 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 |
-| 16 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 |
+| 15 | [Una Cerveza Más](https://open.spotify.com/track/0l8Ai0UPJ1hYOMQcaDa9Vr) | [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Cerveza Más](https://open.spotify.com/album/7q35s381xW8eW6n6d0twtC) | 2:50 |
+| 16 | [Tocas El Cielo](https://open.spotify.com/track/3x27kK7eSGhxc6PzSgPoeh) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH) | [Casi Algo](https://open.spotify.com/album/6xSYTJWevYBfj3ss9Jciuv) | 3:05 |
 | 17 | [Tragos En Mi Mesa](https://open.spotify.com/track/4642EXxwNH8Z3WamZeoD2X) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Tragos En Mi Mesa](https://open.spotify.com/album/4YXv1lZBaFinDMRgfgktjN) | 3:17 |
 | 18 | [Esto Es Así](https://open.spotify.com/track/4t9EQ2mAXzPZLpMPwDAGIM) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Esto Es Así](https://open.spotify.com/album/32ZX00cqoOq3l8c2iwZ88x) | 2:56 |
 | 19 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 |
 | 20 | [Siempre Te Voy A Extrañar](https://open.spotify.com/track/0ckp8hGuGLcG5wpJaIgU3b) | [Ricky Valenzuela](https://open.spotify.com/artist/0gMREHxpil2Psc4VRY0urJ) | [Siempre Te Voy A Extrañar](https://open.spotify.com/album/1NBLHCYkm4hgrh7BeSXWBP) | 3:16 |
 | 21 | [Mi Toxica](https://open.spotify.com/track/2cyoeBgg53OnFhL2oE0EGZ) | [René González El Camaleón](https://open.spotify.com/artist/0nnqDGxsJzT8St1QjegXU0) | [Mi Toxica](https://open.spotify.com/album/2ZjnBZPrdxIiJmYnJEc1Wi) | 3:22 |
 
-Snapshot ID: `Mjc3ODYzMjgsMDAwMDAwMDA1YTE3ZWNlOGFjNTY4YTFhN2M5NGVkY2JmYzQ2Yjg4Ng==`
+Snapshot ID: `Mjc3ODc3NjgsMDAwMDAwMDAwNDk1MTc4NTk1MWE4NzMwNmYzZGQ3NTU4Yzc1NDRhMw==`

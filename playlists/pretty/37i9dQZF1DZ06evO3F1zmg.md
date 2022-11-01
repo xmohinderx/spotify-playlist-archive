@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,172 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,185 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 19 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 |
 | 20 | [Move \(feat\. Saweetie\)](https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 3:34 |
 | 21 | [Money Mouf](https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Money Mouf](https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG) | 3:31 |
-| 22 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
-| 23 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
+| 22 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
+| 23 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
 | 24 | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ) | [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [You Come First \(feat\. Saweetie\)](https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0) | 3:11 |
 | 25 | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [B\*tch From Da Souf \(Remix\)](https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy) | 3:44 |
 | 26 | [Talkin' Bout \(feat\. Saweetie\)](https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav) | [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 49 | [Dipped In Ice](https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:49 |
 | 50 | [Good Good](https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 3:21 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAxNjM3ZDMwZTI1ZTI0MzNmMWIxNDkwMzk5ZGY1NDIyOQ==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDAzMzY4NjM5YTVlMjE3ZTM3NDhjNDI0M2QzYjBkMWM0Nw==`

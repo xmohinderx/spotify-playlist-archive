@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 
 > songs that break bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,107 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,511 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 20 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
 | 21 | [All Alone](https://open.spotify.com/track/5V5BHmvpylV0nSc2Yu2Mu4) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [All Alone](https://open.spotify.com/album/41kOXEHM7PivRjZj4WX2Dl) | 2:54 |
 | 22 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
-| 23 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 |
-| 24 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
+| 23 | [vent](https://open.spotify.com/track/1ITpqT1kDATCtMBwOK7sYn) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue](https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg) | 2:16 |
+| 24 | [Icon](https://open.spotify.com/track/22nyEAEM29tcBRhukR089b) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [SYRE](https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E) | 3:40 |
 | 25 | [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 |
 | 26 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [GOODMORNINGTOKYO!](https://open.spotify.com/album/2P4n4HSzB7ZHocIaIp96bD) | 2:30 |
 | 27 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgQ5Y8XEtFi.md) - [plain]
 | 44 | [Dat $tick](https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [Dat $tick](https://open.spotify.com/album/7AKJUjNR4hlNcbj55lP5LA) | 2:06 |
 | 45 | [Team](https://open.spotify.com/track/77VHb191LLkpsYJTS2cgEc) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y) | [Team](https://open.spotify.com/album/37fIbYVEnEjo5PWeBCh887) | 2:06 |
 | 46 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 |
-| 47 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
-| 48 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
+| 47 | [SIMP](https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX) | [Full Tac](https://open.spotify.com/artist/5ZXkHp732tYHIzqctoZP0E), [Lil Mariko](https://open.spotify.com/artist/1ZRRl4S2B4xZBzHtIf65Jx), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [SIMP](https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa) | 3:00 |
+| 48 | [Sanjuro](https://open.spotify.com/track/1iBZqPmS2HjeTm9oRtvwqT) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:07 |
 | 49 | [Crisis](https://open.spotify.com/track/5cGi1voAzIK9PE3tmNdYsR) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [War](https://open.spotify.com/album/5UthVBNdNdHyqHmSKUlegX) | 1:49 |
 | 50 | [DRAINO \(feat\. Denzel Curry\)](https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP) | [City Morgue](https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [CITY MORGUE VOL 2: AS GOOD AS DEAD](https://open.spotify.com/album/6o5cXlhhYbFvewfsYpuyEM) | 3:22 |
 
-Snapshot ID: `MTY2NjcxMTI4NCwwMDAwMDAwMDM2ZTM2YjIzNjM2ZGQ1MGFlMjU5N2IwMWYxYjA2ZmVi`
+Snapshot ID: `MTY2NjcxMTI4NCwwMDAwMDAwMDE5ZWFlZmZkNWQ3NmRjYjI4ZWRiODlkMzBiYmQ1NmZh`

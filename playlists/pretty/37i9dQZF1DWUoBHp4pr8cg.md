@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest out now in Hip Hop...Cover: Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=NuAY1BDPTwyYoglT09e7PQ">Blxckie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,967 likes - 78 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,001 likes - 78 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

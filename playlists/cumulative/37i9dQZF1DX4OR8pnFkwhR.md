@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Penthouse / <br/> Early Noise Night\#14プレイリストは<a href="spotify:playlist:37i9dQZF1DWW1l6u9Tapgr">こちら</a>。/ Music+Talk\(アーティストインタビュー\)は<a href="spotify:show:5ILS4cRYK00Zs2ISBiAWCF">こちら</a>。
 
-496 songs - 1 day 5 hr 54 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+497 songs - 1 day 5 hr 58 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,11 +63,12 @@
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 | 2022-05-11 |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-25 | 2022-09-21 |
 | [Dance Alone](https://open.spotify.com/track/2kpZkWCfmuSvn8CZYGvNkO) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Dance Alone](https://open.spotify.com/album/2grXUKK5gDiBlcWcpbKm6Y) | 4:56 | 2022-09-13 | 2022-10-12 |
-| [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 |  |
+| [Danceless Island](https://open.spotify.com/track/1HveaXiH8hnI1spsowkeCL) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/1syVDDqzi6brKX5hosWs8u) | 3:45 | 2022-09-20 | 2022-11-01 |
 | [Danceless Island](https://open.spotify.com/track/72BFb5OajhZEkmzoHssXLN) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Danceless Island](https://open.spotify.com/album/575eZHzWuiFFuUQ4sDF4G4) | 3:45 | 2022-09-20 | 2022-09-22 |
 | [DANCE風呂a!](https://open.spotify.com/track/1nnnQqaEVc4giwspZt5EMB) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR) | [DANCE風呂a!](https://open.spotify.com/album/0ckt8HpaApwrcVoCAZX1RB) | 4:03 | 2022-10-11 |  |
 | [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 | 2022-10-12 |
 | [Deadstock](https://open.spotify.com/track/1h3XEx3bmfIARIJQqE3NA5) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU), [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [Deadstock](https://open.spotify.com/album/4Z9igjlzrOpnidH6MwRhEc) | 3:19 | 2022-08-23 | 2022-09-28 |
+| [Defunk](https://open.spotify.com/track/4Sb2Ae3HEbu7m1EmZRzisq) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Defunk](https://open.spotify.com/album/6SZGneGO90oAYw5SYYKG07) | 4:03 | 2022-10-31 |  |
 | [Dekoboko](https://open.spotify.com/track/4wgl4FI8jkDYmXO2LP5RMx) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [Dekoboko](https://open.spotify.com/album/3ZpHQYtjqNJcdoRa1c0Yiv) | 3:40 | 2022-10-20 |  |
 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 | 2022-04-20 | 2022-05-25 |
 | [Devil's Kiss](https://open.spotify.com/track/4H2WRCEiJviNs9c3kCItMM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Devil's Kiss](https://open.spotify.com/album/25xKemGzB1B54AZFVcAROR) | 4:34 | 2022-07-26 | 2022-08-03 |

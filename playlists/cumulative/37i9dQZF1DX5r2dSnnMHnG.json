@@ -2682,6 +2682,24 @@
     },
     {
       "album": {
+        "name": "3.2 What The Spring??",
+        "url": "https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205751,
+      "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
+      "url": "https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d"
+    },
+    {
+      "album": {
         "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
         "url": "https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY"
       },
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 205751,
       "name": "\ubd04\uc774 \uc88b\ub0d0?? What The Spring??",
       "url": "https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm"

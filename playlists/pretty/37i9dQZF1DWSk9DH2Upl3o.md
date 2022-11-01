@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Papadosio
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,918 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,960 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 20 | [Song for Us](https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:41 |
 | 21 | [Inside Out](https://open.spotify.com/track/0w2JzMK1cb5Wx4feWnWKAP) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:13 |
 | 22 | [Hiccup](https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Asking For A Friend](https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf) | 3:06 |
-| 23 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 |
-| 24 | [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 |
-| 25 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
+| 23 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
+| 24 | [Babyman](https://open.spotify.com/track/22Ox7cbDgGug44lFVyCPrH) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH) | [Circles Around the Sun](https://open.spotify.com/album/1n3HqEVGOP7zz3mjpFpQuy) | 5:57 |
+| 25 | [Cubensis](https://open.spotify.com/track/1rHQVcUIkpeHrzj6z74Emy) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Microdosio](https://open.spotify.com/album/2tlqeiRrUFcqGK4JILK8VZ) | 5:31 |
 | 26 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 |
 | 27 | [Sweet Spot](https://open.spotify.com/track/5pFjXpxLqr2xJQerNiC4dy) | [The String Cheese Incident](https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l) | [Believe](https://open.spotify.com/album/1ugwsDgtIFbpiAV3pg1M91) | 5:04 |
 | 28 | [Kitty Chaser \(Explosions\)](https://open.spotify.com/track/31prZotiPV46jh06xCTop4) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Cycles](https://open.spotify.com/album/2Q4TCChrfQOSkHoOj3bce1) | 9:39 |
 | 29 | [Curse Lifter \(feat\. Derek Trucks\)](https://open.spotify.com/track/3qhvHN2UFlOouwkEEBWn37) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Derek Trucks](https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq) | [Blood from a Stone](https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT) | 4:59 |
-| 30 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 |
-| 31 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
-| 32 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 |
+| 30 | [Not Just a Word](https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh) | [Papadosio](https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh) | [Not Just a Word](https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1) | 5:38 |
+| 31 | [Tumbleweed](https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:40 |
+| 32 | [Electric Taco Stand](https://open.spotify.com/track/2mMElb3GObwkGdVYtyT0nu) | [Spafford](https://open.spotify.com/artist/7fA0IDinGo27lmOeGy6oGV) | [Spafford](https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05) | 4:23 |
 | 33 | [Duck Farm](https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 7:36 |
 | 34 | [Stacy's on the Lake](https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 2:19 |
 | 35 | [Mr\. Scientist](https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Casino Cabaret](https://open.spotify.com/album/2Y7VfgO3VkHuZHgTfmbHco) | 7:28 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 39 | [Fannie](https://open.spotify.com/track/3L2U8GgZE0y2WX0z6cUYGX) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 4:07 |
 | 40 | [Red Sky](https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 8:52 |
 | 41 | [When Ya Hustle](https://open.spotify.com/track/3AttQu1NPvaCrgw9O3jgOq) | [Cytrus](https://open.spotify.com/artist/6VrNLN6Thj1iUMsiL4Yt5q) | [Extraction](https://open.spotify.com/album/6Rr6d7WcYWtsdMZImjvWmA) | 4:07 |
-| 42 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
-| 43 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
-| 44 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
+| 42 | [Opelika Yella](https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Out of Line](https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg) | 5:39 |
+| 43 | [Revival](https://open.spotify.com/track/5hdLN2CbIeZbVDYN8cVqoB) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 3:35 |
+| 44 | [Ghost In The Machine](https://open.spotify.com/track/5VBPHVGLIpMdwRolGDxAm9) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Ghost In The Machine](https://open.spotify.com/album/35uUl3hTYQfBhH8CvSsTiV) | 6:19 |
 | 45 | [Galactic Passport](https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 6:52 |
 | 46 | [The World Is A Ghetto](https://open.spotify.com/track/5yiEFVz2RhuNvi9msiw3oI) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 8:33 |
-| 47 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 |
-| 48 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
-| 49 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
+| 47 | [Off Leash](https://open.spotify.com/track/7APwVMzYErmKqvTkaHs3NS) | [The Magic Beans](https://open.spotify.com/artist/6v39xVS6Vpmnun982EF8XH) | [Off Leash](https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU) | 7:42 |
+| 48 | [Time Dilates](https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Time Dilates](https://open.spotify.com/album/6fPbxh0gX0GZl4Ppy8pJ29) | 5:21 |
+| 49 | [Nuff](https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Dopapod](https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA) | 5:04 |
 | 50 | [The Freeman Massacre](https://open.spotify.com/track/5MmG7mZHhwHVRFsupNjACT) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [The Freeman Massacre](https://open.spotify.com/album/5uab2WSyu9MVOz23LkHk9B) | 7:51 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDhmMTVjZWQyYjZjZDBkODU5Yzg0ZTg0ZjE2ZGM0NTFj`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDZmZTk0ZGJlMDAwYzM5NzY4ZjkwMzMzOGE2NDQ5YTA2`

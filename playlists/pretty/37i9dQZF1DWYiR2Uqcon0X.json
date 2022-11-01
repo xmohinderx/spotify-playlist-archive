@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 692268,
+  "num_followers": 692367,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMGU4ZGYzNDQxMGM2ODU2ZDEyNGQyYjAzM2I2NDdkNWUw",
+  "snapshot_id": "MTY2NTYwMTUwOSwwMDAwMDAwMDg0ZTliMWE3ZTc0OWE5MTNiMDI2ODAxNjNmMWRmYTBj",
   "tracks": [
     {
       "added_at": "2022-10-12 19:05:09",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 236333,
       "name": "Whiskey And You",
       "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 243898,
       "name": "Where You Are - Acoustic",
       "url": "https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Weed Garden",
-        "url": "https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Autumn Town Leaves",
-      "url": "https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -963,38 +963,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Sunday Best (Acoustic)",
-        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
-      },
-      "artists": [
-        {
-          "name": "Smithfield",
-          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
-        }
-      ],
-      "duration_ms": 167535,
-      "name": "Sunday Best - Acoustic",
-      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "St. Louis",
         "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
       },
@@ -1007,6 +975,22 @@
       "duration_ms": 274964,
       "name": "St. Louis",
       "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Sunday Best (Acoustic)",
+        "url": "https://open.spotify.com/album/59oCat0Wfu0qZyUV1AqcA4"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "duration_ms": 167535,
+      "name": "Sunday Best - Acoustic",
+      "url": "https://open.spotify.com/track/05MAs5o6TxAmADc3JJmkv9"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Better Than That",
-        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
       },
       "artists": [
         {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
         }
       ],
-      "duration_ms": 193242,
-      "name": "Better Than That",
-      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1071,6 +1055,22 @@
       "duration_ms": 236226,
       "name": "half of my hometown - ballerini album version",
       "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Better Than That",
+        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
+      },
+      "artists": [
+        {
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+        }
+      ],
+      "duration_ms": 193242,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2022-10-12 19:05:09",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-10-12 19:05:09",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Pretty Hands",
-      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
-    },
-    {
-      "added_at": "2022-10-12 19:05:09",
-      "album": {
         "name": "Time Is Cold (Coffee House Version)",
         "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+    },
+    {
+      "added_at": "2022-10-12 19:05:09",
+      "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Pretty Hands",
+      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
     },
     {
       "added_at": "2022-10-12 19:05:09",

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Clovis, Ton Carfi",
-  "num_followers": 226316,
+  "num_followers": 226395,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTIwOCwwMDAwMDAwMDkyZDM1YjJjOTJmOGZlYTY4NWEzMTlkZTRjMmY2Y2Jj",
+  "snapshot_id": "MTY2NjkzNTIwOCwwMDAwMDAwMDljNGMzNzlmNjQ2YjE5YTNlYTE5ZDhmNDBmMTllNDU3",
   "tracks": [
     {
       "added_at": "2022-10-28 05:33:28",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Vai Passar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 156734,
       "name": "Eu Sei Que N\u00e3o Estou S\u00f3 (Ao Vivo)",
       "url": "https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -203,22 +203,6 @@
       "duration_ms": 331920,
       "name": "Pra Sempre - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "Paz da Minha Alma",
-        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 278031,
-      "name": "Paz da Minha Alma",
-      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -323,22 +307,18 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+        "name": "Paz da Minha Alma",
+        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
       },
       "artists": [
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         }
       ],
-      "duration_ms": 236013,
-      "name": "Meu Barquinho",
-      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
+      "duration_ms": 278031,
+      "name": "Paz da Minha Alma",
+      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -359,6 +339,26 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Meu Barquinho",
+      "url": "https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -427,38 +427,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 234016,
-      "name": "Faz Chover - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Ton Canta",
         "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Acoustic Session, Vol. 01",
         "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 342250,
       "name": "A Casa \u00c9 Sua - Acoustic Session",
       "url": "https://open.spotify.com/track/2KF9qAiNUBdCAkFb1tiyk5"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "S\u00e9rie Ac\u00fastica Com Fernandinho, Vol. 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 234016,
+      "name": "Faz Chover - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Recome\u00e7ar",
         "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 230792,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
-        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
-      },
-      "artists": [
-        {
-          "name": "Nathan Asafe",
-          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
-        }
-      ],
-      "duration_ms": 302750,
-      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
         "name": "Valeu a Pena",
         "url": "https://open.spotify.com/album/5sJoBI4CBWeCGORRt7zB48"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 237510,
       "name": "Valeu a Pena",
       "url": "https://open.spotify.com/track/3kHaS1dlhbJRjIAm4yi7QB"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
+        "name": "O Que Se Faz Aqui pra Ser Feliz (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Io37WuevaunbyNIzqpj0v"
+      },
+      "artists": [
+        {
+          "name": "Nathan Asafe",
+          "url": "https://open.spotify.com/artist/5ChPhSZzFXnTujdXY0FhMA"
+        }
+      ],
+      "duration_ms": 302750,
+      "name": "O Que Se Faz Aqui pra Ser Feliz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3LH84g4ns7kiJtOvZkyoea"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "Tens Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 340236,
+      "name": "Tens Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "Tens Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/26sVPHIvF6MAd0KU3SOKEn"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 340236,
-      "name": "Tens Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2U26JR0DawBOmdPZ44aIQB"
     },
     {
       "added_at": "2022-10-28 05:33:28",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-10-28 05:33:28",
       "album": {
+        "name": "No Secreto",
+        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 410245,
+      "name": "No Secreto",
+      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
+    },
+    {
+      "added_at": "2022-10-28 05:33:28",
+      "album": {
         "name": "On Tape (Ao Vivo)",
         "url": "https://open.spotify.com/album/7vdwMqaBgN4HX0ElfzGMwL"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 225677,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri"
-    },
-    {
-      "added_at": "2022-10-28 05:33:28",
-      "album": {
-        "name": "No Secreto",
-        "url": "https://open.spotify.com/album/6OGCe2qL5x7Xh3cWbuOk6K"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 410245,
-      "name": "No Secreto",
-      "url": "https://open.spotify.com/track/3e8PGGVzq84sBU1EuGBJ9k"
     },
     {
       "added_at": "2022-10-28 05:33:28",

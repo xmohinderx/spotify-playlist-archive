@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 596984,
+  "num_followers": 597029,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMDkxYzg4NGMwNjljMjdiZDFiNDFlZThkMzBmNWJlOWFj",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGQ1YTdkMDg3NjNhZDdiZDNmYzMwNjlmZWViY2QyOTE1",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -307,6 +307,30 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "La Loto",
+        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "La Loto",
+      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
       },
@@ -343,26 +367,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "La Loto",
-        "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 190666,
-      "name": "La Loto",
-      "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -383,6 +399,42 @@
       "duration_ms": 144018,
       "name": "Linda",
       "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -411,26 +463,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Amor Supremo (Desnudo)",
         "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
       },
@@ -447,38 +479,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "cuatro veinte",
         "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "EL BARCO",
+      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -531,18 +547,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 203506,
-      "name": "EL BARCO",
-      "url": "https://open.spotify.com/track/0MT6qJd7wKlWjH7tP7oWHi"
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -563,26 +583,6 @@
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -655,6 +639,38 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Ay, DiOs M\u00edo!",
+        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Ay, DiOs M\u00edo!",
+      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -695,46 +711,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "WOW BB",
-        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
-      },
-      "artists": [
-        {
-          "name": "Natti Natasha",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "WOW BB",
-      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Ay, DiOs M\u00edo!",
-        "url": "https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Ay, DiOs M\u00edo!",
-      "url": "https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "MAFIOSA",
         "url": "https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH"
       },
@@ -767,22 +743,26 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Mayores",
-        "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
+        "name": "WOW BB",
+        "url": "https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Mayores",
-      "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
+      "duration_ms": 191250,
+      "name": "WOW BB",
+      "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -843,6 +823,50 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Mayores",
+        "url": "https://open.spotify.com/album/1oOtMDLY2ezuvrvodAxj8o"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/7JNh1cfm0eXjqFVOzKLyau"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Ella (Remix De Ellas)",
+        "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Ella - Remix De Ellas",
+      "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Minifalda",
         "url": "https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k"
       },
@@ -891,30 +915,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Ella (Remix De Ellas)",
-        "url": "https://open.spotify.com/album/1S3W5Bf9guhX9p3m8DG1Oe"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Ella - Remix De Ellas",
-      "url": "https://open.spotify.com/track/6xvsaD0vPI2tU9gaF2e4j2"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Riri",
         "url": "https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa"
       },
@@ -943,38 +943,6 @@
       "duration_ms": 160177,
       "name": "Bella Ciao",
       "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "DOS DOS DOS",
-        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Los Consejos",
-        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Los Consejos",
-      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1011,6 +979,38 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "DOS DOS DOS",
+        "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Los Consejos",
+        "url": "https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "Los Consejos",
+      "url": "https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "KI-KI",
         "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
       },
@@ -1039,6 +1039,26 @@
       "duration_ms": 216533,
       "name": "Inventas",
       "url": "https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Kany Garc\u00eda",
+        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Hoy Ya Me Voy (feat. Franco de Vita)",
+      "url": "https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1095,26 +1115,6 @@
       "duration_ms": 168920,
       "name": "Te Quiero Baby (I Love You Baby)",
       "url": "https://open.spotify.com/track/50mnK809qBPYOyy1rCctzA"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Kany Garc\u00eda",
-        "url": "https://open.spotify.com/album/0xMspEBjMb20urG4Rx73vO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Hoy Ya Me Voy (feat. Franco de Vita)",
-      "url": "https://open.spotify.com/track/7vw2L7CJS7uXSX5gOty4Nt"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/3KscTDGgr9l50riagD0brp"
+      },
+      "artists": [
+        {
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
+        }
+      ],
+      "duration_ms": 162286,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/3zttbTVwXpWfViktdgZZni"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "Ya T\u00fa Me Conoces",
         "url": "https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 195573,
       "name": "Ya T\u00fa Me Conoces",
       "url": "https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "LALALA",
-        "url": "https://open.spotify.com/album/3KscTDGgr9l50riagD0brp"
-      },
-      "artists": [
-        {
-          "name": "ANGEL22",
-          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
-        }
-      ],
-      "duration_ms": 162286,
-      "name": "LALALA",
-      "url": "https://open.spotify.com/track/3zttbTVwXpWfViktdgZZni"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Soltera",
-        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 182212,
-      "name": "Soltera",
-      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Alma Caribe\u00f1a",
         "url": "https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Soltera",
+        "url": "https://open.spotify.com/album/0MN98GoMbQLO6Y8lwHuvI7"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 182212,
+      "name": "Soltera",
+      "url": "https://open.spotify.com/track/0V8URCCVyRD89huEDFsIR4"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 197815,
-      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
-      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Visceral",
         "url": "https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 197333,
       "name": "Buena Para Nada",
       "url": "https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 197815,
+      "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
+      "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 191106,
       "name": "Quiero Que Me Quieras",
       "url": "https://open.spotify.com/track/4QQZuodsvqEPYByKnRT9L9"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
     },
     {
       "added_at": "2022-08-31 07:13:59",

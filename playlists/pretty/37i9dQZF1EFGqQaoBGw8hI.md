@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 478 songs - 1 day 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 478 songs - 1 day 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 130 | [Country Comfort](https://open.spotify.com/track/5p9MpS0JdzVfbdJuHwhvqI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 5:06 |
 | 131 | [Razor Face](https://open.spotify.com/track/3NeqB4bScYh4qHYuAhxYo3) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 4:42 |
 | 132 | [Solidarity](https://open.spotify.com/track/6bWAHvrIvwHOitll6ATRfO) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 8:54 |
-| 133 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
-| 134 | [The Bitch Is Back / Dress You Up \(Glee Cast Version\)](https://open.spotify.com/track/1RJE1C1S7HNmGoR43H6XIo) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Four](https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd) | 2:34 |
+| 133 | [The Bitch Is Back / Dress You Up \(Glee Cast Version\)](https://open.spotify.com/track/1RJE1C1S7HNmGoR43H6XIo) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Complete Season Four](https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd) | 2:34 |
+| 134 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 135 | [High Flying Bird](https://open.spotify.com/track/3pxL77pLjhrnmrrzsLlItS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:12 |
 | 136 | [Good Morning To The Night \- Elton John Vs\. PNAU / Remastered](https://open.spotify.com/track/7pKdIQ7nO2E9t8T3cnnYMG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:24 |
 | 137 | [Oscar Wilde Gets Out](https://open.spotify.com/track/5RbY6AVs9ob3CwAZA9nR8d) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:35 |
@@ -416,8 +416,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 406 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 |
 | 407 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
 | 408 | [I Can't Keep This From You](https://open.spotify.com/track/440GIX1uR5Ve8nPvek7W23) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:34 |
-| 409 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
-| 410 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
+| 409 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
+| 410 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
 | 411 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 |
 | 412 | [The Scaffold](https://open.spotify.com/track/3RiHICh0pAvLGTluo12D5V) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:18 |
 | 413 | [Suit Of Wolves](https://open.spotify.com/track/7mvK7JHc1fOVs7HLVP3fwV) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:48 |
@@ -487,4 +487,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 477 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
 | 478 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc3ODYzMjQsMDAwMDAwMDBkMDZlYzU3ZTI3ZjM5ZmQ4MzgwZGE0NTg1NWZmZDUwYQ==`
+Snapshot ID: `Mjc3ODc3NjQsMDAwMDAwMDA0ZTZhMzNjNWU5MjIwZWM5MDZjZDVlMGMwNDIzMWU1ZQ==`

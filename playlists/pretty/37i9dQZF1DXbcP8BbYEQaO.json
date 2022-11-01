@@ -1,12 +1,12 @@
 {
   "description": "in the evening the real me comes alive",
-  "num_followers": 156845,
+  "num_followers": 157148,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGYyYThmYTVlZTFmMjFlMWJiZjMzZDdlNmJmMTE4MTI4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDMwMDhlMzcwNWEwMTdlY2QwNGI4NzlhNTFlMTZhZmNi",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "HEARTBEAT",
+        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 124959,
+      "name": "HEARTBEAT",
+      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 124959,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -291,6 +291,22 @@
       "duration_ms": 207667,
       "name": "I Don't Know Why",
       "url": "https://open.spotify.com/track/0ZXdzaT1k688dkpNeEgQiV"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "PIECES",
         "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
       },
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -387,6 +403,54 @@
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Iridium",
+        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 166797,
+      "name": "Iridium",
+      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Exscape",
+        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Exscape",
+      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 252760,
+      "name": "That's Where I Am",
+      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -427,38 +491,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 252760,
-      "name": "That's Where I Am",
-      "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Frozen (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD"
       },
@@ -479,38 +511,6 @@
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Exscape",
-        "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Exscape",
-      "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Iridium",
-        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 166797,
-      "name": "Iridium",
-      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        },
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/0bhuvwiK7RLxQnVYzQ5geL"
       },
@@ -763,18 +743,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "I F*cking Love You",
-        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/73w5XKOuWg456VuawuUH47"
       },
       "artists": [
         {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 180266,
-      "name": "I F*cking Love You",
-      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
+      "duration_ms": 174080,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "I F*cking Love You",
+        "url": "https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "I F*cking Love You",
+      "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "pl4yg1rl",
         "url": "https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG"
       },
@@ -827,22 +827,6 @@
       "duration_ms": 159493,
       "name": "pl4yg1rl",
       "url": "https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Night Call (Deluxe)",
-        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "Night Call",
-      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -879,6 +863,22 @@
       "duration_ms": 214754,
       "name": "What's It Gonna Be?",
       "url": "https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Night Call (Deluxe)",
+        "url": "https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/6eOGI74wPuMxHz0PpGvh8g"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Temper",
-        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
-      },
-      "artists": [
-        {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "Temper",
-      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "I Do You",
         "url": "https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 224080,
       "name": "I Do You",
       "url": "https://open.spotify.com/track/17KHjO7bkixVLpA1ODDBSF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "cool water",
-        "url": "https://open.spotify.com/album/1kCw98SsS5gJ2C1gJwF5JL"
+        "name": "AMAN",
+        "url": "https://open.spotify.com/album/7lFqKeCpgi4Us8PGIfDSD5"
       },
       "artists": [
         {
-          "name": "dayaway",
-          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+          "name": "Amanda Tenfjord",
+          "url": "https://open.spotify.com/artist/187i912U6kpq0F0Z9uOVXr"
+        },
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
         }
       ],
-      "duration_ms": 198750,
-      "name": "cool water",
-      "url": "https://open.spotify.com/track/188d9yxQ59ZUuHnJ927vXM"
+      "duration_ms": 190962,
+      "name": "AMAN",
+      "url": "https://open.spotify.com/track/5WJ3W0FYgcD9d3So3onSkQ"
     }
   ],
   "unique_name": "night pop",

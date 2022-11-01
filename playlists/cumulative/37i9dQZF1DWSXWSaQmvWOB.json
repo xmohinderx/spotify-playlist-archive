@@ -4075,7 +4075,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 178773,
       "name": "How Can I Move On",
       "url": "https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq"
@@ -9679,6 +9679,28 @@
       "duration_ms": 252725,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf"
+    },
+    {
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352253,
+      "name": "The Healer",
+      "url": "https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU"
     },
     {
       "album": {

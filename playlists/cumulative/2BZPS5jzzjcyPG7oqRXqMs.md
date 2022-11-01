@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-166 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
+168 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/2zseWEoTrqeulGuq5qhUGU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 | 2022-02-17 | 2022-08-27 |
 | [Faithful](https://open.spotify.com/track/0sw4u9EcSC2E6rtCCdglHZ) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/6AfVe2fUexeUZjPb0LFXg7) | 4:44 | 2022-02-17 |  |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2022-02-25 |  |
+| [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2022-10-31 |  |
 | [Fight On My Knees](https://open.spotify.com/track/3XHP45ZQGX9aJDwmtSvyXo) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Fight On My Knees](https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ) | 3:08 | 2022-08-26 |  |
 | [For All My Life](https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [For All My Life](https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm) | 3:30 | 2022-03-18 |  |
 | [For The Good](https://open.spotify.com/track/7ePpMxyHYteDKAeNWeT6vi) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [For The Good](https://open.spotify.com/album/4Rib5N0s3XZL0hcoMI3zdy) | 3:26 | 2022-02-17 |  |
@@ -94,6 +95,7 @@
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |
 | [Live Up To Your Name](https://open.spotify.com/track/0wTrxg0xcGj7vuxjdmkBBb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Live Up To Your Name](https://open.spotify.com/album/0tkp1dWnazRvLaUMzKFnzk) | 4:24 | 2022-10-14 |  |
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2022-07-01 |  |
+| [Love Has Come](https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Love Has Come](https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC) | 4:34 | 2022-10-31 |  |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 |  |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-03-18 | 2022-07-02 |
 | [Make The Most Of It](https://open.spotify.com/track/1w9CbJwkgRjhPibilArQAR) | [Joel Vaughn](https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB) | [Louder Than The Lies](https://open.spotify.com/album/1O4FlHsnYbsNM9Ct7VZfoH) | 3:11 | 2022-02-17 | 2022-08-27 |

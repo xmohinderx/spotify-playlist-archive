@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 10019,
+  "num_followers": 10052,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDBkZmNhZTI5ZGY3YjAzZjAzZDVlNzAwMmFiMzc2OTBh",
+  "snapshot_id": "MTY2NTYwMDIxMCwwMDAwMDAwMDgzMDI0ZGRkMDM1YzBkZjU4NmRlZTFkMWE3ODFmMTVh",
   "tracks": [
     {
       "added_at": "2022-10-12 18:33:51",
@@ -825,6 +825,26 @@
       "url": "https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY"
     },
     {
+      "added_at": "2022-06-03 18:11:27",
+      "album": {
+        "name": "Stutter EP",
+        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Stutter",
+      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
       "added_at": "2022-09-09 04:00:00",
       "album": {
         "name": "Nana",
@@ -855,26 +875,6 @@
       "duration_ms": 197007,
       "name": "Get Ur Freak On",
       "url": "https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC"
-    },
-    {
-      "added_at": "2022-06-03 18:11:27",
-      "album": {
-        "name": "Stutter EP",
-        "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Stutter",
-      "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
     },
     {
       "added_at": "2022-10-12 18:33:51",

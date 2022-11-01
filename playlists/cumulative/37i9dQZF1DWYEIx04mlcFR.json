@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Kevin Kaarl en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Kenia OS en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "published_playlist_ids": [
     "6I4k19QivQTwxJMIU1FW10"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 203786,
       "name": "20 Minutos",
       "url": "https://open.spotify.com/track/64tJTziuLk4Q3NJKT4j0xK"
@@ -432,6 +432,24 @@
     },
     {
       "album": {
+        "name": "Bolero Triste",
+        "url": "https://open.spotify.com/album/4U5TwT71ftkvWS9vJ2bQY0"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240326,
+      "name": "Bolero Triste",
+      "url": "https://open.spotify.com/track/5w7o1kxfOP6SUNhaYRWlE3"
+    },
+    {
+      "album": {
         "name": "B\u00e1jale (Suceso 5)",
         "url": "https://open.spotify.com/album/6IXzvNBhmqp18vz1f5ekOq"
       },
@@ -581,6 +599,46 @@
       "duration_ms": 204987,
       "name": "CARACOL",
       "url": "https://open.spotify.com/track/4OE47kOc5ugkSGFn5tyuFo"
+    },
+    {
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
+    },
+    {
+      "album": {
+        "name": "Cheve",
+        "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174037,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/2djtTuxLQbhu4FcMYYdKOD"
     },
     {
       "album": {
@@ -747,7 +805,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 201000,
       "name": "CTM",
       "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
@@ -1127,10 +1185,28 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 174825,
       "name": "estereotipo",
       "url": "https://open.spotify.com/track/6voO89mK2xygUwHsiPUi6u"
+    },
+    {
+      "album": {
+        "name": "AMORADESAMOR",
+        "url": "https://open.spotify.com/album/1Ad6BDnTNSErtmgwcPWJ9E"
+      },
+      "artists": [
+        {
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188540,
+      "name": "Excusas",
+      "url": "https://open.spotify.com/track/4FLODlDWoco3SpNZvs4msb"
     },
     {
       "album": {
@@ -1203,6 +1279,46 @@
       "duration_ms": 162178,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH"
+    },
+    {
+      "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136505,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
+    },
+    {
+      "album": {
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "album": {
@@ -1341,6 +1457,24 @@
       "duration_ms": 163600,
       "name": "Intenciones",
       "url": "https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u"
+    },
+    {
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/3dstM2Jz0agjIjoAnLERf8"
+      },
+      "artists": [
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/66F9zo1pdOLL9gOqfIbHas"
     },
     {
       "album": {
@@ -2039,7 +2173,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 166466,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/7sTylBrghRzKpTayE7W62J"
@@ -2217,7 +2351,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 174493,
       "name": "Natural",
       "url": "https://open.spotify.com/track/206EbLmSB7o5WimiOCE5Va"
@@ -2667,7 +2801,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 170105,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/0DA7ylqBTevQpc5ytIkaF6"
@@ -3375,7 +3509,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 221480,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
@@ -3433,6 +3567,24 @@
       "duration_ms": 168879,
       "name": "Simplemente",
       "url": "https://open.spotify.com/track/6XGj5jW59gjiGaRygj4dbn"
+    },
+    {
+      "album": {
+        "name": "Sin Tenerte Que Buscar",
+        "url": "https://open.spotify.com/album/1gPLTN5gy6Tn7xBfywzjsN"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Sin Tenerte Que Buscar",
+      "url": "https://open.spotify.com/track/2PGQAKkbZ3Op9rHghrfiLt"
     },
     {
       "album": {
@@ -3953,7 +4105,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 298647,
       "name": "Uh Uh Uh (Uh Uh)",
       "url": "https://open.spotify.com/track/6ty7CqVnRMYJPZ6jZ8tVd0"
@@ -4373,7 +4525,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 168541,
       "name": "\u00bfQu\u00e9 Dir\u00eda Tu Mam\u00e1?",
       "url": "https://open.spotify.com/track/09LvdCg0WK24zdq6ELQ0Ex"

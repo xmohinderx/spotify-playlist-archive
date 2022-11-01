@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 19891,
+  "num_followers": 19945,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGM0ZTZjNGVjNmMxOGFjMTZhZmQyMjA2MGU3Njg1Y2Qw",
+  "snapshot_id": "MTY2NTQ5OTc5MCwwMDAwMDAwMGVmYTEwNmIxNjMwZGY5YTFmOTgyYjA3YWM1Y2EyMDMw",
   "tracks": [
     {
       "added_at": "2022-10-11 14:49:50",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Harry James in Hi-Fi",
-        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
-      },
-      "artists": [
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "It's Been A Long, Long Time",
-      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Quiet Kenny",
         "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Harry James in Hi-Fi",
+        "url": "https://open.spotify.com/album/10CSPZT502I5RgbPtgweEp"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/1LLYCeMIhQgZKDP0nHh0hh"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "This Is Jazz #1",
         "url": "https://open.spotify.com/album/2xRcy7P8BrID3FSCWfD8nQ"
       },
@@ -307,58 +307,6 @@
       "duration_ms": 195440,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/2STqplYkSLD5ovON11dwcB"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Diane",
-        "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Paul Bley",
-          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
-        }
-      ],
-      "duration_ms": 436426,
-      "name": "If I should lose you",
-      "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Public Eye",
-        "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        },
-        {
-          "name": "Billy Higgins",
-          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
-        },
-        {
-          "name": "Antonio Hart",
-          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
-        },
-        {
-          "name": "Stephen Scott",
-          "url": "https://open.spotify.com/artist/06kLNOGaO1lOeaUAUnFByH"
-        },
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        }
-      ],
-      "duration_ms": 450666,
-      "name": "September in the Rain",
-      "url": "https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -395,18 +343,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
       },
       "artists": [
         {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Paul Bley",
+          "url": "https://open.spotify.com/artist/4HCwj3Nt6DTTmJCpHuQOeM"
         }
       ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+      "duration_ms": 436426,
+      "name": "If I should lose you",
+      "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -427,6 +379,74 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Public Eye",
+        "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Stephen Scott",
+          "url": "https://open.spotify.com/artist/06kLNOGaO1lOeaUAUnFByH"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "duration_ms": 450666,
+      "name": "September in the Rain",
+      "url": "https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
+        "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "Groovin' High",
         "url": "https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN"
       },
@@ -443,18 +463,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+        "name": "Relaxin' with Nick",
+        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 520173,
-      "name": "Blue room",
-      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
+      "duration_ms": 459186,
+      "name": "Relaxin' with Nick",
+      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -491,38 +511,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934",
-        "url": "https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm"
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Weather Bird",
-      "url": "https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Goin' Up",
-        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 419600,
-      "name": "Blues For Brenda - 1997 Remastered",
-      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
+      "duration_ms": 520173,
+      "name": "Blue room",
+      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -547,18 +547,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Relaxin' with Nick",
-        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
+        "name": "Goin' Up",
+        "url": "https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 459186,
-      "name": "Relaxin' with Nick",
-      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+      "duration_ms": 419600,
+      "name": "Blues For Brenda - 1997 Remastered",
+      "url": "https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
+        "name": "Bitches Brew",
+        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 1204066,
+      "name": "Pharaoh's Dance",
+      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
         "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
         "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Bitches Brew",
-        "url": "https://open.spotify.com/album/3Q0zkOZEOC855ErOOJ1AdO"
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
         }
       ],
-      "duration_ms": 1204066,
-      "name": "Pharaoh's Dance",
-      "url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX"
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -655,22 +671,6 @@
       "duration_ms": 352666,
       "name": "You Go To My Head",
       "url": "https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249013,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Buoyancy",
         "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 228346,
       "name": "Gilimanuk",
       "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Score",
+        "url": "https://open.spotify.com/album/7yVEbFI27UQkjfYPzUueo3"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        }
+      ],
+      "duration_ms": 249013,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/3J1nV9wNN9yPwU9Lqdu1bP"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Little Johnny C",
-        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Coles",
-          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Little Johnny C",
-      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "With The Swedish All Stars Vol. 1",
         "url": "https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv"
       },
@@ -1307,22 +1291,18 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "The Reason Why Vol. 3",
-        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+        "name": "Little Johnny C",
+        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
       },
       "artists": [
         {
-          "name": "Goran Kajfes",
-          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
-        },
-        {
-          "name": "Goran Kajfes Subtropic Arkestra",
-          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+          "name": "Johnny Coles",
+          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
         }
       ],
-      "duration_ms": 533573,
-      "name": "Trance Dance",
-      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
+      "duration_ms": 311000,
+      "name": "Little Johnny C",
+      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1339,6 +1319,26 @@
       "duration_ms": 337040,
       "name": "Gemini II",
       "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "The Reason Why Vol. 3",
+        "url": "https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4"
+      },
+      "artists": [
+        {
+          "name": "Goran Kajfes",
+          "url": "https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr"
+        },
+        {
+          "name": "Goran Kajfes Subtropic Arkestra",
+          "url": "https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7"
+        }
+      ],
+      "duration_ms": 533573,
+      "name": "Trance Dance",
+      "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Byrd's Eye View",
-        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 603293,
-      "name": "El Sino",
-      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "One Of Many",
         "url": "https://open.spotify.com/album/0owuv6WD9VYmzZX8LO6S6Q"
       },
@@ -1491,6 +1475,42 @@
       "duration_ms": 359746,
       "name": "Aneba",
       "url": "https://open.spotify.com/track/5v73G11Gg8wpv8tIeZJfbL"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Byrd's Eye View",
+        "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 603293,
+      "name": "El Sino",
+      "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Self Determination Music",
+        "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
+      },
+      "artists": [
+        {
+          "name": "John Carter",
+          "url": "https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT"
+        },
+        {
+          "name": "Bobby Bradford",
+          "url": "https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl"
+        }
+      ],
+      "duration_ms": 550213,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1559,26 +1579,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Self Determination Music",
-        "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
-      },
-      "artists": [
-        {
-          "name": "John Carter",
-          "url": "https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT"
-        },
-        {
-          "name": "Bobby Bradford",
-          "url": "https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl"
-        }
-      ],
-      "duration_ms": 550213,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-11 14:49:50",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 358760,
       "name": "Smatter",
       "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1699,22 +1699,6 @@
       "duration_ms": 422480,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2022-10-11 14:49:50",
-      "album": {
-        "name": "Into the Blue",
-        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 448386,
-      "name": "Let It Ride",
-      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
     },
     {
       "added_at": "2022-10-11 14:49:50",
@@ -1783,6 +1767,22 @@
       "duration_ms": 484000,
       "name": "Rahsan's Run",
       "url": "https://open.spotify.com/track/4LmV4eRie8x4dNP4k3aRG4"
+    },
+    {
+      "added_at": "2022-10-11 14:49:50",
+      "album": {
+        "name": "Into the Blue",
+        "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 448386,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
     },
     {
       "added_at": "2022-10-11 14:49:50",

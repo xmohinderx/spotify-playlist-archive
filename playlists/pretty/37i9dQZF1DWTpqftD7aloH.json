@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.",
-  "num_followers": 201703,
+  "num_followers": 201982,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTM4NywwMDAwMDAwMGNiYzViYjMzYzdiMWNmZDFkMTg4OTgxYzk5YmRlN2Ex",
+  "snapshot_id": "MTY2NjkzNTM4NywwMDAwMDAwMDA1YjM0Njk2M2EwM2ExYmE3ZjMwMWUyZWQxZGFhNTNi",
   "tracks": [
     {
       "added_at": "2022-10-28 05:36:26",
@@ -103,6 +103,22 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Preto no Branco (Ao Vivo)",
         "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+        "name": "10,000 Reasons (Live)",
+        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 293398,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+      "duration_ms": 342493,
+      "name": "10,000 Reasons (Bless The Lord) - Live",
+      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -399,22 +415,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "10,000 Reasons (Live)",
-        "url": "https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 342493,
-      "name": "10,000 Reasons (Bless The Lord) - Live",
-      "url": "https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Isaias Saad",
         "url": "https://open.spotify.com/album/2zhh6n9B7raoERBUOxINYc"
       },
@@ -427,22 +427,6 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 422333,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -463,6 +447,22 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 422333,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
         "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
       },
@@ -475,6 +475,22 @@
       "duration_ms": 297680,
       "name": "Grandes Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Way Maker - Single Version",
+      "url": "https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -515,38 +531,18 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/2qPWe6Pl4Xh6L58ooHfXDm"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Way Maker - Single Version",
-      "url": "https://open.spotify.com/track/0H4BGX7L8UfoD0g4wgXd0D"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "Esperan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 319866,
-      "name": "Esperan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -619,6 +615,26 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "Esperan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rwf0I8OhfjB41anIMABWO"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 319866,
+      "name": "Esperan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/78cNvkjEB5SwU3xz7QyWGc"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Samuel Messias (Ao Vivo)",
         "url": "https://open.spotify.com/album/6TtTqrCRMPuSOpVUDlNSeX"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
       },
       "artists": [
         {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 290763,
-      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
-      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -667,34 +683,18 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+        "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+        "url": "https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW"
       },
       "artists": [
         {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
         }
       ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
+      "duration_ms": 290763,
+      "name": "Ele N\u00e3o Desiste de Voc\u00ea",
+      "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "See A Victory",
         "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 363230,
       "name": "See A Victory",
       "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Ecoar",
-        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 276965,
-      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
-      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 311936,
       "name": "J\u00f3",
       "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 198140,
+      "name": "Known",
+      "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -959,26 +959,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Um Refr\u00e3o Pra Sua Alma",
-        "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 256023,
-      "name": "Um Refr\u00e3o Pra Sua Alma",
-      "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Raridade",
         "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
       },
@@ -995,18 +975,38 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+        "name": "Ecoar",
+        "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 198140,
-      "name": "Known",
-      "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+      "duration_ms": 276965,
+      "name": "Esp\u00edrito, Enche A Minha Vida / Ao \u00danico",
+      "url": "https://open.spotify.com/track/7pBc9SaG2iEqJTDnE9C9Rf"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Um Refr\u00e3o Pra Sua Alma",
+        "url": "https://open.spotify.com/album/4ZutxcTq9XmVHdKhGto4OI"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 256023,
+      "name": "Um Refr\u00e3o Pra Sua Alma",
+      "url": "https://open.spotify.com/track/4wQtpt8H34SIyIvz4FG5Mx"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Vai Passar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
       },
@@ -1195,34 +1195,6 @@
       "duration_ms": 285624,
       "name": "Vai Passar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1hFe34pro0Dt4a74njqOhB"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-        "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1259,6 +1231,34 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+        "url": "https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Que Amor \u00c9 Esse",
         "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
       },
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 288995,
-      "name": "Sou Humano",
-      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 278000,
       "name": "Uma Nova Histo\u0301ria - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2xyhQb4ybKZzd8AdtqDEcB"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 288995,
+      "name": "Sou Humano",
+      "url": "https://open.spotify.com/track/7HRyi2scNjqDmGDhwqj9Bp"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Nada Al\u00e9m da Gra\u00e7a",
-        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        }
-      ],
-      "duration_ms": 271209,
-      "name": "Deus \u00e9 Deus",
-      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 336716,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Nada Al\u00e9m da Gra\u00e7a",
+        "url": "https://open.spotify.com/album/26MpPUKXvsjaCPxwdPvOaV"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        }
+      ],
+      "duration_ms": 271209,
+      "name": "Deus \u00e9 Deus",
+      "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Esconderijo",
-        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
-      },
-      "artists": [
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
-        }
-      ],
-      "duration_ms": 296147,
-      "name": "Deus de Detalhes",
-      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 227369,
       "name": "Hino da Vit\u00f3ria",
       "url": "https://open.spotify.com/track/2MHtGSaW12T738131nTj0d"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Esconderijo",
+        "url": "https://open.spotify.com/album/3jMLnHksYKlHMOExcsx7dh"
+      },
+      "artists": [
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 296147,
+      "name": "Deus de Detalhes",
+      "url": "https://open.spotify.com/track/1fofBIhfx2AOJQFQpsdeeq"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 197046,
-      "name": "Sparrows",
-      "url": "https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 197046,
+      "name": "Sparrows",
+      "url": "https://open.spotify.com/track/6okuhsKrNfoxY4FdJpClgy"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Minha Vez",
-        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        }
-      ],
-      "duration_ms": 231637,
-      "name": "Minha Vez",
-      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -1615,6 +1595,26 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
+        "name": "Minha Vez",
+        "url": "https://open.spotify.com/album/4HmlhmVJO7Oam2I4LYzH9j"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "duration_ms": 231637,
+      "name": "Minha Vez",
+      "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
         "name": "Furioso Oceano",
         "url": "https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV"
       },
@@ -1627,22 +1627,6 @@
       "duration_ms": 392695,
       "name": "Furioso Oceano",
       "url": "https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 287533,
-      "name": "Battle Belongs",
-      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1679,6 +1663,22 @@
       "duration_ms": 735253,
       "name": "Em Teus Bra\u00e7os",
       "url": "https://open.spotify.com/track/0kH6BPFcm3yNBVry3SpwMQ"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "Battle Belongs",
+      "url": "https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT"
     },
     {
       "added_at": "2022-10-28 05:36:26",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-10-28 05:36:26",
       "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": "2022-10-28 05:36:26",
-      "album": {
         "name": "Sua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 568786,
       "name": "Broken Vessels (Amazing Grace) - Live",
       "url": "https://open.spotify.com/track/2BuhGnXpqMQ8BvOUZpmaVl"
+    },
+    {
+      "added_at": "2022-10-28 05:36:26",
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

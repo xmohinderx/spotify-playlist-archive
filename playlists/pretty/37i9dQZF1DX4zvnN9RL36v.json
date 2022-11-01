@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 3097,
+  "num_followers": 3106,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMDI0MGFmNmM5ZWM1NTM1MmU0N2QzOGNiZmUwN2ZmOTU5",
+  "snapshot_id": "MTY2MDgzMjczMiwwMDAwMDAwMGY3OTIzOWU2ZmYwYjVkZjg4ZjYyYTEzMDJjZTFjZmFi",
   "tracks": [
     {
       "added_at": "2022-08-18 14:25:32",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "Modern Times",
+        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 246151,
+      "name": "(Bonus Track) Voice Mail (Korean Version)",
+      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 262562,
       "name": "\ub098\uc600\uc73c\uba74",
       "url": "https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "Modern Times",
-        "url": "https://open.spotify.com/album/2QcuXvQBWv1ZKyQtEhLbFe"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 246151,
-      "name": "(Bonus Track) Voice Mail (Korean Version)",
-      "url": "https://open.spotify.com/track/0MMUVb6JJzOtMyTx9qrAjy"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -379,22 +379,6 @@
       "duration_ms": 189905,
       "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
       "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "\uad6c\uc560 Propose",
-        "url": "https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 213222,
-      "name": "\uad6c\uc560 Propose",
-      "url": "https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -519,6 +503,22 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 315506,
       "name": "\ub3d9\uacbd",
       "url": "https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -619,22 +603,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "RE:PLAYLIST Vol.3",
-        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 264921,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t"
       },
@@ -647,6 +615,22 @@
       "duration_ms": 249438,
       "name": "Her",
       "url": "https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "RE:PLAYLIST Vol.3",
+        "url": "https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 264921,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92"
     },
     {
       "added_at": "2022-08-18 14:25:32",
@@ -799,22 +783,6 @@
     {
       "added_at": "2022-08-18 14:25:32",
       "album": {
-        "name": "Night Reminiscin\u2019",
-        "url": "https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq"
-      },
-      "artists": [
-        {
-          "name": "LUNA",
-          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
-        }
-      ],
-      "duration_ms": 276227,
-      "name": "\uc6d0\ud558\uae30 \uc804\uc5d0 Falling Out",
-      "url": "https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2"
-    },
-    {
-      "added_at": "2022-08-18 14:25:32",
-      "album": {
         "name": "Seoul Vibes, Pt. 6",
         "url": "https://open.spotify.com/album/0aQUxppY2FjNgIGJQm8ote"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 203339,
       "name": "Eul (feat. Gyeong Je Hwan)",
       "url": "https://open.spotify.com/track/7d3e2N9vHD1nJc50Q0HAmf"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Night Reminiscin\u2019",
+        "url": "https://open.spotify.com/album/6CWt70vxTuufx0Qi0wlntq"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
+        }
+      ],
+      "duration_ms": 276227,
+      "name": "\uc6d0\ud558\uae30 \uc804\uc5d0 Falling Out",
+      "url": "https://open.spotify.com/track/4TrPfqO7rtWl3YxXUnCYL2"
+    },
+    {
+      "added_at": "2022-08-18 14:25:32",
+      "album": {
+        "name": "Knot",
+        "url": "https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6"
+      },
+      "artists": [
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "duration_ms": 202434,
+      "name": "Knot",
+      "url": "https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh"
     }
   ],
   "unique_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",

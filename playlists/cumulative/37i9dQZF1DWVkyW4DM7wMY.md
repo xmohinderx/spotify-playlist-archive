@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-136 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
+137 songs - 7 hr 15 min - [published](https://open.spotify.com/playlist/7E600XZpcoQhs1c0y9uDr3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Sazile](https://open.spotify.com/track/4E9AzfzEfjhqI3vtnDrkwF) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Sazile E.P](https://open.spotify.com/album/2Us9YzdmPlicMa1XkMa0IJ) | 3:38 | 2021-10-15 | 2022-03-11 |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-11-11 |  |
 | [She Took the Keys](https://open.spotify.com/track/5aammiVXwDxl3tpBfKPmQ9) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [She Took the Keys](https://open.spotify.com/album/4BranpbaQjjOGmHsN3OfgW) | 4:57 | 2021-11-11 | 2022-02-05 |
-| [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 | 2022-08-25 |  |
+| [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 | 2022-08-25 | 2022-11-01 |
+| [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 | 2022-08-25 |  |
 | [Solo](https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb) | [Kash Kaaria](https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Strings Attached](https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq) | 3:07 | 2021-11-25 |  |
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2021-10-15 |  |
 | [Sugar My](https://open.spotify.com/track/1rkxLO2NKJbQPHJwm6GrRm) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR) | [Sugar My](https://open.spotify.com/album/1d8R1bjpHCMEAK3FH9pGEf) | 3:06 | 2022-03-31 |  |

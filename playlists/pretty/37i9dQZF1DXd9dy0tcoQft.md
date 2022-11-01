@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,464 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,468 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 8 | [Talk It Out](https://open.spotify.com/track/6Ug0JMAhAVvytcnwBEMb5Z) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/2uPJPiD4i7nMZ91R3AvgQ5) | 3:10 |
 | 9 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 10 | [raw](https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 3:06 |
-| 11 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 |
-| 12 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
-| 13 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 11 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
+| 12 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
+| 13 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 |
 | 14 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
 | 15 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 |
 | 16 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 |
@@ -40,20 +40,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 30 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
 | 31 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
 | 32 | [BRB](https://open.spotify.com/track/1KN2z32nlbkmh0I8XXlNWD) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:30 |
-| 33 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 |
-| 34 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 |
-| 35 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
+| 33 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
+| 34 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 |
+| 35 | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/track/177Gk50xMUz4QMiEXLARFP) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [If You Want Me To Stay \(with Anthony Ramos\)](https://open.spotify.com/album/1LVNteRODRZanmsjy2cXYO) | 3:07 |
 | 36 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 |
 | 37 | [It Ain't Easy](https://open.spotify.com/track/0sWfdO70PRIzqpX2swtFNy) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Tascam Tapes](https://open.spotify.com/album/43LoWypu3rYrv2TuJmxxaT) | 3:24 |
 | 38 | [Love Language](https://open.spotify.com/track/6N3N0dbTQQM9rfJFLBswlp) | [Chandler Juliet](https://open.spotify.com/artist/4Lz09Oo9KaM0RsS1m7Et89) | [Love Language](https://open.spotify.com/album/6jZ92l2HWH2fS6fsidsSN0) | 3:25 |
 | 39 | [Miracles](https://open.spotify.com/track/10g4esqFA2aVAWAYc0XQ5Z) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 4:51 |
 | 40 | [Flesh and Blood](https://open.spotify.com/track/6lZ4wuGYV4S1qgeiqgsxCo) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:58 |
 | 41 | [Be Bad](https://open.spotify.com/track/0aWLSxNvttlmRayiJMXZy1) | [Sofie Winterson](https://open.spotify.com/artist/5pKrorYHoVt088MOxEhNLg) | [Moral](https://open.spotify.com/album/2L2ncr9AyJlL3hE6TWenlb) | 2:34 |
-| 42 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
-| 43 | [Enough](https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 2:56 |
+| 42 | [Enough](https://open.spotify.com/track/0hB3Ht06fhqwX8YHKk6Jrp) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 2:56 |
+| 43 | [Crazy Good](https://open.spotify.com/track/6IpcrQBDNQqDzt0mFiGc7J) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL), [Roxanne](https://open.spotify.com/artist/5mGFb7wCIvqKWya2ePJQ7c) | [Crazy Good](https://open.spotify.com/album/4NsjoSNnHOpS1EKy3KYJX3) | 3:51 |
 | 44 | [Be My Muse \- Gold Edit](https://open.spotify.com/track/4XXDiBwLlGnNZYzWfsSh4i) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [ICARUS](https://open.spotify.com/album/4yxCgggQz3WMhbDJnfq77p) | 3:18 |
-| 45 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
-| 46 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
+| 45 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
+| 46 | [April Showers](https://open.spotify.com/track/1YnlOIZAPG36FVoh8dIZQZ) | [Aïrto](https://open.spotify.com/artist/7v9nYk36K4skneq3CiKHDV) | [April Showers](https://open.spotify.com/album/2H6l9K78aQq25oCLUB0m9t) | 2:55 |
 | 47 | [Mad World](https://open.spotify.com/track/6OUXAJOrEgIEnmlN5kH72F) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Origin \(Deluxe Edition\)](https://open.spotify.com/album/6vlatUhYlcoUkMfNIvmtLE) | 3:15 |
 | 48 | [Good People](https://open.spotify.com/track/7j95Sbh2IwxyCn512XSUue) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good People](https://open.spotify.com/album/1bv8ZKWesoZtYkz4liyRyJ) | 3:31 |
 | 49 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
 | 65 | [Something I Know](https://open.spotify.com/track/5fCBLcbEvNe0xqcKCELqQD) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Something I Know](https://open.spotify.com/album/6uJBHL6aNY5pL79iwb0PCF) | 3:48 |
 
-Snapshot ID: `MTY2MzA4NjAxNiwwMDAwMDAwMDhkZDc0ZmIxMDIxNWZmYzVhYTRhMzcwZTVjMjlkYzIy`
+Snapshot ID: `MTY2MzA4NjAxNiwwMDAwMDAwMDljNDRjMDgyNWQ5YWE3YmRhODM5MDYwNDc3YTk5NGI2`

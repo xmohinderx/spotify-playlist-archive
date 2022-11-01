@@ -1,12 +1,12 @@
 {
   "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Alicia Keys",
-  "num_followers": 4094520,
+  "num_followers": 4095596,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDlkMmM2MjVhMjlmYWQ3ZmU1M2UwZTA2ZTUxMWI2YTZh",
+  "snapshot_id": "MTY2MzMwMDgwMCwwMDAwMDAwMDYzYzc1MjM0NTM5YWU2NmQ4ODU3M2JkMzc1Njg2ODhk",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Exclusive (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "Kiss Kiss (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
       },
@@ -331,22 +311,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Aaliyah",
         "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
       },
@@ -359,6 +323,22 @@
       "duration_ms": 274733,
       "name": "Rock The Boat",
       "url": "https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 288533,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -379,22 +359,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 288533,
-      "name": "Heaven Can Wait",
-      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Chapter II",
         "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
       },
@@ -409,10 +373,30 @@
       "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
-      "added_at": "2022-08-22 09:03:37",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Kiss Kiss (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/3wKKkGVn7cVSfgPeYYIiXG"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -499,22 +483,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Confessions Part II",
-      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Unappreciated",
         "url": "https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn"
       },
@@ -573,20 +541,20 @@
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-22 09:03:37",
       "album": {
-        "name": "Disturbing Tha Peace Presents Bobby Valentino",
-        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 258666,
-      "name": "Slow Down - 12\" Version",
-      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
+      "duration_ms": 231933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/7z3N2W7Xz1t2G2sAO8wFVH"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -607,6 +575,22 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Disturbing Tha Peace Presents Bobby Valentino",
+        "url": "https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn"
+      },
+      "artists": [
+        {
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+        }
+      ],
+      "duration_ms": 258666,
+      "name": "Slow Down - 12\" Version",
+      "url": "https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P"
     },
     {
       "added_at": "2022-08-21 19:36:42",
@@ -643,22 +627,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Confessions (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -691,18 +659,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Love Vs Money",
-        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
       "artists": [
         {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 221920,
-      "name": "Rockin' That Shit",
-      "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
+      "duration_ms": 211200,
+      "name": "Confessions Part II",
+      "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -723,6 +691,22 @@
       "duration_ms": 289746,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Love Vs Money",
+        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "duration_ms": 221920,
+      "name": "Rockin' That Shit",
+      "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 237733,
       "name": "Grind With Me",
       "url": "https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "Say Aah (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 325573,
       "name": "Soldier (feat. T.I. & Lil' Wayne)",
       "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Ready (Deluxe)",
-        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "Say Aah (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
-    },
-    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Jennifer Hudson",
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 265706,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 159293,
       "name": "Why Don't We Fall in Love",
       "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1467,22 +1467,18 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ms. Kelly",
-        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Like This (feat. Eve)",
-      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+      "duration_ms": 264933,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1503,6 +1499,26 @@
       "duration_ms": 282533,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1559,22 +1575,6 @@
       "duration_ms": 213226,
       "name": "Don't Mess With My Man (feat. Brian Casey & Brandon Casey)",
       "url": "https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "It's Over Now",
-      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Emotional",
-        "url": "https://open.spotify.com/album/5fjNNSyiwXoOQMCW4dLjJ2"
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG"
       },
       "artists": [
         {
-          "name": "Carl Thomas",
-          "url": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+          "name": "Avant",
+          "url": "https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A"
         }
       ],
-      "duration_ms": 226760,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3lqT89gv8p3PYwXtr3ODjv"
+      "duration_ms": 271386,
+      "name": "Makin' Good Love",
+      "url": "https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1"
     }
   ],
   "unique_name": "I Love My '00s R&B",

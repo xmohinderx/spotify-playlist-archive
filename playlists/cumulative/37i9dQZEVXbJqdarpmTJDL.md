@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-910 songs - 2 day 1 hr 15 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
+911 songs - 2 day 1 hr 17 min - [published](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Flow Neoyorkezou](https://open.spotify.com/track/6KOTodHeWVb858KPHrX7dP) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe), [Hrwas](https://open.spotify.com/artist/3Twks7X3LY2Dzjv8s3f49l) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 3:42 | 2021-04-04 | 2021-04-05 |
 | [Fly Before I Die](https://open.spotify.com/track/308mx4tQwpFmEklHXkQOxf) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Sickside](https://open.spotify.com/artist/2XURl3PiYtmMgwhOcVuhoU) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 3:42 | 2021-07-15 | 2021-07-16 |
 | [Folies](https://open.spotify.com/track/6cFasAy5JwTHeX3d3bvdnq) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Zoro&Buzz](https://open.spotify.com/artist/1lqh5puCZTMsGJalV8Rjbe) | [Leoforos Kavalas](https://open.spotify.com/album/2CCVbJTChTnS4B1oJpQ75X) | 4:48 | 2021-04-04 | 2021-04-05 |
+| [For The Night](https://open.spotify.com/track/4JYNcBv8ZsHZfNKbYAnmMM) | [Dylan Toole](https://open.spotify.com/artist/31ksLEEAScbiQ1yy2qgfjC), [Devan Childs](https://open.spotify.com/artist/4AzMeW9bGSLEbRMEx1NERV) | [For The Night](https://open.spotify.com/album/6TLSVOMEV2LZ4TdZh6lHB7) | 2:28 | 2022-10-31 |  |
 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 | 2021-05-29 | 2021-05-30 |
 | [Forema](https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [Forema](https://open.spotify.com/album/7L0CPtSxiCvErPmV2O0VcA) | 2:50 | 2022-10-06 |  |
 | [Fotiá \- Evangelia x Eleni Foureira](https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Fotiá \(Evangelia x Eleni Foureira\)](https://open.spotify.com/album/4jDchGBgtx772BlfW931iP) | 2:54 | 2021-12-05 | 2022-04-09 |
@@ -384,7 +385,7 @@
 | [Interpol](https://open.spotify.com/track/1r8FtFFRvksF4iCjb52SsY) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Still Active](https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe) | 3:20 | 2021-03-27\* | 2021-04-09 |
 | [Interrail](https://open.spotify.com/track/03u4CH8SP4davgdbacEL6W) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Electabaz](https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 3:53 | 2022-04-27 | 2022-04-30 |
 | [Intro](https://open.spotify.com/track/5NkREaWsEC6OKuCsUZmNFC) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Dof Twogee](https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX) | [Interrail](https://open.spotify.com/album/0wDaGND7KC1IG5vUzuLj34) | 2:28 | 2022-04-27 | 2022-04-29 |
-| [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 |  |
+| [Intro \(Apo Tous Yponomous\)](https://open.spotify.com/track/60YhDtk1pz5MI3boHGMN37) | [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1), [Solid](https://open.spotify.com/artist/46L0pH2TWTjzpnWeYhOfZn) | [Metro](https://open.spotify.com/album/3IBdv0FmmbtLJh7BMOehTa) | 3:04 | 2022-05-13 | 2022-11-01 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-17 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-12-25 | 2021-12-27 |
 | [It's Love](https://open.spotify.com/track/6bOAwlJ6V8oWqGOXeairhN) | [Solven](https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd) | [It's Love](https://open.spotify.com/album/61fjiw7XzE91ldIpdf3iCz) | 2:51 | 2022-04-11 | 2022-04-16 |

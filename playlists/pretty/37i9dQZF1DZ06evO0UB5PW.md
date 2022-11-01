@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,020 likes - 46 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,042 likes - 46 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 30 | [Crystal Skull](https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:24 |
 | 31 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 |
 | 32 | [Roots Remain](https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 6:28 |
-| 33 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
+| 33 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
 | 34 | [Sleeping Giant](https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:36 |
 | 35 | [The Czar: Usurper / Escape / Martyr / Spiral](https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 10:54 |
-| 36 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 |
+| 36 | [Blue Walsh](https://open.spotify.com/track/60DY0OKJPAtAbXZydBxtXz) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:12 |
 | 37 | [Orion](https://open.spotify.com/track/1tvr1RopO3KsVQwP8etKA5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 8:15 |
 | 38 | [This Mortal Soil](https://open.spotify.com/track/2dqT4WPOLNm9wIRFOAMTLl) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:00 |
 | 39 | [Ghost of Karelia](https://open.spotify.com/track/2VzyWKHUmuxUq7J7I8wbng) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:24 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 42 | [Capillarian Crest](https://open.spotify.com/track/4GZ3qSMYlQODUdxAzM1S1E) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:25 |
 | 43 | [The Last Baron](https://open.spotify.com/track/6MUc3qu8WOqO7hAY6gdhJY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 13:00 |
 | 44 | [Fallen Torches](https://open.spotify.com/track/55PBokVAiehQnFfapP54PK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Medium Rarities](https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW) | 4:22 |
-| 45 | [Forged By Neron](https://open.spotify.com/track/0FwJA4tBsAmfWo1QlnX033) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Forged By Neron](https://open.spotify.com/album/4jdNvSi7ujZEW8KQ3gk1iD) | 3:05 |
-| 46 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 |
+| 45 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 |
+| 46 | [Forged By Neron](https://open.spotify.com/track/0FwJA4tBsAmfWo1QlnX033) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Forged By Neron](https://open.spotify.com/album/4jdNvSi7ujZEW8KQ3gk1iD) | 3:05 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA5NTMxNWZiZjkxZDk0MWUwMTYxMWVlYmMxZjdhNjBjOA==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDBhZGYxNDEwM2Q3MGVmNzI1NDNkYjk4MzgxMzVlZmE2Yg==`

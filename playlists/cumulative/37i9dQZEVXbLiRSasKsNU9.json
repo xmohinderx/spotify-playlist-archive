@@ -5063,7 +5063,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 148800,
       "name": "Eu Gosto Assim - Ao Vivo",
       "url": "https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF"
@@ -5161,7 +5161,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
@@ -8110,6 +8110,28 @@
     },
     {
       "album": {
+        "name": "Just Dance (TikTok Edit)",
+        "url": "https://open.spotify.com/album/6yV9EQHImA16NvS0ZhvRYZ"
+      },
+      "artists": [
+        {
+          "name": "EDITKINGS",
+          "url": "https://open.spotify.com/artist/1xyF70wWUIIdwczzNKkxjI"
+        },
+        {
+          "name": "Verdun Remix",
+          "url": "https://open.spotify.com/artist/3zrJz4p4LwQEpV5Yr8A4cH"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "Just Dance (TikTok Edit) - Remix",
+      "url": "https://open.spotify.com/track/7uDpnlxtGBylpKhQR6nVqU"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ"
       },
@@ -9287,6 +9309,28 @@
       "duration_ms": 182923,
       "name": "low down",
       "url": "https://open.spotify.com/track/6OlK1W3yH6V3pr6e81hI0u"
+    },
+    {
+      "album": {
+        "name": "Festa do Lula, Vol. 1",
+        "url": "https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o"
+      },
+      "artists": [
+        {
+          "name": "Festa do Lula",
+          "url": "https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG"
+        },
+        {
+          "name": "DJ F\u00e1bio ACM",
+          "url": "https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106444,
+      "name": "Lula L\u00e1 no Funk (O Pai T\u00e1 On)",
+      "url": "https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 
 > Cutting edge LGBTQQIA+ artists from around the world\. Cover: Nakhane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,446 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,450 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 16 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 |
 | 17 | [Follow Me](https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Follow Me](https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav) | 2:57 |
 | 18 | [פעמון](https://open.spotify.com/track/4DgyTAwiSJsT5u5EljsImB) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פעמון](https://open.spotify.com/album/5wQZzk2q5CM90DIvSB7LRH) | 3:00 |
-| 19 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
-| 20 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 19 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
+| 20 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 21 | [Çok mu Zor](https://open.spotify.com/track/5trRi7dPMYRt68sdloyKje) | [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac) | [Ağlak Disko](https://open.spotify.com/album/0yMRl9oWadY80yLjN6UwK8) | 3:54 |
 | 22 | [Cicada \(feat\. Arca\)](https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:53 |
 | 23 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 |
 | 24 | [Niets Tussen](https://open.spotify.com/track/0keQSnGOvLLWZtbVS6kKyY) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Uitzinnig](https://open.spotify.com/album/1uAimajt3zW6EGLIE83jnc) | 2:59 |
 | 25 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 |
-| 26 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
-| 27 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 |
+| 26 | [Fire Hell and Holy Water](https://open.spotify.com/track/4SYimShElVVtc8kJugUqRk) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Fire Hell and Holy Water](https://open.spotify.com/album/0ACpKT6fUe797PKXB0ywbe) | 3:28 |
+| 27 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 |
 | 28 | [Je ne sais quoi](https://open.spotify.com/track/789gHumetKnbAJhFMBjMWj) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND, PT\. 1](https://open.spotify.com/album/5ELO3riWbb2MbJyZYilN7D) | 2:18 |
 | 29 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 |
 | 30 | [Amor Libre](https://open.spotify.com/track/52xzRsYHAGrKYuWte06LuM) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:11 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 68 | [Jóia da Rotina](https://open.spotify.com/track/0RSoneV5ikvQZGLBkl2Iee) | [Filipe Sambado](https://open.spotify.com/artist/4DBnj3zFrGcRiFME23yT0q) | [Revezo](https://open.spotify.com/album/0UHlZADJ94J9X41r3vk8yC) | 3:39 |
 | 69 | [bad grades](https://open.spotify.com/track/79XMsrWtKj2bDCZQ8aYgDq) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [waiting room](https://open.spotify.com/album/7sXwDGZWiZwA7jkR6Y0HhR) | 3:26 |
 | 70 | [indirecta](https://open.spotify.com/track/3vpnqExDOGllL7YETxbffG) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [llorar y perrear](https://open.spotify.com/album/65NoZ2j5Lp8gmc1BS6iJY9) | 2:49 |
-| 71 | [Monster](https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4) | [Julia Alfrida](https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd) | [Monster](https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79) | 2:53 |
-| 72 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 |
+| 71 | [Interloper](https://open.spotify.com/track/5QFSiFgPpXBfdqT4jDpulB) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [You Will Not Die \(Deluxe Version\)](https://open.spotify.com/album/1jXzmeQ3KIYNvk9jureftg) | 4:09 |
+| 72 | [Monster](https://open.spotify.com/track/7KRJHqHvQmbLgeM9n2Y2m4) | [Julia Alfrida](https://open.spotify.com/artist/4GcW03232y77FiMhneVmKd) | [Monster](https://open.spotify.com/album/4iaPPEoGvmlZAYQNa6Sw79) | 2:53 |
 | 73 | [Muévelo](https://open.spotify.com/track/4kdFcU4x4XP1ASmTlEOh1c) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Muévelo](https://open.spotify.com/album/2jIsFPTbrgSenWx8irjJea) | 2:44 |
 | 74 | [騷](https://open.spotify.com/track/34DwldJDRq2Qi3aQatDTWZ) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [騷](https://open.spotify.com/album/4MRHE6v3nBWgTRMYV1WNbE) | 4:14 |
 | 75 | [You're \(Still\) in Love](https://open.spotify.com/track/4vUoc2Ci14g4HfiBwi4MoA) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [You're \(Still\) in Love](https://open.spotify.com/album/0i6G10wAzjmdT2b0UaG3Dt) | 4:20 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 80 | [Hasta Que Me Quieras](https://open.spotify.com/track/0wI4vrJkIMDBcmYHiGWKt5) | [Tayhana](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Cenizas Quedaban](https://open.spotify.com/album/5oBu9wifcYcFlOOoNif6lY) | 5:32 |
 | 81 | [這晚更壞](https://open.spotify.com/track/11fMLk7ru6mnuMofTf9f4L) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [這晚更壞](https://open.spotify.com/album/5tqLPLqNgumAMFmD1pZo1X) | 3:01 |
 | 82 | [Don't Sleep With My Ex](https://open.spotify.com/track/4XsiUNF37jG3h9JXuILJO3) | [Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Ugh!](https://open.spotify.com/album/6Gqz4oULt6kpw2wXnvkZd1) | 2:50 |
-| 83 | [Bak](https://open.spotify.com/track/7N2gCnTpozX6lgCWI298uZ) | [Kerem](https://open.spotify.com/artist/1gMjD6ABGUJCth7z7VB8Ix) | [Bak](https://open.spotify.com/album/613rgXdBZLdTvjc7T7hhuU) | 2:52 |
-| 84 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
+| 83 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
+| 84 | [Bak](https://open.spotify.com/track/7N2gCnTpozX6lgCWI298uZ) | [Kerem](https://open.spotify.com/artist/1gMjD6ABGUJCth7z7VB8Ix) | [Bak](https://open.spotify.com/album/613rgXdBZLdTvjc7T7hhuU) | 2:52 |
 | 85 | [si estuviésemos juntos](https://open.spotify.com/track/3fnZZvv0sNrr0AFB4qg1wI) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [EL ETERNO RETORNO](https://open.spotify.com/album/6vBjLUk61sV9Qy27RwVOHj) | 3:50 |
 | 86 | [slipping](https://open.spotify.com/track/2SJL5stXLTLVd9dNeHhJP4) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [slipping](https://open.spotify.com/album/2em3qyO88TFY3Aouhr2UQ7) | 3:22 |
 | 87 | [Fatbulous](https://open.spotify.com/track/41Pl90RIquJRbHOlgRsKj2) | [Dornika](https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv) | [Fatbulous](https://open.spotify.com/album/1ZulCdKnccUwlwhbKsG8Be) | 2:51 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gUQYmrehre.md) - [plain]
 | 89 | [I Will Be Better Than You At Letting Go](https://open.spotify.com/track/3HKyeSauyYdo1q8hAMz9dA) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [You!](https://open.spotify.com/album/6u7QZYyppacDEeQvZnxRK1) | 2:46 |
 | 90 | [Focus](https://open.spotify.com/track/4hCY5ReoEweZ4dPuDpT0C4) | [Edsun](https://open.spotify.com/artist/6iOIP1dI1UKknczPpwMcRk) | [Focus](https://open.spotify.com/album/5cw3mf2ErmCJ1M3HnOlrzd) | 3:19 |
 
-Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMDlmZmI5ODY2NmMzMWU5MTBlNjk3MGI0Njk3MDYzZDE5`
+Snapshot ID: `MTY1ODI0MTk2NSwwMDAwMDAwMGY0MzJlOWRhMjBkZGM1ZDA2MTE2NGIyZmY3NzM5MGI4`

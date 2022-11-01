@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Marion Raw.
 
-214 songs - 12 hr 47 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
+215 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/4nx9yZMqI7oakdZVpxNxIt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Los Feos](https://open.spotify.com/track/4DgOcih1B9yRWL9TTch9VP) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Los Feos](https://open.spotify.com/album/3kl59PWs2mfpfXmXwhfFxr) | 4:44 | 2022-01-20 | 2022-07-29 |
 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 | 2022-01-20 |  |
 | [Madera Metal](https://open.spotify.com/track/04HNLMkC9Sf8bx7xz4GmYI) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Madera Metal](https://open.spotify.com/album/5EmOEf2nQKQSOmEXBOySLS) | 4:16 | 2022-01-20 | 2022-07-29 |
-| [Madera Metal](https://open.spotify.com/track/6WeLCsoNpcUdW1NlRsyju2) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Madera Metal](https://open.spotify.com/album/3apuSNKtLTeTYPpAHrUnZ5) | 4:16 | 2022-10-14 |  |
+| [Madera Metal](https://open.spotify.com/track/6WeLCsoNpcUdW1NlRsyju2) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Madera Metal](https://open.spotify.com/album/3apuSNKtLTeTYPpAHrUnZ5) | 4:16 | 2022-10-14 | 2022-11-01 |
 | [Mama, Deja Que Entren por la Ventana los Siete Mares \- Remasterizado](https://open.spotify.com/track/3i3DPWZVCywz2gy8ZwDGAQ) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF) | [Mama, Deja Que Entren por la Ventana los Siete Mares \(Remasterizado\)](https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7) | 4:02 | 2022-01-20 | 2022-07-29 |
 | [MANIQUÍ](https://open.spotify.com/track/51kIOy4U7wxwhV8Ys697zH) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Buenas Noches Terrícolas](https://open.spotify.com/album/2JMMzWW3FcrPSEseYLhEuD) | 4:07 | 2022-10-07 |  |
 | [Marcando el Compás \- En Vivo](https://open.spotify.com/track/6PkbzQLraURi34mbDTCuHO) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Marcando el Compás \(En Vivo\)](https://open.spotify.com/album/2KpgkNZfdYZiV9lbzo0te2) | 3:56 | 2022-01-20 | 2022-07-29 |
@@ -137,6 +137,7 @@
 | [Nada, Nadie](https://open.spotify.com/track/4taTus1eRIUOsaHIuBw4ou) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Selva](https://open.spotify.com/album/1To1DSTma4qgQmnNEjzQSd) | 3:17 | 2022-01-20 | 2022-10-18 |
 | [Ni Una Más](https://open.spotify.com/track/4WvhYvgVKgtLG7TFsJO0KI) | [DaJuana Band](https://open.spotify.com/artist/3tyMOwvxb3oAZn6QsXx5Nm) | [Ni Una Más](https://open.spotify.com/album/4EzZTsc7MkOjbwpIfGZuzK) | 4:41 | 2022-01-20 | 2022-08-31 |
 | [No Hay Santos](https://open.spotify.com/track/3cxNVuq0RAy0zymBZ8u4FG) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [No Hay Santos](https://open.spotify.com/album/0XajlMSVe4RQCjuRr5eYas) | 2:44 | 2022-01-20 | 2022-07-29 |
+| [No Huyas De Mi](https://open.spotify.com/track/1aVApBTl7XTYLSatF7pHsz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Música Que Salva Rock Vol\. 5](https://open.spotify.com/album/49GWg9SuFNmV6Ni3J6pgLH) | 3:47 | 2022-10-14 |  |
 | [No Huyas De Mi](https://open.spotify.com/track/3MYGzRPoLWZGu939zvB9Po) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rock en Español 80's & 90's](https://open.spotify.com/album/4DkxlFoBgGH9EPp1bG6MKh) | 3:47 | 2022-07-15 | 2022-10-31 |
 | [No Huyas De Mi](https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rolotas Veraniegas Vol\. 4](https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf) | 3:47 | 2022-07-15 | 2022-08-22 |
 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 | 2022-01-20 | 2022-07-28 |

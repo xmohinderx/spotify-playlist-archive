@@ -852,6 +852,28 @@
     },
     {
       "album": {
+        "name": "SNOFALL",
+        "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136374,
+      "name": "I Ain't Gone Hold Ya",
+      "url": "https://open.spotify.com/track/4MSPFX1ofy7dyojuEmTn8X"
+    },
+    {
+      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-824 songs - 1 day 19 hr 21 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
+825 songs - 1 day 19 hr 23 min - [published](https://open.spotify.com/playlist/3tVGcb57UPJLnfj2OSCurw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Remote Control](https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:18 | 2021-08-31 | 2021-09-04 |
 | [Rich \- Interlude](https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 1:43 | 2022-05-14 | 2022-05-16 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-27 |
+| [RID MIG SOM EN DALAHÄST](https://open.spotify.com/track/74xfr2lyWfi2qZjWtqovBg) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [JAG VILL HA DIG HÄR HOS MIG](https://open.spotify.com/album/27PgcVTjOkYNS3Y48VtyeA) | 2:01 | 2022-10-31 |  |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-03-27\* | 2021-05-18 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-28 | 2021-12-29 |
 | [Rolling in the Deep](https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H) | 3:48 | 2021-10-19 | 2021-10-31 |
@@ -742,7 +743,7 @@
 | [TADA](https://open.spotify.com/track/0bpZr2GJ1wTYN9RL7gjuUX) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [TADA](https://open.spotify.com/album/3DPkAAWAHGsfHzXLjXIbjm) | 3:10 | 2021-08-08 | 2021-08-17 |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-10-19 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-08 | 2021-08-18 |
-| [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 | 2022-03-05 |  |
+| [TANTE](https://open.spotify.com/track/56oWBEoaWwiyaPLe0PqB0k) | [Kevin Lauren](https://open.spotify.com/artist/0MVtdQmPsEozKSPjeLUyn1), [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [TANTE](https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU) | 2:13 | 2022-03-05 | 2022-11-01 |
 | [Tell her yourself](https://open.spotify.com/track/6LU43aaDl4WXn1qKqi5Y62) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Tell her yourself](https://open.spotify.com/album/1Vp31AJXouGR3ZWsHDXxMr) | 3:53 | 2021-09-05 | 2021-09-06 |
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2021-10-31 | 2021-10-31 |
 | [Tenerife Tapes](https://open.spotify.com/track/1w0rQ13DQRjFLG3Y06skMK) | [Rike Venner](https://open.spotify.com/artist/7r0CzlT427mU4iMq7i4Yz6) | [Tenerife Tapes](https://open.spotify.com/album/6XIPoInykmgMCLmZNJolyh) | 1:37 | 2022-09-02 | 2022-09-11 |

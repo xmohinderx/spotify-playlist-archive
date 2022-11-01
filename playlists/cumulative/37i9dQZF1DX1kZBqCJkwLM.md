@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-172 songs - 9 hr 4 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+173 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All The Noise](https://open.spotify.com/track/6azay3H49DoX9pXZ97e4kb) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [All The Noise](https://open.spotify.com/album/7LH23X0LiOonUK9TuLbKUN) | 3:37 | 2021-12-03 | 2022-07-29 |
 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 | 2021-12-03 |  |
 | [alone < /3](https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r) | [Crinkle Cut](https://open.spotify.com/artist/2UCFiIIvMdaT4UqRxJVHWk) | [alone < /3](https://open.spotify.com/album/3LpPVjsnxjU1OjQr5AETxc) | 3:01 | 2021-12-03 | 2022-07-28 |
-| [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 | 2021-12-03 |  |
+| [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 | 2021-12-03 | 2022-11-01 |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-12-03 |  |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2021-12-03 |  |
 | [Black Hole](https://open.spotify.com/track/0hZerqDIkaub67oHqFWjk8) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole \(Dan D’Lion Remix\)](https://open.spotify.com/album/30IVvHqLBq3tVycrSMTXlu) | 3:20 | 2021-12-03 | 2022-07-29 |
@@ -51,14 +51,15 @@
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-12-03 | 2022-07-29 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-12-03 | 2022-07-28 |
 | [Do Do Do](https://open.spotify.com/track/3YwRKGjwuE2vjd6SRxUgqi) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Do Do Do](https://open.spotify.com/album/1mzhBqG1GEnitZzIYlbUxC) | 2:51 | 2021-12-03 | 2022-07-29 |
-| [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 |  |
+| [Do Over](https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Do Over](https://open.spotify.com/album/5BuOTw8w1ZefJ8j3qaQsgU) | 2:57 | 2022-04-15 | 2022-11-01 |
 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 | 2022-07-15 |  |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-12-03 | 2022-07-24 |
 | [Drunk Sleeping In Taxis](https://open.spotify.com/track/6JsTJ7ScTRdqz2yotO5aNe) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Drunk Sleeping In Taxis](https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm) | 3:33 | 2021-12-03 |  |
-| [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 | 2022-10-21 |
+| [Dystopia](https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Hope In Chaos](https://open.spotify.com/album/3pRgDX9Fl29rR0WcQNm0tt) | 3:13 | 2022-01-07 |  |
 | [Emo Song](https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:38 | 2021-12-03 |  |
 | [Emotion](https://open.spotify.com/track/1WurdHYjLIZKqCCOLe9lQb) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Emotion](https://open.spotify.com/album/0Czj0tGSkcsBdOcqLFw2YT) | 1:44 | 2021-12-03 | 2022-07-27 |
 | [Everyday](https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Everyday](https://open.spotify.com/album/2NooKyai1JcE7xuu5RDTwr) | 2:43 | 2021-12-03 | 2022-10-18 |
+| [Everyday](https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Amanda Yang](https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed) | [Everyday](https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV) | 2:43 | 2022-09-02 |  |
 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 | 2021-12-03 |  |
 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 | 2022-01-21 |  |
 | [F.R.A.](https://open.spotify.com/track/1G19L5PfO1tBVCTXlnk7Rp) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [F.R.A.](https://open.spotify.com/album/0pHPutLElm4mGvrKYr4sRW) | 2:14 | 2021-12-03 | 2022-07-29 |

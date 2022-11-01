@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-221 songs - 23 hr 27 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
+222 songs - 23 hr 35 min - [published](https://open.spotify.com/playlist/3EUeypxZPpc6yohTwivHlF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Fake \(Original Extended Version\)](https://open.spotify.com/track/276uMJeAGuUE8Chn5xL1M1) | [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Greatest 80s Extended](https://open.spotify.com/album/1ZZeNdGxhFo3M7LJGt95L7) | 5:20 | 2021-12-22 | 2022-06-01 |
 | [Flashback](https://open.spotify.com/track/1EOlxJCq3fXCIvqWJm1xrO) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Body Talk](https://open.spotify.com/album/10Y664SOGkLTvzcP2xrET6) | 4:35 | 2022-06-10 |  |
 | [Flesh For Fantasy \- Below The Belt Mix; 2001 Remastered Version](https://open.spotify.com/track/2uBFGh2ejn7oyZcAtIWgBz) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Gary Langan](https://open.spotify.com/artist/6AR9Wj3jeOFDuqY7X9Kmsj) | [Original Hits \- 80s 12''](https://open.spotify.com/album/0hJxbR0OF38xO0qyYlOAV1) | 7:04 | 2020-08-07 | 2022-07-29 |
+| [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fsTa42UfMdAQjISgmf4ec) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 7:14 | 2022-06-10 |  |
 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/6Bo7iDVxKd4V4VHyaL3oGr) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 7:14 | 2022-06-10 | 2022-10-09 |
 | [Forget Me Nots \- 12" Version](https://open.spotify.com/track/2fcNCeN2QF36dwwnZ5AnQQ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Rhino Hi\-Five: Patrice Rushen](https://open.spotify.com/album/4quHjArvZajbXFW935dgne) | 7:17 | 2021-12-22 | 2022-03-13 |
 | [Fresh](https://open.spotify.com/track/7Emp1GkTzF4Uj1Ov9afqDl) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/3ASTpe9dseash20mpsDaz7) | 5:50 | 2021-12-22 | 2022-07-08 |
@@ -91,7 +92,7 @@
 | [I'm So Excited \(12" Extended Mix\)](https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Dance Vault Remixes](https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB) | 5:43 | 2020-08-07 | 2022-07-29 |
 | [I.O.U\. \(12" Version\)](https://open.spotify.com/track/0lwWEgpK7JtvvrulDhOOb4) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/3WgSvz4FgWDbPvoecchXXQ) | 8:45 | 2021-12-22 | 2022-07-26 |
 | [I.O.U\. \- 12" Version](https://open.spotify.com/track/2hPg9Ovq5KnchKwmF2O6jI) | [Freeez](https://open.spotify.com/artist/5titkTztShEPJSoCL9TXF2) | [Freeez Frame! \- The Best of Freeez](https://open.spotify.com/album/04S99UxdngAfYMS40yjcld) | 8:45 | 2022-06-10 |  |
-| [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 | 2021-12-22 |  |
+| [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 | 2021-12-22 | 2022-11-01 |
 | [In the Heat of the Night](https://open.spotify.com/track/7cT0a9WMQg9nB9eolSW24k) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [Modern Eighties Long Versions](https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m) | 5:18 | 2020-08-07 | 2022-07-27 |
 | [In The Heat Of The Night](https://open.spotify.com/track/5wYPhxYeWs6ij0nlmvMAq8) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [The Long Play](https://open.spotify.com/album/7HkN3j6dxCRKGXMduwfmzL) | 5:20 | 2022-06-10 |  |
 | [It's My Life \- Extended Mix](https://open.spotify.com/track/4fF3SdGvlbcbNHajbKVS4q) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [so80s \(So Eighties\) \- Pres\. By Blank & Jones](https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5) | 6:17 | 2020-08-07 | 2022-07-29 |

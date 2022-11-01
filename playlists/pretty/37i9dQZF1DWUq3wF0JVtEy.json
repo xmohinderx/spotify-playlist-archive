@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 862111,
+  "num_followers": 862367,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGI3NGIyNzQ4N2ZhNmNhNGViNTZiODc2OGE1OTlkOGRl",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDY3ZDgyZmY4YjQwOGZkODhlZThkZDAwMjNhZjI0Mjk1",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 171984,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 171984,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 182765,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/2EQgtNy4r3nNhp8kruQMaQ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -797,22 +797,6 @@
       "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Good Good",
@@ -831,6 +815,38 @@
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
+    },
+    {
+      "added_at": "2022-09-09 04:00:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -903,42 +919,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Cathedral (Piece Of Me) [feat. JEN]",
-        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
-      },
-      "artists": [
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "JEN",
-          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
-        }
-      ],
-      "duration_ms": 148809,
-      "name": "Cathedral (Piece Of Me) [feat. JEN]",
-      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Disco Tool (Remixes)",
         "url": "https://open.spotify.com/album/6khXcErq42ImzFnYg6WfxG"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 217142,
       "name": "Disco Tool (Taiki Nulight Remix)",
       "url": "https://open.spotify.com/track/6NxT9CHTUZx8BkOh6gCEvh"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Cathedral (Piece Of Me) [feat. JEN]",
+        "url": "https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx"
+        }
+      ],
+      "duration_ms": 148809,
+      "name": "Cathedral (Piece Of Me) [feat. JEN]",
+      "url": "https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Be Good",
+        "url": "https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "duration_ms": 171362,
+      "name": "Be Good",
+      "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Be Good",
-        "url": "https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Emie",
-          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
-        }
-      ],
-      "duration_ms": 171362,
-      "name": "Be Good",
-      "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/00WQxluVREF12JZkKWvio4"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Safe & Sound",
@@ -1303,6 +1287,22 @@
       "duration_ms": 200166,
       "name": "Safe & Sound - Radio Edit",
       "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4H59uwAu61DMDtHwZxAhy3"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/2IyT4A7X7QYMAhEK6etsi3"
     },
     {
       "added_at": "2022-09-02 04:01:00",
@@ -1323,6 +1323,26 @@
       "duration_ms": 230625,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
+      },
+      "artists": [
+        {
+          "name": "NO SIGNE",
+          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
+        },
+        {
+          "name": "Rell Rock",
+          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/1zNDh14KDji9oaZ9VYMIJG"
-      },
-      "artists": [
-        {
-          "name": "NO SIGNE",
-          "url": "https://open.spotify.com/artist/1DoFYfnZ1zTlWU9ZGJLNuX"
-        },
-        {
-          "name": "Rell Rock",
-          "url": "https://open.spotify.com/artist/7C55ODE3QMcBdgc7RtkBgq"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/5x2hXRoEDfEF67WvWqoCqY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Crystallise",
         "url": "https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 123593,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/0qYS0cbvf7Ey5Hb0Af9pt3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1649,6 +1649,26 @@
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
+      },
+      "artists": [
+        {
+          "name": "Afrojack presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+        },
+        {
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        }
+      ],
+      "duration_ms": 191285,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Loose",
@@ -1687,22 +1707,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
       },
       "artists": [
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
         },
         {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "CeCe Rogers",
+          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
         }
       ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+      "duration_ms": 204160,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1727,26 +1751,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
       "artists": [
         {
-          "name": "SNBRN",
-          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         },
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "CeCe Rogers",
-          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1767,26 +1787,6 @@
       "duration_ms": 230046,
       "name": "shit i like",
       "url": "https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
-      },
-      "artists": [
-        {
-          "name": "Afrojack presents NLW",
-          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
-        },
-        {
-          "name": "Phlegmatic Dogs",
-          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
-        }
-      ],
-      "duration_ms": 191285,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
     },
     {
       "added_at": "2022-09-09 04:00:00",

@@ -2209,7 +2209,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 181875,
       "name": "Lightning Strikes",
       "url": "https://open.spotify.com/track/2BMmxlUZXD7tFZLegkoQju"
@@ -4113,6 +4113,32 @@
       "duration_ms": 165000,
       "name": "Tomorrow (feat. 433)",
       "url": "https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7"
+    },
+    {
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/11p6rT98tDVDchI7h9XbYU"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        },
+        {
+          "name": "Mentum",
+          "url": "https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178095,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4ANHKkQXnqEuyEobhBdlfi"
     },
     {
       "album": {

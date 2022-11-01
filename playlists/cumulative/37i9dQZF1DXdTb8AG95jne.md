@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: DAHEE\(다희\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 87dance\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-516 songs - 1 day 7 hr 34 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
+517 songs - 1 day 7 hr 38 min - [published](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cho Shim](https://open.spotify.com/track/3aBUjaRyaYy4SeGgtWNQrb) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cho Shim](https://open.spotify.com/album/7my2kBdURtWlo6XGzFVYW8) | 3:16 | 2022-03-31 | 2022-04-07 |
 | [chocolate trip](https://open.spotify.com/track/0ol6tWu3kZ00ayldBNA0fp) | [Shin Onyu & Kim Kang](https://open.spotify.com/artist/7sxSiet6ZE19Q9N2C0dMzT) | [chocolate trip](https://open.spotify.com/album/5tGEMXwyGb0jkvbTCEnkX0) | 4:07 | 2022-03-31 | 2022-04-25 |
 | [City Lights](https://open.spotify.com/track/36xcAYhiCUnzBoydVmxkO3) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [City Lights](https://open.spotify.com/album/2TJmQDLlBkXQiMLI9H6gG6) | 4:01 | 2021-12-21 | 2022-05-28 |
+| [city snail](https://open.spotify.com/track/6IXYWgfzEP2Raa7E4JK2rB) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [city snail](https://open.spotify.com/album/5Ii8pas6FicEhbLa2sifLj) | 3:36 | 2022-10-31 |  |
 | [Cliché](https://open.spotify.com/track/2i4r6SnXUtGAqjHZ7nJHrB) | [Couch Peach](https://open.spotify.com/artist/1Bjp4QYmnT2wUDrgJxYF9b) | [Cliché](https://open.spotify.com/album/3pPuexxtl6nMRlbdJCZYlb) | 2:38 | 2022-02-16 | 2022-07-28 |
 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 | 2021-12-12 |  |
 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 | 2021-12-12 |  |
@@ -258,7 +259,7 @@
 | [lost](https://open.spotify.com/track/53zgUNqd4DCRSRQUn4J4aJ) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [lost](https://open.spotify.com/album/3IAAhPOt3Ui36lJQ93Y7x8) | 3:50 | 2022-03-31 | 2022-07-27 |
 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 | 2022-06-08 | 2022-10-16 |
 | [Lost in the City](https://open.spotify.com/track/5tZFCjvVbOuEKkeOi6GWZd) | [Ashmute](https://open.spotify.com/artist/7EYwKfQY1bAfLr2EUPOL0h) | [Lost in the City](https://open.spotify.com/album/4cN9wky9XIVZqrAKTASmTe) | 3:23 | 2022-09-05 | 2022-09-21 |
-| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 |  |
+| [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2022-11-01 |
 | [Love like a bouquet,](https://open.spotify.com/track/7es4VhC71wFHRaVjkdQ5rK) | [CHOMINWOO](https://open.spotify.com/artist/1mISG0BUcXpI7kJKtRqthM), [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Beautiful struggle](https://open.spotify.com/album/17X67myikY9mktuS1UHAyx) | 3:18 | 2022-08-19 | 2022-09-06 |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |

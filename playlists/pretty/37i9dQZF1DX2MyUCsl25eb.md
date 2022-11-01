@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,452 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 972,556 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 28 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
 | 29 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 |
 | 30 | [Thinking 'Bout Love](https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Thinking 'Bout Love](https://open.spotify.com/album/1L11rcXButW0xA46an3fRP) | 3:04 |
-| 31 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
-| 32 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 |
-| 33 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 |
-| 34 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
+| 31 | [Damage](https://open.spotify.com/track/7M2UiRCmybJ5fuT7Wc2iDR) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Damage](https://open.spotify.com/album/0EkRimDVbqb9fGHXYCb2pO) | 2:32 |
+| 32 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 33 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
+| 34 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 |
 | 35 | [Two Places at Once](https://open.spotify.com/track/0l8p1TkaVgcwIUS0xwm6Y5) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Two Places at Once \(Part I\)](https://open.spotify.com/album/53nT8IUeQ1Eig7t5W2jS2v) | 3:19 |
 | 36 | [Yours](https://open.spotify.com/track/7BpqydHSxMviDR0DNTne6J) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Yours](https://open.spotify.com/album/2i4vxgeB2Sn97KeBs2vYtO) | 3:24 |
 | 37 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 |
 | 38 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 |
 | 39 | [Good Enough](https://open.spotify.com/track/5fuNhRavX030PFZ42Am6Vn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Good Enough](https://open.spotify.com/album/4eWDu7RMRXyXo6MvqLujDk) | 3:41 |
-| 40 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 |
-| 41 | [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 |
+| 40 | [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 |
+| 41 | [leave me](https://open.spotify.com/track/0vrDGR5ZjdDIBUuDep6yXT) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [leave me](https://open.spotify.com/album/68002qOu8hxM87YLHG7Bo5) | 3:40 |
 | 42 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
 | 43 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 44 | [When You Think Of Me](https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [When You Think Of Me](https://open.spotify.com/album/3nQfozW8aZswzUSoJmMpZH) | 3:30 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 49 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 50 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 51 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
-| 52 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 |
-| 53 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
+| 52 | [One Step Ahead](https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [One Step Ahead](https://open.spotify.com/album/1CnJ8xFUzWfQUS6MhAkZNt) | 3:11 |
+| 53 | [Headlights](https://open.spotify.com/track/0mzeEr7kHYzVPWF6iTIuwE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Headlights](https://open.spotify.com/album/2iZdpmmkZ1FmQh179iOc9z) | 2:53 |
 | 54 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 |
 | 55 | [Better Version](https://open.spotify.com/track/3yDEK8rHiOUHOSioX9ZbaU) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Better Version](https://open.spotify.com/album/6L4Br91KD5fMRjxDItOzGd) | 2:53 |
 | 56 | [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 68 | [The Hardest Part](https://open.spotify.com/track/1ODRbz1jZsSrTkpTVcYElX) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock](https://open.spotify.com/album/7wAw42D9HsIAFRy47jo4Vw) | 3:23 |
 | 69 | [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 |
 | 70 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
-| 71 | [It Only Takes Two](https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ) | 2:38 |
-| 72 | [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 |
+| 71 | [get over you](https://open.spotify.com/track/0CdWAFsKkBMT8N5z0WIE8y) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [get over you](https://open.spotify.com/album/1WfIsb7kUmspRRksM1l4OU) | 2:53 |
+| 72 | [It Only Takes Two](https://open.spotify.com/track/7L92GcnLG3bAi7veJRXIe7) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Hidden Youth](https://open.spotify.com/album/05ABj8AloK0QlVarxcu4XJ) | 2:38 |
 | 73 | [Emotionless](https://open.spotify.com/track/7iKkBgyipYWWQuemhe8Fr6) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Emotionless](https://open.spotify.com/album/6YIclW9CUv2dDbOZshxxck) | 2:16 |
 | 74 | [Hideaway](https://open.spotify.com/track/0H8fpWWucq2qFc4G03T4aI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/1iXa6jhEEAwVjuqXbt1sbS) | 2:43 |
 | 75 | [Ready to Go](https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:07 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDljNTE1YjVmMjRhNjcyMzc2Nzk5YmEyYmU4N2I4ZGY1`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGJkZDJjNWViYjY3NzdjYjI1YTFmZWE5NTg4MThhMTM5`

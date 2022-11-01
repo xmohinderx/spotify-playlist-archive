@@ -4,7 +4,7 @@
 
 > We hear you.
 
-496 songs - 1 day 0 hr 34 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+497 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Did I Get It Wrong](https://open.spotify.com/track/2hEFAHjkgjUJSbSWrB6uad) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Did I Get It Wrong](https://open.spotify.com/album/49IL3XMqHP7DSW39GffMgY) | 3:05 | 2021-04-02 | 2022-07-25 |
 | [Did You Ever?](https://open.spotify.com/track/4dRtXKY62sv9VNyyN3aqJV) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [Did You Ever?](https://open.spotify.com/album/2L3nhkWhZ7tuRL5oLJy9p1) | 2:37 | 2022-01-25 | 2022-04-16 |
 | [did you?](https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [did you?](https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY) | 1:46 | 2021-04-02 | 2022-04-21 |
+| [Die Alone](https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 4:21 | 2022-10-14 |  |
 | [Die Alone](https://open.spotify.com/track/6tc1gT93ZpMKx3N5AgVljV) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE) | 4:21 | 2021-04-02 | 2022-07-27 |
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-21 | 2022-07-22 |
 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 | 2021-04-02 | 2022-04-18 |
@@ -208,7 +209,7 @@
 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 | 2021-04-02 | 2022-05-11 |
 | [I Will Be Okay](https://open.spotify.com/track/2SGaKM9YuBID0wgDD4VbPx) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [I Will Be Okay](https://open.spotify.com/album/4a1KV3cG3bDvPScJ07V3EY) | 2:05 | 2021-04-02 | 2022-04-18 |
 | [i will follow you into the dark \- Spotify Singles](https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Spotify Singles](https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl) | 2:33 | 2022-07-29 | 2022-10-15 |
-| [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 | 2021-04-02 |  |
+| [I Wouldn't Ask You](https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 6:56 | 2021-04-02 | 2022-11-01 |
 | [I Wrote You a Letter](https://open.spotify.com/track/6MjDnmBgbCu2UfDK0DRczh) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Youth](https://open.spotify.com/album/2yMNSyP4jE7YVvc0VFwyZM) | 2:40 | 2021-04-02 | 2022-04-19 |
 | [i'd rather be alone](https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1) | [boodahki](https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ) | [i'd rather be alone](https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV) | 2:22 | 2022-03-29 |  |
 | [I'D RATHER GO TO BED](https://open.spotify.com/track/56UaiLojZ2hD0856fADjIg) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [I'D RATHER GO TO BED](https://open.spotify.com/album/3LsrqLf5EBqkb5NKuc4nmU) | 3:48 | 2021-04-02 | 2022-04-18 |

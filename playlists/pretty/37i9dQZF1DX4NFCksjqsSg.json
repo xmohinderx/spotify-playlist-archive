@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 24928,
+  "num_followers": 24929,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMGI0ZjQzYjc5MjhlOTVmZTQ4NzIxYjY5ODY3ZTgzNDU5",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDdlNDEzYjFlNmQzNTdiOTIxNzQ1YTFlZThmZTA3NDM2",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "A Chacun Son Histoire",
         "url": "https://open.spotify.com/album/38CgBQufkUucyi195crt9D"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 170466,
       "name": "Je n'ai que mon \u00e2me",
       "url": "https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Donne-moi ma chance",
-      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Julie Masse",
         "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
       },
@@ -443,18 +427,50 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
+        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "Bruno Pelletier",
+          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+      "duration_ms": 202733,
+      "name": "Le temps des cath\u00e9drales",
+      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
+      },
+      "artists": [
+        {
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "Donne-moi ma chance",
+      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "1\u00e8re p\u00e9riode",
+        "url": "https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "J't'aime comme un fou",
+      "url": "https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -479,34 +495,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Notre Dame de Paris - Version int\u00e9grale, acte 1",
-        "url": "https://open.spotify.com/album/0rfs8rhKsVsnKnwscx9cdY"
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
       },
       "artists": [
         {
-          "name": "Bruno Pelletier",
-          "url": "https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2"
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Le temps des cath\u00e9drales",
-      "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "1\u00e8re p\u00e9riode",
-        "url": "https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "J't'aime comme un fou",
-      "url": "https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7"
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -639,6 +639,38 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Les introuvables",
+        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
+      },
+      "artists": [
+        {
+          "name": "Marie Denise Pelletier",
+          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
+        }
+      ],
+      "duration_ms": 318053,
+      "name": "Tous les cris, les S.O.S.",
+      "url": "https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Rien ne s'arr\u00eate (1987 - 2001)",
         "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
       },
@@ -691,38 +723,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Les introuvables",
-        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
-      },
-      "artists": [
-        {
-          "name": "Marie Denise Pelletier",
-          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
-        }
-      ],
-      "duration_ms": 318053,
-      "name": "Tous les cris, les S.O.S.",
-      "url": "https://open.spotify.com/track/071HK2nrQvUajbjJcHANrL"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Francine Raymond",
         "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Soon",
-        "url": "https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX"
-      },
-      "artists": [
-        {
-          "name": "Oph\u00e9lie Winter",
-          "url": "https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP"
-        }
-      ],
-      "duration_ms": 277439,
-      "name": "Shame on U",
-      "url": "https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Luce Dufault",
         "url": "https://open.spotify.com/album/0CSO0Cq6hGT5KbqNKhZZP5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 213293,
       "name": "Soirs de Scotch",
       "url": "https://open.spotify.com/track/38PausDDlmKd6jwriKyiyF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/4EBnAga3Y1x9iRsp3qsutX"
+      },
+      "artists": [
+        {
+          "name": "Oph\u00e9lie Winter",
+          "url": "https://open.spotify.com/artist/1CWf9Py9ugzhwqunEEIFYP"
+        }
+      ],
+      "duration_ms": 277439,
+      "name": "Shame on U",
+      "url": "https://open.spotify.com/track/5Ui48l2ViRrnssgzipXNPc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Corridors",
-        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jalbert",
-          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Corridor",
-      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Corridor",
+      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Marie-\u00c9laine Thibert",
         "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 207600,
       "name": "Dans chacun de mes silences",
       "url": "https://open.spotify.com/track/3gGaqfP07cG0uDqxKQl2UF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
     },
     {
       "added_at": "2020-04-07 15:18:18",

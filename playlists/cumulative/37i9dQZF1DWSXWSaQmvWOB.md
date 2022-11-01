@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-581 songs - 1 day 11 hr 35 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+582 songs - 1 day 11 hr 41 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-10-02 | 2021-01-09 |
 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 | 2021-05-21 | 2021-12-01 |
 | [Horsepower For The Streets](https://open.spotify.com/track/1gYYMwxLdUdDB5WIfN5HGp) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets](https://open.spotify.com/album/2B4mjZa5ewqU79nzU981eO) | 2:23 | 2022-05-19 |  |
-| [How Can I Move On](https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 2:58 | 2022-07-07 |  |
+| [How Can I Move On](https://open.spotify.com/track/3p5dognDA6nIyHsBBU1qJq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Art \(2022 Remastered Deluxe\)](https://open.spotify.com/album/58nGxsmHEHQGpYhrHKgCTU) | 2:58 | 2022-07-07 | 2022-11-01 |
 | [How Long?](https://open.spotify.com/track/5yhPtPo3ZWW7T5iCJ5CNjk) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [How Long?](https://open.spotify.com/album/2oEnK6S1wlfIq1CECB9qL4) | 4:16 | 2020-05-15 | 2020-06-05 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-02-12 | 2021-04-17 |
 | [Hurray](https://open.spotify.com/track/4pa46ELAejI7w1mkeKI4Hu) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hurray](https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7) | 3:47 | 2021-08-31 | 2021-09-24 |
@@ -501,6 +501,7 @@
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2020-06-02 | 2020-06-05 |
 | [The Chi](https://open.spotify.com/track/7dGRHEMO0oOLeaZhFa9qqx) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The Chi](https://open.spotify.com/album/4jtY1Lg1gzf8IaUSYVuLyU) | 3:24 | 2021-06-25 | 2021-09-24 |
 | [The Fool](https://open.spotify.com/track/6efz8T0xsDossM5PEXxEqf) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Fool](https://open.spotify.com/album/5bnoKgSgUtYn8RqviCM15H) | 4:12 | 2022-04-08 | 2022-09-30 |
+| [The Healer](https://open.spotify.com/track/0CjY9niefITNSiK5OBgPeU) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [The Healer](https://open.spotify.com/album/7CqeFBrZZUkdHowafVUKHI) | 5:52 | 2022-10-28 |  |
 | [The Main Course](https://open.spotify.com/track/2WIoUrZHFZsucrFMio7tRe) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Another Shot Fired](https://open.spotify.com/album/4RRggV5CrnXd2fFtgILVJC) | 2:57 | 2021-01-21 | 2021-04-17 |
 | [The Morning](https://open.spotify.com/track/1WmjjX2huIRA33VRikkL5S) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [The Morning](https://open.spotify.com/album/4akVAQM6gS7zajaOqB2Us7) | 3:37 | 2020-03-27 | 2021-02-28 |
 | [The People](https://open.spotify.com/track/2v3EddSC3PIGgMEWp53EWD) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [The People](https://open.spotify.com/album/2I8aTpOlDb21CAORQIvqEC) | 3:55 | 2020-03-25\* | 2020-06-05 |

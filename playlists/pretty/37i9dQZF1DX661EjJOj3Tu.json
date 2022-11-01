@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 481164,
+  "num_followers": 481240,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDAxMDAxZTMyMjgwY2ExNzU3OTA4MDRiMjM3ZDVmMDJi",
+  "snapshot_id": "MTY2MTkzMDI4MCwwMDAwMDAwMDlhZTliZDY0YmU5YWFjY2VhNzZiMDUyZTc1ZWE0NzE4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:18:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Gracias Compay (The Definitive Collection)",
-        "url": "https://open.spotify.com/album/5AgQjYH4iYMlOuDGOvWPd9"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2WAB0B0l3rvZlpOB2ffdr2"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Gracias Compay (The Definitive Collection)",
+        "url": "https://open.spotify.com/album/5AgQjYH4iYMlOuDGOvWPd9"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2WAB0B0l3rvZlpOB2ffdr2"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "The Composer Of Desafinado, Plays",
         "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
       },
@@ -263,38 +263,6 @@
       "duration_ms": 170426,
       "name": "\u00c1gua De Beber",
       "url": "https://open.spotify.com/track/6R0nUSoTN00Zi8WEVhAKSU"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Our Man In Havana",
-        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -343,6 +311,38 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Our Man In Havana",
+        "url": "https://open.spotify.com/album/2f4PCFmP4AM3PvkC9JcDDN"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/1Ml7gX2S2UVzB1K32puq4W"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Sergio Mendes & Brasil \u201966-86: Classics Volume 18",
         "url": "https://open.spotify.com/album/23nAP2jFnpEAXEh8fNdZCt"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 161306,
       "name": "Mas Que Nada",
       "url": "https://open.spotify.com/track/6clrt5x5viq13LZwEnHcur"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Mi ni\u00f1a Lola",
-        "url": "https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk"
-      },
-      "artists": [
-        {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
-        }
-      ],
-      "duration_ms": 269400,
-      "name": "Mi ni\u00f1a Lola",
-      "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Mi ni\u00f1a Lola",
+        "url": "https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 269400,
+      "name": "Mi ni\u00f1a Lola",
+      "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Spanish Rice",
         "url": "https://open.spotify.com/album/2RW3cLeqHhdg7nm1hJas0s"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 164413,
       "name": "Spanish Rice",
       "url": "https://open.spotify.com/track/4TL9D8z4NFwMWjQa3lucIG"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Talkin' Verve",
-        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Evil Ways",
-      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -455,6 +439,38 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Herb Alpert Presents",
+        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Talkin' Verve",
+        "url": "https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -471,6 +487,22 @@
       "duration_ms": 388426,
       "name": "People",
       "url": "https://open.spotify.com/track/3g1SiGNM4Rul2vemces7Pp"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
+        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+      },
+      "artists": [
+        {
+          "name": "Buika",
+          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
+      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -495,18 +527,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Light As A Feather (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn"
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 333666,
-      "name": "Spain - Composite Alternative Take",
-      "url": "https://open.spotify.com/track/1jji1sWxZOo7eWnXifT7yP"
+      "duration_ms": 224173,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -527,54 +563,18 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "El ultimo trago (con la colaboracion de Chucho Valdes)",
-        "url": "https://open.spotify.com/album/5NDGvVTYJo4Id7MTeOHLUL"
+        "name": "Light As A Feather (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2wkmxijYToqAr0ATgcNSsn"
       },
       "artists": [
         {
-          "name": "Buika",
-          "url": "https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 170986,
-      "name": "Soledad - con la colaboraci\u00f3n de Chucho Vald\u00e9s",
-      "url": "https://open.spotify.com/track/7jNaYAIxAWtx3RCmHYLsv3"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Herb Alpert Presents",
-        "url": "https://open.spotify.com/album/1mCGVMMa6TQzjxrrC0jcBN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 149453,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/6WniximOsNpUYr6HL6fiTz"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
-      },
-      "artists": [
-        {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 224173,
-      "name": "L\u00e1grimas Negras",
-      "url": "https://open.spotify.com/track/3c7m2Kzg1q9iKa4yhKbuea"
+      "duration_ms": 333666,
+      "name": "Spain - Composite Alternative Take",
+      "url": "https://open.spotify.com/track/1jji1sWxZOo7eWnXifT7yP"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -647,6 +647,26 @@
       "duration_ms": 350466,
       "name": "River Rises",
       "url": "https://open.spotify.com/track/2cgUuAbgKxogUes21l6BSq"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Juntos para Siempre",
+        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -743,22 +763,18 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Juntos para Siempre",
-        "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
+        "name": "Poncho At Montreux",
+        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
       },
       "artists": [
         {
-          "name": "Bebo Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Poncho Sanchez",
+          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/7iEXtc7ZwixX8IwzwK10qp"
+      "duration_ms": 404680,
+      "name": "El Shing-A-Ling",
+      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -775,22 +791,6 @@
       "duration_ms": 181733,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/7eOXMnIItffbewObP4KGD7"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Poncho At Montreux",
-        "url": "https://open.spotify.com/album/3JZDRRLCBJJDXlp4wVsEmo"
-      },
-      "artists": [
-        {
-          "name": "Poncho Sanchez",
-          "url": "https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL"
-        }
-      ],
-      "duration_ms": 404680,
-      "name": "El Shing-A-Ling",
-      "url": "https://open.spotify.com/track/542bRCKrV7e5k9fEjFjy5x"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "E Music",
-        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
-      },
-      "artists": [
-        {
-          "name": "Pete Escovedo",
-          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
-        }
-      ],
-      "duration_ms": 341066,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "SALSWING!",
         "url": "https://open.spotify.com/album/5rYDNDOKwq3T0gK5DCI2CI"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 336947,
       "name": "Paula C.",
       "url": "https://open.spotify.com/track/5H2y6BJVQ4z44DcscnHgRq"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "E Music",
+        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
+      },
+      "artists": [
+        {
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+        }
+      ],
+      "duration_ms": 341066,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1051,30 +1051,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Granada",
-      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Dig My Feeling",
         "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 396226,
       "name": "Como Traigo La Yuca - Live",
       "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Vicente Amigo",
+          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/22SmTBT1AQQpeH9gyhOOYG"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "The Best Of Chick Corea",
         "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 216706,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/21WlpZiXLelHjdoMUhHfrm"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Plays The Contemporary Music Of Mexico And Brazil",
-        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 170653,
-      "name": "Se E Tarde, Me Perdoa",
-      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
         "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 201933,
       "name": "Scarborough Fair",
       "url": "https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Plays The Contemporary Music Of Mexico And Brazil",
+        "url": "https://open.spotify.com/album/7Fs3cHLMIGjjxRB5K2HJRo"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Se E Tarde, Me Perdoa",
+      "url": "https://open.spotify.com/track/7ByBGLvzTGCZKFp5XhwOcr"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Yo Soy El Bolero: Tito Rodr\u00edguez, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/2Gxu3rkNjFUrMqodF5yzeS"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Cuando, Cuando",
+      "url": "https://open.spotify.com/track/10CFhaELKqQNx18aLyUePS"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "El Sonido Nuevo",
         "url": "https://open.spotify.com/album/4rzynODIi4mNflsICsYZoX"
       },
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Manteca Theme",
-      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Yo Soy El Bolero: Tito Rodr\u00edguez, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/2Gxu3rkNjFUrMqodF5yzeS"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Cuando, Cuando",
-      "url": "https://open.spotify.com/track/10CFhaELKqQNx18aLyUePS"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Trane's Delight",
         "url": "https://open.spotify.com/album/6sMYDCMbXwodgyR2vejSEb"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 353840,
       "name": "Soul Bourgeoisie",
       "url": "https://open.spotify.com/track/1Q6wac6uy5RyqC1DaResLx"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Manteca Theme",
+      "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1511,6 +1511,22 @@
       "duration_ms": 226653,
       "name": "Bacalao Con Pan",
       "url": "https://open.spotify.com/track/0Nyk38VivffSW8dTVaroEC"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Day Tripper",
+      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Day Tripper",
-      "url": "https://open.spotify.com/track/5J3R2eEHlD2ng4cwh6Tlnz"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "A Donde Voy",
         "url": "https://open.spotify.com/album/6jvgwKo2bST4ih44ZRKyM3"
       },
@@ -1615,6 +1615,38 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
+        "name": "Soul Burst",
+        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 375693,
+      "name": "Curacao",
+      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "The Fool On The Hill",
+      "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -1639,22 +1671,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "Soul Burst",
-        "url": "https://open.spotify.com/album/06zt1aFTGlMq9n9y7kPOBN"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 375693,
-      "name": "Curacao",
-      "url": "https://open.spotify.com/track/1bq401DIP2Fvt6Cu95dZXt"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "ONCE: Concierto para Dos",
         "url": "https://open.spotify.com/album/4XRSFTsWfCYb8XaOSGYM6I"
       },
@@ -1675,6 +1691,22 @@
       "duration_ms": 225985,
       "name": "Me Has Echado al Olvido",
       "url": "https://open.spotify.com/track/7HdnmmBjTOb66oKs8LeqY0"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Salsa-Jazz-Descarga",
+        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Condiciones Que Existen",
+      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1719,38 +1751,6 @@
     {
       "added_at": "2022-08-31 07:18:00",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "The Fool On The Hill",
-      "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Salsa-Jazz-Descarga",
-        "url": "https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Condiciones Que Existen",
-      "url": "https://open.spotify.com/track/6rKrh4zGSBCa7aFcyq5Gvo"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
         "name": "Que Bonita Bandera",
         "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
       },
@@ -1787,26 +1787,6 @@
       "duration_ms": 290847,
       "name": "Que Bonita Bandera",
       "url": "https://open.spotify.com/track/6kp4npBzshDFMNDJhC0uRH"
-    },
-    {
-      "added_at": "2022-08-31 07:18:00",
-      "album": {
-        "name": "Ser\u00eda Una Pena",
-        "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
-      },
-      "artists": [
-        {
-          "name": "Pete Perignon",
-          "url": "https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX"
-        },
-        {
-          "name": "Jeremy Bosch",
-          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
-        }
-      ],
-      "duration_ms": 261881,
-      "name": "Ser\u00eda Una Pena",
-      "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
     },
     {
       "added_at": "2022-08-31 07:18:00",
@@ -1851,6 +1831,26 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+    },
+    {
+      "added_at": "2022-08-31 07:18:00",
+      "album": {
+        "name": "Ser\u00eda Una Pena",
+        "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
+      },
+      "artists": [
+        {
+          "name": "Pete Perignon",
+          "url": "https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX"
+        },
+        {
+          "name": "Jeremy Bosch",
+          "url": "https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD"
+        }
+      ],
+      "duration_ms": 261881,
+      "name": "Ser\u00eda Una Pena",
+      "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
     },
     {
       "added_at": "2022-08-31 07:18:00",

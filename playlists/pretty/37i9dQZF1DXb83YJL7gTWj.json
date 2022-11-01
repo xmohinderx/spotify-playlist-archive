@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 226050,
+  "num_followers": 226153,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGZhNmY4MWNmZmZlNzJmMzhjOTUyZmMyNmM5ODg5NDYy",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDkxNzBmY2M5OWE3NTNhNDEyZDdjM2U5NTk2M2MxYmMx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -43,8 +43,8 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+      "duration_ms": 188496,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 188496,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Hozier (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/0t7fVeEJxO2Xi4H2K5Svc9"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -483,22 +463,6 @@
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "THE END OF EVERYTHING",
-        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 144377,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -519,6 +483,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "THE END OF EVERYTHING",
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 144377,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6U1iuA5QfzYRPJxvdcxqtf"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 185280,
       "name": "Seeing Blind",
       "url": "https://open.spotify.com/track/65wnZsZLKJimfK1cTFOfa1"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 189672,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 205462,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ZHedelUpByxH6pYV3tCok"
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
       },
       "artists": [
         {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 205462,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/2dPT9UxyHm71quNyj3C4YE"
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -979,22 +995,6 @@
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 181533,
       "name": "Older Than I Am",
       "url": "https://open.spotify.com/track/15VDHAMS4JCLziCjNkmQl1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 201266,
       "name": "Beautiful Stranger",
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Leave It Beautiful (Complete)",
-        "url": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 155822,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/59xKeVGl4LObjl5ojSP4u8"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Leave It Beautiful (Complete)",
+        "url": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 155822,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/59xKeVGl4LObjl5ojSP4u8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "So Good (Stripped)",
-        "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 191919,
-      "name": "So Good - Stripped",
-      "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "So Good (Stripped)",
+        "url": "https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 191919,
+      "name": "So Good - Stripped",
+      "url": "https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Love Flew Away",
+        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 147346,
+      "name": "Love Flew Away",
+      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Songs to Break Up To",
         "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 234733,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Love Flew Away",
-        "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        },
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 147346,
-      "name": "Love Flew Away",
-      "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
     },
     {
       "added_at": "2022-10-28 04:01:00",

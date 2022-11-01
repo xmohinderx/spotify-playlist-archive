@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Meat Loaf\n",
-  "num_followers": 1069653,
+  "num_followers": 1069816,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMGE4ODIzMWEyZjIzNzllOTZkNjE1MGEyODlhMjRkMTll",
+  "snapshot_id": "MTY2MzAxMDE4MywwMDAwMDAwMDUxZWQwMTJjZDM0N2Q3NWNlMmUxNTA2NmRjY2U5OTM2",
   "tracks": [
     {
       "added_at": "2022-09-12 19:16:23",
@@ -299,38 +299,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -375,6 +359,22 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 267080,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Lap Of Luxury",
         "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
@@ -519,22 +503,6 @@
       "duration_ms": 338800,
       "name": "The Flame",
       "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -555,18 +523,34 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
       "artists": [
         {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 208560,
-      "name": "Wild World - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -587,6 +571,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Wild World - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Whitesnake (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275395,
-      "name": "Here I Go Again - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Take My Breath Away",
         "url": "https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 264213,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Whitesnake (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275395,
+      "name": "Here I Go Again - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -839,6 +823,38 @@
       "duration_ms": 236866,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "When I Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/5QRs63VVKNaqUjg6XSSckM"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Hold Your Fire",
-        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "When I Look Into Your Eyes",
-      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 284496,
       "name": "Is This Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -975,22 +991,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "5150",
         "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Firehouse",
         "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 235360,
       "name": "Don't Treat Me Bad",
       "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
+      },
+      "artists": [
+        {
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
       },
@@ -1195,6 +1179,38 @@
       "duration_ms": 344613,
       "name": "House of Pain",
       "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Mane Attraction",
         "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 272240,
       "name": "Fly To The Angels",
       "url": "https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Psychotic Supper",
-        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 435226,
-      "name": "What You Give",
-      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
+        "name": "Psychotic Supper",
+        "url": "https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 435226,
+      "name": "What You Give",
+      "url": "https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
         "name": "Boogie Nights / Music From The Original Motion Picture",
         "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 300066,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
-        "name": "Heartbreak Station",
-        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268840,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Can't Stop Lovin' You",
-      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
-    },
-    {
-      "added_at": "2022-09-12 19:16:23",
-      "album": {
         "name": "Straight Between The Eyes",
         "url": "https://open.spotify.com/album/2TjkjpMXM0fsgmmVjmxNmI"
       },
@@ -1439,18 +1407,34 @@
     {
       "added_at": "2022-09-12 19:16:23",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
+        "name": "Heartbreak Station",
+        "url": "https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 261000,
-      "name": "If You Needed Somebody",
-      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
+      "duration_ms": 268840,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Can't Stop Lovin' You",
+      "url": "https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe"
     },
     {
       "added_at": "2022-09-12 19:16:23",
@@ -1467,6 +1451,22 @@
       "duration_ms": 207146,
       "name": "Oh! Darling - 2019 Mix",
       "url": "https://open.spotify.com/track/3UHv8SSIkNUDRBUHJx3Cg6"
+    },
+    {
+      "added_at": "2022-09-12 19:16:23",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "If You Needed Somebody",
+      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2022-09-12 19:16:23",

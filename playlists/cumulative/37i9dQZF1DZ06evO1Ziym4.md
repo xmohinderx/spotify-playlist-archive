@@ -4,7 +4,7 @@
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-40 songs - 3 hr 18 min - [published](https://open.spotify.com/playlist/6Rm1BBdhbjSJ1KueLRaHyt)
+42 songs - 3 hr 31 min - [published](https://open.spotify.com/playlist/6Rm1BBdhbjSJ1KueLRaHyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,10 @@
 | [Chinese Democracy](https://open.spotify.com/track/0zoK1L5JxJbyk7T2nw367B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:43 | 2022-09-17 |  |
 | [Civil War](https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 7:42 | 2022-09-17 |  |
 | [Coma](https://open.spotify.com/track/3YnJJhSe1cZJtOmhW7bYX1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 10:13 | 2022-09-17 |  |
+| [Dead Horse](https://open.spotify.com/track/7tdJuL2ZgmKDwIIFDdNanK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:17 | 2022-10-31 |  |
 | [Don't Cry \(Original\)](https://open.spotify.com/track/2N2yrmodOnVF10mKvItC9P) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:43 | 2022-09-17 |  |
-| [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 | 2022-09-17 |  |
+| [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 | 2022-09-17 | 2022-11-01 |
+| [Double Talkin' Jive \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/4qFgFSv8kYaM9zE2W5uPGX) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Double Talkin' Jive / You Could Be Mine](https://open.spotify.com/album/2N4TYFo5gG1Ej9VhdDJVTN) | 8:40 | 2022-10-31 |  |
 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 | 2022-09-17 |  |
 | [Estranged](https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 9:23 | 2022-09-17 |  |
 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 | 2022-09-17 |  |
@@ -32,7 +34,7 @@
 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 | 2022-09-17 |  |
 | [One In A Million](https://open.spotify.com/track/1dKUedvGLfp8byiThM1TO0) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 6:11 | 2022-09-17 |  |
 | [Paradise City](https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:45 | 2022-09-17 |  |
-| [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-09-17 |  |
+| [Patience](https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction \(Super Deluxe Edition\)](https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP) | 5:54 | 2022-09-17 | 2022-11-01 |
 | [Raw Power](https://open.spotify.com/track/2foNAckCzsyD0HJUbmhTZJ) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:11 | 2022-09-17 |  |
 | [Reckless Life](https://open.spotify.com/track/5k1j3UnyXvmgIyNWIfycFb) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 3:22 | 2022-09-17 |  |
 | [Rocket Queen](https://open.spotify.com/track/6v5VsfCYKdrkQBTMhAlkDr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 6:13 | 2022-09-17 |  |

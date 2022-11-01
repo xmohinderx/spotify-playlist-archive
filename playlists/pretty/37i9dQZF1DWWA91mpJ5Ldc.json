@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 104380,
+  "num_followers": 104413,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMGU2YWM3Mzk3OTVlMDA2YWRiZDI0MGMzYzA0MThmMTNl",
+  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMGFjZDU2MDJkNzE2NmU5MDI2N2FkOGQ0ZjgyMmI5YzVj",
   "tracks": [
     {
       "added_at": "2022-10-26 03:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
+        "name": "Maria Maria - Spotify Singles",
+        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Maria Maria - Spotify Singles",
+      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 244386,
       "name": "Te amar \u00e9 massa demais",
       "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
-        "name": "Maria Maria - Spotify Singles",
-        "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Maria Maria - Spotify Singles",
-      "url": "https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Casas",
-        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 294049,
-      "name": "Mantra (Feat. Emicida)",
-      "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "15b",
         "url": "https://open.spotify.com/album/6i4jlwCMeHUykb1NLn2Jir"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 163566,
       "name": "15b",
       "url": "https://open.spotify.com/track/657snoTuKuYiyv7XhtMvKw"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 294049,
+      "name": "Mantra (Feat. Emicida)",
+      "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
         "name": "O Futuro N\u00e3o Demora",
         "url": "https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -519,22 +535,6 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Nonsense, Vol. 1",
-        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Onde Estar\u00e1",
-      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "Me Toca",
         "url": "https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU"
       },
@@ -591,18 +575,18 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+        "name": "Nonsense, Vol. 1",
+        "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
       },
       "artists": [
         {
-          "name": "Fino Coletivo",
-          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         }
       ],
-      "duration_ms": 238253,
-      "name": "Minha Menina Bonita",
-      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
+      "duration_ms": 217110,
+      "name": "Onde Estar\u00e1",
+      "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 269285,
       "name": "Todo Carinho",
       "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ubqLWyiFgB4n2TfQ45rhs"
+      },
+      "artists": [
+        {
+          "name": "Fino Coletivo",
+          "url": "https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "Minha Menina Bonita",
+      "url": "https://open.spotify.com/track/0BjeHGTju5g3kIa8ed9vrs"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "Fim do Horizonte",
         "url": "https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
         "name": "Sem Medo",
         "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
       },
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+        "name": "Andar Sozinho (feat. J\u00e3o)",
+        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Choror\u00f4",
-      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
     }
   ],
   "unique_name": "Cozinhando em Casa",

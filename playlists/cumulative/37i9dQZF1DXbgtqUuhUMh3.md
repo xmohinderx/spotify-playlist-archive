@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Rahma Riad
 
-322 songs - 18 hr 54 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+323 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,11 +211,12 @@
 | [Right For Ya \- Acoustic](https://open.spotify.com/track/61KSj6WUn2x3hXm00ulMnC) | [Bea Kadri](https://open.spotify.com/artist/6PEL51sVVuFWxri9rDwNiN) | [Right For Ya \(Acoustic\)](https://open.spotify.com/album/2bRxJG9H1hg7APiVJcST3e) | 3:32 | 2021-12-23 | 2022-02-25 |
 | [Rise Up \(Djamil Remix\)](https://open.spotify.com/track/4rTP5QqevoJXsVTM0SCssr) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Rise Up \(Djamil Remix\)](https://open.spotify.com/album/580xZh5PyJ7o7ZAYP1507D) | 1:49 | 2021-12-23 | 2022-02-27 |
 | [Rjaa](https://open.spotify.com/track/1MMwq9i0bICg0DOUSUPBal) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Rjaa](https://open.spotify.com/album/4L6HlkQNI76ZffRQLBkkeE) | 3:46 | 2021-12-30 | 2022-03-02 |
-| [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-03-01 |  |
+| [Romansiya](https://open.spotify.com/track/6N9pppnJ6R4ctOAf2XRxg6) | [Jana Rouhana](https://open.spotify.com/artist/6AhEmp51A77u9mhS2NQfkn) | [Romansiya](https://open.spotify.com/album/2QVGKT995oqS7roo29KHza) | 3:14 | 2022-03-01 | 2022-11-01 |
 | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/track/2FCybmEGNqquzBkIGO9RNX) | [Fatma Said](https://open.spotify.com/artist/1c2ClQeVUmq1req1B2lnlh), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Henning Sieverts](https://open.spotify.com/artist/4NPI4lNYQw86uzyS1SqZXP), [Tamer Pinarbaşi](https://open.spotify.com/artist/56qCAXOnxTC7VPlUGwrBqA), [Burcu Karadağ](https://open.spotify.com/artist/6sm7wuehySIzhD2QyCT26q), [Itamar Doari](https://open.spotify.com/artist/4fOBhUMIOwCcoWuRKlkwFc) | [Sahar El Layali \(Kan Enna Tahoun\)](https://open.spotify.com/album/4p8NJD3gKxyABRJmg55AfY) | 3:19 | 2021-12-23 | 2022-03-01 |
 | [Schizophrenia](https://open.spotify.com/track/3ln6UpBipKV385C8gNExNE) | [Shams](https://open.spotify.com/artist/5wsBasNRVJ82IYVMnhuYjZ) | [Schizophrenia](https://open.spotify.com/album/02QeynZcq6JJ9SUOwVRL3C) | 4:45 | 2021-12-30 | 2022-03-02 |
 | [Shagar El Asham](https://open.spotify.com/track/5qG6crR9QExjJpQg01QNsD) | [Dina Khaled](https://open.spotify.com/artist/5weThTvXRsX5RluYBowMJ1) | [Shagar El Asham](https://open.spotify.com/album/3a3xSHjfxecV8gzyzMxRVA) | 3:39 | 2022-03-03 | 2022-07-22 |
 | [Shou Byeb'a](https://open.spotify.com/track/5BuuNKK47ns8EkBBNT9LWn) | [Carla Chamoun](https://open.spotify.com/artist/0StdV1uuvaOhOG4xR6lynG) | [Shou Byeb'a](https://open.spotify.com/album/3oyjqPAgYJfJ3uP8vEgbfB) | 3:43 | 2021-12-23 | 2022-02-28 |
+| [Shou Ela Maana](https://open.spotify.com/track/55CnEXVm4lxZfQPcaAaxuv) | [Maritta Hallani](https://open.spotify.com/artist/6m7sil7DZpW1PDsVfkAOMP) | [Shou Ela Maana](https://open.spotify.com/album/7JX1iOqeu2k4Fa359PLLHw) | 2:05 | 2022-10-27 |  |
 | [Shou Elli Ghayarak Halqad](https://open.spotify.com/track/5wmVqK53zhYUwG5QJsygiS) | [Asala Yousef](https://open.spotify.com/artist/1iY2PUn3zm3oqlD3PYf1FG) | [Shou Elli Ghayarak Halqad](https://open.spotify.com/album/4c1pQfiCZZmBbW3FPpfv3i) | 3:46 | 2021-12-23 | 2022-03-02 |
 | [Shou Wadou Albak](https://open.spotify.com/track/7c0gjYzDwCJ56NYSpoUgzJ) | [Maribel Maalouf](https://open.spotify.com/artist/3MoSMS2jKVPPZbLw2W3qEV) | [Shou Wadou Albak](https://open.spotify.com/album/3OIz3IetACEIYuKUuSm0R5) | 3:14 | 2021-12-23 | 2022-03-02 |
 | [Shouf](https://open.spotify.com/track/7tueI4qZOssFDf61SNzdzy) | [Carolina Karam](https://open.spotify.com/artist/6zeJXT6e12k3LLAZHEgCSA) | [شوف](https://open.spotify.com/album/0in4kb6hakIBhYUlAgoHDB) | 3:35 | 2022-03-01 | 2022-07-28 |

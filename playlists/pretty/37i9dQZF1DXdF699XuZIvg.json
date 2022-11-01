@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 549879,
+  "num_followers": 550112,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMDRjOGQ3ZTFiNzQ4NDhjMTUwYTJjMDFjMDQ5NmYxOTgz",
+  "snapshot_id": "MTY2NjM2MTA0NCwwMDAwMDAwMGVkMjBjNTYzYmQzMzgwMTBjZjY1NTY2NDZlMzU1Nzg5",
   "tracks": [
     {
       "added_at": "2022-10-21 14:04:04",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 284026,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+      "duration_ms": 284026,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
+        "name": "Screaming For Vengeance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 310080,
+      "name": "You've Got Another Thing Coming",
+      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
         "name": "Three Dollar Bill, Y'all $",
         "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
-        "name": "Screaming For Vengeance (Expanded Edition)",
-        "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 310080,
-      "name": "You've Got Another Thing Coming",
-      "url": "https://open.spotify.com/track/4f3RDq9nYPBeR1yMSgnmBm"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "The Number of the Beast (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 233506,
-      "name": "Run to the Hills - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Anthem Of The Peaceful Army",
         "url": "https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+        "name": "The Number of the Beast (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/33d72N71hl9bXwT4zAcqUy"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
         }
       ],
-      "duration_ms": 172826,
-      "name": "When Legends Rise",
-      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0sxYYT48UPkmrDx8p4Hnrl"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -811,6 +795,22 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "When Legends Rise",
+      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "Breakin' Outta Hell",
-        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Breakin' Outta Hell",
-      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Master of Reality (2014 Remaster)",
         "url": "https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 317206,
       "name": "Children of the Grave - 2014 Remaster",
       "url": "https://open.spotify.com/track/5clz8BOBulxx7q2yHxqOCk"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk"
     },
     {
       "added_at": "2022-10-21 14:04:04",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-10-21 14:04:04",
       "album": {
-        "name": "The Rise of Chaos",
-        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
-    },
-    {
-      "added_at": "2022-10-21 14:04:04",
-      "album": {
         "name": "Erase You",
         "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 201680,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
+    },
+    {
+      "added_at": "2022-10-21 14:04:04",
+      "album": {
+        "name": "The Rise of Chaos",
+        "url": "https://open.spotify.com/album/2yjuBZ8ymuezoH0uGZAi8u"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/249XHhBxBOblTCYStaC27L"
     },
     {
       "added_at": "2022-10-21 14:04:04",

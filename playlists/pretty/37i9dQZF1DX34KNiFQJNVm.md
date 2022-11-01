@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Rihanna, Orochi, João Gomes e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,787,987 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,194 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

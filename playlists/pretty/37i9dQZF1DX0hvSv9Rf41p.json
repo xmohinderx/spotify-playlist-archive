@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Rezz.",
-  "num_followers": 942856,
+  "num_followers": 943011,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGZiZGFlMDUwMmZkODk5NjFmOGNkNzE1NTdhMjg0NGY4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDNjNTExNmIwM2NjZWQzOTI0ZjE5NmQwMzZlNzRkNzFi",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -511,6 +511,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Colors (feat. Eyelar) [Remixes]",
         "url": "https://open.spotify.com/album/3Lo6HZ20Rn6GdH0X9EZ14M"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 191120,
       "name": "Colors (feat. Eyelar) - REAPER Remix",
       "url": "https://open.spotify.com/track/6g17XDgLWaPEIj6vcDQCCA"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Every Time (feat. So Below)",
         "url": "https://open.spotify.com/album/1I9Bg2BoorxcedzgQrlvuU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 342008,
       "name": "Every Time (feat. So Below)",
       "url": "https://open.spotify.com/track/6AkEP2vEcpTRn2ilHVPNsa"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Badman",
-        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Laserbeam (Sullivan King Remix)",
         "url": "https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP"
       },
@@ -859,6 +839,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Badman",
+        "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
+      },
+      "artists": [
+        {
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Falling Apart",
         "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
       },
@@ -875,30 +875,6 @@
       "duration_ms": 238344,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Skydive",
-        "url": "https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        },
-        {
-          "name": "Chrishira Perrier",
-          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
-        }
-      ],
-      "duration_ms": 152083,
-      "name": "Skydive",
-      "url": "https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -927,22 +903,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "My Heart Has Teeth (From \u201cResident Evil\u201d)",
         "url": "https://open.spotify.com/album/0dfwFYOSdC2bDAvepzVZ90"
       },
@@ -961,20 +921,44 @@
       "url": "https://open.spotify.com/track/5cLFhtbjth4y4RA8fsXfRZ"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
+      "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+        "name": "Skydive",
+        "url": "https://open.spotify.com/album/0z8yPgvnMcFWNcr7oe0OPC"
       },
       "artists": [
         {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        },
+        {
+          "name": "Chrishira Perrier",
+          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+      "duration_ms": 152083,
+      "name": "Skydive",
+      "url": "https://open.spotify.com/track/3NIsSYGL4i9ogRT6hW5b01"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 183424,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Angels Landing",
-        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "FrostTop",
-          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Angels Landing",
-      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "fisticuffs (feat. tiLLie)",
         "url": "https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 237600,
       "name": "fisticuffs (feat. tiLLie)",
       "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Angels Landing",
+        "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Angels Landing",
+      "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/43HIQqkZxfKvGAHY9txU4u"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0B9aBa926M7kus4kDZyLEd"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "SKINS",
         "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/43HIQqkZxfKvGAHY9txU4u"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0B9aBa926M7kus4kDZyLEd"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "FRACTALS",
+        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Boogie T",
+          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Gummy Worm (feat. Boogie T)",
+      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 238285,
       "name": "Reason For Fighting (feat. ERV ELLO)",
       "url": "https://open.spotify.com/track/2L2rzhnx1Xr6LiGuaYMepY"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "FRACTALS",
-        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Boogie T",
-          "url": "https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Gummy Worm (feat. Boogie T)",
-      "url": "https://open.spotify.com/track/3CvIbxdih7XqVgtoRmYMAq"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Desperado",
-        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 233046,
-      "name": "Desperado",
-      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Power Stone",
         "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Desperado",
+        "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 233046,
+      "name": "Desperado",
+      "url": "https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 194813,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Spacetime (feat. NEVVE)",
         "url": "https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6U0UPL1FnK7HXETx8DdYae"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 194813,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5PT3qIw4UV403M7MgZJWmc"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Dilemma",
+        "url": "https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD"
+      },
+      "artists": [
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "duration_ms": 209677,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Revive EP",
         "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Dilemma",
-        "url": "https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD"
-      },
-      "artists": [
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
-        }
-      ],
-      "duration_ms": 209677,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1989,6 +1989,30 @@
       "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
     },
     {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Between Two",
+        "url": "https://open.spotify.com/album/1zp3TAlnDa1X6Fob4hViWu"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "David Feldman",
+          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
+        },
+        {
+          "name": "Tim Moyo",
+          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
+        }
+      ],
+      "duration_ms": 167467,
+      "name": "Between Two",
+      "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Ding Dong",
@@ -2047,26 +2071,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "capshun",
-          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Prismata (Dark)",
         "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
       },
@@ -2083,6 +2087,26 @@
       "duration_ms": 160000,
       "name": "Check",
       "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/3ywLCMZLSe12Q5Xuc8m1Pj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "capshun",
+          "url": "https://open.spotify.com/artist/1iHaJ84BqipzAefeXNAsdL"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/2ionHuKVoJhnih3TAZ1di9"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2173,30 +2197,6 @@
       "url": "https://open.spotify.com/track/3VC4xbdEJ6W1RkAQ20Wto1"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Between Two",
-        "url": "https://open.spotify.com/album/1zp3TAlnDa1X6Fob4hViWu"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "David Feldman",
-          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
-        },
-        {
-          "name": "Tim Moyo",
-          "url": "https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1"
-        }
-      ],
-      "duration_ms": 167467,
-      "name": "Between Two",
-      "url": "https://open.spotify.com/track/5mQaLrxEBrqBbZFVtCCKUE"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "EMBRACE",
@@ -2235,26 +2235,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Cheat Code",
-        "url": "https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "REDLESS",
-          "url": "https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Time Warp (Level Up Remix)",
         "url": "https://open.spotify.com/album/0QMYcUTAwKEywkh751fQ0t"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 159452,
       "name": "Time Warp - Level Up Remix",
       "url": "https://open.spotify.com/track/7JCNCl96gsfGa78FHKDm2a"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Cheat Code",
+        "url": "https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "REDLESS",
+          "url": "https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
         "name": "Hollow (with DeathbyRomy)",
         "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 198046,
       "name": "Hollow (with DeathbyRomy)",
       "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Don't Look Back (Moore Kismet Remix)",
         "url": "https://open.spotify.com/album/58hRScGH70fQ3w5klmi0V2"
       },
@@ -2763,6 +2747,22 @@
       "duration_ms": 292071,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/0t9RRa08BNjaNfnKlY6mIU"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
     },
     {
       "added_at": "2022-10-21 04:00:00",

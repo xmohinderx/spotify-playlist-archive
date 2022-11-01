@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 218366,
+  "num_followers": 218570,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDJjZWQ2MzBkZTBhNWI1MThmMGE0YmJlNjU0NmIwM2U1",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGMxZWI3MWVkMDRiNGM5YWM0MzBlNTQ5Nzk3Yjc1NTg4",
   "tracks": [
     {
       "added_at": "2022-09-23 04:01:00",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/66yl3ULKXkjvoZrinCJdj4"
     },
     {
-      "added_at": "2022-10-31 01:23:25",
+      "added_at": "2022-11-01 01:25:45",
       "album": {
         "name": "Outtakes: 'Law of Attraction' Session",
         "url": "https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr"
     },
     {
-      "added_at": "2022-10-31 01:23:25",
+      "added_at": "2022-11-01 01:25:45",
       "album": {
         "name": "Third Wave Mischief",
         "url": "https://open.spotify.com/album/06AEoRXo7wFnISC0wytqJj"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
-      "added_at": "2022-10-31 01:23:25",
+      "added_at": "2022-11-01 01:25:45",
       "album": {
         "name": "London 1969",
         "url": "https://open.spotify.com/album/3YqvadIdZczYILvNKJN2IZ"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg"
     },
     {
-      "added_at": "2022-10-31 01:23:25",
+      "added_at": "2022-11-01 01:25:45",
       "album": {
         "name": "Toots",
         "url": "https://open.spotify.com/album/0d6HlR5awomDFeLNPqrhXw"
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
     },
     {
-      "added_at": "2022-09-16 04:01:00",
-      "album": {
-        "name": "A Town Called Earth",
-        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
-      },
-      "artists": [
-        {
-          "name": "The Greyboy Allstars",
-          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Turnip's Big Move",
-      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Maria Fuma\u00e7a (Remasterizado)",
@@ -633,36 +617,20 @@
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2022-09-16 04:01:00",
       "album": {
-        "name": "SOURCE",
-        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
+        "name": "A Town Called Earth",
+        "url": "https://open.spotify.com/album/2Y3OhEypr4fTgWhXI6hRny"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+          "name": "The Greyboy Allstars",
+          "url": "https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07"
         }
       ],
-      "duration_ms": 404773,
-      "name": "The Message Continues",
-      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Looking Back / Paint It Black",
-        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
-      },
-      "artists": [
-        {
-          "name": "Nautilus",
-          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
-        }
-      ],
-      "duration_ms": 221247,
-      "name": "Looking Back",
-      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
+      "duration_ms": 263173,
+      "name": "Turnip's Big Move",
+      "url": "https://open.spotify.com/track/5crKy5IbHDYjzuvZbqUmNt"
     },
     {
       "added_at": "2022-08-26 04:02:00",
@@ -699,6 +667,38 @@
       "duration_ms": 160450,
       "name": "Cold As Weiss",
       "url": "https://open.spotify.com/track/4MqOTLIg1f6qomgOKkxkKp"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "SOURCE",
+        "url": "https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 404773,
+      "name": "The Message Continues",
+      "url": "https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Looking Back / Paint It Black",
+        "url": "https://open.spotify.com/album/3Jjw4UwZ54whJSLgP7qNBH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 221247,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/623GBDquxF9q6vH4pTn0kT"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -805,34 +805,6 @@
       "url": "https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2"
     },
     {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Cream Puff War",
-        "url": "https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp"
-      },
-      "artists": [
-        {
-          "name": "Grateful Brass",
-          "url": "https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp"
-        },
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Rich Armstrong",
-          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
-        }
-      ],
-      "duration_ms": 222562,
-      "name": "Cream Puff War",
-      "url": "https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "So Cold",
@@ -891,6 +863,34 @@
       "duration_ms": 225906,
       "name": "Funky Snakefoot",
       "url": "https://open.spotify.com/track/5nXpfnX21d3Sed5bT68wln"
+    },
+    {
+      "added_at": "2022-09-23 04:01:00",
+      "album": {
+        "name": "Cream Puff War",
+        "url": "https://open.spotify.com/album/7JsqgqNXvBtnlMdAY4EXKp"
+      },
+      "artists": [
+        {
+          "name": "Grateful Brass",
+          "url": "https://open.spotify.com/artist/1cSXMjY8e1lg44bA5usiFp"
+        },
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        },
+        {
+          "name": "Rich Armstrong",
+          "url": "https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs"
+        }
+      ],
+      "duration_ms": 222562,
+      "name": "Cream Puff War",
+      "url": "https://open.spotify.com/track/3iaNLl7wvZ13qEUHfaR1PP"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
+      "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+        "name": "YUNIK\u014dN",
+        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
       },
       "artists": [
         {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+          "name": "New Cool Collective",
+          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
         }
       ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+      "duration_ms": 205160,
+      "name": "Tokisan",
+      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2021-06-11 04:01:00",
@@ -1121,6 +1121,22 @@
       "url": "https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z"
     },
     {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Glide",
@@ -1135,22 +1151,6 @@
       "duration_ms": 192999,
       "name": "Glide",
       "url": "https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "YUNIK\u014dN",
-        "url": "https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR"
-      },
-      "artists": [
-        {
-          "name": "New Cool Collective",
-          "url": "https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Tokisan",
-      "url": "https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR"
     },
     {
       "added_at": "2020-10-09 04:01:00",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/5CB7h8v5ASu05I9oN2AThZ"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Andromeda Style Fuunk",
-        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
-      },
-      "artists": [
-        {
-          "name": "Wonky Logic",
-          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
-        }
-      ],
-      "duration_ms": 230625,
-      "name": "Andromeda Style Fuunk",
-      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
-    },
-    {
       "added_at": "2020-10-09 04:01:00",
       "album": {
         "name": "Pressure Sensitive",
@@ -1295,6 +1279,22 @@
       "duration_ms": 252026,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/1ZQshyFcprLYBBjPixICfi"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Andromeda Style Fuunk",
+        "url": "https://open.spotify.com/album/4n7ry0Hyh4HxNqpn5k08cY"
+      },
+      "artists": [
+        {
+          "name": "Wonky Logic",
+          "url": "https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl"
+        }
+      ],
+      "duration_ms": 230625,
+      "name": "Andromeda Style Fuunk",
+      "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
       "added_at": "2021-06-18 04:01:00",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/1n8HIzFUOJ0nII0xka0fBs"
     },
     {
-      "added_at": "2020-10-09 04:01:00",
-      "album": {
-        "name": "Shout It Out",
-        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 371080,
-      "name": "The Hump",
-      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
-    },
-    {
       "added_at": "2021-02-05 05:01:00",
       "album": {
         "name": "Sunray Junonia",
@@ -1375,6 +1359,22 @@
       "duration_ms": 300000,
       "name": "Sunray Junonia",
       "url": "https://open.spotify.com/track/10LzsI1oHVeNpplXBE1RY7"
+    },
+    {
+      "added_at": "2020-10-09 04:01:00",
+      "album": {
+        "name": "Shout It Out",
+        "url": "https://open.spotify.com/album/1F3IHNXBpw0H18SzcJIYv1"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 371080,
+      "name": "The Hump",
+      "url": "https://open.spotify.com/track/2A8KUcV16yCGc7wwXYyFz7"
     },
     {
       "added_at": "2022-03-04 05:01:00",

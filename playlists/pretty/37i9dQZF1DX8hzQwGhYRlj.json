@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 26391,
+  "num_followers": 26410,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDg2MjJmYWJiN2RmM2IzNTdjYzVkN2I2OTE3NDg4Zjg0",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDg5YTU1ZDFmMTE1MGE4NDNkYzQzOWM2OWE4ZDIzODYy",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 80026,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 1, Arietta",
+      "url": "https://open.spotify.com/track/74M0tufPG2qehuK9an637o"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Peer Gynt Suites Nos.1 & 2; From Holberg's Time; Sigurd Jorsalfar",
         "url": "https://open.spotify.com/album/3seAsETnOyscPpXkoblvMw"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 226666,
       "name": "Peer Gynt Suite No. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/2NOsBN5RdlHUMxlTYOR41f"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 80026,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 1, Arietta",
-      "url": "https://open.spotify.com/track/74M0tufPG2qehuK9an637o"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -727,30 +727,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
-        "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Khatia Buniatishvili",
-          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
-        }
-      ],
-      "duration_ms": 472947,
-      "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
-      "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -771,6 +747,30 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Franck, Grieg, Dvorak: Sonatas for violin & piano",
+        "url": "https://open.spotify.com/album/4uV6IfyA4Chwo8pRxyQkoB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "duration_ms": 472947,
+      "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: III. Allegro animato",
+      "url": "https://open.spotify.com/track/0eZpfuon31nPR5VdwQNhzO"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Songs",
-        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
       },
       "artists": [
         {
@@ -956,17 +956,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Anne Sofie von Otter",
-          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
-        },
-        {
-          "name": "Bengt Forsberg",
-          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
         }
       ],
-      "duration_ms": 377000,
-      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
-      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
+      "duration_ms": 205400,
+      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
+      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -995,8 +991,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+        "name": "Grieg: Songs",
+        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
       },
       "artists": [
         {
@@ -1004,13 +1000,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Bengt Forsberg",
+          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
-      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
+      "duration_ms": 377000,
+      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
+      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
-      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/0bY9XRCl9JwYFNbsdFk8Nj"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 255733,
       "name": "6 Orchestral Songs, EG 177: No. 5, Last Spring",
       "url": "https://open.spotify.com/track/5VWwF1Hj8tILTyituClVM2"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Grieg: Lyric Pieces, Book 6, Op. 57: No. 2, Gade",
+      "url": "https://open.spotify.com/track/56G2FD2KBFu8AqFLmEbSD9"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
-      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Edvard Grieg in Hardanger",
         "url": "https://open.spotify.com/album/7mHOWB6fyTsStgN8GIOrys"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 285226,
       "name": "Andantino Serioso, No 4 Of Four Album Leaves, Op.28",
       "url": "https://open.spotify.com/track/17FXboBi0kYCoiGOnpku9I"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale: Molto allegro",
+      "url": "https://open.spotify.com/track/57SjPojnoiQYo63PUDDiwq"
     },
     {
       "added_at": "2022-09-30 04:01:00",

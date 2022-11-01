@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,591 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,628 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 24 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 |
 | 25 | [Reach](https://open.spotify.com/track/5Qh5dgVlsM9wAC8CczAq3G) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Reach](https://open.spotify.com/album/4qfKKvcWUcxJLsw1CcRfiy) | 3:38 |
 | 26 | [I Remember](https://open.spotify.com/track/4i2WXVsRASNJwwv6zKrJBj) | [James iD](https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS) | [I Remember](https://open.spotify.com/album/08ymuFZ6OEEQrNuIs6YVcr) | 2:53 |
-| 27 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
+| 27 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
 | 28 | [Apricity \(feat\. jules\)](https://open.spotify.com/track/0WgPeBuFxnyiFiPt5gdsEL) | [Morgan Hislop](https://open.spotify.com/artist/1M1AEVIsxhvm4lAkuC2LyC), [jules](https://open.spotify.com/artist/38lbchSS1uIomHvHUNtJp9) | [Apricity \(feat\. jules\)](https://open.spotify.com/album/3wjEG5ukwncxnrMLtrBjRU) | 3:36 |
-| 29 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
+| 29 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 30 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 31 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
 | 32 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 40 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 41 | [Let You Go](https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:54 |
 | 42 | [I'm a Kid](https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Melt Away](https://open.spotify.com/album/4aakJBO52AmbAK0sMy8blA) | 3:26 |
-| 43 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
-| 44 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
+| 43 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
+| 44 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 | 45 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
 | 46 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 |
 | 47 | [Don't Hurt Me Baby](https://open.spotify.com/track/7ez7Ld3pAXLa7QWgnr5a1e) | [Airwolf Paradise](https://open.spotify.com/artist/0c3I7EPZUCCG7khbUwQDjl) | [Don't Hurt Me Baby](https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 50 | [I Felt Love](https://open.spotify.com/track/3m04gMIUG6HgYHn65fy5Xt) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Under 1 House](https://open.spotify.com/album/1PkQpn0KN9pJhKfzJQejjv) | 3:12 |
 
-Snapshot ID: `MTY2MjM2OTA5MSwwMDAwMDAwMDFhNGIwOWUxMmE5MWJlNjJiYTA2NTg0YTE0MDA0NjA0`
+Snapshot ID: `MTY2MjM2OTA5MSwwMDAwMDAwMGVlZmY2NWMxMGIyY2YzMWIzZDEyMTE3YTc3ZjdhNzVi`

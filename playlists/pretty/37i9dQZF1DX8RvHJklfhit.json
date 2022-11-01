@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 130469,
+  "num_followers": 130513,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMGQ4ZTBjYzI2Yzg5ZGMyODE0MjQ3NmUwZjk2ZTEwZWVj",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDA5YjZjOWRiMTQ4YmY1ZGZiODA2ZmMyOGJkY2JmNDQ0",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "BACH",
         "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 206611,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -283,6 +267,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Viaje Por Lo Eterno",
         "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
@@ -299,18 +299,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
+      "duration_ms": 209449,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -327,6 +327,22 @@
       "duration_ms": 127272,
       "name": "Ugotme",
       "url": "https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -363,22 +379,6 @@
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 209449,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Gratitud",
-        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 272187,
-      "name": "La Crecida",
-      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "En Cantos",
         "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/4wojL8SZIhIi5DRxx7NYbN"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "duration_ms": 272187,
+      "name": "La Crecida",
+      "url": "https://open.spotify.com/track/4HwbiaKQonIxrxhqe5P6ma"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -923,18 +923,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -955,18 +955,18 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
       },
       "artists": [
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
-      },
-      "artists": [
-        {
-          "name": "MKRNI",
-          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Inercia",
-      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Musica Para Despues De Almuerzo",
         "url": "https://open.spotify.com/album/1exvDLSiFL6TncjgMrkOAP"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 195693,
       "name": "Despues De Almuerzo Parte 3",
       "url": "https://open.spotify.com/track/4vFmMHwyLzIJ9GCY7yPiiJ"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/77vCDDC5hVzCzZBlE6sOeR"
+      },
+      "artists": [
+        {
+          "name": "MKRNI",
+          "url": "https://open.spotify.com/artist/1X3EisQbC1AnVLw8I9zvFp"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Inercia",
+      "url": "https://open.spotify.com/track/6QLvtmaZbRgbaUmFtnbor5"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 137746,
-      "name": "Sono",
-      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Nefertiti",
         "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 137746,
+      "name": "Sono",
+      "url": "https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "I'm Your Empress Of",
         "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "DUALITY",
-        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
-      },
-      "artists": [
-        {
-          "name": "Tatiana Hazel",
-          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "IN MY ROOM!",
-      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Marem Ladson",
         "url": "https://open.spotify.com/album/63BrmIxMevcdnmUJg0NWLZ"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 221931,
       "name": "All My Storms",
       "url": "https://open.spotify.com/track/30tqpZsnx3NBLbxZy8kPR1"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "DUALITY",
+        "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "IN MY ROOM!",
+      "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "a lifetime with you",
-      "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Shining in the Dark",
         "url": "https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6"
       },
@@ -1407,6 +1407,22 @@
       "duration_ms": 260702,
       "name": "Shining in the Dark",
       "url": "https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "a lifetime with you",
+      "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1471,22 +1487,6 @@
       "duration_ms": 263425,
       "name": "Si T\u00fa Est\u00e1s Bien",
       "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 250073,
-      "name": "Malas Amistades",
-      "url": "https://open.spotify.com/track/1fVVT89PhHDh9COdU5DB9B"
     },
     {
       "added_at": "2022-08-05 16:11:36",

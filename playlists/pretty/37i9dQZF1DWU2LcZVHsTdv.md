@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,280 likes - 131 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,347 likes - 131 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

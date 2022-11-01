@@ -4,7 +4,7 @@
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
+74 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/0STv48kztmKltDvms2WfHH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,13 +55,14 @@
 | [Love Gun](https://open.spotify.com/track/0SPBrxOUEMIKugXR4bFhxs) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:18 | 2022-01-11 |  |
 | [Love Theme From Kiss](https://open.spotify.com/track/3h65F8R0FKA70GRGdt1ftw) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 2:24 | 2022-01-11 | 2022-10-13 |
 | [Modern Day Delilah](https://open.spotify.com/track/7jx8RjpHh06VJxMDXblPcd) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [KISS 40](https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM) | 3:36 | 2022-01-11 | 2022-10-13 |
+| [Not For The Innocent \- Demo](https://open.spotify.com/track/4Q4uVPZqsMKI8sAGJxscqA) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Not For The Innocent \(Demo\)](https://open.spotify.com/album/3A4bcHaI338ABAkjZ02TJL) | 4:36 | 2022-10-31 |  |
 | [Plaster Caster](https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Love Gun](https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b) | 3:28 | 2022-01-11 | 2022-01-27 |
 | [Psycho Circus](https://open.spotify.com/track/1D28pacrVWg8sg7v00l4uR) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Psycho Circus](https://open.spotify.com/album/0A4lWyi4wbORjnlf4WmvFd) | 5:30 | 2022-01-11 |  |
 | [Reason To Live](https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 4:00 | 2022-01-11 |  |
 | [Rise To It](https://open.spotify.com/track/7gAHDwN4iqkjFozSODtWBn) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hot In The Shade](https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM) | 4:04 | 2022-01-11 | 2022-01-13 |
 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 | 2022-01-11 |  |
 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2022-01-11 |  |
-| [Rock And Roll All Nite \- Live From Detroit, MI/1975](https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 4:07 | 2022-01-12 |  |
+| [Rock And Roll All Nite \- Live From Detroit, MI/1975](https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive!](https://open.spotify.com/album/6TRmLIsPKSPS71Cnq8FiMc) | 4:07 | 2022-01-12 | 2022-11-01 |
 | [Rock N' Rolls Royce \- Gene Simmons Demo](https://open.spotify.com/track/38uoylRVHZNxcCzfq7YydG) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Destroyer \(45th Anniversary Super Deluxe\)](https://open.spotify.com/album/6HmXiwrdWemxIYbzR7GXtk) | 3:02 | 2022-01-11 | 2022-10-13 |
 | [Rocket Ride](https://open.spotify.com/track/3xjObvccQUvtUcV5GL3Hh3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Alive II \(Live\)](https://open.spotify.com/album/32e3bKpExvJ6o3H9UZ9rV1) | 4:08 | 2022-01-13 | 2022-01-17 |
 | [Save Your Love](https://open.spotify.com/track/1RUQIkl3vHaOUPKC885STa) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:40 | 2022-01-13 | 2022-07-25 |

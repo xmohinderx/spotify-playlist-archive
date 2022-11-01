@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1469697,
+  "num_followers": 1469994,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDQ2NDc3M2U3Y2FmNzVhMTdjNGI3MjVhNWJkZDVhMGE4",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDE4NTMzODYxMmFlMGE2MWJiMDRiMmQwYTY2ZjFiMDFm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Music For a Sushi Restaurant",
-      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
         "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 196519,
       "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Music For a Sushi Restaurant",
+      "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 169306,
       "name": "I Can't Love You Anymore",
       "url": "https://open.spotify.com/track/4tKtMWS8LZRvWhzuHKRIdr"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 220413,
       "name": "Last Request",
       "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239146,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/66j8eOruoDph1NWL9vAI1W"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/52xFKeXEHm2fI8jpia0oUS"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Busyhead",
-        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Mess",
-      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/7N2QQisOFbQ0rWHDwIKd8O"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 189672,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/7CFPVdKn4FFkIm7rZYhNZQ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Busyhead",
+        "url": "https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/1BlQWQgGP84r4GYUVty4Ar"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 163116,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Smiling All The Way Back Home",
         "url": "https://open.spotify.com/album/4MhanVyOKDTIQs8ZhQqNe8"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Sunset",
-        "url": "https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 163116,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
-      },
-      "artists": [
-        {
-          "name": "Blake Rose",
-          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
-        }
-      ],
-      "duration_ms": 234623,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Hold Me While You Wait",
         "url": "https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 205686,
       "name": "Hold Me While You Wait",
       "url": "https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 234623,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Gamesofluck",
-        "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "Gamesofluck",
-      "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Tomorrow EP",
         "url": "https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Gamesofluck",
+        "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "Gamesofluck",
+      "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "L\u00c9ON",
-        "url": "https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 224063,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Happy For You",
         "url": "https://open.spotify.com/album/20cXMWG0KcvCA2N6O5ixbY"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 226402,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
+      },
+      "artists": [
+        {
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
+        }
+      ],
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     }
   ],
   "unique_name": "Dinner with Friends",

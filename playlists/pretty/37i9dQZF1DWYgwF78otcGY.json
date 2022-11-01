@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 24043,
+  "num_followers": 24050,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDdkYTI4ODc1OGFhY2YwMTU5YTNhZGM2YjJjYmI0Y2Nl",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDA5NjFhMDNlMDIwNmQ2MGI5YmUwZjYyMTI0ZGYzNTll",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -283,6 +283,22 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
+        "name": "Sean den f\u00f6rste Banan",
+        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
+      },
+      "artists": [
+        {
+          "name": "Sean Banan",
+          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Sean den f\u00f6rste Banan",
+      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
         "name": "X My Heart",
         "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Sean den f\u00f6rste Banan",
-        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
-      },
-      "artists": [
-        {
-          "name": "Sean Banan",
-          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Sean den f\u00f6rste Banan",
-      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "N\u00e4r vindarna viskar mitt namn - Single",
         "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
       },
@@ -331,6 +331,22 @@
       "duration_ms": 184786,
       "name": "N\u00e4r vindarna viskar mitt namn",
       "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "As I Lay Me Down",
+        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -363,22 +379,6 @@
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "As I Lay Me Down",
-        "url": "https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z"
     },
     {
       "added_at": "2019-02-28 12:57:58",

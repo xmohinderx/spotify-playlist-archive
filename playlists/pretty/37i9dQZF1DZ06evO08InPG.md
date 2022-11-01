@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08InPG.md) - [plain]
 | 43 | [Kaleidoscope](https://open.spotify.com/track/2fNqGK13Fde9WpJ1naARev) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Catharsis](https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq) | 4:03 |
 | 44 | [I Am Hell \(Sonata in C\#\)](https://open.spotify.com/track/5WSIVWdeIkCWmvTPUmNq0K) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto the Locust \(Special Edition\)](https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz) | 8:27 |
 | 45 | [Sail Into The Black](https://open.spotify.com/track/69V88Pb93ZrKu2M0CTOX3P) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 8:29 |
-| 46 | [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 |
-| 47 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 |
+| 46 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 |
+| 47 | [Bite the Bullet](https://open.spotify.com/track/1SjAaMbFyJnAxLUZwlrhHi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Through the Ashes of Empires](https://open.spotify.com/album/6LTkG6sc02q4L1zCm3jD6d) | 3:21 |
 | 48 | [Die Young \(Acoustic\)](https://open.spotify.com/track/1YmDXTV2VyDo72p7iJeKfb) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Die Young \(Acoustic\)](https://open.spotify.com/album/5J3UnugyExvTgDHmqQTPCu) | 4:57 |
 | 49 | [Beneath The Silt](https://open.spotify.com/track/1kIkgIEMPwhZMe0klLtmVP) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Bloodstone & Diamonds](https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX) | 4:43 |
 | 50 | [Be Still And Know](https://open.spotify.com/track/1W7tmSRMAnpCIyRGVAu62h) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [Unto The Locust](https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3) | 5:43 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBlMTA3NTdmMDgyMjUxMzI3MjNlMjMwMmVmN2YyZjQ2MA==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA4ODQwMmQ5NzVlNDVjYjJiNWI0Y2ZjMTYzNDVhOWZhYQ==`

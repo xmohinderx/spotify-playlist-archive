@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 76560,
       "name": "7 Preludes, Op. 17 : 7 Preludes, Op. 17: No. 6 in B flat: Andante doloroso",
       "url": "https://open.spotify.com/track/1vrnotlgED9toLpMsfiUu7"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 1106000,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Hymns from a Great Temple: Hymn No. 2",
       "url": "https://open.spotify.com/track/0BabrdezSUxE95TTjLhAxY"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-12",
+      "date_removed": null,
       "duration_ms": 365306,
       "name": "La Muerte en Medias Caladas Negras",
       "url": "https://open.spotify.com/track/5JA6S6rXT6GkSu64nSeqtg"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 790840,
       "name": "Premonition Rag",
       "url": "https://open.spotify.com/track/0OnxvzakK3YBnacYSrlDvY"
@@ -1893,10 +1893,28 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 396160,
       "name": "The Harp of New Albion: V. Premonition Rag",
       "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
+    },
+    {
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566400,
+      "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
+      "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
     },
     {
       "album": {
@@ -1959,6 +1977,24 @@
       "duration_ms": 132960,
       "name": "The New Albion Chorale - Reprise",
       "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
+    },
+    {
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148400,
+      "name": "The Oldtimer",
+      "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
     },
     {
       "album": {
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
@@ -2151,7 +2187,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 180869,
       "name": "Zucchini",
       "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"

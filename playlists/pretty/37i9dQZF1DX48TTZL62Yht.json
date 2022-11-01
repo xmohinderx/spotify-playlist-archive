@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Quavo, Takeoff",
-  "num_followers": 423695,
+  "num_followers": 423745,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDY0YzIwZjY3Y2Y0YzBmNGM3ODc0MGY1N2VjM2Y2MGZh",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGQ0MWIwZGQ2MThmMjdlYTBlMDdjZWZkZWJmYzgzNGYx",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 142273,
-      "name": "Yes Indeed",
-      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -347,22 +327,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Hall of Fame 2.0",
-        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Bad Man (Smooth Criminal)",
-      "url": "https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Bad Man (Smooth Criminal)",
+      "url": "https://open.spotify.com/track/62l3NSQPUxvcwwzKUmysrE"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "THE GOAT",
-        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 132832,
-      "name": "Martin & Gina",
-      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 172933,
       "name": "PUFFIN ON ZOOTIEZ",
       "url": "https://open.spotify.com/track/1qMMYpVatbRITKCfq1gasi"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 132832,
+      "name": "Martin & Gina",
+      "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The Bigger Artist",
-        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 209269,
-      "name": "Drowning (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 309327,
+      "name": "Churchill Downs (feat. Drake)",
+      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -871,6 +891,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Cooped Up",
         "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
       },
@@ -887,42 +923,6 @@
       "duration_ms": 185857,
       "name": "Cooped Up (with Roddy Ricch)",
       "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 309327,
-      "name": "Churchill Downs (feat. Drake)",
-      "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "GTTM: Goin Thru the Motions",
         "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
       },
@@ -1139,22 +1123,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1175,6 +1155,26 @@
       "duration_ms": 181688,
       "name": "GO (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2rPHUAeUPbNgTmK18FPTiZ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6wyhUr4Xw8z5uSy0AhoZfU"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1347,6 +1347,38 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Blueberry Faygo",
+        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "duration_ms": 162546,
+      "name": "Blueberry Faygo",
+      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
         "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
       },
@@ -1371,42 +1403,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Blueberry Faygo",
-        "url": "https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 162546,
-      "name": "Blueberry Faygo",
-      "url": "https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Virgo World",
-        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Out Of Love (feat. Internet Money)",
-      "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -1419,22 +1415,6 @@
       "duration_ms": 200547,
       "name": "Super Gremlin",
       "url": "https://open.spotify.com/track/1Y5Jvi3eLi4Chwqch9GMem"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1455,6 +1435,26 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Virgo World",
+        "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Out Of Love (feat. Internet Money)",
+      "url": "https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "Enemies (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 152612,
       "name": "Scrape It Off (feat. Lil Uzi Vert & Don Toliver)",
       "url": "https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "Enemies (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/0Xek5rqai2jcOWCYWJfVCF"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Stunna Gambino",
-          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "NOT SOBER (feat. Polo G & Stunna Gambino)",
-      "url": "https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "CLOUDS (THE MIXTAPE)",
         "url": "https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t"
       },
@@ -1951,6 +1927,26 @@
       "duration_ms": 173288,
       "name": "Walk Em Down (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Over The Top (feat. Drake)",
+        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
     }
   ],
   "unique_name": "Hip-Hop Favourites",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 27553,
+  "num_followers": 27584,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDY0MWJiZDIxZGJlNDY4YWY2MTJjNzkzZmE0NDYwMTU3",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGI4N2RlMWQzMzE2ZWRiOTgzZDcyNGI2NDI0N2IxMzQ5",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -107,26 +107,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Vigilante",
-        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 456960,
-      "name": "Juanito Alima\u00f1a",
-      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -159,6 +139,26 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "Vigilante",
+        "url": "https://open.spotify.com/album/0gNCmEbPNV1OJ6JIcExTB7"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 456960,
+      "name": "Juanito Alima\u00f1a",
+      "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -175,22 +175,6 @@
       "duration_ms": 445080,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Numero 7",
-        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 298515,
-      "name": "Un verano en Nueva York",
-      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -239,46 +223,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Plant\u00e9 Bandera",
-        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Chamaco Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
-        }
-      ],
-      "duration_ms": 302413,
-      "name": "Trucutu",
-      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Lo Mato",
-        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 328786,
-      "name": "El D\u00eda De Mi Suerte",
-      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
       },
@@ -295,6 +239,42 @@
       "duration_ms": 197888,
       "name": "Tiene Sabor (feat. Omara Portuondo)",
       "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Numero 7",
+        "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 298515,
+      "name": "Un verano en Nueva York",
+      "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Plant\u00e9 Bandera",
+        "url": "https://open.spotify.com/album/2VdhOXWqytn4EzEFZvw9Ae"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Chamaco Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/5xrlgKRrNvDt5KSbcBbTwx"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Trucutu",
+      "url": "https://open.spotify.com/track/64g9DmjfX5oZ2MZ3Dnv5oY"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -363,18 +343,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+        "name": "Lo Mato",
+        "url": "https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+      "duration_ms": 328786,
+      "name": "El D\u00eda De Mi Suerte",
+      "url": "https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -391,6 +375,38 @@
       "duration_ms": 238413,
       "name": "La negra Tomasa",
       "url": "https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Soy Feliz",
+        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Las Tumbas",
+      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -439,6 +455,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
+        "name": "La Salsa del Conjunto Salsa",
+        "url": "https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8"
+      },
+      "artists": [
+        {
+          "name": "Wayne Gorbea",
+          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
+        }
+      ],
+      "duration_ms": 289960,
+      "name": "Estamos en Salsa",
+      "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
         "name": "Asalto Navide\u00f1o",
         "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
       },
@@ -459,38 +491,6 @@
       "duration_ms": 334080,
       "name": "La Murga",
       "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "Soy Feliz",
-        "url": "https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Las Tumbas",
-      "url": "https://open.spotify.com/track/4qD9JUCyC4IrCOO2hGDVDw"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
-        "name": "La Salsa del Conjunto Salsa",
-        "url": "https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8"
-      },
-      "artists": [
-        {
-          "name": "Wayne Gorbea",
-          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "Estamos en Salsa",
-      "url": "https://open.spotify.com/track/6nONybSopBGecWPK0pcvva"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -531,26 +531,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "La Verdad de Joe Arroyo",
-        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270626,
-      "name": "Yamulemau",
-      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "25th Anniversary",
         "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
       },
@@ -567,22 +547,22 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+        "name": "La Verdad de Joe Arroyo",
+        "url": "https://open.spotify.com/album/74zkwPCMHbyZhPnLE0fSE3"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         },
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+      "duration_ms": 270626,
+      "name": "Yamulemau",
+      "url": "https://open.spotify.com/track/0UCVLx34GEdkVkjDuSfB45"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -667,6 +647,26 @@
       "duration_ms": 287586,
       "name": "Cui Cui",
       "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
-        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 256349,
-      "name": "Traigo Salsa",
-      "url": "https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 233506,
       "name": "\u00bfQu\u00e9 Quiere la Ni\u00f1a?",
       "url": "https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Esto Fu\u00e9 Lo Que Trajo El Barco",
+        "url": "https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "duration_ms": 256349,
+      "name": "Traigo Salsa",
+      "url": "https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy"
     },
     {
       "added_at": "2020-06-16 21:18:22",

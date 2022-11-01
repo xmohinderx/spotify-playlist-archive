@@ -4,7 +4,7 @@
 
 > This is Little Simz\. The essential tracks, all in one playlist.
 
-37 songs - 2 hr 8 min - not published yet
+38 songs - 2 hr 13 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,10 +39,11 @@
 | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Proud of Me \(feat\. Little Simz\)](https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4) | 3:35 | 2022-10-28 |  |
 | [Selfish](https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:46 | 2022-10-28 |  |
 | [Shotgun](https://open.spotify.com/track/2KlgVJHyLEzEI4aBiGptij) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 3:08 | 2022-10-28 |  |
-| [Tainted](https://open.spotify.com/track/7G1azlIomvhZzgsMqgYwBh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:01 | 2022-10-28 |  |
+| [Tainted](https://open.spotify.com/track/7G1azlIomvhZzgsMqgYwBh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/5SvOOtR6GVcDawzPj5SwsM) | 4:01 | 2022-10-28 | 2022-11-01 |
 | [Two Worlds Apart](https://open.spotify.com/track/29nCFkQzewlDZKOnYSinZO) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 2:58 | 2022-10-28 |  |
 | [Venom](https://open.spotify.com/track/3A0ITFj6kbb9CggwtPe55f) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:34 | 2022-10-28 |  |
 | [where’s my lighter](https://open.spotify.com/track/77pRtEdMOE9DpVJLjfmrwb) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 3:53 | 2022-10-28 |  |
+| [Wings](https://open.spotify.com/track/1SEbQnQhi6zdChCiKUpQjB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [A Curious Tale of Trials + Persons](https://open.spotify.com/album/4hXcI8zGSBClqEs72f0GGR) | 4:06 | 2022-10-31 |  |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-10-28 |  |
 | [you should call mum](https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/6QrGmXbUtjyekuW83gXBBb) | 2:15 | 2022-10-28 |  |
 

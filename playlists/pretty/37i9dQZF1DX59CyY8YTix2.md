@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: BiSH
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,972 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,991 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 21 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
 | 22 | [ma ta ne](https://open.spotify.com/track/1don1Vrx90qZjIqhThSpSY) | [mismatch\-smile](https://open.spotify.com/artist/159vzWrM1lyDOOGqQGgHgR) | [INNERMOST](https://open.spotify.com/album/0UR5uSg0lAfBTAvzNZOj38) | 4:22 |
 | 23 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 |
-| 24 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
-| 25 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 24 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 25 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
 | 26 | [話をしよう](https://open.spotify.com/track/3ptQoeQIULXjrzmWEgCtzZ) | [レイラ](https://open.spotify.com/artist/1q6rCB21jRvn4eofLLuWOf) | [話をしよう](https://open.spotify.com/album/7B3EF0pO3c5XeymDwd2cBD) | 5:04 |
-| 27 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
+| 27 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
 | 28 | [ムーヴ](https://open.spotify.com/track/2ZZOFbq0vCAYSJKnZ6u5ld) | [青い](https://open.spotify.com/artist/7KFqxwEis6G5L0yAYqYrXe) | [ムーヴ](https://open.spotify.com/album/5I6fiujXDmKXJLvU8wBpJy) | 3:24 |
 | 29 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
 | 30 | [inu](https://open.spotify.com/track/3QFfhYe5yVWRR9Ot4N4Kev) | [superuwan](https://open.spotify.com/artist/3kWDQ2gwxECBuLi7cSyQTH) | [choyadoya](https://open.spotify.com/album/5YJfk2yFzXn8JXXRicS4LZ) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 47 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
 | 48 | [Sense](https://open.spotify.com/track/6Nawx5sqYFIbcx2qQgrA67) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Unleash](https://open.spotify.com/album/09kpnVq1iOLRwM8eWKXADw) | 3:24 |
 | 49 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
-| 50 | [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 |
+| 50 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 
-Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDNlNWFmMGJjM2M1YTA5MTE3YWQzMjllZmY5OTlmNGJj`
+Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDQwZjhjOTIzMDQ2YjEzZjQwMzZhZGMxMmI0NTAxYzU3`

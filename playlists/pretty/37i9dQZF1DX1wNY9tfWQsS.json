@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
-  "num_followers": 481577,
+  "num_followers": 481710,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMGQxOTVhN2Q0NTcyMTZmZDk0MjA1YThlMWY3YjFkOGQw",
+  "snapshot_id": "MTY2Mjc0ODkwNywwMDAwMDAwMGI0YWU5MGNjNDc3ZmNkZTE3ODJhYTk4MGE4YTMyNGMx",
   "tracks": [
     {
       "added_at": "2022-03-08 19:58:52",
@@ -97,22 +97,6 @@
       "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
-      "added_at": "2022-09-09 18:41:47",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 254319,
-      "name": "PLASTIC OFF THE SOFA",
-      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
-    },
-    {
       "added_at": "2022-03-08 19:58:52",
       "album": {
         "name": "At Last!",
@@ -127,6 +111,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2022-09-09 18:41:47",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 254319,
+      "name": "PLASTIC OFF THE SOFA",
+      "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 174000,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -315,26 +315,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 275080,
-      "name": "Love Galore (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 210346,
       "name": "Persuasive (with SZA)",
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 275080,
+      "name": "Love Galore (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 265106,
-      "name": "That's The Way Love Goes",
-      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Not Another Love Song",
         "url": "https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 217801,
       "name": "Not Another Love Song",
       "url": "https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 265106,
+      "name": "That's The Way Love Goes",
+      "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
-      "added_at": "2022-09-09 18:41:47",
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 207551,
-      "name": "everything",
-      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
-    },
-    {
       "added_at": "2022-03-08 19:58:52",
       "album": {
         "name": "Please Mr. Postman",
@@ -629,20 +613,20 @@
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
-      "added_at": "2022-03-08 19:58:52",
+      "added_at": "2022-09-09 18:41:47",
       "album": {
-        "name": "Ella Mai",
-        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 201609,
-      "name": "Shot Clock",
-      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+      "duration_ms": 207551,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -681,6 +665,22 @@
       "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Ella Mai",
+        "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 201609,
+      "name": "Shot Clock",
+      "url": "https://open.spotify.com/track/2GlATHCDbLW7xq5BE0Bz5g"
+    },
+    {
       "added_at": "2022-09-09 18:41:47",
       "album": {
         "name": "age/sex/location",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/2dOUErBzFZJ8l7MbV6FcYW"
     },
     {
-      "added_at": "2022-09-09 18:41:47",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 188989,
-      "name": "Freak Like Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
-    },
-    {
       "added_at": "2022-03-08 19:58:52",
       "album": {
         "name": "Bad Girls",
@@ -731,6 +715,22 @@
       "duration_ms": 295106,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
+    },
+    {
+      "added_at": "2022-09-09 18:41:47",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0aTksyiafCXTH3jbUIkwVs"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 188989,
+      "name": "Freak Like Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxF9OOlLhxslC3BEDIMfB"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -751,6 +751,22 @@
       "duration_ms": 245480,
       "name": "Party (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Crazy Tings",
+        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Crazy Tings",
+      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-03-08 19:58:52",
@@ -787,22 +803,6 @@
       "duration_ms": 216373,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
     },
     {
       "added_at": "2022-03-08 19:58:52",

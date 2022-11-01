@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDljYTU2NTIwMTkwNDFkNGZjY2JkMjJhN2JmMzQ1ODdh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg1YjdiMzZmNzZmMTU4MzVkNjk3MTllMGFhZDE1ODVh",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Julius Popper?",
         "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 247693,
       "name": "La Innombrable",
       "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Glup",
-        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
-      },
-      "artists": [
-        {
-          "name": "Glup!",
-          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Mi Destino",
-      "url": "https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -211,66 +211,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+        "name": "Glup",
+        "url": "https://open.spotify.com/album/3BLpp8f1EeWHPESunzu1F9"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+          "name": "Glup!",
+          "url": "https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Vida de Perros",
-        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 236426,
-      "name": "Llueve Sobre La Ciudad",
-      "url": "https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH"
-      },
-      "artists": [
-        {
-          "name": "Ciudad N\u00f3made",
-          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
-        }
-      ],
-      "duration_ms": 242871,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Rindanse Terricolas",
-        "url": "https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS"
-      },
-      "artists": [
-        {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Locura Espacial",
-      "url": "https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4"
+      "duration_ms": 205520,
+      "name": "Mi Destino",
+      "url": "https://open.spotify.com/track/01mNrMDaDseSKzrTmRfqKa"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -291,6 +243,38 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4L9szCk8k7IPt1LcdS0GfH"
+      },
+      "artists": [
+        {
+          "name": "Ciudad N\u00f3made",
+          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
+        }
+      ],
+      "duration_ms": 242871,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/0PtFopgpNT21GBHTA7QVvp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 236426,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "La Espada & la Pared",
         "url": "https://open.spotify.com/album/3jk145dS5MIeZ6NZBAtvY0"
       },
@@ -307,22 +291,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4QK2ecV3jFeTPI9c2C5Zih"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "No Me Hables de sufrir",
-      "url": "https://open.spotify.com/track/60xIw1We9dC9yzqKrdC1EK"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Besos de Mentira",
         "url": "https://open.spotify.com/album/2OzfXW8ByllSXhVx8AFSVe"
       },
@@ -335,6 +303,22 @@
       "duration_ms": 258415,
       "name": "Besos de Mentira",
       "url": "https://open.spotify.com/track/4Q8tPuSefGBkqA0Di28SHV"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rindanse Terricolas",
+        "url": "https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS"
+      },
+      "artists": [
+        {
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Locura Espacial",
+      "url": "https://open.spotify.com/track/0FauDhvAuanceOTIGQZAl4"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -371,6 +355,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Mala Fama",
+        "url": "https://open.spotify.com/album/2zuZybH0KHlQ3X2rETX7zN"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 248859,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/0t0uZpS1A6jXkUilUlVRVp"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Time Bazaar",
         "url": "https://open.spotify.com/album/2hFeS1xcEQx1vQA19nBfcR"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Mala Fama",
-        "url": "https://open.spotify.com/album/2zuZybH0KHlQ3X2rETX7zN"
+        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
+        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
       },
       "artists": [
         {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
         }
       ],
-      "duration_ms": 248859,
-      "name": "Mala Fama",
-      "url": "https://open.spotify.com/track/0t0uZpS1A6jXkUilUlVRVp"
+      "duration_ms": 226445,
+      "name": "Tren a la Luna",
+      "url": "https://open.spotify.com/track/6JCO6XWIAWAQcG2UG7pZAG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Funkybar\u00edtico Hed\u00f3nico Fant\u00e1stico",
-        "url": "https://open.spotify.com/album/3sf4mhDgb8pmUe5lOGaliL"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4QK2ecV3jFeTPI9c2C5Zih"
       },
       "artists": [
         {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
         }
       ],
-      "duration_ms": 226445,
-      "name": "Tren a la Luna",
-      "url": "https://open.spotify.com/track/6JCO6XWIAWAQcG2UG7pZAG"
+      "duration_ms": 235000,
+      "name": "No Me Hables de sufrir",
+      "url": "https://open.spotify.com/track/60xIw1We9dC9yzqKrdC1EK"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -467,22 +467,6 @@
       "duration_ms": 234104,
       "name": "Vete",
       "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Los Bunkers",
-        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 302538,
-      "name": "Entre Mis Brazos",
-      "url": "https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -555,38 +539,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Los Bunkers",
-        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 131511,
-      "name": "Fantas\u00edas Animadas de Ayer y Hoy",
-      "url": "https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Don\u00b4t Dream It\u00b4s Over",
-        "url": "https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU"
-      },
-      "artists": [
-        {
-          "name": "Ases Falsos",
-          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
-        }
-      ],
-      "duration_ms": 258474,
-      "name": "Don\u00b4t Dream It\u00b4s Over",
-      "url": "https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Rindanse Terricolas",
         "url": "https://open.spotify.com/album/2kkHIqwLFFLzwBiUHD9NtS"
       },
@@ -615,6 +567,38 @@
       "duration_ms": 224573,
       "name": "He Barrido el Sol",
       "url": "https://open.spotify.com/track/4d4JNtg5fvLenZVXK3JJfT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Don\u00b4t Dream It\u00b4s Over",
+        "url": "https://open.spotify.com/album/4p8CVAYlRBbG8xnNJljOLU"
+      },
+      "artists": [
+        {
+          "name": "Ases Falsos",
+          "url": "https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1"
+        }
+      ],
+      "duration_ms": 258474,
+      "name": "Don\u00b4t Dream It\u00b4s Over",
+      "url": "https://open.spotify.com/track/1f0jGDnI25u0l1jM3C0fkf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 302538,
+      "name": "Entre Mis Brazos",
+      "url": "https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -651,18 +635,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+        "name": "Bola de Fuego",
+        "url": "https://open.spotify.com/album/1IcdO8wRlwQGFY4rMCEWdZ"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Chancho En Piedra",
+          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
         }
       ],
-      "duration_ms": 199961,
-      "name": "Casualidades",
-      "url": "https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6"
+      "duration_ms": 187181,
+      "name": "Bola de Fuego",
+      "url": "https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -683,18 +667,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Bola de Fuego",
-        "url": "https://open.spotify.com/album/1IcdO8wRlwQGFY4rMCEWdZ"
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
       "artists": [
         {
-          "name": "Chancho En Piedra",
-          "url": "https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 187181,
-      "name": "Bola de Fuego",
-      "url": "https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6"
+      "duration_ms": 199961,
+      "name": "Casualidades",
+      "url": "https://open.spotify.com/track/6SzCC78V5SvyB1bRJCcIx6"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 213918,
       "name": "Milagro",
       "url": "https://open.spotify.com/track/4IbgQmI6Pwh7fchypm4EEW"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 131511,
+      "name": "Fantas\u00edas Animadas de Ayer y Hoy",
+      "url": "https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Fuego y Mar",
-        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Traicionera / El Reo Ausente (Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez)",
         "url": "https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 171733,
       "name": "Traicionera / El Reo Ausente - Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez",
       "url": "https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Fuego y Mar",
+        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
+      },
+      "artists": [
+        {
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
+        }
+      ],
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 264249,
+      "name": "Dual",
+      "url": "https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Rock N' Blues",
         "url": "https://open.spotify.com/album/2z5OFr6SCRYjv4mZsbdPHq"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 435697,
       "name": "Ni\u00f1a Blanca",
       "url": "https://open.spotify.com/track/4cYV1Di4LgjQR255w4QaKE"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/3WywOeCZ9nXNnnTu5MBGIX"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 264249,
-      "name": "Dual",
-      "url": "https://open.spotify.com/track/1i12FygtGjwPG3UBf6Nb8l"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1331,38 +1331,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Rebeli\u00f3n del Rock",
-        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
-      },
-      "artists": [
-        {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
-        }
-      ],
-      "duration_ms": 220616,
-      "name": "Rebeli\u00f3n del Rock",
-      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "La Manera Correcta",
-        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Ya\u00f1ez",
-          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
-        }
-      ],
-      "duration_ms": 203684,
-      "name": "La Manera Correcta",
-      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
       },
@@ -1379,6 +1347,22 @@
       "duration_ms": 265883,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rebeli\u00f3n del Rock",
+        "url": "https://open.spotify.com/album/51EtCSCygyxeVjZeHvYEcZ"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        }
+      ],
+      "duration_ms": 220616,
+      "name": "Rebeli\u00f3n del Rock",
+      "url": "https://open.spotify.com/track/25yT6XXsMludDfgMqViX7Y"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 208864,
       "name": "R\u00edo R\u00edo",
       "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "La Manera Correcta",
+        "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Ya\u00f1ez",
+          "url": "https://open.spotify.com/artist/0IbRsXxQF51TMsTaVNfeqA"
+        }
+      ],
+      "duration_ms": 203684,
+      "name": "La Manera Correcta",
+      "url": "https://open.spotify.com/track/1tuLGickBIo4hN5CPHaa8I"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+        "name": "93",
+        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Sonora de Llegar",
+          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
+        },
+        {
+          "name": "Skuela de Baile",
+          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
+      "duration_ms": 169375,
+      "name": "93",
+      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
       },
       "artists": [
         {
-          "name": "Sonora de Llegar",
-          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
-        },
-        {
-          "name": "Skuela de Baile",
-          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
         }
       ],
-      "duration_ms": 169375,
-      "name": "93",
-      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1587,6 +1587,46 @@
       "duration_ms": 164256,
       "name": "Son Puros Caballos",
       "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        },
+        {
+          "name": "Arlette Jequier",
+          "url": "https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij"
+        }
+      ],
+      "duration_ms": 237940,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
+        "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        },
+        {
+          "name": "GrassBrass",
+          "url": "https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
+      "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1627,42 +1667,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
-        "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
+        "name": "Una Vieja Carta",
+        "url": "https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ"
       },
       "artists": [
         {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+          "name": "Kolumbia",
+          "url": "https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH"
         },
         {
-          "name": "GrassBrass",
-          "url": "https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV"
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
-      "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/0QceJCJqsKtfEfxQJZaKAD"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Arlette Jequier",
-          "url": "https://open.spotify.com/artist/4gSoikgkAj7eScTWcLrmij"
-        }
-      ],
-      "duration_ms": 237940,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/0JwfanqBJszF8B8bVjuXuU"
+      "duration_ms": 226464,
+      "name": "Una Vieja Carta",
+      "url": "https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1683,26 +1703,6 @@
       "duration_ms": 342186,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Una Vieja Carta",
-        "url": "https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ"
-      },
-      "artists": [
-        {
-          "name": "Kolumbia",
-          "url": "https://open.spotify.com/artist/4kspMj0rOe3V4NCUx3iJlH"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 226464,
-      "name": "Una Vieja Carta",
-      "url": "https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp"
     }
   ],
   "unique_name": "Rock Chileno",

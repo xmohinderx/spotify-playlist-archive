@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Chill indie songs by Taylor Swift, Ashley Kutcher, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
+  "description": "Chill indie songs by Taylor Swift, charlie d'amelio, and more! Listen to this mellow and feels-inducing playlist, and discover new favorites! Cover: Rene\u00e9 Rapp",
   "name": "Indie Chill",
   "published_playlist_ids": [
     "3sjWktyD1KzSMZBUWy3pNl"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "amnesia",
+        "url": "https://open.spotify.com/album/6N7m2bKMX2KklL0ELXoGCH"
+      },
+      "artists": [
+        {
+          "name": "Camylio",
+          "url": "https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172723,
+      "name": "amnesia",
+      "url": "https://open.spotify.com/track/33EPuIJQwfcm82vhTGJXyj"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 207024,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo"
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 149546,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/3v61sG0y5M1LnSsFN4IimM"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 198480,
       "name": "boy",
       "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
@@ -549,10 +567,32 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 183937,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
+    },
+    {
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/5iuJcpdpAmd13OpnG7Wp2x"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "By My Side ft. Tiara Andini",
+      "url": "https://open.spotify.com/track/51NAz1GAp82XJ4bXGZa2qR"
     },
     {
       "album": {
@@ -592,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242695,
+      "name": "Can You Afford To Lose Me?",
+      "url": "https://open.spotify.com/track/3sP6EGqcYVmDy9UBStCnRR"
+    },
+    {
+      "album": {
         "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
       },
@@ -621,7 +679,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
@@ -657,7 +715,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 157302,
       "name": "Cold Life",
       "url": "https://open.spotify.com/track/63r9IzWLsWKE2kWI1L328k"
@@ -805,7 +863,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 302000,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
@@ -867,6 +925,24 @@
       "duration_ms": 183726,
       "name": "Defective",
       "url": "https://open.spotify.com/track/4NFOzkQtZbzBQAHkbdShDX"
+    },
+    {
+      "album": {
+        "name": "Deny Me",
+        "url": "https://open.spotify.com/album/4603uGOYACGfWZho5limbs"
+      },
+      "artists": [
+        {
+          "name": "Grace Gardner",
+          "url": "https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307620,
+      "name": "Deny Me",
+      "url": "https://open.spotify.com/track/3PYMrsmgHQfLmXeqeEhY0k"
     },
     {
       "album": {
@@ -953,7 +1029,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 210402,
       "name": "Don't Look Now",
       "url": "https://open.spotify.com/track/3VdWvnywTfCZtOindViUHx"
@@ -1097,7 +1173,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 160961,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0SKUpG1nVemQF8M9SqlFvb"
@@ -1195,7 +1271,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 256133,
       "name": "For Yourself",
       "url": "https://open.spotify.com/track/26UZb4fDjCPsqRhgxxe7pZ"
@@ -1213,7 +1289,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 203472,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym"
@@ -1303,7 +1379,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 253599,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk"
@@ -1375,7 +1451,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 252533,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/3UhAHhSvqc2oDW6ojrYXQi"
@@ -1473,6 +1549,24 @@
       "duration_ms": 187636,
       "name": "Hollow Lover",
       "url": "https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x"
+    },
+    {
+      "album": {
+        "name": "The Greatest Thing I\u2019ll Never Learn",
+        "url": "https://open.spotify.com/album/4wdBZxpMVkbKFpHZPcsV5S"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "Home Is Where The Heart Is",
+      "url": "https://open.spotify.com/track/0IUOI3Er0j3JAwlW8BsUlN"
     },
     {
       "album": {
@@ -1617,7 +1711,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 160790,
       "name": "i tried",
       "url": "https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY"
@@ -1697,10 +1791,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 159005,
       "name": "if there is a heaven",
       "url": "https://open.spotify.com/track/0rds0pVDFwa7BECTYCfa63"
+    },
+    {
+      "album": {
+        "name": "if you ask me to",
+        "url": "https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR"
+      },
+      "artists": [
+        {
+          "name": "charli d'amelio",
+          "url": "https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "if you ask me to",
+      "url": "https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L"
     },
     {
       "album": {
@@ -1715,7 +1827,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 163392,
       "name": "IF YOU'RE GONNA LEAVE",
       "url": "https://open.spotify.com/track/4wGyH7ZrZgYuB3su5GZGOY"
@@ -1830,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Last First Kiss",
+        "url": "https://open.spotify.com/album/6kktuhRMpePuUNuRZYdZ9Y"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171984,
+      "name": "Last First Kiss",
+      "url": "https://open.spotify.com/track/3NRsALILJmLX78BLoVjgE5"
+    },
+    {
+      "album": {
         "name": "How To Let Go",
         "url": "https://open.spotify.com/album/4V714KyABj469FBI9Dao8T"
       },
@@ -1895,7 +2025,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 235306,
       "name": "Little Joys",
       "url": "https://open.spotify.com/track/6LzKBCMuZDmcIULxE6ISVv"
@@ -2039,7 +2169,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -2343,7 +2473,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 197867,
       "name": "Next Time",
       "url": "https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06"
@@ -2365,6 +2495,24 @@
       "duration_ms": 242265,
       "name": "No Time To Die",
       "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "album": {
+        "name": "Being Somewhere",
+        "url": "https://open.spotify.com/album/6dJZLn3DKkPDAobni0ZatR"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251446,
+      "name": "No Tragedy Please",
+      "url": "https://open.spotify.com/track/7lWAEh8UReBEe8KxQdFYi3"
     },
     {
       "album": {
@@ -2823,7 +2971,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 188360,
       "name": "Scarlett - Garden Version",
       "url": "https://open.spotify.com/track/4BfjeVabolBNQ8O2Z5DNcr"
@@ -2935,7 +3083,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 188310,
       "name": "Sleepy",
       "url": "https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca"
@@ -2957,6 +3105,24 @@
       "duration_ms": 177982,
       "name": "Slow Dance In The Morning",
       "url": "https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Time",
+        "url": "https://open.spotify.com/album/21JD7Bu4t5VTMpYSEzdkAN"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204583,
+      "name": "Smile Pretty Girl",
+      "url": "https://open.spotify.com/track/7kK8vdSUUJGbJ1kvRV0zjx"
     },
     {
       "album": {
@@ -3105,7 +3271,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/2dBwB667LHQkLhdYlwLUZK"
@@ -3159,7 +3325,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 148693,
       "name": "Sunday In Heaven",
       "url": "https://open.spotify.com/track/0ycqjtuVPrwKWJAwwN8qLa"
@@ -3195,7 +3361,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 210466,
       "name": "Sunsets For Somebody Else",
       "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
@@ -3361,7 +3527,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 143856,
       "name": "the death of cat",
       "url": "https://open.spotify.com/track/1rB20lcvLZnEhrtwsGs1jw"
@@ -3379,7 +3545,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 178212,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/7zWPaL2lqEuGnsNCK6WE40"
@@ -3628,6 +3794,24 @@
     },
     {
       "album": {
+        "name": "VICEROY...LIKE THE BUTTERFLY",
+        "url": "https://open.spotify.com/album/3ADXdCzTGTTKggrHf3WU3o"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119990,
+      "name": "VICEROY (OUTRO)",
+      "url": "https://open.spotify.com/track/4aIBulWf0GiefNZRvy9M9v"
+    },
+    {
+      "album": {
         "name": "Waiting Is A Waste",
         "url": "https://open.spotify.com/album/50MP1DO66qTGSYkcGsUKBY"
       },
@@ -3657,10 +3841,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 256079,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/1ErrkKi89V68HHsyUizbJA"
+    },
+    {
+      "album": {
+        "name": "Marginalia",
+        "url": "https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155813,
+      "name": "Warhol",
+      "url": "https://open.spotify.com/track/3P707u2l8c3jQkHUaXYE1L"
     },
     {
       "album": {
@@ -3754,6 +3956,42 @@
     },
     {
       "album": {
+        "name": "What I Would Say",
+        "url": "https://open.spotify.com/album/33MQBGfeRumyzpZhMumRqC"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179349,
+      "name": "What I Would Say",
+      "url": "https://open.spotify.com/track/2RIQcWNRhgp5wbnwZ2mLXN"
+    },
+    {
+      "album": {
+        "name": "When I'm Alone",
+        "url": "https://open.spotify.com/album/5ZPH3wJ0PInJmNUZPGhyRq"
+      },
+      "artists": [
+        {
+          "name": "girlpuppy",
+          "url": "https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "When I'm Alone",
+      "url": "https://open.spotify.com/track/3K8fEyy9Gqd9EqEmdsenRl"
+    },
+    {
+      "album": {
         "name": "CRUSHER",
         "url": "https://open.spotify.com/album/6pEz5WCvDGB8ved9AcouQ5"
       },
@@ -3783,7 +4021,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 259208,
       "name": "Which Witch",
       "url": "https://open.spotify.com/track/5yiBLMSH9DCRmBtws6wKY3"
@@ -3837,7 +4075,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 274552,
       "name": "Woman",
       "url": "https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn"

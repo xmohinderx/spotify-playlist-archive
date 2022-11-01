@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485825,
+  "num_followers": 1485832,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5ODY0NCwwMDAwMDAwMDUwNWM2NTgyNjhiOWEyMGUxNWQwMmZhYTM3OGIzZjI1",
+  "snapshot_id": "MTY2Njg5ODY0NCwwMDAwMDAwMGQ3MmIyNTIwZWJkNzUyMTI0Mzc3ZTMyZGNiMzkzNzA5",
   "tracks": [
     {
       "added_at": "2022-10-20 15:00:00",
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
     },
     {
-      "added_at": "2022-10-31 01:40:40",
+      "added_at": "2022-11-01 01:43:36",
       "album": {
         "name": "JUST KEEP IT",
         "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK"
     },
     {
-      "added_at": "2022-10-31 01:40:40",
+      "added_at": "2022-11-01 01:43:36",
       "album": {
         "name": "SPICA",
         "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
@@ -627,26 +627,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Tangerine Hues",
-        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
-      },
-      "artists": [
-        {
-          "name": "Ameba",
-          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
-        },
-        {
-          "name": "Flavors",
-          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tangerine Hues",
-      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 196235,
       "name": "Bopatron",
       "url": "https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Tangerine Hues",
+        "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        },
+        {
+          "name": "Flavors",
+          "url": "https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Tangerine Hues",
+      "url": "https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Fantastic Farewell (2021 Remastered)",
         "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
       },
@@ -1251,38 +1267,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Cold Concrete",
         "url": "https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 191860,
       "name": "Cold Concrete",
       "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Fog\u00e0o Love",
         "url": "https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 104506,
       "name": "Fog\u00e0o Love",
       "url": "https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
     },
     {
       "added_at": "2022-10-20 15:00:00",

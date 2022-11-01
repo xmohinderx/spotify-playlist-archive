@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,136 likes - 46 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,233 likes - 46 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 45 | [Babyfather](https://open.spotify.com/track/10kh9WpO4XlJWhJKfW4I7t) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:38 |
 | 46 | [Maureen](https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:20 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDAxNjZkMTg5OGQ0MzhlM2VhZWU3NGVmNzBkYjAxYjAwMQ==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA3ODlmOThlMDlhNTk3NjQ2YzU1NzExN2NkNjdkMWRkYQ==`

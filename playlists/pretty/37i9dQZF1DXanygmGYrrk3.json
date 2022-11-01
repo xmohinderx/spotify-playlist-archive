@@ -1,12 +1,12 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Grupo Frontera",
-  "num_followers": 170710,
+  "num_followers": 170883,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk1Nzg1NiwwMDAwMDAwMGIyNmYxMWQwNjQ0NTkwYWZjOTRjZDcxZjU2MTcxNmQz",
+  "snapshot_id": "MTY2Mzk1Nzg1NiwwMDAwMDAwMGNjNzQ4ZjIyNzQ4NzA4NzQ2YTZkYThiNjVlY2FjZTIy",
   "tracks": [
     {
       "added_at": "2022-09-23 18:30:56",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "El Buho",
         "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
       },
@@ -243,22 +227,34 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+      "duration_ms": 259402,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -279,6 +275,26 @@
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -307,22 +323,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -335,26 +335,6 @@
       "duration_ms": 189408,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -447,22 +427,18 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "En Tu Perra Vida",
-        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 238677,
-      "name": "En Tu Perra Vida",
-      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+      "duration_ms": 192390,
+      "name": "Mente Positiva",
+      "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -487,18 +463,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 192390,
-      "name": "Mente Positiva",
-      "url": "https://open.spotify.com/track/3WQilym5Vi4ypxb70vx0eY"
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -563,6 +543,26 @@
       "duration_ms": 194266,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/5GkeaIeCEfB0LOqk7sIVHQ"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 212776,
-      "name": "Ramito De Violetas",
-      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "El Amor De Tu Vida",
         "url": "https://open.spotify.com/album/0TkiwzRoKzV332NLyvnKjJ"
       },
@@ -723,6 +707,38 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 212776,
+      "name": "Ramito De Violetas",
+      "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 174275,
       "name": "Aerol\u00ednea Carrillo",
       "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -839,18 +855,18 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 155802,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -887,22 +903,6 @@
       "duration_ms": 146839,
       "name": "Desde Morro",
       "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Ha\u0301blame De Ti",
-      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 203200,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
+      "duration_ms": 176800,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 156520,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol. 4",
         "url": "https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Ojos De Maniaco",
-      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -1883,6 +1863,26 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Ojos De Maniaco",
+      "url": "https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "La Revancha",
-        "url": "https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Supiste Hacerme Mal",
-      "url": "https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Otro Perdedor",
         "url": "https://open.spotify.com/album/4T7oRpEinTw1MsnO80gToD"
       },
@@ -1951,6 +1935,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "La Revancha",
+        "url": "https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Supiste Hacerme Mal",
+      "url": "https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "No Eres Tu Ahora Soy Yo",
         "url": "https://open.spotify.com/album/6dkhRkJFqd5PFVRiDEYIck"
       },
@@ -1963,22 +1963,6 @@
       "duration_ms": 170396,
       "name": "Te La Pasas feat. EP",
       "url": "https://open.spotify.com/track/3bT9fp9mM5HDWE2BEI0yhP"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "Hoy Te Pierdo",
-        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Hoy Te Pierdo",
-      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "Hoy Te Pierdo",
+        "url": "https://open.spotify.com/album/2On6waVHo74Z7m8sLKGAUg"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Hoy Te Pierdo",
+      "url": "https://open.spotify.com/track/2PtH42TBhfgAu6jS4RMqEw"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "Desde El Cant\u00f3n (en Vivo)",
         "url": "https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv"
       },
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "Mi Raz\u00f3n De Ser",
-      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Los Inadaptados",
         "url": "https://open.spotify.com/album/7Fz369S1erEQYmnrbZawsB"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 175040,
       "name": "Los Inadaptados",
       "url": "https://open.spotify.com/track/15v0ra246PDmiT5Vh9YzWO"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -2183,18 +2183,18 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Te Volver\u00eda A Elegir",
-        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+        "name": "30 Aniversario",
+        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+      "duration_ms": 166226,
+      "name": "Lo Que Nunca Ser\u00e1",
+      "url": "https://open.spotify.com/track/4nzozHiDVY5VXHo9KlP9Dp"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -2215,6 +2215,22 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "30 Aniversario",
-        "url": "https://open.spotify.com/album/6R0zUtsEyeLEPmWBhVmenf"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Lo Que Nunca Ser\u00e1",
-      "url": "https://open.spotify.com/track/4nzozHiDVY5VXHo9KlP9Dp"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -2263,38 +2263,6 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edici\u00f3n Mexico",
-        "url": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184132,
-      "name": "Un Suspiro",
-      "url": "https://open.spotify.com/track/6JxxhqQo5PQB4IgO4uVAAd"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
         "name": "Los Caminos de la Vida (Spotify Singles)",
         "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
@@ -2307,6 +2275,22 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Disfrut\u00e9 Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 234480,
+      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
+      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
     },
     {
       "added_at": "2022-09-23 18:30:56",
@@ -2327,6 +2311,38 @@
     {
       "added_at": "2022-09-23 18:30:56",
       "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes",
+          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edici\u00f3n Mexico",
+        "url": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184132,
+      "name": "Un Suspiro",
+      "url": "https://open.spotify.com/track/6JxxhqQo5PQB4IgO4uVAAd"
+    },
+    {
+      "added_at": "2022-09-23 18:30:56",
+      "album": {
         "name": "Corridos Belicos",
         "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
       },
@@ -2339,22 +2355,6 @@
       "duration_ms": 177057,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/20b6XSI5iFhvmis8YwszrL"
-    },
-    {
-      "added_at": "2022-09-23 18:30:56",
-      "album": {
-        "name": "Disfrut\u00e9 Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "Despu\u00e9s de Ti, \u00bfQui\u00e9n?",
-      "url": "https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v"
     },
     {
       "added_at": "2022-09-23 18:30:56",

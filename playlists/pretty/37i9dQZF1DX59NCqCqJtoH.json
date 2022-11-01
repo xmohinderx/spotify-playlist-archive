@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 981172,
+  "num_followers": 982566,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc5NDQ4NCwwMDAwMDAwMGFlYTkxM2ZlNTgxOWUyZmVkZjNkMWRkNmE3NzhmOGYx",
+  "snapshot_id": "MTY2Njc5NDQ4NCwwMDAwMDAwMDc1ZDUwMDRhYzZmNGViYjI2N2E0NTY5MDRiNWM1OGY2",
   "tracks": [
     {
       "added_at": "2022-10-14 18:03:18",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 116666,
-      "name": "Please Notice",
-      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 162797,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 116666,
+      "name": "Please Notice",
+      "url": "https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 160093,
       "name": "Beach Baby",
       "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Do You Love Me, or Are You Just Lonely?",
+        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
+      },
+      "artists": [
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "duration_ms": 316556,
+      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
+      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "dont smile at me",
         "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 126824,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Historian",
-        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 391829,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "All Is Well",
         "url": "https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 150967,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Historian",
+        "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 391829,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "this body means nothing to me",
-        "url": "https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR"
-      },
-      "artists": [
-        {
-          "name": "Shrimp",
-          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
-        }
-      ],
-      "duration_ms": 131437,
-      "name": "this body means nothing to me",
-      "url": "https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "You Don't Want Me Anymore",
         "url": "https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 165000,
       "name": "You Don't Want Me Anymore",
       "url": "https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "this body means nothing to me",
+        "url": "https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR"
+      },
+      "artists": [
+        {
+          "name": "Shrimp",
+          "url": "https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC"
+        }
+      ],
+      "duration_ms": 131437,
+      "name": "this body means nothing to me",
+      "url": "https://open.spotify.com/track/2zQQai9nqofvLZ703t0Jxi"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -971,6 +971,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "i'd rather be alone",
+        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
+      },
+      "artists": [
+        {
+          "name": "boodahki",
+          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
+        }
+      ],
+      "duration_ms": 142940,
+      "name": "i'd rather be alone",
+      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 120000,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "i'd rather be alone",
-        "url": "https://open.spotify.com/album/1x3tEgyI1qIANer0bj12bV"
-      },
-      "artists": [
-        {
-          "name": "boodahki",
-          "url": "https://open.spotify.com/artist/0BOqSj7jZIVAyQXmpKRcmJ"
-        }
-      ],
-      "duration_ms": 142940,
-      "name": "i'd rather be alone",
-      "url": "https://open.spotify.com/track/1doDUiGBnzCvo5VCUq59L1"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Home for the Summer",
-        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 155271,
-      "name": "Home for the Summer",
-      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "Give Me A Minute",
         "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+        "name": "Home for the Summer",
+        "url": "https://open.spotify.com/album/38Bdsn6is11xS3sKPJsdNX"
       },
       "artists": [
         {
-          "name": "Laica",
-          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
+      "duration_ms": 155271,
+      "name": "Home for the Summer",
+      "url": "https://open.spotify.com/track/14ahZtLV5yKtqQATTfQta0"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1115,6 +1099,22 @@
       "duration_ms": 142588,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/0ebBY53dSSoq5xxcm2NUDX"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 170027,
       "name": "Losing Interest",
       "url": "https://open.spotify.com/track/1oE6bVjho2LQdTkDMq43Yd"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "What's Wrong",
-        "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
-      },
-      "artists": [
-        {
-          "name": "Elliott Fullam",
-          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "I'm So Happy",
-      "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
         "name": "The Devil And God Are Raging Inside Me",
         "url": "https://open.spotify.com/album/2YnqAuFmC2r8JeQVOIozTy"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 318266,
       "name": "Jesus Christ",
       "url": "https://open.spotify.com/track/72ccSGl5YcEWm0vhtVpi25"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
+        "name": "What's Wrong",
+        "url": "https://open.spotify.com/album/3JukWvhnXcwKIl04p2TWse"
+      },
+      "artists": [
+        {
+          "name": "Elliott Fullam",
+          "url": "https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "I'm So Happy",
+      "url": "https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
+        "name": "Songs I Wrote in My Bedroom",
+        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 239700,
+      "name": "Emerald Eyes",
+      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
+    },
+    {
+      "added_at": "2022-10-14 18:03:18",
+      "album": {
         "name": "Unpeeled",
         "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2022-10-14 18:03:18",
-      "album": {
-        "name": "Songs I Wrote in My Bedroom",
-        "url": "https://open.spotify.com/album/46NEhlXaMzNTg19kSBthTv"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 239700,
-      "name": "Emerald Eyes",
-      "url": "https://open.spotify.com/track/0LlTn7ZnC0Nu3lDY2cg8jL"
     },
     {
       "added_at": "2022-10-14 18:03:18",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2022-10-14 18:03:18",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 416373,
-      "name": "I Wouldn't Ask You",
-      "url": "https://open.spotify.com/track/6YTUGuz1IzqKFpNm0yGQws"
+      "duration_ms": 261471,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
     }
   ],
   "unique_name": "idk.",

@@ -4,7 +4,7 @@
 
 > 
 
-92 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+93 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Basketball Shoes \- Live from the Queen Elizabeth Hall](https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There \(Deluxe\)](https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO) | 13:24 | 2022-06-13 |  |
 | [Behind The Sun](https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Behind The Sun](https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob) | 4:10 | 2022-04-26 | 2022-09-21 |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 | 2022-07-14 |
-| [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 |  |
+| [big daddy ya](https://open.spotify.com/track/5LUqDKwcT3sT2yDRRmKTwd) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Remember Your North Star](https://open.spotify.com/album/7BhMDGBQ6xtZl1LwOwueYO) | 2:09 | 2022-06-20 | 2022-11-01 |
 | [Blush Me Out!](https://open.spotify.com/track/7At2LwoalVOj9MY9GH1EST) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [MOSQUITO](https://open.spotify.com/album/4Kn8Km3RZWAM7LfK3bfrKK) | 3:26 | 2022-09-16 |  |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 |  |
 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 | 2022-05-24 | 2022-10-21 |
@@ -68,6 +68,7 @@
 | [March On](https://open.spotify.com/track/3sd9QKIResfhBak1dgZyap) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Time Goes](https://open.spotify.com/album/3QXhljB4WyuQRD5LNdh1zv) | 4:36 | 2022-04-29 | 2022-08-25 |
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 |  |
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-20 | 2022-07-06 |
+| [Not You Anymore](https://open.spotify.com/track/0uRlksJ4Cv20KK0nYuzLxR) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 3:23 | 2022-10-31 |  |
 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 | 2022-09-16 |  |
 | [Park Your Car on My Face](https://open.spotify.com/track/2rAlaZWP0d14VyphXZEsZr) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Quality Over Opinion](https://open.spotify.com/album/57Xg6JumEnG5i5MBzJVdT7) | 3:36 | 2022-10-14 |  |
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-21 |

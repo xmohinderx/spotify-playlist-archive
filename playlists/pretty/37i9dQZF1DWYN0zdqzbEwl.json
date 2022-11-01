@@ -1,12 +1,12 @@
 {
   "description": "Legendarios del rock en espa\u00f1ol. Cover: Man\u00e1",
-  "num_followers": 4042583,
+  "num_followers": 4042952,
   "original_name": "Rock en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMGI4OTkxNGJmZmE2MWFhMTkyNmU1OWRlNzc3YTgxOGZj",
+  "snapshot_id": "MTY2MTkyNzc0MSwwMDAwMDAwMDAwOTlhZGI5ZWNiNTVlNjZiYTBhZmJhNzAyNzg4MTEz",
   "tracks": [
     {
       "added_at": "2022-08-31 06:35:41",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Las baladas (Los singles vol II)",
-        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "El Grito Del Tiempo",
         "url": "https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 235626,
       "name": "En alg\u00fan lugar",
       "url": "https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "Las baladas (Los singles vol II)",
+        "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Afuera",
-      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -251,6 +235,38 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "Afuera",
+      "url": "https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "La Cagaste... Burt Lancaster",
+        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "El ataque de las chicas cocodrilo",
+      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -299,50 +331,18 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
-        "name": "La Cagaste... Burt Lancaster",
-        "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "El ataque de las chicas cocodrilo",
-      "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
         "name": "Nada Personal (Remastered)",
         "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 229160,
       "name": "Cuando Pase El Temblor - Remasterizado 2007",
       "url": "https://open.spotify.com/track/3uMYq07Kj5m564OQwdSCrD"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2022-08-31 06:35:41",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-31 06:35:41",
       "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 269373,
+      "name": "Por la boca vive el pez",
+      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
+    },
+    {
+      "added_at": "2022-08-31 06:35:41",
+      "album": {
         "name": "Las Consecuencias",
         "url": "https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/5kFkQoKmsuRZjjS4GEaxNj"
-    },
-    {
-      "added_at": "2022-08-31 06:35:41",
-      "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 269373,
-      "name": "Por la boca vive el pez",
-      "url": "https://open.spotify.com/track/24UStI5AYA7g5ufFDh3LH0"
     },
     {
       "added_at": "2022-08-31 06:35:41",

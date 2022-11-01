@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-380 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
+381 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [BED](https://open.spotify.com/track/7jXQUrVhEpXdymfFWNDnQW) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/2GgDZ0wSOWSD4916BWzbNX) | 2:58 | 2021-04-09 | 2022-07-29 |
 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 | 2021-04-09 | 2022-07-29 |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-03-29 |  |
-| [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-03-29 |  |
+| [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 | 2022-03-29 |  |
+| [Bittersweet Symphony](https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh) | 3:14 | 2022-03-29 | 2022-11-01 |
 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 | 2022-01-10 | 2022-07-29 |
 | [Black & Gold \- Radio Edit](https://open.spotify.com/track/4pkZNPC6yeMnQABwkTmsR6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Fame \- OST](https://open.spotify.com/album/6dJIhG190Enkw8ukkEupG7) | 3:30 | 2021-04-09 | 2022-03-24 |
 | [Blah Blah Blah](https://open.spotify.com/track/7JoVRy6b5AqggrBcSQ27wV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State Of Trance Top 20 \- June 2018 \(Selected by Armin van Buuren\)](https://open.spotify.com/album/6NkuIBhMPuDsskoAPG4w8y) | 3:03 | 2021-04-09 | 2022-01-11 |

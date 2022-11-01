@@ -4,7 +4,7 @@
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-316 songs - 17 hr 48 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
+317 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-12-30 |  |
 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/671YHAmMvVCc6MfL2C3pov) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [Don't Be so Shy \(Filatov & Karas Remix\)](https://open.spotify.com/album/0MMAQBI0isMdcauKfMuNxA) | 3:10 | 2020-12-31 | 2022-07-28 |
 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/5UJI94psRjlSPyLztf7yQo) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(R3HAB Remix\)](https://open.spotify.com/album/6WgVI450okds45v4Y5nuqh) | 2:33 | 2020-12-31 | 2022-07-25 |
-| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-30 |  |
+| [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-30 | 2022-11-01 |
 | [Don't Start Now](https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:03 | 2022-01-03 |  |
 | [Don't Start Now \- Pink Panda Remix](https://open.spotify.com/track/0MciUrJaj9OZoAuGUU40Wr) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Pink Panda](https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH) | [Don't Start Now \(Remixes\)](https://open.spotify.com/album/4bFD3e4YDki1tu4EQCfSdt) | 2:05 | 2020-12-31 | 2021-12-23 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2020-12-31 |  |
@@ -267,6 +267,7 @@
 | [Summer Of '69](https://open.spotify.com/track/6oWpGuwokWJ4EcWgVQPdUt) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 3:32 | 2020-12-31 | 2022-07-29 |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2022-01-03 |  |
 | [Sun Is Shining](https://open.spotify.com/track/5kBHjpK4YGXVnOMXDUDjgX) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Sun Is Shining](https://open.spotify.com/album/0cbF5ZxI6GMcXbf8RHQfJW) | 4:15 | 2020-12-31 | 2021-12-31 |
+| [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 | 2022-01-03 |  |
 | [SVÄRMORSDRÖM \(feat\. Anis Don Demina\) \- Remix](https://open.spotify.com/track/0QSrDkVDmQVdhGNtNBtOYW) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT), [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [SVÄRMORSDRÖM \(feat\. Anis Don Demina\) \[Remix\]](https://open.spotify.com/album/3c2ZeqVjzpw9RdnWKDWMJH) | 3:02 | 2020-12-31 | 2022-07-29 |
 | [Sweet but Psycho \- Morgan Page Dance Remix](https://open.spotify.com/track/7nbVbGjifh0m2fhPYqcI1R) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Sweet but Psycho \(Remixes\)](https://open.spotify.com/album/6pZkOJtEaENfW9IURljzSh) | 3:46 | 2020-12-31 | 2022-07-29 |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2022-01-03 |  |

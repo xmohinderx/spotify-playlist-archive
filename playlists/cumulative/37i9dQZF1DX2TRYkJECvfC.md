@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-316 songs - 1 day 4 hr 53 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
+317 songs - 1 day 4 hr 55 min - [published](https://open.spotify.com/playlist/614yeEbvN08xJGuTEn5I4p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2021-12-08 | 2022-07-29 |
 | [Palms](https://open.spotify.com/track/4cWrrjsKvHnKV8uqlUF8kb) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/3LZ2WSfLEVEIy7PRi672MC) | 4:15 | 2022-05-03 |  |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2021-12-08 |  |
+| [Passing Clouds](https://open.spotify.com/track/3jCTivI1jcDKREf1KKbhM6) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/06WTLNXbFeMrujjCJ0CT8P) | 2:32 | 2022-10-28 |  |
 | [Passing Me By](https://open.spotify.com/track/2irEY0gvB7djriQOFTGFsq) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Darkside](https://open.spotify.com/album/1MEXNdnUKUN3H1cyleKxUH) | 6:13 | 2022-05-03 |  |
 | [Peaceful Groove](https://open.spotify.com/track/5JP4iOnbCRu7zfYd95oG7V) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Peaceful Groove](https://open.spotify.com/album/4KNqp5ucheEGU8MgUD3Te0) | 3:31 | 2021-12-08 | 2022-07-29 |
 | [Peaceful Groove](https://open.spotify.com/track/6wSH047nyWHvlasvivVeMK) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Reality Refresh 3](https://open.spotify.com/album/5veblHHhKvDHweWmbaBNEn) | 3:31 | 2022-05-03 |  |
@@ -302,7 +303,7 @@
 | [Wait For You](https://open.spotify.com/track/6H0rnN9KQ3QVvAFgGKH4nq) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Lonely EP](https://open.spotify.com/album/5H96AlvfRRGpXWSUzdpUqC) | 4:03 | 2021-12-08 | 2022-07-29 |
 | [Wait For You](https://open.spotify.com/track/74Jw6mRLWJZFj05fTrx4p9) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Wait For You](https://open.spotify.com/album/3c8Ht6N0kTl8BZKkv4GnbM) | 4:03 | 2022-05-03 |  |
 | [Wake Me \- Louie Vega & Joe Claussell Remix](https://open.spotify.com/track/6XuKWXObGRTtoe2NoO3xZA) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Joaquin "Joe" Claussell](https://open.spotify.com/artist/3VMySRm8fO4XQIDfEnVlro) | [Wake Me \(Louie Vega & Joe Claussell Remix\)](https://open.spotify.com/album/4lWIEMHbFxjLfCWAHi9jSy) | 8:29 | 2021-12-08 |  |
-| [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-08 |  |
+| [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-08 | 2022-11-01 |
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 |  |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 |  |

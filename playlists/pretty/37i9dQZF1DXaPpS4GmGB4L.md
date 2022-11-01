@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,508 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,575 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 12 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 13 | [Big Chief \- Remastered](https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Crawfish Fiesta \(Remastered with Bonus Track\)](https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T) | 3:14 |
 | 14 | [Got My Mojo Working](https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:53 |
-| 15 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 |
-| 16 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
-| 17 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
+| 15 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 |
+| 16 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 |
+| 17 | [I Ain't Drunk \- Remastered](https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Cold Snap \(Remastered\)](https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9) | 4:07 |
 | 18 | [Shake Your Hips \- Single Version](https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [The Excello Singles Anthology](https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi) | 2:29 |
 | 19 | [Rocket 88](https://open.spotify.com/track/4IiEsxrgzIMdqoN3dwxk6g) | [Ike Turner](https://open.spotify.com/artist/0FAxkBiT0g3jKF2AaKEipb) | [Presenting Ike Turner](https://open.spotify.com/album/72uPVZB2T541kI9nT4khgC) | 2:49 |
 | 20 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 24 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 25 | [Hate To See You Go](https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:16 |
 | 26 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
-| 27 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 |
-| 28 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
+| 27 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
+| 28 | [I've Got Love If You Want It](https://open.spotify.com/track/4hQb2apmM2FUNaqXDOmHgA) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:46 |
 | 29 | [The Blues Had a Baby and They Named It Rock and Roll](https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:34 |
 | 30 | [Madison Blues](https://open.spotify.com/track/6ZFqJbqlCmFCEKepLo97FX) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:22 |
 | 31 | [Sharecropper’s Son](https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 3:06 |
 | 32 | [Done Somebody Wrong \- Live At The Fillmore East, March 1971](https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [At Fillmore East](https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy) | 4:35 |
-| 33 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
-| 34 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 |
+| 33 | [Cadillac Walk \- Demo](https://open.spotify.com/track/2Q1ZqJWyp0F2ncc0yocekp) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Cadillac Walk \(Demo\)](https://open.spotify.com/album/0H3pIoTJdexgtFTPlplxfD) | 4:35 |
+| 34 | [Just Your Fool](https://open.spotify.com/track/4Dxe3Y8MPu7ffNrBFPNzRL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:24 |
 | 35 | [Shufflin' the Blues](https://open.spotify.com/track/5I9dM2pwqMAQm266lUII5P) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:21 |
 | 36 | [One Way Out \- Mono Version](https://open.spotify.com/track/2itCQlm9s7yW21eZoF4eyH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:48 |
 | 37 | [Don't Start Crying Now](https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Sings Raining In My Heart](https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Shake Your Money Maker](https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:32 |
 | 50 | [Mortgage on My Soul](https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg) | [Mortgage on My Soul](https://open.spotify.com/album/7sRLEMULCuwp1xYxHj5SFa) | 7:04 |
 
-Snapshot ID: `MTY2NTQwNjM3OCwwMDAwMDAwMDMwMzg5YTFmZWU3NjRlMWQ3MjM3OTUwMjU5OGVkNzA0`
+Snapshot ID: `MTY2NTQwNjM3OCwwMDAwMDAwMDdiYTZiYmI5MzE0OWI0ZDMxZDhjMDZmMjBjODhiN2Yz`

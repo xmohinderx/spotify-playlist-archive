@@ -3049,10 +3049,28 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 234466,
       "name": "Mary's Prayer",
       "url": "https://open.spotify.com/track/6G3afsR0udhKnAU0Tut25j"
+    },
+    {
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307933,
+      "name": "Master Blaster (Jammin')",
+      "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
     },
     {
       "album": {

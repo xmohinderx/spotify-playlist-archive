@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,435 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,587 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,18 +14,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 4 | [Chip](https://open.spotify.com/track/10UlU5E5RfydywnKmA1nFL) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Off the Leash](https://open.spotify.com/album/2lm8NrhAtM2ez61pI92J3l) | 3:14 |
 | 5 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
 | 6 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
-| 7 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
-| 8 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
+| 7 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
+| 8 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
 | 9 | [Sleep Is for the Weak](https://open.spotify.com/track/3tkXg3freIdvTxN58YUPaG) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/album/5V7rg6LPNl4TgqiGzA4kZH) | 3:09 |
-| 10 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
-| 11 | [The Foggy Dew](https://open.spotify.com/track/5wXGCPZNAuz0nOOQHGlvKp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:11 |
+| 10 | [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 |
+| 11 | [Rose Tattoo](https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 5:06 |
 | 12 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 |
 | 13 | [Yesterday's Rebel](https://open.spotify.com/track/4CORTiFsG6MgUTnyNNTlvW) | [The O'Reillys and the Paddyhats](https://open.spotify.com/artist/5rY2KJh3KVITvw9bAz74pQ) | [Green Blood](https://open.spotify.com/album/4vyVIxudWxYavhsRSjJoIa) | 2:54 |
 | 14 | [Drunken Sailor](https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 2:38 |
-| 15 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 |
-| 16 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
+| 15 | [A Fistful O' Roses](https://open.spotify.com/track/34m9v482iwNV9QHWfzNFq0) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Sleepin' Rough](https://open.spotify.com/album/11gXkG9RdZCEuJwIOZ7OPW) | 4:47 |
+| 16 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
 | 17 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
-| 18 | [The Tempest](https://open.spotify.com/track/6gXLYsEkqlhe41lWPdBKOx) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Westwinds](https://open.spotify.com/album/2XRertV5XG54s3PAiMBRlO) | 4:08 |
+| 18 | [Seven Deadly Sins](https://open.spotify.com/track/66jfY0gvhfylkoocCEyhv0) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Within a Mile of Home](https://open.spotify.com/album/0qVJEliXJswOdaabP9hGmJ) | 2:50 |
 | 19 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 |
 | 20 | [Into the Night](https://open.spotify.com/track/2n1gX9ahXB2bXJi1cUtwo9) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Into the Night](https://open.spotify.com/album/2CdQhqlGScDcSE4cBLgj1b) | 2:35 |
 | 21 | [Shine On](https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ) | 4:35 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 28 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
 | 29 | [One Fine Day](https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Heyday \(Deluxe Edition\)](https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL) | 3:35 |
 | 30 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
-| 31 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
+| 31 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
 | 32 | [I'll Fly Away](https://open.spotify.com/track/7b1C6mz6egDlaZWavyKJv6) | [Flatfoot 56](https://open.spotify.com/artist/7eQrNqwmiIvFKEMvHRvPLB) | [Toil](https://open.spotify.com/album/301aLfcteHHAyyJUyC6ysY) | 2:44 |
-| 33 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
+| 33 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 34 | [Fool \(Fight of Our Lives\)](https://open.spotify.com/track/0FaTgXZvAq3vqRGWir79ew) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [The Underdogs](https://open.spotify.com/album/4037g1dZC3to82wXOwQYAg) | 3:38 |
 | 35 | [Sainted Millions](https://open.spotify.com/track/5vHsCIZgJLXjUPZHZddwMC) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 3:35 |
 | 36 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Skull Creek Logger](https://open.spotify.com/track/6ZGdCZ2kyGgEXx5PjCji2Y) | [The Wages of Sin](https://open.spotify.com/artist/6Hrxj4oIw4DVlrFQO0wJGV) | [Gringo Mariachi](https://open.spotify.com/album/4IK6O0D4AV6PT6FxWSsZ2S) | 3:31 |
 | 50 | [36 Barrels](https://open.spotify.com/track/4VQJ2EROhC6aTe72oZCdG0) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Beer and Loathing](https://open.spotify.com/album/7Lt36zggZgLxpiglpKHpiF) | 3:34 |
 
-Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMGRlNGE1MjBiZjM0NmU5ODM3OTEwNDllZjc4YmUzMTZm`
+Snapshot ID: `MTY0NzYxNTU3MSwwMDAwMDAwMGMwNjI5OTMwNjFhNTI2Yzg1NWJhNjMyY2NiZTg1NTFk`

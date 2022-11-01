@@ -1,12 +1,12 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 271737,
+  "num_followers": 271754,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzE0MCwwMDAwMDAwMDQ5N2U3NTM3N2UzZGUzYTk5NTk2YWQ5ODMxYTFlOTM4",
+  "snapshot_id": "MTY2NjkzMzE0MCwwMDAwMDAwMDgxYWZmYjc1NmJiOTliYzQzYjAxODNiMmE2MjkzYjMw",
   "tracks": [
     {
       "added_at": "2022-09-03 16:17:48",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "The Georgia EP",
-        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
-    },
-    {
       "added_at": "2022-10-03 14:16:25",
       "album": {
         "name": "No Surprises",
@@ -363,6 +347,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "The Georgia EP",
+        "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "when the party\u2019s over",
-      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "when the party\u2019s over",
+      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
       },
@@ -543,6 +543,38 @@
       "duration_ms": 125739,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -579,38 +611,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 277894,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "God's Plan",
         "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 175560,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ"
+    },
+    {
+      "added_at": "2022-09-27 15:09:47",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "duration_ms": 226798,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -687,22 +703,6 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
-    },
-    {
-      "added_at": "2022-09-27 15:09:47",
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        }
-      ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -855,26 +855,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187697,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187697,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2022-09-03 16:17:48",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-09-03 16:17:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2022-09-03 16:17:48",
-      "album": {
         "name": "Go Easy, Kid (with James Blake)",
         "url": "https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 267946,
       "name": "Go Easy, Kid (with James Blake)",
       "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
+    },
+    {
+      "added_at": "2022-09-03 16:17:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
     },
     {
       "added_at": "2022-09-03 16:17:48",

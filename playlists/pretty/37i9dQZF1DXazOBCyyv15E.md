@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: BERWYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,192 likes - 82 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,216 likes - 82 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Questa \u00e8 la tua notte, balla fino al mattino tra hit dance e ritmi latini.",
-  "num_followers": 302512,
+  "num_followers": 302545,
   "original_name": "Fino Al Mattino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGNiNTYwZDM2ZjUwNDY1ZWE1ZjgwM2Q2MGY0NzJjODJh",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGViMTYwZTBjNDAwZTFlZWQ0OTcyYWRlNzdmYzlmODdk",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -147,30 +147,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Crazy What Love Can Do",
-        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Crazy What Love Can Do",
-      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 219813,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Crazy What Love Can Do",
+        "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Crazy What Love Can Do",
+      "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Give It To Me (Full Vocal Mix)",
+        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 102860,
+      "name": "Give It To Me - Full Vocal Mix",
+      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Give It To Me (Full Vocal Mix)",
-        "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 102860,
-      "name": "Give It To Me - Full Vocal Mix",
-      "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -467,22 +467,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
       },
       "artists": [
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -503,22 +499,6 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -603,6 +583,26 @@
       "duration_ms": 199112,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Baila Conmigo",
-        "url": "https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Baila Conmigo",
-      "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "BUBBLE (feat. thasup & Salmo)",
         "url": "https://open.spotify.com/album/2yuspE1GL8YQLrOboKtwWp"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 164327,
       "name": "BUBBLE (feat. thasup & Salmo)",
       "url": "https://open.spotify.com/track/3fIB4IEcvjlzItwnFUvIBk"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     }
   ],
   "unique_name": "Fino Al Mattino",

@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 28314,
+  "num_followers": 28326,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMDAzMWZmYzFiZDZhNmI3YTM0Y2MzMDlhZjU5YmE1MGIy",
+  "snapshot_id": "MTY2MjM0NzE5NywwMDAwMDAwMGM1MjM0YmMzYTllM2E1YjBhYzRiZjE3ZGY3MmRhMTc4",
   "tracks": [
     {
       "added_at": "2022-09-05 03:06:37",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u6709\u5f62\u7684\u7fc5\u8180",
-        "url": "https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM"
-      },
-      "artists": [
-        {
-          "name": "Angela Chang",
-          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "That girl",
-      "url": "https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u8de8\u6642\u4ee3",
         "url": "https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 266106,
       "name": "\u5076\u9663\u96e8",
       "url": "https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u6709\u5f62\u7684\u7fc5\u8180",
+        "url": "https://open.spotify.com/album/7mItsCAesKNwqLuO1R7AYM"
+      },
+      "artists": [
+        {
+          "name": "Angela Chang",
+          "url": "https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "That girl",
+      "url": "https://open.spotify.com/track/0FRq4baOBB6AYt22dxbU3Y"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u4eca\u591c\u6709\u96e8",
-        "url": "https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk"
-      },
-      "artists": [
-        {
-          "name": "H3R3",
-          "url": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
-        }
-      ],
-      "duration_ms": 288742,
-      "name": "\u4eca\u591c\u6709\u96e8",
-      "url": "https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "Hormone Boys",
         "url": "https://open.spotify.com/album/7FDNFIWHR4WyIBzqwZpaGD"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 249022,
       "name": "\u50be\u96e8",
       "url": "https://open.spotify.com/track/2XyEyfd1d02fCeLG56gRSh"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u4eca\u591c\u6709\u96e8",
+        "url": "https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk"
+      },
+      "artists": [
+        {
+          "name": "H3R3",
+          "url": "https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML"
+        }
+      ],
+      "duration_ms": 288742,
+      "name": "\u4eca\u591c\u6709\u96e8",
+      "url": "https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u5f35\u5b87\u6232\u5287\u4e3b\u984c\u66f2\u7cbe\u9078 (2008-2011)",
-        "url": "https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe"
-      },
-      "artists": [
-        {
-          "name": "Phil Chang",
-          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
-        }
-      ],
-      "duration_ms": 279379,
-      "name": "\u5098\u4e0b - \u96fb\u8996\u5287\u300a\u6b61\u559c\u4f86\u9017\u9663\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u65fa\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 256826,
       "name": "\u85cd\u96e8",
       "url": "https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u5f35\u5b87\u6232\u5287\u4e3b\u984c\u66f2\u7cbe\u9078 (2008-2011)",
+        "url": "https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe"
+      },
+      "artists": [
+        {
+          "name": "Phil Chang",
+          "url": "https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd"
+        }
+      ],
+      "duration_ms": 279379,
+      "name": "\u5098\u4e0b - \u96fb\u8996\u5287\u300a\u6b61\u559c\u4f86\u9017\u9663\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
+        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
+        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
+      },
+      "artists": [
+        {
+          "name": "Jacky Cheung",
+          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
+        }
+      ],
+      "duration_ms": 288760,
+      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
         "name": "\u4f60\u8d70\u4e4b\u540e\u7684\u96e8\u5b63",
         "url": "https://open.spotify.com/album/798EbbqlF0r7qH8UVifiFK"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 272216,
       "name": "\u56f0\u5728\u4f60\u7684\u96e8\u5b63",
       "url": "https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
-        "name": "\u7b49\u4f60\u7b49\u5230\u6211\u5fc3\u75db\u7cbe\u9078",
-        "url": "https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f"
-      },
-      "artists": [
-        {
-          "name": "Jacky Cheung",
-          "url": "https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd"
-        }
-      ],
-      "duration_ms": 288760,
-      "name": "\u5206\u624b\u7e3d\u8981\u5728\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7"
     },
     {
       "added_at": "2022-09-05 03:06:37",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-09-05 03:06:37",
       "album": {
-        "name": "\u514b\u535c\u52d2",
-        "url": "https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289927,
-      "name": "\u96e8\u8fd8\u662f\u4e0d\u505c\u5730\u843d\u4e0b",
-      "url": "https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O"
-    },
-    {
-      "added_at": "2022-09-05 03:06:37",
-      "album": {
         "name": "\u65b0\u5730\u7403",
         "url": "https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 256546,
       "name": "\u8309\u8389\u96e8",
       "url": "https://open.spotify.com/track/46PzflyM0fehl0AtZutikH"
+    },
+    {
+      "added_at": "2022-09-05 03:06:37",
+      "album": {
+        "name": "\u514b\u535c\u52d2",
+        "url": "https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289927,
+      "name": "\u96e8\u8fd8\u662f\u4e0d\u505c\u5730\u843d\u4e0b",
+      "url": "https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O"
     },
     {
       "added_at": "2022-09-05 03:06:37",

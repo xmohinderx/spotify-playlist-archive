@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,797 likes - 97 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,811 likes - 97 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

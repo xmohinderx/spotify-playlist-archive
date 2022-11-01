@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 1134,
+  "num_followers": 1171,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMDM5YmJjODc4OTYyMzI4OGY2OGFiMmVjMjRiNzg1M2E4",
+  "snapshot_id": "MTY2NDY0MDgwOCwwMDAwMDAwMDkzMmQwM2QxZjQ4ZTcwMjczYmVhYmQ3ZDVlNGQ0NWJh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:13:28",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -411,26 +411,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "The Neptunes Present... Clones",
-        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "Frontin' (feat. Jay-Z) - Club Mix",
-      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "The Neptunes Present... Clones",
+        "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "Frontin' (feat. Jay-Z) - Club Mix",
+      "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
     },
     {
       "added_at": "2022-10-01 16:13:28",

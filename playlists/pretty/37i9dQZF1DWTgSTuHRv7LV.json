@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Flyboiz",
-  "num_followers": 455134,
+  "num_followers": 455156,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMDhhOTdkZDRmYzBlNTI1MmJmZDNiZWExOWQzMzgxNDVk",
+  "snapshot_id": "MTY2NTExNTI2MCwwMDAwMDAwMGNkYTY0NmYzZGY0YmI2ZjYzYzYyYTdjMDExZmExZTgz",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 187331,
+      "name": "FEEL ME??",
+      "url": "https://open.spotify.com/track/3qukYaYSxIUBcq5UIUIsPf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Nota",
         "url": "https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ"
       },
@@ -499,18 +515,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 187331,
-      "name": "FEEL ME??",
-      "url": "https://open.spotify.com/track/3qukYaYSxIUBcq5UIUIsPf"
+      "duration_ms": 258540,
+      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
+      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -595,26 +615,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-        "url": "https://open.spotify.com/album/2IV0dmb0nEBrhGkdE2Tk14"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258540,
-      "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
-      "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Mundo",
         "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
       },
@@ -651,6 +651,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 161485,
+      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
+      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "MAMA",
         "url": "https://open.spotify.com/album/2e1cjrIszuy4lI8BD4MGOO"
       },
@@ -663,6 +683,22 @@
       "duration_ms": 265116,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/3aOmRscxeXJqnywqdjyoEN"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -687,18 +723,18 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+        "name": "Si Lo Puedes So\u00f1ar",
+        "url": "https://open.spotify.com/album/5TXyBngsscsxdTWhGuNxT1"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
+      "duration_ms": 195918,
+      "name": "Si Lo Puedes So\u00f1ar",
+      "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -719,6 +755,26 @@
       "duration_ms": 167254,
       "name": "Hola",
       "url": "https://open.spotify.com/track/5VD5mr12uonOBeEFbqobXA"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Residente: Bzrp Music Sessions, Vol. 49",
+        "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 519289,
+      "name": "Residente: Bzrp Music Sessions, Vol. 49",
+      "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -759,26 +815,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-        "url": "https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 161485,
-      "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
-      "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "NUDE",
         "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
       },
@@ -795,18 +831,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Si Lo Puedes So\u00f1ar",
-        "url": "https://open.spotify.com/album/5TXyBngsscsxdTWhGuNxT1"
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 195918,
-      "name": "Si Lo Puedes So\u00f1ar",
-      "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
+      "duration_ms": 171149,
+      "name": "PANAMA",
+      "url": "https://open.spotify.com/track/1sDM6RyofDWeLLLS6SJzYc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -831,6 +871,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 201507,
+      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -847,46 +907,6 @@
       "duration_ms": 140130,
       "name": "PUFF",
       "url": "https://open.spotify.com/track/0A6nNAq5m3IqEAgTss3SM8"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Residente: Bzrp Music Sessions, Vol. 49",
-        "url": "https://open.spotify.com/album/6E6r7xDLowTTFD0K8LzRUj"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 519289,
-      "name": "Residente: Bzrp Music Sessions, Vol. 49",
-      "url": "https://open.spotify.com/track/2dG9k8jtnkjzJjUToz9i9i"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 171149,
-      "name": "PANAMA",
-      "url": "https://open.spotify.com/track/1sDM6RyofDWeLLLS6SJzYc"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -959,6 +979,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 157553,
+      "name": "FUCK EL POLICE",
+      "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Conexiones",
         "url": "https://open.spotify.com/album/5HcTCJlDxmXOaQ5IPaDBKz"
       },
@@ -991,26 +1027,6 @@
       "duration_ms": 182903,
       "name": "Mu\u00e9velo Lento",
       "url": "https://open.spotify.com/track/7nxcnlwklosgjwpVSl5Bty"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 201507,
-      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 192000,
       "name": "Chambean",
       "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 157553,
-      "name": "FUCK EL POLICE",
-      "url": "https://open.spotify.com/track/1iEv1uCSDTN7YotFX4iHB9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Ya Ni Se",
-        "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
-      },
-      "artists": [
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 218231,
-      "name": "Ya Ni Se",
-      "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -1223,6 +1199,30 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Ya Ni Se",
+        "url": "https://open.spotify.com/album/6KOEiapvapKQuuAIS17mtO"
+      },
+      "artists": [
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 218231,
+      "name": "Ya Ni Se",
+      "url": "https://open.spotify.com/track/3nYidPkFJrmIAhi5Bwobs8"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Busc\u00e1ndome",
-        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
       },
       "artists": [
         {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
         }
       ],
-      "duration_ms": 109830,
-      "name": "Michael Jackson",
-      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+      "duration_ms": 175142,
+      "name": "Seguimos Controlando",
+      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1295,6 +1299,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Busc\u00e1ndome",
+        "url": "https://open.spotify.com/album/6siXXNhY0qQ86Xfk8g5B63"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 109830,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 135521,
       "name": "Jefa",
       "url": "https://open.spotify.com/track/1K2h9Y50wXiRsENQHLydZO"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        }
-      ],
-      "duration_ms": 175142,
-      "name": "Seguimos Controlando",
-      "url": "https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "SMILE BIX :)",
-        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 164092,
-      "name": "100 TRACKS",
-      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 234374,
       "name": "Ta To Saldo",
       "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "SMILE BIX :)",
+        "url": "https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 164092,
+      "name": "100 TRACKS",
+      "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 173959,
-      "name": "Yo Yo y Yo",
-      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "POCHOCLOS",
         "url": "https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 154478,
       "name": "22HS",
       "url": "https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 173959,
+      "name": "Yo Yo y Yo",
+      "url": "https://open.spotify.com/track/2dMp9jC7cpEj9wY8FQ8GMa"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Socios I",
+        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Flor",
-      "url": "https://open.spotify.com/track/1VL45GP8n9J7NiwYTyWCHf"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Wassap",
         "url": "https://open.spotify.com/album/1OyaCgNErmRmwpJnyLBo7w"
       },
@@ -1747,6 +1747,26 @@
       "duration_ms": 165482,
       "name": "Wassap",
       "url": "https://open.spotify.com/track/0m0u6UJBuxuIzHxUYalN3U"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Socios II",
+        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1779,26 +1799,6 @@
       "duration_ms": 237244,
       "name": "On The Road (feat. Elpatron970, Felp 22)",
       "url": "https://open.spotify.com/track/4M7xavogNEIQUsZzYpczCr"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Socios II",
-        "url": "https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/6mDxG6lF6qQNxl0sv4UnZh"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "They Love Us",
-        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "Triple H",
-      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Fuma Fuma",
         "url": "https://open.spotify.com/album/3RtWEFrcYlXB3CIrciITv2"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 190843,
       "name": "Fuma Fuma",
       "url": "https://open.spotify.com/track/5f4GFfaEcGD1uWhYTsdATV"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "They Love Us",
+        "url": "https://open.spotify.com/album/5tXi8xJTaE7lkHsdJq0AYb"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        }
+      ],
+      "duration_ms": 174013,
+      "name": "Triple H",
+      "url": "https://open.spotify.com/track/1QnfogT4dMmH37TZvxP2ao"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2031,6 +2031,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Corta y Palo",
+        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
+      },
+      "artists": [
+        {
+          "name": "Joniel",
+          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
+        },
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Corta y Palo",
+      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "Siempre Es Lo Mismo",
         "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
       },
@@ -2055,26 +2075,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Corta y Palo",
-        "url": "https://open.spotify.com/album/1OZBGW4g41oh9j7TKo21oG"
-      },
-      "artists": [
-        {
-          "name": "Joniel",
-          "url": "https://open.spotify.com/artist/7rTIfFH7B5TCSx8wKzkNPI"
-        },
-        {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Corta y Palo",
-      "url": "https://open.spotify.com/track/5Ph0AYsOHc0laLAuac8pK5"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "La Que Hay",
         "url": "https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p"
       },
@@ -2087,22 +2087,6 @@
       "duration_ms": 188720,
       "name": "La Que Hay",
       "url": "https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
-      },
-      "artists": [
-        {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2123,6 +2107,22 @@
       "duration_ms": 256053,
       "name": "Banquetera",
       "url": "https://open.spotify.com/track/2p2ezOq5rUJxdJXuks1TlE"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/5RxN2q2ViKoa40XbRC95dL"
+      },
+      "artists": [
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6fMtwXk6aryQDyHJin8mk9"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2239,26 +2239,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Chapter 1: Comentarios",
-        "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Elio Mafiaboy",
-          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Chapter 1: Comentarios",
-      "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Veintipico",
         "url": "https://open.spotify.com/album/0itQ63GbQW7k1bnEhS2k5R"
       },
@@ -2275,6 +2255,26 @@
       "duration_ms": 201000,
       "name": "Veintipico",
       "url": "https://open.spotify.com/track/0nq0enzelDlBoQHcrwfEf5"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Chapter 1: Comentarios",
+        "url": "https://open.spotify.com/album/7msrBR2PXYJy3epn5hbruN"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Elio Mafiaboy",
+          "url": "https://open.spotify.com/artist/220fH9KvHqXP9T4r3IwlJH"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Chapter 1: Comentarios",
+      "url": "https://open.spotify.com/track/68UjQzzvXO0HTZvMEkcTsx"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Reset",
-        "url": "https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf"
-      },
-      "artists": [
-        {
-          "name": "Trainer",
-          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
-        }
-      ],
-      "duration_ms": 138053,
-      "name": "Reset",
-      "url": "https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Apokalypsis 2",
         "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
@@ -2583,6 +2567,22 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/6rMh8VwpK8SK2Uzrlihllf"
+      },
+      "artists": [
+        {
+          "name": "Trainer",
+          "url": "https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/2FmUnhzYRfemmL0uAxjeJa"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "La Calle Pide Trap",
         "url": "https://open.spotify.com/album/63kNYPAtFjKYKWcllm1HfU"
       },
@@ -2595,26 +2595,6 @@
       "duration_ms": 181764,
       "name": "La Calle Pide Trap",
       "url": "https://open.spotify.com/track/38NcqOyy10j5WUzLujHPkZ"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Matem\u00e1ticas Supremas",
-        "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
-      },
-      "artists": [
-        {
-          "name": "Phyzh Eye",
-          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
-        },
-        {
-          "name": "Geassassin",
-          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Matem\u00e1ticas Supremas",
-      "url": "https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2635,6 +2615,26 @@
       "duration_ms": 158896,
       "name": "Stripper X",
       "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "Matem\u00e1ticas Supremas",
+        "url": "https://open.spotify.com/album/4oPTBnjCIwZGZG7ZTF4iaa"
+      },
+      "artists": [
+        {
+          "name": "Phyzh Eye",
+          "url": "https://open.spotify.com/artist/1NsRsBdRV7uWMw0SYaHo01"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Matem\u00e1ticas Supremas",
+      "url": "https://open.spotify.com/track/0iO1kK4B7JaqoZ6pBKla0V"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2787,6 +2787,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Le Gusta la Calle",
+        "url": "https://open.spotify.com/album/2oJZlbgwppyLkQpUuNp249"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Juliito",
+          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Le Gusta la Calle",
+      "url": "https://open.spotify.com/track/3LdLD6fTpGrUyy9Cn2OvQy"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "M\u00fasica Prohibida",
         "url": "https://open.spotify.com/album/4lgrPArcFGHMKgqxmTeSMA"
       },
@@ -2815,26 +2835,6 @@
       "duration_ms": 226000,
       "name": "Arriba el Tiro",
       "url": "https://open.spotify.com/track/65sEPl3jMl4QWWVzluPTqk"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
-        "name": "Le Gusta la Calle",
-        "url": "https://open.spotify.com/album/2oJZlbgwppyLkQpUuNp249"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Juliito",
-          "url": "https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Le Gusta la Calle",
-      "url": "https://open.spotify.com/track/3LdLD6fTpGrUyy9Cn2OvQy"
     },
     {
       "added_at": "2022-10-07 04:01:00",
@@ -2927,26 +2927,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "Yakelin",
-        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
-      },
-      "artists": [
-        {
-          "name": "Marconi Impara",
-          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Yakelin",
-      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/1VYiYEBzYeDIZLQnWZ3BkX"
       },
@@ -2987,6 +2967,26 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
+        "name": "Yakelin",
+        "url": "https://open.spotify.com/album/53SCI2RWlni7gwJSE235yU"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Yakelin",
+      "url": "https://open.spotify.com/track/4ucMC9jo6CJkwBfkHPZHSi"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
         "name": "64",
         "url": "https://open.spotify.com/album/0d2PsgkIufDXYxeqSZ9Baq"
       },
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "El Odioso",
-        "url": "https://open.spotify.com/album/5yNtkTEHrmnKO15aHPocKO"
-      },
-      "artists": [
-        {
-          "name": "Josephlee",
-          "url": "https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/6MxzJX0iNzr7jzANKbufku"
-    },
-    {
-      "added_at": "2022-10-07 04:01:00",
-      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l"
       },
@@ -3039,6 +3023,22 @@
       "duration_ms": 176567,
       "name": "Zona Pistola",
       "url": "https://open.spotify.com/track/0yP1WZr5UYhdosm7R9ytI9"
+    },
+    {
+      "added_at": "2022-10-07 04:01:00",
+      "album": {
+        "name": "El Odioso",
+        "url": "https://open.spotify.com/album/5yNtkTEHrmnKO15aHPocKO"
+      },
+      "artists": [
+        {
+          "name": "Josephlee",
+          "url": "https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/6MxzJX0iNzr7jzANKbufku"
     },
     {
       "added_at": "2022-10-07 04:01:00",

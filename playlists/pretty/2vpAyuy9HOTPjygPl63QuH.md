@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,367 likes - 29 songs - 1 hr 42 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 5,372 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,5 +37,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 27 | [Other Side](https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Other Side](https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc) | 4:04 |
 | 28 | [My Mind](https://open.spotify.com/track/1GSisTsTuL17nbcb7Vxu7V) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [My Mind / Let Me](https://open.spotify.com/album/2C5QiKmyVPfNynUoggm1td) | 3:08 |
 | 29 | [Vampire](https://open.spotify.com/track/6VmLMQBPMEoQUlklg5htP0) | [Ellen Degenerate](https://open.spotify.com/artist/5FhDhL3YdHHClp49T2RbmC) | [Vampire](https://open.spotify.com/album/5wX6Us1v6FpO0xLAEId1FR) | 4:18 |
+| 30 | [Waist Thin Ass Fat](https://open.spotify.com/track/2DkdLt6NPPBNwxIQQI99D7) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Waist Thin Ass Fat](https://open.spotify.com/album/2yvBlvRgMqpoMbRiHUP7xy) | 4:04 |
 
-Snapshot ID: `NjIxMiwwYzgzNWIzZjM4OWNmZTU0YTA3MGYyYTFhYWZjYTk5YjJkNmE5MGE1`
+Snapshot ID: `NjIxMyxkNjgzNzljYTQwMmY5YzA3NjNiNzJjNzFhZGI2ZGQ0MjQ2NzJiMzQw`

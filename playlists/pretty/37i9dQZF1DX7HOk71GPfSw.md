@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. angelus
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,030 likes - 113 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,182 likes - 113 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

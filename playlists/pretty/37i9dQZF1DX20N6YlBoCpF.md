@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die varste in Afrikaanse musiek Cover: <a href="https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=5GyYCl9TR1inmSlWVghwgw">Samantha Leonard</a> & <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=s7kj8Q57R5G9suIJCzn36g">Dodo Nyoka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,414 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

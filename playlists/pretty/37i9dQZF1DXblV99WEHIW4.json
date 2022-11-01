@@ -1,12 +1,12 @@
 {
   "description": "Heavy music that understands.",
-  "num_followers": 143699,
+  "num_followers": 143897,
   "original_name": "Blood, Shred & Tears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMGM0NjQ4ZjU3MWRlODY4MmNiYTM1ZDBiOTIwNGQzZjIx",
+  "snapshot_id": "MTY2MTQ2ODQwMCwwMDAwMDAwMDBkNWRiOWM4ZTI5MjA5OWU1MjFhMDEwZDliZjc1Y2Ni",
   "tracks": [
     {
       "added_at": "2022-08-25 23:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "In Utero - 20th Anniversary Remaster",
-        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "All Apologies",
-      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 225786,
       "name": "All I Wanted",
       "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "All Apologies",
+      "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "POST HUMAN: SURVIVAL HORROR",
-        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "Dear Agony",
         "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 258253,
       "name": "Dear Agony",
       "url": "https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "POST HUMAN: SURVIVAL HORROR",
+        "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "Dark Before Dawn",
+        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "POST HUMAN: SURVIVAL HORROR",
         "url": "https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4"
       },
@@ -447,38 +463,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dark Before Dawn",
-        "url": "https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/3OrTQrydMdfQeQJtPXBNSx"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
         "name": "From Death To Destiny",
         "url": "https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 242593,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Dear Agony",
+        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 256746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -587,22 +603,6 @@
       "duration_ms": 249514,
       "name": "Youngest Daughter",
       "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
-        "name": "Dear Agony",
-        "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 256746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "XOXO: From Love & Anxiety In Real Time",
-        "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 185146,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "End of Suffering",
         "url": "https://open.spotify.com/album/3hS3M535B8REpnp1gCK2v6"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 218386,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/0GcRqkAIXka8jgeAVz9DWP"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "XOXO: From Love & Anxiety In Real Time",
+        "url": "https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2KG2YRCeF0aIuTErlZkF2j"
     },
     {
       "added_at": "2022-08-25 23:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-25 23:00:00",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 328133,
-      "name": "Perish",
-      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
-    },
-    {
-      "added_at": "2022-08-25 23:00:00",
-      "album": {
         "name": "All That Is Left of the Blue Sky",
         "url": "https://open.spotify.com/album/2uqJYiKPfh8bECEnZ7nYkw"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 181504,
       "name": "I Heard That You Died",
       "url": "https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw"
+    },
+    {
+      "added_at": "2022-08-25 23:00:00",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 328133,
+      "name": "Perish",
+      "url": "https://open.spotify.com/track/2SsrRygE0VPkjFrtcV4PL8"
     },
     {
       "added_at": "2022-08-25 23:00:00",

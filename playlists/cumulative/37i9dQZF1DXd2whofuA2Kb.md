@@ -4,11 +4,12 @@
 
 > Because once you were a hipster, and now you are an indie parent.
 
-170 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/5sxtaGLtxNfp0BcsVlc1FL)
+171 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/5sxtaGLtxNfp0BcsVlc1FL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 | 2022-01-10 | 2022-07-29 |
+| [1901](https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I) | 3:13 | 2022-01-10 |  |
 | [1901](https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu) | 3:13 | 2022-01-10 | 2022-10-13 |
 | [1901](https://open.spotify.com/track/1mvyqSb1tOvtVP1qfWEyPa) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/2TVvPbLNPTCZS8lPHs1rZW) | 3:13 | 2022-01-10 | 2022-07-29 |
 | [1979 \- Remastered 2012](https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:26 | 2022-01-10 | 2022-07-25 |
@@ -62,7 +63,7 @@
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2022-01-10 |  |
 | [Float On](https://open.spotify.com/track/3b00LSFIRqnHvkoDEs5fkg) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0w4iTlpjm3ylF6U5R4UTgl) | 3:28 | 2022-01-10 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2022-01-10 | 2022-07-29 |
-| [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-01-10 |  |
+| [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2022-01-10 | 2022-11-01 |
 | [Girl Like You](https://open.spotify.com/track/6TFUZ8Bt1brEwomY90SKXi) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Boo Boo](https://open.spotify.com/album/39dY6cEFXDEevnfUTzp6lZ) | 3:43 | 2022-01-10 | 2022-07-29 |
 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 | 2022-01-10 |  |
 | [Golden Skans](https://open.spotify.com/track/5RsafHN45Azq79aJ6IG9Ck) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future \(Exclusive to specific BPs\)](https://open.spotify.com/album/3X36TxPDnlK0Ie61NLMYwy) | 2:45 | 2022-01-10 | 2022-06-27 |

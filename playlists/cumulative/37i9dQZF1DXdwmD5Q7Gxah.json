@@ -11922,6 +11922,24 @@
     },
     {
       "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg"
+    },
+    {
+      "album": {
         "name": "gimme all ur luv",
         "url": "https://open.spotify.com/album/16pAkASl0bdyOQrVyTvuBF"
       },

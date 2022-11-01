@@ -4,13 +4,13 @@
 
 > The most romantic tracks of all time, featuring today's hits and all the classics.
 
-238 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/1vMZC0Wpki1EqeXhzpF9fI)
+239 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/1vMZC0Wpki1EqeXhzpF9fI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/061uAXmheZOILmf2rr3tTn) | 6:34 | 2021-02-12 | 2022-10-17 |
 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/5HQ6AUDMbMuwktvcNPuV1y) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Robin Hood: Prince Of Thieves \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bbdZdZQtCtnWEN5zG7Eyj) | 6:38 | 2022-02-05 | 2022-02-12 |
-| [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2022-02-05 |  |
+| [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2022-02-05 | 2022-11-01 |
 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 | 2021-02-12 |  |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2021-02-12 | 2022-02-06 |
 | [A Thousand Miles](https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Best Of](https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1) | 3:57 | 2022-02-05 | 2022-07-29 |
@@ -185,6 +185,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-02-07 |  |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2021-02-12 | 2022-02-06 |
 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 | 2022-02-05 |  |
+| [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2022-02-15 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 | 2022-02-15 | 2022-10-13 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2022-02-05 | 2022-07-29 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-02-15 |  |

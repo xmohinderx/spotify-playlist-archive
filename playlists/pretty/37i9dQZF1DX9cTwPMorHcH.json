@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 49205,
+  "num_followers": 49265,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMGJiYWIxOWFmZmU5ZjRiNTAxMTRjNTQ0OTk1NDdhYzEx",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDZjOGNiZjdkMTZjMGE4YWY4NzU3MWVlMDM1YzNiYTk2",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Revelator",
-        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 352666,
-      "name": "Midnight in Harlem",
-      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
-    },
-    {
       "added_at": "2021-12-07 19:02:16",
       "album": {
         "name": "Deuces Wild",
@@ -315,6 +299,22 @@
       "duration_ms": 190373,
       "name": "Bring It On Home To Me",
       "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Revelator",
+        "url": "https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 352666,
+      "name": "Midnight in Harlem",
+      "url": "https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -387,6 +387,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -407,38 +423,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Hound Dog",
-      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Riding with the King",
         "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 264240,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
         }
       ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+      "duration_ms": 246573,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/53DRkI3ebM3SbSQm4gQ1vF"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -599,6 +583,22 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Bright Lights EP",
-        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Don't Owe You a Thang",
-      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
-        }
-      ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Couldn't Stand The Weather (Legacy Edition)",
         "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 478746,
       "name": "Voodoo Child (Slight Return)",
       "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Bright Lights EP",
+        "url": "https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Don't Owe You a Thang",
+      "url": "https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Wolf Den",
         "url": "https://open.spotify.com/album/72iUWLyrZgp7WUAIaqX0Np"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 193444,
-      "name": "Bleach Blonde Bottle Blues",
-      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 295613,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5zICtGQU65YwAq3aVqhiW4"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 193444,
+      "name": "Bleach Blonde Bottle Blues",
+      "url": "https://open.spotify.com/track/087pkHhO4DtAZ3AzFtNZGo"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "I'm Glad Trouble Don't Last Always",
         "url": "https://open.spotify.com/album/6ctUlHVnZfeKaR1UStIknt"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 257586,
       "name": "I'm Glad Trouble Don't Last Always",
       "url": "https://open.spotify.com/track/3b9xTm2eiaCRTGqUEWuzxc"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -1621,6 +1605,38 @@
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Cry No More",
+        "url": "https://open.spotify.com/album/6uqgNfRltyZuGzFhMF256y"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42O2R9NmHyZqN6CvGcwzrl"
+    },
+    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Benton County Relic",
@@ -1635,22 +1651,6 @@
       "duration_ms": 214613,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/4tYceKEtQBXxRQfLxuDRYb"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     }
   ],
   "unique_name": "Blues Drive",

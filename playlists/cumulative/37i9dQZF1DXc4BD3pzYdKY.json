@@ -2666,6 +2666,24 @@
     },
     {
       "album": {
+        "name": "Child of the King",
+        "url": "https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101406,
+      "name": "Child of the King",
+      "url": "https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd"
+    },
+    {
+      "album": {
         "name": "Choose You",
         "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
@@ -14207,7 +14225,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 161768,
       "name": "WELLS FARGO",
       "url": "https://open.spotify.com/track/5d28TynZA3IcTnFneWTVHk"

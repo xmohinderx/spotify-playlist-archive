@@ -4,7 +4,7 @@
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-144 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
+145 songs - 8 hr 22 min - [published](https://open.spotify.com/playlist/3bTGjCbNqBInmwb7ojPDvw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [You\(=I\)](https://open.spotify.com/track/6IBPrw5nYj84x8JpiOvXUp) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 2:49 | 2022-05-11 |  |
 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 | 2022-05-11 |  |
 | [두근거려 \(Beautiful\)](https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [우리 옆집에 EXO가 산다 \(EXO NEXT DOOR\) OST](https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc) | 3:44 | 2022-05-11 |  |
-| [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 | 2022-05-11 |  |
+| [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/1fr9b1MIyas7cpt1QY3h9d) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.2 What The Spring??](https://open.spotify.com/album/44HJerzPLHbGr8G2eC1bIv) | 3:25 | 2022-09-05 |  |
+| [봄이 좋냐?? What The Spring??](https://open.spotify.com/track/5gkB40BDQE1CvtXpF6fcPm) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [봄이 좋냐?? What The Spring??](https://open.spotify.com/album/0u4WFVJDJh5dbNYgOgbABY) | 3:25 | 2022-05-11 | 2022-11-01 |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-05-11 |  |
 | [예뻐](https://open.spotify.com/track/1CCuIPrykG6yC6XTz4S6Rn) | [Joonand](https://open.spotify.com/artist/3toxwqi4ajBu4gcnZebBAT), [Jihyeokwon](https://open.spotify.com/artist/0TD6GU8HRvlHAIMP7bPDRs) | [With](https://open.spotify.com/album/3vOKd7vvVvcYZhhaFvT8Fc) | 3:35 | 2022-05-11 | 2022-07-21 |
 | [원 Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [원 Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 | 2022-10-10 |  |

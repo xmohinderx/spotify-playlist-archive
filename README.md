@@ -5100,7 +5100,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [una playlist felice](/playlists/pretty/37i9dQZF1DWT888el8RDPq.md)
 - [undercurrents](/playlists/pretty/37i9dQZF1DX9myttyycIxA.md)
 - [unleashed](/playlists/pretty/37i9dQZF1DXdJa941ExayM.md)
-- [v o K a l : Lim Jae Bum Takeover](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md)
+- [v o K a l : Lim Jae Beum Takeover](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md)
 - [vamos pal prom](/playlists/pretty/37i9dQZF1DXd659n2DsKUL.md)
 - [vaporwave](/playlists/pretty/37i9dQZF1DWU4EQPjP9ZpS.md)
 - [viral lofi](/playlists/pretty/37i9dQZF1DX3SNr5BeQZSd.md)

@@ -1,12 +1,12 @@
 {
   "description": "Come on, man. Just smile!",
-  "num_followers": 455300,
+  "num_followers": 455321,
   "original_name": "Just Smile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDc1ZWY2MzMyYTgwOWZlYWY0OTE3YmY1ZGY5ZTQ4ZDVh",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDdjMmY5ZDk2OWQyNDk4ODg5NDkxNGEzNGU0YTg2ODU2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -215,6 +199,22 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "The Sound Of Sunshine",
         "url": "https://open.spotify.com/album/6n3RWQarUS9N542RErAIgy"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 225133,
       "name": "The Sound Of Sunshine",
       "url": "https://open.spotify.com/track/6iBWazas8QsDtBnjlXkrXk"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -279,22 +263,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Way of Life (with Slightly Stoopid)",
         "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/1Pao4DTLMB4gJPTnqmLgSQ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Iron Lion Zion",
-        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 202432,
-      "name": "Iron Lion Zion - 7\" Mix",
-      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "HOPE Campaign Tribute Album 2010",
         "url": "https://open.spotify.com/album/6nKCSPUzU4GLM7cqqYmruM"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 257906,
       "name": "La Mar",
       "url": "https://open.spotify.com/track/2qrVYBy2PArMwQRVZxFWzz"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Iron Lion Zion",
+        "url": "https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 202432,
+      "name": "Iron Lion Zion - 7\" Mix",
+      "url": "https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Best of The Maytals",
-        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "It Must Be True Love",
-      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "A Vibe (feat. Wiz Khalifa)",
         "url": "https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 191253,
       "name": "Feeling Irie",
       "url": "https://open.spotify.com/track/1P5GpSSraTkxFOYVwsxMXw"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "The Best of The Maytals",
+        "url": "https://open.spotify.com/album/1B30XX0WLRtky9va3mGmiE"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "It Must Be True Love",
+      "url": "https://open.spotify.com/track/1pZcY3kqDfEmJjrQ2CLP3B"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Like Royalty (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 245986,
-      "name": "Like Royalty (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Fix It",
         "url": "https://open.spotify.com/album/0UIcpuZ7MGsGOSzv5RFB2p"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 181333,
       "name": "Push Time",
       "url": "https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Like Royalty (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/1vRu5xDjU8UI01GFdvWrnP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 245986,
+      "name": "Like Royalty (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4ezz5XTWn8PPTuDagSM8pH"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "The Red Room Intro (Yard Gyal Inna Britain)",
-        "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
+        "name": "Warm & Easy",
+        "url": "https://open.spotify.com/album/3IkZdCpD7KXA0gMA0REKLl"
       },
       "artists": [
         {
-          "name": "Alicai Harley",
-          "url": "https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh"
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
         }
       ],
-      "duration_ms": 208860,
-      "name": "Woii",
-      "url": "https://open.spotify.com/track/10J8eHB9Yajz8NODmjpjvt"
+      "duration_ms": 295333,
+      "name": "Warm & Easy",
+      "url": "https://open.spotify.com/track/2K02J8shfay33u49WhlaZg"
     }
   ],
   "unique_name": "Just Smile",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The Hottest Hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover:  RADWIMPS
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,319 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,885 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 45 | [Honey](https://open.spotify.com/track/18DQ9iePAAoZUFjnAaDG88) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 3:02 |
 | 46 | [ムスクの香り](https://open.spotify.com/track/5N7gaC7e7eeOFe8Bgnzhti) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [ムスクの香り](https://open.spotify.com/album/3ytT7NqC0qAXHLAMp2R3lq) | 3:16 |
 | 47 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 |
-| 48 | [YOSOMI](https://open.spotify.com/track/3yvF5pstpyzo8U2pFhbq2l) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [YOSOMI](https://open.spotify.com/album/2XqxQQVh0O8Uetqqzt8VM8) | 3:35 |
+| 48 | [Mid\-20s](https://open.spotify.com/track/4h4Oa8uzPl6eW0Eh9bBLqP) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Tasty City](https://open.spotify.com/album/4ZcHvn5pkdDxn60PhV7OjN) | 3:44 |
 | 49 | [come again](https://open.spotify.com/track/7vyYFC1tpOv4mg3PrbTfCX) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Chrome Season](https://open.spotify.com/album/26z9uGhvmZt7YjkCspGTlB) | 3:06 |
 | 50 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 |
 
-Snapshot ID: `MTY2NzE0MjAwMCwwMDAwMDAwMDE4NTcxOTcwNjQyZDUwZTU0NWYzNDkzYTkxYzkzYzdh`
+Snapshot ID: `MTY2NzIxMjk4OSwwMDAwMDAwMDYyN2YwYjU1OGIxODRlMmIxNmJiNTRhMjMwNGViY2M5`

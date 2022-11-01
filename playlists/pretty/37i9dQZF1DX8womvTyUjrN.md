@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,063 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,093 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 15 | [Otra Vez](https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Otra Vez](https://open.spotify.com/album/1DfewrrMbOAybrEzqKalG4) | 2:35 |
 | 16 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 |
 | 17 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 |
-| 18 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 |
-| 19 | [Buscando un Amor](https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Buscando un Amor](https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1) | 2:55 |
+| 18 | [Buscando un Amor](https://open.spotify.com/track/3tBvRSJmg8fBfdE8cmTJ7d) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Buscando un Amor](https://open.spotify.com/album/4kuI9JizuvIwuCLjq9OKS1) | 2:55 |
+| 19 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
 | 20 | [Órbita \(Feat\. Polimá Westcoast\)](https://open.spotify.com/track/3JfDVjrRznqU9GV5fsP9HD) | [Sticky M.A.](https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Órbita \(Feat\. Polimá Westcoast\)](https://open.spotify.com/album/2E5OyVnkgKG3lmHOFH6Zap) | 3:14 |
-| 21 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 |
+| 21 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 |
 | 22 | [Ferrari](https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Ferrari](https://open.spotify.com/album/5XYRAwmbiYlvdauwTY3nqw) | 3:07 |
 | 23 | [Nena](https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Nena](https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX) | 3:15 |
 | 24 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 34 | [Satisfacción](https://open.spotify.com/track/1eVlIs77JL0shfA3Itvy7P) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Satisfacción](https://open.spotify.com/album/3mWvzWktxFz86HpHDVXDJw) | 2:08 |
 | 35 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
 | 36 | [Te Elegiré](https://open.spotify.com/track/4NMoA4IaZgIJsIbnMk79Fa) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Te Elegiré](https://open.spotify.com/album/7tPSBcVdJ4YIWIMEAAZOsM) | 3:56 |
-| 37 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 |
-| 38 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 |
-| 39 | [KATAN](https://open.spotify.com/track/52LzkfgpSfBvf3EF9Xfya0) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [KATAN](https://open.spotify.com/album/0QMamEWq0KIRemCbcaogcd) | 2:52 |
-| 40 | [Mentiroso](https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde) | [NATYASH](https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mentiroso](https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9) | 3:39 |
-| 41 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 |
-| 42 | [Sin Tenerte Que Buscar](https://open.spotify.com/track/2PGQAKkbZ3Op9rHghrfiLt) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Sin Tenerte Que Buscar](https://open.spotify.com/album/1gPLTN5gy6Tn7xBfywzjsN) | 3:04 |
-| 43 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
-| 44 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 |
-| 45 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
+| 37 | [737 \- Live](https://open.spotify.com/track/0jV5XudI1NaiDqHFunNplU) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Live Sessions](https://open.spotify.com/album/0cWyYl8QBnndPhH04eCSov) | 2:54 |
+| 38 | [Cardenalito](https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:32 |
+| 39 | [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 |
+| 40 | [Sin Tenerte Que Buscar](https://open.spotify.com/track/2PGQAKkbZ3Op9rHghrfiLt) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Sin Tenerte Que Buscar](https://open.spotify.com/album/1gPLTN5gy6Tn7xBfywzjsN) | 3:04 |
+| 41 | [KATAN](https://open.spotify.com/track/52LzkfgpSfBvf3EF9Xfya0) | [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [KATAN](https://open.spotify.com/album/0QMamEWq0KIRemCbcaogcd) | 2:52 |
+| 42 | [Mentiroso](https://open.spotify.com/track/4zF05QukoOPUFchr7FcTde) | [NATYASH](https://open.spotify.com/artist/4ES3NiYbsUzD8EQ2V5ceST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Mentiroso](https://open.spotify.com/album/3TmncVuQAgzIuAMFMMQ7w9) | 3:39 |
+| 43 | [Un Dia a la Vez](https://open.spotify.com/track/4p4QQSwm5ZgqjaarGXyHPp) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Un Día a la Vez](https://open.spotify.com/album/74sRwZrCb4JgK2jWQ5TqiF) | 2:41 |
+| 44 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
+| 45 | [Rómpelo](https://open.spotify.com/track/5gofu3oR7kLRRuyoNZYCzO) | [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Rómpelo](https://open.spotify.com/album/7BzLmkTSB6jHmV1HIHpk6K) | 3:06 |
 | 46 | [Bummed](https://open.spotify.com/track/2em94u4QNIp9RMuIewNlr6) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Bummed](https://open.spotify.com/album/1TKoeVdstQkrNsYn5ErzwD) | 3:00 |
 | 47 | [Claramente](https://open.spotify.com/track/4CS0ensC1OATktJSD916Nv) | [ADRI](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Claramente](https://open.spotify.com/album/4XwGkazwZ4OsS0HnQjUwy6) | 2:51 |
 | 48 | [ENVIDIOSA](https://open.spotify.com/track/0dJvqqRkqfqPKXlzqvYYq8) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [ENVIDIOSA](https://open.spotify.com/album/26qBvh5dc41rLf7nUPneIM) | 2:28 |
-| 49 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 |
-| 50 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
+| 49 | [Dile](https://open.spotify.com/track/1S5z1vCwZ02Bv4HniQiYlu) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Dile](https://open.spotify.com/album/1ngeqoGHWCJy0dCz23GEkE) | 3:00 |
+| 50 | [too good to be true](https://open.spotify.com/track/4DtPemed93VqdvI0mTw9VG) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [too good to be true](https://open.spotify.com/album/3GYLubZssZWahip1mUSzKR) | 2:32 |
 
-Snapshot ID: `MTY2Njk1NjUzNiwwMDAwMDAwMDFlNWVlYzQyYjg1NTBjN2RiMjY1MDQ3YTk5ZmRlNGE4`
+Snapshot ID: `MTY2Njk1NjUzNiwwMDAwMDAwMGY3MjUzNzJhZTljMzJkNTAwODliZDc1OWQ4N2Y1MGI3`

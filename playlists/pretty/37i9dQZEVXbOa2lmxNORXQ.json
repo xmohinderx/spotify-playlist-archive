@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Colombia.",
-  "num_followers": 769707,
+  "num_followers": 769850,
   "original_name": "Top 50 - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzIwNDQ0MDUyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzIwNTI4NTgyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -77,43 +77,7 @@
       "url": "https://open.spotify.com/track/0T2pB7P1VdXPhLdQZ488uH"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
-      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "Prohibidox",
-      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -133,7 +97,43 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+        "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+      "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -149,27 +149,7 @@
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Salir Con Vida",
-        "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Salir Con Vida",
-      "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -185,7 +165,7 @@
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
@@ -205,7 +185,27 @@
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Salir Con Vida",
+        "url": "https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Salir Con Vida",
+      "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "GAT\u00daBELA",
         "url": "https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -265,23 +265,7 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -297,7 +281,23 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -313,23 +313,7 @@
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Si Te La Encuentras Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "The Love & Sex Tape",
         "url": "https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh"
@@ -349,7 +333,23 @@
       "url": "https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Si Te La Encuentras Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/2vsoD8S1OyrWSVIA43hjaU"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
@@ -373,7 +373,23 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
@@ -429,23 +445,7 @@
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Monastery",
         "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
@@ -465,43 +465,7 @@
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "PUNTO 40",
-        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Baby Rasta",
-          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
-        }
-      ],
-      "duration_ms": 190654,
-      "name": "PUNTO 40",
-      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 156787,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
@@ -521,23 +485,43 @@
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 177280,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht"
+      "duration_ms": 156787,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "PUNTO 40",
+        "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "PUNTO 40",
+      "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Dembow",
         "url": "https://open.spotify.com/album/0h5NIUrrySBxouSVVbZchi"
@@ -561,7 +545,39 @@
       "url": "https://open.spotify.com/track/5uJWQVYH6Xq3ChSFx8AU6s"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 177280,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/18pWcEUcUJpBFs7eNBsBht"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 151666,
+      "name": "Pa' Que Retozen",
+      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Pantysito",
         "url": "https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -605,23 +621,7 @@
       "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Pa' Que Retozen",
-      "url": "https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -641,39 +641,7 @@
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Roce",
         "url": "https://open.spotify.com/album/2naWs0HQGnkjaUfwlV78av"
@@ -693,7 +661,7 @@
       "url": "https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Controlla (Remix)",
         "url": "https://open.spotify.com/album/1lgtVG6PaCMalcQMSpYYRV"
@@ -713,7 +681,23 @@
       "url": "https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Me Vas a Recordar",
         "url": "https://open.spotify.com/album/5JI9jg1HEOYoKLqBOsU8Pc"
@@ -729,7 +713,39 @@
       "url": "https://open.spotify.com/track/5oL6fZD5C2Yhw2jiiV2vIW"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 190564,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -749,59 +765,7 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 237894,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Lady Mi Amor",
-      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "House Of Pleasure",
-        "url": "https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190564,
-      "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
@@ -821,7 +785,83 @@
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Rip Pusho (Por Pillo)",
+        "url": "https://open.spotify.com/album/1glIQIaBqot8i4xbZVOExL"
+      },
+      "artists": [
+        {
+          "name": "Juny Montana",
+          "url": "https://open.spotify.com/artist/4lwoHJna6OGeV4BQVYMFxP"
+        }
+      ],
+      "duration_ms": 440416,
+      "name": "Rip Pusho (Por Pillo)",
+      "url": "https://open.spotify.com/track/2uItXJYsugAp72oX7rIOzx"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "Lady Mi Amor",
+      "url": "https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
@@ -837,7 +877,23 @@
       "url": "https://open.spotify.com/track/0S4w5ZBEbxYxiygvz9wWdK"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
@@ -865,31 +921,7 @@
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Hecho En Medell\u00edn",
-        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Medallo",
-      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
@@ -905,39 +937,7 @@
       "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
-      "album": {
-        "name": "Rip Pusho (Por Pillo)",
-        "url": "https://open.spotify.com/album/1glIQIaBqot8i4xbZVOExL"
-      },
-      "artists": [
-        {
-          "name": "Juny Montana",
-          "url": "https://open.spotify.com/artist/4lwoHJna6OGeV4BQVYMFxP"
-        }
-      ],
-      "duration_ms": 440416,
-      "name": "Rip Pusho (Por Pillo)",
-      "url": "https://open.spotify.com/track/2uItXJYsugAp72oX7rIOzx"
-    },
-    {
-      "added_at": "2022-10-30 11:20:52",
+      "added_at": "2022-10-31 10:49:42",
       "album": {
         "name": "De Tanto Chimbiar",
         "url": "https://open.spotify.com/album/2KeczAPgvvkbctpPl50BNp"

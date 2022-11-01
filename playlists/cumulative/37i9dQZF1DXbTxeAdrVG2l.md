@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s.
 
-697 songs - 2 day 1 hr 26 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
+698 songs - 2 day 1 hr 30 min - [published](https://open.spotify.com/playlist/1RUV9dGsKNifOhk3c3Xq5f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Erase / Rewind](https://open.spotify.com/track/2oHmRO0X4gW4VlCJRcZzez) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:35 | 2019-07-23 | 2022-04-21 |
 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 | 2019-07-28 |  |
 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 | 2020-04-07 | 2022-04-16 |
+| [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [This Is The End: Original Motion Picture Soundtrack](https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3) | 3:44 | 2022-10-01 |  |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/2WjM5cxN10uHaNqh6OLkMv) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The New Best Of \(All Hits & Remixes\) 2016](https://open.spotify.com/album/39gSR80KryAcX955TARfGg) | 3:45 | 2019-05-26\* | 2020-04-03 |
 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 | 2019-05-30 | 2022-07-29 |
 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 | 2020-06-12 | 2020-12-22 |
@@ -536,7 +537,7 @@
 | [Sing Hallelujah!](https://open.spotify.com/track/6RQtvdmW0fnWv1VOKpgYcq) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [The Very Best Of 1990 \- 1997](https://open.spotify.com/album/1uFAUMUiDxxL59YZFlsou0) | 4:01 | 2020-12-22 | 2022-04-26 |
 | [Sing It Back \- Boris Dlugosch Mix](https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Catalogue](https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M) | 4:38 | 2019-07-18 | 2022-04-18 |
 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 | 2019-07-17 | 2022-04-20 |
-| [Slide](https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 3:32 | 2019-05-29 |  |
+| [Slide](https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 3:32 | 2019-05-29 | 2022-11-01 |
 | [Smack My Bitch Up](https://open.spotify.com/track/3tehrxZR8eaANHov4cEctL) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land \- Expanded Edition](https://open.spotify.com/album/2NkwB9shQioKcbNhPf2EbP) | 5:42 | 2019-07-25 | 2019-08-05 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 5:01 | 2019-07-27 | 2022-04-19 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-06-02 |  |

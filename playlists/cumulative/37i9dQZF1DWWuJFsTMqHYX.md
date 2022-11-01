@@ -4,7 +4,7 @@
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-76 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/0bFPwkqmzwywAEYIYtJnVj)
+77 songs - 5 hr 56 min - [published](https://open.spotify.com/playlist/0bFPwkqmzwywAEYIYtJnVj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alghalem](https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Aratan n Azawad](https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9) | 3:41 | 2022-03-07 | 2022-07-24 |
 | [Amidinine](https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:28 | 2022-03-07 |  |
 | [Aratan N Azawad](https://open.spotify.com/track/6zScu9J9yQAFoT1rykntkJ) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [The Tapsit Years](https://open.spotify.com/album/56Bii6aeFnFkHbDugZlvUa) | 4:22 | 2022-03-07 | 2022-07-25 |
+| [Arghane Manine](https://open.spotify.com/track/1WiTAUE8gMPKRTuE4zt4vc) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Arghane Manine](https://open.spotify.com/album/6x5dQHzmvNohax3P2kqLHP) | 5:00 | 2022-10-25 |  |
 | [Arrabi al Arabe](https://open.spotify.com/track/4anx9dy5q5vU1B0kwNRmrR) | [Mariem Hassan](https://open.spotify.com/artist/6uDfHkEF9G0FoBa97NTr4O) | [El Aaiun Egdat](https://open.spotify.com/album/1M46BfgAnMu8p5P8DjUQ1p) | 4:26 | 2022-03-07 |  |
 | [Awa adounia](https://open.spotify.com/track/4oYwvjJ2Yq3Yn4Fqgn3uOg) | [Liya Ag Ablil](https://open.spotify.com/artist/5hMboy5Fq7s4pF0Q5ebJj5), [Nadia Nid El Mourid](https://open.spotify.com/artist/4Xuwu3Fe7lYLHIkvGVlpsb), [Abdallah Ag Ahmed](https://open.spotify.com/artist/1vve6wGaMkX00i8HShL2wS), [Mathias Vaguenez](https://open.spotify.com/artist/7w1rIetgb3qOd0TA5OEZ0d), [Sanou Ag Ahmed](https://open.spotify.com/artist/78RQ22utV6xA4BoB0dUQWY), [Yamina Nid El Mourid](https://open.spotify.com/artist/6yvYW6kcEnqrFPZc8CYoxS) | [Kel Tamasheq \(Deluxe Edition\)](https://open.spotify.com/album/2rMmfXa4lfk9o4vkcOeVRH) | 4:44 | 2022-03-07 |  |
 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 | 2022-03-07 |  |
@@ -68,7 +69,7 @@
 | [Soubour](https://open.spotify.com/track/6myCSm2QEXMrgtUxVN313f) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Music In Exile](https://open.spotify.com/album/5zpmNObCgAASco8nNJXIkb) | 3:32 | 2022-03-07 | 2022-10-20 |
 | [Tadieu Bone](https://open.spotify.com/track/1XMr0CfVAuZ5ueoDe8yUNq) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/2hyXbgiRlM3PORB5GEAkLw) | 4:23 | 2022-03-07 | 2022-09-24 |
 | [Tadieu Bone](https://open.spotify.com/track/2a5WbaVANXN8Dj4aNmBosD) | [Ismaël Lô](https://open.spotify.com/artist/4EBRPnSYtrfmwptEMOSCV8) | [Natt](https://open.spotify.com/album/4mIsprnNBBsFjR8xPu60TT) | 4:23 | 2022-09-01 |  |
-| [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 | 2022-03-07 |  |
+| [Taguebarbt](https://open.spotify.com/track/3Z0pzENlADpDPqWW4Lb2Kw) | [Gaada Diwane De Béchar](https://open.spotify.com/artist/52QoFZylWvNG3obRJxiPPF) | [Sortie D'usine](https://open.spotify.com/album/2LhXFW8YOMLKzjxaDN11Cr) | 4:10 | 2022-03-07 | 2022-11-01 |
 | [Tahabort](https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/2aLKNhNF3szhUQY3AJoGgL) | 3:30 | 2022-03-07 |  |
 | [Tamiditine](https://open.spotify.com/track/2st24VONuY9hqiGAPkhyua) | [Bombino](https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN) | [Nomad](https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe) | 4:39 | 2022-03-07 |  |
 | [Taragalte](https://open.spotify.com/track/0g9YOykbhG0jhDW2m4Y3w8) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Soul of Morocco](https://open.spotify.com/album/1C00IcQUmLjluDOZjgxUM5) | 7:12 | 2022-03-07 |  |

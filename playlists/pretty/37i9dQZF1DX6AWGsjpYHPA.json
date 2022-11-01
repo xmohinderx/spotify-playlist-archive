@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 88363,
+  "num_followers": 88428,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDA0ZGUyOWNhNDBkNzhlZWMxZGYxYWY5NWI2YjViZDE4",
+  "snapshot_id": "MTY2MzI4MTE1NywwMDAwMDAwMDllNTI2NjQ2OGQ0MzUyNWU4ZDNmNzYzZjM0MDllMDli",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -111,18 +111,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -143,22 +147,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Point and Kill",
-      "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/55mvtucws4Mnro27744t9X"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "VENOLOGY",
         "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 252053,
       "name": "Sun, Moon & Herbs",
       "url": "https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Horizon Unlimted",
+        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
+      },
+      "artists": [
+        {
+          "name": "Lijadu Sisters",
+          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
+        }
+      ],
+      "duration_ms": 316866,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 313587,
       "name": "Beside April",
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Horizon Unlimted",
-        "url": "https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY"
-      },
-      "artists": [
-        {
-          "name": "Lijadu Sisters",
-          "url": "https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ"
-        }
-      ],
-      "duration_ms": 316866,
-      "name": "Come On Home",
-      "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Diego E.P.",
-        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
       "artists": [
         {
-          "name": "Gotts Street Park",
-          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Ozu",
-      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1011,6 +995,22 @@
       "duration_ms": 202762,
       "name": "Colomb",
       "url": "https://open.spotify.com/track/5PV6r93MQICDlBiCEbURLZ"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Diego E.P.",
+        "url": "https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI"
+      },
+      "artists": [
+        {
+          "name": "Gotts Street Park",
+          "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Ozu",
+      "url": "https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ"
     },
     {
       "added_at": "2022-09-15 22:32:37",

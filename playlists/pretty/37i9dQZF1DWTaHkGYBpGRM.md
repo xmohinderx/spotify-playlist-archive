@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaHkGYBpGRM.md) - [plain]
 
 > Long distance is hard, but true love knows no boundaries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,983 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

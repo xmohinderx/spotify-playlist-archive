@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 580253,
+  "num_followers": 580327,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMDcyM2I0ZjU3YTAwYjRhNmJjM2E3YzI1NjljNzY3NDc5",
+  "snapshot_id": "MTY0NzA0MjE5MCwwMDAwMDAwMDM1YjUwZjNjOGM3ZTg1OTI4ZjM0N2RkYjliMjdiOTQ1",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Nathaniel Rateliff & The Night Sweats",
-        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 247613,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+        "name": "Nathaniel Rateliff & The Night Sweats",
+        "url": "https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+      "duration_ms": 247613,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/1VPUpUwtbpoRVXt0txVU0w"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/3z7kvwJVRfA4HCOfm9ngog"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
         }
       ],
-      "duration_ms": 284130,
-      "name": "The Only Thing",
-      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -739,6 +723,22 @@
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 284130,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Ana\u00efs Mitchell",
-        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
         }
       ],
-      "duration_ms": 157040,
-      "name": "Stronger Than That",
-      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
+      "duration_ms": 190586,
+      "name": "Bright Star",
+      "url": "https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 157040,
+      "name": "Stronger Than That",
+      "url": "https://open.spotify.com/track/5kgyNmIytvTGGuiv0MwzZp"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1291,6 +1275,22 @@
       "duration_ms": 196173,
       "name": "Turntable",
       "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
     }
   ],
   "unique_name": "Roots Revival",

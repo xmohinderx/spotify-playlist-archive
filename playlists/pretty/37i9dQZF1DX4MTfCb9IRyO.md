@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 
 > Classic blues for a blue summer day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,362 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,370 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 7 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 |
 | 8 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 |
 | 9 | [I'm A Man](https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [Bo Diddley](https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR) | 2:44 |
-| 10 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
-| 11 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 10 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 11 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
 | 12 | [I Don't Know](https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [The Essentials: Ruth Brown](https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7) | 2:53 |
 | 13 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 |
 | 14 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 33 | [Got My Mojo Working](https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:52 |
 | 34 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
 | 35 | [Hideaway \- Mono Instrumental](https://open.spotify.com/track/43FVOV48LHhXOhZ0t5picb) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:13 |
-| 36 | [You Don't Know What Love Is](https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:57 |
-| 37 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
+| 36 | [Born Under A Bad Sign](https://open.spotify.com/track/0vDn81gdOuRxjbIwcASuiV) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 2:46 |
+| 37 | [You Don't Know What Love Is](https://open.spotify.com/track/6NTCurUHy71S0XKVtyQtqT) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 3:57 |
 | 38 | [That's A Pretty Good Love](https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [Blues, Candy & Big Maybelle](https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh) | 2:35 |
 | 39 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Plays The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 40 | [Ball N' Chain](https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:31 |
 | 41 | [Someday \(Electric\)](https://open.spotify.com/track/5ZUxxja3WzBZUFF6P9M9HN) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Someday](https://open.spotify.com/album/1E7OQUKXxK5qCX1Hy2O7j9) | 3:26 |
-| 42 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
-| 43 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
+| 42 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
+| 43 | [Tipitina \- Mono](https://open.spotify.com/track/0Jz7pqRw3fumuTvQgAobH4) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:38 |
 | 44 | [Lookin' Good](https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW) | [Magic Sam](https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO), [Mighty Joe Young](https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL), [Stockholm Slim](https://open.spotify.com/artist/0WKpnBdTIx21ZsPd8zuynC), [Earnest Johnson](https://open.spotify.com/artist/1zkJyhY4Yx9tiouTnGrs2I), [Odie Payne, Jr.](https://open.spotify.com/artist/1A9aTffrO3x44CEX13JGIc) | [West Side Soul \(Deluxe Edition\)](https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX) | 3:17 |
 | 45 | [Well I Done Got Over It](https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl) | [Guitar Slim](https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s) | [Sufferin' Mind](https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5) | 2:27 |
 | 46 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MTfCb9IRyO.md) - [plain]
 | 49 | [Queen Bee](https://open.spotify.com/track/4DxM8kI9DUFig4JkWiWxYr) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Evolution \(The Most Recent\)](https://open.spotify.com/album/3TiJzhz6bELDjmTdnwOq9a) | 4:28 |
 | 50 | [It Serves Me Right To Suffer](https://open.spotify.com/track/1R6geFUwTaYU8vnMkAtD2N) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 4:11 |
 
-Snapshot ID: `MTU4ODU4NDcyMywwMDAwMDAwMDczZGUzMzRjZWIzY2Q2ODhjN2RkYjFhZjFjN2E1ZDNm`
+Snapshot ID: `MTU4ODU4NDcyMywwMDAwMDAwMDJjZjViM2JhNWI3OGVkNjYyNmE3ZWFiMDEzYzQ2YTA0`

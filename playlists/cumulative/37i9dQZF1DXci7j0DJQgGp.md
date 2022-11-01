@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-349 songs - 22 hr 14 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
+350 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/1RrVDe6f3GZDanuaRyNhUC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Hardlytown](https://open.spotify.com/track/0vgKumXafJCisk3fYWnGjh) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Hardlytown](https://open.spotify.com/album/0hD9U5UhKA4iS1fzqZs1Wd) | 3:17 | 2021-12-17 | 2022-07-28 |
 | [Headspace \(feat\. Ruston Kelly\)](https://open.spotify.com/track/2amvwRxkfD6kJELTaLbDix) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Bullseye](https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1) | 4:17 | 2022-03-25 | 2022-04-19 |
 | [Heaven](https://open.spotify.com/track/1gkgfQtAGTPu2FIOgok9bx) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Heaven](https://open.spotify.com/album/7lGHdyvIs1OXcnl7h9HaDA) | 3:22 | 2022-03-25 | 2022-04-17 |
-| [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 | 2021-12-17 |  |
+| [Held Down](https://open.spotify.com/track/1vlDwedZUvYaxt2FXoYGaJ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 4:07 | 2021-12-17 | 2022-11-01 |
 | [Heliotrope](https://open.spotify.com/track/3o6sLYqZ6AH9yxsVpwVwju) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Heliotrope](https://open.spotify.com/album/4rDUMiofrIdnkOEQOszfqc) | 3:07 | 2021-12-17 | 2022-06-06 |
 | [Help Me Down](https://open.spotify.com/track/1MrgHn4BWUcxFolDAezsXJ) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/27PS3oqiVzOqqAT04Ku6at) | 3:40 | 2022-09-16 |  |
 | [Help Me Down](https://open.spotify.com/track/3QM6LAQY5eZ237iKv4QIuL) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Help Me Down](https://open.spotify.com/album/43KXYPbQpUh82vVQVzrauv) | 3:40 | 2021-12-17 | 2022-07-29 |
@@ -285,6 +285,7 @@
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Still Life \(feat\. Joseph\)](https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs) | 3:48 | 2021-12-17 | 2022-07-23 |
 | [Stolen Love](https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Motel Mayday](https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0) | 3:43 | 2021-12-17 |  |
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2021-12-17 |  |
+| [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 | 2022-09-16 |  |
 | [Sugar in the Creek](https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Sugar in the Creek](https://open.spotify.com/album/27apDe4nr7zwbz0ORbgrp1) | 4:11 | 2021-12-17 | 2022-10-23 |
 | [Sugar Mama](https://open.spotify.com/track/3KImvFzE4G4xg7GvPewvrw) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Sugar Mama](https://open.spotify.com/album/70l7cF7hcGVAr4PpX2yZOZ) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2022-03-25 |  |

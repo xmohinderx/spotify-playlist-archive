@@ -4,7 +4,7 @@
 
 > iykyk
 
-649 songs - 1 day 11 hr 19 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+650 songs - 1 day 11 hr 22 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-02 | 2022-03-27 |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2022-06-21 | 2022-07-09 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-09-29 |  |
+| [Heyy](https://open.spotify.com/track/6w2laMOxRE0yUsbq4bVLiZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Heyy](https://open.spotify.com/album/3oBEWrK0AXOXa8ADodU0ue) | 3:12 | 2022-10-31 |  |
 | [High Enough \- Slowed](https://open.spotify.com/track/5JXOF1rt31rT07luk5wFE6) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [High Enough \(Slowed\)](https://open.spotify.com/album/22fEFCYPXjbw5hguumN7lR) | 3:21 | 2021-12-03 | 2022-09-17 |
 | [Higher](https://open.spotify.com/track/2QdSb68BzZGMgCbsrFmSLc) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 3:16 | 2022-05-26 | 2022-06-07 |
 | [Him](https://open.spotify.com/track/7w4lnEj8VwQ0xNpl1M3I0G) | [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Like Yay](https://open.spotify.com/album/76PpFLRcZtGmV97QajJPx8) | 2:31 | 2022-04-25 | 2022-05-25 |

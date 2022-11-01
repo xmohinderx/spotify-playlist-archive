@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-119 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
+120 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Flicker in the Fade](https://open.spotify.com/track/0JCXykmQ7NQxQHE8skH8xL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:50 | 2022-04-08 | 2022-04-30 |
 | [Fuck The Rain](https://open.spotify.com/track/6QZteBMevNynnZFzCxoG0I) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/2eDMavEOxrN2oqSZZrfwMl) | 3:33 | 2022-01-11 |  |
 | [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 | 2022-01-11 | 2022-07-22 |
-| [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 |  |
+| [Hall of Shame](https://open.spotify.com/track/1BdDHMSD1LtJ9fGCMee0D8) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:33 | 2022-08-20 | 2022-11-01 |
+| [Hall of Shame](https://open.spotify.com/track/3jwnNTEjlyg6z1ctcxYWsV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI) | 3:33 | 2022-10-31 |  |
 | [Hallelujah](https://open.spotify.com/track/35IXhsIR2ZgELZABz7iRVr) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:10 | 2022-01-11 | 2022-08-08 |
 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 | 2022-01-11 |  |
 | [Hotel Chelsea Nights](https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:10 | 2022-01-11 | 2022-08-06 |
@@ -90,7 +91,7 @@
 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 | 2022-01-11 |  |
 | [Rollercoaster](https://open.spotify.com/track/2ysAcfGtUNg4PUOSom6yd5) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 4:09 | 2022-05-14 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/73jnBpdPr7JcvXrRgRuN19) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:42 | 2022-05-14 |  |
-| [Run](https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:37 | 2022-10-16 | 2022-10-25 |
+| [Run](https://open.spotify.com/track/3Tsa7IQlaD0WDGMEE4DaCD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 3:37 | 2022-10-16 |  |
 | [Schizophrenic Babylon](https://open.spotify.com/track/4kbX5HsIZ3bks6pwHE1pO1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:21 | 2022-04-06 | 2022-05-31 |
 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 | 2022-01-12 |  |
 | [Shiver And Shake](https://open.spotify.com/track/6TbOgR6jpuqkjAmgs4hdFL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:05 | 2022-01-11 |  |
@@ -123,7 +124,7 @@
 | [When She Smiles](https://open.spotify.com/track/5W7x9V7Jh2Wd4rXZfqvltN) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:41 | 2022-08-20 | 2022-10-29 |
 | [When The Stars Go Blue](https://open.spotify.com/track/04rMpRstoJt3uvqyNGKczX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:31 | 2022-01-11 |  |
 | [Why Do They Leave?](https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:38 | 2022-01-23 | 2022-10-11 |
-| [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 | 2022-08-21 |  |
+| [Wild and Hopeless](https://open.spotify.com/track/6xlSShT4sz2vBzrYQ1lZR0) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 2:55 | 2022-08-21 | 2022-11-01 |
 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 | 2022-01-17 |  |
 | [Wonderwall](https://open.spotify.com/track/4siFdX3QLfjtzg1HHgCPW7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:08 | 2022-01-11 |  |
 | [World War 24](https://open.spotify.com/track/19C1YdOULsmmOPvsIdoSTm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 4:15 | 2022-01-31 | 2022-03-14 |

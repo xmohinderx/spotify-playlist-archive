@@ -1,12 +1,12 @@
 {
   "description": "Sweat it out with your favorite country workout songs.",
-  "num_followers": 86268,
+  "num_followers": 86317,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMGNhZDQwYzJjOGQ4MzM1Yjk2NmNlODAzMDM0NWRiMzA4",
+  "snapshot_id": "MTY0MDE5NTE4OSwwMDAwMDAwMGExOWQzN2Q5MGZhOGU0ZGRmYjA0OTQ1MzY2MWZmOGUz",
   "tracks": [
     {
       "added_at": "2021-12-22 17:46:06",
@@ -135,6 +135,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Beer Never Broke My Heart",
+      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "What You See Is What You Get",
-        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Beer Never Broke My Heart",
-      "url": "https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Throw It Back (feat. Keith Urban)",
         "url": "https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo"
       },
@@ -227,6 +227,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "This One's for You",
+        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7xnimikDuIBDpLeLrjptb8"
       },
@@ -243,6 +259,22 @@
       "duration_ms": 203173,
       "name": "Knee Deep (feat. Jimmy Buffett)",
       "url": "https://open.spotify.com/track/60IGhnH20N82dNxKnc8jDd"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Crash My Party",
+        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "That's My Kind Of Night",
+      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -279,22 +311,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Crash My Party",
-        "url": "https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "That's My Kind Of Night",
-      "url": "https://open.spotify.com/track/5HGibWoxnkYSkl6mHmAlOE"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "This One's for You",
-        "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -355,38 +355,6 @@
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -407,6 +375,38 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/3hboOw4dS0aXGuP0fyyvbC"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -495,22 +511,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -523,22 +523,6 @@
       "duration_ms": 190240,
       "name": "House Party",
       "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Wide Open",
-        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "She's Country",
-      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -559,22 +543,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "How Country Feels",
         "url": "https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6"
       },
@@ -591,18 +559,34 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Life Changes",
-        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 157080,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
+      "duration_ms": 220573,
+      "name": "She's Country",
+      "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -635,6 +619,22 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/143YESFOZqxVGrKEWisbid"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Life Changes",
+        "url": "https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/30MM5jWpUmOxtTNd9Ey5LZ"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -675,26 +675,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Center Point Road",
-        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Beer Can\u2019t Fix",
-      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -707,22 +687,6 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -747,22 +711,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Blue Tacoma",
-      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Kill The Lights (Deluxe)",
         "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
@@ -775,6 +723,42 @@
       "duration_ms": 190586,
       "name": "Kick The Dust Up",
       "url": "https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Beer Can\u2019t Fix",
+      "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -795,30 +779,6 @@
       "duration_ms": 288760,
       "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
       "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "HIXTAPE: Vol. 1",
-        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
-      "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -851,6 +811,46 @@
       "duration_ms": 284960,
       "name": "My Kinda Party",
       "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "HIXTAPE: Vol. 1",
+        "url": "https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 212066,
+      "name": "Blue Tacoma",
+      "url": "https://open.spotify.com/track/5PBx0zFfehUMyv5H4YXVAU"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Songs About Me",
         "url": "https://open.spotify.com/album/3XWgiQQ5dMilsbpKDWmzSA"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 241133,
       "name": "Honky Tonk Badonkadonk",
       "url": "https://open.spotify.com/track/5iDfnRTdV2mrvMK886TLRg"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Back Then, Right Now",
         "url": "https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD"
       },
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/6xDwYyGCOkD2t9GuBikEL8"
       },
@@ -1327,22 +1327,6 @@
       "duration_ms": 149293,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/3DV49ruvI5Sl6iisPZAc2c"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177253,
-      "name": "Undo It",
-      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1395,6 +1379,22 @@
       "duration_ms": 205960,
       "name": "Gone",
       "url": "https://open.spotify.com/track/7IhfjcaXuXCq20ZiAA7igK"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Undo It",
+      "url": "https://open.spotify.com/track/1Fo2N5iXRi37maMboaig7O"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Ignite the Night (Party Edition)",
-        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
+        "name": "Start Here",
+        "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
       },
       "artists": [
         {
-          "name": "Chase Rice",
-          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+          "name": "Maddie & Tae",
+          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
         }
       ],
-      "duration_ms": 190587,
-      "name": "Ready Set Roll",
-      "url": "https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L"
+      "duration_ms": 217840,
+      "name": "Girl In A Country Song",
+      "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Start Here",
-        "url": "https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj"
-      },
-      "artists": [
-        {
-          "name": "Maddie & Tae",
-          "url": "https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Girl In A Country Song",
-      "url": "https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 241053,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Ignite the Night (Party Edition)",
+        "url": "https://open.spotify.com/album/5lkRYpePZze7eng9Spx1Gq"
+      },
+      "artists": [
+        {
+          "name": "Chase Rice",
+          "url": "https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn"
+        }
+      ],
+      "duration_ms": 190587,
+      "name": "Ready Set Roll",
+      "url": "https://open.spotify.com/track/1pbjOhmFwYC09EYU5EwB5L"
     },
     {
       "added_at": "2021-12-22 17:46:06",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-12-22 17:46:06",
       "album": {
-        "name": "Where It's At",
-        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
-      },
-      "artists": [
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp"
-    },
-    {
-      "added_at": "2021-12-22 17:46:06",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5SvITt1qWQTDbUyA9wDFsK"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 201120,
       "name": "Free And Easy (Down The Road I Go)",
       "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+    },
+    {
+      "added_at": "2021-12-22 17:46:06",
+      "album": {
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/4ZSQEnZOGWEW3XQOAzt477"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/4x7Di9FZJXJoxHjLxjImmp"
     },
     {
       "added_at": "2021-12-22 17:46:06",

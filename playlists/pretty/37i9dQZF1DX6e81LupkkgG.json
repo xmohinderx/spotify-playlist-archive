@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 337447,
+  "num_followers": 337465,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGM5YmU3MGRjZGQ4MzBlYmM0MzMxNGI3MWFlYTI1NjVl",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGE4OTUxZGJkOTFkODk1NTRmNGE5OGRlMGUyM2JlMjEz",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Plastic Hearts",
         "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
       },
@@ -211,6 +195,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -223,6 +223,26 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Music Of The Spheres",
+        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 241595,
+      "name": "Let Somebody Go",
+      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -247,22 +267,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 241595,
-      "name": "Let Somebody Go",
-      "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
+      "duration_ms": 219080,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -295,22 +311,6 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/152lZdxL1OR0ZMW6KquMif"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 186514,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "The Best Is Yet to Come",
         "url": "https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 166874,
       "name": "The Best Is Yet to Come",
       "url": "https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Like Strangers Do",
-        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
-      },
-      "artists": [
-        {
-          "name": "AJ Mitchell",
-          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
-        }
-      ],
-      "duration_ms": 160790,
-      "name": "Like Strangers Do",
-      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -427,6 +427,22 @@
       "duration_ms": 149297,
       "name": "Lonely (with benny blanco)",
       "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Like Strangers Do",
+        "url": "https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ"
+      },
+      "artists": [
+        {
+          "name": "AJ Mitchell",
+          "url": "https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77"
+        }
+      ],
+      "duration_ms": 160790,
+      "name": "Like Strangers Do",
+      "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -467,22 +483,6 @@
       "duration_ms": 237814,
       "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 186514,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Sad Songs In A Hotel Room",
         "url": "https://open.spotify.com/album/3myn4byRnfljbPqfO6FBss"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 229413,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7ykWjHHszWWVOv7Tz0xya7"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "London Is Lonely",
-        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "London Is Lonely",
-      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Heartbeat Changes",
         "url": "https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 197426,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "MUTUAL FRIEND",
-        "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 206943,
-      "name": "MUTUAL FRIEND",
-      "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "I Follow",
         "url": "https://open.spotify.com/album/49Odx8cys3L27jGmwFMQT6"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 169405,
       "name": "I Follow",
       "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "MUTUAL FRIEND",
+        "url": "https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 206943,
+      "name": "MUTUAL FRIEND",
+      "url": "https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "All The Little Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 266626,
-      "name": "Let Her Go - Acoustic",
-      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Were You Watching?",
         "url": "https://open.spotify.com/album/69tUfttjbpSXWXUs2Tzcxd"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 316853,
       "name": "Were You Watching?",
       "url": "https://open.spotify.com/track/3JDOa1mC1h2UJW9bGcZsVN"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "All The Little Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 266626,
+      "name": "Let Her Go - Acoustic",
+      "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "When You Lose Someone",
-        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
+        "name": "just a boy",
+        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
       },
       "artists": [
         {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 200282,
-      "name": "When You Lose Someone",
-      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
+      "duration_ms": 185681,
+      "name": "just a boy",
+      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "just a boy",
-        "url": "https://open.spotify.com/album/5suIBFNeA6UKdnwBUGAU7Q"
+        "name": "When You Lose Someone",
+        "url": "https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq"
       },
       "artists": [
         {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 185681,
-      "name": "just a boy",
-      "url": "https://open.spotify.com/track/7t98gq2h0xH5rnkonfJTxd"
+      "duration_ms": 200282,
+      "name": "When You Lose Someone",
+      "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1363,6 +1363,22 @@
       "duration_ms": 203139,
       "name": "Still Have Me",
       "url": "https://open.spotify.com/track/6SBJ2XHc4jm6Abqt7zocMz"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Depois do Universo",
+        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Depois do Universo",
+      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 212666,
       "name": "Somewhere in Ann Arbor",
       "url": "https://open.spotify.com/track/3ceEHZ1xOcRcO7bqB2PnKK"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Depois do Universo",
-        "url": "https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Depois do Universo",
-      "url": "https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o"
     },
     {
       "added_at": "2022-10-28 03:00:00",

@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Csinibaba",
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
@@ -3047,7 +3047,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh"
@@ -5320,6 +5320,24 @@
     },
     {
       "album": {
+        "name": "NOSTYLIST x Crimewave",
+        "url": "https://open.spotify.com/album/1pR9iIuOOxSooo9wKLsLs2"
+      },
+      "artists": [
+        {
+          "name": "draken",
+          "url": "https://open.spotify.com/artist/1swkyc2nwzfkcD1aLCSkxK"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186456,
+      "name": "NOSTYLIST x Crimewave",
+      "url": "https://open.spotify.com/track/6DAghe5nXABnE6BtgbTrqo"
+    },
+    {
+      "album": {
         "name": "Not Over Yet (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
       },
@@ -6423,7 +6441,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 352003,
       "name": "Sevilla",
       "url": "https://open.spotify.com/track/5xvzN9tprEU16VYxgZ9he4"
@@ -7493,7 +7511,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 209811,
       "name": "Tomorrow 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
@@ -8049,6 +8067,24 @@
       "duration_ms": 140080,
       "name": "Wet Dream",
       "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "album": {
+        "name": "Neveroddoreven",
+        "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
+      },
+      "artists": [
+        {
+          "name": "I Monster",
+          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Who Is She ?",
+      "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
     },
     {
       "album": {

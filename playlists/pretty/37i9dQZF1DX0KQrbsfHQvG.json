@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 164181,
+  "num_followers": 164241,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDEzZTNlYzhmM2Q3Y2YwMjFiNjJlNmQwYWEzNzE5YmVh",
+  "snapshot_id": "MTY1NjY0ODA2MCwwMDAwMDAwMDg4NDk1OTVmYzVjYjA2MDc4ZTY1Y2NkMTRkMjJmNjE3",
   "tracks": [
     {
       "added_at": "2022-07-01 04:01:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 2",
+        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 229531,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 275013,
       "name": "Blasphemy",
       "url": "https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 2",
-        "url": "https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "STRENGTH IN NUMB333RS",
-        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
         "name": "Bury Me Face Down",
         "url": "https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg"
       },
@@ -471,22 +455,34 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Obey (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
+        "name": "STRENGTH IN NUMB333RS",
+        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Obey (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
+      "duration_ms": 232053,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "We got it from Here... Thank You 4 Your service",
+        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "We The People....",
+      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "We got it from Here... Thank You 4 Your service",
-        "url": "https://open.spotify.com/album/3WvQpufOsPzkZvcSuynCf3"
+        "name": "Obey (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ"
       },
       "artists": [
         {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 172013,
-      "name": "We The People....",
-      "url": "https://open.spotify.com/track/3wUX7HpXS382s1DHTRouVk"
+      "duration_ms": 220538,
+      "name": "Obey (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "a modern tragedy vol. 1",
+        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "a modern tragedy vol. 1",
-        "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
     },
     {
       "added_at": "2022-07-01 04:01:00",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-07-01 04:01:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
+      },
+      "artists": [
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"
+    },
+    {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
         "name": "The Disease",
         "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 223043,
       "name": "Polygraph Eyes",
       "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
-      },
-      "artists": [
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        },
-        {
-          "name": "Run The Jewels",
-          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
-        }
-      ],
-      "duration_ms": 171426,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"
     },
     {
       "added_at": "2022-07-01 04:01:00",

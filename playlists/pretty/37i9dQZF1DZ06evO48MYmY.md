@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,242 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,328 likes - 46 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 28 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 |
 | 29 | [A Most Peculiar Man](https://open.spotify.com/track/5B5dFE2ofUxmsXbhGrPZT9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:30 |
 | 30 | [The Sun Is Burning](https://open.spotify.com/track/3bophIN3WTxzLd4yiIZv6X) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:48 |
-| 31 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 |
+| 31 | [That Silver\-Haired Daddy of Mine \- Live at Long Beach Arena, Long Beach, CA \- November 1969](https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:11 |
 | 32 | [Wake up Little Susie \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3i10Co0CjEzd1UpamggnlT) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 2:18 |
-| 33 | [That Silver\-Haired Daddy of Mine \- Live at Long Beach Arena, Long Beach, CA \- November 1969](https://open.spotify.com/track/4aBIXNKJ5SvyTaZLhnisnw) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:11 |
+| 33 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 |
 | 34 | [The Times They Are A\-Changin'](https://open.spotify.com/track/3sO5oZ9NLbAlU6h1qVCPJq) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:50 |
 | 35 | [Citizen of the Planet](https://open.spotify.com/track/1ir7Or967weO0kwfatM7W5) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 3:14 |
 | 36 | [American Tune \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/6xoFYGW7KJsF4SfTz8nxOk) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:35 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48MYmY.md) - [plain]
 | 45 | [Kodachrome / Mabellene \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/1f4CJp5p2OWS0dsyK1symi) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 5:49 |
 | 46 | [Tom and Jerry Story \- Live at Madison Square Garden, New York, NY \- December 2003](https://open.spotify.com/track/17cNaiZu4NMvDlqVBL6HIS) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Old Friends Live On Stage](https://open.spotify.com/album/3jgeQPfd5s935zMEJ6djm5) | 2:14 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA3MjFmYThkYmI4MmU2NDY0NDBmYmZiMjNmZmEzZDg4MQ==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA0YjVlMmMzNTRmYTcwOTQxOGU3MjQ3NmRmNGY4ZmJiYg==`

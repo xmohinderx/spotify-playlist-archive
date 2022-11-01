@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,513 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,659 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 15 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 |
 | 16 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 |
 | 17 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 18 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
-| 19 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
-| 20 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
-| 21 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
+| 18 | [Another Year](https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn) | 4:16 |
+| 19 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 |
+| 20 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 |
+| 21 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 |
 | 22 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 |
 | 23 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 24 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 38 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 39 | [Holiday](https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Holiday](https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx) | 4:08 |
 | 40 | [Just Like Christmas](https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Christmas](https://open.spotify.com/album/1SITmIj0Gjx12n077CU0XC) | 3:08 |
-| 41 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
-| 42 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
+| 41 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
+| 42 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:18 |
 | 43 | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Merry Christmas Everyone \- Recorded at Parr Street Studios](https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl) | 3:38 |
 | 44 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 45 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
 | 46 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 |
 | 47 | [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 |
-| 48 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
-| 49 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
+| 48 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
+| 49 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
 | 50 | [Yellow Bike](https://open.spotify.com/track/1oRIrJIz2ijCG3NYqFLHuo) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Phoenix](https://open.spotify.com/album/5u76A4Ereo3ABD3E7yXAge) | 3:53 |
 
-Snapshot ID: `MTY2NjgwNzI4OSwwMDAwMDAwMDc3NzJiNGE2MmJjZGY4NmMyMWUyMjFlNTllZjQxZGE3`
+Snapshot ID: `MTY2NjgwNzI4OSwwMDAwMDAwMGZhMGRkN2JkMWNmMDllZWZjYTEzMjNjMmYyYmYyOTk1`

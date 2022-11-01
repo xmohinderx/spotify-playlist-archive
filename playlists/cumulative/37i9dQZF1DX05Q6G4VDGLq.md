@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-333 songs - 21 hr 15 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
+336 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/0CYkk8h0lMBQHBnC9TwpSu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 |  |
 | [Danny Boy](https://open.spotify.com/track/1s9mbaEHeW8C3K9A2kVFkd) | [Fast Train Jazz Band](https://open.spotify.com/artist/5oKq1aCcKeI3ZAlstJxDsc) | [Elsa](https://open.spotify.com/album/2UPSIVtkDVSdZgGaJaG1MG) | 4:47 | 2022-06-28 | 2022-10-08 |
 | [Danny´s Dream](https://open.spotify.com/track/5X7wI6LqZfnp6XGYRSktPo) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [If You Could See Me Now](https://open.spotify.com/album/6zyhwDtl3VvpjMUksJQMDl) | 3:34 | 2022-06-28 | 2022-10-08 |
-| [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-06-28 |  |
+| [Dave’s Waltz](https://open.spotify.com/track/3iy07tO59bZ6YkKk49eLbr) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 4:25 | 2022-06-28 | 2022-11-01 |
 | [Dedicated To You](https://open.spotify.com/track/6WKFDVPOkenQ8cXv4uB9xl) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [My Old Friend](https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf) | 3:35 | 2022-06-28 | 2022-10-08 |
 | [Deep In A Dream](https://open.spotify.com/track/0P0YUfbBRKa1GSCSWmFd2p) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:42 | 2022-06-28 | 2022-10-17 |
 | [Desire](https://open.spotify.com/track/4XrTlrbPQF6kkrNZ7X1Nyk) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Desire](https://open.spotify.com/album/7Iw3lbOiYLqhgPbr7tl8xR) | 4:00 | 2022-06-28 |  |
@@ -108,6 +108,7 @@
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-06-28 | 2022-10-08 |
 | [Haze](https://open.spotify.com/track/3CGuaAf6lpT0bjutZ7DJt8) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Haze](https://open.spotify.com/album/0aRC6BqXtgWMaGPg9R9fcB) | 3:28 | 2022-06-28 |  |
 | [Here´s That Rainy Day](https://open.spotify.com/track/2bd8JjaPL4XrbgGyWPqFms) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Born in July](https://open.spotify.com/album/4IJTErkPQ9dSsEt2FyPuzt) | 3:54 | 2022-06-28 | 2022-10-08 |
+| [Hometown Again](https://open.spotify.com/track/5ElOUNrMJQYJu9VmTivrAn) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Hometown Again](https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG) | 4:35 | 2022-10-27 |  |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-06-28 |  |
 | [Hoping](https://open.spotify.com/track/6RhZRRN9d78ef1Qhevnxkk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Hoping](https://open.spotify.com/album/4fSuViLnkUt5fKf6w3SxtC) | 3:23 | 2022-06-28 | 2022-10-08 |
 | [Hoppet](https://open.spotify.com/track/50QdRhmKuE8C2z1NGkiKxB) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Hoppet](https://open.spotify.com/album/6IOoncN42rM25gZJx0rp8J) | 2:35 | 2022-06-28 |  |
@@ -145,7 +146,7 @@
 | [Intangible](https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP) | [Coal Diamond Trio](https://open.spotify.com/artist/6jUiShUd9yRdlmPJlJgTad) | [Intangible](https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r) | 5:02 | 2022-06-28 |  |
 | [Isfahan](https://open.spotify.com/track/4t3Dtmfpj7jTZurwtJVQg5) | [Lauren Richardson](https://open.spotify.com/artist/22cERTGpksi71aIOeGVYf6) | [A Flower is a Lonesome Thing](https://open.spotify.com/album/1lyGazJswD2YoFvtE2hSCV) | 3:42 | 2022-06-28 | 2022-10-08 |
 | [Isn't It Romantic](https://open.spotify.com/track/2loBTwDUEtNRAegOGqppeu) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Isn't It Romantic](https://open.spotify.com/album/0sj3CpTeCWPE72SO0Yp26c) | 4:11 | 2022-06-28 | 2022-10-12 |
-| [It Could Happen To You](https://open.spotify.com/track/6H7Gxcz5HDeuPjrmiJG9KR) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [It Could Happen To You](https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa) | 3:30 | 2022-08-30 |  |
+| [It Could Happen To You](https://open.spotify.com/track/6H7Gxcz5HDeuPjrmiJG9KR) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [It Could Happen To You](https://open.spotify.com/album/53e911it8lcwlOLCAPuNVa) | 3:30 | 2022-08-30 | 2022-11-01 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-06-28 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-28 |  |
 | [It's Magic](https://open.spotify.com/track/2WUhTb5nBwDxccn0sqDWeh) | [Brooks Jazz Band](https://open.spotify.com/artist/6Kc4Zf0t3jYBys33kkknR3) | [Mack the Knife](https://open.spotify.com/album/2FfccIOiTzTUmYE751pwJw) | 4:48 | 2022-06-28 | 2022-10-08 |
@@ -221,7 +222,7 @@
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-07 |  |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
-| [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2022-06-28 |  |
+| [Nuages ​​Creux](https://open.spotify.com/track/4Bv9PjhIhp2sQE4S7dEAxR) | [Lydia Baskow Trio](https://open.spotify.com/artist/1F8NZ8jILDmCFgCaWA2FP8) | [Nuages ​​Creux](https://open.spotify.com/album/748FmeoAqlCY5Vu3fKXq8C) | 2:37 | 2022-06-28 | 2022-11-01 |
 | [Nublu](https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK) | [Younglights](https://open.spotify.com/artist/2wk1p7ufHqkOWAEDAxTWbu) | [Nublu](https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP) | 3:53 | 2022-06-28 |  |
 | [Oh, You Crazy Moon](https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [My Prayer](https://open.spotify.com/album/6YBq5EF3aq9VILtfLpr6bI) | 3:59 | 2022-06-28 |  |
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-06-28 |  |
@@ -303,6 +304,7 @@
 | [The Party's Over](https://open.spotify.com/track/3bCDBqVpu1lDbRGEV0El1J) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Party's Over](https://open.spotify.com/album/49UPJkZBspIbnn0WuoQlMv) | 3:09 | 2022-06-28 |  |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-06-28 | 2022-10-08 |
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-07 |  |
+| [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/1Rab1YE126dcp1JpT7JRHm) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [The Way You Look Tonight](https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp) | 5:59 | 2022-06-28 | 2022-10-08 |
 | [The Wind](https://open.spotify.com/track/3ssyhOkzW2tfNCiR7qihx4) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [The Wind](https://open.spotify.com/album/0Cy8DQQxtghkO1DrxydU4M) | 3:57 | 2022-06-28 |  |
 | [Theme for Ruth](https://open.spotify.com/track/3Lufuxi6y1fGw3bPHhlx66) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Theme for Ruth](https://open.spotify.com/album/4ZzZNkzoKThNkQXL1ZeFdC) | 3:01 | 2022-06-28 |  |
@@ -334,6 +336,7 @@
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-06-28 |  |
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-30 | 2022-10-08 |
 | [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2022-06-28 | 2022-10-08 |
+| [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 |  |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-07 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2022-06-28 | 2022-10-08 |
 | [You Gets You](https://open.spotify.com/track/7iwkqiTANcoolkeTwZygcb) | [Alex Decante](https://open.spotify.com/artist/52Sd0A8IsB2XLpEUIvs6En) | [You Gets You](https://open.spotify.com/album/2czKkrGOjLJ8rLDQnnH3aU) | 3:47 | 2022-06-28 | 2022-10-08 |

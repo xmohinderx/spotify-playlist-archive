@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 49478,
+  "num_followers": 49550,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDMwNjAwZWE3YTFlYzFlYjA4N2U3MGJkOTdmZjE5YWEx",
+  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDY1ZTVhNDM2ODE4MmQ3YzI2MzFmZWVhNTA5ZGMyODI0",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Kfoury Classic",
-        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 342973,
-      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
-      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Sabah",
         "url": "https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP"
       },
@@ -111,34 +95,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Haramt Ahebak",
-        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+        "name": "Kfoury Classic",
+        "url": "https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x"
       },
       "artists": [
         {
-          "name": "Warda",
-          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 476487,
-      "name": "Haramt Ahebak",
-      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Maliket Gamal El Rouh",
-        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 227869,
-      "name": "Maliket Gamal El Rouh",
-      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
+      "duration_ms": 342973,
+      "name": "Meen Habeebee Ana (Duet Nawal Al Zoghbi)",
+      "url": "https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -155,6 +123,22 @@
       "duration_ms": 1185163,
       "name": "El Hop Elly Kan",
       "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Haramt Ahebak",
+        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "duration_ms": 476487,
+      "name": "Haramt Ahebak",
+      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -191,6 +175,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 325440,
       "name": "Sallem Alayha",
       "url": "https://open.spotify.com/track/7wtPJEWAN0iFyR0yEaBxWX"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Hal El Garih",
-        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 201598,
-      "name": "Hal El Garih",
-      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -319,6 +303,38 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 296799,
+      "name": "Ya habibi (Live)",
+      "url": "https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Badak Maleoun Seneh",
         "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+        "name": "Ossit Helem",
+        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
       "artists": [
         {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 296799,
-      "name": "Ya habibi (Live)",
-      "url": "https://open.spotify.com/track/1INnlvFJuB1nCfKznHzILE"
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak (Live)",
+      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -399,6 +415,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Tair ya hawa (Live)",
+      "url": "https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "El Zakah",
         "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 449226,
       "name": "Ibaati Gawab",
       "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Ossit Helem",
-        "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 303765,
-      "name": "Debna Aa Ghiyabak (Live)",
-      "url": "https://open.spotify.com/track/5pNkQiWpr5rLUB8Pii7QrG"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Tair ya hawa (Live)",
-      "url": "https://open.spotify.com/track/2szi0ZqkBtU4GyRuCz65Pz"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Mali (Live)",
+      "url": "https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Sultan's of Al Tarab, Vol. 4",
         "url": "https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 321120,
-      "name": "Khamratal Houbbi",
-      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Helwit El Helwat",
         "url": "https://open.spotify.com/album/1YjN9eAsvTRTr4jlxDVMJ6"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 321120,
+      "name": "Khamratal Houbbi",
+      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Beateriflik",
         "url": "https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 542998,
       "name": "Beateriflik",
       "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/7cq87GgwNKuapq6R6QrtbR"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Mali (Live)",
-      "url": "https://open.spotify.com/track/24BrV1miOAkvzwVBjRwrwp"
     }
   ],
   "unique_name": "Tarab",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,411 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,419 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 6 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 |
 | 7 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 8 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 |
-| 9 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
+| 9 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 | 10 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
-| 11 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
+| 11 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 12 | [またたき](https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [ビアリストックス](https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ) | 3:54 |
 | 13 | [doze off](https://open.spotify.com/track/0nkqg2Sf2dtOYcLwkIcMWZ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [doze off](https://open.spotify.com/album/3MsQs4mgM7rNanS8Eh1T6b) | 3:43 |
 | 14 | [Paris in the Rain](https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:24 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 26 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 |
 | 27 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 |
 | 28 | [Black Lake](https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Black Lake](https://open.spotify.com/album/3rAvZ5XEICgTeuyid3dl87) | 2:56 |
-| 29 | [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 |
+| 29 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
 | 30 | [Dance With You Tonight](https://open.spotify.com/track/1WUAyibDAavzj94N8JwVpW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:38 |
-| 31 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 |
+| 31 | [Lost](https://open.spotify.com/track/5uMoppTUGhP4l1Unv4OaMX) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Lost](https://open.spotify.com/album/1sW3lhfPUhjjgD6oaYnBnV) | 3:54 |
 | 32 | [stuck on you](https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/64FQC1Jn0rGTricYmZEc1Y) | 2:47 |
 | 33 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 |
 | 34 | [Fire In The Sky](https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gw71wbsSV6.md) - [plain]
 | 49 | [Forever Young](https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Forever Young](https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50) | 3:31 |
 | 50 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/3Vtl4Xc9cKVs1UoenXtScn) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0QVHAyioFI1UB5iy7kWJY8) | 3:20 |
 
-Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMGFlMGQ2NjVlMzc0YThjNmM3Y2IwMDM5YTljZjczYTk3`
+Snapshot ID: `MTY2Njg4MjgwMCwwMDAwMDAwMDIyNmU5NzI3MDk5MWRjZjZlZGU2Y2U4ZmFhZDY2ZTU1`

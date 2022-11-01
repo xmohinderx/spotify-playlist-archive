@@ -4,7 +4,7 @@
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-78 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
+79 songs - 4 hr 20 min - [published](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Raqsni](https://open.spotify.com/track/0sVmHjhJDCR8BCh2dwWRjb) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW), [The Anka Music](https://open.spotify.com/artist/5YXi3lEh6AvClD3yzgsRdR) | [Raqsni](https://open.spotify.com/album/3SnQhoe2qBBiB8k9ZFUbde) | 2:34 | 2021-11-09 |  |
 | [Rise](https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [SVRRIC](https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E) | [Rise](https://open.spotify.com/album/6TfsBtepltkzcQIKSSkXnF) | 2:17 | 2021-11-09 |  |
 | [Roots](https://open.spotify.com/track/1yRyJyB90a0YiaogagFXfx) | [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Roots](https://open.spotify.com/album/0IbRugL7qPDVyD2AmWNhmk) | 3:42 | 2021-11-09 | 2022-08-26 |
+| [Roots](https://open.spotify.com/track/5yzeZjp8PxHLaYA2T2Id2i) | [Mylky](https://open.spotify.com/artist/1z4ZloK1NRO7W0Dp10G5k2), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK) | [Roots](https://open.spotify.com/album/6tFnOVf3erhYEsp5FyUwXH) | 3:42 | 2022-09-30 |  |
 | [Royal](https://open.spotify.com/track/4M92m8y6WXm0xHzWBY3tJJ) | [Nextro](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq), [Wizard](https://open.spotify.com/artist/0tCxvv05YgEzpyn3uIA7iM) | [Royal](https://open.spotify.com/album/4egsetbw3T8yB4eT39kHkY) | 3:32 | 2021-11-09 | 2022-08-05 |
 | [Royal](https://open.spotify.com/track/7uU2778ZAltQTEFcwUmydt) | [Wizard](https://open.spotify.com/artist/1XU1ToFmD2t1nbuh5T6QB3), [NextRO](https://open.spotify.com/artist/6Y63ciwphfXsHoWQOur7gq) | [Steady Stackin' 4](https://open.spotify.com/album/2AqCYSOBNAyLB9Y6nzKc0M) | 3:32 | 2022-04-07 |  |
 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 | 2021-11-09 |  |
@@ -83,7 +84,7 @@
 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/4Ilhu67UnrkeG5gtGytsij) | [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4CxRw7HbgNHvzU3aomYs7J) | 2:57 | 2021-11-09 | 2022-07-29 |
 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/1VDWeFIMVzEtosr7g8nlNA) | [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX) | 2:57 | 2022-04-07 |  |
 | [Tribe](https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p) | 3:39 | 2021-11-09 |  |
-| [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 | 2021-11-09 |  |
+| [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 | 2021-11-09 | 2022-11-01 |
 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 | 2021-11-09 |  |
 | [Ya Bnayya \- Bad Royale Remix](https://open.spotify.com/track/54w6HSR0vBATL3XLN6KW7K) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Bad Royale](https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS) | [To Syria, With Love \(Remixes\)](https://open.spotify.com/album/62vdZUBIHbEDWjphdWj0og) | 3:21 | 2021-11-09 | 2022-07-26 |
 

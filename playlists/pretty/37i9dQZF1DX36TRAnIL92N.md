@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,727 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,144 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 25 | [String Theory](https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [String Theory](https://open.spotify.com/album/64nnxFO6ZeVn19b7fGqOgN) | 4:21 |
 | 26 | [Zulu](https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Zulu](https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF) | 4:58 |
 | 27 | [UFOs & LFOs](https://open.spotify.com/track/6ohzW6SWk4erB5DWFGUPaK) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Digital Age](https://open.spotify.com/album/1FS174VHssFFCmZajvmQ6t) | 4:56 |
-| 28 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
-| 29 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
+| 28 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
+| 29 | [In Silence](https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [A\-Sides, Vol\. 6](https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh) | 6:33 |
 | 30 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 |
 | 31 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 |
 | 32 | [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 |
 | 50 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 |
 
-Snapshot ID: `MTY2Njk2MzY2MCwwMDAwMDAwMDgwNTc4ZjYwNzgxMWIxNTFmNmExZGQ5MTRmZDQyZDcx`
+Snapshot ID: `MTY2Njk2MzY2MCwwMDAwMDAwMDQ2Njc5ZTg5Njg3NWZlYWEyMGM5OTMwMDdkNjIyNWVj`

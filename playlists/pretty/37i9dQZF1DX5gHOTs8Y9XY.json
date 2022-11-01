@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 126512,
+  "num_followers": 126742,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc3MDg5MywwMDAwMDAwMDM0ODM2YTg0M2JhN2Y1NDk3ZmFmMWZiODQ3MzkzMWYw",
+  "snapshot_id": "MTY2Njc3MDg5MywwMDAwMDAwMDE5MmEzZTQ4M2ExYjNlMmMyZDI1NDA1YTRmYzg3N2Uy",
   "tracks": [
     {
       "added_at": "2022-10-26 07:54:53",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Theme From New York, New York - 2008 Remastered",
+      "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Nothing But The Best (Remastered)",
-        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Theme From New York, New York - 2008 Remastered",
-      "url": "https://open.spotify.com/track/0K2WjMLZYr09LKwurGRYRE"
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -327,18 +343,18 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+      "duration_ms": 181493,
+      "name": "A Kiss To Build A Dream On - Single Version",
+      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -367,22 +383,6 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "A Kiss To Build A Dream On - Single Version",
-      "url": "https://open.spotify.com/track/5y8zb3grlQonjdqd27K39T"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
         "name": "Ultimate Sinatra",
         "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 147146,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/2dR5WkrpwylTuT3jRWNufa"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 147413,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
         "name": "The Glenn Miller Carnegie Hall Concert (Live)",
         "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 209573,
       "name": "In the Mood - Live",
       "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
+        "name": "Jazz Profile: Cannonball Adderley",
+        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -899,18 +915,18 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Jazz Profile: Cannonball Adderley",
-        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 313200,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
+      "duration_ms": 130253,
+      "name": "Mean To Me - Remastered/1998",
+      "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -927,22 +943,6 @@
       "duration_ms": 204133,
       "name": "Tea For Two",
       "url": "https://open.spotify.com/track/6uWGcfyKS2bP63sd2zyswJ"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 130253,
-      "name": "Mean To Me - Remastered/1998",
-      "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -995,26 +995,6 @@
       "duration_ms": 266800,
       "name": "You Go To My Head - 2020 Mix",
       "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Lullaby Of Birdland",
-      "url": "https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -1087,6 +1067,26 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Lullaby Of Birdland",
+      "url": "https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
+        "name": "The Atomic Mr Basie",
+        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Splanky",
+      "url": "https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
-        "name": "The Atomic Mr Basie",
-        "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Splanky",
-      "url": "https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322000,
-      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
-      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 255626,
       "name": "You'd Be So Nice To Come Home To",
       "url": "https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
+      "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
     },
     {
       "added_at": "2022-10-26 07:54:53",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2022-10-26 07:54:53",
       "album": {
+        "name": "Motions & Emotions",
+        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Eleanor Rigby - Remastered",
+      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
+    },
+    {
+      "added_at": "2022-10-26 07:54:53",
+      "album": {
         "name": "The Swingin's Mutual (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 180200,
       "name": "The Nearness Of You - Remastered",
       "url": "https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo"
-    },
-    {
-      "added_at": "2022-10-26 07:54:53",
-      "album": {
-        "name": "Motions & Emotions",
-        "url": "https://open.spotify.com/album/67NDcaTQFovmzUscG92ELV"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Eleanor Rigby - Remastered",
-      "url": "https://open.spotify.com/track/4wZEOJRjsFktnovLtbdNQB"
     },
     {
       "added_at": "2022-10-26 07:54:53",

@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 157216,
       "name": "At the Party",
       "url": "https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 177845,
       "name": "Do Over",
       "url": "https://open.spotify.com/track/5w2BeuJogvcGbSdc07DdJl"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -971,6 +971,28 @@
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
+      },
+      "artists": [
+        {
+          "name": "AmPm",
+          "url": "https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf"
+        },
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2wVlyzhcwcJmM46l4BfVj0"
     },
     {
       "album": {

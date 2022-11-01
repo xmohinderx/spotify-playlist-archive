@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de octubre 2022.",
-  "num_followers": 1499933,
+  "num_followers": 1500134,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjYzNDk3MSwwMDAwMDAwMDMyOGRiZTIwZDYyNDAxOTQzNTI0YTA5MmU5MThiNWNj",
+  "snapshot_id": "MTY2NjYzNDk3MSwwMDAwMDAwMDE2MmQwZTE5NTY0OTAzZWY1MWViZDUxY2VmNjljMGMz",
   "tracks": [
     {
       "added_at": "2022-10-24 18:09:31",
@@ -31,18 +31,22 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
-        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
-        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+        "name": "La \u00daltima Misi\u00f3n",
+        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 166253,
-      "name": "Prohibidox",
-      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
+      "duration_ms": 229064,
+      "name": "Besos Moja2",
+      "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
     },
     {
       "added_at": "2022-10-24 18:09:31",
@@ -67,22 +71,18 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
-        "name": "La \u00daltima Misi\u00f3n",
-        "url": "https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW"
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 229064,
-      "name": "Besos Moja2",
-      "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
+      "duration_ms": 166253,
+      "name": "Prohibidox",
+      "url": "https://open.spotify.com/track/3PpWCS95gDUDRPko3u1MZ9"
     },
     {
       "added_at": "2022-10-24 18:09:31",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
-        "name": "Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192321,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
-    },
-    {
-      "added_at": "2022-10-24 18:09:31",
-      "album": {
         "name": "Beb\u00ed Demasiao",
         "url": "https://open.spotify.com/album/3fl6dtfDdk1mbJ2ItlxHAM"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
+        "name": "Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2Tz8MX5wGPqD70sxFkiCbK"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192321,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2OrgdmsWkqPiC4MNDnPHx0"
+    },
+    {
+      "added_at": "2022-10-24 18:09:31",
+      "album": {
         "name": "Sigo Feliz",
         "url": "https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ"
       },
@@ -599,26 +599,6 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "SALVAJE",
-      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
-    },
-    {
-      "added_at": "2022-10-24 18:09:31",
-      "album": {
         "name": "Todo Es Mental",
         "url": "https://open.spotify.com/album/0yAA8WlOoYVB08rLOMncnm"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 201000,
       "name": "Climaxxx",
       "url": "https://open.spotify.com/track/2KGJrjtOxnwfudK2lzVLOn"
+    },
+    {
+      "added_at": "2022-10-24 18:09:31",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/2hiQsjcxSp7Y1XthypCH5r"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "SALVAJE",
+      "url": "https://open.spotify.com/track/5i5qSAnZlDrLwSO61f0TRx"
     },
     {
       "added_at": "2022-10-24 18:09:31",
@@ -675,26 +675,6 @@
     {
       "added_at": "2022-10-24 18:09:31",
       "album": {
-        "name": "Al Final del D\u00eda",
-        "url": "https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ"
-      },
-      "artists": [
-        {
-          "name": "Israel B",
-          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
-        },
-        {
-          "name": "LOWLIGHT",
-          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
-        }
-      ],
-      "duration_ms": 163062,
-      "name": "Al Final del D\u00eda",
-      "url": "https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF"
-    },
-    {
-      "added_at": "2022-10-24 18:09:31",
-      "album": {
         "name": "Prohibido",
         "url": "https://open.spotify.com/album/2QmoW4oUr31FGEXmCPkOYJ"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 188826,
       "name": "Prohibido",
       "url": "https://open.spotify.com/track/7FrC84e3mKxhFA4H9Xexaf"
+    },
+    {
+      "added_at": "2022-10-24 18:09:31",
+      "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ"
+      },
+      "artists": [
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF"
     },
     {
       "added_at": "2022-10-24 18:09:31",

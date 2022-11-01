@@ -1,12 +1,12 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 802264,
+  "num_followers": 802662,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMGY1NGQ2MDJmNDU0MDI5NzRkYjA0N2UzMmQ4NDhmNTVh",
+  "snapshot_id": "MTY2NjkyOTkwMCwwMDAwMDAwMGZlMDJiZjVkZmQ5ZDI3YzQyMmE5ZjQ4OTQ4ZWFlNjZl",
   "tracks": [
     {
       "added_at": "2022-10-24 21:28:36",
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
     },
     {
-      "added_at": "2022-10-31 01:50:12",
+      "added_at": "2022-11-01 01:52:38",
       "album": {
         "name": "Chameleons",
         "url": "https://open.spotify.com/album/4bZLJJlvkGpCV0n8xU2duC"
@@ -175,26 +175,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 310553,
-      "name": "Mariella",
-      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -207,6 +187,22 @@
       "duration_ms": 213173,
       "name": "Do You Realize??",
       "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Skiptracing",
+        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
+      },
+      "artists": [
+        {
+          "name": "Mild High Club",
+          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Tesselation",
+      "url": "https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -227,18 +223,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Skiptracing",
-        "url": "https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 152824,
-      "name": "Tesselation",
-      "url": "https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1"
+      "duration_ms": 310553,
+      "name": "Mariella",
+      "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -391,22 +391,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Tres Hermanos",
-        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
+        "name": "The Mannequin Song",
+        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
+      "duration_ms": 164197,
+      "name": "The Mannequin Song",
+      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -427,18 +423,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Mannequin Song",
-        "url": "https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ"
+        "name": "Tres Hermanos",
+        "url": "https://open.spotify.com/album/6EegfhQTzRiBxkmZJ79sC4"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 164197,
-      "name": "The Mannequin Song",
-      "url": "https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE"
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Get A Good Look",
-        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Baby Baby",
-      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Minds Of Our Own",
         "url": "https://open.spotify.com/album/6aW21BwGe78wWM7ui9S0iL"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 217666,
       "name": "Friends",
       "url": "https://open.spotify.com/track/43NI5sAcvDLG7QQAmUc7UU"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Get A Good Look",
+        "url": "https://open.spotify.com/album/2BbQV71MEMZ0nTTgOJl3wD"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/41HyMiZSBLGlfopnDE7Ppc"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "INTO THE BLUE",
+        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 423346,
+      "name": "Love On The Run",
+      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 423346,
-      "name": "Love On The Run",
-      "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 222750,
       "name": "Jump the Turnstile",
       "url": "https://open.spotify.com/track/6EJkSSM4zBJW1AMCLnnXT8"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "jams EP",
+        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 63214,
+      "name": "cloud castle",
+      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -763,18 +779,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "jams EP",
-        "url": "https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g"
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "KALI",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
         }
       ],
-      "duration_ms": 63214,
-      "name": "cloud castle",
-      "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
+      "duration_ms": 254399,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "I Just Wanna",
-        "url": "https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE"
-      },
-      "artists": [
-        {
-          "name": "KALI",
-          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
-        }
-      ],
-      "duration_ms": 254399,
-      "name": "I Just Wanna",
-      "url": "https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/1YYUqltzKKaDPsOELPiUEx"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 207210,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0t1qI2DYS68veTpLBGUsNM"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "After School Club",
-        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t Ngo",
-          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
-        }
-      ],
-      "duration_ms": 254284,
-      "name": "Ruby Sparks",
-      "url": "https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -859,6 +843,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "After School Club",
+        "url": "https://open.spotify.com/album/0fUgW0x7ynBzEVCBpReIZZ"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t Ngo",
+          "url": "https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw"
+        }
+      ],
+      "duration_ms": 254284,
+      "name": "Ruby Sparks",
+      "url": "https://open.spotify.com/track/1IHoMfcprNoLE0h9l5BFcN"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 270945,
       "name": "Thin Thing",
       "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
+        "url": "https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -923,22 +939,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Paper M\u00e2ch\u00e9 Dream Balloon",
-        "url": "https://open.spotify.com/album/0RyezpNCj0HGTv2Mrwaat5"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Sense",
-      "url": "https://open.spotify.com/track/2oeqKWbVwK5Ly2vjwWJKHd"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "The Cart",
         "url": "https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4"
       },
@@ -955,42 +955,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Thanatophobia",
-        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
-      },
-      "artists": [
-        {
-          "name": "Worn-Tin",
-          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
-        }
-      ],
-      "duration_ms": 237741,
-      "name": "Sensitivity",
-      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "I've Never Been To LA",
-        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
-      },
-      "artists": [
-        {
-          "name": "Oscar Lang",
-          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
-        },
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 159129,
-      "name": "I've Never Been To LA (Edit)",
-      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "INTO THE BLUE",
         "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
       },
@@ -1003,6 +967,38 @@
       "duration_ms": 187413,
       "name": "Saturdays",
       "url": "https://open.spotify.com/track/4dHNs1k66RG83RAilR3n9W"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "LUNO",
+        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Set it on Fire",
+      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Thanatophobia",
+        "url": "https://open.spotify.com/album/5GBUYg5EqeDI0CuszAvDzj"
+      },
+      "artists": [
+        {
+          "name": "Worn-Tin",
+          "url": "https://open.spotify.com/artist/7j8ds7BnqaEKuz1a1GN0J9"
+        }
+      ],
+      "duration_ms": 237741,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/1F9WFVKQ0PT4EiZNoZQu2d"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1043,34 +1039,22 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "LUNO",
-        "url": "https://open.spotify.com/album/73kcf9EkV6b0RT4xLBmumJ"
+        "name": "I've Never Been To LA",
+        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
       },
       "artists": [
         {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Set it on Fire",
-      "url": "https://open.spotify.com/track/77vUGvFLe3au334u9yBsGC"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "GREENZONE 108",
-        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
-      },
-      "artists": [
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Top Steppa",
-      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
+      "duration_ms": 159129,
+      "name": "I've Never Been To LA (Edit)",
+      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
+        "name": "GREENZONE 108",
+        "url": "https://open.spotify.com/album/2VOoqsNKXesrDOpQ6Iwh29"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 199440,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
+      "duration_ms": 209720,
+      "name": "Top Steppa",
+      "url": "https://open.spotify.com/track/4wGChrcKDINbYN8wvhZbqI"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 218803,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
+      "duration_ms": 199440,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1155,50 +1139,18 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Magenta Mountain",
-        "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
         }
       ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Butterfly Blue",
-        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 188915,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+      "duration_ms": 218803,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1219,6 +1171,54 @@
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Magenta Mountain",
+        "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 364599,
+      "name": "Magenta Mountain",
+      "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Butterfly Blue",
+        "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 188915,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/1OoqGyjrk8s8NDoE2aW6d0"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Optical Wealth + Fox in a Hole",
-        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
-      },
-      "artists": [
-        {
-          "name": "Cap'n Marble",
-          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "Optical Wealth",
-      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 266992,
       "name": "Fuzz Jam",
       "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Optical Wealth + Fox in a Hole",
+        "url": "https://open.spotify.com/album/4kXjQ5hjiZ7NWEUnYr7Z7M"
+      },
+      "artists": [
+        {
+          "name": "Cap'n Marble",
+          "url": "https://open.spotify.com/artist/4AcVHpBiv1jyH1UkH0Ujod"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "Optical Wealth",
+      "url": "https://open.spotify.com/track/2kxjdb4D6iVDbkamMhDvqU"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "Blacklight Shine",
-        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
-      },
-      "artists": [
-        {
-          "name": "The Mars Volta",
-          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
-        }
-      ],
-      "duration_ms": 175657,
-      "name": "Blacklight Shine",
-      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 224448,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "Blacklight Shine",
+        "url": "https://open.spotify.com/album/7zxr1hloCsLjKt8UPsfU1T"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "duration_ms": 175657,
+      "name": "Blacklight Shine",
+      "url": "https://open.spotify.com/track/4Z9qsdjabSd7kd92FvQij0"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1467,6 +1467,30 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
+        "name": "Meditations on Crime",
+        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+      },
+      "artists": [
+        {
+          "name": "Meditations on Crime",
+          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
+        },
+        {
+          "name": "Ariel Pink",
+          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
+        },
+        {
+          "name": "Harper Simon",
+          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+        }
+      ],
+      "duration_ms": 187131,
+      "name": "Steal This Mug",
+      "url": "https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
         "name": "Postman b/w Magazine",
         "url": "https://open.spotify.com/album/583AzFOPRiKWBTj6Dz0F1Z"
       },
@@ -1495,30 +1519,6 @@
       "duration_ms": 191630,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
-      },
-      "artists": [
-        {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
-        }
-      ],
-      "duration_ms": 187131,
-      "name": "Steal This Mug",
-      "url": "https://open.spotify.com/track/5AQ7urDH36Z0NobmIIlc2x"
     },
     {
       "added_at": "2022-10-24 21:28:36",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-24 21:28:36",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "The Loop",
-      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
-    },
-    {
-      "added_at": "2022-10-24 21:28:36",
-      "album": {
         "name": "play it pretty",
         "url": "https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2022-10-24 21:28:36",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd"
     },
     {
       "added_at": "2022-10-24 21:28:36",

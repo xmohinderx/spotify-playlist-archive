@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,395 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,516 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 26 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 |
 | 27 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
 | 28 | [Love Is](https://open.spotify.com/track/5exxrzkNEBP3cxOhtvn4ii) | [Prequel](https://open.spotify.com/artist/3Cp1T1wJT1RFoxJv1jSWys), [Cazeaux O.S.L.O](https://open.spotify.com/artist/4P7emFwFBJu0G4AMJsn93f) | [Love Is](https://open.spotify.com/album/185zOXq1VeL2P4u7CX5CUX) | 3:30 |
-| 29 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
-| 30 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
-| 31 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
+| 29 | [Intimate Fantasy](https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Intimate Fantasy \- EP](https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW) | 8:13 |
+| 30 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
+| 31 | [Carefree](https://open.spotify.com/track/2Z93jIyx7k6fvTYDIbZJiO) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Carefree](https://open.spotify.com/album/6byYvncu2dYHriyQrVdlJB) | 3:28 |
 | 32 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 33 | [Me at the Zoo \- Cody Currie Remix](https://open.spotify.com/track/1fHuXpoTKwt52hIZWuEhr7) | [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW), [Àbáse](https://open.spotify.com/artist/0oXcSv2sZaRTblkhsDHnba), [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Fidelity Radio Club \(Toy Tonics Remixes\)](https://open.spotify.com/album/7vx7dd3xBvpZeXqKFM6UmF) | 4:17 |
 | 34 | [Tavolo](https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj) | [Vera Fernandez](https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw) | [Passeggiata](https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI) | 2:15 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 36 | [Pup Slushy](https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Pup Slushy](https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP) | 5:29 |
 | 37 | [Pigments](https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R) | [Norabel](https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo) | [Blue Pigments](https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk) | 2:10 |
 | 38 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
-| 39 | [Spanish Steroids](https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO) | [Le Hutin](https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8), [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Spanish Steroids](https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv) | 6:11 |
-| 40 | [Songs to Stay Home To, Pt\. I](https://open.spotify.com/track/1EXseUuDlh899KusFPAExL) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [Songs to Stay Home To](https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf) | 2:14 |
-| 41 | [YOU CAN DO IT](https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:56 |
+| 39 | [Songs to Stay Home To, Pt\. I](https://open.spotify.com/track/1EXseUuDlh899KusFPAExL) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [Songs to Stay Home To](https://open.spotify.com/album/0BpmRWnEhd6BeoNEMfazVf) | 2:14 |
+| 40 | [YOU CAN DO IT](https://open.spotify.com/track/4hQjxwio9Crkg5uN10fxuv) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN) | [Invisible Man](https://open.spotify.com/album/5WlAN6SEos2wWvIDcccanh) | 2:56 |
+| 41 | [Spanish Steroids](https://open.spotify.com/track/4RwzGoLeOErK6f4W0d9nzO) | [Le Hutin](https://open.spotify.com/artist/3mO2VqpK4XlqvRGfTbg2k8), [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Spanish Steroids](https://open.spotify.com/album/2c5f2MHRXHZVhIf9ayKlbv) | 6:11 |
 | 42 | [The Break Up \- Emma\-Jean Thackray Remix \- Edit](https://open.spotify.com/track/1nOq8ccv98cYy9lKigOvDq) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [The Break Up \(Emma\-Jean Thackray Remix \- Edit\)](https://open.spotify.com/album/7bbu5LxDVqPZh45KdRuR0R) | 4:47 |
 | 43 | [14 Joints in a Spaceship](https://open.spotify.com/track/43cNetCz4Hs4Y8SQ7ZHYUs) | [\_tillus](https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y) | [14 Joints in a Spaceship](https://open.spotify.com/album/2V1zCLSKzlgVPk4Ax0ZS45) | 5:40 |
 | 44 | [Can't see me](https://open.spotify.com/track/7nyJgpYTg2DUeP0LxJ3DMC) | [Uncle Jay](https://open.spotify.com/artist/7wHw0pBlnMtQ5NpO6JCtNj) | [Can't see me](https://open.spotify.com/album/3vXWZAh5IffbOBS0AZSLP6) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Watarase \- Henrik Schwarz Version](https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ) | [Fumio Itabashi](https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Kuniyuki](https://open.spotify.com/artist/2VSRaCnQFPp4C5Xo2UuIzl) | [Watarase](https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7) | 6:49 |
 | 60 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
 
-Snapshot ID: `MTY2NjM1Mzc2MSwwMDAwMDAwMGNmYTYyNTNlODE0ZTcxOTkyZGY2YjM0MDdmM2UwZGQ3`
+Snapshot ID: `MTY2NjM1Mzc2MSwwMDAwMDAwMGRkNGEwYjZhMmQ4NWFlNzg3YTJjZjI3ZDAzZDViNzll`

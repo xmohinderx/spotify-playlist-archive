@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites.",
-  "num_followers": 417993,
+  "num_followers": 418024,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDQ1ZTc3ZTQxMmQ5MjQwZjQ3MGY1NmU4M2U2YTZmNjU4",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGE2ZjNiMWMzNzA1ODk4ZGUwNDc5NzY1YTZkMGQyYjgy",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -187,6 +187,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Language & Perspective",
-        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 182518,
-      "name": "Cardiac Arrest",
-      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Exscape",
         "url": "https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/54bO9jrn1NExmpg6Afsc2A"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182518,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/6zQyu8L8yUuJkl6LbQ6iKU"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Stateless",
-        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
-      },
-      "artists": [
-        {
-          "name": "Stateless",
-          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
-        }
-      ],
-      "duration_ms": 313800,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "A Celebration Of Endings",
         "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Stateless",
+        "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
+      },
+      "artists": [
+        {
+          "name": "Stateless",
+          "url": "https://open.spotify.com/artist/6msJKphD3VXZPItnztefdH"
+        }
+      ],
+      "duration_ms": 313800,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Puffer",
-        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+        "name": "Wilder Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
       "artists": [
         {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 152998,
-      "name": "Puffer",
-      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+      "duration_ms": 221039,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -783,6 +783,22 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -815,22 +831,6 @@
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1erXDiGCnmUQvG6DZRqpuM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Wilder Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 221039,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4xmv6NGg9arNPmANOa4cjq"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Guitar Beat",
         "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 243532,
       "name": "The Way We Say Goodbye",
       "url": "https://open.spotify.com/track/7sZG4nOCgGfXE00SCuyngO"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 213515,
       "name": "Violet City",
       "url": "https://open.spotify.com/track/3EMovq7Gu8VH9Z86wEVVHn"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "I Don't Think I Can Do This Anymore",
         "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/5Uw2SD3FTrwSu5DCrZMPBJ"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7ApHknZkWvbA1DMLQQfrnd"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Friends I Barely Know",
-        "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Friends I Barely Know",
-      "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 230738,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Friends I Barely Know",
+        "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU"
-      },
-      "artists": [
-        {
-          "name": "Craft Spells",
-          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
-        }
-      ],
-      "duration_ms": 263691,
-      "name": "Komorebi",
-      "url": "https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
-      },
-      "artists": [
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Fruit",
-      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
@@ -1611,6 +1579,22 @@
       "duration_ms": 228735,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/19BaCTH1mnqE9rWbZSvNYU"
+      },
+      "artists": [
+        {
+          "name": "Craft Spells",
+          "url": "https://open.spotify.com/artist/16lg8y62dC3J6ok1pNAbFJ"
+        }
+      ],
+      "duration_ms": 263691,
+      "name": "Komorebi",
+      "url": "https://open.spotify.com/track/6giBkfHez7G866LZqjyIhx"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
+      },
+      "artists": [
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Fruit",
+      "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Broods",
         "url": "https://open.spotify.com/album/17vQyc1dhEyxV6q5AxOWh8"
       },
@@ -1647,22 +1647,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "It's Depression (feat. Middle Part)",
-        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
+        "name": "Cinema Love",
+        "url": "https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7"
       },
       "artists": [
         {
-          "name": "Anna Shoemaker",
-          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
-        },
-        {
-          "name": "Middle Part",
-          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
+          "name": "Patrick Martin",
+          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
         }
       ],
-      "duration_ms": 193000,
-      "name": "It's Depression (feat. Middle Part)",
-      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
+      "duration_ms": 228196,
+      "name": "Cinema Love",
+      "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1683,18 +1679,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Cinema Love",
-        "url": "https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7"
+        "name": "It's Depression (feat. Middle Part)",
+        "url": "https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW"
       },
       "artists": [
         {
-          "name": "Patrick Martin",
-          "url": "https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8"
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        },
+        {
+          "name": "Middle Part",
+          "url": "https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Cinema Love",
-      "url": "https://open.spotify.com/track/28yYvFeocTDYzao76YVB75"
+      "duration_ms": 193000,
+      "name": "It's Depression (feat. Middle Part)",
+      "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Sunlit Youth",
-        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Waking Up The Giants",
         "url": "https://open.spotify.com/album/6R6Xy2gwyTO6GS1Cs4K1cI"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 199360,
       "name": "Vagabonds",
       "url": "https://open.spotify.com/track/1kdSGyQyX0mxq75KSgcjic"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/2kEpNkZOPdKQbQS65mmEn5"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Xenos",
-        "url": "https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h"
-      },
-      "artists": [
-        {
-          "name": "Leon of Athens",
-          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "All The Truth That I Can Tell",
         "url": "https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 257040,
       "name": "Here's To Moving On",
       "url": "https://open.spotify.com/track/0GCngfjdoIbBBPisYkv3Y3"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Xenos",
+        "url": "https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
     },
     {
       "added_at": "2022-10-28 04:00:00",

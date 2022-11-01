@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea & Nino Josele",
-  "num_followers": 163553,
+  "num_followers": 163644,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMGQ1NTg1YWI4YTE0Nzk4ZWQyYzk1NjFkNGFhZTdiZjEz",
+  "snapshot_id": "MTY2NTE1OTA2OCwwMDAwMDAwMDQ5ZDdmZTdhMTc4YzQ2MzQwN2RmMzg1ZDUxYTFmYWJk",
   "tracks": [
     {
       "added_at": "2021-02-12 00:49:35",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi"
     },
     {
+      "added_at": "2022-06-10 04:02:00",
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 474309,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "PARADISE",
@@ -275,22 +291,6 @@
       "duration_ms": 371617,
       "name": "Riding Giants",
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/02TVF3v4k6pPgzgAtjhDmv"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 474309,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4x5WWNRigP9k456CMKz3nr"
     },
     {
       "added_at": "2021-04-16 04:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/450Rj9Nifq5Kq8Y6JQue6Z"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "The Brecker Bros",
-        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
-      },
-      "artists": [
-        {
-          "name": "The Brecker Brothers",
-          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
-        }
-      ],
-      "duration_ms": 350506,
-      "name": "Some Skunk Funk",
-      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
-    },
-    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "MAINS",
@@ -471,6 +455,22 @@
       "duration_ms": 222554,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "The Brecker Bros",
+        "url": "https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ"
+      },
+      "artists": [
+        {
+          "name": "The Brecker Brothers",
+          "url": "https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l"
+        }
+      ],
+      "duration_ms": 350506,
+      "name": "Some Skunk Funk",
+      "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -701,6 +701,42 @@
       "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Adventure",
+        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
+      },
+      "artists": [
+        {
+          "name": "Lydian Collective",
+          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
+        }
+      ],
+      "duration_ms": 227150,
+      "name": "Thirty One",
+      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Jackets XL",
+        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 392960,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Opuntia",
@@ -731,42 +767,6 @@
       "duration_ms": 371920,
       "name": "Armageddon Blues",
       "url": "https://open.spotify.com/track/55y7Cb9dPLPWBLonVy3iCB"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Jackets XL",
-        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 392960,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Adventure",
-        "url": "https://open.spotify.com/album/6D8dTRxpq43rPu9H3HZeBO"
-      },
-      "artists": [
-        {
-          "name": "Lydian Collective",
-          "url": "https://open.spotify.com/artist/5E7gb8Ugqx2c9mCoytD6gw"
-        }
-      ],
-      "duration_ms": 227150,
-      "name": "Thirty One",
-      "url": "https://open.spotify.com/track/72OIe1WWf1LW61TzssmLAg"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1061,6 +1061,22 @@
       "url": "https://open.spotify.com/track/7t28GnSaybF7QlNt8j0XLp"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Sleepwalk",
+        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+      },
+      "artists": [
+        {
+          "name": "Larry Carlton",
+          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+        }
+      ],
+      "duration_ms": 297359,
+      "name": "You Gotta Get It While You Can",
+      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+    },
+    {
       "added_at": "2022-02-11 19:11:35",
       "album": {
         "name": "Pursuit of Ends",
@@ -1079,22 +1095,6 @@
       "duration_ms": 282066,
       "name": "All Roads Lead To Los Angeles",
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Sleepwalk",
-        "url": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
-      },
-      "artists": [
-        {
-          "name": "Larry Carlton",
-          "url": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
-        }
-      ],
-      "duration_ms": 297359,
-      "name": "You Gotta Get It While You Can",
-      "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1393,6 +1393,26 @@
       "url": "https://open.spotify.com/track/0PfyfwL0q82ZcOUiRACsmz"
     },
     {
+      "added_at": "2022-09-02 04:02:00",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR"
+      },
+      "artists": [
+        {
+          "name": "Alina Bzhezhinska",
+          "url": "https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN"
+        },
+        {
+          "name": "HipHarpCollective",
+          "url": "https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e"
+        }
+      ],
+      "duration_ms": 430373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Sand",
@@ -1407,6 +1427,26 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "close tail",
+        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        },
+        {
+          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
+          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
+        }
+      ],
+      "duration_ms": 289851,
+      "name": "close tail",
+      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
       "added_at": "2022-07-22 04:02:00",
@@ -1431,46 +1471,6 @@
       "duration_ms": 401652,
       "name": "Maiden Voyage",
       "url": "https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR"
-      },
-      "artists": [
-        {
-          "name": "Alina Bzhezhinska",
-          "url": "https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN"
-        },
-        {
-          "name": "HipHarpCollective",
-          "url": "https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e"
-        }
-      ],
-      "duration_ms": 430373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE"
-    },
-    {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "close tail",
-        "url": "https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA"
-      },
-      "artists": [
-        {
-          "name": "POLYPLUS",
-          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
-        },
-        {
-          "name": "\u30ab\u30ef\u30a4\u30d2\u30c7\u30d2\u30ed",
-          "url": "https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM"
-        }
-      ],
-      "duration_ms": 289851,
-      "name": "close tail",
-      "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     }
   ],
   "unique_name": "Fusion Fest",

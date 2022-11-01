@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-746 songs - 1 day 20 hr 5 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+747 songs - 1 day 20 hr 8 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Intoxicated Truth](https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq) | [Masati](https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl) | [Intoxicated Truth](https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm) | 2:56 | 2021-05-22 | 2022-09-03 |
 | [Invitation](https://open.spotify.com/track/1g3ZLynDfJ7chTlxlEee8u) | [SALOMEA](https://open.spotify.com/artist/4AZjwjj65fmJ3MenJaCxel) | [Bathing in Flowers](https://open.spotify.com/album/1nDKJoL6WydfPdy48qVWgr) | 4:07 | 2020-09-25 | 2021-05-10 |
 | [Irrational](https://open.spotify.com/track/09m6It4feoA7uVhZxWUcbt) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 2:49 | 2020-09-25 | 2021-01-15 |
-| [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 | 2021-10-30 |  |
+| [Isolated](https://open.spotify.com/track/0icYUkm7H0I21NG2oTdpG8) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Sabrina Mahfouz](https://open.spotify.com/artist/6D8Yw8YdWpwqkJLx0HnEXH) | [Shout Out! To Freedom...](https://open.spotify.com/album/58jh2fv0ZWkGTNzQ1O7Tsq) | 4:13 | 2021-10-30 | 2022-11-01 |
 | [It's Time](https://open.spotify.com/track/1FPIgbXsCqB1ZuDpV8Godz) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [It's Time](https://open.spotify.com/album/2R0k5MBbrtS1ZGi8qJULqU) | 5:22 | 2021-01-07 | 2022-04-19 |
 | [itkanbe\[sonice\]](https://open.spotify.com/track/0WywlY00pAWlwsjAOFzUAr) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE) | [1988](https://open.spotify.com/album/2RmcpkbatBOMnCw8nbw7dG) | 1:43 | 2020-03-28 | 2020-04-24 |
 | [I´m Not Tryna Be Your Girl](https://open.spotify.com/track/4lVharwL6BNgHX9BnsBesl) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [I´m Not Tryna Be Your Girl](https://open.spotify.com/album/0hMu3QPM2PavI2I1joETvf) | 2:49 | 2020-06-29 | 2020-07-31 |
@@ -509,6 +509,7 @@
 | [Poke Bowl](https://open.spotify.com/track/4dbWZ8TTDOlf1rXjLXT52d) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [Poke Bowl](https://open.spotify.com/album/2HqagAZz7pjG3R2JQ7axQA) | 4:31 | 2019-09-29\* | 2019-12-14 |
 | [Portraits](https://open.spotify.com/track/2e2x1hdwaJ0chvcUZxQzIU) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Portraits](https://open.spotify.com/album/548Et5kDVpIHsdcp6ebCwr) | 4:36 | 2020-01-11 | 2020-03-10 |
 | [Potential](https://open.spotify.com/track/5eLw62EGF4HnF6KdlZQ752) | [Jessica Vines](https://open.spotify.com/artist/2lVpJxbJsCJ0vJ27soy2tO) | [Delicious](https://open.spotify.com/album/6z0TOJS1rdx6GfyTiiJxnl) | 3:47 | 2021-05-11 | 2021-05-26 |
+| [PPL](https://open.spotify.com/track/0ZuqNhqowaaWYp4KBL5v3i) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [PPL](https://open.spotify.com/album/1xpCtREzKaMD49H0qoeaGk) | 3:14 | 2022-10-28 |  |
 | [PRAYER](https://open.spotify.com/track/4QjiSWINhQRyfAnzXNoQ3r) | [Shine](https://open.spotify.com/artist/5xNXTKAlmjwG90lbKthD83), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [PRAYER](https://open.spotify.com/album/6ZdnNQMFFLoblwe92YJi3e) | 2:21 | 2021-04-20 | 2022-07-29 |
 | [Pressed, Vol\. 2](https://open.spotify.com/track/1Gj9GvOJjBle9RhhF5BUNr) | [Nojay](https://open.spotify.com/artist/1d4PJi4IKigY8qdd7kcZ3T), [Astroblk.](https://open.spotify.com/artist/2tBddFAL4sB7ZLUCK9KHx5), [Edbwoy!](https://open.spotify.com/artist/5zNyUz7JkaaJQrV0xNCvtM) | [Pressed, Vol\. 2](https://open.spotify.com/album/54AiS6orDeKZCyOU6G4M8O) | 4:04 | 2021-03-20 | 2021-03-23 |
 | [Pretty](https://open.spotify.com/track/6e4f88p8OxpqtbYywLAIbz) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Pretty](https://open.spotify.com/album/43kkkDmRKDwqBbP7IUyrSN) | 2:46 | 2020-10-02 | 2020-12-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 30235,
+  "num_followers": 30270,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjI3MDQwNCwwMDAwMDAwMDVlM2I0YzYyNWQ0MGY3NDFkODQzMzA2NTFjYjgwZWIw",
+  "snapshot_id": "MTY2NjI3MDQwNCwwMDAwMDAwMDEyNmVlOWI5ZjhlMzYzMGNjM2I0ZDZjOWRmY2FlODRh",
   "tracks": [
     {
       "added_at": "2022-10-13 13:00:00",
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-10-31 01:37:54",
+      "added_at": "2022-11-01 01:41:23",
       "album": {
         "name": "When Everything Is Better, I'll Let You Know",
         "url": "https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
-      "added_at": "2022-10-31 01:37:54",
+      "added_at": "2022-11-01 01:41:23",
       "album": {
         "name": "COMETA",
         "url": "https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn"
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "Hoodie",
         "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Just Fine",
-        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
-      },
-      "artists": [
-        {
-          "name": "Dallas Tamaira",
-          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
         "name": "First Thing Smokin'",
         "url": "https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt"
       },
@@ -907,18 +891,34 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "High Off You",
-        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
+        "name": "Untidy Soul",
+        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
       },
       "artists": [
         {
-          "name": "alayna",
-          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 233760,
-      "name": "High Off You",
-      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
+        "name": "Just Fine",
+        "url": "https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC"
+      },
+      "artists": [
+        {
+          "name": "Dallas Tamaira",
+          "url": "https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Untidy Soul",
-        "url": "https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod"
+        "name": "High Off You",
+        "url": "https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+      "duration_ms": 233760,
+      "name": "High Off You",
+      "url": "https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+      },
+      "artists": [
+        {
+          "name": "The Meltdown",
+          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2022-10-13 13:00:00",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/0yDrekG6pJ1jJyzc1wi9rK"
       },
@@ -1043,18 +1059,18 @@
     {
       "added_at": "2022-10-13 13:00:00",
       "album": {
-        "name": "Side By Side",
-        "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "The Meltdown",
-          "url": "https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 256560,
-      "name": "Side By Side",
-      "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
     },
     {
       "added_at": "2022-10-13 13:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 204042,
       "name": "Got Me (Feelin' Like)",
       "url": "https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa"
-    },
-    {
-      "added_at": "2022-10-13 13:00:00",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
     },
     {
       "added_at": "2022-10-13 13:00:00",

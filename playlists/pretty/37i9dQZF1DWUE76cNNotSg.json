@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 396186,
+  "num_followers": 396269,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDg5NzM3MWQ3NTgyY2RmYTc2NmRkM2Q4MWYyOTgzMDFj",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDdhZTA1NTAyNTRmMzBlMzcxZDYxNjU2ZGUzMTQ2MjNh",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih"
     },
     {
-      "added_at": "2021-08-27 21:13:28",
-      "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Someone\u2019s EP II X",
@@ -413,6 +397,38 @@
       "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
     },
     {
+      "added_at": "2021-08-27 21:13:28",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
+    },
+    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Rust & Gold",
@@ -427,22 +443,6 @@
       "duration_ms": 220626,
       "name": "How Much (You Want Her) 2017",
       "url": "https://open.spotify.com/track/1B0ymvBm70MZR2TnZJUSXZ"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/59IswWk54vUt2dT0tvSzPJ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 174607,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1OCrb7dmygmJiDcjdFAPR8"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "About A Feeling",
         "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 247572,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -827,6 +827,26 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 209293,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 227697,
       "name": "Fais rien (Petit Biscuit Remix)",
       "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 209293,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Taking Over",
-        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        }
-      ],
-      "duration_ms": 336867,
-      "name": "Taking Over",
-      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
-    },
-    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Must Be Nice",
@@ -983,6 +967,22 @@
       "duration_ms": 212346,
       "name": "Up To Something",
       "url": "https://open.spotify.com/track/2YgO4Laiw37ILWYaueb023"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Taking Over",
+        "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 336867,
+      "name": "Taking Over",
+      "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1141,20 +1141,20 @@
       "url": "https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH"
     },
     {
-      "added_at": "2021-03-19 20:47:30",
+      "added_at": "2020-12-22 20:57:01",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+        "name": "What Falling in Love Is For",
+        "url": "https://open.spotify.com/album/0j4EGK02p89xpridPMp6sI"
       },
       "artists": [
         {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+      "duration_ms": 174791,
+      "name": "What Falling in Love Is For",
+      "url": "https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1171,6 +1171,22 @@
       "duration_ms": 245654,
       "name": "It All Feels Right",
       "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+    },
+    {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 202247,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1219,22 +1235,6 @@
       "duration_ms": 196071,
       "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
-    },
-    {
-      "added_at": "2020-12-22 20:57:01",
-      "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/0j4EGK02p89xpridPMp6sI"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/7mLzduqXIyJ8bXxjE6fJUf"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/2EEZdCeGp095urJDE3wEpS"
     },
     {
+      "added_at": "2021-03-08 18:24:23",
+      "album": {
+        "name": "Blue Ceiling",
+        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
+      },
+      "artists": [
+        {
+          "name": "moanday",
+          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Blue Ceiling",
+      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+    },
+    {
       "added_at": "2021-03-19 20:47:30",
       "album": {
         "name": "How Many Times?",
@@ -1321,20 +1337,24 @@
       "url": "https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL"
     },
     {
-      "added_at": "2021-03-08 18:24:23",
+      "added_at": "2021-03-19 20:47:30",
       "album": {
-        "name": "Blue Ceiling",
-        "url": "https://open.spotify.com/album/6C58bgXl2VzaM846UbvglD"
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
       "artists": [
         {
-          "name": "moanday",
-          "url": "https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 166909,
-      "name": "Blue Ceiling",
-      "url": "https://open.spotify.com/track/6o0kb9c076D1vN0NDlLMSR"
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1367,26 +1387,6 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "I Do (Vandelux Remix)",
-        "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 196558,
-      "name": "I Do - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW"
     }
   ],
   "unique_name": "golden hour",

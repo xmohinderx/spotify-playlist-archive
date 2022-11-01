@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0GWkuPr946cYbOMRkrbw4e"
@@ -665,7 +665,7 @@
           "url": "https://open.spotify.com/artist/3mcduWnWZYTdZm0w2fuvhK"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 225853,
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 212185,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 187658,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0kfkBm7Or6FivlmnMsI7Oq"
@@ -1323,6 +1323,28 @@
       "duration_ms": 219414,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+    },
+    {
+      "album": {
+        "name": "Un Buzo en Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5PapgopCqJAcM9CL44mjAG"
+      },
+      "artists": [
+        {
+          "name": "Javier S\u00f3lo",
+          "url": "https://open.spotify.com/artist/2rPLx3GznmaTtZ0W7y0GEy"
+        },
+        {
+          "name": "Jenny And The Mexicats",
+          "url": "https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220429,
+      "name": "La Madre Que la Trajo",
+      "url": "https://open.spotify.com/track/7LEFk9MQRuovhRSh4xfnve"
     },
     {
       "album": {
@@ -2347,7 +2369,7 @@
           "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258579,

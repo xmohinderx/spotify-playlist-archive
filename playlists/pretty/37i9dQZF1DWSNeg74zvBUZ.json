@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18381,
+  "num_followers": 18378,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMDhmODNkYjA5YjlmMmM1YWVmOGY4YjlkMDQ4NDQ4ZWFl",
+  "snapshot_id": "MTY2NDUwNTk5OCwwMDAwMDAwMGUyMGU1MDkxODk5MGVjNWY4MTNkNjY1N2MwNzBiMjJh",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -151,18 +151,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+        "name": "Return To Forever",
+        "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 324906,
-      "name": "Peacock Tail",
-      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
+      "duration_ms": 415000,
+      "name": "Crystal Silence",
+      "url": "https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b"
     },
     {
       "added_at": "2022-09-14 12:32:41",
@@ -183,18 +183,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Selected Ambient Works Volume II",
-        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
       },
       "artists": [
         {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 255333,
-      "name": "#20",
-      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
+      "duration_ms": 324906,
+      "name": "Peacock Tail",
+      "url": "https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO"
     },
     {
       "added_at": "2022-09-30 02:46:38",
@@ -215,34 +215,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Return To Forever",
-        "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 415000,
-      "name": "Crystal Silence",
-      "url": "https://open.spotify.com/track/5F8rPLt2c52p0SK7kiH26b"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Komachi",
-        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 236040,
-      "name": "Nami",
-      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+      "duration_ms": 255333,
+      "name": "#20",
+      "url": "https://open.spotify.com/track/5IExVHUiRccCWyJ4imu9qD"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -295,22 +279,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "The Campfire Headphase",
-        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 347466,
-      "name": "Chromakey Dreamcoat",
-      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Space 1.8",
         "url": "https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Komachi",
+        "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 236040,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "The Campfire Headphase",
+        "url": "https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 347466,
+      "name": "Chromakey Dreamcoat",
+      "url": "https://open.spotify.com/track/2YxoC2dYOotjqt08dEifsc"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -503,6 +503,38 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 268051,
+      "name": "Dissolving Clouds",
+      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Dawn Chorus",
+        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 208625,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Coconut Mango",
         "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
@@ -551,38 +583,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 268051,
-      "name": "Dissolving Clouds",
-      "url": "https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 437906,
-      "name": "A Sea Of Love",
-      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Drukqs",
         "url": "https://open.spotify.com/album/1maoQPAmw44bbkNOxKlwsx"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Dawn Chorus",
-        "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
       },
       "artists": [
         {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
         }
       ],
-      "duration_ms": 208625,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+      "duration_ms": 437906,
+      "name": "A Sea Of Love",
+      "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -711,6 +711,22 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+      },
+      "artists": [
+        {
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "November",
+      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
         "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 276308,
       "name": "Rebecca's Theme (Water)",
       "url": "https://open.spotify.com/track/5JA1wMXh6C072LePIqWTdR"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 128354,
-      "name": "November",
-      "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
     },
     {
       "added_at": "2022-07-15 05:08:18",

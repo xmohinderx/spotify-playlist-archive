@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-538 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
+539 songs - 1 day 3 hr 23 min - [published](https://open.spotify.com/playlist/20TNv9NLPUqb3L0SIWXCbw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,7 @@
 | [Imdat \(feat\. Hadise\)](https://open.spotify.com/track/2hDRKm3BqOsEHaWIBm4u01) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat \(feat\. Hadise\)](https://open.spotify.com/album/0rcbaFAKT6ndumBjWnF3AD) | 3:14 | 2022-07-02 | 2022-10-11 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-18 | 2021-09-19 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:32 | 2021-09-19 | 2021-12-27 |
-| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 |  |
+| [Inzaghi](https://open.spotify.com/track/36S6sHnPZ0VBjD4uLbNXM7) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Natural Born Digga](https://open.spotify.com/album/1wDi3vPan2n6k6F4Y5JBn9) | 2:41 | 2022-07-16 | 2022-11-01 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2022-01-10 |
 | [ISABELLE](https://open.spotify.com/track/3iz0BamLeB8AngNYpjbC6E) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Capo](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [ISABELLE](https://open.spotify.com/album/11rFmZYfVqcPfpXgyY0tHZ) | 2:16 | 2022-06-16 |  |
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
@@ -358,6 +358,7 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2021-11-20 | 2022-05-30 |
 | [Milyoner](https://open.spotify.com/track/5k3Exf5ZlAtDUZnK9cTv3D) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Milyoner](https://open.spotify.com/album/5v7WVyZbgdp8pEwvVYMm5W) | 4:01 | 2021-04-18 | 2021-05-03 |
 | [Mingoflalar](https://open.spotify.com/track/2FRX5tqHnjJKIAAmgRbsvJ) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Mingoflalar](https://open.spotify.com/album/76kQMgobACSiiOVbuq9Xib) | 2:00 | 2022-07-02 |  |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 |  |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-05 | 2021-12-07 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-03 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-08-15 |
@@ -391,7 +392,7 @@
 | [Onursuz Olabilir Aşk](https://open.spotify.com/track/0ip8kcOjGy7y3tNUAzC6nP) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Onursuz Olabilir Aşk](https://open.spotify.com/album/6pTan65gXuwuFfzsjo0gsP) | 3:01 | 2021-07-18 | 2021-08-01 |
 | [Or.spu evladiyim](https://open.spotify.com/track/0Hez3aD78FVCD8KFbUFQRc) | [cakal](https://open.spotify.com/artist/2kRZib1bJl6T8HzgrHXclm), [Kahpe Evladı Reckol](https://open.spotify.com/artist/6CK9CeiivSZu1Zfoj9Unyf) | [Or.spu evladiyim](https://open.spotify.com/album/6yKr4nxB5yKVRGNXL1bept) | 2:38 | 2021-05-31 | 2021-06-01 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
-| [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 |  |
+| [Outro](https://open.spotify.com/track/4PUniKS3Cywu23xjdtoji5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Kan](https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv) | 3:12 | 2022-07-26 | 2022-11-01 |
 | [Pablo](https://open.spotify.com/track/4HWiQoV1HUI9o6FM1JbACh) | [Alper Eğri](https://open.spotify.com/artist/6Vm1tmhfZEa9INOt0sr4WX) | [Pablo](https://open.spotify.com/album/2UyNjwz3DvM2GhxsCdZcbM) | 3:42 | 2021-05-09 | 2021-05-13 |
 | [Papa Rose](https://open.spotify.com/track/38CwybVk0CqbTovp3aWtEZ) | [Clower](https://open.spotify.com/artist/0AnmijrLwTOeEp0DqafMr6) | [Papa Rose](https://open.spotify.com/album/1lHssSEP0HCgDZ4lYED9Wg) | 2:28 | 2022-01-30 | 2022-03-05 |
 | [PAPARAZZI](https://open.spotify.com/track/6gxLEbRJlorva6uVRW4gof) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [PAPARAZZI](https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP) | 2:44 | 2021-11-21 | 2022-09-28 |
@@ -508,7 +509,7 @@
 | [Yandırdın Beni](https://open.spotify.com/track/1corFz8NVeSVGgt0X44sCs) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [FRO](https://open.spotify.com/artist/0FFa4QdxeEcPI6xd0pPxeI) | [Yandırdın Beni](https://open.spotify.com/album/3x4zkK1aC5OgeAoTXCQxj8) | 3:52 | 2021-08-22 | 2021-08-30 |
 | [Yap Bi Güzellik](https://open.spotify.com/track/5wZ4RzkwZhjbwRyA7Q29Zr) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Yap Bi Güzellik](https://open.spotify.com/album/3PnDqF9MGtLmxMgtdXYFmR) | 3:07 | 2022-07-23 | 2022-09-16 |
 | [YAPAMAM](https://open.spotify.com/track/6sghbExwQySHgaMjuYNa0X) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:03 | 2022-03-20 | 2022-04-04 |
-| [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 | 2022-10-16 |
+| [Yara](https://open.spotify.com/track/1IquNFg2RRH1CLRAHNVgQ9) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Sonsuza Kadar](https://open.spotify.com/album/3ETbFTNmbuKtqoRtnmjTI0) | 3:33 | 2022-03-21 |  |
 | [Yaralarını Ben Sarayım](https://open.spotify.com/track/2pTwhAbZHkM1CyDYe1k8hl) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:58 | 2022-03-08 | 2022-06-05 |
 | [Yarım](https://open.spotify.com/track/57rovEuHglDmpx84Oir2Nu) | [Didomido](https://open.spotify.com/artist/4n07t89zwwIvAfHvgvdCWf) | [Yarım](https://open.spotify.com/album/1qfUQl8m2UfTawiCrwHgsd) | 2:14 | 2021-05-23 | 2021-06-24 |
 | [Yarım Kalan Sigara](https://open.spotify.com/track/0HbKbkAMK7Wnps5vpZW4j2) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kron1k](https://open.spotify.com/album/5f1l54Z4YUjdxhR7DqDZIS) | 3:03 | 2022-01-17 |  |

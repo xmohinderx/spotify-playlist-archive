@@ -4,12 +4,12 @@
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
+70 songs - 3 hr 49 min - [published](https://open.spotify.com/playlist/7KOOkYyd9ZT4DmcehRF0as)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:47 Pm](https://open.spotify.com/track/3EErEHQtBFXY7LTiRqqB4a) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 6:02 | 2022-09-14 | 2022-10-31 |
-| [3:35am](https://open.spotify.com/track/3YAATSyfadxYQ3AKxzeDt2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:02 | 2022-09-14 |  |
+| [3:35am](https://open.spotify.com/track/3YAATSyfadxYQ3AKxzeDt2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:02 | 2022-09-14 | 2022-11-01 |
 | [6:16am](https://open.spotify.com/track/5pTb9i96sgct5x6jyjwhrM) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 1:59 | 2022-09-14 |  |
 | [7](https://open.spotify.com/track/1601rgnttKbCiKaV83nY8K) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 3:28 | 2022-09-14 |  |
 | [A Piece Called Butterflies.](https://open.spotify.com/track/1yqtrIUcRBXHOXPrHRcbjh) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Bedroom Lofi](https://open.spotify.com/album/6zvGIAgWSOkS1w8F4C42Mi) | 1:07 | 2022-09-14 |  |
@@ -45,6 +45,7 @@
 | [Green Leaves \(feat\. Kyng\)](https://open.spotify.com/track/51hUaBDS30iiC4iQJlpBnN) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Kyng](https://open.spotify.com/artist/1agj720VcWDnnT6y7SMbLI) | [Bedroom Gospel](https://open.spotify.com/album/17OvPOdUGOGawt0dhZa9Uk) | 5:04 | 2022-09-14 | 2022-10-13 |
 | [Heavenly Father](https://open.spotify.com/track/5jEaWxWsplfntFOBaywhcC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo) | 3:03 | 2022-09-14 |  |
 | [Hold](https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 2:31 | 2022-09-14 | 2022-10-30 |
+| [Hold](https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 2:31 | 2022-10-31 |  |
 | [Holding Me Down](https://open.spotify.com/track/6LiFdQTu27Hq7nZfCFUxof) | [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Holding Me Down](https://open.spotify.com/album/4vEgr4lrtJcFgHcaknUy7Q) | 3:15 | 2022-10-12 |  |
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-09-14 |  |
 | [Home](https://open.spotify.com/track/2xWxHd24lHBTnjl7SnbXB0) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 3:53 | 2022-09-14 |  |

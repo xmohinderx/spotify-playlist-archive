@@ -6,7 +6,7 @@
     "name": "Armada Music ",
     "url": "https://open.spotify.com/user/armadamusicofficial"
   },
-  "snapshot_id": "NTIyMDUsODY1YTIyNmEwNjc5MTMzMDdkZDQ0MTFjOWI2YzgxZWEyNzE2ZWE0Yg==",
+  "snapshot_id": "NTIyMDksZTYxOWFkNjhjMjhkMGZlOGFlOTI5NDNjZDVkZWFkMDY3YzI4NmU1NA==",
   "tracks": [
     {
       "added_at": "2022-10-27 22:05:23",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2022-10-27 22:05:23",
       "album": {
+        "name": "Swaying",
+        "url": "https://open.spotify.com/album/6fMtsjBApihropLJyz49oL"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        }
+      ],
+      "duration_ms": 256129,
+      "name": "Swaying",
+      "url": "https://open.spotify.com/track/2sDTv4FaIrfSCvl2agrTdC"
+    },
+    {
+      "added_at": "2022-10-27 22:05:23",
+      "album": {
         "name": "Soul Seekers",
         "url": "https://open.spotify.com/album/0w3cHPzFHsKTeYFZMgXZNS"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 154653,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/4XjwHKoDGFWHFi45edRl7y"
-    },
-    {
-      "added_at": "2022-10-27 22:05:23",
-      "album": {
-        "name": "Swaying",
-        "url": "https://open.spotify.com/album/6fMtsjBApihropLJyz49oL"
-      },
-      "artists": [
-        {
-          "name": "Joachim Pastor",
-          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
-        },
-        {
-          "name": "Joris Delacroix",
-          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
-        }
-      ],
-      "duration_ms": 256129,
-      "name": "Swaying",
-      "url": "https://open.spotify.com/track/2sDTv4FaIrfSCvl2agrTdC"
     },
     {
       "added_at": "2022-10-27 22:05:23",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 401537,
+  "num_followers": 401676,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg1NDAwMCwwMDAwMDAwMDVhZDc4NTdjMmFmYmYzY2IwYWEwMDQ5ZGJiOGE5YTI4",
+  "snapshot_id": "MTY2Njg1NDAwMCwwMDAwMDAwMDlkNWEyMDJkMGE1ZDFkYmU0YzBmMzEzZWUyYTQ3OTg3",
   "tracks": [
     {
       "added_at": "2022-10-27 07:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Midian",
+        "url": "https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 384813,
+      "name": "Her Ghost in the Fog",
+      "url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Enthrone Darkness Triumphant",
         "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Midian",
-        "url": "https://open.spotify.com/album/1eqAIac48qUT6ks2hrccIJ"
+        "name": "Bathory",
+        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
       },
       "artists": [
         {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
         }
       ],
-      "duration_ms": 384813,
-      "name": "Her Ghost in the Fog",
-      "url": "https://open.spotify.com/track/0IVdlBreRkZn0ftoUwB0T6"
+      "duration_ms": 170000,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -427,22 +443,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Bathory",
-        "url": "https://open.spotify.com/album/7DMuOFuYQbzoVgw4Cawf6L"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Hades",
-      "url": "https://open.spotify.com/track/1acx35894eJWiwnjN7faXD"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Panzerfaust",
         "url": "https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 456906,
       "name": "Quintessence",
       "url": "https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "De Mysteriis Dom Sathanas",
-        "url": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
-      },
-      "artists": [
-        {
-          "name": "Mayhem",
-          "url": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
-        }
-      ],
-      "duration_ms": 381853,
-      "name": "De Mysteriis Dom Sathanas",
-      "url": "https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -523,22 +507,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "The Satanist",
-        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 265440,
-      "name": "Blow Your Trumpets Gabriel",
-      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Sons of Northern Darkness",
         "url": "https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj"
       },
@@ -551,38 +519,6 @@
       "duration_ms": 298680,
       "name": "One by One",
       "url": "https://open.spotify.com/track/65sql5o05skwJ6frSq4exl"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "A Blaze In The Northern Sky",
-        "url": "https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF"
-      },
-      "artists": [
-        {
-          "name": "Darkthrone",
-          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
-        }
-      ],
-      "duration_ms": 421680,
-      "name": "In the Shadow of the Horns - Studio",
-      "url": "https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Moonflowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
-      },
-      "artists": [
-        {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
-        }
-      ],
-      "duration_ms": 379493,
-      "name": "Moonflowers Bloom in Misery",
-      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -603,18 +539,34 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Between Two Worlds",
-        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
+        "name": "Moonflowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
       },
       "artists": [
         {
-          "name": "I",
-          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
         }
       ],
-      "duration_ms": 207360,
-      "name": "The Storm I Ride",
-      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
+      "duration_ms": 379493,
+      "name": "Moonflowers Bloom in Misery",
+      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "De Mysteriis Dom Sathanas",
+        "url": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
+      },
+      "artists": [
+        {
+          "name": "Mayhem",
+          "url": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+        }
+      ],
+      "duration_ms": 381853,
+      "name": "De Mysteriis Dom Sathanas",
+      "url": "https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -635,6 +587,54 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "The Satanist",
+        "url": "https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 265440,
+      "name": "Blow Your Trumpets Gabriel",
+      "url": "https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "A Blaze In The Northern Sky",
+        "url": "https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF"
+      },
+      "artists": [
+        {
+          "name": "Darkthrone",
+          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+        }
+      ],
+      "duration_ms": 421680,
+      "name": "In the Shadow of the Horns - Studio",
+      "url": "https://open.spotify.com/track/1qY7zhfiiMVzb38kJ2806t"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Between Two Worlds",
+        "url": "https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP"
+      },
+      "artists": [
+        {
+          "name": "I",
+          "url": "https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Storm I Ride",
+      "url": "https://open.spotify.com/track/1bRTi3Ng0fK2beP22OIAfp"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Bergtatt",
         "url": "https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 471280,
       "name": "I Troldskog Faren Vild",
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Under the Sign of the Black Mark",
+        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
+      },
+      "artists": [
+        {
+          "name": "Bathory",
+          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Call from the Grave",
+      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -683,86 +699,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Maha-Kali",
-      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Under the Sign of the Black Mark",
-        "url": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
-      },
-      "artists": [
-        {
-          "name": "Bathory",
-          "url": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Call from the Grave",
-      "url": "https://open.spotify.com/track/2v74ik56b9FHNwdhoAEVOd"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
-      },
-      "artists": [
-        {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
-        }
-      ],
-      "duration_ms": 290146,
-      "name": "Coming Storm",
-      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "To Violate the Obvious",
-        "url": "https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C"
-      },
-      "artists": [
-        {
-          "name": "Xasthur",
-          "url": "https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj"
-        }
-      ],
-      "duration_ms": 495000,
-      "name": "Screaming at Forgotten Tears",
-      "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Nemesis Divina",
-        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 385413,
-      "name": "Mother North",
-      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Holy Mountain",
         "url": "https://open.spotify.com/album/6sDAVTX74dB0v6RdNCbYOL"
       },
@@ -783,18 +719,66 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Lawless Darkness",
-        "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
       },
       "artists": [
         {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
         }
       ],
-      "duration_ms": 418213,
-      "name": "Malfeitor",
-      "url": "https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr"
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "To Violate the Obvious",
+        "url": "https://open.spotify.com/album/09hdLksOJb99vfLRACtw9C"
+      },
+      "artists": [
+        {
+          "name": "Xasthur",
+          "url": "https://open.spotify.com/artist/0nH9qzKJMfrJNnF37nDaVj"
+        }
+      ],
+      "duration_ms": 495000,
+      "name": "Screaming at Forgotten Tears",
+      "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 290146,
+      "name": "Coming Storm",
+      "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Nemesis Divina",
+        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "duration_ms": 385413,
+      "name": "Mother North",
+      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Lawless Darkness",
+        "url": "https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 418213,
+      "name": "Malfeitor",
+      "url": "https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Morbid Tales (Expanded Version)",
         "url": "https://open.spotify.com/album/1HxVnOkKo8cREE244DnykH"
       },
@@ -927,38 +927,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Hamartia",
-        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
-      },
-      "artists": [
-        {
-          "name": "Tribulation",
-          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
-        }
-      ],
-      "duration_ms": 363226,
-      "name": "Hamartia",
-      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Existence Is Futile",
-        "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
-      },
-      "artists": [
-        {
-          "name": "Cradle Of Filth",
-          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "How Many Tears to Nurture a Rose?",
-      "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Anthems To The Welkin At Dusk",
         "url": "https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M"
       },
@@ -975,18 +943,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Insides Out",
-        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
+        "name": "Hamartia",
+        "url": "https://open.spotify.com/album/35IemOnFQjg24kRfqGxsFS"
       },
       "artists": [
         {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
         }
       ],
-      "duration_ms": 212183,
-      "name": "Insides Out",
-      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
+      "duration_ms": 363226,
+      "name": "Hamartia",
+      "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1003,6 +971,22 @@
       "duration_ms": 194520,
       "name": "Unsilent Storms In The North Abyss",
       "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Existence Is Futile",
+        "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "How Many Tears to Nurture a Rose?",
+      "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 335333,
       "name": "Havenless",
       "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Insides Out",
+        "url": "https://open.spotify.com/album/3S7FS6FPMQkV1WjZHONnsK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 212183,
+      "name": "Insides Out",
+      "url": "https://open.spotify.com/track/2HozqHMcda35hKU7nefbZP"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Damned In Black",
+        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
+      },
+      "artists": [
+        {
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+        }
+      ],
+      "duration_ms": 411400,
+      "name": "Damned In Black",
+      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Demon Entrails",
         "url": "https://open.spotify.com/album/0GTNfSLAYvb7Z7b0NDaafF"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 350053,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
-        "name": "Damned In Black",
-        "url": "https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau"
-      },
-      "artists": [
-        {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
-        }
-      ],
-      "duration_ms": 411400,
-      "name": "Damned In Black",
-      "url": "https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 351880,
-      "name": "Kingdom",
-      "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "The Past is Alive (The Early Misschief)",
         "url": "https://open.spotify.com/album/3S2EmM7VIO2P3TMCdTtM5I"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 208039,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/0PsZiLg0dJTSktbRT7FnHd"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 351880,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "Black Dragon",
-      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "Tides of Glass",
         "url": "https://open.spotify.com/album/21LFLY7iEHgcVp8ag6mnjl"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "Black Dragon",
+      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
         "name": "Zos Kia Cultus",
         "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
       },
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
-      },
-      "artists": [
-        {
-          "name": "Absu",
-          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Pillars Of Mercy",
-      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
-    },
-    {
-      "added_at": "2022-10-27 07:00:00",
-      "album": {
         "name": "The Shadowthrone (Remastered 2021)",
         "url": "https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Kiss The Goat",
-        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
       },
       "artists": [
         {
-          "name": "Lord Belial",
-          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Satan Divine",
-      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 175973,
       "name": "The Pale Mist Hovers Towards the Nightly Shores",
       "url": "https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi"
+    },
+    {
+      "added_at": "2022-10-27 07:00:00",
+      "album": {
+        "name": "Kiss The Goat",
+        "url": "https://open.spotify.com/album/5oZgR5zNhoTF4KOeyiDn6v"
+      },
+      "artists": [
+        {
+          "name": "Lord Belial",
+          "url": "https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Satan Divine",
+      "url": "https://open.spotify.com/track/1NeTQnXaqyE3h5tj3pjpoY"
     },
     {
       "added_at": "2022-10-27 07:00:00",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2022-10-27 07:00:00",
       "album": {
-        "name": "Attera Totus Sanctus",
-        "url": "https://open.spotify.com/album/53m5q93sqZpTZ8NFtWHKuE"
+        "name": "The Secrets of the Black Arts",
+        "url": "https://open.spotify.com/album/7uybiQG5eHqdiXF69EDJOs"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
         }
       ],
-      "duration_ms": 278000,
-      "name": "666 Voices Inside",
-      "url": "https://open.spotify.com/track/7AdA9vNvPC9xdH3l4pPzS5"
+      "duration_ms": 221426,
+      "name": "The Secrets of the Black Arts",
+      "url": "https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax"
     },
     {
       "added_at": "2022-10-27 07:00:00",

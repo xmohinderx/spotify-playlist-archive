@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-229 songs - 20 hr 14 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
+230 songs - 20 hr 23 min - [published](https://open.spotify.com/playlist/0pd6sm63IqpenIInSzOhQs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Scarabaeus](https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Scarabaeus](https://open.spotify.com/album/4KVeQGG3FaPTNXZDtzvPUF) | 5:21 | 2022-01-14 | 2022-07-29 |
 | [Selbst](https://open.spotify.com/track/7zrGXNJu4nPoNQji9j8DcB) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Selbst](https://open.spotify.com/album/3uRBuLPxKD7vA97mlGkjB1) | 5:23 | 2021-12-23 | 2022-07-29 |
 | [Silence](https://open.spotify.com/track/4Y3dT7vcHTluw7f5adyHGx) | [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Space Food](https://open.spotify.com/artist/26N57YIjcZ0h3GDamTf9qn), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Silence](https://open.spotify.com/album/3ZvKGHY6QFlrgJbDdrA15t) | 6:10 | 2022-01-21 | 2022-07-08 |
-| [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2021-12-23 |  |
+| [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 | 2021-12-23 | 2022-11-01 |
 | [Sky Is the Limit \- Edit](https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7) | [Westbam/ML](https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE), [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Sky Is the Limit](https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby) | 3:43 | 2021-12-23 | 2022-08-13 |
 | [Solar Detroit](https://open.spotify.com/track/0HU2SnFrXnHIb72dR0P26n) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Solar Detroit](https://open.spotify.com/album/7AUcWvslF2oopky9aXUXWk) | 8:06 | 2022-08-12 | 2022-10-06 |
 | [Sold Out](https://open.spotify.com/track/58nwhfE8ddy4lzQyntZoeG) | [Rosa Anschütz](https://open.spotify.com/artist/1kjoxeQwJmoCfXT6j58MTm) | [Sold Out](https://open.spotify.com/album/47pSSs06IIjDngoxwuCs7E) | 3:26 | 2022-04-04 | 2022-05-23 |
@@ -200,6 +200,7 @@
 | [Sunrays](https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sunrays](https://open.spotify.com/album/2KZMHq7JT5R7h4rGN3NvKr) | 3:51 | 2021-12-23 |  |
 | [Sunset](https://open.spotify.com/track/1yTEXHjIziplqeSr6Fl5t8) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Sunset](https://open.spotify.com/album/6BgX0Avi5YGXSAkrLqBXu2) | 6:22 | 2021-12-23 | 2022-07-29 |
 | [Tacken](https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Extended](https://open.spotify.com/album/595ckypY5Dho4okbAw24bz) | 3:20 | 2021-12-23 |  |
+| [Tears](https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Eastbound Silhouette](https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa) | 8:47 | 2022-10-28 |  |
 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 | 2021-12-23 |  |
 | [The Atmospheric Halo Fades Into The Blackness Of Space](https://open.spotify.com/track/0dTHoB1jnkFBRzUqix7Iae) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Atmospheric Halo Fades Into The Blackness Of Space](https://open.spotify.com/album/18uvI78u8uUjsQzOd46KEJ) | 4:00 | 2022-03-08 | 2022-04-18 |
 | [The Center Will Not Hold](https://open.spotify.com/track/0BLVpXtzwE4EsJHNuYYq4e) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [The Center Will Not Hold](https://open.spotify.com/album/2mNElAq0uWkYumVt2KJB7S) | 3:50 | 2021-12-23 |  |

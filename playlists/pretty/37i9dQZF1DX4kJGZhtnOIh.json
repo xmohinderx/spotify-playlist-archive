@@ -1,12 +1,12 @@
 {
   "description": "Have a nice relaxed dinner with some chill indie music.",
-  "num_followers": 9929,
+  "num_followers": 9946,
   "original_name": "Mellow Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDI5MWVhZjA2ZDMzZjFlMGVkM2U0MjczZmFkMjJlOTUy",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMDRhNTc2NGM4N2RlZjNmOTA5NDFhODY3NDc1OWVjY2Uz",
   "tracks": [
     {
       "added_at": "2018-11-19 19:02:53",
@@ -127,22 +127,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 161680,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -647,22 +647,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217675,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 241613,
       "name": "It's Only Life",
       "url": "https://open.spotify.com/track/4UXSYJDEgOlMX3MXVkaiyH"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -759,22 +759,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 362613,
-      "name": "Suffering",
-      "url": "https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "Big Wheel and Others",
         "url": "https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 362613,
+      "name": "Suffering",
+      "url": "https://open.spotify.com/track/0sFoW75slcoyNKYLBFrzRy"
     },
     {
       "added_at": "2018-11-19 19:02:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2018-11-19 19:02:53",
       "album": {
-        "name": "Once I Was An Eagle",
-        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "I Was An Eagle",
-      "url": "https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT"
-    },
-    {
-      "added_at": "2018-11-19 19:02:53",
-      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/6BELKxlBUu6H3vUif48OLZ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 290146,
       "name": "Tuck the Darkness In",
       "url": "https://open.spotify.com/track/0RYrr1I3ASoFZzJlquODx5"
+    },
+    {
+      "added_at": "2018-11-19 19:02:53",
+      "album": {
+        "name": "Once I Was An Eagle",
+        "url": "https://open.spotify.com/album/35He6RuwS8C2KjG067Gobl"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "I Was An Eagle",
+      "url": "https://open.spotify.com/track/6MSh3uMbEAWfjLuedvJ2cT"
     },
     {
       "added_at": "2018-11-19 19:02:53",

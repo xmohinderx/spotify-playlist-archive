@@ -1,12 +1,12 @@
 {
   "description": "Miami me lo confirm\u00f3 featuring Natti Natasha & Wisin.",
-  "num_followers": 39670,
+  "num_followers": 39727,
   "original_name": "Rompiendo: Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzk2Mzk1NCwwMDAwMDAwMDQ3MWYxZTE2NDI0OWJlNTAyZTZkMzA1ZmRhMDdkNzUy",
+  "snapshot_id": "MTY2Mzk2Mzk1NCwwMDAwMDAwMDk1NThjMTRiMjBkZDgzNTMyZDdiMTY2NWVjNmFmNDc5",
   "tracks": [
     {
       "added_at": "2022-09-23 20:12:34",
@@ -603,26 +603,6 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 237894,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "EL MAKINON",
+      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -815,46 +835,6 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "EL MAKINON",
-      "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -899,6 +879,26 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "Primer Dia de Clases",
         "url": "https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5"
       },
@@ -939,38 +939,6 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
         "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
@@ -991,6 +959,22 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "Suelta",
         "url": "https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 243934,
       "name": "Suelta",
       "url": "https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
         "name": "FULANITO",
         "url": "https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 226010,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/6GPBXtnSepHovJi1uD1Ggj"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1495,6 +1495,30 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "UNA M\u00c1S",
+      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "Caf\u00e9 Con Leche",
         "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
       },
@@ -1547,30 +1571,6 @@
       "duration_ms": 197647,
       "name": "Fan de Tus Fotos",
       "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "DYNASTY",
-        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "UNA M\u00c1S",
-      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "En Mi Cuarto",
+        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "En Mi Cuarto",
+      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "Millonario (Remix) [feat. Ozuna]",
         "url": "https://open.spotify.com/album/264jSfnIyBxEgUBmLYA69B"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 214000,
       "name": "Millonario (Remix) [feat. Ozuna]",
       "url": "https://open.spotify.com/track/1KwMVzMArDnM5m2LNuzXAO"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "En Mi Cuarto",
-        "url": "https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 196586,
-      "name": "En Mi Cuarto",
-      "url": "https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn"
     },
     {
       "added_at": "2022-09-23 20:12:34",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-09-23 20:12:34",
       "album": {
+        "name": "Hazme El Amor",
+        "url": "https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9"
+      },
+      "artists": [
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 182365,
+      "name": "Hazme El Amor",
+      "url": "https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z"
+    },
+    {
+      "added_at": "2022-09-23 20:12:34",
+      "album": {
         "name": "El Vecino",
         "url": "https://open.spotify.com/album/44OIaXOjATppNlZco0tFZT"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 210384,
       "name": "El Vecino",
       "url": "https://open.spotify.com/track/0DYn7KksyoJzCBKqRb2Zos"
-    },
-    {
-      "added_at": "2022-09-23 20:12:34",
-      "album": {
-        "name": "Hazme El Amor",
-        "url": "https://open.spotify.com/album/0dUwmIeGO1XlFWAJdOZYB9"
-      },
-      "artists": [
-        {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
-        }
-      ],
-      "duration_ms": 182365,
-      "name": "Hazme El Amor",
-      "url": "https://open.spotify.com/track/1ghncW2POlIwtzN7lAeH6z"
     }
   ],
   "unique_name": "Rompiendo: Miami",

@@ -571,7 +571,7 @@
     {
       "album": {
         "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
+        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
       },
       "artists": [
         {
@@ -586,6 +586,28 @@
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7pUaNZP0gMjGRCrceqjLWh"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
       "duration_ms": 194618,
       "name": "Bittersweet Symphony",
       "url": "https://open.spotify.com/track/6GnNvwJA1VTkoZoyTy6s3L"

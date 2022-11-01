@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Selena",
-  "num_followers": 140702,
+  "num_followers": 140705,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDA1NGQzNTFiNTNhYWY2ODFjOTcwYTIyMjE1YTBiNTc2",
+  "snapshot_id": "MTY2MzI2NzI4MywwMDAwMDAwMDA2NWQ1OWRmZDFhMWFmYjc3YTJiZmIzNTVkMWE0NzVi",
   "tracks": [
     {
       "added_at": "2022-09-15 18:41:23",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Por Una Cantina",
-        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
-      },
-      "artists": [
-        {
-          "name": "David Farias",
-          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Por Una Cantina",
-      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 141455,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/1BlB8hz7J2RWgfyfPb56IH"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Por Una Cantina",
+        "url": "https://open.spotify.com/album/3lDhrqJKRw8ZjU23TkTWpC"
+      },
+      "artists": [
+        {
+          "name": "David Farias",
+          "url": "https://open.spotify.com/artist/4sMapIElnnyICCw5HzpElc"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Por Una Cantina",
+      "url": "https://open.spotify.com/track/3BOfif4vJLha8mEkSXBQGV"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
+        "name": "Escapate",
+        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
+      },
+      "artists": [
+        {
+          "name": "Mia",
+          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
+        }
+      ],
+      "duration_ms": 185232,
+      "name": "Escapate",
+      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
         "name": "Vac\u00eda",
         "url": "https://open.spotify.com/album/5VSAXB0RpdLQRdBRQAeP2g"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 180462,
       "name": "Vac\u00eda",
       "url": "https://open.spotify.com/track/0MA7XbFRqIB55H7HOLZImY"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
-        "name": "Escapate",
-        "url": "https://open.spotify.com/album/5yuEwmyEjOJCRfoln9KZ2c"
-      },
-      "artists": [
-        {
-          "name": "Mia",
-          "url": "https://open.spotify.com/artist/1QLoe4M9MBhNEQzOnpO9t5"
-        }
-      ],
-      "duration_ms": 185232,
-      "name": "Escapate",
-      "url": "https://open.spotify.com/track/4BmeGs3pWDmCB060bZlJdq"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Desastre Natural",
-        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
-      },
-      "artists": [
-        {
-          "name": "Nacido",
-          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
-        }
-      ],
-      "duration_ms": 188874,
-      "name": "Desastre Natural",
-      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Nunca Me Imagine",
         "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 167507,
       "name": "Nunca Me Imagine",
       "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Desastre Natural",
+        "url": "https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT"
+      },
+      "artists": [
+        {
+          "name": "Nacido",
+          "url": "https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5"
+        }
+      ],
+      "duration_ms": 188874,
+      "name": "Desastre Natural",
+      "url": "https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ"
     },
     {
       "added_at": "2022-09-15 18:41:23",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-09-15 18:41:23",
       "album": {
-        "name": "Entre El Frio Y El Calor",
-        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
-      },
-      "artists": [
-        {
-          "name": "Andie",
-          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Entre El Frio Y El Calor",
-      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
-    },
-    {
-      "added_at": "2022-09-15 18:41:23",
-      "album": {
         "name": "Mentias",
         "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199870,
       "name": "Mentias",
       "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2022-09-15 18:41:23",
+      "album": {
+        "name": "Entre El Frio Y El Calor",
+        "url": "https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb"
+      },
+      "artists": [
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Entre El Frio Y El Calor",
+      "url": "https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e"
     },
     {
       "added_at": "2022-09-15 18:41:23",

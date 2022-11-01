@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:34bhyY8jfKez7uKakMfy4y”>Maddie & Tae</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,973 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,983 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 39 | [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 |
 | 40 | [All Eyez On Me](https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [All Eyez On Me](https://open.spotify.com/album/5ThDHRjmlQcbIaSeeOmObf) | 3:56 |
 | 41 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 |
-| 42 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 |
-| 43 | [Space Candy](https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Space Candy](https://open.spotify.com/album/5jyYwSo8nUp0WaTZwOl69l) | 2:52 |
+| 42 | [Space Candy](https://open.spotify.com/track/6niRLPoOk9g29qJMdBobwg) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Space Candy](https://open.spotify.com/album/5jyYwSo8nUp0WaTZwOl69l) | 2:52 |
+| 43 | [Talkin](https://open.spotify.com/track/0u1VMv2aVqY1AC9qkCdZUH) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Talkin](https://open.spotify.com/album/3nHJDlDfY5j2jTbfyzAmQs) | 1:55 |
 | 44 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 |
 | 45 | [Gator Season](https://open.spotify.com/track/0B0kOrauoAebBdoax6C0Y4) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Gator Season](https://open.spotify.com/album/5ypYJLK29dHLVKXSB32AIK) | 1:41 |
-| 46 | [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 |
-| 47 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 |
+| 46 | [What Does Sorry Mean](https://open.spotify.com/track/0hRCg9wtCKF0NhTrogZ6qF) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [What Does Sorry Mean](https://open.spotify.com/album/1fH8s1jiVXfxVB9WkdzzXf) | 3:01 |
+| 47 | [Many Men \- Spotify Singles](https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Spotify Singles](https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM) | 2:36 |
 | 48 | [Orpheus](https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Orpheus](https://open.spotify.com/album/6hyunqfV9PzG6N4SsPyYKF) | 3:37 |
 | 49 | [Shock Value](https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shock Value](https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk) | 2:31 |
 | 50 | [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 |
 
-Snapshot ID: `MTY2NTU4NjIxMSwwMDAwMDAwMDVkNzc4MWIzMzkwMWU0OWU2MjhhMWM1YTIzYjlkYTFl`
+Snapshot ID: `MTY2NTU4NjIxMSwwMDAwMDAwMDRhYTk4MmJjOWJiMTBlNjU1Y2ViZTYxZDAwM2JlYzdh`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-336 songs - 20 hr 16 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+337 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Remedi](https://open.spotify.com/track/1kAQQKREO1mXYy2Qy7H9td) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:07 | 2022-03-06 | 2022-03-17 |
 | [Resah Jadi Luka](https://open.spotify.com/track/2sULdMKWdBdK2ZtntuFvSb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/3gUZpvR4h9ErseH3AzaHJL) | 4:50 | 2021-04-04 | 2021-04-09 |
 | [Resah Jadi Luka](https://open.spotify.com/track/3a0BOn9fWnTCUqWpqE71Bb) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Resah Jadi Luka](https://open.spotify.com/album/4dqu6kFP34VzCBQUeEdc11) | 4:50 | 2021-03-27\* | 2021-04-04 |
+| [Right Now](https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:20 | 2022-10-31 |  |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-14 | 2022-05-31 |
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-05-20 | 2022-06-12 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-10-23 | 2021-10-24 |
@@ -313,7 +314,7 @@
 | [Ternyata Hanya Kamu](https://open.spotify.com/track/1Cm9rVxlCWgGqB3Y3kmJCh) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Ternyata Hanya Kamu](https://open.spotify.com/album/1H0CPGh2BWcQMJ2t8tbOgV) | 4:44 | 2022-07-28 | 2022-10-06 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-06 | 2022-05-16 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-20 | 2021-12-04 |
-| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 |  |
+| [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-01 |
 | [The Happiest Girl](https://open.spotify.com/track/7AdGloF1UHKe1vAZPbqIXH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:42 | 2022-09-17 | 2022-09-23 |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-07-09 |  |
 | [Thunderous](https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [NOEASY](https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7) | 3:03 | 2021-08-29 | 2021-09-05 |

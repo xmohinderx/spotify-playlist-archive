@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: ENHYPEN
 
-404 songs - 22 hr 16 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+405 songs - 22 hr 18 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 |  |
 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-03-10 | 2022-06-01 |
 | [Gasoline](https://open.spotify.com/track/59WDxA3UxKvJDIJcK6dVZv) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Gasoline \- The 2nd Album](https://open.spotify.com/album/1STTad4531T7StJ4EiVwAG) | 3:11 | 2022-08-30 |  |
+| [Generation](https://open.spotify.com/track/1RHTdr5QfviCYI70QPPDJN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Angel from Asia <ACCESS>](https://open.spotify.com/album/0EsUBCjxGF328J7VRAE48Y) | 2:44 | 2022-10-31 |  |
 | [Ghostin'](https://open.spotify.com/track/5DOKAQqo9fIVlF5QREqMN5) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:06 | 2022-03-08 | 2022-05-11 |
 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 | 2022-02-22 | 2022-08-30 |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-23 | 2022-02-05 |
@@ -324,7 +325,7 @@
 | [Sugarcoat](https://open.spotify.com/track/4iZyz8jYIritdTyeJhvwfy) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [TAKE A CHANCE](https://open.spotify.com/album/1QDAlRAOgIMPBQpMQ4LZ0E) | 2:49 | 2022-10-04 |  |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/0pE16sFbRDVuTOEL0yxFoy) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/4QyK8SwKJ34D1OalInnzqb) | 3:12 | 2022-05-17 | 2022-07-09 |
 | [suit dance \(Japanese ver.\)](https://open.spotify.com/track/2aEaANMWZTYDzg8wdz2e0m) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [suit dance \(Japanese ver.\)](https://open.spotify.com/album/0xsdoBSLMROCUzZLit3W01) | 3:12 | 2022-05-10 | 2022-06-03 |
-| [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 |  |
+| [SURRENDER](https://open.spotify.com/track/0CwQeOWyrm26zRfYxqhn7q) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [SURRENDER](https://open.spotify.com/album/2nbrVdm3DhZjZxEIrL28ox) | 2:50 | 2022-09-06 | 2022-11-01 |
 | [Sweet](https://open.spotify.com/track/1qXkDZzrLYZDer71tT9nYG) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Sweet](https://open.spotify.com/album/3l2REQK2yQqFlIVLNMApC8) | 3:04 | 2022-06-16 | 2022-08-24 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-25 |  |
 | [Tamed\-Dashed \- Japanese Ver.](https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : 閃光](https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw) | 3:15 | 2022-05-10 | 2022-07-07 |

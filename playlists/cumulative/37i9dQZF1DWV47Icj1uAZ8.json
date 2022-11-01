@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "NINA REVISITED: A Tribute to Nina Simone",
+        "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
+      },
+      "artists": [
+        {
+          "name": "Alice Smith",
+          "url": "https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399533,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "album": {
         "name": "The Miseducation of Lauryn Hill",
         "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
       },
@@ -915,7 +933,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 400840,
       "name": "Time's A Wastin",
       "url": "https://open.spotify.com/track/6q8fYYujrQxXckq1tTtqqi"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 263923,
       "name": "Timmy's Prayer",
       "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 236546,
       "name": "Young Nigga (feat. Puff Daddy)",
       "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"

@@ -4,19 +4,20 @@
 
 > Una fusión moderna de música Cristiana que alimenta el alma.
 
-187 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/3jiShlYwS71F3xKwdZ7drq)
+188 songs - 14 hr 24 min - [published](https://open.spotify.com/playlist/3jiShlYwS71F3xKwdZ7drq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10.000 Razones](https://open.spotify.com/track/3tovofu1VVmE3fXKKmTapY) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Himnos](https://open.spotify.com/album/5kjjUMt0GGhCEl9uiVB6c0) | 4:50 | 2021-05-21 |  |
 | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/3AO3bjGFZgqYtlc98APeRA) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/album/1EzAzEdjCQKGKqjpSPfZkk) | 5:08 | 2021-05-21 | 2022-07-28 |
+| [Abre hoy los cielos \(feat\. Evan Craft\)](https://open.spotify.com/track/63FhFLxr19VoiJnVH7QnEG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 5:08 | 2021-05-21 |  |
 | [Abre los cielos feat\. Giancarlo Cabrera](https://open.spotify.com/track/1nHvTV4qu1moLxeDSPQzzv) | [Agua Viva Worship](https://open.spotify.com/artist/55EeGuDHwoQRoH0QznTfot) | [Abre los cielos](https://open.spotify.com/album/7gDAnjnvzdaal4YrNc95MB) | 5:04 | 2021-05-21 | 2022-07-23 |
 | [Agnus Dei](https://open.spotify.com/track/6qcqrsTclFz9XJJoezAHOL) | [Salida 7](https://open.spotify.com/artist/75JfkurB5mkbatZL5xrsiv) | [Agnus Dei](https://open.spotify.com/album/5P3RnPvWsPZemalJKpbVRx) | 3:49 | 2021-05-21 | 2022-05-08 |
 | [Al Final](https://open.spotify.com/track/2uAXrcHb2jiCDXSaf8Nj6e) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo A Nada](https://open.spotify.com/album/6Qq2ih3QI3QCAZZx6H26Fe) | 4:03 | 2021-05-21 | 2022-07-29 |
 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 | 2021-05-21 |  |
 | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Ama A Dios Y A Tu Vecino](https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG) | 3:26 | 2021-05-21 |  |
 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 | 2021-05-21 | 2022-07-29 |
-| [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2021-05-21 |  |
+| [Amor Sin Comparación](https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7) | 4:59 | 2021-05-21 | 2022-11-01 |
 | [Ante Ti](https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg) | [Jennifer Salinas](https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9) | [Ante Ti](https://open.spotify.com/album/185S8AFFL2ZHGzg107Oy8d) | 5:36 | 2021-05-21 | 2022-05-08 |
 | [Asi Como Soy](https://open.spotify.com/track/6hXBcnrby339MIG6sYg532) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Panorama](https://open.spotify.com/album/4BBUsdtyMbVF0DcE2pYRrs) | 4:19 | 2021-05-21 | 2022-07-14 |
 | [Autor](https://open.spotify.com/track/6ENS573JVD3W6g8ykZ21TY) | [Kathy Cristina](https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4) | [Vestida De Adoracion](https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu) | 4:57 | 2021-05-21 | 2022-07-23 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8eqay1FtdMm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8eqay1FtdMm)
 
-### [v o K a l : Lim Jae Bum Takeover](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
+### [v o K a l : Lim Jae Beum Takeover](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> This is a takeover playlist of Lim Jae Bum, the representative vocalist of Korea\. Meet Lim's 10 representative vocal songs at the top of the playlist\. \(대한민국을 대표하는 보컬 임재범의 플레이리스트 테이크오버입니다\. 임재범의 대표 보컬곡 10곡을 플레이리스트 최상단에서 만나보세요.\)
+> This is a takeover playlist of Lim Jae Beum, the representative vocalist of Korea\. Meet Lim's 10 representative vocal songs at the top of the playlist\. \(대한민국을 대표하는 보컬 임재범의 플레이리스트 테이크오버입니다\. 임재범의 대표 보컬곡 10곡을 플레이리스트 최상단에서 만나보세요.\)
 
 351 songs - 22 hr 58 min - [published](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 

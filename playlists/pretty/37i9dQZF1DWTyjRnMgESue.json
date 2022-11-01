@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Hozier",
-  "num_followers": 36357,
+  "num_followers": 36413,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMGIzODhiNzBlY2M4MWI2MjA0NzNjMmFiNTUxYWNhYTU1",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDdhNzFkZGJhOTRiMDdjMTU0MmVlM2U3NzgxOGUxZmU1",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/7sPcz0XlmcxQnd3rK45fOx"
     },
     {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "five seconds flat",
@@ -803,6 +787,22 @@
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
+    },
+    {
+      "added_at": "2022-09-23 04:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Songs for the Drunk and Broken Hearted",
-        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 201720,
-      "name": "Sword from the Stone",
-      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Songs for the Drunk and Broken Hearted",
+        "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 201720,
+      "name": "Sword from the Stone",
+      "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 203966,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Masquerades",
         "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "With The Band / Bruises & Scratches",
         "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 173070,
       "name": "With The Band",
       "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
       "added_at": "2022-08-12 04:00:00",

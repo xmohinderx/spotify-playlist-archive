@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 2 | [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 |
 | 3 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
 | 4 | [Pollyanna](https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Pollyanna](https://open.spotify.com/album/4kQSRFsF773glePY10mDpr) | 2:41 |
-| 5 | [Rock Star \- triple j Like a Version](https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rock Star \(triple j Like a Version\)](https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6) | 4:06 |
+| 5 | [Kerosene](https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:35 |
 | 6 | [Total Meltdown](https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:04 |
-| 7 | [Kerosene](https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:35 |
+| 7 | [Rock Star \- triple j Like a Version](https://open.spotify.com/track/06niWHnh1Rz6IyEoIahi8m) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rock Star \(triple j Like a Version\)](https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6) | 4:06 |
 | 8 | [Snakes](https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:09 |
 | 9 | [Fired Up](https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Fired Up](https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4) | 3:11 |
 | 10 | [Shred For Summer](https://open.spotify.com/track/53cdjpWN1AM3WCU4DhEQx0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:59 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 40 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 | 41 | [Play Dead Until You're Dead](https://open.spotify.com/track/44pxIxvtCEQDFAnQ8Mmoje) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:02 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDA1NTA0OTdiNTg0Yzk2MzUwYmI1N2FiM2U2ZDU5OWUwMA==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA5NWYzNzUwNjEwN2M4NDJjMWFlZjQ1ZWY4M2IzNTdiYg==`

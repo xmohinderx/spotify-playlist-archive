@@ -1,12 +1,12 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4049998,
+  "num_followers": 4050658,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDIxNGM4YzVkNzdlMTg1MDU5N2VlMGY0NzA3MjJkZmUw",
+  "snapshot_id": "MTY2NTcwMjAwMCwwMDAwMDAwMDhhMmE2ZWM0YmEzNGRkYWJmYjRiOWVkMGE3NjdhOTY2",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -327,6 +327,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
       },
@@ -367,42 +387,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Scary Hours 2",
-        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 192956,
-      "name": "Wants and Needs (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -439,6 +423,26 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 220487,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -451,6 +455,22 @@
       "duration_ms": 132832,
       "name": "Martin & Gina",
       "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -563,8 +583,8 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
       },
       "artists": [
         {
@@ -572,13 +592,13 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 220487,
-      "name": "Chicago Freestyle (feat. Giveon)",
-      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -615,22 +635,6 @@
       "duration_ms": 185946,
       "name": "DNA.",
       "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
-        "name": "Heaven Or Hell",
-        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 167915,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -715,26 +719,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 292093,
       "name": "POWER",
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 167915,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
     },
     {
       "added_at": "2022-10-13 23:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 161636,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
-    },
-    {
-      "added_at": "2022-10-13 23:00:00",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -899,22 +883,42 @@
     {
       "added_at": "2022-10-13 23:00:00",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/4y77zrDMRkZznufMBScSal"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 161636,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo"
+    },
+    {
+      "added_at": "2022-10-13 23:00:00",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 232048,
+      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
     }
   ],
   "unique_name": "Power Workout",

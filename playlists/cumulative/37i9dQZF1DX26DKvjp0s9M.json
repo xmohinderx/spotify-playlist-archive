@@ -4303,6 +4303,24 @@
     {
       "album": {
         "name": "wannabewithu",
+        "url": "https://open.spotify.com/album/1rQys03txxThcRZLofLlHY"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Lover Is a Day",
+      "url": "https://open.spotify.com/track/1ucnuV88gFTfR3BalmznDk"
+    },
+    {
+      "album": {
+        "name": "wannabewithu",
         "url": "https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW"
       },
       "artists": [
@@ -4425,7 +4443,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 247150,
       "name": "Mariners Apartment Complex",
       "url": "https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P"
@@ -4981,7 +4999,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
@@ -6015,7 +6033,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-31",
+      "date_removed": null,
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"

@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: UPSAHL
 
-1,373 songs - 2 day 22 hr 29 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,374 songs - 2 day 22 hr 32 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1012,7 +1012,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-08-20 |
 | [Sad Love](https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb) | [Whitney Woerz](https://open.spotify.com/artist/10BwHZCTlNF44mgOBrMec3) | [Sad Love](https://open.spotify.com/album/0LdcazWtgzYxZfwbbEFoXK) | 3:37 | 2022-06-24 | 2022-07-04 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-06-12 | 2020-06-13 |
-| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 |  |
+| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2022-11-01 |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |
@@ -1197,6 +1197,7 @@
 | [talking to yourself](https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [you only call when you want something](https://open.spotify.com/album/0BuooxaM5TypVtfhdyAA14) | 2:38 | 2021-10-09 | 2021-11-27 |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2020-08-20 | 2021-11-10 |
 | [Tangerine](https://open.spotify.com/track/0WRPGrwIiWYa2lCE6OVdtl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Tangerine](https://open.spotify.com/album/0h2FVsj0pDzutT9kvlqDY1) | 3:27 | 2020-10-17 | 2021-01-15 |
+| [Taste It](https://open.spotify.com/track/2CJ6Dn7diAVvJPLm79o3Xp) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Taste It](https://open.spotify.com/album/4cPPZ4jLUU1aa942DlVXy2) | 2:27 | 2022-10-28 |  |
 | [taylor](https://open.spotify.com/track/5EsISNjHKK6AEuEK1tLt7Z) | [heartspace](https://open.spotify.com/artist/4TXauRyx1XUkg6hRkWdgrE) | [taylor](https://open.spotify.com/album/3YeTOayFFUWNOIpfDiWEnt) | 3:00 | 2022-10-07 | 2022-10-15 |
 | [Tears In December](https://open.spotify.com/track/11cSu6WD6UXzlmymptJse6) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Tears In December](https://open.spotify.com/album/514r3D8HSs2rOEt7x89O0x) | 2:58 | 2020-04-21 | 2021-08-28 |
 | [Teddy Bears](https://open.spotify.com/track/0OoYSngy0SJ9kJDECRlGcU) | [Yael Danon](https://open.spotify.com/artist/7ovOh90N4ZI0IyrTaOefw5) | [Teddy Bears](https://open.spotify.com/album/4hKg8WMPV1LXG41C2j7vqi) | 2:50 | 2022-07-01 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Rauw Alejandro
 
-323 songs - 17 hr 45 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+326 songs - 17 hr 53 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Feliz, Alegre e Forte](https://open.spotify.com/track/3V5ft5xWsM0zOPJ22Jsvq7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Feliz, Alegre e Forte](https://open.spotify.com/album/1eovr9DAPHocApu61z1ASQ) | 2:56 | 2022-05-20 |  |
 | [Fiel \- Remix](https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Fiel \(Remix\)](https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c) | 5:49 | 2022-02-02 |  |
 | [Flauta](https://open.spotify.com/track/7gb0ExDXKPpCeLQrBswGw5) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Flauta](https://open.spotify.com/album/0i4LVKJavys4CSPpKYxL3g) | 3:09 | 2022-05-27 |  |
+| [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-31 |  |
 | [Foto de Perfil](https://open.spotify.com/track/39IkVWszvdXMPozlCYi0yX) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [BESITOS Y BESITAS](https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5) | 3:43 | 2022-04-18 |  |
 | [FULANITO](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FULANITO](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2022-02-02 |  |
 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 | 2022-03-10 |  |
@@ -242,7 +243,9 @@
 | [Problemas](https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Problemas](https://open.spotify.com/album/7D0hDhJZc5MHZVWxmzuCUv) | 3:16 | 2022-06-03 |  |
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2022-09-22 |  |
 | [Q'lona](https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Q'lona](https://open.spotify.com/album/44rOSsMvLYhd9PL1TFcbOq) | 3:48 | 2022-02-25 |  |
+| [Que Todo Sea Probar](https://open.spotify.com/track/6D236R0HOtK8kAQxKYZFEt) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:50 | 2022-10-31 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-05-12 |  |
+| [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2022-10-31 |  |
 | [Qué Lío](https://open.spotify.com/track/3GmCcVI6ahFNLvF0izvmFP) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:25 | 2022-02-02 |  |
 | [Qué Prefieres?](https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:22 | 2022-09-23 |  |
 | [Qué Rico Fuera](https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Qué Rico Fuera](https://open.spotify.com/album/2Xk9iyx7nSm6evrOKCAypb) | 3:38 | 2022-02-02 |  |

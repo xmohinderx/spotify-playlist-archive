@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Father",
+        "url": "https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX"
+      },
+      "artists": [
+        {
+          "name": "Branan Murphy",
+          "url": "https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "Father",
+      "url": "https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP"
+    },
+    {
+      "album": {
         "name": "Fight On My Knees",
         "url": "https://open.spotify.com/album/2x0LzPFomEY4AmIF6hm2BZ"
       },
@@ -1653,6 +1671,24 @@
       "duration_ms": 237146,
       "name": "Love Broke Thru",
       "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+    },
+    {
+      "album": {
+        "name": "Love Has Come",
+        "url": "https://open.spotify.com/album/4lZ1sKFGdyp3Uu5Ux3uSyC"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "Love Has Come",
+      "url": "https://open.spotify.com/track/2st2J3B3PqCPnOrOpIm3BJ"
     },
     {
       "album": {

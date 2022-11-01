@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Ferxxo, Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,107 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,476 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

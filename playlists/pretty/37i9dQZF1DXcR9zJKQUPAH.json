@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 99953,
+  "num_followers": 100091,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMDk1YTZlZDc2NThjOGFiZjJhMTVmMzQyNjJlMjZmNzA0",
+  "snapshot_id": "MTY2Njg0OTEzOCwwMDAwMDAwMDAxNGM2NmE0NTA1NmVkZmQ4YjQ3ZThlY2NjZmFmMTNl",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -107,6 +107,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 214680,
+      "name": "Sunsetz",
+      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Goodie Bag",
         "url": "https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Sunsetz",
-      "url": "https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -255,6 +255,54 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262600,
+      "name": "Television / So Far So Good",
+      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Pop Food",
         "url": "https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb"
       },
@@ -283,54 +331,6 @@
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262600,
-      "name": "Television / So Far So Good",
-      "url": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
@@ -383,6 +399,22 @@
       "duration_ms": 204878,
       "name": "broken",
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -403,22 +435,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -431,6 +447,22 @@
       "duration_ms": 198600,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 272742,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -471,38 +503,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 272742,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -519,18 +519,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Roy Pablo",
-        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
       },
       "artists": [
         {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Dance, Baby!",
-      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -547,6 +551,22 @@
       "duration_ms": 221874,
       "name": "Perfect Places",
       "url": "https://open.spotify.com/track/7ARveOiD31w2Nq0n5FsSf8"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Roy Pablo",
+        "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Dance, Baby!",
+      "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -583,6 +603,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Navajo",
+        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Navajo",
+      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Baby, It's Okay",
         "url": "https://open.spotify.com/album/0C61FN9PR7AocB3A0E4Fvw"
       },
@@ -599,38 +635,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
           "name": "Rex Orange County",
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Navajo",
-        "url": "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 194157,
-      "name": "Navajo",
-      "url": "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+      "duration_ms": 279693,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -679,22 +695,6 @@
       "duration_ms": 172941,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 279693,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/7aSyG7cskkG3zhfO2JLxq3"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Yam Yam",
+        "url": "https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 216038,
+      "name": "Yam Yam",
+      "url": "https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Yam Yam",
-        "url": "https://open.spotify.com/album/33dtgSEkkObUGGyNz2MgkH"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Yam Yam",
-      "url": "https://open.spotify.com/track/7kyiHjkFdmHcYcIJtFAdaF"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Erratic Cinematic",
+        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Cinnamon",
+          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
+        }
+      ],
+      "duration_ms": 196600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Blood Type",
         "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 189796,
       "name": "Homemade Dynamite",
       "url": "https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Erratic Cinematic",
-        "url": "https://open.spotify.com/album/48GboeZmU784Sw4pi4kPjh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Cinnamon",
-          "url": "https://open.spotify.com/artist/7cpCnhhBIU1gA7EhTFApN1"
-        }
-      ],
-      "duration_ms": 196600,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/58dwGk4l4ju8pI9YWsTHWD"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 169822,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "fabulist",
-        "url": "https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 228061,
-      "name": "anemone",
-      "url": "https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "My God Has a Telephone",
         "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "fabulist",
+        "url": "https://open.spotify.com/album/1vaFEGAj0JSQSM2SlK0B3X"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 228061,
+      "name": "anemone",
+      "url": "https://open.spotify.com/track/1MD2yGSeBRALkMui1fZ05P"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "A Deeper Understanding",
+        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 670666,
+      "name": "Thinking of a Place",
+      "url": "https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "All Becomes Okay",
         "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "A Deeper Understanding",
-        "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 670666,
-      "name": "Thinking of a Place",
-      "url": "https://open.spotify.com/track/4Sd5tbNP4q8wS64abqwfkN"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Boyish",
-      "url": "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Superorganism",
-        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
+      "duration_ms": 213986,
+      "name": "Boyish",
+      "url": "https://open.spotify.com/track/4ETQzZdnRJwaoFIPQy3GJv"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Road Head",
-      "url": "https://open.spotify.com/track/5rQEom98vgByjAZ4kIw2kL"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Plural",
         "url": "https://open.spotify.com/album/4ncZdrGiO459vrUU1yYCCA"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Goodpain",
+        "url": "https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "Goodpain",
+      "url": "https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X"
     }
   ],
   "unique_name": "Best of Indie 2017",

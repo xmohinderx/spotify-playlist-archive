@@ -1,12 +1,12 @@
 {
   "description": "Pocah e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 129916,
+  "num_followers": 129942,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGU2NWFlOGU0NjFmYmI0MzgxYTRkZTAxZjI2MmYzZDA5",
+  "snapshot_id": "MTY2NTcxNjQwMCwwMDAwMDAwMGZjYWU1ZGY4ZTUwMTAwNDY0ZDk3MDc3NjhmY2E1MmU1",
   "tracks": [
     {
       "added_at": "2022-10-14 03:00:00",
@@ -151,6 +151,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Assalto Perigoso",
         "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
       },
@@ -191,54 +211,18 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Gueto",
-        "url": "https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB"
+        "name": "Rainha da Favela",
+        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
       },
       "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Gueto",
-      "url": "https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "BRINCA COM A...",
-        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "BRINCA COM A...",
-      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 181173,
-      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
-      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+      "duration_ms": 160904,
+      "name": "Rainha da Favela",
+      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -271,18 +255,34 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Rainha da Favela",
-        "url": "https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8"
+        "name": "Gueto",
+        "url": "https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         }
       ],
-      "duration_ms": 160904,
-      "name": "Rainha da Favela",
-      "url": "https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu"
+      "duration_ms": 168000,
+      "name": "Gueto",
+      "url": "https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "BRINCA COM A...",
+        "url": "https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "BRINCA COM A...",
+      "url": "https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -303,26 +303,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 135172,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Faking Love (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 148577,
+      "name": "Faking Love (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -371,6 +371,26 @@
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -415,26 +435,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Faking Love (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 148577,
-      "name": "Faking Love (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "No Batid\u00e3o",
         "url": "https://open.spotify.com/album/6hvsfZAjwSm12pOXuKSSy2"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Dar Uma Deitchada",
-        "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Dar Uma Deitchada",
-      "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
         "url": "https://open.spotify.com/album/4uBj6yxHhzeEau2ZQt52uZ"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 120000,
       "name": "T\u00f4 Preocupada (Calma Amiga) (feat. Anitta)",
       "url": "https://open.spotify.com/track/70jrNdP6R9AKHazjaurG3Z"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Dar Uma Deitchada",
+        "url": "https://open.spotify.com/album/3Ga97on08bV8nNgFZ5sqx3"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Dar Uma Deitchada",
+      "url": "https://open.spotify.com/track/5GLedVg0J1z9zRh8CeET3R"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Liga pro Samu",
+        "url": "https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm"
+      },
+      "artists": [
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "duration_ms": 140016,
+      "name": "Liga pro Samu",
+      "url": "https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Liga pro Samu",
-        "url": "https://open.spotify.com/album/2hUNPuvV5NTPUymQihNGhm"
-      },
-      "artists": [
-        {
-          "name": "Mc Carol",
-          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
-        }
-      ],
-      "duration_ms": 140016,
-      "name": "Liga pro Samu",
-      "url": "https://open.spotify.com/track/6rmmUAr6RY43JjvFYRUuWK"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -747,6 +747,26 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Queima",
+        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Queima",
+      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "A Preta \u00e9 Braba",
         "url": "https://open.spotify.com/album/6Roitz5RcHXsRTEOTUYZa7"
       },
@@ -811,26 +831,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Queima",
-        "url": "https://open.spotify.com/album/2pInFmdmjElwaoSETmKlJo"
-      },
-      "artists": [
-        {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "Queima",
-      "url": "https://open.spotify.com/track/64IShZobTusAmWeVM6UmSZ"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Linda Duas Vezes",
         "url": "https://open.spotify.com/album/1vpJoWyk35tcsH5uAyUzso"
       },
@@ -843,22 +843,6 @@
       "duration_ms": 154666,
       "name": "Linda Duas Vezes",
       "url": "https://open.spotify.com/track/09gAJP4C7rCyQyT2CkftBq"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
-        "name": "Chama a Beleza",
-        "url": "https://open.spotify.com/album/30N9qwNvwjfwxpTooot4jd"
-      },
-      "artists": [
-        {
-          "name": "Pepita",
-          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
-        }
-      ],
-      "duration_ms": 158563,
-      "name": "Chama a Beleza",
-      "url": "https://open.spotify.com/track/5jo8Tnkz0BkATyXMiMl5Jm"
     },
     {
       "added_at": "2022-10-14 03:00:00",
@@ -899,6 +883,22 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
+        "name": "Chama a Beleza",
+        "url": "https://open.spotify.com/album/30N9qwNvwjfwxpTooot4jd"
+      },
+      "artists": [
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
+        }
+      ],
+      "duration_ms": 158563,
+      "name": "Chama a Beleza",
+      "url": "https://open.spotify.com/track/5jo8Tnkz0BkATyXMiMl5Jm"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
         "name": "FACES",
         "url": "https://open.spotify.com/album/5qoJNQSzp7NlGdxWuzzbKN"
       },
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-10-14 03:00:00",
       "album": {
-        "name": "Nocaute",
-        "url": "https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Nocaute",
-      "url": "https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4"
-    },
-    {
-      "added_at": "2022-10-14 03:00:00",
-      "album": {
         "name": "Voltei",
         "url": "https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 123708,
       "name": "Voltei",
       "url": "https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW"
+    },
+    {
+      "added_at": "2022-10-14 03:00:00",
+      "album": {
+        "name": "Nocaute",
+        "url": "https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Nocaute",
+      "url": "https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4"
     }
   ],
   "unique_name": "EQUAL Brasil",

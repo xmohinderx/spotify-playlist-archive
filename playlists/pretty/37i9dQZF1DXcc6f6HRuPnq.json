@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 55601,
+  "num_followers": 55709,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMDM5NzEyNGIxOTk5ZDRkNGMzZTQzYTk2NGY1MmE5Mjk4",
+  "snapshot_id": "MTY2NTc2Mjk1NSwwMDAwMDAwMDRiM2U1OWIwNjJmNWFlY2RmZGJiY2E1MTA3YWMwZTY5",
   "tracks": [
     {
       "added_at": "2022-10-14 15:55:55",
@@ -275,22 +275,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 319333,
       "name": "How Long Blues",
       "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "In London",
-        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Ghetto Woman",
-      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Tommy Castro Presents A Bluesman Came To Town",
         "url": "https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 336333,
       "name": "Ain\u2019t No Love In The Heart Of The City",
       "url": "https://open.spotify.com/track/2h8nq99nTZQk9H4B63QjVn"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Ghetto Woman",
+      "url": "https://open.spotify.com/track/3XEQc61AX64t3X4dQvtU2s"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 364906,
+      "name": "You're Still My Woman",
+      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
         "name": "Track Record",
         "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
@@ -519,38 +535,6 @@
       "duration_ms": 226840,
       "name": "RHYTHMS OF THE NIGHT",
       "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
-        "name": "Blues For Greeny",
-        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 389666,
-      "name": "Love That Burns",
-      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 364906,
-      "name": "You're Still My Woman",
-      "url": "https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -603,6 +587,22 @@
       "duration_ms": 275201,
       "name": "Without You - 2013 Remaster",
       "url": "https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Blues For Greeny",
+        "url": "https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 389666,
+      "name": "Love That Burns",
+      "url": "https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown Blues Band",
-          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "Black Night",
-      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
-    },
-    {
-      "added_at": "2022-10-14 15:55:55",
-      "album": {
         "name": "Working Man",
         "url": "https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 332560,
       "name": "Let Me Be",
       "url": "https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ"
+    },
+    {
+      "added_at": "2022-10-14 15:55:55",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown Blues Band",
+          "url": "https://open.spotify.com/artist/0UGx1mwAGKLhE3yTFez6YP"
+        }
+      ],
+      "duration_ms": 292040,
+      "name": "Black Night",
+      "url": "https://open.spotify.com/track/62x4lrYu1t1D9SpbzuTvEF"
     },
     {
       "added_at": "2022-10-14 15:55:55",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-10-14 15:55:55",
       "album": {
-        "name": "Big Fun",
-        "url": "https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV"
+        "name": "Woman Across The River",
+        "url": "https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs"
       },
       "artists": [
         {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 214600,
-      "name": "She Puts Me In The Mood",
-      "url": "https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW"
+      "duration_ms": 270600,
+      "name": "Help Me Through The Day",
+      "url": "https://open.spotify.com/track/70b5CmxmkftPHqnnzy7H9G"
     }
   ],
   "unique_name": "Midnight Blues",

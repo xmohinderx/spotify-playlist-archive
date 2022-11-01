@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,396 likes - 47 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,402 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 19 | [NJ Falls Into the Atlantic](https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:48 |
 | 20 | [The Burial of the Dead](https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:18 |
 | 21 | [The Priest and the Matador](https://open.spotify.com/track/5UKStVyawMrG24Lls8xMGX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 4:21 |
-| 22 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 |
+| 22 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
 | 23 | [You're Cute When You Scream](https://open.spotify.com/track/3Ch5YOx4qbMpmeYgurnBSd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 2:25 |
 | 24 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 |
-| 25 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
+| 25 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 |
 | 26 | [One Eight Seven](https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:10 |
 | 27 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 |
 | 28 | [The Fire Sermon](https://open.spotify.com/track/2xP7LnL8onazCSEezS1IvC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:25 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 46 | [We Are 138](https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Through Being Ghoul](https://open.spotify.com/album/3Px8B6UkiHL0qpaorSn4EA) | 2:03 |
 | 47 | [Lifeboats](https://open.spotify.com/track/2Ni3cDRGxDysPNq6DQypAM) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:32 |
 
-Snapshot ID: `Mjc3ODU2MzcsMDAwMDAwMDBjMjRlNDQ4ZmJkNWM3ZWQxZTgwODQ0ODcyYzA1ZmFkYg==`
+Snapshot ID: `Mjc3ODcwNDYsMDAwMDAwMDA5NGUxMTI4YzJkNDQzNGFiYTgyMzlmZjY0ZDY4MWZmZA==`

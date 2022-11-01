@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535 likes - 174 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537 likes - 174 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 44 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 |
 | 45 | [Anti\-Everything](https://open.spotify.com/track/5d1fRO6RYAtbPPgbpSHnlA) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:03 |
 | 46 | [Back to Life \- from "Bumblebee"](https://open.spotify.com/track/16geeCnXrbiomV1IZ8Kudc) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/3sSEnG2RZGnZlTFwJwxPy4) | 3:53 |
-| 47 | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sidnie Tipton](https://open.spotify.com/artist/1q4zUzqEWKe8YvpI9OxKqL) | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/album/35VgpLWPMuKuPnklBgpK1N) | 3:09 |
-| 48 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 47 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 |
+| 48 | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sidnie Tipton](https://open.spotify.com/artist/1q4zUzqEWKe8YvpI9OxKqL) | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/album/35VgpLWPMuKuPnklBgpK1N) | 3:09 |
 | 49 | [Chills](https://open.spotify.com/track/7tN0ceaX3JAz6aVtyXn9mn) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Chills](https://open.spotify.com/album/73MA39KSFI537siPGXAb8q) | 2:45 |
 | 50 | [Sims \- Miquela Remix](https://open.spotify.com/track/1uxP6Vw86pAvlnuLUSWLll) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Miquela](https://open.spotify.com/artist/7licaqhcEBQUzz9FownRaJ) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 2:37 |
 | 51 | [Sway With Me \(with GALXARA\)](https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [Sway With Me \(with GALXARA\)](https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu) | 2:48 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 173 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 | 174 | [Wild Dreams](https://open.spotify.com/track/5aRR8YJ6Q7Y7DhurrzgbDY) | [Jay John](https://open.spotify.com/artist/0J1W4llL0TJLG48XsJUSgC) | [Understand Me](https://open.spotify.com/album/0uvBj08KCEjIcXP9aHuDWN) | 3:25 |
 
-Snapshot ID: `Mjc3ODYzMDgsMDAwMDAwMDAyY2M5OGE1MWExYjZjY2VkNWY5MmQ1MzBmZjgzM2Y3Yw==`
+Snapshot ID: `Mjc3ODc3NDgsMDAwMDAwMDBiMzA3MGMzMmVkNzA2Yzk0NjVmNTNlNTMyYTk1MThiMA==`

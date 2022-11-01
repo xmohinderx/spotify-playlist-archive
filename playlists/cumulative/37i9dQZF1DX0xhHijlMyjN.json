@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245413,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
+    },
+    {
+      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -813,7 +831,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"

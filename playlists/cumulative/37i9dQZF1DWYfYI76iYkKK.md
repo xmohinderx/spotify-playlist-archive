@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-164 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
+165 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/2DqSMKzffF98bSmFUOLumu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [为自己而微笑 \- Bonus Track](https://open.spotify.com/track/1dorFJsUrP4jgo8a96PQgV) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [为自己而微笑 \(Bonus Track\)](https://open.spotify.com/album/740fp6IsyxCpa9y5ChyyJQ) | 3:52 | 2022-08-11 | 2022-08-19 |
 | [人什麼的最麻煩了](https://open.spotify.com/track/6AbXNaq2f9MDbhSY8RpUlo) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/2ocw8ufNH6dO7QLMLidKk1) | 4:28 | 2022-06-10 | 2022-06-17 |
 | [人類廢品\(電視劇《誰在你身邊Who’s By Your Side》片尾曲\)](https://open.spotify.com/track/61AGtV0vo7qb6kZkHoENlC) | [Morrison 馬仕釗](https://open.spotify.com/artist/1M9G5HbEeGkueCTaHNsGUN) | [電視劇《誰在你身邊》](https://open.spotify.com/album/6ulvcKBI9kZKuskV1GA7IT) | 3:53 | 2022-06-16 | 2022-07-07 |
-| [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 | 2022-07-28 |  |
+| [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 | 2022-07-28 | 2022-11-01 |
 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-08-18 |  |
 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-10-17 |  |
 | [你眼中](https://open.spotify.com/track/6ofDUkmtLvXt7V8c9T3don) | [Tamu](https://open.spotify.com/artist/3xIjuOns8fFFrtMu1uUA4k) | [你眼中](https://open.spotify.com/album/2vlt7uM67kyiqBFnmnPIMi) | 2:45 | 2022-06-10 | 2022-06-14 |
@@ -74,6 +74,7 @@
 | [好強](https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [相反的是](https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw) | 4:07 | 2022-07-28 |  |
 | [如果可以 \(Acapella\) \- 電影"月老"主題曲](https://open.spotify.com/track/0y1TIod7QyhmY4RG0Ett2k) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [如果可以 \(Acapella\) \[電影"月老"主題曲\]](https://open.spotify.com/album/4FWQixx35g3MU4pWdEHKnq) | 4:32 | 2022-06-10 | 2022-07-29 |
 | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/track/2YL8coVYOOF3qdO68P4z5T) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [如果海能夠 \(電影《東經北緯》主題曲\)](https://open.spotify.com/album/3DcCKjb5UcM4HNNFxVgP2r) | 4:54 | 2022-06-02 | 2022-07-12 |
+| [孤島](https://open.spotify.com/track/5HjUtNIFOcZW4piqXBHno6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [孤島](https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P) | 3:14 | 2022-11-01 |  |
 | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [完 ,\(首唱於XIANG YU YI YANG線上演唱會\)\[Live\]](https://open.spotify.com/album/1VVAlZiFxfPpaod1qG8nUh) | 4:06 | 2022-06-02 | 2022-07-29 |
 | [寫給明天的情書 \- 擁抱孤單版 \(《愛的奧特萊斯》感動宣傳曲\)](https://open.spotify.com/track/1IdoJb205obZQKzFLZYkTl) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [寫給明天的情書 \- 擁抱孤單版](https://open.spotify.com/album/1OWTAUgJyCuCp5U4nLHRyX) | 4:21 | 2022-06-10 | 2022-07-20 |
 | [就算我放棄了世界](https://open.spotify.com/track/0hBlkDZUwQOpg4NfyxJN1M) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [給天王星](https://open.spotify.com/album/15FjDCRuVnJFVHiTFuj0Fp) | 3:45 | 2022-06-02 | 2022-07-28 |
@@ -98,7 +99,7 @@
 | [懸日](https://open.spotify.com/track/5F4yb5DOs3aJmDzcTvs5er) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [懸日](https://open.spotify.com/album/69yh3ccp7kWnEFQRyY0n4e) | 4:31 | 2022-06-02 | 2022-07-29 |
 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 | 2022-07-28 |  |
 | [我](https://open.spotify.com/track/3lo2o9q0rRbwEkVlSx66db) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [我](https://open.spotify.com/album/66osTQokUc0IQUGtKjOkCj) | 3:59 | 2022-06-02 | 2022-07-29 |
-| [我們好好的](https://open.spotify.com/track/2QKkvbhZgKSkQPvTs6D1Ut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [我們好好的](https://open.spotify.com/album/2EGlMduiLBYLBMYIyDH0TK) | 4:32 | 2022-06-02 |  |
+| [我們好好的](https://open.spotify.com/track/2QKkvbhZgKSkQPvTs6D1Ut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [我們好好的](https://open.spotify.com/album/2EGlMduiLBYLBMYIyDH0TK) | 4:32 | 2022-06-02 | 2022-11-01 |
 | [我們很好](https://open.spotify.com/track/7iud0nXzaQBO6lY5ukT4Hn) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [我們很好](https://open.spotify.com/album/3zhIlA1iaSy9QReJ5iWMpV) | 4:28 | 2022-07-28 | 2022-07-30 |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2022-06-02 |  |
 | [我想再擁有自己](https://open.spotify.com/track/6Ya4RZGwrXVAOjU70kR3Ys) | [Neci Ken](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [我想再擁有自己](https://open.spotify.com/album/3hGtXqUNJ9ww5LknAnPL6g) | 4:46 | 2022-06-30 | 2022-07-08 |
@@ -119,7 +120,7 @@
 | [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-04 | 2022-10-17 |
 | [最後一封情書](https://open.spotify.com/track/60SwCZbyJ9OmAiGJkLVsgl) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ), [莫子儀](https://open.spotify.com/artist/7wJwYpnCLPuT1gndVaQTYk) | [失物之城](https://open.spotify.com/album/5nHnPgrbJGhhgl0UzytY8Y) | 4:22 | 2022-06-10 | 2022-06-12 |
 | [最想見到你 \(三立華劇《跟鯊魚接吻》插曲\)](https://open.spotify.com/track/0MG4aGAIEBKffiFRjZYCZi) | [Ann Bai](https://open.spotify.com/artist/6ytn3LGlsoOgU3YGF9T42s) | [44天](https://open.spotify.com/album/6tyHdfBJNMVgeiskGRCCyS) | 3:40 | 2022-06-02 | 2022-07-29 |
-| [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 | 2022-10-28 |  |
+| [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 | 2022-10-24 |  |
 | [最難的是相遇](https://open.spotify.com/track/1lbLGKmuocop4QeH9eVYew) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [最難的是相遇](https://open.spotify.com/album/7ftPr9gMt8UP3865rbXnvD) | 4:32 | 2022-06-02 | 2022-07-29 |
 | [會不會 \- 不插電版](https://open.spotify.com/track/7M44HWQrqgjMOfvS1LJ4Sh) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [邁向三十](https://open.spotify.com/album/6YSN8SAy8PP37XJSmoJqAw) | 3:47 | 2022-06-10 |  |
 | [有你的日常](https://open.spotify.com/track/2H0uXyh62DBNc4nEsYnlmG) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [有你的日常](https://open.spotify.com/album/0fNfI4IrEqZZdMU1A5QJML) | 4:19 | 2022-06-02 | 2022-07-29 |
@@ -132,7 +133,7 @@
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 |  |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-06-02 |  |
 | [當我們同在一起](https://open.spotify.com/track/0fUDUbQDkDfglxk5uPYXWq) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [當我們同在一起](https://open.spotify.com/album/1zjX6WGhNd6Pa32us6hqOK) | 3:38 | 2022-10-17 | 2022-10-25 |
-| [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 | 2022-10-28 |
+| [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 |  |
 | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/track/2CkmvLrg2Zl83TuwjwWF5v) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/album/5QKzAmGWRo1k2P7dBgmqDQ) | 4:26 | 2022-06-02 | 2022-07-28 |
 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 | 2022-06-02 | 2022-07-24 |
 | [第一個清晨](https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF) | 4:46 | 2022-07-28 |  |

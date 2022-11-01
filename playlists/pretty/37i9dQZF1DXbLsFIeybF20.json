@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 139396,
+  "num_followers": 139407,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDUxODBiOGNkNWVmNzM3MjVlYTZhNjEzOGJjNjY3MDMz",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDc1YjFiMmY4ZDBhNTMxY2MzMzA1MzY0YmJhZDcyN2Rm",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "1939-1944",
         "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
@@ -387,50 +371,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
       },
       "artists": [
         {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
         }
       ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -451,6 +403,54 @@
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
       "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Rebirth For Life",
-        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "Tubaluba",
-      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "My Feet Can't Fail Me Now",
         "url": "https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 192937,
       "name": "When I Get You Alone Tonight",
       "url": "https://open.spotify.com/track/6uptP633B6dCOQUEfYiJrB"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Rebirth For Life",
+        "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "Tubaluba",
+      "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Shake That Thing",
-        "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
-      },
-      "artists": [
-        {
-          "name": "Preservation Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
-        }
-      ],
-      "duration_ms": 372106,
-      "name": "His Eye Is On The Sparrow",
-      "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
         "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 145841,
       "name": "Lord, Lord, Lord",
       "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Shake That Thing",
+        "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 372106,
+      "name": "His Eye Is On The Sparrow",
+      "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -795,6 +795,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Back to My Roots",
+        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
+      },
+      "artists": [
+        {
+          "name": "Leroy Jones",
+          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
+        }
+      ],
+      "duration_ms": 254885,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "New Orleans Footwarmers",
         "url": "https://open.spotify.com/album/2nakJy1gcGQ6clhoVvwQoZ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 258160,
       "name": "Down by the Old Mill Stream",
       "url": "https://open.spotify.com/track/27WzDGEB8iqGVSQhzZabBD"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Back to My Roots",
-        "url": "https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio"
-      },
-      "artists": [
-        {
-          "name": "Leroy Jones",
-          "url": "https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB"
-        }
-      ],
-      "duration_ms": 254885,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs"
     },
     {
       "added_at": "2021-04-26 16:53:52",

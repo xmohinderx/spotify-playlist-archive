@@ -1,56 +1,28 @@
 {
-  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg\">Dr Feel</a>",
-  "num_followers": 796,
+  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM?si=zSdVEImKTAWqxRQej11leg\">Atmos Blaq</a>",
+  "num_followers": 811,
   "original_name": "AfroTech Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDc4OTQwMiwwMDAwMDAwMDFlZjBlMjdhMWFhZTFmNzlmMzFjNjE3NzE0MGNlODA0",
+  "snapshot_id": "MTY2NzIyMjE5NSwwMDAwMDAwMDZiYzNmOTc1NzM0ODdiMTllOTM4Njk1NWQyMjA0MDVl",
   "tracks": [
     {
-      "added_at": "2022-10-03 09:30:02",
+      "added_at": "2022-10-31 13:16:35",
       "album": {
-        "name": "Au Dede (Karyendasoul Remix)",
-        "url": "https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi"
+        "name": "The Republic of Atmofrika",
+        "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
       },
       "artists": [
         {
-          "name": "Lebo Mathosa",
-          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
-        },
-        {
-          "name": "Karyendasoul",
-          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
         }
       ],
-      "duration_ms": 402000,
-      "name": "Au Dede - Karyendasoul Remix",
-      "url": "https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt"
-    },
-    {
-      "added_at": "2022-09-09 02:40:23",
-      "album": {
-        "name": "Thunderstorm",
-        "url": "https://open.spotify.com/album/6o9D2gCHdi1KEyZRK6Q2OX"
-      },
-      "artists": [
-        {
-          "name": "Team Distant",
-          "url": "https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4"
-        },
-        {
-          "name": "Mr Silk",
-          "url": "https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8"
-        },
-        {
-          "name": "Kususa",
-          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
-        }
-      ],
-      "duration_ms": 422957,
-      "name": "Thunderstorm - Kususa Remix",
-      "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
+      "duration_ms": 412032,
+      "name": "T.R.O.A",
+      "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -77,6 +49,46 @@
       "url": "https://open.spotify.com/track/2BlQJQKab1AbQmTy5N9Jta"
     },
     {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "XX XX (Enoo Napa Remix)",
+        "url": "https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D"
+      },
+      "artists": [
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        },
+        {
+          "name": "Chukku",
+          "url": "https://open.spotify.com/artist/7tsGLSY4SLPBUJcw1DwhGa"
+        }
+      ],
+      "duration_ms": 421512,
+      "name": "XX XX - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"
+    },
+    {
+      "added_at": "2022-10-03 09:30:02",
+      "album": {
+        "name": "Au Dede (Karyendasoul Remix)",
+        "url": "https://open.spotify.com/album/78b4DMtqUAN7vad5sl9Efi"
+      },
+      "artists": [
+        {
+          "name": "Lebo Mathosa",
+          "url": "https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo"
+        },
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "Au Dede - Karyendasoul Remix",
+      "url": "https://open.spotify.com/track/6nXZdEDO1ksyr8113Qsplt"
+    },
+    {
       "added_at": "2022-09-09 02:40:23",
       "album": {
         "name": "iFu",
@@ -97,6 +109,90 @@
       "url": "https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW"
     },
     {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "Sfede",
+        "url": "https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "duration_ms": 357950,
+      "name": "Sfede",
+      "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
+    },
+    {
+      "added_at": "2022-09-15 21:59:00",
+      "album": {
+        "name": "Zion Drummer (Original Mix)",
+        "url": "https://open.spotify.com/album/1ao43Su0Heg60VgTYmZX7B"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 451411,
+      "name": "Zion Drummer - Original Mix",
+      "url": "https://open.spotify.com/track/2j7C4hp68UUhEedckS2YQP"
+    },
+    {
+      "added_at": "2022-09-09 02:40:23",
+      "album": {
+        "name": "Thunderstorm",
+        "url": "https://open.spotify.com/album/6o9D2gCHdi1KEyZRK6Q2OX"
+      },
+      "artists": [
+        {
+          "name": "Team Distant",
+          "url": "https://open.spotify.com/artist/44vSsHayaApaYzZuOedry4"
+        },
+        {
+          "name": "Mr Silk",
+          "url": "https://open.spotify.com/artist/6szHPN8sdoI0UDbDqj0tX8"
+        },
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        }
+      ],
+      "duration_ms": 422957,
+      "name": "Thunderstorm - Kususa Remix",
+      "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
+    },
+    {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "Tout S'en Va",
+        "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
+      },
+      "artists": [
+        {
+          "name": "Le Croque",
+          "url": "https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 454634,
+      "name": "Tout S'en Va - Echo Deep Remix",
+      "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
+    },
+    {
       "added_at": "2022-08-25 21:59:00",
       "album": {
         "name": "Amani EP",
@@ -115,22 +211,6 @@
       "duration_ms": 320312,
       "name": "Zimbi Iindaba (feat. Natasha M)",
       "url": "https://open.spotify.com/track/0FngU0lVyh6dNPxN49Wo1B"
-    },
-    {
-      "added_at": "2022-09-15 21:59:00",
-      "album": {
-        "name": "Zion Drummer (Original Mix)",
-        "url": "https://open.spotify.com/album/1ao43Su0Heg60VgTYmZX7B"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 451411,
-      "name": "Zion Drummer - Original Mix",
-      "url": "https://open.spotify.com/track/2j7C4hp68UUhEedckS2YQP"
     },
     {
       "added_at": "2022-10-03 09:30:02",
@@ -177,6 +257,30 @@
       "url": "https://open.spotify.com/track/6BmD8tRPWDgGD2Y0pQY1Ll"
     },
     {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "Reasons (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc"
+      },
+      "artists": [
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Reasons - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R"
+    },
+    {
       "added_at": "2022-08-11 21:50:10",
       "album": {
         "name": "iVolovolo",
@@ -219,6 +323,22 @@
       "duration_ms": 426818,
       "name": "As'buyeli",
       "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
+    },
+    {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "Figo",
+        "url": "https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh"
+      },
+      "artists": [
+        {
+          "name": "Eyama",
+          "url": "https://open.spotify.com/artist/1eWJoMYZJZHfPhXTxodWbd"
+        }
+      ],
+      "duration_ms": 381000,
+      "name": "Figo",
+      "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
     },
     {
       "added_at": "2022-08-18 21:59:00",
@@ -385,6 +505,22 @@
       "url": "https://open.spotify.com/track/3NdtOKVyuOO5GwhU7Ts4iI"
     },
     {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "AMAZWI",
+        "url": "https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4"
+      },
+      "artists": [
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "AMAZWI",
+      "url": "https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0"
+    },
+    {
       "added_at": "2022-08-11 21:50:10",
       "album": {
         "name": "Santorini",
@@ -403,6 +539,22 @@
       "duration_ms": 385385,
       "name": "Afro Brotherz (Zomhlaba)",
       "url": "https://open.spotify.com/track/2yiYfQ8JKGlarfxQ3gMGGu"
+    },
+    {
+      "added_at": "2022-10-31 13:16:35",
+      "album": {
+        "name": "Turmoil",
+        "url": "https://open.spotify.com/album/28wN2o412xOVYXOWFyn85y"
+      },
+      "artists": [
+        {
+          "name": "DJ LESOUL",
+          "url": "https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm"
+        }
+      ],
+      "duration_ms": 393464,
+      "name": "Turmoil",
+      "url": "https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR"
     },
     {
       "added_at": "2022-08-11 21:50:10",
@@ -971,74 +1123,6 @@
       "duration_ms": 503606,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5Po3stEOmRMz7PFWTcJlA1"
-    },
-    {
-      "added_at": "2022-08-11 21:50:10",
-      "album": {
-        "name": "Sikelela (feat. Bukeka)",
-        "url": "https://open.spotify.com/album/0ifVZ7tvTFMq4TUcWvFETV"
-      },
-      "artists": [
-        {
-          "name": "TNS",
-          "url": "https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        },
-        {
-          "name": "Bukeka",
-          "url": "https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV"
-        }
-      ],
-      "duration_ms": 351935,
-      "name": "Sikelela (feat. Bukeka)",
-      "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
-    },
-    {
-      "added_at": "2022-08-11 21:50:10",
-      "album": {
-        "name": "Little Thing",
-        "url": "https://open.spotify.com/album/5RdMjaikoNiJV8nKjhneII"
-      },
-      "artists": [
-        {
-          "name": "40D",
-          "url": "https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x"
-        },
-        {
-          "name": "Cuebur",
-          "url": "https://open.spotify.com/artist/24gaqkuhDtbiSipIIJdRH7"
-        },
-        {
-          "name": "Madu",
-          "url": "https://open.spotify.com/artist/23f2Kbt6to4lDnHfZ68x1L"
-        }
-      ],
-      "duration_ms": 256782,
-      "name": "Little Thing",
-      "url": "https://open.spotify.com/track/60OtCQpCOk0FGlvVlGYZkz"
-    },
-    {
-      "added_at": "2022-08-11 21:50:10",
-      "album": {
-        "name": "Weh Baba",
-        "url": "https://open.spotify.com/album/6AZ2kzZBVysJtcXIbmzjOg"
-      },
-      "artists": [
-        {
-          "name": "Jabzz Dimitri",
-          "url": "https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c"
-        },
-        {
-          "name": "Yallunder",
-          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
-        }
-      ],
-      "duration_ms": 438442,
-      "name": "Weh Baba",
-      "url": "https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5"
     },
     {
       "added_at": "2022-10-03 09:30:02",

@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys",
-  "num_followers": 256189,
+  "num_followers": 256255,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGE3ZmI1YzIwYzJiZTVlYjNhY2UzYmJjODYyZDEwOTc5",
+  "snapshot_id": "MTY2NDYwODAzNiwwMDAwMDAwMGRlZjUwN2E0ODFiNGNlZjJlY2Q3ZGE0NzdkNGJmYzMz",
   "tracks": [
     {
       "added_at": "2022-10-01 07:07:16",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Don't Lose Heart",
-        "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 211863,
-      "name": "Don't Lose Heart",
-      "url": "https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "I See Grace",
         "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Don't Lose Heart",
+        "url": "https://open.spotify.com/album/1ZrDYpIj4mqKiL1ZYx8zP2"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 211863,
+      "name": "Don't Lose Heart",
+      "url": "https://open.spotify.com/track/5ixUmWYbX1AVgt3SAjAc9T"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -631,18 +631,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Morning By Morning (I Will Trust)",
-        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
       },
       "artists": [
         {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
         }
       ],
-      "duration_ms": 221084,
-      "name": "Morning By Morning (I Will Trust) - Radio Version",
-      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
+      "duration_ms": 186626,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -667,22 +671,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/4OigF874NcgVswGDcQ85WG"
+        "name": "Morning By Morning (I Will Trust)",
+        "url": "https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv"
       },
       "artists": [
         {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+      "duration_ms": 221084,
+      "name": "Morning By Morning (I Will Trust) - Radio Version",
+      "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Walls",
-        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
-      },
-      "artists": [
-        {
-          "name": "Courtnie Ramirez",
-          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
-        }
-      ],
-      "duration_ms": 254099,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/5gYXqVgY9nDZQUKI6g9FiZ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/7tyPrq1HOd2wNG0Ga6H1JW"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL"
+      },
+      "artists": [
+        {
+          "name": "Courtnie Ramirez",
+          "url": "https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW"
+        }
+      ],
+      "duration_ms": 254099,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Phenomena (DA DA) [Remixes]",
+        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "Lost Without You",
         "url": "https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 241933,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Phenomena (DA DA) [Remixes]",
-        "url": "https://open.spotify.com/album/0KSjO02zeLGpamcAqL8QKy"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
+        "name": "Always Only Jesus",
+        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
       "artists": [
         {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+      "duration_ms": 225681,
+      "name": "To Not Worship You",
+      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1435,22 +1451,6 @@
       "duration_ms": 209262,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Always Only Jesus",
-        "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 225681,
-      "name": "To Not Worship You",
-      "url": "https://open.spotify.com/track/5hPNvjfHsshgegY71cKdhO"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "Worry",
-        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 209194,
-      "name": "Worry",
-      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Over and Over",
         "url": "https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 215000,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Worry",
+        "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 209194,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/5w4TqRrShLr1snvqCokhhV"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
         "name": "Love Won\u2019t Let Go",
         "url": "https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ"
       },
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
         "name": "By Faith",
         "url": "https://open.spotify.com/album/6NNRsx24cGGrLZ3p3A9AmP"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 201639,
       "name": "By Faith",
       "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
-    },
-    {
-      "added_at": "2022-10-01 07:07:16",
-      "album": {
-        "name": "Great I Am",
-        "url": "https://open.spotify.com/album/4fMzTXB91DZi7OwgmjWmGC"
-      },
-      "artists": [
-        {
-          "name": "Phillips, Craig & Dean",
-          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
-        }
-      ],
-      "duration_ms": 262506,
-      "name": "Great I Am (2022 Version)",
-      "url": "https://open.spotify.com/track/0wK7inmWswcEGEE84nqyr0"
     },
     {
       "added_at": "2022-10-01 07:07:16",
@@ -1671,18 +1655,38 @@
     {
       "added_at": "2022-10-01 07:07:16",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u"
+        "name": "Great I Am",
+        "url": "https://open.spotify.com/album/4fMzTXB91DZi7OwgmjWmGC"
       },
       "artists": [
         {
-          "name": "Dara Maclean",
-          "url": "https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm"
+          "name": "Phillips, Craig & Dean",
+          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
         }
       ],
-      "duration_ms": 252520,
-      "name": "Love Over Religion",
-      "url": "https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5"
+      "duration_ms": 262506,
+      "name": "Great I Am (2022 Version)",
+      "url": "https://open.spotify.com/track/0wK7inmWswcEGEE84nqyr0"
+    },
+    {
+      "added_at": "2022-10-01 07:07:16",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     }
   ],
   "unique_name": "Top Christian Contemporary",

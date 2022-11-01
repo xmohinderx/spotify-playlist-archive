@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127221,
+  "num_followers": 127215,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc0OCxiNzlhYmUzNGUxZTE1MGMzMjM0ZTBjODRjMWY5NGYwOTM3YmExNjUy",
+  "snapshot_id": "Mzc1MCw3NjdhZTZkZjljYTc5ZWIyYTE5OWQwZGI2MWEwMWQwMGVhNmFlYjFh",
   "tracks": [
+    {
+      "added_at": "2022-10-31 16:12:49",
+      "album": {
+        "name": "Madara",
+        "url": "https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Dr. Ush\u016bu",
+          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Madara",
+      "url": "https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D"
+    },
     {
       "added_at": "2022-10-29 00:53:03",
       "album": {
@@ -1067,170 +1087,6 @@
       "duration_ms": 164571,
       "name": "easier",
       "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Coast / Together",
-        "url": "https://open.spotify.com/album/7k8M4tm1mp1DfdVTcTtItQ"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        },
-        {
-          "name": "miksklim",
-          "url": "https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/5Fcr8cxJhB5lzigrAO6zy3"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Falling Off",
-        "url": "https://open.spotify.com/album/78xun5sbV7gLxfc2bRMz1L"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Falling Off",
-      "url": "https://open.spotify.com/track/7GYxHLn7wr35VDBQuwY7Au"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1PS4HKWlVVopci1ElsHCoc"
-      },
-      "artists": [
-        {
-          "name": "OVSKY",
-          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
-        }
-      ],
-      "duration_ms": 150556,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/5KuMYx5VncjdS6CSuurWlk"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "CINEMA (incl. Fame & Fortune VIP)",
-        "url": "https://open.spotify.com/album/1H0JMgsdaYfxkn5n4rDkIf"
-      },
-      "artists": [
-        {
-          "name": "OddKidOut",
-          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "CINEMA - Fame & Fortune VIP",
-      "url": "https://open.spotify.com/track/2MTgMyZGPnxdA4YOg3oE7w"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Mirror Of Erised",
-        "url": "https://open.spotify.com/album/4Z59SWLNVf31yAhuhzQ7FH"
-      },
-      "artists": [
-        {
-          "name": "Heard Right",
-          "url": "https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl"
-        },
-        {
-          "name": "Meeting Molly",
-          "url": "https://open.spotify.com/artist/55p34uHtqEyL4CoYAwqE2G"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Mirror Of Erised",
-      "url": "https://open.spotify.com/track/3o9Er7gZnrvh6wHRiv7xac"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Bad Luck",
-        "url": "https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Kiz Keyz",
-          "url": "https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS"
-        }
-      ],
-      "duration_ms": 171243,
-      "name": "Bad Luck",
-      "url": "https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Lois Eyes",
-        "url": "https://open.spotify.com/album/0tVGx4MmbLFWlNujwyUMGM"
-      },
-      "artists": [
-        {
-          "name": "Manu Zain",
-          "url": "https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Lois Eyes",
-      "url": "https://open.spotify.com/track/5NLjv0kPAAk2Jjw6i3U4Ns"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Lose Our Minds",
-        "url": "https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Jess Ball",
-          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Lose Our Minds",
-      "url": "https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

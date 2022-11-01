@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-271 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
+272 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Devil I Know](https://open.spotify.com/track/6R0v4lA69KxsAUYDskYwgs) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-03-22 |  |
 | [Diamond Studded Shoes](https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:24 | 2021-10-08 |  |
 | [Didn't Fix Me](https://open.spotify.com/track/4pqcb6b9PoBnK3HSt4tIeo) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Good Luck With Whatever](https://open.spotify.com/album/3esEgXmUs1zjBVqijbZ6RQ) | 5:32 | 2021-10-08 | 2022-07-28 |
-| [didn't you believe in me?](https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB) | 2:15 | 2022-03-22 |  |
+| [didn't you believe in me?](https://open.spotify.com/track/3nKtDtNpGFa8fRZQMpjNVR) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [quite early one morning](https://open.spotify.com/album/7COOYAhKymobmwEXFsRdLB) | 2:15 | 2022-03-22 | 2022-11-01 |
 | [Domino](https://open.spotify.com/track/00Z9EPuVs8hpWTn6Cd6wfR) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/0WGo4dh01tJd286InYutkB) | 4:03 | 2021-10-08 | 2022-07-29 |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 | 2022-03-22 | 2022-04-19 |
 | [Down in the Country](https://open.spotify.com/track/7cxRBKW8sz7BImPV6mdiIn) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:34 | 2021-10-08 | 2022-07-27 |
@@ -169,6 +169,7 @@
 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 | 2022-01-07 |  |
 | [Nomads](https://open.spotify.com/track/1oNbHtS4oDiJi5O1EhETgM) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Asterisk the Universe](https://open.spotify.com/album/1OYEoXxO9QXcnBNV6Y9jEb) | 5:37 | 2021-10-08 | 2022-07-29 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-10-08 |  |
+| [Now is the Time](https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9) | 3:35 | 2022-10-14 |  |
 | [Now is the Time](https://open.spotify.com/track/5ddrYyHEHIwXeeELXkgEel) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Now is the Time](https://open.spotify.com/album/2LYm9NJMZYR8V3Ldq5Umh4) | 3:35 | 2021-10-08 | 2022-09-15 |
 | [Oh Canada](https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/37ymm9QGZFi1sAQJrQZCzI) | 4:47 | 2021-10-08 | 2022-07-29 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-10-08 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-868 songs - 1 day 21 hr 19 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+869 songs - 1 day 21 hr 24 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-11-16 | 2021-12-29 |
 | [MJ \(feat\. Shooter Gang\)](https://open.spotify.com/track/2MjJiGe9zI51tr7zin5CBq) | [L.O.C.](https://open.spotify.com/artist/0VUVvNFIyMeIWguwhhImIc), [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [FUCK L.O.C.](https://open.spotify.com/album/3hA9742cGSpyar4lJEbmRA) | 3:26 | 2021-05-30 | 2021-05-31 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-31 |  |
 | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/track/2VO1Lr1MVNGDHzBN5kHHQt) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/album/4bOYDZcsOGNSyid7BtDOIN) | 3:06 | 2022-06-04 | 2022-06-19 |
 | [Mona Lisa \(feat\. Lord Siva\)](https://open.spotify.com/track/5PKfri2kHfgZUb07oB5mnc) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:06 | 2022-06-18 | 2022-08-21 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-16 | 2021-11-07 |
@@ -707,7 +708,7 @@
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-20 |
 | [SIRI](https://open.spotify.com/track/2YBJNTMuSCQKnjEBd52K6L) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:19 | 2021-09-25 | 2021-10-11 |
 | [Sjov Sommer](https://open.spotify.com/track/4wrH1xWnH9UnGiodScaoCo) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Sjov Sommer](https://open.spotify.com/album/7ptAM4rLjJV8QSIbWNjxID) | 2:50 | 2022-03-26 | 2022-04-03 |
-| [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/track/29413BdSqM2XRMdu4XT4EK) | [The SuperNature](https://open.spotify.com/artist/4P3rTtomMt6HEeYdByPYC7), [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/album/0Hk4TJWSh64av5ks7t8E0f) | 3:16 | 2022-10-27 |  |
+| [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/track/29413BdSqM2XRMdu4XT4EK) | [The SuperNature](https://open.spotify.com/artist/4P3rTtomMt6HEeYdByPYC7), [Burhan G](https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8), [Herrelandsholdet](https://open.spotify.com/artist/5RnvIeoBOnfUN95vVzR2UX) | [Skulder Ved Skulder \(Danmarks Officielle Fodboldsang\)](https://open.spotify.com/album/0Hk4TJWSh64av5ks7t8E0f) | 3:16 | 2022-10-27 | 2022-11-01 |
 | [Skæbnen elsker os.](https://open.spotify.com/track/09vYMAdonToKQsyhm0DpTJ) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB) | [Når sjælen kaster op](https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A) | 2:17 | 2022-10-22 | 2022-10-24 |
 | [Skør For Dig \(feat\. Jada\)](https://open.spotify.com/track/5KFtLArXrvuHjiHsgQSkHz) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [30 Somre](https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS) | 3:37 | 2022-06-18 | 2022-10-16 |
 | [Slikhår](https://open.spotify.com/track/7aGe2uih8NqQWclFqoqmr9) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i) | [Slikhår](https://open.spotify.com/album/3CWV9pisjF5UjDWAskQKxf) | 2:58 | 2021-08-29 | 2021-08-31 |

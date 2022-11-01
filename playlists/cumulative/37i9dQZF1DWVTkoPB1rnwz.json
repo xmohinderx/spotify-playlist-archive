@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Abr\u00e1zame mucho estos d\u00edas",
+        "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+    },
+    {
+      "album": {
         "name": "!",
         "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
       },
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 258224,
       "name": "Espuma de mar",
       "url": "https://open.spotify.com/track/3bmaPBLFmvTYu90lzbCArT"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/1mYTnzuhrlxkfcqea2KEQp"
@@ -3733,7 +3751,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 262351,
       "name": "Study of a Bull",
       "url": "https://open.spotify.com/track/7r4YdYRQNVZMd2M37DVQhu"
@@ -3925,7 +3943,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 241278,
       "name": "Ten Days Of Silence",
       "url": "https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y"
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 133120,
       "name": "Unmo",
       "url": "https://open.spotify.com/track/5EnSB1D05EPzOtKq9DIvZ8"

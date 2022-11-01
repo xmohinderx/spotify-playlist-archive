@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,788 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,801 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 12 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
 | 13 | [A Seminar In Tokyo](https://open.spotify.com/track/0CFc37YTJa449oOe660cSU) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Spanish Villager No\. 3](https://open.spotify.com/album/1wTobCIdhZP6Y0pOSZK0IU) | 4:32 |
 | 14 | [Entebbe](https://open.spotify.com/track/7JUJDegbbXHmYLtWIb811E) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Entebbe](https://open.spotify.com/album/59vlQB3gPrQV9VLhU120ub) | 3:52 |
-| 15 | [Slow wine](https://open.spotify.com/track/6Fchq6eEUzn835HWaA37Ca) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow wine](https://open.spotify.com/album/7EwzSy0JPsa4zzmYEWX4T5) | 2:03 |
+| 15 | [Slow Wine \- Radio Edit](https://open.spotify.com/track/6xbMVHYWWtfbNNgLeACExm) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Slow Wine \(Radio Edit\)](https://open.spotify.com/album/0v7UOCkhnimTEBAs8OUlnM) | 2:04 |
 | 16 | [Moonlight](https://open.spotify.com/track/3o89M98TILkeQHc6ZqJ934) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [See Through Solomon](https://open.spotify.com/artist/5ViXrpkJCiKJxiv4rfd4r7), [KHAN KHALII](https://open.spotify.com/artist/4mBzJ4dZWEdhB7BK3OBqIN) | [Moonlight](https://open.spotify.com/album/3ngn7z6qYJxVIsUu9PgPiE) | 2:55 |
 | 17 | [Fireflies](https://open.spotify.com/track/4Ajby5KmiabXW8U22I6wKC) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Fireflies](https://open.spotify.com/album/6WfB9YEC9FDRhJCrNd5sah) | 2:21 |
 | 18 | [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 69 | [Naki](https://open.spotify.com/track/7c2UaLROWqBnj32u6nrNvq) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Kibunomu](https://open.spotify.com/album/1cc9sKFy3FDPyGzKYSYehp) | 2:46 |
 | 70 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 |
 
-Snapshot ID: `MTY2NjkwNDM0MCwwMDAwMDAwMGUzYmU4MDI2YjZlNjE3MzRiMzJkMmFjNzI5YzdkMTY0`
+Snapshot ID: `MTY2NjkwNDM0MCwwMDAwMDAwMGMzZmE0MjcxMTk4OTUwYTBlZjBmNTc2NThkZDMyYjJi`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 237416,
+  "num_followers": 239447,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDI5YTY3MGRlOGJhNWQ0ZjZkOTg4NTEyYzgyMWZjMWZk",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMGNjNGJjNGFkOWViYzJhOTk2ZWU5MTFkNzRjNDllM2M5",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -75,6 +75,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Agents Of Fortune",
+        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
+      },
+      "artists": [
+        {
+          "name": "Blue \u00d6yster Cult",
+          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
+        }
+      ],
+      "duration_ms": 308120,
+      "name": "(Don't Fear) The Reaper",
+      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "The Marshall Mathers LP2",
         "url": "https://open.spotify.com/album/3vOgbDjgsZBAPwV2M3bNOj"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 250188,
       "name": "The Monster",
       "url": "https://open.spotify.com/track/48RrDBpOSSl1aLVCalGl5C"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Agents Of Fortune",
-        "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 308120,
-      "name": "(Don't Fear) The Reaper",
-      "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -139,6 +139,22 @@
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
+      },
+      "artists": [
+        {
+          "name": "Ray Parker Jr.",
+          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Ghostbusters",
+      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -179,22 +195,6 @@
       "duration_ms": 285014,
       "name": "Magic",
       "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6"
-      },
-      "artists": [
-        {
-          "name": "Ray Parker Jr.",
-          "url": "https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK"
-        }
-      ],
-      "duration_ms": 239133,
-      "name": "Ghostbusters",
-      "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -327,6 +327,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "A.N.T. Farm",
+        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Tenacious D",
         "url": "https://open.spotify.com/album/1AckkxSo39144vOBrJ1GkS"
       },
@@ -339,6 +355,22 @@
       "duration_ms": 248053,
       "name": "Tribute",
       "url": "https://open.spotify.com/track/6crBy2sODw2HS53xquM6us"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Jack's Lament",
+      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -359,34 +391,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "A.N.T. Farm",
-        "url": "https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA"
+        "name": "Kids Songs: Halloween Party!",
+        "url": "https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14"
       },
       "artists": [
         {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Nightmare Before Christmas Special Edition",
-        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Jack's Lament",
-      "url": "https://open.spotify.com/track/4VCexsNDyC2j8ZrY34RwV0"
+      "duration_ms": 236480,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -423,18 +439,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+      "duration_ms": 209546,
+      "name": "Hungry Like the Wolf",
+      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -463,22 +479,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/7xbWtTByfdMWFfxXmeFFl0"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Hungry Like the Wolf",
-      "url": "https://open.spotify.com/track/2qeESyQyH7MRHCBotCQsNq"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Awake (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 178013,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5XQNN3cHwYRzPv08CHuQNZ"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Dance Macabre",
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -543,6 +559,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Hey Stoopid",
+        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Feed My Frankenstein",
+      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -555,6 +587,22 @@
       "duration_ms": 395706,
       "name": "Creeping Death (Remastered)",
       "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
+      },
+      "artists": [
+        {
+          "name": "DJ Jazzy Jeff & The Fresh Prince",
+          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "A Nightmare on My Street",
+      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -575,38 +623,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Hey Stoopid",
-        "url": "https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Feed My Frankenstein",
-      "url": "https://open.spotify.com/track/7LDTB4kVmrLCU5TqKjZnzm"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Kids Songs: Halloween Party!",
-        "url": "https://open.spotify.com/album/3ieg9cbiq6SacHVpPFQo14"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/4P0UmzUN00aoPLrgnqfZUX"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 185440,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XLCFog0qr2dw0877zzypG"
-      },
-      "artists": [
-        {
-          "name": "DJ Jazzy Jeff & The Fresh Prince",
-          "url": "https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "A Nightmare on My Street",
-      "url": "https://open.spotify.com/track/1ugkqjRKTAX3kExAR4QgQz"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -707,6 +707,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "The Addams Family (Original Music From The T.V. Show)",
+        "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
+      },
+      "artists": [
+        {
+          "name": "Vic Mizzy and His Orchestra and Chorus",
+          "url": "https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Main Theme: The Addams Family - Instrumental Version",
+      "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Experience Hendrix: The Best Of Jimi Hendrix",
         "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Addams Family (Original Music From The T.V. Show)",
-        "url": "https://open.spotify.com/album/3GPiacqnXD4MCCMWvSTT53"
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
       },
       "artists": [
         {
-          "name": "Vic Mizzy and His Orchestra and Chorus",
-          "url": "https://open.spotify.com/artist/30Vw5pqdpoPBHNVeT5Eknv"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 120066,
-      "name": "Main Theme: The Addams Family - Instrumental Version",
-      "url": "https://open.spotify.com/track/7M2t3mrwREenfKCvpRCed7"
+      "duration_ms": 249253,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -771,18 +787,18 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
+        "name": "The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
         }
       ],
-      "duration_ms": 249253,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq"
+      "duration_ms": 164533,
+      "name": "I Want Candy",
+      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -799,22 +815,6 @@
       "duration_ms": 276053,
       "name": "Going To Hell",
       "url": "https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "The Best Of Bow Wow Wow",
-        "url": "https://open.spotify.com/album/0CjR9Tn8bR68Iwg1UVnN1m"
-      },
-      "artists": [
-        {
-          "name": "Bow Wow Wow",
-          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
-        }
-      ],
-      "duration_ms": 164533,
-      "name": "I Want Candy",
-      "url": "https://open.spotify.com/track/6J8IwGX3oHi7x9B57vmMMW"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -915,22 +915,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Rewind, Replay, Rebound (Deluxe)",
-        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Sorry Sack Of Bones",
-      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Just For The Record...",
         "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 229120,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/5tGcBhlRXSweh1v8X3C6Nk"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Rewind, Replay, Rebound (Deluxe)",
+        "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Sorry Sack Of Bones",
+      "url": "https://open.spotify.com/track/4cA5B78Gch1RpHFAFbb2Gy"
     },
     {
       "added_at": "2019-10-09 15:02:50",

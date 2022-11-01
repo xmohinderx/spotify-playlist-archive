@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Stryper
 
-122 songs - 8 hr 4 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
+123 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/0I8VcxL9XbIeWCKViSqbs1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 |  |
 | [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 | 2022-10-30 |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-10-29 |  |
+| [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-10-29 |  |
 | [Salvation For 100%](https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm) | [Pennell](https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R), [Jacob Coyne](https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR) | [Salvation For 100%](https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF) | 6:09 | 2022-01-14 | 2022-10-30 |
 | [Same Old Story](https://open.spotify.com/track/4moj8PfVwwJwbcLKcYfywa) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Same Old Story](https://open.spotify.com/album/3gIleQFuXMBgc8hPoAzZMc) | 4:09 | 2022-10-29 |  |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2021-05-28 | 2022-01-15 |
@@ -106,7 +107,7 @@
 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 | 2022-03-11 |  |
 | [Tell Me](https://open.spotify.com/track/0681lQWtB4ZP2n8YAxGqaZ) | [As We Ascend](https://open.spotify.com/artist/7bjstedTQ2tGSxCIn54Am1) | [Farewell to Midnight](https://open.spotify.com/album/2Lq6F3PJgcTuQHs5nRULfH) | 3:34 | 2021-05-28 |  |
 | [The Antihero](https://open.spotify.com/track/2hNr3v1ldMAt0iUqSTpXUw) | [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV) | [The Antihero](https://open.spotify.com/album/0EANG8Al2ITe4WUKdA76aW) | 4:08 | 2022-01-14 |  |
-| [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 |  |
+| [The Fire Itself](https://open.spotify.com/track/0qrjqzcP1kbhtKD2HfODmy) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [The Fire Itself](https://open.spotify.com/album/5Oo7UOjikKgfz36UDS1RAW) | 3:39 | 2022-01-14 | 2022-11-01 |
 | [The First & the Last](https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z) | [Collision of Innocence](https://open.spotify.com/artist/35wkX6HAVNXCsDF79SnoGc) | [The First & the Last](https://open.spotify.com/album/2BQlQnftog5PKWO4mCvR5m) | 3:39 | 2021-05-28 |  |
 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 | 2021-05-28 | 2022-01-15 |
 | [The Shelter](https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se) | [All For The King](https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF) | [Let There Be Light](https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23) | 4:18 | 2022-01-14 |  |

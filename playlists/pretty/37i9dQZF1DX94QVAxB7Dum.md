@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,952 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,096 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 53 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
 | 54 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 55 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Be What You Are \(Reissue\)](https://open.spotify.com/album/2p7fRyRo0bvJtmAE8O8Lk7) | 4:27 |
-| 56 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
-| 57 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 |
+| 56 | [Tramp](https://open.spotify.com/track/2gFfG8Ick2LGOzFHiWOV22) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [King & Queen](https://open.spotify.com/album/0BMj7v9E7i5YzKsZ7HJ9YX) | 3:01 |
+| 57 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
 | 58 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 |
 | 59 | [Wish Someone Would Care](https://open.spotify.com/track/0EP7T1h041oiEfkNCqbST2) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Super Blues, Vol.1](https://open.spotify.com/album/48MRLdjWTY8ycSSXC5OV67) | 2:19 |
 | 60 | [Tell It Like It Is](https://open.spotify.com/track/5K37x491Nnv7ipOv6D0DxJ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 3:01 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [On Broadway \- Re\-Recording](https://open.spotify.com/track/7xs0AmGs6R9fCOAipbAExp) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Golden Legends: The Drifters](https://open.spotify.com/album/7ib2aOqt1KIm1C0jApKMDl) | 2:46 |
 | 69 | [Hurt So Bad \(Re\-Recording\)](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits Of The Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 
-Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMGFmYmZmZDYwOTIyMTY4YzVmODBjN2EyY2RmMTg0YTgy`
+Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMGExMWFlZTI3ZTk3ZWZkYzQ0OWQwODBlNzY1ZGQ4YTg1`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf?si=7GfavyvfTIKTXvIxKrVFyw\">Kawahi Leonard</a>",
-  "num_followers": 4149,
+  "num_followers": 4308,
   "original_name": "Kawahi Leonard's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMDg0ZWVmNjIwM2IyMWYyMjE3MTNiZWJkZjVkYmI4NzUx",
+  "snapshot_id": "MTY2NDY1ODQwOCwwMDAwMDAwMGJiMmFiNjhkOGYwM2I4YTM0YzZjMmExNWVlMDQxZDdh",
   "tracks": [
     {
       "added_at": "2022-10-01 21:06:48",
@@ -171,42 +171,6 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "King Kunta",
-      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
-        "name": "Best Friend (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Best Friend (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -239,6 +203,42 @@
       "duration_ms": 307773,
       "name": "All Eyez On Me (ft. Big Syke)",
       "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "Best Friend (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 155883,
+      "name": "Best Friend (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -647,30 +647,6 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Rileyy Lanez",
-          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
-      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
         "name": "Leave The Door Open (Live)",
         "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
       },
@@ -711,6 +687,22 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 261742,
+      "name": "Championships",
+      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf"
       },
@@ -739,18 +731,26 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+        "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+        "url": "https://open.spotify.com/album/4U8n0uEGmEvNu2dzCgG8yv"
       },
       "artists": [
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
         }
       ],
-      "duration_ms": 261742,
-      "name": "Championships",
-      "url": "https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr"
+      "duration_ms": 185603,
+      "name": "Part Of The Game (feat. NLE Choppa & Rileyy Lanez)",
+      "url": "https://open.spotify.com/track/58u07iWTstIQrxiCM2GuuA"
     },
     {
       "added_at": "2022-10-01 21:06:48",
@@ -899,30 +899,6 @@
     {
       "added_at": "2022-10-01 21:06:48",
       "album": {
-        "name": "Bestie",
-        "url": "https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        }
-      ],
-      "duration_ms": 153455,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l"
-    },
-    {
-      "added_at": "2022-10-01 21:06:48",
-      "album": {
         "name": "Born 2 Rap",
         "url": "https://open.spotify.com/album/5MDmKDe9kmJBsf8yYn8dUM"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 181151,
       "name": "Drake - Laugh Now Cry Later ft. Lil Durk - Djlilruben Remix",
       "url": "https://open.spotify.com/track/6mDPj5TMqltJvm7XhjPohr"
+    },
+    {
+      "added_at": "2022-10-01 21:06:48",
+      "album": {
+        "name": "Bestie",
+        "url": "https://open.spotify.com/album/2wNYpDzwgeSbxSc8dVXcev"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Capella Grey",
+          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
+        }
+      ],
+      "duration_ms": 153455,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/4RJ2tHMoFQbUus12u1hB5l"
     },
     {
       "added_at": "2022-10-01 21:06:48",

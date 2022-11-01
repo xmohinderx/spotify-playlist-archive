@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,841 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,857 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 3 | [el cielo no es de nadie \- Edit](https://open.spotify.com/track/1pY4lWKYXLGqcSql0CzDuy) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [el cielo no es de nadie](https://open.spotify.com/album/2NzNIhJKRGCuPWfAJtUUCL) | 3:41 |
 | 4 | [SRA](https://open.spotify.com/track/6J3FPGcMwdO1ik7sYRjKCF) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT) | [SRA](https://open.spotify.com/album/13AzeHpoKFRk6T2R9hsaGb) | 3:29 |
 | 5 | [No Puedo Funcionar](https://open.spotify.com/track/5ovjlgDlwy3fDfAWDh1Pki) | [DJs Pareja](https://open.spotify.com/artist/5oTo90z4UYa7QUQ3Je3dQ7), [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestra Forma](https://open.spotify.com/album/1Vr6Mf9IkYR5GEwjLyfxMq) | 5:47 |
-| 6 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 7 | [Feel Like Honey \- Radio Edit](https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ) | [Future Feelings](https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH) | [Feel Like Honey](https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI) | 3:56 |
+| 6 | [Feel Like Honey \- Radio Edit](https://open.spotify.com/track/4SDgjPDwZTPNPDFyN1hkwQ) | [Future Feelings](https://open.spotify.com/artist/3Au2QfFkLbGnjGvQ2DR0kH) | [Feel Like Honey](https://open.spotify.com/album/7pDqpbAxk2iT8EgC9WpDPI) | 3:56 |
+| 7 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 8 | [Hurt](https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI) | [Sangre Nueva](https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Goteo](https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24) | 5:00 |
 | 9 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 |
 | 10 | [Puk](https://open.spotify.com/track/06nGBVYjH9ajxhrGQ2xfvV) | [Turning Torso](https://open.spotify.com/artist/6j5BxXSPPlGZIMeWjMoIPQ) | [Puk](https://open.spotify.com/album/4s2pQPbpvmtDTV2lecbqvi) | 3:24 |
-| 11 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 |
-| 12 | [Ágni](https://open.spotify.com/track/6oFeHebu9Jv72wfFrC2wRm) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 5:01 |
-| 13 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
-| 14 | [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 |
-| 15 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
+| 11 | [Ágni](https://open.spotify.com/track/6oFeHebu9Jv72wfFrC2wRm) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Zenit & Nadir](https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6) | 5:01 |
+| 12 | [Sarita Colonia \- Edit](https://open.spotify.com/track/0VNtKhOQZConLZc1GjQckk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Sarita Colonia](https://open.spotify.com/album/0ku4piLs17h4xD7e92FEf6) | 3:47 |
+| 13 | [Bembé](https://open.spotify.com/track/0yNL4Rma8wSmtBH39UuEUG) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Machiran](https://open.spotify.com/artist/2G9YVfs6LKoJeFnGj4K3yx) | [Bembé](https://open.spotify.com/album/4gvhsXGJz2vzI16PJuFznV) | 3:17 |
+| 14 | [Si Mami](https://open.spotify.com/track/3iG93FbuY3fqgfedMCC6A7) | [Michael Fortvne](https://open.spotify.com/artist/6BIKs7su9UYmtKs5nj3Jpz), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Si Mami](https://open.spotify.com/album/6RMpW1nConyzYdawMen6ps) | 5:08 |
+| 15 | [El Mago Georges](https://open.spotify.com/track/2BFP1UreT4vYonBeCaP9Uy) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Pleamar](https://open.spotify.com/album/0ibQuNCIrCSj9OY5OCSzlT) | 3:55 |
 | 16 | [Individuality Riddim](https://open.spotify.com/track/5xbSiMMp6T98hJEQrUfFXX) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Individuality Riddim](https://open.spotify.com/album/2QQ714tuWG924CXN9H150s) | 6:38 |
 | 17 | [Sin control](https://open.spotify.com/track/3VU9lUe99fLz5PD6hlwad7) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:46 |
 | 18 | [Minena](https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa) | [Ranma Entero](https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB) | [Minena](https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 49 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
 | 50 | [Manila](https://open.spotify.com/track/1uo9jMH4Z3DrpPGi6jm9E4) | [Manudigital](https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH) | [Manila](https://open.spotify.com/album/7rwOOLEqFtz8cIsmW9UC91) | 3:53 |
 
-Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMDRlZDc5MDk4ODNjMzQzNjA2N2Q0NjczNTUzNWE5YjJh`
+Snapshot ID: `MTY2MjM1MTU1NSwwMDAwMDAwMDkzZjgyMmZkY2FiZjgwNDBiODhkOTUxYmJjNjdkMmQ2`

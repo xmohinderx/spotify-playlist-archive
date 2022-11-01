@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq?si=fL7CTy28SFGBIYnIc779cg\">Dr Feel</a>",
+  "description": "AfroTech was born in South Africa and it is travelling the world's dancefloors. Listen to the best in AfroTech here. Cover: <a href=\"https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM?si=zSdVEImKTAWqxRQej11leg\">Atmos Blaq</a>",
   "name": "AfroTech Now",
   "published_playlist_ids": [
     "2tRmuLmE2qlwUjvVj1bq1z"
@@ -115,6 +115,24 @@
       "duration_ms": 487804,
       "name": "Amathole",
       "url": "https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx"
+    },
+    {
+      "album": {
+        "name": "AMAZWI",
+        "url": "https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4"
+      },
+      "artists": [
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "AMAZWI",
+      "url": "https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0"
     },
     {
       "album": {
@@ -373,6 +391,24 @@
       "duration_ms": 247971,
       "name": "Fight to Love - Radio Edit",
       "url": "https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa"
+    },
+    {
+      "album": {
+        "name": "Figo",
+        "url": "https://open.spotify.com/album/2BvgYRixw4oWlFJ75fe2Zh"
+      },
+      "artists": [
+        {
+          "name": "Eyama",
+          "url": "https://open.spotify.com/artist/1eWJoMYZJZHfPhXTxodWbd"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "Figo",
+      "url": "https://open.spotify.com/track/6UjeI3QRwqOwSUQXkTnsdk"
     },
     {
       "album": {
@@ -663,7 +699,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 256782,
       "name": "Little Thing",
       "url": "https://open.spotify.com/track/60OtCQpCOk0FGlvVlGYZkz"
@@ -950,6 +986,54 @@
     },
     {
       "album": {
+        "name": "Reasons (Andrea Oliva Remix)",
+        "url": "https://open.spotify.com/album/0ZVMnMR0dTUWHk8BtDFFPc"
+      },
+      "artists": [
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        },
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Reasons - Andrea Oliva Remix",
+      "url": "https://open.spotify.com/track/7zwmPye7GEgHouNGGFOG8R"
+    },
+    {
+      "album": {
+        "name": "Sfede",
+        "url": "https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357950,
+      "name": "Sfede",
+      "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
+    },
+    {
+      "album": {
         "name": "Shweleza",
         "url": "https://open.spotify.com/album/1e17QmapD7ZKhng4GjHER3"
       },
@@ -999,7 +1083,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 351935,
       "name": "Sikelela (feat. Bukeka)",
       "url": "https://open.spotify.com/track/44cXNeeTCwuco12b9r2K7n"
@@ -1054,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "The Republic of Atmofrika",
+        "url": "https://open.spotify.com/album/6Yv3Pc9Wq9muZCdi9aRHHh"
+      },
+      "artists": [
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412032,
+      "name": "T.R.O.A",
+      "url": "https://open.spotify.com/track/1iaF44Uh61Non8nnHxDphC"
+    },
+    {
+      "album": {
         "name": "Love In Times Of Crisis",
         "url": "https://open.spotify.com/album/4NzOawtG9l1FIVb2RfzKou"
       },
@@ -1103,6 +1205,50 @@
       "duration_ms": 422957,
       "name": "Thunderstorm - Kususa Remix",
       "url": "https://open.spotify.com/track/1lf0fNau1vyhuwadJz8k2h"
+    },
+    {
+      "album": {
+        "name": "Tout S'en Va",
+        "url": "https://open.spotify.com/album/0Z7HOg9bzgDMrRL2jPSmNv"
+      },
+      "artists": [
+        {
+          "name": "Le Croque",
+          "url": "https://open.spotify.com/artist/4hTAcu1A9geS3saiPClAn4"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        },
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454634,
+      "name": "Tout S'en Va - Echo Deep Remix",
+      "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
+    },
+    {
+      "album": {
+        "name": "Turmoil",
+        "url": "https://open.spotify.com/album/28wN2o412xOVYXOWFyn85y"
+      },
+      "artists": [
+        {
+          "name": "DJ LESOUL",
+          "url": "https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393464,
+      "name": "Turmoil",
+      "url": "https://open.spotify.com/track/4Yk9WHAIpHTBREPJzYfUsR"
     },
     {
       "album": {
@@ -1249,7 +1395,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-01",
       "duration_ms": 438442,
       "name": "Weh Baba",
       "url": "https://open.spotify.com/track/0ILcrL9V6bMD797mmWvej5"
@@ -1271,6 +1417,28 @@
       "duration_ms": 428171,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7ts1EPMjAOz1NtXqOxFj3g"
+    },
+    {
+      "album": {
+        "name": "XX XX (Enoo Napa Remix)",
+        "url": "https://open.spotify.com/album/7nQpcH4F26cgvGeYfkKO9D"
+      },
+      "artists": [
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        },
+        {
+          "name": "Chukku",
+          "url": "https://open.spotify.com/artist/7tsGLSY4SLPBUJcw1DwhGa"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421512,
+      "name": "XX XX - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/5ulVDD2bMcqMd4MgBAKYr6"
     },
     {
       "album": {

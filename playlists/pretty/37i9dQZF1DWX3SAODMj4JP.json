@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 74607,
+  "num_followers": 74740,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyNjUyMCwwMDAwMDAwMDI4OTBhYzQwMjkzMDliNzdlMWVkYjY0ZDY0NTg2Njk2",
+  "snapshot_id": "MTY2NTcyNjUyMCwwMDAwMDAwMGZiYWU3MzhmMDJmMjVmY2RmNTBhN2FjMmEyZmQ5OTg0",
   "tracks": [
     {
       "added_at": "2022-10-14 05:48:40",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
         "name": "Se Eu Cair",
         "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 335597,
       "name": "Se Eu Cair",
       "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2022-10-14 05:48:40",
@@ -347,26 +347,6 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
-        "name": "Meu Repouso",
-        "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
-      },
-      "artists": [
-        {
-          "name": "Fabio Sampaio",
-          "url": "https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N"
-        },
-        {
-          "name": "Discopraise",
-          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
-        }
-      ],
-      "duration_ms": 258749,
-      "name": "Meu Repouso",
-      "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
         "name": "Bote o P\u00e9",
         "url": "https://open.spotify.com/album/3UOCHsSCEyPzusLJpZksqH"
       },
@@ -387,6 +367,42 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
+        "name": "Meu Repouso",
+        "url": "https://open.spotify.com/album/7qpFHHhj9wl7nscVenR1dx"
+      },
+      "artists": [
+        {
+          "name": "Fabio Sampaio",
+          "url": "https://open.spotify.com/artist/32grGWeFFc1cgsrGIV5j7N"
+        },
+        {
+          "name": "Discopraise",
+          "url": "https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe"
+        }
+      ],
+      "duration_ms": 258749,
+      "name": "Meu Repouso",
+      "url": "https://open.spotify.com/track/6cgavHjYBa1QWCTTC6d1Sn"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
     },
     {
       "added_at": "2022-10-14 05:48:40",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
-        "name": "C\u00e2nticos I",
-        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 266653,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
         "name": "Todos Um",
         "url": "https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 211386,
       "name": "Todos Um",
       "url": "https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
+        "name": "C\u00e2nticos I",
+        "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 266653,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
     },
     {
       "added_at": "2022-10-14 05:48:40",
@@ -799,6 +799,22 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
+        "name": "Ocideia",
+        "url": "https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy"
+      },
+      "artists": [
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Todo Medo",
+      "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
         "name": "Primeiro",
         "url": "https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 282932,
       "name": "Asas",
       "url": "https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
-        "name": "Ocideia",
-        "url": "https://open.spotify.com/album/0z4207UV2U8qFqxDEYhwPy"
-      },
-      "artists": [
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Todo Medo",
-      "url": "https://open.spotify.com/track/7C0NIIqcZK4reNv9boACco"
     },
     {
       "added_at": "2022-10-14 05:48:40",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
-        "name": "Simples Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
-      },
-      "artists": [
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 242829,
-      "name": "Simples Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
+        "name": "Simples Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5aVCOOT4mtOb7vurfxiQJC"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 242829,
+      "name": "Simples Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0H0lcJhH4r7XcBDm33ygaF"
     },
     {
       "added_at": "2022-10-14 05:48:40",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-10-14 05:48:40",
       "album": {
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3s em Um",
+          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
+        }
+      ],
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+    },
+    {
+      "added_at": "2022-10-14 05:48:40",
+      "album": {
         "name": "Descansar em Ti",
         "url": "https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 442247,
       "name": "Meu Grande Amor - Vers\u00e3o Cordas",
       "url": "https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i"
-    },
-    {
-      "added_at": "2022-10-14 05:48:40",
-      "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
-      },
-      "artists": [
-        {
-          "name": "N\u00f3s em Um",
-          "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
-        }
-      ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2022-10-14 05:48:40",
