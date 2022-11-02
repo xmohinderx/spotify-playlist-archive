@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23356,
+  "num_followers": 23380,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDk1YmFiOGFhYzc1NjAwODI1YWM2N2ViOGM5MjcyOWYy",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDNlYmQ3YmYzNDhkMDc5MWE2MDE1NzE5YmFhMTk0OWUx",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Pare Cochero",
+        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
+      },
+      "artists": [
+        {
+          "name": "La Gloria Matancera",
+          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Con la Punta del Pie",
+      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "ANTES QUE SALGA EL SOL",
         "url": "https://open.spotify.com/album/1LRi8tnlnSaxAcffcxzhwi"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 183926,
       "name": "ANTES QUE SALGA EL SOL",
       "url": "https://open.spotify.com/track/1vucS7X4otbyQSZ9RXYXFI"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Pare Cochero",
-        "url": "https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU"
-      },
-      "artists": [
-        {
-          "name": "La Gloria Matancera",
-          "url": "https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Con la Punta del Pie",
-      "url": "https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ"
     },
     {
       "added_at": "2022-08-31 07:37:37",

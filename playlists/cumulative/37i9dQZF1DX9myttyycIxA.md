@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Drugdealer
 
-684 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+685 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,8 @@
 | [Sleeping on the Ground](https://open.spotify.com/track/0mEB7kL6nknUILQyD3pzMW) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Sleeping on the Ground](https://open.spotify.com/album/4aJ3DahrixMsErIem1NFM9) | 3:03 | 2022-03-04 | 2022-04-21 |
 | [Slide's Getting Shorter](https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Slide's Getting Shorter](https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z) | 2:19 | 2022-01-28 | 2022-04-17 |
 | [Slow Angel](https://open.spotify.com/track/7CEvfOY6Sx35SGoareC0eV) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Slow Angel](https://open.spotify.com/album/1KhhUiMSUdbyZC2WgOp4Nf) | 2:32 | 2021-03-05 | 2022-04-12 |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-21 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Slowly](https://open.spotify.com/album/6SvGZhGt46WiZayR9bB1ox) | 3:05 | 2021-03-05 | 2022-04-29 |
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-16 | 2022-01-02 |
 | [Smartest Man \(feat\. Samia\)](https://open.spotify.com/track/6Z3zvlzq32oGeC6TnKm4aR) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Smartest Man \(feat\. Samia\)](https://open.spotify.com/album/54rOwbQ79N1uuLTVmK6fsA) | 3:41 | 2021-04-02 | 2022-04-29 |

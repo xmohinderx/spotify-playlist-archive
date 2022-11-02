@@ -1,6 +1,6 @@
 {
   "description": "The very best in new music from around the world. Cover: Rihanna",
-  "num_followers": 329347,
+  "num_followers": 329659,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -1252,12 +1252,12 @@
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
           "name": "CamelPhat",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
       "duration_ms": 213495,

@@ -4,7 +4,7 @@
 
 > Progressive beats and harmonies for the late hours.
 
-57 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
+58 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/1JHfEmSUyPHhf48VoBCtg6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Plus 100](https://open.spotify.com/track/09NjmJF5aZi2bJRhdr1fUr) | [Vooo](https://open.spotify.com/artist/3vHTWo80WtxaxoYy36oZXF) | [Plus 100](https://open.spotify.com/album/0ECy4AGJcScaPoCUFQEHxu) | 2:44 | 2022-02-01 |  |
 | [Poetic Imagination](https://open.spotify.com/track/7pzZShy71tjHQEJtz6Yq5y) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Trangkwel](https://open.spotify.com/album/4GSCPNh2Hf8CVcmJe1oTGM) | 2:08 | 2022-02-01 |  |
 | [Return of the Sky](https://open.spotify.com/track/1G838EXGqWaTAo3DrwsZkb) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO) | [Return of the Sky](https://open.spotify.com/album/7ov4GzQl5hpq92O1ySXEO1) | 3:23 | 2022-02-01 |  |
-| [Right Now](https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [Right Now](https://open.spotify.com/album/4dEEbU4lD5yDJ7VJU0bIuW) | 3:11 | 2022-02-01 |  |
+| [Right Now](https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [Right Now](https://open.spotify.com/album/4dEEbU4lD5yDJ7VJU0bIuW) | 3:11 | 2022-02-01 | 2022-11-02 |
+| [Right Now](https://open.spotify.com/track/6byGwMitvQ9qyidOlSa8ug) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:11 | 2022-02-01 |  |
 | [Run Outs](https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Bring Backs](https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq) | 4:52 | 2022-02-01 |  |
 | [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2022-02-01 |  |
 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 | 2022-02-01 |  |

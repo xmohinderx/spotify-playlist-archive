@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds.
 
-123 songs - 6 hr 26 min - not published yet
+124 songs - 6 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 |  |
 | [Set Me Free](https://open.spotify.com/track/4iqmbx1CkLGEVozDwxii2w) | [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg), [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ) | [Set Me Free](https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab) | 2:49 | 2022-06-23 |  |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |
+| [Sinking Ship](https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M) | [Uplink](https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq) | [Sinking Ship](https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs) | 2:44 | 2022-11-01 |  |
 | [Somebody Like Me](https://open.spotify.com/track/7tXOUsVnja9CM4ZqpsIRyL) | [JJD](https://open.spotify.com/artist/79a4DDvkxUJy73sCJqrC8q), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH), [Division One \(KR\)](https://open.spotify.com/artist/75J7BYbQY3qfVdQh1BMPbZ) | [Somebody Like Me](https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o) | 2:50 | 2022-07-29 |  |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 |  |
 | [Spirit](https://open.spotify.com/track/7w72YAANcgERnbpqcW4C5B) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Spirit](https://open.spotify.com/album/2egaLUBXUvyDbUBgi5iLzh) | 2:55 | 2022-07-12 |  |

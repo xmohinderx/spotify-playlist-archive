@@ -4,7 +4,7 @@
 
 > El aderezo que te falta.
 
-163 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/3uTOUzf7YyzIgGkcaTGudH)
+164 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/3uTOUzf7YyzIgGkcaTGudH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Captain Bacardi](https://open.spotify.com/track/0WP3ohqwUavEJHGxVpsQqY) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 4:29 | 2021-03-15 |  |
 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 | 2021-03-15 |  |
 | [Chove Chuva](https://open.spotify.com/track/6mTfOxORhYlpnTvm7VrL6b) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 3:04 | 2021-03-15 |  |
-| [Com qualquer dois mil réis](https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:38 | 2021-03-15 |  |
+| [Com qualquer dois mil réis](https://open.spotify.com/track/7x4RlD4cgBUUnxh6k35kaE) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:38 | 2021-03-15 | 2022-11-02 |
 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 | 2021-03-15 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/6OeIgS4Sk5Qea5Ds5MGTGe) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 2:20 | 2021-03-15 | 2022-07-29 |
 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 | 2021-03-15 |  |
@@ -92,6 +92,7 @@
 | [Manha de Carnaval](https://open.spotify.com/track/0kfdvJhyb0QHBG1IM9Vlht) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [The New Sound of Brazil](https://open.spotify.com/album/0947CUJYGkjD70oXtYtgbU) | 3:09 | 2021-03-15 |  |
 | [Many Rivers To Cross](https://open.spotify.com/track/0FokMXctAEFRczLcj8topE) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/3pYH13B5ZRBkrOsKeHgSbK) | 2:43 | 2021-03-15 | 2022-07-25 |
 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 | 2021-03-15 |  |
+| [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 | 2021-03-15 |  |
 | [Maracangalha](https://open.spotify.com/track/7vMICBgMH80JfGFaGSi8Yp) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Eu Vou Pra Maracangalha](https://open.spotify.com/album/4eTrToCDAzjyjWOFECOhBW) | 2:47 | 2021-03-15 | 2022-07-29 |
 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 | 2021-03-15 | 2022-07-29 |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2021-03-15 |  |

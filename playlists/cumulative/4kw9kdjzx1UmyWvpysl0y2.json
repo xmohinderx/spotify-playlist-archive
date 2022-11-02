@@ -1639,7 +1639,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 164571,
       "name": "easier",
       "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
@@ -3849,6 +3849,24 @@
       "duration_ms": 225967,
       "name": "Numb",
       "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
+    },
+    {
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163304,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt"
     },
     {
       "album": {

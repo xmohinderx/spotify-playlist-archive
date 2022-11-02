@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749641,
+  "num_followers": 749643,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMGIzYjBjMzQxYWRiMTVlMzhiMTE5ZjNhMDkxODM4NWY2",
+  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMDVlODgyNGI4YjA2NTUxZWM4ZDVkZWE5N2IzMzNiNTEz",
   "tracks": [
     {
       "added_at": "2022-10-28 20:18:35",
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "hate to be lame",
-        "url": "https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
@@ -1049,8 +1049,8 @@
         }
       ],
       "duration_ms": 156798,
-      "name": "hate to be lame (feat. FINNEAS)",
-      "url": "https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp"
+      "name": "hate to be lame",
+      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "best damn thing",
-        "url": "https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "best damn thing",
-      "url": "https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/4fx1cV8otauzkVrC91SpP3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 137142,
       "name": "you are, you are - demo",
       "url": "https://open.spotify.com/track/58Tdz2gduIKxLT9852hQxc"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "best damn thing",
+        "url": "https://open.spotify.com/album/0LoAlGQH5OWrgmSKDs4Ad5"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "best damn thing",
+      "url": "https://open.spotify.com/track/3eJ5PX6pbzRGSmCFMzdsnF"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 221133,
-      "name": "Carin\u0303ito",
-      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1351,6 +1347,26 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
+        "name": "Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Carin\u0303ito",
+      "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 160695,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6U5n5poetYH1GjHqcW1sYa"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "GOTEO",
-        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "GUR\u00da",
-      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "GOTEO",
+        "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
+      },
+      "artists": [
+        {
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "GUR\u00da",
+      "url": "https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Californication (Feels Like I'm Falling In Love)",
-        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 180327,
-      "name": "Californication (Feels Like I'm Falling In Love)",
-      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 181894,
       "name": "Ambar Bossa Nova - Spotify Singles",
       "url": "https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "Californication (Feels Like I'm Falling In Love)",
+        "url": "https://open.spotify.com/album/1OY6knghBPwPAdfh0AoIQe"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 180327,
+      "name": "Californication (Feels Like I'm Falling In Love)",
+      "url": "https://open.spotify.com/track/3J2k1thSgkkd3BOZSZPEuW"
     },
     {
       "added_at": "2022-10-27 13:44:27",

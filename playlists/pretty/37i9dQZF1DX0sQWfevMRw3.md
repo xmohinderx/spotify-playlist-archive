@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Cheva på fredag och långburk i varje hand!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,933 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,042 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 57 | [FRÖKEN SNUSK](https://open.spotify.com/track/4EpxJNfJiNgxfBiNNwii3s) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Lurifaks](https://open.spotify.com/artist/7KV5PbIYtOc7F3bzH0v8dK), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [FRÖKEN SNUSK](https://open.spotify.com/album/1cBoVnHKs4fTJJfjbWTWkw) | 2:31 |
 | 58 | [In i dimman](https://open.spotify.com/track/5ZIHjIkZzX2FPULOi3Jz90) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr) | [In i dimman](https://open.spotify.com/album/0q1C8xpurS1saki7ck1VTG) | 2:23 |
 | 59 | [En starköl i Stockholm är bara en lättöl i Grums](https://open.spotify.com/track/09muqlubJAR2TTDhIXLyLw) | [Transfer](https://open.spotify.com/artist/6ZSb0PecuZ2Xfbk9qTZGHB) | [En starköl i Stockholm är bara en lättöl i Grums](https://open.spotify.com/album/3SBqgLLjmu8YafAZAeeE7C) | 3:26 |
-| 60 | [Raggarbil](https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x), [Karen](https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO) | [Raggarbil](https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn) | 2:15 |
+| 60 | [Raggarbil](https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:15 |
 | 61 | [MEDVETSLÖS \- Ringnes\-Ronny Remix](https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [MEDVETSLÖS \(Ringnes\-Ronny Remix\)](https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv) | 3:06 |
 | 62 | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/track/0GouWpGnbwyInBEPYrTvOp) | [SamTheMan](https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX) | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/album/64mEH4zoGUodlMoCz8nbc6) | 2:13 |
 | 63 | [GÅR DET BRA?](https://open.spotify.com/track/0qswyajymNk1uMRplcKx3P) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GÅR DET BRA?](https://open.spotify.com/album/7titrAJAZMyrsvcnrrZ2pR) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [Hej Alla Raggare](https://open.spotify.com/track/294hfH0VbX7jwv4PcyOlgb) | [The Pineapple Squad](https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi), [Henrik Sæter](https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl) | [Hej Alla Raggare](https://open.spotify.com/album/0OQO569qzb6v881Mzurp1H) | 2:12 |
 | 100 | [MIN EPA](https://open.spotify.com/track/6SM1zZLEWjkD4Pr8j9spxn) | [RAGGARSVINET](https://open.spotify.com/artist/36nIhRqcdo4CCcCl3Eadgp) | [MIN EPA](https://open.spotify.com/album/7ulLbQVfefi4RYmd9DVzC0) | 1:48 |
 
-Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGRmZTdlNzNkMDdlMTE0NjlmNDQ4NTI3ZWJiMWNkMWM5`
+Snapshot ID: `MTY2NjkwODAwMCwwMDAwMDAwMGUzY2UzMGZiMTRkNWIyZTg2MTJjNThlN2Y0NDJlYmE3`

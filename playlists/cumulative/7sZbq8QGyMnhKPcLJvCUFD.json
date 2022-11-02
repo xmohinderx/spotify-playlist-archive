@@ -2024,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Sinking Ship",
+        "url": "https://open.spotify.com/album/6vmb4goIicK9vXUEvO6oQs"
+      },
+      "artists": [
+        {
+          "name": "Uplink",
+          "url": "https://open.spotify.com/artist/4DiPWjMS6eMvPLNfQlA0vq"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164754,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/6Bq31os4YCoQXzbb8t4w9M"
+    },
+    {
+      "album": {
         "name": "Somebody Like Me",
         "url": "https://open.spotify.com/album/62Air8eIGD93v9GMmuBi1o"
       },

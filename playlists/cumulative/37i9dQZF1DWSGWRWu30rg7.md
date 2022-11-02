@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Meiska  Artwork: Isu Kim.
 
-1,196 songs - 3 day 1 hr 22 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+1,196 songs - 3 day 1 hr 23 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,7 +968,7 @@
 | [Something Different](https://open.spotify.com/track/10PKCKhE6tEjgKsQyh8Hul) | [Rai.](https://open.spotify.com/artist/2OmqkucL2UpLXU7sMkUVd5) | [Something Different](https://open.spotify.com/album/6THsdtPFBCD4JKZ5mOauE0) | 3:03 | 2022-06-30 | 2022-07-29 |
 | [Something More Than You](https://open.spotify.com/track/4gVvd96cZhc0BWBBlMWJJ0) | [Abil Thufail](https://open.spotify.com/artist/513CpMw4rlbm0nSgyEVqfO) | [Something More Than You](https://open.spotify.com/album/5weA9xR4dT0gTfeNnPn0H8) | 3:01 | 2022-08-11 | 2022-09-02 |
 | [Something To You](https://open.spotify.com/track/4gjs5liwnYmAbNaPoIN3iw) | [Dini Budiayu](https://open.spotify.com/artist/33x4LKv2TxHV8As5X5KKGF) | [Something To You](https://open.spotify.com/album/4PgkiA98awZdV8lJy0z9td) | 3:36 | 2022-01-06 | 2022-01-14 |
-| [Song for Mama](https://open.spotify.com/track/5nte5fLlIOWNeyUq7JJAW3) | [Nuelo](https://open.spotify.com/artist/0St5cBAcEnnjcUW9muoYWM) | [Song for Mama](https://open.spotify.com/album/6cuzCxbOZuXcGJWSvtbBM2) | 1:13 | 2022-10-27 |  |
+| [Song for Mama](https://open.spotify.com/track/5nte5fLlIOWNeyUq7JJAW3) | [Nuelo](https://open.spotify.com/artist/0St5cBAcEnnjcUW9muoYWM) | [Song for Mama](https://open.spotify.com/album/6cuzCxbOZuXcGJWSvtbBM2) | 2:27 | 2022-10-27 |  |
 | [Soon Enough](https://open.spotify.com/track/4B28PPpSQlSrhOnXKM6PLq) | [Dega Putra](https://open.spotify.com/artist/1i8OmUxiySaMGH66K7qgcj) | [Soon Enough](https://open.spotify.com/album/6TAsKqn53cqooOWUvs2ZzF) | 3:37 | 2022-06-23 | 2022-07-29 |
 | [SORE DI KEBUN RAYA](https://open.spotify.com/track/40GVlhBX1LIU8h3Rzl03tO) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [SORE DI KEBUN RAYA](https://open.spotify.com/album/5nMBQVLjOgtvtWcX17NorK) | 1:54 | 2022-02-24 | 2022-03-11 |
 | [Sorry](https://open.spotify.com/track/5OZgqzA3nIoOuBLyuXvEzN) | [DIMAS MEGA](https://open.spotify.com/artist/3DAU1m5nEAUhlEm78NmP82) | [Sorry](https://open.spotify.com/album/7d3TZ9it8jmpnqiC95otMi) | 2:34 | 2022-04-07 | 2022-04-22 |

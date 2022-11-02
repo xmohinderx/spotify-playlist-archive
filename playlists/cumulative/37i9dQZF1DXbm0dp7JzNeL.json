@@ -888,6 +888,28 @@
     },
     {
       "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334053,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
+    },
+    {
+      "album": {
         "name": "FIELD: Piano Music, Vol. 2",
         "url": "https://open.spotify.com/album/5xgzLyodqgopAiAojvKxFX"
       },
@@ -929,28 +951,6 @@
       "duration_ms": 332154,
       "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
       "url": "https://open.spotify.com/track/2zVNx2StK7G8Ip1ilWhlAk"
-    },
-    {
-      "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "date_added": "2021-10-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 334053,
-      "name": "Nocturne No.1 in B flat minor, Op.9 No.1",
-      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
     },
     {
       "album": {

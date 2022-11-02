@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 65510,
+  "num_followers": 65511,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMDljMGFjN2EwOGM3NDI3Nzg1ZGY5NGJmNDkzMDdlOGVi",
+  "snapshot_id": "MTY2NTQzNjY4MSwwMDAwMDAwMDMyZmUxNzc3M2Q1OWQ0M2QzNGFhOTdiYmQwMmE1OTVl",
   "tracks": [
     {
       "added_at": "2022-10-10 21:18:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Hei Sommer",
-        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
-      },
-      "artists": [
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Hei Sommer",
-      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
         "url": "https://open.spotify.com/album/3tOIxEepIQ0D4Ee3rytRo5"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 232382,
       "name": "Gungar fram (feat. N\u00e4\u00e4\u00e4k & Kaliffa)",
       "url": "https://open.spotify.com/track/4nsJdPxz6b2mYwopZBco0H"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Hei Sommer",
+        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
+      },
+      "artists": [
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Hei Sommer",
+      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 233934,
-      "name": "Bida Din Tid",
-      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "Slutpl\u00e4deringen",
         "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 156360,
       "name": "Rikslarm",
       "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 233934,
+      "name": "Bida Din Tid",
+      "url": "https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "Trodal",
+        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 208057,
+      "name": "V\u00e4gsj\u00e4l",
+      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
     },
     {
       "added_at": "2022-10-10 21:18:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-10 21:18:00",
       "album": {
-        "name": "Trodal",
-        "url": "https://open.spotify.com/album/3NJujcbx0smsffJx4vOode"
-      },
-      "artists": [
-        {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "V\u00e4gsj\u00e4l",
-      "url": "https://open.spotify.com/track/28258RcG0K7cj4LirbIYlm"
-    },
-    {
-      "added_at": "2022-10-10 21:18:00",
-      "album": {
         "name": "ANITYA",
         "url": "https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 205011,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn"
+    },
+    {
+      "added_at": "2022-10-10 21:18:00",
+      "album": {
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     },
     {
       "added_at": "2022-10-10 21:18:00",

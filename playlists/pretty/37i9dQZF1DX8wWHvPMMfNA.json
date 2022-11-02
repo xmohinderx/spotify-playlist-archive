@@ -1,12 +1,12 @@
 {
   "description": "Soft instrumental Jazz for working or studying.",
-  "num_followers": 197766,
+  "num_followers": 197835,
   "original_name": "Focus Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc3MTQwMCwwMDAwMDAwMDViZmVhOTZmZDBiM2IwYTdmNTA0MzlmZTFmYjc0NzM3",
+  "snapshot_id": "MTY2Njc3MTQwMCwwMDAwMDAwMGJkYmNjMzhjNDE2YjViY2ZkOGQyNjc0Y2M2ZDRmN2Q4",
   "tracks": [
     {
       "added_at": "2022-10-26 08:03:20",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
         "name": "Red Garland's Piano",
         "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
@@ -199,18 +215,18 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Gee Baby, Ain't I Good To You",
-      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
+      "duration_ms": 163026,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -243,22 +259,6 @@
       "duration_ms": 236733,
       "name": "Your Host",
       "url": "https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
-        "name": "Night Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 163026,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 284933,
-      "name": "My Conception",
-      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
         "name": "Pres & Teddy",
         "url": "https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 460000,
       "name": "Prisoner Of Love",
       "url": "https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 284933,
+      "name": "My Conception",
+      "url": "https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 265226,
-      "name": "Gee Baby, Ain't I Good To You - Remastered",
-      "url": "https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
         "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 263866,
       "name": "Since I Fell for You",
       "url": "https://open.spotify.com/track/0HY29tHnnKozsXwdqfWey8"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 265226,
+      "name": "Gee Baby, Ain't I Good To You - Remastered",
+      "url": "https://open.spotify.com/track/3UrxgGboM1N5xsdOcz4o0K"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "Jangada",
-        "url": "https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rio Laginha",
-          "url": "https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ"
-        }
-      ],
-      "duration_ms": 313199,
-      "name": "Ribeira da Barca",
-      "url": "https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
         "name": "The Jazz Giants",
         "url": "https://open.spotify.com/album/44oGFX0F5QBXitVzuxmFxg"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "Jangada",
+        "url": "https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "M\u00e1rio Laginha",
+          "url": "https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ"
         }
       ],
-      "duration_ms": 334866,
-      "name": "Lonely Town",
-      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
+      "duration_ms": 313199,
+      "name": "Ribeira da Barca",
+      "url": "https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1139,6 +1123,22 @@
       "duration_ms": 183320,
       "name": "September Song",
       "url": "https://open.spotify.com/track/3jeqeE91AY5KDbccCBZ1o1"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 334866,
+      "name": "Lonely Town",
+      "url": "https://open.spotify.com/track/3cv1Wq9k7OZq2oBb352J05"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 354013,
-      "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
+      "duration_ms": 368653,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 368653,
-      "name": "I'll Never Be The Same",
-      "url": "https://open.spotify.com/track/4hW6cmyVnxXT92Gd4xwzDj"
+      "duration_ms": 354013,
+      "name": "Subdued - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/07HefsmANpCb8BUJCTDzjC"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
-        "name": "Comin' Your Way",
-        "url": "https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 369800,
-      "name": "Then I'll Be Tired Of You",
-      "url": "https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
         "name": "Somewhere: The Songs Of Leonard Bernstein",
         "url": "https://open.spotify.com/album/2quYR6cVpVBFymH7h7qv0D"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2022-10-26 08:03:20",
       "album": {
+        "name": "Comin' Your Way",
+        "url": "https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 369800,
+      "name": "Then I'll Be Tired Of You",
+      "url": "https://open.spotify.com/track/6Spm4gF9hbIRiSBQVYJFYl"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
         "name": "The Swingin's Mutual (Expanded Edition / Remastered)",
         "url": "https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 130333,
       "name": "You Are There - Remastered",
       "url": "https://open.spotify.com/track/3liUB1RsKdQawbQJN4ZaHc"
+    },
+    {
+      "added_at": "2022-10-26 08:03:20",
+      "album": {
+        "name": "In A Mellow Tone",
+        "url": "https://open.spotify.com/album/5Z3eZp41IkDzQT2L9KRuxT"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "Then I'll Be Tired Of You - Instrumental",
+      "url": "https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE"
     },
     {
       "added_at": "2022-10-26 08:03:20",
@@ -1647,22 +1663,6 @@
       "duration_ms": 372693,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/4Y0ck8IWqiZJr66A9fTbUn"
-    },
-    {
-      "added_at": "2022-10-26 08:03:20",
-      "album": {
-        "name": "In A Mellow Tone",
-        "url": "https://open.spotify.com/album/5Z3eZp41IkDzQT2L9KRuxT"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "Then I'll Be Tired Of You - Instrumental",
-      "url": "https://open.spotify.com/track/57ngHTYxMbRq17aPO2faFE"
     }
   ],
   "unique_name": "Focus Jazz",

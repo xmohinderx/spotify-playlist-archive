@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: GALE
 
-240 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
+241 songs - 12 hr 13 min - [published](https://open.spotify.com/playlist/7Ccvzuluaa4ypGALpBeYBn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Pa Que Te Digo Que No](https://open.spotify.com/track/4NhkLL44pqu1tw479u1KIx) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa Que Te Digo Que No](https://open.spotify.com/album/5ISB8ui1kJkiMkaMNOO8jr) | 2:54 | 2022-07-25 | 2022-10-13 |
 | [PAELLA](https://open.spotify.com/track/7dNWiBVwwHf2umIvUyj2aW) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [PAELLA](https://open.spotify.com/album/2EWUyaXUMoz1OIHZ888CZM) | 3:02 | 2022-07-01 | 2022-10-29 |
 | [Papeles](https://open.spotify.com/track/0vVebEdgHxQAi7ksITt9Jx) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Papeles](https://open.spotify.com/album/44YsTX2SYhfnvGZnCBI6hE) | 2:43 | 2022-07-01 | 2022-07-26 |
-| [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-23 |  |
+| [Papelito](https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 2:59 | 2022-10-28 |  |
+| [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-23 | 2022-11-02 |
 | [Paracaidas](https://open.spotify.com/track/2eNOhkws1JQe3ihihnZUP0) | [Omar Koonze](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy) | [Paracaidas](https://open.spotify.com/album/4S7eZjHadhLkjm5Rg34CeZ) | 3:39 | 2022-03-21 | 2022-05-07 |
 | [Party](https://open.spotify.com/track/69xB9y3BNxx9oCHXL86f3b) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Party](https://open.spotify.com/album/0sqJ5bv1E0u9OXKF5PP6mm) | 2:36 | 2022-08-08 | 2022-10-29 |
 | [Pecado Original](https://open.spotify.com/track/35gG1L1D4q3Vj4SqdpBqoP) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [Pecado Original](https://open.spotify.com/album/5yfY90qBzhRs4Dul2hlj81) | 3:31 | 2022-04-14 | 2022-05-09 |

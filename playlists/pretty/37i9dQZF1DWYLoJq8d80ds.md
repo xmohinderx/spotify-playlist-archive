@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,734 likes - 95 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,751 likes - 95 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 30 | [La Bicicleta](https://open.spotify.com/track/7c5AYFF7kNDnDTLjxuzDaF) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [La Bicicleta](https://open.spotify.com/album/6tC0mVd9UooFsdbD2hwe1o) | 3:30 |
 | 31 | [Lluvia](https://open.spotify.com/track/2zXCMzkxg9I22SekbZkqpu) | [Fabricio Rodriguez](https://open.spotify.com/artist/7suBgGfGR0MTAVH3z9WoQt), [Seba López \- Los Tekis](https://open.spotify.com/artist/0BpzekgdnoRolRWdVMpmwU) | [Lluvia](https://open.spotify.com/album/49Kt3SVzNgNmYL2vqyXZrv) | 3:32 |
 | 32 | [Mi Lunita Cordobesa](https://open.spotify.com/track/3KwPOIFTWpcVUop3RQ71xo) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [Mi Lunita Cordobesa](https://open.spotify.com/album/7ztRmseXurOD6k0H0Du74U) | 2:29 |
-| 33 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 |
+| 33 | [Yo seré Jujuy](https://open.spotify.com/track/17KOVqmT5m2Rdloo3440SF) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Yo Seré Jujuy](https://open.spotify.com/album/4lq8LJDZ53ZJZ2nEsH69cV) | 4:06 |
 | 34 | [Todos a bailar](https://open.spotify.com/track/5Y5mSH2yYRK8f0jlyP03Kq) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Todos a bailar](https://open.spotify.com/album/2fQyZxI828ZzSf5N0tOe9v) | 2:20 |
 | 35 | [Vale La Pena Vivir La Vida](https://open.spotify.com/track/5srtp4tKDoae5pL9vwDu29) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 3:04 |
 | 36 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 |

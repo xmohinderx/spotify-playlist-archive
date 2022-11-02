@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Plumas + Pedropiedra",
-  "num_followers": 199673,
+  "num_followers": 199686,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDg1YjdiMzZmNzZmMTU4MzVkNjk3MTllMGFhZDE1ODVh",
+  "snapshot_id": "MTY2NTcyMDAwMCwwMDAwMDAwMDExYWRlNTljNWMxYWYxZjJlZTQwNTgwYzcxMTZmNmJj",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Los Tres Unplugged 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 285430,
+      "name": "Amor Violento",
+      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Lo Bueno De Morir De Amor",
         "url": "https://open.spotify.com/album/5fhVKI6cdwPMic00HDME23"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Los Tres Unplugged 20 A\u00f1os",
-        "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 285430,
-      "name": "Amor Violento",
-      "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Estrechez de Coraz\u00f3n (En Vivo)",
         "url": "https://open.spotify.com/album/45d0IXNNcFkpK7nzcnJ6mO"
       },
@@ -831,6 +831,30 @@
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Traicionera / El Reo Ausente (Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez)",
+        "url": "https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz"
+      },
+      "artists": [
+        {
+          "name": "Desorden P\u00fablico",
+          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
+        },
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Digital Charanga",
+          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Traicionera / El Reo Ausente - Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez",
+      "url": "https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -883,26 +907,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Traicionera / El Reo Ausente (Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez)",
-        "url": "https://open.spotify.com/album/0hFL6zBllV0W3f9HdvMgMz"
+        "name": "\u00c9xitos Chilenos",
+        "url": "https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw"
       },
       "artists": [
         {
-          "name": "Desorden P\u00fablico",
-          "url": "https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB"
-        },
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        },
-        {
-          "name": "Digital Charanga",
-          "url": "https://open.spotify.com/artist/5QJLZDRwx6z7xCKkk9QmBu"
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Traicionera / El Reo Ausente - Desorden P\u00fablico rinde Homenaje al Indio Pastor L\u00f3pez",
-      "url": "https://open.spotify.com/track/4DPRgzo3TmEOM6DZM11cZU"
+      "duration_ms": 187759,
+      "name": "M\u00e1gico",
+      "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 224096,
       "name": "Fuego y Mar",
       "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "\u00c9xitos Chilenos",
-        "url": "https://open.spotify.com/album/09UbdY5tHTS6dhVu786BUw"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "M\u00e1gico",
-      "url": "https://open.spotify.com/track/37uLyC9qkxus8WmyZQBRRx"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Gol de Caszely",
+        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guerrero",
+          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
+        }
+      ],
+      "duration_ms": 228741,
+      "name": "Gol de Caszely",
+      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Sabes",
         "url": "https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 86063,
       "name": "T\u00fa No Propones Na",
       "url": "https://open.spotify.com/track/6nSO2TaVtEUsfz6nSLRTjq"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Gol de Caszely",
-        "url": "https://open.spotify.com/album/3vb74EiQdE9RO2l8hb4Hwj"
-      },
-      "artists": [
-        {
-          "name": "Daniel Guerrero",
-          "url": "https://open.spotify.com/artist/46DjlImkqCqoPI8bQFfGma"
-        }
-      ],
-      "duration_ms": 228741,
-      "name": "Gol de Caszely",
-      "url": "https://open.spotify.com/track/4G5BUwn7bk6GmxwZ2PNnlj"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Lo Comido y Lo Bailado",
-        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
-      },
-      "artists": [
-        {
-          "name": "Juanito Ayala",
-          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 189568,
-      "name": "El Vaiv\u00e9n",
-      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "R\u00edo R\u00edo",
         "url": "https://open.spotify.com/album/0AiixwBm1VKGyrTJVJAgDX"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Lo Comido y Lo Bailado",
+        "url": "https://open.spotify.com/album/61CtpH0g7Q4Vr4Tr6O1rLh"
+      },
+      "artists": [
+        {
+          "name": "Juanito Ayala",
+          "url": "https://open.spotify.com/artist/4Wy8CFlIS11ODC9wVKBSz4"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 189568,
+      "name": "El Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/5aIrqFydkhSU25u6OQLRdT"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "La Manera Correcta",
         "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Por 30 M\u00e1s",
-        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
-      },
-      "artists": [
-        {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "Culpa",
-      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Ya No Estamos Para Mentiras",
         "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196317,
       "name": "Ya No Estamos Para Mentiras",
       "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Por 30 M\u00e1s",
+        "url": "https://open.spotify.com/album/3oiaJo9mvrGq1oIbwCfXwh"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "Culpa",
+      "url": "https://open.spotify.com/track/6EOfFnTp6FX4RgUrVTNRq9"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
-      },
-      "artists": [
-        {
-          "name": "Sonora de Llegar",
-          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
-        },
-        {
-          "name": "Skuela de Baile",
-          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
-        }
-      ],
-      "duration_ms": 169375,
-      "name": "93",
-      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "M\u00fasica de Fondo",
         "url": "https://open.spotify.com/album/0VpzNAWJru2fYY764kGnM5"
       },
@@ -1559,18 +1539,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+        "name": "93",
+        "url": "https://open.spotify.com/album/0g9JX4ouzN5T8gYoMBMX1z"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Sonora de Llegar",
+          "url": "https://open.spotify.com/artist/6Zvh0z6M1QFVEvy1i8mTYV"
+        },
+        {
+          "name": "Skuela de Baile",
+          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
         }
       ],
-      "duration_ms": 232106,
-      "name": "Lo Que Haces",
-      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
+      "duration_ms": 169375,
+      "name": "93",
+      "url": "https://open.spotify.com/track/60t1mGw9bxvVTbu9X1gzVS"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 164256,
       "name": "Son Puros Caballos",
       "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/0qiw6d8nhwseYuRY0EvmFi"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Lo Que Haces",
+      "url": "https://open.spotify.com/track/7C2tPKyTYSc8QHuow8nOrt"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1631,22 +1631,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Fuerzas Que Retroceden",
-        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
       },
       "artists": [
         {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+          "name": "Candy66",
+          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
         },
         {
-          "name": "Colombina Parra",
-          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+          "name": "Nk Profeta",
+          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
         }
       ],
-      "duration_ms": 231403,
-      "name": "Fuerzas Que Retroceden",
-      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+      "duration_ms": 342186,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Fuerzas Que Retroceden",
+        "url": "https://open.spotify.com/album/6JurjQgNwPldixxSIv3ioE"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        },
+        {
+          "name": "Colombina Parra",
+          "url": "https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk"
+        }
+      ],
+      "duration_ms": 231403,
+      "name": "Fuerzas Que Retroceden",
+      "url": "https://open.spotify.com/track/1rvLC0764wddMRkrjAgdOD"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Una Vieja Carta",
         "url": "https://open.spotify.com/album/25Dz6g8tUZuiZlihux27UJ"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 226464,
       "name": "Una Vieja Carta",
       "url": "https://open.spotify.com/track/4mdMFl8IeINEY0jZNgEdAp"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/43UVqrzDJlBR2njIY2EP2q"
-      },
-      "artists": [
-        {
-          "name": "Candy66",
-          "url": "https://open.spotify.com/artist/2TPLqqQ9arRHA6Xt7gvZTZ"
-        },
-        {
-          "name": "Nk Profeta",
-          "url": "https://open.spotify.com/artist/1vLPW52pGIXKKkcmKivXo5"
-        }
-      ],
-      "duration_ms": 342186,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/0RhJyxL2MxdkwMlCu6go71"
     }
   ],
   "unique_name": "Rock Chileno",

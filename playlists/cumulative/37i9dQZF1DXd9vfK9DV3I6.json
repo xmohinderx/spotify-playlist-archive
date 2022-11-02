@@ -1266,6 +1266,32 @@
     },
     {
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "album": {
         "name": "Fade Away (feat. Rhi'N'B)",
         "url": "https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT"
       },
@@ -1347,7 +1373,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 224727,
       "name": "Fiddle",
       "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"

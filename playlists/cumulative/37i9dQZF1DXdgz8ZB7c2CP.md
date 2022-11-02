@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Pauline Herr.
 
-292 songs - 16 hr 29 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
+293 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [ASTRAL](https://open.spotify.com/track/4xZs3f8uEyKtvuwlsQGGne) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [ASTRAL](https://open.spotify.com/album/1U5SnFdvdDd2ZyPwWgchUx) | 3:28 | 2021-08-06 |  |
 | [Autonomy](https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [Autonomy](https://open.spotify.com/album/6uO71Hk90IZluW6RxELq06) | 3:03 | 2021-08-06 | 2022-07-28 |
 | [bb u ok?](https://open.spotify.com/track/4P3bvWt7qRMqiFuNDDJiZr) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [bb u ok?](https://open.spotify.com/album/38nzrsW9xZYtccPVQLbmVb) | 3:21 | 2021-08-06 |  |
-| [Be Fine \(feat\. Wafia\)](https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 2:39 | 2021-08-06 |  |
+| [Be Fine \(feat\. Wafia\)](https://open.spotify.com/track/5eeg8Kp3tIi8BmBEdY5IM7) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [A World Away](https://open.spotify.com/album/4uMtvWQxnNxGDE9Cp28OOQ) | 2:39 | 2021-08-06 | 2022-11-02 |
 | [Be With You \(ft\. Gloria Kim\)](https://open.spotify.com/track/6O2eMeVNJnbmHC721q9EFV) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Recursion](https://open.spotify.com/album/2fm1hGoHOQ9agA0yoUKcaQ) | 3:06 | 2021-08-06 |  |
 | [Beneath Us](https://open.spotify.com/track/21LG8xoR5iNEkbIJrLvkze) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Warmth](https://open.spotify.com/album/2vkWw16SLqQKeE56HI7UNQ) | 4:06 | 2021-08-06 | 2022-07-28 |
 | [black and white](https://open.spotify.com/track/7fagIEAIqSPm2h9Bc3WgmL) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [black and white / MY FAULT](https://open.spotify.com/album/3FwjVe9KTLPcAVj1EQsz8N) | 4:01 | 2021-08-06 | 2022-07-30 |
@@ -47,6 +47,7 @@
 | [Cleopatra](https://open.spotify.com/track/6oLq9cWvEc08wo7V5DpjVl) | [GEOTHEORY](https://open.spotify.com/artist/3iIFBDnPEFpR6PCF0Tuh6w) | [Interstellar Love](https://open.spotify.com/album/6xjGHN6Ttws80C1VP0TGC6) | 3:41 | 2021-08-06 |  |
 | [Cliffs](https://open.spotify.com/track/7gnl8zbOnLzEVu5ktsvjEW) | [SoDown](https://open.spotify.com/artist/61u2rGJj9r6d7utXK0J0oS), [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz), [Bailey Flores](https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au) | [Alive](https://open.spotify.com/album/2yagJQQaCwDjcdB5t327cn) | 2:52 | 2021-10-08 |  |
 | [Close](https://open.spotify.com/track/1RRbAVWmafQ2ret0RNeubz) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [Close](https://open.spotify.com/album/1xfLQ7Mcvrze0rKFhLAXAv) | 3:54 | 2021-08-06 | 2022-07-29 |
+| [Close](https://open.spotify.com/track/6g1hNthhnctPsmIzBq1Ver) | [ALIGN](https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I) | [Close](https://open.spotify.com/album/0s7ddAC67T1Xb9s4maHvN3) | 3:54 | 2021-08-06 |  |
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2021-10-01 | 2022-06-25 |
 | [Closer 2 U](https://open.spotify.com/track/3JsDhqQSCVK5IRyQtkuxy1) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [it's the end of the world, but it's ok](https://open.spotify.com/album/6aAlEexOd6lPOaKNeIVoKR) | 3:13 | 2021-08-06 | 2022-07-29 |
 | [cloudy](https://open.spotify.com/track/13ogVSkKK2zmNGDOaaiBc9) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/0Z3FEnCOZaLw0YVnAClBfu) | 2:45 | 2021-08-06 |  |

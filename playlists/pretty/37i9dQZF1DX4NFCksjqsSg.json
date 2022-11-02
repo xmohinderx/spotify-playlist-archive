@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 24929,
+  "num_followers": 24930,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDdlNDEzYjFlNmQzNTdiOTIxNzQ1YTFlZThmZTA3NDM2",
+  "snapshot_id": "MTU4NjI3MjY5OCwwMDAwMDAwMDg1M2RhMzg3NDYzZmQ5NGE5Y2E1OTdlZThlOWJjODky",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
-      },
-      "artists": [
-        {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 247893,
       "name": "On ne change pas",
       "url": "https://open.spotify.com/track/5CHVLIj3iRl2vAh1INEw0H"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+      },
+      "artists": [
+        {
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Joe Dassin \u00c9ternel...",
-        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
-      },
-      "artists": [
-        {
-          "name": "Joe Dassin",
-          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
-        }
-      ],
-      "duration_ms": 169546,
-      "name": "A toi",
-      "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Si ce soir, Vol. 2",
         "url": "https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 273973,
       "name": "Qui a le droit... - Live \"Si ce soir\"",
       "url": "https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Joe Dassin \u00c9ternel...",
+        "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "duration_ms": 169546,
+      "name": "A toi",
+      "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -623,18 +623,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Un trou dans les nuages",
-        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
       },
       "artists": [
         {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
         }
       ],
-      "duration_ms": 319840,
-      "name": "Je voudrais voir la mer",
-      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+        "name": "Un trou dans les nuages",
+        "url": "https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN"
       },
       "artists": [
         {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
+      "duration_ms": 319840,
+      "name": "Je voudrais voir la mer",
+      "url": "https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -687,22 +687,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Learn French Thru Music",
-        "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Quelqu'un M'a Dit",
-      "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/4OXnjT7CzgxXltJx6Vmt3I"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 211293,
       "name": "Sous le vent",
       "url": "https://open.spotify.com/track/6lZ2KGdvuuYDxFSmrL5v1K"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Learn French Thru Music",
+        "url": "https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "Quelqu'un M'a Dit",
+      "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Premi\u00e8res nuits",
-        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
-      },
-      "artists": [
-        {
-          "name": "Nelson Minville",
-          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Les bras de satan",
-      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les ann\u00e9es 70",
         "url": "https://open.spotify.com/album/2YORsznrjRnPuC1RbmY6Hk"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 210746,
       "name": "Je survivrai",
       "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Premi\u00e8res nuits",
+        "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
+      },
+      "artists": [
+        {
+          "name": "Nelson Minville",
+          "url": "https://open.spotify.com/artist/7wNJ6MuaOCubifvO9o7coR"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Les bras de satan",
+      "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
     },
     {
       "added_at": "2020-04-07 15:18:18",

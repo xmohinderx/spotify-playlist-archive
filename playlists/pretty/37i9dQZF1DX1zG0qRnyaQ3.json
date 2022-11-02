@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 2937,
+  "num_followers": 3028,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMDI0MmRmNjY4NTAyN2UxYzY3NTBlODJlNTgzMDI1NDc1",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGY1YTY1NTY5MWZlMGY0ZDcwNjc4YjdjMGE4MDczZDBj",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -379,22 +379,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ"
-      },
-      "artists": [
-        {
-          "name": "Bad Cop, Bad Cop",
-          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
-        }
-      ],
-      "duration_ms": 172400,
-      "name": "Womanarchist",
-      "url": "https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "BITE BACK",
         "url": "https://open.spotify.com/album/67cm6fgju3tVa579TNHXmy"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 190657,
       "name": "BITE BACK",
       "url": "https://open.spotify.com/track/1oBFfQhQ94n8dNhL3yb9bd"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/2PNMwU8deGSm3ZylzdOcZQ"
+      },
+      "artists": [
+        {
+          "name": "Bad Cop, Bad Cop",
+          "url": "https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Womanarchist",
+      "url": "https://open.spotify.com/track/2jA9qJfG1LXe54izORPfRn"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "If There Was Ever a Time",
-        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
-      },
-      "artists": [
-        {
-          "name": "Armstrongs",
-          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
-        }
-      ],
-      "duration_ms": 161909,
-      "name": "If There Was Ever a Time",
-      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "Exiled: B-Sides",
         "url": "https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 161523,
       "name": "Tyranny",
       "url": "https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "If There Was Ever a Time",
+        "url": "https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM"
+      },
+      "artists": [
+        {
+          "name": "Armstrongs",
+          "url": "https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W"
+        }
+      ],
+      "duration_ms": 161909,
+      "name": "If There Was Ever a Time",
+      "url": "https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE"
     },
     {
       "added_at": "2021-01-16 16:36:48",

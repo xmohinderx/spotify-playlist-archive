@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">electronic</a> melancholy < / 3",
-  "num_followers": 523201,
+  "num_followers": 523505,
   "original_name": "Sad Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDlhYTg2MDc2MmI1ZmRkMzY5Yzk1NmJmYThmMGYzZjE0",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDEwZmJmNTg2MDI4YzMwZjM0YzFlNzFjOTE2YTBkY2Rl",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "I Hope That It Hurts",
-        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 160214,
-      "name": "I Hope That It Hurts",
-      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Human Touch",
         "url": "https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 145748,
       "name": "Human Touch",
       "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "I Hope That It Hurts",
+        "url": "https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 160214,
+      "name": "I Hope That It Hurts",
+      "url": "https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
-      },
-      "artists": [
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        }
-      ],
-      "duration_ms": 197779,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 169252,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK"
+      },
+      "artists": [
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        }
+      ],
+      "duration_ms": 197779,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Other Side of Love",
-        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 222425,
-      "name": "Other Side of Love",
-      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 300506,
       "name": "Poison For Lovers",
       "url": "https://open.spotify.com/track/7HerYPWrex5mg6w9FiK0wk"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Other Side of Love",
+        "url": "https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "duration_ms": 222425,
+      "name": "Other Side of Love",
+      "url": "https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Not In Love (feat. LOWES)",
-        "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "LOWES",
-          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
-        }
-      ],
-      "duration_ms": 223129,
-      "name": "Not In Love (feat. LOWES)",
-      "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Not In Love (feat. LOWES)",
+        "url": "https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "LOWES",
+          "url": "https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g"
+        }
+      ],
+      "duration_ms": 223129,
+      "name": "Not In Love (feat. LOWES)",
+      "url": "https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1639,6 +1639,30 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/4OKUYgRrUpvkapVWNlqph3"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Stryer",
+          "url": "https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac"
+        },
+        {
+          "name": "Meg & Dia",
+          "url": "https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/6UDwGDAfyHhHq2JTFbGfpv"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/1dXqbK8UQuIjX1BjDIUgkt"
       },
@@ -1675,30 +1699,6 @@
       "duration_ms": 193294,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/4OKUYgRrUpvkapVWNlqph3"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Stryer",
-          "url": "https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac"
-        },
-        {
-          "name": "Meg & Dia",
-          "url": "https://open.spotify.com/artist/77YbJ4a9IlKX18ck6qoot1"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/6UDwGDAfyHhHq2JTFbGfpv"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1771,6 +1771,22 @@
       "duration_ms": 217016,
       "name": "Treading Water",
       "url": "https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Digital Dreamscape (Deluxe)",
+        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
+      },
+      "artists": [
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 199407,
+      "name": "Right For You",
+      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1863,26 +1879,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Olivver the Kid",
-          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
-        },
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        }
-      ],
-      "duration_ms": 247122,
-      "name": "We Know Who We Are",
-      "url": "https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Love For You",
         "url": "https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg"
       },
@@ -1899,6 +1895,26 @@
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Olivver the Kid",
+          "url": "https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7"
+        },
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        }
+      ],
+      "duration_ms": 247122,
+      "name": "We Know Who We Are",
+      "url": "https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1923,26 +1939,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Where Does Love Go",
-        "url": "https://open.spotify.com/album/4ZTlaMTm9avp0E2n8TVGwI"
-      },
-      "artists": [
-        {
-          "name": "Synymata",
-          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
-        },
-        {
-          "name": "Elle Vee",
-          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
-        }
-      ],
-      "duration_ms": 263294,
-      "name": "Where Does Love Go",
-      "url": "https://open.spotify.com/track/3VUwjqEHajKn7LXUAbQU4z"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Shipwreck",
         "url": "https://open.spotify.com/album/7snKIaGE7juwYtQjIQQe87"
       },
@@ -1963,6 +1959,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Where Does Love Go",
+        "url": "https://open.spotify.com/album/4ZTlaMTm9avp0E2n8TVGwI"
+      },
+      "artists": [
+        {
+          "name": "Synymata",
+          "url": "https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "duration_ms": 263294,
+      "name": "Where Does Love Go",
+      "url": "https://open.spotify.com/track/3VUwjqEHajKn7LXUAbQU4z"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Homesick (feat. SOUNDR)",
         "url": "https://open.spotify.com/album/14bud7QbOvXC0FhVBarz1y"
       },
@@ -1979,38 +1995,6 @@
       "duration_ms": 328275,
       "name": "Homesick (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1lypBFGiKyft1PVgNp358Y"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Digital Dreamscape (Deluxe)",
-        "url": "https://open.spotify.com/album/1sZfrNrXrkhxjAXcRHEFHQ"
-      },
-      "artists": [
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        }
-      ],
-      "duration_ms": 199407,
-      "name": "Right For You",
-      "url": "https://open.spotify.com/track/0HKumeK6is7Q970OOCrGPc"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Lonely Dulcimer / In Effect",
-        "url": "https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 193741,
-      "name": "Lonely Dulcimer",
-      "url": "https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2051,6 +2035,22 @@
       "duration_ms": 161538,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Lonely Dulcimer / In Effect",
+        "url": "https://open.spotify.com/album/1zJORUI9CgL3QHBhRqy0OM"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 193741,
+      "name": "Lonely Dulcimer",
+      "url": "https://open.spotify.com/track/5vY3kwXfrDxNu8XzsbMhZi"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2231,26 +2231,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "to hell with it (Remixes)",
-        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 175780,
-      "name": "Noticed I cried - Flume Remix",
-      "url": "https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/0KUyqoyokHa7aCRSIf9Jne"
       },
@@ -2267,6 +2247,26 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6vp1C0oz3aJDzqnSzr1DD1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "to hell with it (Remixes)",
+        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 175780,
+      "name": "Noticed I cried - Flume Remix",
+      "url": "https://open.spotify.com/track/2sA3V6IQVkdO8FhWh7ZCMN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2331,6 +2331,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Tadeusz",
+          "url": "https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Fall Down",
         "url": "https://open.spotify.com/album/3BULrq5tWKnyI2GhIZfTwg"
       },
@@ -2367,26 +2387,6 @@
       "duration_ms": 181232,
       "name": "Drown (feat. Au/Ra)",
       "url": "https://open.spotify.com/track/3wDhRYT95uMrYId5wkrDbA"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/0Tgqggojp3Ww68ys5MqYM9"
-      },
-      "artists": [
-        {
-          "name": "CloudNone",
-          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
-        },
-        {
-          "name": "Tadeusz",
-          "url": "https://open.spotify.com/artist/6LKHL4tofercrPmQBtYUUP"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/4T3xGrrjx4JFaLoOA49Nxz"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2523,46 +2523,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Somehow We Lost It All",
-        "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
+        "name": "Haunt Me V.2",
+        "url": "https://open.spotify.com/album/6h8qLhlJHVIMTnhRzfk9Ya"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Pham",
-          "url": "https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3"
-        },
-        {
-          "name": "josh pan",
-          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
         }
       ],
-      "duration_ms": 179500,
-      "name": "Somehow We Lost It All",
-      "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Break The Same",
-        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Break The Same",
-      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
+      "duration_ms": 298829,
+      "name": "Haunt Me V.2",
+      "url": "https://open.spotify.com/track/6nnWFXD31Cfzek7Lli9ehd"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2591,22 +2567,46 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Haunt Me V.2",
-        "url": "https://open.spotify.com/album/6h8qLhlJHVIMTnhRzfk9Ya"
+        "name": "Break The Same",
+        "url": "https://open.spotify.com/album/5H5YKFjy1FRbo5TCN1MDvZ"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
         },
         {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
         }
       ],
-      "duration_ms": 298829,
-      "name": "Haunt Me V.2",
-      "url": "https://open.spotify.com/track/6nnWFXD31Cfzek7Lli9ehd"
+      "duration_ms": 196721,
+      "name": "Break The Same",
+      "url": "https://open.spotify.com/track/06e5O2EVUkUIRrDGGXsegJ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Somehow We Lost It All",
+        "url": "https://open.spotify.com/album/3fIiWSfrNefw3VTA0buoq4"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Pham",
+          "url": "https://open.spotify.com/artist/2GH5uRMxmuAWn90B8DEZU3"
+        },
+        {
+          "name": "josh pan",
+          "url": "https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Somehow We Lost It All",
+      "url": "https://open.spotify.com/track/0g66FWakF5IcElzf6ATayB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2675,26 +2675,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5sI2vLuEhKYxtA47eeDIy1"
-      },
-      "artists": [
-        {
-          "name": "Mandrazo",
-          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
-        },
-        {
-          "name": "Jon Becker",
-          "url": "https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr"
-        }
-      ],
-      "duration_ms": 171636,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0D2JFwjnMhM6qgVUcFQdeI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5H6qeMqv8UxMxvBTHzZ7Hc"
       },
@@ -2711,6 +2691,26 @@
       "duration_ms": 280125,
       "name": "Can't Help Myself",
       "url": "https://open.spotify.com/track/5j1Hz9qgKAYdMSlD592Vks"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5sI2vLuEhKYxtA47eeDIy1"
+      },
+      "artists": [
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "Jon Becker",
+          "url": "https://open.spotify.com/artist/5jRx3N76S5n2Wx9lU0g9Lr"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0D2JFwjnMhM6qgVUcFQdeI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2863,6 +2863,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Happiness, Guaranteed",
+        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 223650,
+      "name": "The Trouble with Us",
+      "url": "https://open.spotify.com/track/6zsoP81Lhi2XfAb0k1ZULN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/5u9TttJhMf103obJNBYlnP"
       },
@@ -2895,22 +2911,6 @@
       "duration_ms": 170480,
       "name": "Bad For Me - 49th & Main Remix",
       "url": "https://open.spotify.com/track/38FA5zTDl8fQY0mGoCosxd"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Happiness, Guaranteed",
-        "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 223650,
-      "name": "The Trouble with Us",
-      "url": "https://open.spotify.com/track/6zsoP81Lhi2XfAb0k1ZULN"
     },
     {
       "added_at": "2022-10-28 04:01:00",

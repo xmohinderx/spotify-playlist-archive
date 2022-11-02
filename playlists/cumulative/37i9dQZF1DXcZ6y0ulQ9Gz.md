@@ -4,13 +4,14 @@
 
 > Your favourite indie tracks in one place\.  Cover: Steve Lacy
 
-593 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+594 songs - 1 day 12 hr 6 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10%](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2022-08-23 |  |
 | [1234](https://open.spotify.com/track/4MtkmGngLtWzv0Bz1rfMCz) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/5wrv5Dre5uqI9Ne2A5dpT1) | 3:03 | 2020-10-29\* | 2022-04-14 |
 | [19.10](https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 5:08 | 2021-02-23 | 2022-04-15 |
+| [2725](https://open.spotify.com/track/56RTzSMcU5EQ8rSsTarKA6) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/6hgC7Jlj5suK4bR4F7RYTc) | 3:21 | 2022-09-23 |  |
 | [2725](https://open.spotify.com/track/5qYP2Jpli9QkYdgqAy5DEV) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Permanent Maniac](https://open.spotify.com/album/4beiEpxAm9hGTRYGgdOdyS) | 3:21 | 2021-02-23 | 2022-10-13 |
 | [5 dollars](https://open.spotify.com/track/1TVBQ71mvtYvSwYEMkFDtO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [5 dollars](https://open.spotify.com/album/6Y6dOXL6hRQnwU9LxOK2dM) | 3:28 | 2021-02-22 | 2022-04-15 |
 | [50//50](https://open.spotify.com/track/36lNDeaRf8F8aYaP0zaHpm) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [Metro City](https://open.spotify.com/album/38xbAu3iEETF1Z9RiBlkTf) | 4:06 | 2020-10-29\* | 2022-04-13 |
@@ -291,7 +292,7 @@
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-08-23 |  |
 | [Keep Moving](https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938) | 4:00 | 2021-06-01 | 2021-08-21 |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2022-08-23 | 2022-10-13 |
-| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-01-19 |  |
+| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-01-19 | 2022-11-02 |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-08-23 |  |
 | [Kissing](https://open.spotify.com/track/4KBut1oQTHuF5uWCnPV9wr) | [POSTDATA](https://open.spotify.com/artist/05mMvlRkzuup4xMEKV8619) | [Twin Flames](https://open.spotify.com/album/1Ol2zdK8I3HJLjIIWTQQVr) | 3:20 | 2021-07-20 | 2022-04-12 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-08-23 |  |
@@ -365,7 +366,7 @@
 | [No More](https://open.spotify.com/track/6K2t7lzlEqkTaP20K0I6KW) | [Steve Benjamins](https://open.spotify.com/artist/5nHEPNlQQ68cmxxvvF1CVl) | [No More](https://open.spotify.com/album/4sxoGSFT8Uq2ogtHPMfMTs) | 3:45 | 2020-10-29\* | 2022-04-13 |
 | [No Nightmares](https://open.spotify.com/track/09lzbPVfBU99ITkfQoizj0) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Midday Suite](https://open.spotify.com/album/6BNLL0JS1v4F4aLYFrOvYe) | 4:06 | 2021-03-19 | 2022-05-14 |
 | [Norton Commander \(All We Need\)](https://open.spotify.com/track/5KZiiK8dvTgXaVnegsvvBz) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Norton Commander \(All We Need\)](https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh) | 3:26 | 2021-02-22 | 2022-04-09 |
-| [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 | 2022-08-23 | 2022-10-27 |
+| [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 | 2022-08-23 |  |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-19 | 2022-07-29 |
 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2022-09-23 |  |
 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 | 2022-08-23 | 2022-10-13 |

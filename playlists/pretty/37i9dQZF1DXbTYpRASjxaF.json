@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: PL Quest, Major RD, BIN",
-  "num_followers": 81154,
+  "num_followers": 81237,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDhhMTc1ZTlhMzc0YWZmNDY0NmIyMTRlY2I2ZjQ3ZmMx",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDliMjdkMTQ5MDhkMmE4NjNiODU1ODZiZTRiZGZjMGI4",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -710,6 +710,10 @@
         {
           "name": "MC GP",
           "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "DJ Oreia",
+          "url": "https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI"
         }
       ],
       "duration_ms": 338823,
@@ -991,6 +995,38 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Pelo Momento",
+        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Pelo Momento",
+      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Vivendo no Auge",
         "url": "https://open.spotify.com/album/2ue3fh5fhRh3iREWhHTPJj"
       },
@@ -1151,38 +1187,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Pelo Momento",
-        "url": "https://open.spotify.com/album/60veED0O3LYv6AnCQ7P0ZC"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Pelo Momento",
-      "url": "https://open.spotify.com/track/3VGfEHmAaSm8qSTFs74Xq0"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Fio a Fio",
         "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
       },
@@ -1255,50 +1259,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Pelos Acessos",
-        "url": "https://open.spotify.com/album/5Lb8r5i2uJfiS0KhamAO5S"
-      },
-      "artists": [
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "Pelos Acessos",
-      "url": "https://open.spotify.com/track/1IlPtjYsF2PzEKIDty5UPU"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "T\u00e1 Querendo",
-        "url": "https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "T\u00e1 Querendo",
-      "url": "https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "SET - Sai pra L\u00e1 Invejoso",
         "url": "https://open.spotify.com/album/1IR8miKAv5uRxNvZXfs9Yr"
       },
@@ -1339,6 +1299,50 @@
       "duration_ms": 375903,
       "name": "SET - Sai pra L\u00e1 Invejoso",
       "url": "https://open.spotify.com/track/4ya6fQpmRWfJUPjR78cZsP"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Pelos Acessos",
+        "url": "https://open.spotify.com/album/5Lb8r5i2uJfiS0KhamAO5S"
+      },
+      "artists": [
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "Pelos Acessos",
+      "url": "https://open.spotify.com/track/1IlPtjYsF2PzEKIDty5UPU"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "T\u00e1 Querendo",
+        "url": "https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "T\u00e1 Querendo",
+      "url": "https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX"
     },
     {
       "added_at": "2022-10-28 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5308,
+  "num_followers": 5320,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMGJhYzQ3MDBmNTgwMmVkZjRjYjY1ZThkOGI3N2IxZDkx",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDk2ZGFjOTcyNDk1NTUzYjViYTRmYWQ1MGJkNjczMzdi",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -639,8 +639,8 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Like A Movie",
-        "url": "https://open.spotify.com/album/5VJSRZsnE47eEGPKHyAA1Z"
+        "name": "It's Real",
+        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 270240,
-      "name": "\uc548\ub418\ub098\uc694",
-      "url": "https://open.spotify.com/track/52JY05Ks2OsY3NQ3wjI9s1"
+      "duration_ms": 210293,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "It's Real",
-        "url": "https://open.spotify.com/album/1XhwZEKRfvdHEaYIQkdasu"
-      },
-      "artists": [
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/0cPPyoGJkteS3kBHfsV7qE"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "It's Unique",
         "url": "https://open.spotify.com/album/38nBVXCPRp1GS5mRu8MabS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 277746,
       "name": "\uc5ec\uc790",
       "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+      },
+      "artists": [
+        {
+          "name": "J",
+          "url": "https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
       },
       "artists": [
         {
-          "name": "J",
-          "url": "https://open.spotify.com/artist/0pwxHyrzsUtx7GgGwNHBXT"
+          "name": "Gummy",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
+      "duration_ms": 288693,
+      "name": "If You Comeback",
+      "url": "https://open.spotify.com/track/7A8iC2yCrq39b2DKej9ek1"
     }
   ],
   "unique_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",

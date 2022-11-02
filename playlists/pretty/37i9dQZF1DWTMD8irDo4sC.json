@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 46790,
+  "num_followers": 46833,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMGQyMzY5ZDFlYmYyNWJjYjE4OTRjMWEzZWI0NTg3MjVi",
+  "snapshot_id": "MTY1NjQxNTIxOSwwMDAwMDAwMDI1NDE3YWI5YjZmZmEwYjRlYWY2ZGU0ZTZmNDk2NjMy",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 256998,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Ici et ailleurs",
         "url": "https://open.spotify.com/album/5pFD8nwMcsalVTJp3fZQcd"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 333200,
       "name": "La corrida (with Francis Cabrel)",
       "url": "https://open.spotify.com/track/1pg1FFCDl0wiDM0FBV6EZM"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 256998,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
-        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
+        "name": "Oumniya",
+        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
       },
       "artists": [
         {
-          "name": "Roxs9",
-          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
         }
       ],
-      "duration_ms": 268861,
-      "name": "\u062f\u0631\u0631",
-      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
+      "duration_ms": 264506,
+      "name": "Salam",
+      "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Oumniya",
-        "url": "https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb"
+        "name": "\u062f\u064f\u0631\u064e\u0631\u0652",
+        "url": "https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Roxs9",
+          "url": "https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru"
         }
       ],
-      "duration_ms": 264506,
-      "name": "Salam",
-      "url": "https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr"
+      "duration_ms": 268861,
+      "name": "\u062f\u0631\u0631",
+      "url": "https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY"
     },
     {
       "added_at": "2022-05-09 08:05:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Photo : Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,684 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,764 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 18 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 |
 | 19 | [Love Story](https://open.spotify.com/track/2wJeDPbOfGRhzVLSQdjSgS) | [Scott Bradlee's Postmodern Jukebox](https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc), [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Love Story](https://open.spotify.com/album/5oKYZptTBjlXmQKjkpwBrf) | 3:51 |
 | 20 | [Coming Back To You](https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Coming Back To You](https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31) | 3:40 |
-| 21 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/1FrPD7V10rJh8TAluBjsoE) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
+| 21 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
 | 22 | [Yéné](https://open.spotify.com/track/3w1A8Rd2PYlG8EKm6M4Wbk) | [Julia Sarr](https://open.spotify.com/artist/63bcYokTSsAHALwg2Q63gh) | [Yéné](https://open.spotify.com/album/4OXhyeHzfweng5kALtgrNW) | 3:02 |
 | 23 | [Disco Ears](https://open.spotify.com/track/5li75DMlmHshiqcMStzxhF) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [LongGone \(feat\. Brad Mehldau, Christian McBride & Brian Blade\)](https://open.spotify.com/album/52Vr22XzeD9rIOnOQ3OSKR) | 6:21 |
 | 24 | [Follow the Light](https://open.spotify.com/track/5P0RMEJOgtGcZIq5wYjYei) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/4BqX5iSPXbStNLbdzjURGi) | [Follow the Light](https://open.spotify.com/album/464mXSRcytt5W0mq22FMMt) | 5:03 |

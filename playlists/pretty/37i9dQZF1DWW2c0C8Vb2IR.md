@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. Cover: Emmet Cohen
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,204 likes - 38 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,283 likes - 38 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 5 | [Feel The Bern \- Alt Take](https://open.spotify.com/track/5GejWU6QiLcFJZ8Ix3S9cr) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Outtakes: 'Law of Attraction' Session](https://open.spotify.com/album/32CGaiQQg3wSczmFF3qcYo) | 2:00 |
 | 6 | [Xania](https://open.spotify.com/track/3x17E5sBQN3Vu6lXTW6i0u) | [Dzihan & Kamien](https://open.spotify.com/artist/0jyyByk1ca4r8gaqMYVPUI) | [Xania](https://open.spotify.com/album/1JdMZ5dGl8ywzTvOlSoq3j) | 4:24 |
 | 7 | [Says Who?](https://open.spotify.com/track/0wG3quHH2CS5EDGzGy3mce) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [Says Who?](https://open.spotify.com/album/06JddwtYMzxFPYKMNZm5tw) | 5:48 |
-| 8 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/1FrPD7V10rJh8TAluBjsoE) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
+| 8 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
 | 9 | [Kantine](https://open.spotify.com/track/5OaD0R2xpY3dheQ3s2JXCF) | [Radio Citizen](https://open.spotify.com/artist/2tPR0lWEWNyDUHPeVEhewu) | [Kantine](https://open.spotify.com/album/3DMbmuLxjPzya3jm2z2dDA) | 4:42 |
 | 10 | [Altitude](https://open.spotify.com/track/3CenbjLIeMtRljimDmUmQ1) | [Garrett Saracho](https://open.spotify.com/artist/2SXkZQ9Q60ce935l5eGwud), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Altitude](https://open.spotify.com/album/5eEfq2KSgRHxWxYvfsEYyV) | 3:29 |
 | 11 | [Cheek to Cheek](https://open.spotify.com/track/5ayqfSRFRADRSG7rQYNhMg) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL) | [Massimo Farao Plays the Great Jazz American Composers: Irving Berlin, Vol\. 2](https://open.spotify.com/album/7vFpTujOKVHFRIjom3BPlx) | 5:46 |

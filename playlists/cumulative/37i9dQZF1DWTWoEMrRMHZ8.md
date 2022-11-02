@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Francisco, el Hombre
 
-322 songs - 19 hr 31 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+323 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Baby \- Ao Vivo](https://open.spotify.com/track/5YctcwZCRMxlIHDpTuqKOE) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Baby \(Ao Vivo\)](https://open.spotify.com/album/5Tk4wmf1IgEPPq36yD4G7Z) | 3:07 | 2021-12-24 |  |
 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 | 2021-12-24 | 2022-06-04 |
 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [Lucas Nunes](https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW) | [SIM SIM SIM \(Lado A\)](https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ) | 5:03 | 2022-01-27 | 2022-03-09 |
-| [Banho de Cheiro](https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Banho de Cheiro](https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5) | 3:13 | 2022-04-29 |  |
+| [Banho de Cheiro](https://open.spotify.com/track/1rpKo0qWagKkzkNEl97gHa) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Banho de Cheiro](https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5) | 3:13 | 2022-04-29 | 2022-11-02 |
+| [Banho de Cheiro](https://open.spotify.com/track/4HdKCNf0qZ0weLDBsZKJl5) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 3:13 | 2022-10-28 |  |
 | [Banho Maria](https://open.spotify.com/track/0cScxB1Ymzyq4xNMCACz2T) | [Clara & Flaira](https://open.spotify.com/artist/2HU7yNOUZ8YmwAdeGaJ2KT), [Flaira Ferro](https://open.spotify.com/artist/3gmFXyR7bHc8wQW3y6c2UI) | [Banho Maria](https://open.spotify.com/album/5XlGLQPexv2b0SAGycuz4r) | 4:48 | 2022-08-26 | 2022-09-03 |
 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 | 2022-06-24 |  |
 | [Bate Folha](https://open.spotify.com/track/1IpGf2o9ltmwBCmoZIAHjM) | [Neila Kadhí](https://open.spotify.com/artist/47HGZbxX41Scp2vCevPIwP) | [Bate Folha](https://open.spotify.com/album/6nN1gMK31AKWMf974PHkIV) | 3:12 | 2022-07-15 | 2022-07-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 
 > Dulces canciones para disfrutar con tus bebés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,538 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,569 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 22 | [Arrurrú](https://open.spotify.com/track/25EyD8t5rxJIu401VPBOJl) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Canciones de Luna](https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL) | 2:33 |
 | 23 | [A Eme O](https://open.spotify.com/track/3tM2iXXrWYNrv1yvvgiBhn) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:27 |
 | 24 | [Nana Boruca](https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz) | [Mariana Baggio](https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx) | [Nana Boruca](https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ) | 1:41 |
-| 25 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
-| 26 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 |
+| 25 | [Farolito \(with Gilberto Gil\)](https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 2:41 |
+| 26 | [Tu Guardián](https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:25 |
 | 27 | [Un Mundo Ideal](https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:20 |
 | 28 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/5axMcmrGtshbBUIThgmIis) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena de Avalor](https://open.spotify.com/album/1IPKeos1MgU37PeWiAIpOw) | 1:02 |
 | 29 | [El Gato Hace Miau](https://open.spotify.com/track/7GlXWq8tvrcrQjkHlqVBwd) | [Canciones Infantiles](https://open.spotify.com/artist/2KRUmUbmOXybsu6inukf5C), [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv), [Musica Infantil](https://open.spotify.com/artist/0mTNO73sdURw1cFY9dGirU) | [Musica Infantil](https://open.spotify.com/album/2CCA1nSPub1VdTROW7tnB3) | 0:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLRILp4Jb3D.md) - [plain]
 | 47 | [Cinco Ranas Con Pequitas](https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya) | [Luis Pescetti](https://open.spotify.com/artist/1G1eDCwDbEX8SQwhq7fPmJ) | [Él Empezó Primero \(Show En Vivo\)](https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ) | 2:49 |
 | 48 | [De La Luna Al Sol](https://open.spotify.com/track/4dJEKzBZLrdF7dzeixyrIF) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Siguiente](https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3) | 4:36 |
 | 49 | [Vivir Mi Vida](https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4) | [Marc Anthony For Babies](https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA) | [Marc Anthony For Babies](https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa) | 4:15 |
-| 50 | [Esta Noche Es Para Amar](https://open.spotify.com/track/7DAGQT2LDafeGUdAxTptMe) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Esta Noche Es Para Amar](https://open.spotify.com/album/4fbnK0iTPsM3XweHucKYV3) | 4:01 |
+| 50 | [Estrellita Viajera](https://open.spotify.com/track/5H7jtG5w71nlDSGG5CI4cZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mariposa Azul](https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU) | 4:24 |
 
-Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMDA0M2E1NGY5OWJjOTBhYTM3M2YzOGE4OWFkODUzNzkw`
+Snapshot ID: `MTY0MjY5Njg1MywwMDAwMDAwMGVhODUyNDU5N2MwYTVhN2VmMDJjNjRiZGEzZWY1NTc2`

@@ -4,7 +4,7 @@
 
 > Our editorial picks for Indie's best of 2021 in Canada\. Cover: EKKSTACY
 
-132 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
+134 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/0rSmcrhhqMQpl4IftmXXUs)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 | 2021-12-01 |  |
 | [Chanson pour Bérénice Einberg](https://open.spotify.com/track/5uyRqg6TNVaj6r0tajpN1E) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 4:05 | 2021-12-01 |  |
 | [Chemtrails Over The Country Club](https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 4:31 | 2021-12-01 |  |
-| [Cherry Pit \- Single Version](https://open.spotify.com/track/7iiCeFMoZmZAgv54b8z1YT) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Cherry Pit](https://open.spotify.com/album/0rKzTuW2VrRmM8YqMtTQ5h) | 4:13 | 2021-12-01 |  |
+| [Cherry Pit \- Single Version](https://open.spotify.com/track/2xmueZVbvgL9YYlQgOMtFJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Cherry Pit](https://open.spotify.com/album/0C6dO7sggwvVOfZ6qpjUAX) | 4:13 | 2021-12-01 |  |
+| [Cherry Pit \- Single Version](https://open.spotify.com/track/7iiCeFMoZmZAgv54b8z1YT) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Cherry Pit](https://open.spotify.com/album/0rKzTuW2VrRmM8YqMtTQ5h) | 4:13 | 2021-12-01 | 2022-11-02 |
 | [Cherry Pit \- Single Version](https://open.spotify.com/track/7tk81z5XENQIhBEfx6RIL9) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Cherry Pit](https://open.spotify.com/album/36MGuMQhbmCMRUNTFXsPd4) | 4:13 | 2021-12-01 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2021-12-01 | 2022-10-13 |
 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2021-12-01 |  |
@@ -71,8 +72,9 @@
 | [Jour 2](https://open.spotify.com/track/3B7a1fozTekJqujfDIJ7Av) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/1iWXfCQ5mVVcvLtxJYyfPq) | 4:41 | 2021-12-01 | 2022-07-29 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-12-01 |  |
 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 | 2021-12-01 |  |
+| [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2021-12-01 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-12-01 | 2022-10-13 |
-| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 |  |
+| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 | 2022-11-02 |
 | [Kids Who Stole The World](https://open.spotify.com/track/38tQ8s4desma462ExN10T6) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:20 | 2021-12-01 |  |
 | [Kids Who Stole the World](https://open.spotify.com/track/5HFFcMP80Eq1zflKDWm4Kh) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Kids Who Stole the World](https://open.spotify.com/album/4OZqamFVv7ji1sgxdcNDVr) | 3:20 | 2021-12-01 | 2022-07-29 |
 | [Laced](https://open.spotify.com/track/1iBC7TB3HjP42M0eBoNp6c) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Must Come Spring](https://open.spotify.com/album/4bNdNEMcCcSSW9wfqk6Fon) | 3:40 | 2021-12-01 |  |

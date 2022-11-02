@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s",
-  "num_followers": 579894,
+  "num_followers": 580140,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMGQ2YTdkZjA2NzVjZjBmYzg1OWE2MDg0N2MxZGFkNTBi",
+  "snapshot_id": "MTY2MTkyODM0NCwwMDAwMDAwMDc0OGUyZTI2ZjI4ZGQzODU0NzcyYTQ3MGIwMDNmZTk2",
   "tracks": [
     {
       "added_at": "2022-08-31 06:45:44",
@@ -683,18 +683,22 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+        "name": "Oro Salsero (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Edgar Joel",
+          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
+        },
+        {
+          "name": "Anthony Colon",
+          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
         }
       ],
-      "duration_ms": 317586,
-      "name": "Caradura",
-      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
+      "duration_ms": 281960,
+      "name": "Hasta El Sol De Hoy",
+      "url": "https://open.spotify.com/track/5WclvUYBMB0461AqVf2SNm"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -715,22 +719,18 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/0xpohAmHs1FIAlWliG4IDz"
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
       },
       "artists": [
         {
-          "name": "Edgar Joel",
-          "url": "https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A"
-        },
-        {
-          "name": "Anthony Colon",
-          "url": "https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir"
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
         }
       ],
-      "duration_ms": 281960,
-      "name": "Hasta El Sol De Hoy",
-      "url": "https://open.spotify.com/track/5WclvUYBMB0461AqVf2SNm"
+      "duration_ms": 317586,
+      "name": "Caradura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Ya No Queda Nada - Salsa Version",
-      "url": "https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 302733,
       "name": "Voy A Conquistar Tu Amor",
       "url": "https://open.spotify.com/track/1RbjmUfYA4rH0OXpS1JvYx"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Ya No Queda Nada - Salsa Version",
+      "url": "https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
+        "name": "Mis Amores",
+        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 307386,
+      "name": "Bailemos Otra Vez",
+      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
-        "name": "Mis Amores",
-        "url": "https://open.spotify.com/album/4QcUkOX9DED7QTsHLW2FN0"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alberto \"El Canario\"",
-          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
-        }
-      ],
-      "duration_ms": 307386,
-      "name": "Bailemos Otra Vez",
-      "url": "https://open.spotify.com/track/7CElrb5b1CNzbbLUaBynyO"
     },
     {
       "added_at": "2022-08-31 06:45:44",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-31 06:45:44",
       "album": {
-        "name": "Sus Exitos",
-        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
-      },
-      "artists": [
-        {
-          "name": "Orlando Collado",
-          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Llorando",
-      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
-    },
-    {
-      "added_at": "2022-08-31 06:45:44",
-      "album": {
         "name": "Sue\u00f1o Contigo",
         "url": "https://open.spotify.com/album/127Z5jLS1wkkfTgPPLWDci"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 267693,
       "name": "Hoy Quiero Confesar",
       "url": "https://open.spotify.com/track/5I3skDSMEYBLhKQBBkGIyF"
+    },
+    {
+      "added_at": "2022-08-31 06:45:44",
+      "album": {
+        "name": "Sus Exitos",
+        "url": "https://open.spotify.com/album/34dZAoWWPEVQVbJBtZil6E"
+      },
+      "artists": [
+        {
+          "name": "Orlando Collado",
+          "url": "https://open.spotify.com/artist/1d8qTTb4e1ZR1EuKzlhIeh"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Llorando",
+      "url": "https://open.spotify.com/track/3xt4LD7CTYxTA5kJSnGeI4"
     },
     {
       "added_at": "2022-08-31 06:45:44",

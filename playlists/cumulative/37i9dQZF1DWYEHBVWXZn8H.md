@@ -4,7 +4,7 @@
 
 > The essential tracks, all in one playlist.
 
-123 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
+125 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/0oElCuxJ6tGmauIUa0OXSM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,10 +123,12 @@
 | [Waiting for You](https://open.spotify.com/track/1aaUv9RdPa2zEKvaxbHHpc) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/6UOvMBrdfOWGqSvtQohiso) | 3:54 | 2021-02-24 | 2022-10-13 |
 | [Waiting for You](https://open.spotify.com/track/1cmlwljf7RpV5t0KGLWR9O) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 3:54 | 2021-02-24 |  |
 | [We Call Upon the Author](https://open.spotify.com/track/6Xy8yTxhKworfQRuMfG3a9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:11 | 2021-02-24 |  |
-| [We Real Cool](https://open.spotify.com/track/2ZzMJjMfJEUtOCYXLX9NqY) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 4:18 | 2021-02-24 |  |
+| [We Real Cool](https://open.spotify.com/track/2ZzMJjMfJEUtOCYXLX9NqY) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 4:18 | 2021-02-24 | 2022-11-02 |
+| [We Real Cool](https://open.spotify.com/track/4FcdvAtBFWP1KSNKs9vRmy) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA) | 4:18 | 2021-02-24 |  |
 | [Where the Wild Roses Grow](https://open.spotify.com/track/1L8SrVwjhIRsUdM7TkQprW) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(Remastered\)](https://open.spotify.com/album/7rShDcOhzRIRNAowXWCxbA) | 3:57 | 2021-02-24 | 2022-07-29 |
 | [Where the Wild Roses Grow \- 2011 \- Remaster](https://open.spotify.com/track/3OwtuzRo8mc7lgsBau9MWk) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Murder Ballads \(2011 Remastered Version\)](https://open.spotify.com/album/0SJIg249cRWdGWEcqXsYyW) | 3:57 | 2021-02-24 |  |
-| [Wide Lovely Eyes](https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 3:40 | 2021-02-24 |  |
+| [Wide Lovely Eyes](https://open.spotify.com/track/1Bd9l1oY7kbsW3VaVKjtjw) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA) | 3:40 | 2021-02-24 |  |
+| [Wide Lovely Eyes](https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 3:40 | 2021-02-24 | 2022-11-02 |
 | [Worm Tamer](https://open.spotify.com/track/51Or6IasXwy1X0CSEvgPRx) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman 2](https://open.spotify.com/album/13v92RQAMAswi6KpZPWTuY) | 3:13 | 2021-02-24 | 2022-07-29 |
 | [Worm Tamer](https://open.spotify.com/track/6LYZrlstXYeh83TPvWssqt) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman 2](https://open.spotify.com/album/5XqENSDSTSveo4eBTwjrW1) | 3:13 | 2021-02-24 |  |
 | [Your Funeral My Trial](https://open.spotify.com/track/1jKpEzpSFhtt7hQOkv43xO) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Your Funeral..\. My Trial](https://open.spotify.com/album/2tCVmRY54oIgYASh50Ra4Q) | 3:56 | 2021-02-24 | 2022-07-29 |

@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Kodak Black, Polo G and Juice WRLD.
+> R.I.P\. Takeoff of Migos.
 
 1,410 songs - 3 day 0 hr 32 min - [published](https://open.spotify.com/playlist/5P8tKmuueRelbQ17C8xRQo)
 

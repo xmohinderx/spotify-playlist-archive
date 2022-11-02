@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
-  "num_followers": 2116,
+  "num_followers": 2146,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGZlNzk0OTRkNjQ3NWZmZDE1Mjc4MDBkNTk1ZTE3NTky",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDZhNWE5YzlhYjlkOTViZmU4ZDNlNWJlM2YyZDVhY2I4",
   "tracks": [
     {
       "added_at": "2022-09-29 21:59:00",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/0RAXgMtZEM2KFwbsVqFCYU"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
-      },
-      "artists": [
-        {
-          "name": "Rishi Love",
-          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
-        }
-      ],
-      "duration_ms": 334426,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Don\u2019t Get Me Wrong",
@@ -479,6 +463,22 @@
       "duration_ms": 473861,
       "name": "Don\u2019t Get Me Wrong",
       "url": "https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/0GFxNIeMT1jk4hTcsZd9gN"
+      },
+      "artists": [
+        {
+          "name": "Rishi Love",
+          "url": "https://open.spotify.com/artist/1bI8u8VgDBcvvewp3b8dOV"
+        }
+      ],
+      "duration_ms": 334426,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "BAUHAUS",
+        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
+      },
+      "artists": [
+        {
+          "name": "TimAdeep",
+          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
+        }
+      ],
+      "duration_ms": 482979,
+      "name": "BAUHAUS",
+      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "Dafrotone",
         "url": "https://open.spotify.com/album/5zNeFm1L1C6UALDQqnRg9N"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "BAUHAUS",
-        "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
-      },
-      "artists": [
-        {
-          "name": "TimAdeep",
-          "url": "https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq"
-        }
-      ],
-      "duration_ms": 482979,
-      "name": "BAUHAUS",
-      "url": "https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
         "name": "Ndoyiswe",
         "url": "https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq"
       },
@@ -811,30 +811,6 @@
       "duration_ms": 325593,
       "name": "Ndoyiswe",
       "url": "https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w"
-    },
-    {
-      "added_at": "2022-09-19 09:57:52",
-      "album": {
-        "name": "Out Out",
-        "url": "https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2"
-      },
-      "artists": [
-        {
-          "name": "LevyM",
-          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
-        },
-        {
-          "name": "Yves Eaux",
-          "url": "https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F"
-        },
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        }
-      ],
-      "duration_ms": 428000,
-      "name": "Out Out",
-      "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -871,6 +847,30 @@
       "duration_ms": 332000,
       "name": "My Heartbeat For You",
       "url": "https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs"
+    },
+    {
+      "added_at": "2022-09-19 09:57:52",
+      "album": {
+        "name": "Out Out",
+        "url": "https://open.spotify.com/album/5XY8XVFgy6QdcR5Jh7x2j2"
+      },
+      "artists": [
+        {
+          "name": "LevyM",
+          "url": "https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg"
+        },
+        {
+          "name": "Yves Eaux",
+          "url": "https://open.spotify.com/artist/3wTpIwiVkuSC7toZZpqv4F"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "duration_ms": 428000,
+      "name": "Out Out",
+      "url": "https://open.spotify.com/track/01GL8puSkU5QHyf8pLdiyj"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -937,36 +937,40 @@
       "url": "https://open.spotify.com/track/0T9yadECNVRHdd09OhRS2u"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
+      "added_at": "2022-09-29 21:59:00",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/1cuuxsujV2CDpUAK2B4mnj"
+        "name": "G.E.N.U.F.L.E.X.I.O.N",
+        "url": "https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD"
       },
       "artists": [
         {
-          "name": "Kek'star",
-          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+          "name": "Nini Maluks",
+          "url": "https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT"
+        },
+        {
+          "name": "Pascale Yav",
+          "url": "https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75"
         }
       ],
-      "duration_ms": 368326,
-      "name": "Safari - Original Mix",
-      "url": "https://open.spotify.com/track/5C2yySU4ikyeeqkD3ULcBf"
+      "duration_ms": 497534,
+      "name": "E.O.L (Extraordinary Life) (Original LP Mix)",
+      "url": "https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc"
     },
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
-        "name": "Enemies By Monday",
-        "url": "https://open.spotify.com/album/5zHZUfKSjM3kmpcjnj9CQp"
+        "name": "Dusty Streets",
+        "url": "https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6"
       },
       "artists": [
         {
-          "name": "Graham Deep",
-          "url": "https://open.spotify.com/artist/3PMsRDsMJopoHrverCOp1R"
+          "name": "Eddvin",
+          "url": "https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq"
         }
       ],
-      "duration_ms": 408426,
-      "name": "Schr\u00f6dinger's Cat",
-      "url": "https://open.spotify.com/track/0rXVfF7ICT4NpN0p3PfUb0"
+      "duration_ms": 386525,
+      "name": "Dusty Streets",
+      "url": "https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q"
     }
   ],
   "unique_name": "Deep House Session",

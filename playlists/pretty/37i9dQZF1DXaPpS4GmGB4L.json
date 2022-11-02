@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 28575,
+  "num_followers": 28649,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTQwNjM3OCwwMDAwMDAwMDdiYTZiYmI5MzE0OWI0ZDMxZDhjMDZmMjBjODhiN2Yz",
+  "snapshot_id": "MTY2NTQwNjM3OCwwMDAwMDAwMDIwZjNjN2U2NmUyYTFlYWJmMTM4YzNkZDgwZGNjZTU1",
   "tracks": [
     {
       "added_at": "2022-10-10 12:52:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-10 12:52:58",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2022-10-10 12:52:58",
-      "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 275303,
       "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
       "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
+    },
+    {
+      "added_at": "2022-10-10 12:52:58",
+      "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
     },
     {
       "added_at": "2022-10-10 12:52:58",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-10 12:52:58",
       "album": {
-        "name": "The Blues Album",
-        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Stop Messin' Round",
-      "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
-    },
-    {
-      "added_at": "2022-10-10 12:52:58",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 263960,
       "name": "Midnight In Memphis",
       "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
+    },
+    {
+      "added_at": "2022-10-10 12:52:58",
+      "album": {
+        "name": "The Blues Album",
+        "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Stop Messin' Round",
+      "url": "https://open.spotify.com/track/1sHmkDWe8U8SDqMZKfgTLO"
     },
     {
       "added_at": "2022-10-10 12:52:58",

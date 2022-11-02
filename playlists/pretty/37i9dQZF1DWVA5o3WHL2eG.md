@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: BABYJOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,356 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,351 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,34 +29,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [Erstmal Essen](https://open.spotify.com/track/00SCoeeKghqbYfxHSRV64D) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Erstmal Essen](https://open.spotify.com/album/14APsRnvqOWgceB3DqwciA) | 2:03 |
 | 20 | [Adalam Va!](https://open.spotify.com/track/0BJkSAC37xEAJW2a9yTeoq) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Adalam Va!](https://open.spotify.com/album/7EfP6nv2SPsU13Da432qIf) | 2:22 |
 | 21 | [Resistance](https://open.spotify.com/track/7lg9WJsAXWSyIHvBOhPZj5) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Resistance](https://open.spotify.com/album/69XdhOO9jy0S6SHL2yRUit) | 6:34 |
-| 22 | [Got 2 Know \(feat\. SHELLS\) \- Radio Edit](https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Got 2 Know \(feat\. SHELLS\)](https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX) | 2:24 |
-| 23 | [Morio Muskat](https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Morio Muskat](https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc) | 2:44 |
-| 24 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 |
+| 22 | [Separate Us](https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Separate Us](https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz) | 3:21 |
+| 23 | [Got 2 Know \(feat\. SHELLS\) \- Radio Edit](https://open.spotify.com/track/5dYHeKMZtAgwE1GU1HY7RE) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Got 2 Know \(feat\. SHELLS\)](https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX) | 2:24 |
+| 24 | [Morio Muskat](https://open.spotify.com/track/574CekDWfeHnXb9Cw8PpLU) | [ADINA](https://open.spotify.com/artist/7vTbiP6c44jIgnQTDfpc4Y) | [Morio Muskat](https://open.spotify.com/album/43fUbOTiqzqzRIz0XkJMNc) | 2:44 |
 | 25 | [Where Did You Sleep?](https://open.spotify.com/track/0z1lz4gVf6XoACzgev1CQ5) | [Lisa Pac](https://open.spotify.com/artist/2S0EVJD6SOdp3uHsSkZObE) | [Where Did You Sleep?](https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv) | 3:28 |
 | 26 | [Baby Blue](https://open.spotify.com/track/6JRJGwyd0H8psrKffseilw) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Baby Blue](https://open.spotify.com/album/1HJwfNfuif6iPDd30CWXKV) | 2:55 |
-| 27 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
-| 28 | [Lonely](https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Lonely](https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR) | 2:19 |
+| 27 | [Lonely](https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX) | [Sira](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Lonely](https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR) | 2:19 |
+| 28 | [Clearing Up](https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Clearing Up](https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa) | 3:08 |
 | 29 | [FALLING](https://open.spotify.com/track/2Me5ovqaW3PKDYPBlXwq8a) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FALLING](https://open.spotify.com/album/0tHRET0OgupLXVJvqM1oG9) | 5:18 |
 | 30 | [Delikat](https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Delikat](https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO) | 2:36 |
 | 31 | [Irgendwo In Dieser Stadt](https://open.spotify.com/track/4zpN7E64DLc5oWkYaNnZ6P) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [Irgendwo In Dieser Stadt](https://open.spotify.com/album/0i2xhfLlTRmKS37YkFyyeR) | 2:45 |
-| 32 | [ORCA](https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [ORCA](https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7) | 2:55 |
-| 33 | [Schweden Espresso](https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Harlequin](https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38) | 4:28 |
+| 32 | [Schweden Espresso](https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Harlequin](https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38) | 4:28 |
+| 33 | [ORCA](https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG) | [MARYAM.fyi](https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9) | [ORCA](https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7) | 2:55 |
 | 34 | [Auryn](https://open.spotify.com/track/6qW39YyjxKzO5wp4JhIcnu) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Auryn](https://open.spotify.com/album/0bzlmX6llFoqRXXLHS0Tvp) | 5:50 |
 | 35 | [Break the Silence](https://open.spotify.com/track/4DBngKIiCCir94wcQZZrBk) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Break the Silence](https://open.spotify.com/album/28DuE84MfA3XYT0LjsSrGW) | 3:37 |
 | 36 | [meet me \(in the middle\)](https://open.spotify.com/track/1XGC9Ogcp1LqPUSTlmBpK0) | [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI) | [meet me \(in the middle\)](https://open.spotify.com/album/4qzGdjNjj0QED5GPKw2uiP) | 3:51 |
 | 37 | [IVORY](https://open.spotify.com/track/4lcWhQrM5KAnf9VzlmTdfT) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [IVORY](https://open.spotify.com/album/05CPeShC1eH4ZyFTKEo9od) | 3:23 |
-| 38 | [The Hills](https://open.spotify.com/track/3ZqHMx75NlTZRsZNZ6xS7a) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [The Hills](https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky) | 5:36 |
-| 39 | [Verlieren](https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D) | [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI) | [Verlieren](https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb) | 2:57 |
+| 38 | [Verlieren](https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D) | [Ish](https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI) | [Verlieren](https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb) | 2:57 |
+| 39 | [The Hills](https://open.spotify.com/track/3ZqHMx75NlTZRsZNZ6xS7a) | [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [The Hills](https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky) | 5:36 |
 | 40 | [Blütenregen](https://open.spotify.com/track/3bMhFzRu1Ys5dmQlFENXgZ) | [Kitana](https://open.spotify.com/artist/1FBJzPfimpHWiTrKDoOwDK), [Melik](https://open.spotify.com/artist/5bCFJw4xliweoLdGOiHrUz) | [Blütenregen](https://open.spotify.com/album/10M7zoyutxjNy5OT2tk3e5) | 2:22 |
 | 41 | [Ich Tanze Alleine](https://open.spotify.com/track/7rYdtD94gYmpBQpX3G1zo8) | [AYMZ](https://open.spotify.com/artist/7yq3RsSN2IXYprxdcxmp7z) | [PYROLYSE](https://open.spotify.com/album/5SAviVYGk0Koj6TmzahOuE) | 2:42 |
 | 42 | [Tearz](https://open.spotify.com/track/4SljM2mMcA8t7wqJU1rhye) | [Gaddafi Gals](https://open.spotify.com/artist/0UuEu6YKx0pHwf3ZHd3c0l) | [Romeo Must Die](https://open.spotify.com/album/3EIVFvcT8DPj35kUU4oyXL) | 3:06 |
-| 43 | [Pleasure Pilgrim](https://open.spotify.com/track/4fG6h8vkVngqCSF6Dp65BS) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Pleasure Pilgrim](https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh) | 3:25 |
-| 44 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 |
+| 43 | [In My Darkness](https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04) | [Stella Sommer](https://open.spotify.com/artist/0UMFTGT5PJqvSQQFODNtob) | [In My Darkness](https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2) | 2:41 |
+| 44 | [Pleasure Pilgrim](https://open.spotify.com/track/4fG6h8vkVngqCSF6Dp65BS) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Pleasure Pilgrim](https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh) | 3:25 |
 | 45 | [no words left](https://open.spotify.com/track/3G9LDlf9GULZAtdPKPiCzq) | [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA), [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [no words left](https://open.spotify.com/album/2R6VG7f5tmlWXfgjFkn8r3) | 3:28 |
 | 46 | [Modus Operandi](https://open.spotify.com/track/3fsmxivK30zcKvM5HMWw1t) | [Jadu](https://open.spotify.com/artist/16gfQaYtf7nxUFhxPqYDou) | [Modus Operandi](https://open.spotify.com/album/025qPoprSggytbSTotIVve) | 3:41 |
 | 47 | [Summerchild](https://open.spotify.com/track/0rJs6QGxCdlUwD1LzIxMPF) | [Jennifer Touch](https://open.spotify.com/artist/2RTTomV6iq54PkO0g3KLOO) | [Summerchild](https://open.spotify.com/album/0SUFmKIXuz0BCpUHehkxXs) | 3:59 |
 | 48 | [I Thought I Could Swim](https://open.spotify.com/track/1wbZ4Q4MXPyXMOnOYJVOK0) | [Ocean LeClair](https://open.spotify.com/artist/4hQNDifeK6gZlaOjK17SSc) | [I Thought I Could Swim](https://open.spotify.com/album/1ZEohi9YHX7ysT9gBMLFwc) | 5:35 |
-| 49 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
-| 50 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
+| 49 | [Eudaimonia](https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7) | [KOKA](https://open.spotify.com/artist/6YlsQwumQkkbfsADHeYC2m) | [Eudaimonia](https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm) | 3:23 |
+| 50 | [Sleeper](https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj) | [Anna Aaron](https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F) | [Sleeper](https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy) | 2:36 |
 
-Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDBmMjIxOWFjMDVmMjM3Nzc1ZTU5NjJkMjE0OTAxYTRl`
+Snapshot ID: `MTY2NDkyMDgwMCwwMDAwMDAwMDU0NzE4ZmYwNWQxMmRjNjcxYTdkN2NiZTIwMzhmNDZl`

@@ -131,6 +131,24 @@
     {
       "album": {
         "name": "Out of Heart",
+        "url": "https://open.spotify.com/album/4Qq7OS4FiIXkwyFaFUiJxW"
+      },
+      "artists": [
+        {
+          "name": "FLOHIO",
+          "url": "https://open.spotify.com/artist/05RPf2nrkYOXtyU1gYkQfm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192379,
+      "name": "Against the Grain",
+      "url": "https://open.spotify.com/track/1lwY20WrWMiK85nj50Z6iO"
+    },
+    {
+      "album": {
+        "name": "Out of Heart",
         "url": "https://open.spotify.com/album/1tdOMtIqtxNaphb7BmbM6g"
       },
       "artists": [
@@ -141,7 +159,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 192379,
       "name": "Against the Grain",
       "url": "https://open.spotify.com/track/3OOsEKhwlKhgP4qfzo6C29"

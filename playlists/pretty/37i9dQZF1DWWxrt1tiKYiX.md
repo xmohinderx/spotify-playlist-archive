@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,390 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,473 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 80 | [Safe Inside \- Acoustic](https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Safe Inside \(Acoustic\)](https://open.spotify.com/album/3yMhNXvtRBdXiG4tfKqge0) | 3:52 |
 | 81 | [Light On \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0NIbNHfjpDZYBC9gKpVoWd) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:31 |
 | 82 | [Mine \- Stripped Version](https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine \(Stripped Version\)](https://open.spotify.com/album/2djoKJZLB1vXSGxVOLhl5b) | 2:58 |
-| 83 | [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:44 |
+| 83 | [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/0hDM5uXQEUB7KAneZr5KqQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2) | 2:44 |
 | 84 | [Lady Like](https://open.spotify.com/track/3MlLzrWKseZApnGcDOe7dP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:26 |
 | 85 | [Better Break My Heart \- Acoustic version](https://open.spotify.com/track/1p3q7kGwvV6MEG4ADZi08y) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Better Break My Heart](https://open.spotify.com/album/1owl6V1iP8bkGij4M2gt32) | 2:55 |
 | 86 | [i don't wanna know \- acoustic](https://open.spotify.com/track/4Z5LVvODOf8KDgxa0DCwG1) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [i don't wanna know](https://open.spotify.com/album/0BYCTsWZVvFKhjtlzIYNxd) | 3:06 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 98 | [Fool's Gold \- Recorded At RAK Studios, London](https://open.spotify.com/track/3AY6H68WNMDzWw9JhPW4Jv) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Spotify Singles](https://open.spotify.com/album/5Zi0SV2aU0OjmV9k2K1NVi) | 3:24 |
 | 99 | [Need Your Love \(feat\. Noah Kahan\) \- Recorded at Electric Lady Studios, NYC](https://open.spotify.com/track/5ViQpaAk3MlvdGPctEUNTw) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Spotify Singles](https://open.spotify.com/album/5lGxbmDssvHBGx37Qpr7UL) | 3:19 |
 
-Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMDg3ZTFlMTVjMTA1NGU0NmU3N2MyYjVkMDdhYjQ1ZWVk`
+Snapshot ID: `MTY2NTcyMDA2MCwwMDAwMDAwMGVhNTRhMWI3ZGI5ODE5NGRhNDVjMWQ2OTZjMWIxMmZj`

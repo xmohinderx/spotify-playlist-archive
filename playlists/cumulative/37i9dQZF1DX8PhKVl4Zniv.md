@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-67 songs - 5 hr 46 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
+69 songs - 5 hr 48 min - [published](https://open.spotify.com/playlist/15lxGNaHMFbMSCk4fEh6qG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 | 2022-06-01 |  |
 | [Introducing the Fearless Flyers](https://open.spotify.com/track/5EUbvbjJxC2Qe3DXDix8dl) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:23 | 2022-06-01 |  |
 | [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [Trix](https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 | 2022-06-08 |  |
-| [Knuckaround](https://open.spotify.com/track/13ptJ0sjLFp7ymeaLRxYIw) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/6VJVd3Y0kj35GhpEYASsQz) | 1:09 | 2022-06-01 |  |
+| [Knuckaround](https://open.spotify.com/track/13ptJ0sjLFp7ymeaLRxYIw) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/6VJVd3Y0kj35GhpEYASsQz) | 1:09 | 2022-06-01 | 2022-11-02 |
+| [Knuckaround](https://open.spotify.com/track/4Zg2zDhCMF019K5dIVItTE) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/26xicCegyTkFjxQQwec8ed) | 1:09 | 2022-06-01 |  |
 | [Matinee Idol](https://open.spotify.com/track/190Tz6CYjyOAq5ypbV8CFi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [Yellowjackets](https://open.spotify.com/album/654nTxrBmHTUHlR2QaVhrI) | 5:12 | 2022-06-01 |  |
 | [Mixed Bag](https://open.spotify.com/track/47kUGRjxvP9bhGEP4uSMZw) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 6:37 | 2022-06-01 |  |
 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 | 2022-06-01 |  |
@@ -59,7 +60,8 @@
 | [Snake Soda](https://open.spotify.com/track/3CzE9dKwc3twdA6jFnytCY) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:35 | 2022-06-01 |  |
 | [Some Skunk Funk](https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD) | [The Brecker Brothers](https://open.spotify.com/artist/45rpaf8BR69NIPqmeAYb7l) | [The Brecker Bros](https://open.spotify.com/album/3mXY4gBVlEzTk4DVGhFTpZ) | 5:50 | 2022-06-01 |  |
 | [Soulfood](https://open.spotify.com/track/7hKYe97oY5C9mnAUtvou0Z) | [Benny Greb](https://open.spotify.com/artist/5hjhUiwzXZliQMmqqkYT81) | [Moving Parts](https://open.spotify.com/album/0VsSMSEd9tg01yrYIVJgh0) | 6:02 | 2022-06-01 |  |
-| [Soundcheck and Whatnots](https://open.spotify.com/track/35W33iV87wL4cXAMt7ovFj) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/0W8OGpEZHGz1Raj2afoGGY) | 1:09 | 2022-06-01 |  |
+| [Soundcheck and Whatnots](https://open.spotify.com/track/35W33iV87wL4cXAMt7ovFj) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/0W8OGpEZHGz1Raj2afoGGY) | 1:09 | 2022-06-01 | 2022-11-02 |
+| [Soundcheck and Whatnots](https://open.spotify.com/track/70e8x2PmWdnWZPlOW2PhGX) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/2EqaPqR7GfZLpOuEde7dLz) | 1:09 | 2022-06-01 |  |
 | [The Force](https://open.spotify.com/track/5FKYuJaxm0VCJapvg9GuMd) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Crush](https://open.spotify.com/album/749KEYqwGaNxbkLIqM5cBO) | 3:41 | 2022-06-01 |  |
 | [The Joint](https://open.spotify.com/track/64QrWHRvVUuVZoxMYjeL2y) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 5:41 | 2022-06-01 |  |
 | [The Lost Foot](https://open.spotify.com/track/4tlQXwwmPcemImLrSFxD89) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:24 | 2022-06-01 |  |

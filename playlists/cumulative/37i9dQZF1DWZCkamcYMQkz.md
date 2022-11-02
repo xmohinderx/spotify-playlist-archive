@@ -4,7 +4,7 @@
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-148 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
+149 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [He's My Guy](https://open.spotify.com/track/5Po3D0fxlUpQTciXYWOmnJ) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:13 | 2022-06-28 | 2022-08-30 |
 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 | 2021-12-16 |  |
 | [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2022-09-01 |  |
-| [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 | 2022-10-11 |  |
+| [Hip Trolley](https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj) | [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Business Meetin'](https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m) | 5:25 | 2022-10-11 | 2022-11-02 |
 | [Holiday Flight](https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Surf Ride](https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy) | 3:11 | 2021-12-16 |  |
+| [Honeysuckle Rose](https://open.spotify.com/track/16rC6JrsasyG7p3MjbEFgR) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:50 | 2022-10-12 |  |
 | [Hurricane Connie](https://open.spotify.com/track/07sXOnILWyZPlqJY2faLm0) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 4:16 | 2022-01-13 | 2022-10-12 |
 | [I Ain't Got Nobody](https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Capitol Collector's Series](https://open.spotify.com/album/0L3a0HwsJSOR0dARdZuWzs) | 2:24 | 2022-01-13 |  |
 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 2:47 | 2021-12-16 |  |

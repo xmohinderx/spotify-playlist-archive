@@ -4,7 +4,7 @@
 
 > Listen BAEKHYUN's all solo tracks here.
 
-41 songs - 2 hr 25 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
+42 songs - 2 hr 28 min - [published](https://open.spotify.com/playlist/5iO0HQRIaGTet3jq2WjD07)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Garden In The Air](https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Our Beloved BoA \#1 \- SM STATION](https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc) | 3:17 | 2021-03-30 |  |
 | [Ghost](https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:24 | 2021-03-30 |  |
 | [happy](https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST Part.11](https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ) | 3:52 | 2021-03-30 |  |
-| [happy](https://open.spotify.com/track/4ktpGEOe6hPwlowhoOU6IN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST](https://open.spotify.com/album/2foGQCPi7r51K42QsxTbYq) | 3:52 | 2021-03-30 |  |
+| [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 | 2021-03-30 |  |
+| [happy](https://open.spotify.com/track/4ktpGEOe6hPwlowhoOU6IN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST](https://open.spotify.com/album/2foGQCPi7r51K42QsxTbYq) | 3:52 | 2021-03-30 | 2022-11-02 |
 | [Ice Queen](https://open.spotify.com/track/6z4suYXf384HJU1bK8PhOZ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [City Lights \- The 1st Mini Album](https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3) | 3:35 | 2021-03-30 |  |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2021-03-30 | 2022-07-29 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 | 2021-03-30 |  |

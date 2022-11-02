@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Gilberto Santa Rosa & Carlos Vives en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,686 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,721 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 8 | [Ya No Llora](https://open.spotify.com/track/7uwLvkaWailfKoTZcivx8k) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ya No Llora](https://open.spotify.com/album/5FV9E3ORJTooDfb6NQypvB) | 3:05 |
 | 9 | [Amigos Con Derecho / Escápate Conmigo \- En Vivo](https://open.spotify.com/track/2cCO1kw48jNgsf932hbwpc) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Amigos Con Derecho / Escápate Conmigo \(En Vivo\)](https://open.spotify.com/album/3uMEyEtHqoYMgx4rvd8WQf) | 3:36 |
 | 10 | [Roto](https://open.spotify.com/track/5SInsDoEw0bovpyJnVWfF8) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Roto](https://open.spotify.com/album/7nWdrfnpgCMWK4PoJdFvHn) | 3:40 |
-| 11 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/0MONbt46lfQCO66bPIj5hi) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 |
+| 11 | [Ya No Quiero Verte](https://open.spotify.com/track/3eUtQSdde3wNmXOW2OESKi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Ya No Quiero Verte](https://open.spotify.com/album/7LgHocBu4JUghhlAJqgNrS) | 2:45 |
 | 12 | [Tierra Mala](https://open.spotify.com/track/13Jh8qhkkt1oP9XDYBtOli) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/71TBlD9ueq8jflRFAR8qSB) | 4:44 |
 | 13 | [Vamos Argentina](https://open.spotify.com/track/6erCCkkgFPuKswRAf3tdai) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [¡Vamos Argentina!](https://open.spotify.com/album/4XHJJXI2UfsJXfynlyJech) | 2:59 |
 | 14 | [No Se Va \- En Vivo](https://open.spotify.com/track/6lhvGguSRyMwK4DAZmGyAj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [No Se Va \(En Vivo\)](https://open.spotify.com/album/7wSlC7xpd3WboQgYQtC55G) | 2:52 |

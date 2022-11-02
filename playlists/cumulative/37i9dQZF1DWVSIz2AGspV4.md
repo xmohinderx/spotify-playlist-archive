@@ -4,7 +4,7 @@
 
 > احدث الاغاني العراقية\. غلاف: محمد التركي
 
-165 songs - 9 hr 48 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
+166 songs - 9 hr 53 min - [published](https://open.spotify.com/playlist/2b4NEcjpEh5tkIFGfGPh1W)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Henain](https://open.spotify.com/track/3suQDOXGODa1MrFFnvJtFv) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Henain](https://open.spotify.com/album/0sTZwBd1iLGi7BAraWy0ex) | 3:08 | 2021-12-23 | 2022-05-14 |
 | [Heya Ghalta](https://open.spotify.com/track/66OSm9VA64mWnW5y4TtxKa) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Sawaha](https://open.spotify.com/album/4SuZtMvNjMHag9xGnzbTrP) | 3:57 | 2021-12-23 | 2022-03-12 |
 | [Heyya Ala Allah](https://open.spotify.com/track/2TW62JI3FoBG6NUrMH83cg) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Heyya Ala Allah](https://open.spotify.com/album/1Soc8OCAxYycuELmaLibGV) | 3:16 | 2022-01-20 | 2022-06-07 |
+| [Hobk Tarak Ather](https://open.spotify.com/track/3087i1xlpg2i1g77CSosnE) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Hobk Tarak Ather](https://open.spotify.com/album/7ttYNCLKQnEcTQOuSr4hhF) | 4:37 | 2022-11-01 |  |
 | [Housat Al\-Ased](https://open.spotify.com/track/0nBNzq38wLMVAh91bC5Eyl) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Housat Al\-Ased](https://open.spotify.com/album/2aSjEA9gC5J08NtTlKGRqG) | 4:04 | 2022-05-31 |  |
 | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/track/1WMQlJFH3UIuwAKkoatUo5) | [Big Hass](https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv), [Kira The Blurryface](https://open.spotify.com/artist/4R7pxLuB67BtKVX0BQRIyO), [Armando Rap](https://open.spotify.com/artist/2mFgrI1DeYCb5BMO4TzPkX), [Odd Khalid](https://open.spotify.com/artist/59Ie9C5y5W6M1gBj0FUvkk), [Disser](https://open.spotify.com/artist/1ckKDZAAYGqSHi8quAW7PZ), [KC Hamada](https://open.spotify.com/artist/3blZFhMJ3PjJSnOcoHg8bO), [Alrong](https://open.spotify.com/artist/0A82D7QijLeWDlwIWP2Xrx), [Genesis](https://open.spotify.com/artist/06C9hjoLs86MsWSZysR4hj), [Nayomi](https://open.spotify.com/artist/63pexOL4YuXMRprBVl8wXh), [El SEEN](https://open.spotify.com/artist/13TSKN9KQtsYPmkA5zJwua) | [Iraq Cypher \(feat\. Kira The Blurryface, Armando Rap, Odd Khalid, Disser, KC Hamada, Alrong, Genesis, Nayomi & EL SEEN\)](https://open.spotify.com/album/0v99Q4aIsmzSf0UzYRGg2z) | 5:33 | 2022-05-13 | 2022-10-14 |
 | [Jaybiale](https://open.spotify.com/track/7y5xSuRJxX2J273yPJ3HmU) | [Maher Ahmad](https://open.spotify.com/artist/5yLHbf0ksRIA5w44VysqvC) | [Jaybiale](https://open.spotify.com/album/3mfasbwnaWRjREVfzXDoih) | 3:39 | 2022-05-19 |  |

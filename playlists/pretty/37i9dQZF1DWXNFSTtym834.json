@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 793909,
+  "num_followers": 794464,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMGUyMDU0ODYzNDFiMGI4ZWU3YTEzNzY3ZDg0YTk4Zjcw",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDE5Y2Y0YzAxNmNhYmM5M2NjZmY5MzRlODI1Mjg3OGI3",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "My Curse",
-      "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 272440,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "My Curse",
+      "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "The Blessed Hellride",
-        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
-      },
-      "artists": [
-        {
-          "name": "Black Label Society",
-          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Stillborn",
-      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Welcome To The Masquerade (Fan Edition)",
@@ -503,6 +487,22 @@
       "duration_ms": 197373,
       "name": "Take It Out On Me",
       "url": "https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "The Blessed Hellride",
+        "url": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Stillborn",
+      "url": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -651,18 +651,18 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+        "name": "The Sinister Urge",
+        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
+      "duration_ms": 233666,
+      "name": "Feel So Numb",
+      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -683,34 +683,18 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "The Sinister Urge",
-        "url": "https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I"
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
       },
       "artists": [
         {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Feel So Numb",
-      "url": "https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Twilight Of The Thunder God",
-      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -727,6 +711,22 @@
       "duration_ms": 308826,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Twilight Of The Thunder God",
+      "url": "https://open.spotify.com/track/5u3l2TONYacJgmRPQVaF9y"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1053,22 +1053,6 @@
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Babylon (Revised Online Music)",
-        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 236013,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Twilight Of The Thunder God",
@@ -1083,6 +1067,22 @@
       "duration_ms": 263160,
       "name": "Guardians Of Asgaard",
       "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "The Art Of Breaking",
         "url": "https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 208693,
       "name": "Move",
       "url": "https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Rosenrot",
-        "url": "https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Rosenrot",
-      "url": "https://open.spotify.com/track/7u018epVcYPTPVKCWAemLP"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Perseverance",
@@ -1451,6 +1435,22 @@
       "duration_ms": 178666,
       "name": "I Will Be Heard",
       "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Rosenrot",
+        "url": "https://open.spotify.com/album/3ujsh5jQMOFqIbP7sWruEt"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Rosenrot",
+      "url": "https://open.spotify.com/track/7u018epVcYPTPVKCWAemLP"
     },
     {
       "added_at": "2022-04-13 21:11:09",

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127215,
+  "num_followers": 127213,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc1MCw3NjdhZTZkZjljYTc5ZWIyYTE5OWQwZGI2MWEwMWQwMGVhNmFlYjFh",
+  "snapshot_id": "Mzc1MixlZjg4NTI0ZDIxYmU0YWU1YTkyNGJmZjExOWM1NTI1Nzc2NmQ5OGNh",
   "tracks": [
+    {
+      "added_at": "2022-11-01 16:56:50",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi"
+      },
+      "artists": [
+        {
+          "name": "Foxela",
+          "url": "https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu"
+        }
+      ],
+      "duration_ms": 163304,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt"
+    },
     {
       "added_at": "2022-10-31 16:12:49",
       "album": {
@@ -1071,22 +1087,6 @@
       "duration_ms": 193242,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "clouds in my basement",
-        "url": "https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ"
-      },
-      "artists": [
-        {
-          "name": "helloworld",
-          "url": "https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "easier",
-      "url": "https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

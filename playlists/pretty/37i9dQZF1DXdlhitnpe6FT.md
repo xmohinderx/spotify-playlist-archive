@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,453 likes - 115 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,519 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 47 | [Look For A Star](https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ) | [Billy Vaughn](https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0) | [Look For A Star](https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj) | 2:12 |
 | 48 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 |
 | 49 | [Don't Cry for Me, Argentina](https://open.spotify.com/track/73YFP7Lu1i4jm4UtpBUDgq) | [Orchester Anthony Ventura](https://open.spotify.com/artist/2hHn2RczMs5jxSd3a7rFXK) | [El Condor Pasa](https://open.spotify.com/album/67cSFK8NNLTF0M0drg82Kx) | 2:20 |
-| 50 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
-| 51 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
+| 50 | [Love In Every Room](https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 2:25 |
+| 51 | [The Shuffle](https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty) | [Van McCoy](https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT) | [Rhythms Of The World](https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn) | 4:17 |
 | 52 | [Dolannes mélodie](https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO) | [Jean Claude Borelly](https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn) | [La mélodie du lac d'amour](https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW) | 2:52 |
 | 53 | [Ballade pour Adeline](https://open.spotify.com/track/5hzUMnP8CYlM00C4gVcfhT) | [Pianista sull'Oceano](https://open.spotify.com/artist/1CojLfcnKoatJ57WDDxNyV) | [Tribute to Richard Clayderman: Collection](https://open.spotify.com/album/1mEqTRd1FgEmxkzjfF7MNL) | 2:24 |
 | 54 | [Guantanamera](https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe) | [The Sandpipers](https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB) | [Guantanamera](https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5) | 3:13 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 76 | [Call Me](https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [Rain Forest](https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv) | 2:25 |
 | 77 | [Les Parapluies de Cherbourg](https://open.spotify.com/track/3bkNIeAr9FJXzCHUaF0ISU) | [Franck Pourcel](https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU) | [100 All Time Greatest Hits](https://open.spotify.com/album/1nW2vo8BgRcaqyuM57ZwNI) | 2:22 |
 | 78 | [Mah Nà Mah Nà](https://open.spotify.com/track/3Mz27X48Ey7MbfLOmSzkBK) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [Svezia, Inferno E Paradiso](https://open.spotify.com/album/5c2CBLkvafstLlKDfO2Q5a) | 1:56 |
-| 79 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
-| 80 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 |
+| 79 | [Woodpecker Song](https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D) | [Tony Mottola y Su Orquesta](https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy) | [Tony Mottola y Su Orquesta](https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl) | 1:53 |
+| 80 | [Billy Jack's Theme](https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 2:01 |
 | 81 | [Yellow Bird](https://open.spotify.com/track/7uJQUtgOzvSlVM3oyY012O) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [The Very Best of Arthur Lyman \(The Sensual Sounds of Exotica\)](https://open.spotify.com/album/67llfJEfIaI1LHh8thoTdo) | 2:45 |
 | 82 | [Playas de Ensueño](https://open.spotify.com/track/1IXc0lJmLcPHHrGL9rSWzX) | [DCO](https://open.spotify.com/artist/3m8kUt4fTVDHnafKhS66AZ) | [Playas de Ensueño](https://open.spotify.com/album/31E3FJeD3mPINXJu4kXpVD) | 3:13 |
 | 83 | [Blue Navajo](https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK) | [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Blue Navajo](https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ) | 3:33 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 111 | [Too Young](https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst) | [Ricardo Juarez](https://open.spotify.com/artist/6IqlP90ae1omoteM4omT70) | [Happy Time Cha Chas](https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb) | 2:55 |
 | 112 | [Boum](https://open.spotify.com/track/1ByDvF2eKOGlybrLYqUzFE) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Michel Legrand y Su Gran Orquesta](https://open.spotify.com/album/6YrMXJE3AKt9IIOypizlq8) | 2:15 |
 | 113 | [Moon Over Montevideo](https://open.spotify.com/track/4FcWZ82tsQ1As33m2SR2gN) | [Rio Carnival Orchestra](https://open.spotify.com/artist/4wD03VhS4OZfcEI6spIR8c) | [Honeymoon in South America](https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem) | 2:53 |
-| 114 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |
-| 115 | [Latin\-Esque](https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Latin\-Esque](https://open.spotify.com/album/67VaJEoAZ3dfOQ5GH1KElq) | 3:06 |
+| 114 | [Lazy Bones](https://open.spotify.com/track/7ETQAzzsYGQd9mH2MELz1Q) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds in Stereo](https://open.spotify.com/album/6ZlXMropJdRHnlXjP2VklO) | 2:45 |
+| 115 | [The Approaching Storm](https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg) | [David Lanz](https://open.spotify.com/artist/4A4X3dAnue0OcKTt9J5A9c) | [Norwegian Rain](https://open.spotify.com/album/4UFzXm7zEUzoVLRulDGR1B) | 4:53 |
 
-Snapshot ID: `MTY0MDI3NDQ0NSwwMDAwMDAwMGM4NGExOTYzYzE2Y2YxNTZjMjllYWI4Njc0ZGQ3ODQ4`
+Snapshot ID: `MTY0MDI3NDQ0NSwwMDAwMDAwMGE3OTBkN2EwYjU3Njg3YmM1MjcwYmQyNWJjMjA3ZTFh`

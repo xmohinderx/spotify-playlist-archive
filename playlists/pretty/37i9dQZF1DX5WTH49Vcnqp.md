@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > If it's indie and it's hot, it's here\. Cover: girl in red
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,012 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,033 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 53 | [YUKON \(INTERLUDE\)](https://open.spotify.com/track/6c1yUgFlhUHLAM9hSDkVBq) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [YUKON \(INTERLUDE\)](https://open.spotify.com/album/0GxWXE6ltKk4Gx3WyWLLrW) | 2:21 |
 | 54 | [Volcano](https://open.spotify.com/track/1D8vOlsg63zFgnzBjCNmOO) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Volcano](https://open.spotify.com/album/0arnHsFdqQ2zCt3L4evpW4) | 3:31 |
 | 55 | [Don’t Go Back](https://open.spotify.com/track/1dE8Mq801cWJcCS23zPZWY) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 3:11 |
-| 56 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 |
+| 56 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 |
 | 57 | [Simple Pleasures](https://open.spotify.com/track/0JvupwxNeYjupHIONPr4kj) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Heading East](https://open.spotify.com/album/7yR7XplXI0jVhzrzvTuHb8) | 3:10 |
 | 58 | [Too Easy](https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [is it me, or is it you?](https://open.spotify.com/album/4ZSt8gHnOnfHZz4UMsgMH5) | 3:06 |
 | 59 | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/track/5g1IxCinEawQcerAMrs2tU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [e\-motions \(with Erika de Casier\)](https://open.spotify.com/album/3FZ6xoRbaZ0BSQvWfQY5He) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 99 | [Bumblebee](https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bumblebee](https://open.spotify.com/album/2pypkUrkyPB6sWXzeIuEPF) | 3:20 |
 | 100 | [Till The World's Awake](https://open.spotify.com/track/4hedQVjhX9bdo7DAUDWtex) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Till The World's Awake](https://open.spotify.com/album/0uR7oNjEFBRJPhvRbzufJP) | 3:28 |
 
-Snapshot ID: `MTY2Njg5MzAyNywwMDAwMDAwMGVkMmIyOTQyMmQ2ZDUyNzBkZDU3OTk5ZmMwM2E0YmQx`
+Snapshot ID: `MTY2Njg5MzAyNywwMDAwMDAwMGNlOTM2NzhmMzU4ZTY1Y2M3NGQ3ZGMwMWQ2ODQyMDM4`

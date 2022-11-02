@@ -4,7 +4,7 @@
 
 > Music by female\-identifying musicians ONLY! Cover: <a href=“spotify:artist:34bhyY8jfKez7uKakMfy4y”>Maddie & Tae</a>.
 
-556 songs - 1 day 6 hr 10 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
+557 songs - 1 day 6 hr 14 min - [published](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,8 +344,9 @@
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2022-01-05 | 2022-07-07 |
 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 | 2022-08-03 | 2022-09-09 |
 | [No Shade](https://open.spotify.com/track/6ukoGH0t4RbK3tCqbCpbbN) | [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Shapeshyfter](https://open.spotify.com/album/0cESoqQSfbpjOLuT3b23G0) | 2:51 | 2022-01-05 | 2022-02-03 |
-| [Noah \(Stand Still\)](https://open.spotify.com/track/1n4KID2dgcMa5yaPgYRHDO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:54 | 2022-10-05 |  |
+| [Noah \(Stand Still\)](https://open.spotify.com/track/1n4KID2dgcMa5yaPgYRHDO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:54 | 2022-10-05 | 2022-11-02 |
 | [Noah \(Stand Still\)](https://open.spotify.com/track/2skKlGMaP2Z9SxK5cDtg9t) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:54 | 2022-10-05 | 2022-10-07 |
+| [Noah \(Stand Still\)](https://open.spotify.com/track/62Gah07tkuKq3sNebDpCJN) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:54 | 2022-10-07 |  |
 | [NOH](https://open.spotify.com/track/4QQ7DDGlJC77NQY49Lzkzx) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P) | [NOH](https://open.spotify.com/album/1DI5V2Qoclpc3R3xnQ9xKw) | 2:29 | 2022-03-08 | 2022-04-07 |
 | [Nostalgia](https://open.spotify.com/track/3gV7y7IwafryNLEnhh9gKb) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Nostalgia](https://open.spotify.com/album/6WgmH9NEYyWBbPaHYlpVlD) | 3:57 | 2022-10-05 |  |
 | [Not About You](https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Not About You](https://open.spotify.com/album/6zZCXte8GWJPvFOS2UUKYV) | 2:57 | 2022-10-05 |  |
@@ -391,7 +392,7 @@
 | [Pissed Black Girl](https://open.spotify.com/track/2jf4eV6xXe1z3tZAfGuB7c) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Pissed Black Girl](https://open.spotify.com/album/24BZlsNv1awggEHEtyjZaI) | 3:25 | 2022-05-04 | 2022-06-01 |
 | [pl4yg1rl](https://open.spotify.com/track/3xA9Cta8gafKNV1xNpMK2r) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [pl4yg1rl](https://open.spotify.com/album/1xQEgoJUeY0K2pc0p8LLXG) | 2:39 | 2022-10-05 |  |
 | [playing tricks](https://open.spotify.com/track/6zaayoVlfFp5YmQArKWkRG) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [playing tricks](https://open.spotify.com/album/2qHP34bvPUluFtdG8QRywz) | 3:04 | 2022-09-07 | 2022-10-06 |
-| [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-10-05 |  |
+| [PLAYTHING](https://open.spotify.com/track/3dvo22rex4PuOkdqsDlP39) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [PLAYTHING](https://open.spotify.com/album/35djQXPgBXiH8rNC8Kh1Hy) | 2:47 | 2022-10-05 | 2022-11-02 |
 | [Polly](https://open.spotify.com/track/0AaJgZIw1lJjc4QejCEpAu) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Digital Meadow](https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ) | 2:42 | 2021-12-01 | 2022-01-06 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-08-03 | 2022-09-09 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-09-07 | 2022-10-06 |
@@ -419,7 +420,7 @@
 | [Roadkill](https://open.spotify.com/track/6GlrfpSsWOdjeD9K1ziFzi) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [LOUDMOUTH](https://open.spotify.com/album/6YIMA2QvnMepRD7FwKsygm) | 2:37 | 2021-12-01 | 2022-01-06 |
 | [Rockstar](https://open.spotify.com/track/220FuxHU2wcLLqUNRDglzm) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/10kinVEnlFkRub41F304V7) | 3:09 | 2022-03-08 | 2022-04-07 |
 | [Ronnie](https://open.spotify.com/track/4qYfXg9G99RdC9ztNR8vQo) | [Tchotchke](https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG) | [Tchotchke](https://open.spotify.com/album/0hIl9YXPRu5ZlqakOREbna) | 2:58 | 2022-08-03 | 2022-08-10 |
-| [Run to the Forest](https://open.spotify.com/track/4Rc7iS5uJe9bpJfjp5BZta) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Run to the Forest](https://open.spotify.com/album/4VadpUr3pl74PdQsD1Vnnn) | 3:23 | 2022-10-05 | 2022-10-28 |
+| [Run to the Forest](https://open.spotify.com/track/4Rc7iS5uJe9bpJfjp5BZta) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Run to the Forest](https://open.spotify.com/album/4VadpUr3pl74PdQsD1Vnnn) | 3:23 | 2022-10-05 |  |
 | [Runaway Blue](https://open.spotify.com/track/1RbipP1W7K6A0KuBlOeLwe) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Runaway Blue](https://open.spotify.com/album/26fP6qB9XiP01pNDJmwNGL) | 3:33 | 2022-09-07 | 2022-10-06 |
 | [Running Like That](https://open.spotify.com/track/3iXkfLhzG46Iaej2KQxLnU) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [Reflection](https://open.spotify.com/album/2z5JAOOwIIWog5UDQydquq) | 4:19 | 2022-02-02 | 2022-03-09 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-04-06 | 2022-05-05 |

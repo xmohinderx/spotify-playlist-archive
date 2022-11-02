@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,274 likes - 100 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,361 likes - 100 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 1 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 2 | [Blind Date](https://open.spotify.com/track/0UNzzZBuQfZwNJ3mk2PYbm) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [Blind Date](https://open.spotify.com/album/1ZDktqQTTWUktZ0ivTA06P) | 4:05 |
 | 3 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
 | 4 | [Missing Channel \- Original Mix](https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 6:32 |

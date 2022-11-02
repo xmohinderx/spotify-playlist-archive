@@ -280,6 +280,28 @@
     },
     {
       "album": {
+        "name": "Appearing",
+        "url": "https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai"
+      },
+      "artists": [
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234181,
+      "name": "Appearing",
+      "url": "https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt"
+    },
+    {
+      "album": {
         "name": "autre part",
         "url": "https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit"
       },
@@ -1911,7 +1933,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 175500,
       "name": "In Memory Of A Honey Bee",
       "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"

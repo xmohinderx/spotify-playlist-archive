@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2022 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,747 likes - 109 songs - 10 hr 31 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 113,764 likes - 109 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 69 | [Fall Afresh](https://open.spotify.com/track/7N2y4URYFzeoON8IJPiVse) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [Fall Afresh](https://open.spotify.com/album/41FngW0FFs9zqIp2oeEzCI) | 6:07 |
 | 70 | [In Christ Alone \- Live](https://open.spotify.com/track/6aRwLqDf1bN3lI2gMd6wXp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Let The Future Begin](https://open.spotify.com/album/6AEqQa8wsva60vuNuhpjGQ) | 5:39 |
 | 71 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 |
-| 72 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hannah Hobbs](https://open.spotify.com/artist/7DfCVb2hqPHt6gEMkTJh5h), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
+| 72 | [God Song](https://open.spotify.com/track/460oUWkGwaNZM2ZrJzJAMK) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Are We There Yet?](https://open.spotify.com/album/5Ol7XeGGIlNkihAl0ucpmk) | 6:46 |
 | 73 | [As You Can \- Live](https://open.spotify.com/track/4vguRbzcA2Ewj7tai8jerX) | [Jesus People](https://open.spotify.com/artist/35UBfTl4RQiyBsrZTbIBmp), [Adam Smucker](https://open.spotify.com/artist/414BovAUSONHbIcZIlfnDr) | [As You Can \(Live\)](https://open.spotify.com/album/4CM3QMzL3U0zhxTflYL0dF) | 10:19 |
 | 74 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 |
 | 75 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |

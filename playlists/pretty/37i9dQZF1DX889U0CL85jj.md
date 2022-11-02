@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,374,288 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,374,626 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 4 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 |
 | 5 | [peas](https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [gelato](https://open.spotify.com/album/4jA8mE55fT8Ae4wt51WB0y) | 3:46 |
 | 6 | [Silent Dream](https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Charm of Pleasure](https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH) | 3:33 |
-| 7 | [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 |
+| 7 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
 | 8 | [As if the Sea Should Part \- Adam Dodson x rhubiqs remix](https://open.spotify.com/track/2mLxwzYA4HvOLrlPVY2QUo) | [Jason Keisling](https://open.spotify.com/artist/11BnYiy4JkEXwZUVGBVnRH), [Adam Dodson](https://open.spotify.com/artist/0me95qZRAj797NaS72KUCZ), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [As if the Sea Should Part \(Adam Dodson x rhubiqs remix\)](https://open.spotify.com/album/0g4l3sXMYPCMFS2HYjDyAY) | 5:00 |
 | 9 | [Childhood](https://open.spotify.com/track/6vA6Y29YErrztRoCLmJpaY) | [Bathe Alone](https://open.spotify.com/artist/384r9G0NILqkGrQL8IPMkC) | [Fall With The Lights Down \(Louise\)](https://open.spotify.com/album/0IxA1tE42h1Zf5Yx94oUbN) | 4:10 |
 | 10 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 27 | [I'll Be Around](https://open.spotify.com/track/54PkkR2tqM1UhveOmTaDag) | [Linda Diaz](https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3) | [I'll Be Around](https://open.spotify.com/album/2VvQzDQTF5gjA2bq12vZZt) | 2:40 |
 | 28 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 29 | [Charlie](https://open.spotify.com/track/4rpQqMvt3APBHHONRjsVhP) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Charlie](https://open.spotify.com/album/5uU4vi2829KfY06HHjckw3) | 3:05 |
-| 30 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 |
+| 30 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 |
 | 31 | [Chaos Calls](https://open.spotify.com/track/55EhodVkxmBissqZ02fgKX) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Chaos Calls](https://open.spotify.com/album/7qImfA3la1vAndVk8kuarB) | 3:56 |
 | 32 | [Dream About You \(feat\. Halima\)](https://open.spotify.com/track/0cl805dKSvEQNUBD7iq9ZD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [London Safari](https://open.spotify.com/album/4HSk5BHyYIk15DOSUJGkwo) | 3:04 |
 | 33 | [Hold My Head](https://open.spotify.com/track/4eSZUNz2flCKs7zESV50kW) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:46 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 131 | [I Want You Back](https://open.spotify.com/track/45IhSIsQkvmCZ2V0yxEazY) | [wwoman](https://open.spotify.com/artist/3bvaVxy4LIPalRkLXBkYrX) | [I Want You Back](https://open.spotify.com/album/4kgjrn6CksCpzkEhweIR51) | 4:07 |
 | 132 | [Muse](https://open.spotify.com/track/7mtYsNBYTDPa8Mscf166hg) | [Afro Nostalgia](https://open.spotify.com/artist/7yOMgA7bsjT5JY93SsFRrJ) | [Muse \(You Inspire Me\)](https://open.spotify.com/album/0OtJgnqGIlNFgP3nFi32s5) | 2:03 |
 | 133 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 |
-| 134 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 |
+| 134 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 |
 | 135 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 |
 | 136 | [Opiate](https://open.spotify.com/track/6X4PNtfFJBOAkqUudR6ItT) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [In Praise Of Shadows](https://open.spotify.com/album/5ZFB59cZbuWzd0gPs2b8jg) | 2:31 |
 | 137 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Hate That I Love You](https://open.spotify.com/track/3b1hMSra86BaMQRROVk4JD) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Singles 2020 \- 2021](https://open.spotify.com/album/0dyTtlGRslN0ZOGtA4rTlx) | 3:32 |
 | 150 | [Diamond](https://open.spotify.com/track/0CDf8A5GogzQdJlTh4L22f) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Diamond](https://open.spotify.com/album/314L5eEcSAupRv9pQdKiMj) | 3:23 |
 
-Snapshot ID: `MTY2NjM3MTI0NSwwMDAwMDAwMDJjN2IyZjhmY2JlZDUwZGUxMzNlMTEwOTU4YmRkYjQw`
+Snapshot ID: `MTY2NjM3MTI0NSwwMDAwMDAwMGQ3ZmRmMTMzNDE1YzI4MzZmNzBmYTYxZWQyODU0MWVj`

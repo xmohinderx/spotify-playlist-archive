@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 9441,
+  "num_followers": 9473,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDUwMGVlMTIwNzIwNmQ0ZmNhZjg3YWFmZjhmZTJhYmEx",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGM0MjlkYzUzYzA1Zjk2ZDljNGFhNWZlODc3NjRjMTVh",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -59,18 +59,22 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
-        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
+        "name": "Todos Vuelven Live, Vol. 1",
+        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
         }
       ],
-      "duration_ms": 274088,
-      "name": "Como Podr\u00e9 Disimular",
-      "url": "https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9"
+      "duration_ms": 351026,
+      "name": "Amor y Control - Live",
+      "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -91,22 +95,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 1",
-        "url": "https://open.spotify.com/album/6fqIu9mEiySded7ePgc5AS"
+        "name": "Un Legado Musical - Lo Nuevo y Lo Mejor",
+        "url": "https://open.spotify.com/album/0VVjPqvFy9Nw816QCFNSbe"
       },
       "artists": [
         {
-          "name": "Ruben Blades",
-          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
-        },
-        {
-          "name": "Seis del Solar",
-          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 351026,
-      "name": "Amor y Control - Live",
-      "url": "https://open.spotify.com/track/6hAiZrzev7bN8emPDPHFD4"
+      "duration_ms": 274088,
+      "name": "Como Podr\u00e9 Disimular",
+      "url": "https://open.spotify.com/track/0rvSVIYp6ewTVkDzxYQbP9"
     },
     {
       "added_at": "2022-03-18 05:00:00",

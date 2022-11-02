@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,336 likes - 60 songs - 3 hr 0 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,334 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dale Loca \(with Anna Marchesini\)](https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Anna Marchesini](https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD) | [Dale Loca \(with Anna Marchesini\)](https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW) | 2:18 |
+| 1 | [Dale Loca](https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Anna Marchesini](https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD) | [Dale Loca](https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW) | 2:18 |
 | 2 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 |
 | 3 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 |
 | 4 | [Dramatic \(prod\. PLAYDED\)](https://open.spotify.com/track/2KIJSmiVOO0Obh6h1rx8ti) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [PLAYDED](https://open.spotify.com/artist/2bVDBU5YmauWpiN1LJ8ZkL) | [Dramatic](https://open.spotify.com/album/0QuSvdYztrOUUPE5E6WKpP) | 2:34 |

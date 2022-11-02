@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,543 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,595 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 28 | [I Let Love In \- 2011 Remastered Version](https://open.spotify.com/track/32XQ4QT6Pz0ld6Ev0KDI3V) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 4:14 |
 | 29 | [Ghosteen](https://open.spotify.com/track/6tEFvxPkn2FRDmTPuu2GZV) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 12:10 |
 | 30 | [Shoot Me Down](https://open.spotify.com/track/0XmdbrkYXtuT4lFUX6Re8w) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5) | 3:33 |
-| 31 | [Wide Lovely Eyes](https://open.spotify.com/track/2H8NAFAU5ADnOOJQ26D6ac) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 3:40 |
+| 31 | [Wide Lovely Eyes](https://open.spotify.com/track/1Bd9l1oY7kbsW3VaVKjtjw) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA) | 3:40 |
 | 32 | [Skeleton Tree](https://open.spotify.com/track/7qOQLkVimlB4Ptonb1yuse) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Skeleton Tree](https://open.spotify.com/album/7bCVL7M7T5hz7x0OX9e32S) | 4:01 |
 | 33 | [Bring It On](https://open.spotify.com/track/61Xoj0dPObu3YXCo8lCRAc) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Nocturama](https://open.spotify.com/album/3FgAZqG6AJyYxpLQkHckxS) | 5:23 |
 | 34 | [Night Raid](https://open.spotify.com/track/3ZEWMwjhfXjSMQYvucBQeN) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Ghosteen](https://open.spotify.com/album/5TkXgoeyGznBNOjrw17eA7) | 5:07 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 51 | [Tupelo \- 2009 Remastered Version](https://open.spotify.com/track/02TlBa3Yd1NEJtZP016QAB) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Firstborn Is Dead \(2009 Remastered Version\)](https://open.spotify.com/album/3ip2AtmEWIwqcdpdnXTx1o) | 7:18 |
 | 52 | [We Call Upon the Author](https://open.spotify.com/track/6Xy8yTxhKworfQRuMfG3a9) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Lovely Creatures \- The Best of Nick Cave and The Bad Seeds \(1984\-2014\) \[Deluxe Edition\]](https://open.spotify.com/album/05hXano83YIfeLyfdOoMIf) | 5:11 |
 | 53 | [Dig, Lazarus, Dig!!!](https://open.spotify.com/track/35KhiTHl9m38DWgRLudDuF) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Dig, Lazarus, Dig!!!](https://open.spotify.com/album/6Ctfs0lQ8K44Q0EfSCeYuy) | 4:11 |
-| 54 | [We Real Cool](https://open.spotify.com/track/2ZzMJjMfJEUtOCYXLX9NqY) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away \(Deluxe Edition\)](https://open.spotify.com/album/7DGzeERtReCHCG0k9mABXv) | 4:18 |
+| 54 | [We Real Cool](https://open.spotify.com/track/4FcdvAtBFWP1KSNKs9vRmy) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA) | 4:18 |
 | 55 | [Nature Boy](https://open.spotify.com/track/3SV2yDeosH5WpfE7FvJyTa) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 4:54 |
 | 56 | [Go Tell the Women](https://open.spotify.com/track/6hGQJxLMEFPmW29Ii8zI2G) | [Grinderman](https://open.spotify.com/artist/0IpDaO9A1OW1h0YChKzVaX) | [Grinderman](https://open.spotify.com/album/7H8mwwZrY0wptuWiIln2pp) | 3:24 |
 | 57 | [Little Janey's Gone](https://open.spotify.com/track/1GY2FzjvyJjmbaJcVwJYFS) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [B\-Sides and Rarities](https://open.spotify.com/album/2Bsy1Jgzx6SwGtah8SQzx5) | 2:58 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 64 | [Loverman \- 2011 Remastered Version](https://open.spotify.com/track/6sOCmuWkp0anAqgfLqzNjH) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In \(2011 Remastered Version\)](https://open.spotify.com/album/0Ewp4PEIzkcAyrC463a5xF) | 6:21 |
 | 65 | [Release The Bats](https://open.spotify.com/track/2CVsEpXpqU8ZEafa5SzIGI) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/7dnXe2EVoWKwGGGRLnoieV) | 2:31 |
 
-Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMDEyNmU5NTlhNzg0OTQwZWE3ZWY2MjNmNWViOTZjNDU4`
+Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwMGM4NjAwYWZmYTI0NjRjNjQ2Mjk2NDhkZjFiOTIzODBl`

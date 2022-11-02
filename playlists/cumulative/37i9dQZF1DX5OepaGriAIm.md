@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-167 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
+168 songs - 12 hr 9 min - [published](https://open.spotify.com/playlist/1MEL3p6LpkU53j4atRB7b3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Stand by me](https://open.spotify.com/track/2muiX4tWrBQP8lqyntgKaB) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy), [Jacob Sureda](https://open.spotify.com/artist/3gE03pCkb7C12o6c4BNX8u) | [Mestizüo](https://open.spotify.com/album/6a0PDaf3EreMYF04InjuVg) | 7:22 | 2021-12-02 |  |
 | [Stick It In Your Ear](https://open.spotify.com/track/2sno8z2lfzKUrBzdDL1Zpq) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [The Real Me](https://open.spotify.com/album/2BE1jX86yc2H5jMZUmspXq) | 4:24 | 2021-12-02 |  |
 | [Still](https://open.spotify.com/track/40M2UuFiZujtoCeqLXdXjD) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Still](https://open.spotify.com/album/6BtP6eE1CCGjrJIHZczis1) | 3:47 | 2021-12-02 |  |
-| [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 | 2021-12-02 |  |
+| [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 | 2021-12-02 | 2022-11-02 |
+| [Strange Flower](https://open.spotify.com/track/5yXxlQuUaPjIrHe3e6QKrb) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq) | 5:29 | 2022-10-07 |  |
 | [Strange Fruit](https://open.spotify.com/track/0iYWtWNtQRUlSZDESD5cnK) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore/Decca Masters](https://open.spotify.com/album/1LTW62zneyklPRBYWq6ZHz) | 3:12 | 2021-12-02 | 2022-07-29 |
 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 | 2022-03-08 |  |
 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 | 2021-12-02 |  |

@@ -4,13 +4,14 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-240 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+241 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 |  |
-| [A Taste of Silver](https://open.spotify.com/track/4VPGT5m48bSUaSy8xi5l0n) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/42FwFRL3RJqi3qZcC5ARTD) | 3:02 | 2020-12-11 |  |
+| [A Taste of Silver](https://open.spotify.com/track/4VPGT5m48bSUaSy8xi5l0n) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/42FwFRL3RJqi3qZcC5ARTD) | 3:02 | 2020-12-11 | 2022-11-02 |
+| [A Taste of Silver](https://open.spotify.com/track/5SOuMXd2jaCZY8m3sjzohx) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Lesson Unlearnt](https://open.spotify.com/album/5c74VB3brr3MeBxbk6QYLC) | 3:02 | 2022-10-07 |  |
 | [Alter Ego](https://open.spotify.com/track/2cop97v0W8YcsI7KBvOrUu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:08 | 2022-06-17 |  |
 | [Alter Ego](https://open.spotify.com/track/6wENHzpfTcBZkrJYxT2WAS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Backbone](https://open.spotify.com/album/3qKhKWdMfWfpxhUgUh0vt0) | 4:08 | 2020-12-11 | 2022-07-29 |
 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 | 2020-12-11 |  |

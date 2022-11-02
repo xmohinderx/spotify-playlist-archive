@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Paiva ZS e novos talentos brasileiros no horizonte.",
-  "num_followers": 421195,
+  "num_followers": 421200,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMGI4ZjAyZDFkMzdmMDIzNDIwOTk2YTJmZDhkMjJjMGYx",
+  "snapshot_id": "MTY2NTc3OTMxNywwMDAwMDAwMDI3ODQyMGMxNWEyZDFiOWJmNWRjYjYwMmJlODQyNDIy",
   "tracks": [
     {
       "added_at": "2022-10-14 20:28:37",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Quinto Degrau",
-        "url": "https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Quinto Degrau",
-      "url": "https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "P90",
         "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 123383,
       "name": "P90",
       "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Quinto Degrau",
+        "url": "https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Quinto Degrau",
+      "url": "https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "Capa de Revista",
-        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174314,
-      "name": "Capa de Revista",
-      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Farol",
         "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "Capa de Revista",
+        "url": "https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Capa de Revista",
+      "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "BXD IN JAZZ",
         "url": "https://open.spotify.com/album/2ocVVPThABbahLeYHR9FBO"
       },
@@ -875,26 +875,6 @@
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Quente e Colorido",
-        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 228223,
-      "name": "Quente e Colorido",
-      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -915,6 +895,26 @@
       "duration_ms": 222857,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/00CCXySfYOVAXvRb8y8bmo"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Quente e Colorido",
+        "url": "https://open.spotify.com/album/5A63mDBA1MSmqUpMU5ZSac"
+      },
+      "artists": [
+        {
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 228223,
+      "name": "Quente e Colorido",
+      "url": "https://open.spotify.com/track/18ngMCPo2m3W4rDzuUs9Cn"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 134264,
+      "name": "Matem\u00e1tica",
+      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
         "name": "De Novo",
         "url": "https://open.spotify.com/album/6BGcVu7zcnTWPONgBJe5mQ"
       },
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2022-10-14 20:28:37",
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 166103,
       "name": "Phone",
       "url": "https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM"
-    },
-    {
-      "added_at": "2022-10-14 20:28:37",
-      "album": {
-        "name": "Bendito Rol\u00ea",
-        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185749,
-      "name": "Eu Fico",
-      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-10-14 20:28:37",
@@ -1187,6 +1171,22 @@
       "duration_ms": 151374,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+    },
+    {
+      "added_at": "2022-10-14 20:28:37",
+      "album": {
+        "name": "Bendito Rol\u00ea",
+        "url": "https://open.spotify.com/album/5ThMKwTKtrGl29FxY0Q4FH"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185749,
+      "name": "Eu Fico",
+      "url": "https://open.spotify.com/track/1WtRLoB6c7wcMbTuZ6EbjT"
     },
     {
       "added_at": "2022-10-14 20:28:37",

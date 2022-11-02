@@ -1015,7 +1015,7 @@
     {
       "album": {
         "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
+        "url": "https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz"
       },
       "artists": [
         {
@@ -1026,6 +1026,24 @@
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245320,
+      "name": "Ready for the High",
+      "url": "https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V"
+    },
+    {
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
       "duration_ms": 245320,
       "name": "Ready for the High",
       "url": "https://open.spotify.com/track/7tWT6Ye2xizFRpIU5P2iu3"

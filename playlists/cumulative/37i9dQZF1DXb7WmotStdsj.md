@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-112 songs - 9 hr 5 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+113 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0GDjF1aq0W3hZN9whZtcmw) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 5:15 | 2021-10-19 | 2022-07-29 |
 | [Al Hachwa Hachwa](https://open.spotify.com/track/0TZ6DTWepaTh3yniKcaNYz) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Cheb Bello](https://open.spotify.com/album/0gstmykgUKTD2dV6QKWuV0) | 5:15 | 2022-05-11 | 2022-08-25 |
 | [Alach ana manansach](https://open.spotify.com/track/65rxGidLak2RsVEl2vkMAM) | [Cheb Nasro](https://open.spotify.com/artist/1qYpnd9rnstqqrGNYfwYNP) | [Alach ana manansach](https://open.spotify.com/album/2bOKrFNEjE5BZUaba94RyW) | 6:40 | 2022-09-20 | 2022-10-24 |
-| [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 |  |
+| [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 | 2021-10-19 | 2022-11-02 |
+| [Allo Gatli Nsani](https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Allo Gatli Nsani](https://open.spotify.com/album/1USeU5Fjj3Z5NPIVyOukQS) | 5:33 | 2022-10-30 |  |
 | [Amoune talens zahri win w ana win](https://open.spotify.com/track/5CLJ2AUPt5FEehRBKlaP2I) | [Chiheb Records](https://open.spotify.com/artist/1BzNuIZWSLjzzSGdhrAVzE) | [Amoune talens zahri win w ana win](https://open.spotify.com/album/1lBG8SHriKycg8252UOGX3) | 3:05 | 2022-09-08 | 2022-09-20 |
 | [Amour éternel](https://open.spotify.com/track/4Sea9Lf0PINpNxhZi1N0eK) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Amour éternel](https://open.spotify.com/album/0rnOYqNe9BKgJw9VS12Zp0) | 5:02 | 2022-08-28 | 2022-09-21 |
 | [Ana wiyak](https://open.spotify.com/track/4dw3HdccXL0pQQTgSwdRs6) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ana wiyak](https://open.spotify.com/album/7kuIaZYSdwLrufUJu8YRmk) | 3:03 | 2022-09-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 862367,
+  "num_followers": 862589,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDY3ZDgyZmY4YjQwOGZkODhlZThkZDAwMjNhZjI0Mjk1",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGIwNDA4ZDY3MzM4MTIwNjBiMzBlNDQzNGVhZTMwNDIz",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
     },
     {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "MAMI",
@@ -327,22 +343,6 @@
       "duration_ms": 247896,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
-    },
-    {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Get Up Off The Floor",
-        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Get Up Off The Floor",
-      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "duration_ms": 140184,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo"
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 140184,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG"
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 168170,
       "name": "Magic Carpet",
       "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Crystallise",
         "url": "https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK"
       },
@@ -1403,42 +1419,6 @@
       "duration_ms": 182612,
       "name": "Crystallise",
       "url": "https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Listen Up",
-        "url": "https://open.spotify.com/album/4LwxOAjsdpro1lF8gfw1yN"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        },
-        {
-          "name": "Chocolate Puma",
-          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
-        }
-      ],
-      "duration_ms": 123593,
-      "name": "Listen Up",
-      "url": "https://open.spotify.com/track/0qYS0cbvf7Ey5Hb0Af9pt3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1463,6 +1443,26 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Listen Up",
+        "url": "https://open.spotify.com/album/4LwxOAjsdpro1lF8gfw1yN"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "duration_ms": 123593,
+      "name": "Listen Up",
+      "url": "https://open.spotify.com/track/0qYS0cbvf7Ey5Hb0Af9pt3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Something's about to go down",
-        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215090,
-      "name": "Something's about to go down",
-      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) [Cat Dealers Remix]",
         "url": "https://open.spotify.com/album/04pL6T3KzbzyT5bKnvQsjl"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 135483,
       "name": "Sad Boy (feat. Ava Max & Kylie Cantrall) - Cat Dealers Remix",
       "url": "https://open.spotify.com/track/7KewOaneu1MC9RRrky8Oxc"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Something's about to go down",
+        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215090,
+      "name": "Something's about to go down",
+      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1601,6 +1601,26 @@
       "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
+      },
+      "artists": [
+        {
+          "name": "Afrojack presents NLW",
+          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+        },
+        {
+          "name": "Phlegmatic Dogs",
+          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+        }
+      ],
+      "duration_ms": 191285,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
+    },
+    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Let's Get Down",
@@ -1649,24 +1669,28 @@
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/16nkpBkz928wEufZWM3TwO"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
       },
       "artists": [
         {
-          "name": "Afrojack presents NLW",
-          "url": "https://open.spotify.com/artist/4lWmv250WqWOnM0FKmHxiO"
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
         },
         {
-          "name": "Phlegmatic Dogs",
-          "url": "https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "CeCe Rogers",
+          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
         }
       ],
-      "duration_ms": 191285,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/1kFs6riPsFjxz1VLb3H8yx"
+      "duration_ms": 204160,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1707,26 +1731,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
       },
       "artists": [
         {
-          "name": "SNBRN",
-          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         },
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "CeCe Rogers",
-          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
         }
       ],
-      "duration_ms": 204160,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -1747,26 +1767,6 @@
       "duration_ms": 197760,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/2Uk3eji99feKwQWknWUx4P"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1881,22 +1881,6 @@
       "url": "https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj"
     },
     {
-      "added_at": "2022-09-02 04:01:00",
-      "album": {
-        "name": "Noise",
-        "url": "https://open.spotify.com/album/2maqicbKaJE0nFMiaqbCDF"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 159791,
-      "name": "Noise",
-      "url": "https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE"
-    },
-    {
       "added_at": "2022-08-12 04:00:00",
       "album": {
         "name": "Green Light (feat. Kate Wild)",
@@ -1919,6 +1903,22 @@
       "duration_ms": 157500,
       "name": "Green Light (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
+    },
+    {
+      "added_at": "2022-09-02 04:01:00",
+      "album": {
+        "name": "Noise",
+        "url": "https://open.spotify.com/album/2maqicbKaJE0nFMiaqbCDF"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 159791,
+      "name": "Noise",
+      "url": "https://open.spotify.com/track/1VqDOw9oGH0pExiKzzeRXE"
     },
     {
       "added_at": "2022-08-26 04:01:00",

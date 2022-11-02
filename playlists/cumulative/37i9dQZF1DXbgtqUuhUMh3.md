@@ -2,9 +2,9 @@
 
 ### [EQUAL Arabia ](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
 
-> Listen to Arab women, at full volume\. Cover: Rahma Riad
+> Listen to Arab women, at full volume\. Cover: Manal
 
-323 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
+324 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/6cCioutZKMerUfIqu6fEVt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Maghnateess](https://open.spotify.com/track/4AbDFi4FmZuk1IwUWhGtY7) | [Cheen](https://open.spotify.com/artist/29Es5aQwN2V7y4kn4GZrIp) | [Maghnateess](https://open.spotify.com/album/56BkSCPiZsLGOJwAEqWgks) | 2:57 | 2021-12-23 | 2022-03-01 |
 | [Majaneen](https://open.spotify.com/track/6kJgqTQPgEwY0d7KMGmbLp) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Majaneen](https://open.spotify.com/album/7oxwkRW6lpv4jbdzgLlM1S) | 2:48 | 2022-10-06 |  |
 | [Makanak Mbyen](https://open.spotify.com/track/0TzQ3u6VhbcxTcRN3zBi8a) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Al Haneen](https://open.spotify.com/album/5ogbgcC7gexEMspoSYTU8z) | 3:49 | 2022-07-06 | 2022-07-08 |
+| [Makhelaw magalou](https://open.spotify.com/track/0jqUiExctgLt7bcghvD7Kw) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Makhelaw magalou](https://open.spotify.com/album/1aiMHJEw75iDP9reYTQ4lO) | 3:00 | 2022-11-01 |  |
 | [Makhntny](https://open.spotify.com/track/7lddnpLYUOXG1P1pGbMlxQ) | [Meme](https://open.spotify.com/artist/3VebAr9PRCkjBiOeeK2Xr3) | [Makhntny](https://open.spotify.com/album/0zR7KLmcF1FrxJhTjxfJ7l) | 3:21 | 2021-12-23 | 2022-03-02 |
 | [Malnash Naseeb](https://open.spotify.com/track/5BTkrgvHrlwrzQuKTXMuyd) | [Enas Ezz Eldeen](https://open.spotify.com/artist/4ZZsLsV3oBkkQ2i1INk0ts) | [Malnash Naseeb](https://open.spotify.com/album/7iG0WHzIp4kJSmJyzSvwXg) | 3:04 | 2021-12-23 | 2022-03-02 |
 | [Mamlaka](https://open.spotify.com/track/56e1uYjeT4Ju4F44ZKM9ra) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [Mamlaka](https://open.spotify.com/album/4onyPTXyL4H3qebKw8uLt0) | 3:29 | 2022-03-01 | 2022-03-04 |
@@ -288,7 +289,7 @@
 | [دنيا تخادعني](https://open.spotify.com/track/1PrYPtUDlryg0ZyNwaVZJb) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [دنيا تخادعني](https://open.spotify.com/album/138WUtaBeFpjSgRUJUHKX5) | 3:03 | 2022-01-20 | 2022-03-02 |
 | [رنا صولا \- صدق و الله](https://open.spotify.com/track/1WGcD9EHs1Sc0Vln3XqvpA) | [WINGS MYUZK وينقز ميوزك](https://open.spotify.com/artist/33TIlK7i17sv2ml2WkmAOS) | [رنا صولا \- صدق و الله](https://open.spotify.com/album/4gZ0e6dK1TI4tTCoQd85V9) | 5:00 | 2021-12-23 | 2022-03-02 |
 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 | 2022-06-02 |  |
-| [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 |  |
+| [زانت الدنيا](https://open.spotify.com/track/5EzRuKGJH0mbsN6v8Fnv9I) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/1LR4dAWfgxCfo15VonGAmO) | 3:39 | 2022-03-01 | 2022-11-02 |
 | [زانت الدنيا](https://open.spotify.com/track/64HUI1fV8NCK4mXIuJjpTM) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [زانت الدنيا](https://open.spotify.com/album/6jCgIgKjHDVxTAxJkndLSI) | 3:39 | 2022-09-22 | 2022-09-29 |
 | [زدني](https://open.spotify.com/track/3E1tVxMoF3w8oHGdG6i3J5) | [Walaa Jundi](https://open.spotify.com/artist/1gyhxMT4OsXujzd3pcgdR5) | [زدني](https://open.spotify.com/album/0AaafNn1A6tpN9D7Zw8euK) | 5:21 | 2022-08-19 |  |
 | [زعلانة من نفسي](https://open.spotify.com/track/6rPJBLRp8R0b3aQyb73wsr) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [زعلانة من نفسي](https://open.spotify.com/album/0uQIyzQ7u48jrBVQwFclUE) | 4:14 | 2021-12-23 | 2022-03-02 |

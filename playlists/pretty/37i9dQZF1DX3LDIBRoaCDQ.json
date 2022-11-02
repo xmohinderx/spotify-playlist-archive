@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1432687,
+  "num_followers": 1432898,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMDdmY2UzM2UxMGQ4MWEzMzNjNjBkYzNlYWYyY2I3ODU4",
+  "snapshot_id": "MTY2MzE2MDQwMCwwMDAwMDAwMGQxZjE2MjU3MDVlNmI4YjllZGI2ZDlhZjZlOWFhYmMx",
   "tracks": [
     {
       "added_at": "2022-06-21 19:07:54",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Songs The Lord Taught Us",
+        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "I Was A Teenage Werewolf - Remastered",
+      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Songs The Lord Taught Us",
-        "url": "https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "I Was A Teenage Werewolf - Remastered",
-      "url": "https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -303,6 +303,22 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "She's Lost Control - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "Give Me Convenience or Give Me Death",
+        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
         }
       ],
-      "duration_ms": 237013,
-      "name": "She's Lost Control - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV"
+      "duration_ms": 207040,
+      "name": "California Uber Alles",
+      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -351,22 +367,6 @@
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man",
       "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
-        "name": "Give Me Convenience or Give Me Death",
-        "url": "https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 207040,
-      "name": "California Uber Alles",
-      "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Q: Are We Not Men? A: We Are Devo!",
-        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
-      },
-      "artists": [
-        {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Uncontrollable Urge",
-      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 210866,
       "name": "Don't Want to Know If You Are Lonely",
       "url": "https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Q: Are We Not Men? A: We Are Devo!",
+        "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Uncontrollable Urge",
+      "url": "https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Damaged",
-        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
-      },
-      "artists": [
-        {
-          "name": "Black Flag",
-          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "TV Party",
-      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Damned Damned Damned",
         "url": "https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 161573,
       "name": "Neat Neat Neat",
       "url": "https://open.spotify.com/track/7abNwHdN34BP9q4tKfKeMg"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
+      },
+      "artists": [
+        {
+          "name": "Black Flag",
+          "url": "https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "TV Party",
+      "url": "https://open.spotify.com/track/4DA95pyBe6QORPGvTEuMWQ"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "Pink Flag",
-        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
-      },
-      "artists": [
-        {
-          "name": "Wire",
-          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
-        }
-      ],
-      "duration_ms": 139693,
-      "name": "Ex Lion Tamer - 2006 Remastered Version",
-      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
-    },
-    {
-      "added_at": "2021-10-06 09:12:22",
-      "album": {
         "name": "Fresh Fruit for Rotting Vegetables",
         "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2021-10-06 09:12:22",
       "album": {
-        "name": "The Day the Country Died",
-        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+        "name": "Pink Flag",
+        "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
       "artists": [
         {
-          "name": "Subhumans",
-          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+          "name": "Wire",
+          "url": "https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Mickey Mouse Is Dead",
-      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
+      "duration_ms": 139693,
+      "name": "Ex Lion Tamer - 2006 Remastered Version",
+      "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
     },
     {
       "added_at": "2021-10-06 09:12:22",
@@ -1379,6 +1363,22 @@
       "duration_ms": 107866,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
+    },
+    {
+      "added_at": "2021-10-06 09:12:22",
+      "album": {
+        "name": "The Day the Country Died",
+        "url": "https://open.spotify.com/album/0Ac1BnAP68QE6d7vQATap1"
+      },
+      "artists": [
+        {
+          "name": "Subhumans",
+          "url": "https://open.spotify.com/artist/1lJNwrcZP9AEjFL7s8YdbK"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Mickey Mouse Is Dead",
+      "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
     },
     {
       "added_at": "2021-10-06 09:12:22",

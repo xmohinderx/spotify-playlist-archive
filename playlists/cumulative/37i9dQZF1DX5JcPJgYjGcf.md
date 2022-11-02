@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-122 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
+123 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,11 +121,12 @@
 | [XOXO \(Kisses & Hugs\)](https://open.spotify.com/track/6S4S55KPkSB2OEzVrBe3ez) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG) | 3:06 | 2021-07-26 | 2022-07-29 |
 | [Ya Ya Ya](https://open.spotify.com/track/2Dn0UlDRJ4iSMlSdZ103pg) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:42 | 2021-07-26 |  |
 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 | 2021-07-26 |  |
-| [Your moonlight](https://open.spotify.com/track/6iuqiQSsoSyYzwUdYTdAzo) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Do You Like Brahms? OST Part.3](https://open.spotify.com/album/6aWsKj6LX7pXpVdmhjFPHC) | 3:43 | 2021-07-26 |  |
+| [Your moonlight](https://open.spotify.com/track/6iuqiQSsoSyYzwUdYTdAzo) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Do You Like Brahms? OST Part.3](https://open.spotify.com/album/6aWsKj6LX7pXpVdmhjFPHC) | 3:43 | 2021-07-26 | 2022-11-02 |
 | [Yours](https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Yours](https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn) | 3:55 | 2021-07-26 |  |
 | [花요일 Blooming Day](https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [Blooming Days \- The 2nd Mini Album](https://open.spotify.com/album/14zRuZjpOkB4IrUkFsrN31) | 3:19 | 2021-07-26 |  |
 | [나비소녀 \(Don't Go\)](https://open.spotify.com/track/1vXsCZjGd1LW6EVwcPhMc7) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG) | 3:34 | 2021-07-26 | 2022-07-29 |
 | [너를 사랑하고 있어](https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [낭만닥터 김사부 2 \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT) | 3:13 | 2021-07-26 |  |
+| [너의 달빛](https://open.spotify.com/track/7rk0jW98zIHYlfL5FYtEx3) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/0AyYSWdDhu1yiFCrsX0fD9) | 3:43 | 2021-07-26 |  |
 | [늑대와 미녀 \(Wolf\)](https://open.spotify.com/track/7kOHvrxpc31hHZMDXvqEqQ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG) | 3:50 | 2021-07-26 | 2022-07-29 |
 | [불공평해 Unfair](https://open.spotify.com/track/6AsyiVAciYZmXBj3l6jp4l) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [SING FOR YOU \- Winter Special Album, 2015](https://open.spotify.com/album/5gdBIiSdnlQ4VFrJQ2eAym) | 3:02 | 2021-07-26 | 2022-07-29 |
 | [으르렁 Growl](https://open.spotify.com/track/6xy9JYFKcpb9L62PRNnYW5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG) | 3:27 | 2021-07-26 | 2022-07-29 |

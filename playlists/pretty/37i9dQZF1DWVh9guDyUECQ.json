@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 151288,
+  "num_followers": 151337,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDUyNjAwYzE3OTFlOTcyN2RmY2U3MjY3MTdhNTM5MGQ3",
+  "snapshot_id": "MTY2MTU3NjY4NSwwMDAwMDAwMDRlMDlhM2JmY2YwYzlhZjlhYTUxMTc1YTZlMzk3N2Ew",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Entre Nubes",
+        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "Influencer",
+      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Apocalipsis (Remix)",
         "url": "https://open.spotify.com/album/1CFULVLikyzs7MLrRtuwmY"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 250480,
       "name": "Apocalipsis - Remix",
       "url": "https://open.spotify.com/track/3LlofqmjZxsorZ27t3qiHd"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Entre Nubes",
-        "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 205706,
-      "name": "Influencer",
-      "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+        "name": "El Dise\u00f1ador",
+        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
       },
       "artists": [
         {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
         }
       ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+      "duration_ms": 225930,
+      "name": "El Dise\u00f1ador",
+      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1339,18 +1339,38 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "El Dise\u00f1ador",
-        "url": "https://open.spotify.com/album/0tz45s1oDSc54xcm3HCHmC"
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
         }
       ],
-      "duration_ms": 225930,
-      "name": "El Dise\u00f1ador",
-      "url": "https://open.spotify.com/track/30aEQibVvYLhzIOTuNpT3b"
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1423,26 +1443,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6rrhTrRoDHIAOrqudQ65Yt"
       },
@@ -1459,26 +1459,6 @@
       "duration_ms": 217695,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0OxK3aqp1yo6d0s87J4v9X"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Mi Entrenador",
-        "url": "https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK"
-      },
-      "artists": [
-        {
-          "name": "KEFFA",
-          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
-        },
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "Mi Entrenador",
-      "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1535,6 +1515,26 @@
       "duration_ms": 231008,
       "name": "Noches Enteras",
       "url": "https://open.spotify.com/track/3eBg8ZT1g8P6oSx34fe5Fm"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Mi Entrenador",
+        "url": "https://open.spotify.com/album/48uz8wzPvxy3Sea9U7hHhK"
+      },
+      "artists": [
+        {
+          "name": "KEFFA",
+          "url": "https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9"
+        },
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "Mi Entrenador",
+      "url": "https://open.spotify.com/track/3fBRK9zXvruN6etffZMP31"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Dios, Familia & Rap",
+        "url": "https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne"
+      },
+      "artists": [
+        {
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+        }
+      ],
+      "duration_ms": 257506,
+      "name": "Dios, Familia & Rap",
+      "url": "https://open.spotify.com/track/3ppiIqfZjtxmd5ZT1qPluY"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Mi Cielo",
         "url": "https://open.spotify.com/album/5D4GmyyaF6KhL0rjJWzuM6"
       },
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dios, Familia & Rap",
-        "url": "https://open.spotify.com/album/1lue6TfOPJ4qL1EXkQ2Kne"
-      },
-      "artists": [
-        {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
-        }
-      ],
-      "duration_ms": 257506,
-      "name": "Dios, Familia & Rap",
-      "url": "https://open.spotify.com/track/3ppiIqfZjtxmd5ZT1qPluY"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Mi Entrenador (Remix)",
         "url": "https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp"
       },
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Ese Cari\u00f1ito",
+        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad 111",
+          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Ese Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Picheo",
         "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
       },
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Ese Cari\u00f1ito",
-        "url": "https://open.spotify.com/album/08u7iUG2KRR9S2vMf2yMnE"
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
       "artists": [
         {
-          "name": "La Sociedad 111",
-          "url": "https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p"
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Ese Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/2ymVoIZI6P2asjeZVrp6J9"
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1743,22 +1759,6 @@
       "duration_ms": 244793,
       "name": "Indestructible",
       "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Medicina",
+        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
+      },
+      "artists": [
+        {
+          "name": "Omy Alka",
+          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
+        }
+      ],
+      "duration_ms": 186602,
+      "name": "Medicina",
+      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "M\u00e1s Como T\u00fa \u2013 Remix",
         "url": "https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 206230,
       "name": "M\u00e1s Como T\u00fa \u2013 Remix",
       "url": "https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Medicina",
-        "url": "https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF"
-      },
-      "artists": [
-        {
-          "name": "Omy Alka",
-          "url": "https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh"
-        }
-      ],
-      "duration_ms": 186602,
-      "name": "Medicina",
-      "url": "https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J"
     }
   ],
   "unique_name": "Flow Cristiano",

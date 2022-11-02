@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,495 likes - 61 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,505 likes - 61 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 3 | [Happiness](https://open.spotify.com/track/5S4J5QVt1X0ZACiPOrOCoq) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Alexis Jordan](https://open.spotify.com/album/6W0rJuDT17aWbYca3dzzz6) | 4:03 |
 | 4 | [Liquorice](https://open.spotify.com/track/3LmlegS3av5opwiIMVDbgI) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 3:16 |
 | 5 | [Mean Girls](https://open.spotify.com/track/64n00yB9GuPvH5FJiNtq8F) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [333](https://open.spotify.com/album/38grabLpTHYySHEyG0TyUN) | 2:26 |
-| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/3MJmnfqoLQ29DkcOi8v5lL) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/1sEBFzld6aMExAsErmLQ0N) | 4:01 |
+| 6 | [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/4kE5gZGXZ6kWmsrD8N2n8u) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 4:01 |
 | 7 | [Auto Salon](https://open.spotify.com/track/5Xw5KbzT7LuvTv07LukrOE) | [bodyGaard](https://open.spotify.com/artist/2LBjk8Kcii9JHM18uYW873), [EXODUS1900](https://open.spotify.com/artist/3KBmWkJiBmv1gxLfY4EcoW) | [Auto Salon](https://open.spotify.com/album/4osvPLfw5tgtAbdxO6pp7q) | 2:33 |
 | 8 | [Yeah Yeah \- D Ramirez Vocal Radio Edit](https://open.spotify.com/track/4HVGC52IogHANcKFA0QYiT) | [Bodyrox](https://open.spotify.com/artist/3FVJvsdVNbVmydSuI22Z5v) | [Yeah Yeah](https://open.spotify.com/album/0qIj9p0MyiMJWtw9Bqc5br) | 2:41 |
 | 9 | [Take Me](https://open.spotify.com/track/6YcHYJZq0fyqU41rlpIoh9) | [Boy Sim](https://open.spotify.com/artist/3bfT2u8Dz3hoSDvSZ8KyqH), [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Pink Noise](https://open.spotify.com/album/45h2tvlBBKHQe7d5p0uSNU) | 3:20 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UEZtrrltfH.md) - [plain]
 | 60 | [FELL](https://open.spotify.com/track/2Vv2boJ8svGFAOA348ApxQ) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [SIREN CALL](https://open.spotify.com/album/3Mozvi21Fv8p7YSjRcRSkg) | 3:03 |
 | 61 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 |
 
-Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDcyMTM0ODFiMWU5M2Q4MzgxM2QxMDRjMjE3MmY0ZDM3`
+Snapshot ID: `MTY0ODcwMjkzMSwwMDAwMDAwMDk4NTYwMTdjNTk1NjM4ODhjMzQ2YTMxYzdmYTIyYjFk`

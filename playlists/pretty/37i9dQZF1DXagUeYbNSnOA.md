@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Paty B on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,362 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,367 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 20 | [Palmeras](https://open.spotify.com/track/2lMr37Qk71sfTA8VgzqXoU) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM) | [Palmeras](https://open.spotify.com/album/7BnjysmzcG4LA4GgMJwFzm) | 3:21 |
 | 21 | [AMORA](https://open.spotify.com/track/7IjtOXWPGD7TcuFCW0syRh) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx), [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:28 |
 | 22 | [Renacido](https://open.spotify.com/track/1PgYtZpduCudxW8qXsIqiA) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6Yaf4PTIaXFWY6IzKntXcg) | 4:13 |
-| 23 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
-| 24 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
+| 23 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
+| 24 | [Cohen's Cumbia](https://open.spotify.com/track/0grJOktXuvYmpU2FAW8uMG) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 2:33 |
 | 25 | [Muy tarde](https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Muy tarde](https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X) | 3:15 |
 | 26 | [A Fling](https://open.spotify.com/track/3vMT9YnaHxJmfYw78RXMTt) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [A Fling](https://open.spotify.com/album/1vD5edBn4vm1Z3wMQeHynf) | 3:23 |
 | 27 | [Mejor Que Antes](https://open.spotify.com/track/1DcDGVU97O7KJh57Gwzw67) | [Seba Otero](https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i) | [Mejor Que Antes](https://open.spotify.com/album/3vmuUl2F4KeU8hgJ3V9zuU) | 4:04 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 31 | [Nuestro amor](https://open.spotify.com/track/3K5z6tNpQfD8GT3BWgSRK6) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG) | [Tristelandia!](https://open.spotify.com/album/6R2tvA4USRyvNgPPONtV1I) | 2:55 |
 | 32 | [Esperanza verbena](https://open.spotify.com/track/5EkSCUTjc5JkOI6EtJ5gSt) | [Sofía Comas](https://open.spotify.com/artist/4W8QcZ9XWkdnFcMFVwL6Rb) | [Esperanza verbena](https://open.spotify.com/album/4SzOzuwAoK3fXfEiLGAGYs) | 4:15 |
 | 33 | [Dos](https://open.spotify.com/track/1mUbtSADhtduD8wDAsp5d3) | [Flavia Marsano](https://open.spotify.com/artist/0E3zF8psuUTTnB0CpbIw8A), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [Dos](https://open.spotify.com/album/3CZAEDPl0NPom8kZskSk3n) | 2:54 |
-| 34 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
-| 35 | [Mil Palabras](https://open.spotify.com/track/5VmQzCqiEd9JOtTvuI0rar) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Paso a Paso](https://open.spotify.com/album/36uCYKas4A1NhJ5RnP3zeb) | 4:03 |
+| 34 | [Mil Palabras](https://open.spotify.com/track/5VmQzCqiEd9JOtTvuI0rar) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Paso a Paso](https://open.spotify.com/album/36uCYKas4A1NhJ5RnP3zeb) | 4:03 |
+| 35 | [Bambi](https://open.spotify.com/track/5mVTUPQXQzS2Ty8MBZ0FhT) | [Koi Pali](https://open.spotify.com/artist/2gJGOjo2E0RVyl1wfGEe33) | [Bambi](https://open.spotify.com/album/0wjElLjSudN1nqdwliwXtG) | 3:10 |
 | 36 | [Cuando Estemos Juntos](https://open.spotify.com/track/2ikii4lglZTRIKvBJDwUnq) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Cuando Estemos Juntos](https://open.spotify.com/album/2IhW85V6DWFSaz3NCEA4gz) | 3:03 |
 | 37 | [Yendo](https://open.spotify.com/track/2z5SxI5c7V2KeZvLhWdZij) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Yendo](https://open.spotify.com/album/77NMPAtfaEyFCPfOSOQBSj) | 3:14 |
 | 38 | [Perico](https://open.spotify.com/track/5OdPwVjE7NN9Gu43JoeVyK) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Perico](https://open.spotify.com/album/5ZUqoR5HMtZJv2kUsjSUca) | 3:24 |
 | 39 | [Flow Natty](https://open.spotify.com/track/7EDf9zG0Xan6ZT7QatIsYq) | [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl), [Relax Buay](https://open.spotify.com/artist/3BRqgBejceV380iCe3RPAq), [Darnelt](https://open.spotify.com/artist/4LLUyAiSXJwDzoSCDa1q51), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [Flow Natty](https://open.spotify.com/album/0STCOjnotffOUHHmUnWzm7) | 3:06 |
 | 40 | [Entre Dioses y Hombres](https://open.spotify.com/track/5t3X8GvRNmJswMbgqYf28v) | [Anna Zechini](https://open.spotify.com/artist/05ZopzejPjuBllmjBPWTKL) | [Entre Dioses y Hombres](https://open.spotify.com/album/4ogy8je9zEM76AP3ZLRAwC) | 3:33 |
 | 41 | [Incendio](https://open.spotify.com/track/662HK9Y4QNgllJyLgjsmp3) | [Cuchillas](https://open.spotify.com/artist/1ijMSVBbWChLbwqGPM5ye8) | [Incendio](https://open.spotify.com/album/0Ml6rdX8Oz0dp2SexNafy4) | 2:46 |
-| 42 | [Tres Mil Lunas](https://open.spotify.com/track/0GJbO51Jn2C0IDy0dpGK9b) | [Somos Del Aire](https://open.spotify.com/artist/2FtTSV5f2QKOtTDYAt9pxU) | [Tres Mil Lunas](https://open.spotify.com/album/5KSqoVwfUhOKmeH5Pgo3Zw) | 3:46 |
-| 43 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 |
-| 44 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 42 | [lily](https://open.spotify.com/track/4hR01wP1VSBPgWKfSwBFoV) | [Danny Mont](https://open.spotify.com/artist/1gou3HfZ7uvFTtKjGLmSDX) | [fluye](https://open.spotify.com/album/3mJAwpV1KDVspcAijqtxLb) | 3:45 |
+| 43 | [Tres Mil Lunas](https://open.spotify.com/track/0GJbO51Jn2C0IDy0dpGK9b) | [Somos Del Aire](https://open.spotify.com/artist/2FtTSV5f2QKOtTDYAt9pxU) | [Tres Mil Lunas](https://open.spotify.com/album/5KSqoVwfUhOKmeH5Pgo3Zw) | 3:46 |
+| 44 | [De Todo Lo Que Fui.](https://open.spotify.com/track/6XHD6YyLwHaXgzueE06M1T) | [Iconauta](https://open.spotify.com/artist/77E8njlzjdYyrOQIkPyPLL) | [De Todo Lo Que Fui.](https://open.spotify.com/album/5r3V99jI3Ix5C5QG4L78je) | 4:41 |
 | 45 | [Casas de Papel](https://open.spotify.com/track/4CBSgapphmbC1Y7bGY1l1Y) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3) | [Casas de Papel](https://open.spotify.com/album/4ASwsSghM0muZ5n7SHI2Rn) | 3:48 |
-| 46 | [Dejar Ir](https://open.spotify.com/track/0fDBYjcdhyX5dBYLk8CuVn) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [Dejar Ir](https://open.spotify.com/album/2jYxX2nzr4bHdKy1SiE4D9) | 3:27 |
+| 46 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
 | 47 | [Alegría](https://open.spotify.com/track/4oxKdkEXwEdXdNaC6VxFty) | [Matiu Colin](https://open.spotify.com/artist/6W8Ofn1pE301BFgbJKoHTr) | [Alegría](https://open.spotify.com/album/3YSQyXp8WtEyzqDqbmEe1f) | 2:22 |
-| 48 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
-| 49 | [Deli](https://open.spotify.com/track/2RJGG7vHbpeHAQBn3j0uXy) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Deli](https://open.spotify.com/album/1epbH0ETJHGa7WAOso7Mbc) | 2:59 |
+| 48 | [Dejar Ir](https://open.spotify.com/track/0fDBYjcdhyX5dBYLk8CuVn) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [Dejar Ir](https://open.spotify.com/album/2jYxX2nzr4bHdKy1SiE4D9) | 3:27 |
+| 49 | [Girasoles al Oleo](https://open.spotify.com/track/2pLnslSZU2Kvo6VPNLwOmf) | [Aldeano de Neptuno](https://open.spotify.com/artist/7yU2HDXuhph3gvTovbTGSj), [Thaissa](https://open.spotify.com/artist/2cKO3OiykGBzHdb6406dHZ) | [Girasoles al Oleo](https://open.spotify.com/album/4qMplBH0Zqv8KbkawU8Y0d) | 4:24 |
 | 50 | [Todos Los Santos](https://open.spotify.com/track/5QLjbGLCGssN55oxPrd9km) | [Belmar](https://open.spotify.com/artist/5vDnG2WZMxXkNboI8AJ3af), [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [Todos Los Santos](https://open.spotify.com/album/0vHw6Q8lqxb4GcXdhUKOiR) | 3:33 |
 | 51 | [Cambio](https://open.spotify.com/track/2Wx2d8OODeBcsE3YvuOzGw) | [Sara Acero](https://open.spotify.com/artist/6W6fsqgVlpnVT4hRA4eAA3) | [Cambio](https://open.spotify.com/album/4vailhGtYloRy0jxzbQMB6) | 3:41 |
 | 52 | [Quiero](https://open.spotify.com/track/5KSYtUHpxFoci0kh3B8byx) | [El Espacio Interior](https://open.spotify.com/artist/0v6nWltBnozbHnwzIjYz1b) | [Un poco más de lo normal](https://open.spotify.com/album/0DQz5PhEXRcoXg6Jbzvxxj) | 2:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 59 | [Curarire](https://open.spotify.com/track/0FYXJKkWdtKffPfPDu7omA) | [puertoazul](https://open.spotify.com/artist/0iCY5VtcfIWlryZ0RioQZ7), [Hilandera](https://open.spotify.com/artist/74PfPEOPKfB85LC1Sb4lwO) | [Curarire](https://open.spotify.com/album/1AyjQmNVdv7HcFAP282See) | 3:22 |
 | 60 | [CHEKE\-CHEKE](https://open.spotify.com/track/3f7QZgD4hF83S97OOyqFx2) | [Nico Legon](https://open.spotify.com/artist/61Le1rJ93LGe5oLoe7sGRv), [Julián Barneix](https://open.spotify.com/artist/42MtpIBsOfvk3WbTcFKH4W) | [CHEKE\-CHEKE](https://open.spotify.com/album/6CmWee1b2NwxX3S6xVC9qt) | 4:21 |
 
-Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMDY2MTRlYWU4OTY3MDBlODhjNjkyODE2NGZlNDc2YzI5`
+Snapshot ID: `MTY2Njg3ODI5NSwwMDAwMDAwMDY5MDQ2YmY0YzVhYWEyOGJkZDY3NzhjMjZjYjE2NGNj`

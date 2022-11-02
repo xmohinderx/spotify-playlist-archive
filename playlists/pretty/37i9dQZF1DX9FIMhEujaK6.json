@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 328569,
+  "num_followers": 328582,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODMwMzk3NSwwMDAwMDAwMDhjN2FjZWEzMDY2YTQ3MmVjODZkOTNkY2VjZmM5ODRi",
+  "snapshot_id": "MTY1ODMwMzk3NSwwMDAwMDAwMDk2M2VjNjQ2N2I4NjE0Y2I5Yjc0NzI4ZjRkYjVlN2Qw",
   "tracks": [
     {
       "added_at": "2022-07-20 07:59:35",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-20 07:59:35",
       "album": {
-        "name": "Our Love",
-        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "Can't Do Without You",
-      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
-    },
-    {
-      "added_at": "2022-07-20 07:59:35",
-      "album": {
         "name": "Lone Raver",
         "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 257299,
       "name": "Lone Raver",
       "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+    },
+    {
+      "added_at": "2022-07-20 07:59:35",
+      "album": {
+        "name": "Our Love",
+        "url": "https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "Can't Do Without You",
+      "url": "https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj"
     },
     {
       "added_at": "2022-07-20 07:59:35",

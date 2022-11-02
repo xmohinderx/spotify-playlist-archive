@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,143 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,230 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 25 | [The Ticket](https://open.spotify.com/track/7tEgXYCi32cOG6s9Fut8T2) | [Ed:it](https://open.spotify.com/artist/66KRvTzYwJCAY0YkkGGKPu), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Silhouettes \- Part Three](https://open.spotify.com/album/4q4PTlt8sDTIEAuZo46LQu) | 4:34 |
 | 26 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 27 | [Bayside Groove](https://open.spotify.com/track/64pPRNi9JLagq9RVYvInVu) | [Athena](https://open.spotify.com/artist/5zQVK5kEmMGuMqreKxjyNb) | [Bayside Groove](https://open.spotify.com/album/7by2OIjwE1crH5hT1SrBB7) | 5:18 |
-| 28 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
-| 29 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
+| 28 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 |
+| 29 | [God of Ages](https://open.spotify.com/track/6x7Ph08iji4gJD1FLM2qPH) | [Mohican Sun](https://open.spotify.com/artist/7LzWa2AUty3RU0znyhG70N) | [God of Ages](https://open.spotify.com/album/4tbviI1cmbFMOeMvNEc0Ok) | 4:12 |
 | 30 | [Temperatures Rising](https://open.spotify.com/track/46jyHtJNVXtSpiC28yPU7d) | [Saikon](https://open.spotify.com/artist/707ZRpYLs1GDIhrAieihDG) | [Makeda EP](https://open.spotify.com/album/5r3rzzgTCxYmRYucoURrpP) | 4:58 |
 | 31 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 |
 | 32 | [Don't Ever](https://open.spotify.com/track/1VlTXiHOAbQf7eXe15gBU9) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [Don't Ever](https://open.spotify.com/album/3eMBkyz6Jilgc7OMLcduCg) | 4:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 43 | [Believe](https://open.spotify.com/track/6G8sFs8Nw2yQ6zHLmSSb7r) | [Malaky](https://open.spotify.com/artist/43DHa7Q1IhECAE5YtN3jHQ) | [Serenity EP](https://open.spotify.com/album/1F5ChgvE0QsH7Pb3ScmYTz) | 4:47 |
 | 44 | [When the Dawn Breaks](https://open.spotify.com/track/2np1uTXhFOt6q0atgeLDVz) | [Technimatic](https://open.spotify.com/artist/1LhB1j0Zq3tjBeG3k8gq7V), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [When the Dawn Breaks](https://open.spotify.com/album/3e90wdBsVki90Y9paEUS8X) | 4:30 |
 | 45 | [Would You](https://open.spotify.com/track/6L6P4SI85euz5yGQl05Csv) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Gaslight EP](https://open.spotify.com/album/28mx8HZTojPZHHneRMGPCF) | 5:00 |
-| 46 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
-| 47 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
+| 46 | [Sleepless](https://open.spotify.com/track/11jALbqbvABzPKe44hM5KS) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Sleepless](https://open.spotify.com/album/39fPiGhZ4O69w2BOlDrxJb) | 4:37 |
+| 47 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 |
 | 48 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 | 49 | [Save Me From You](https://open.spotify.com/track/0JaNMkK1xIuC10SEOqwLT0) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Passage](https://open.spotify.com/album/15P7PptbdFFnrVcP0MwYh6) | 4:01 |
 | 50 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 
-Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMGY3NjE1NjEwOTQ3NTZmZmEwZWIyYzU1MjIxODQ4ZDcw`
+Snapshot ID: `MTY2Njk3NTU5NCwwMDAwMDAwMDMwN2NhNmNjNWM3NTk5NjNiMTJmYTgzMmM2ODZkMThm`

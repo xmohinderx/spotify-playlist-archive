@@ -4,7 +4,7 @@
 
 > The official playlist for Sex Education\. Watch now on Netflix.
 
-80 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/03Z90QqcWDw1OsFOAahdXg)
+81 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/03Z90QqcWDw1OsFOAahdXg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 | 2021-10-26 |  |
 | [I Kissed A Girl](https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:59 | 2021-10-26 | 2022-07-29 |
 | [I Knew You Were Trouble.](https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Big Machine Radio Release Special\)](https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D) | 3:39 | 2021-10-26 |  |
-| [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2021-10-26 |  |
+| [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2021-10-26 |  |
+| [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2021-10-26 | 2022-11-02 |
 | [I Need A Dollar](https://open.spotify.com/track/3oUphdZVPyrsprZ8FgbmQS) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/6G9PvX9f6Dq26JzsiVHIdl) | 4:03 | 2021-10-26 |  |
 | [I Need A Dollar](https://open.spotify.com/track/6q1qACcezH6eH77Xljh5QV) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Good Things](https://open.spotify.com/album/2LAdkhxTJkCWUE4sPw1zgb) | 4:03 | 2021-10-26 | 2022-07-29 |
 | [I Ran \(So Far Away\)](https://open.spotify.com/track/4OdhffpvG3HxDJMxYOKh97) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [A Flock Of Seagulls](https://open.spotify.com/album/1hwPP3qgnV7PQrMSy6qFw8) | 5:08 | 2021-10-26 |  |

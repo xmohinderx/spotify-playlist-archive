@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 34110,
+  "num_followers": 34116,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMDk0NGQ2NTc5YmI0OTg5MWVlM2RmMTUxNjQ2NTk4MDYz",
+  "snapshot_id": "MTY0MzA1MzkwNywwMDAwMDAwMGYwMjc5MGUzZmU2MTk5MzE0ZWQwYjFjMWZmMzBiMThh",
   "tracks": [
     {
       "added_at": "2022-01-24 19:51:47",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
+        "name": "Los Due\u00f1os del Swing",
+        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 260600,
+      "name": "La Due\u00f1a del Swing",
+      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
         "name": "Con Arena Nueva",
         "url": "https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 211000,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
-        "name": "Los Due\u00f1os del Swing",
-        "url": "https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 260600,
-      "name": "La Due\u00f1a del Swing",
-      "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
     },
     {
       "added_at": "2022-01-24 19:51:47",
@@ -655,6 +655,22 @@
     {
       "added_at": "2022-01-24 19:51:47",
       "album": {
+        "name": "Siente El Amor",
+        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "Es Mentiroso",
+      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
+    },
+    {
+      "added_at": "2022-01-24 19:51:47",
+      "album": {
         "name": "La Hora de la Verdad",
         "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 376533,
       "name": "Vivo en el limbo",
       "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
-    },
-    {
-      "added_at": "2022-01-24 19:51:47",
-      "album": {
-        "name": "Siente El Amor",
-        "url": "https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R"
-      },
-      "artists": [
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
-        }
-      ],
-      "duration_ms": 242973,
-      "name": "Es Mentiroso",
-      "url": "https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ"
     },
     {
       "added_at": "2022-01-24 19:51:47",

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Niki",
-  "num_followers": 79444,
+  "num_followers": 79548,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDc2ZjZhNDA0MjJhYjFiN2RlNjRkNTNiYzAyM2I1NmFj",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDUxYTNiOGNiZDY5NzllMGU3NTFiYWYxZTljZDgwNTJm",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Despacito",
         "url": "https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3"
       },
@@ -840,22 +856,6 @@
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/3VSigF6xRqMohhx8qUjRmE"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 260415,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/3lFvgGhin8RuplMTfKlhSF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
+      },
+      "artists": [
+        {
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "All Too Well",
         "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 315475,
       "name": "All Too Well",
       "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Judah & The Lion (Unplugged)",
+        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 251805,
+      "name": "Soak up the Sun - Unplugged",
+      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Industry Baby",
         "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 216000,
       "name": "Ocean Eyes (Acoustic)",
       "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Judah & The Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 251805,
-      "name": "Soak up the Sun - Unplugged",
-      "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 230775,
-      "name": "High",
-      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+        "name": "High",
+        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 238439,
-      "name": "Complicated - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
+      "duration_ms": 230775,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1559,6 +1543,22 @@
       "duration_ms": 167933,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 238439,
+      "name": "Complicated - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Semicolon & Parentheses (Deluxe)",
+        "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
+      },
+      "artists": [
+        {
+          "name": "Dylan Rockoff",
+          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
+        },
+        {
+          "name": "Caroline Kole",
+          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
+        }
+      ],
+      "duration_ms": 172782,
+      "name": "You're the One That I Want",
+      "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "I'm With You",
         "url": "https://open.spotify.com/album/3Omupu2Y8hvpJk9cinOi4a"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 173334,
       "name": "I'm With You",
       "url": "https://open.spotify.com/track/3zLsU8qJbhTnd2QUu7pLtJ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "everywhere",
-        "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
-      },
-      "artists": [
-        {
-          "name": "Smallpools",
-          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
-        },
-        {
-          "name": "Emily Vaughn",
-          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
-        }
-      ],
-      "duration_ms": 224041,
-      "name": "everywhere",
-      "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1723,22 +1723,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Semicolon & Parentheses (Deluxe)",
-        "url": "https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS"
+        "name": "everywhere",
+        "url": "https://open.spotify.com/album/1gkBtk4uRf9h4iUBXbPnxL"
       },
       "artists": [
         {
-          "name": "Dylan Rockoff",
-          "url": "https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5"
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
         },
         {
-          "name": "Caroline Kole",
-          "url": "https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu"
+          "name": "Emily Vaughn",
+          "url": "https://open.spotify.com/artist/3G9gR0x4v3J2Vek0Fw0yf2"
         }
       ],
-      "duration_ms": 172782,
-      "name": "You're the One That I Want",
-      "url": "https://open.spotify.com/track/1oC2QTCvlBKfgzaPn2G4tC"
+      "duration_ms": 224041,
+      "name": "everywhere",
+      "url": "https://open.spotify.com/track/7fROnnvjVQHESskj3WmQ6r"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
-      },
-      "artists": [
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        }
-      ],
-      "duration_ms": 146533,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 232175,
       "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/15j2HxHLy1N90wLlCno4Uw"
+      },
+      "artists": [
+        {
+          "name": "Thunder Jackson",
+          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
+        }
+      ],
+      "duration_ms": 146533,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Everytime - Spotify Singles",
         "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 234753,
       "name": "Everytime - Spotify Singles",
       "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "I\u2019m With You",
-        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "I\u2019m With You",
-      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "It's Gonna Be Me",
         "url": "https://open.spotify.com/album/2SHb6bK1Nd1U5wCRYBcz5V"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 174349,
       "name": "It's Gonna Be Me",
       "url": "https://open.spotify.com/track/0IFNMiEiGvBcxJmRhhsjB8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "I\u2019m With You",
+        "url": "https://open.spotify.com/album/0lsB68u7qrrQLhYej5JD07"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "I\u2019m With You",
+      "url": "https://open.spotify.com/track/4UiBMxmXRip1Er6xILD5Im"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 200539,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "How Long Will I Love You",
         "url": "https://open.spotify.com/album/3T0ORKrGlGhSJmWEQAdVlU"
       },
@@ -2387,18 +2371,34 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Division (Deluxe)",
-        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 200539,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/0F2PGHygaLgdratsru8cKu"
+        "name": "Division (Deluxe)",
+        "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
       },
       "artists": [
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/7K5bEiUmbhpLkKrEilgP5x"
+      "duration_ms": 201506,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2451,6 +2451,22 @@
       "duration_ms": 176789,
       "name": "Cruel Summer (Acoustic Version)",
       "url": "https://open.spotify.com/track/6hc3zqzRD2IOI2VVvbCebw"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 286506,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2483,22 +2499,6 @@
       "duration_ms": 156200,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 286506,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2591,6 +2591,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Night Changes",
+        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 225721,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "God Is A Woman (Yours Truly: 2018)",
         "url": "https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ"
       },
@@ -2603,22 +2619,6 @@
       "duration_ms": 217773,
       "name": "God Is A Woman - Yours Truly: 2018",
       "url": "https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 233865,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2639,18 +2639,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Night Changes",
-        "url": "https://open.spotify.com/album/7JyiX10SoyLXNk4Tm3n8va"
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/3SewgCi6w47DDbwSZvZnyq"
       },
       "artists": [
         {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
         }
       ],
-      "duration_ms": 225721,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/4tucPrFhvnb63pVtbtUPyo"
+      "duration_ms": 233865,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/2TNAiE0HUKBVR4jckoN5YE"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "The Only Exception",
-        "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
-      },
-      "artists": [
-        {
-          "name": "Niko Rubio",
-          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
-        }
-      ],
-      "duration_ms": 232682,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Synth City",
         "url": "https://open.spotify.com/album/2xc7LOrGqYfDvSi0mZqheu"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 182608,
       "name": "Bedroom",
       "url": "https://open.spotify.com/track/3tx7gqJdrF9130hTrDk8Fq"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "The Only Exception",
+        "url": "https://open.spotify.com/album/25Gq8GQj2uYdWWRwfvuqbW"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 232682,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/6E1RZSFubdubakeTubBwtq"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -2871,22 +2871,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "A Blue State",
-        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
-      },
-      "artists": [
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 169782,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/0esiV0ZlR14SjM9mdAvtAx"
       },
@@ -2915,6 +2899,22 @@
       "duration_ms": 199000,
       "name": "You And I",
       "url": "https://open.spotify.com/track/7ECVu9dvPZVG1xEcwWfCRk"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "A Blue State",
+        "url": "https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA"
+      },
+      "artists": [
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+        }
+      ],
+      "duration_ms": 169782,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -3035,6 +3035,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
+      },
+      "artists": [
+        {
+          "name": "Beatrich",
+          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
+        }
+      ],
+      "duration_ms": 225931,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/6IqV86UKrnvcXmN7TKucPa"
       },
@@ -3079,22 +3095,6 @@
       "duration_ms": 263800,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/20AJoXd1SjRLmoyCNFjAKm"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5IgTsKqq63FsI9X8dy5Kx2"
-      },
-      "artists": [
-        {
-          "name": "Beatrich",
-          "url": "https://open.spotify.com/artist/4R7ILGBgDWUiAT1kWNe90W"
-        }
-      ],
-      "duration_ms": 225931,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/61FD9qllUEjEopoBfngusF"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -3155,22 +3155,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Call Your Girlfriend",
         "url": "https://open.spotify.com/album/1ET8uKlskrO9yfPOL654UU"
       },
@@ -3187,18 +3171,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
       },
       "artists": [
         {
-          "name": "Taylor Janzen",
-          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 198786,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -3215,6 +3199,22 @@
       "duration_ms": 204186,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/3Ce5MleqfeY7zMThXdxuZc"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/27yOQlX52G98v1uHMG61rP"
     }
   ],
   "unique_name": "Pop Covers",

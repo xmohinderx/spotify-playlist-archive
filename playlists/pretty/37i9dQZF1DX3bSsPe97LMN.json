@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Xavi en portada.",
-  "num_followers": 45101,
+  "num_followers": 45119,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDM4Mzk1MDZiOGY1YzRkYmZkODEyYTAxNjM0NmE1ZmE0",
+  "snapshot_id": "MTY2NTcyMzYwMCwwMDAwMDAwMDgxMzY4YmUyMDg1ZjdjZmZiOTNkYWJkNDJmMTZmMDYx",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -379,22 +379,18 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Cuando Te Acuerdes De M\u00ed",
-        "url": "https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD"
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 198669,
-      "name": "Cuando Te Acuerdes De M\u00ed",
-      "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
     },
     {
       "added_at": "2022-10-07 15:36:37",
@@ -419,18 +415,22 @@
     {
       "added_at": "2022-09-23 19:34:49",
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+        "name": "Cuando Te Acuerdes De M\u00ed",
+        "url": "https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+      "duration_ms": 198669,
+      "name": "Cuando Te Acuerdes De M\u00ed",
+      "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -589,26 +589,6 @@
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     },
     {
-      "added_at": "2022-09-23 19:34:49",
-      "album": {
-        "name": "Se Chambiar",
-        "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
-      },
-      "artists": [
-        {
-          "name": "Clave 520",
-          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 157542,
-      "name": "Se Chambiar",
-      "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
-    },
-    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "Soy Infante",
@@ -639,6 +619,26 @@
       "duration_ms": 268557,
       "name": "Una Linda Canci\u00f3n",
       "url": "https://open.spotify.com/track/3MZ7iOuTBONZuBkiFtCEgn"
+    },
+    {
+      "added_at": "2022-09-23 19:34:49",
+      "album": {
+        "name": "Se Chambiar",
+        "url": "https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF"
+      },
+      "artists": [
+        {
+          "name": "Clave 520",
+          "url": "https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 157542,
+      "name": "Se Chambiar",
+      "url": "https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV"
     },
     {
       "added_at": "2022-09-23 19:34:49",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/25GDHtmzIzmfxxuwPVw5qA"
     },
     {
+      "added_at": "2022-09-30 05:00:00",
+      "album": {
+        "name": "Era Mia",
+        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 226887,
+      "name": "Era Mia",
+      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
+    },
+    {
       "added_at": "2022-10-07 15:36:37",
       "album": {
         "name": "No S\u00e9 Que Tengas",
@@ -851,22 +867,6 @@
       "duration_ms": 187824,
       "name": "No S\u00e9 Que Tengas",
       "url": "https://open.spotify.com/track/5jjIkLaQZA4iaPz0wwZZBo"
-    },
-    {
-      "added_at": "2022-09-30 05:00:00",
-      "album": {
-        "name": "Era Mia",
-        "url": "https://open.spotify.com/album/2PSsyTtjK41jI0iDSdcBqI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 226887,
-      "name": "Era Mia",
-      "url": "https://open.spotify.com/track/3qZ4o8lGoHTgFYcHGNjWpE"
     },
     {
       "added_at": "2022-09-23 19:34:49",

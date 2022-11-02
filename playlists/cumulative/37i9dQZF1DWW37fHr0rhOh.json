@@ -423,10 +423,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 212746,
       "name": "I'll Take You Home",
       "url": "https://open.spotify.com/track/2TDe3tKqBs1Hj3P7SCPaEI"
+    },
+    {
+      "album": {
+        "name": "Count Me In",
+        "url": "https://open.spotify.com/album/2RiGB2vhvi05EtUDlLCd6A"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "I'll Take You Home",
+      "url": "https://open.spotify.com/track/6fEsfhqwayJ6ytJSPVgTfN"
     },
     {
       "album": {

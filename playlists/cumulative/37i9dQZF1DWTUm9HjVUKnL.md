@@ -4,7 +4,7 @@
 
 > Spotify Singles\. Like nothing you’ve heard before\. Cover: Cat Burns.
 
-994 songs - 2 day 12 hr 44 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
+996 songs - 2 day 12 hr 51 min - [published](https://open.spotify.com/playlist/0vGu0vKKShLhsGimUZi8EG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2S3Vx5HRNqRr4MCJCFREbl) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/1C640BfNRoMu97Y9ye3iLv) | 4:47 | 2022-07-05 |  |
 | [Cover Me Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qi0gC43ZZ0dAtLwdamJ0I) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Spotify Singles](https://open.spotify.com/album/0BVShHjHQNedwKZsjLeB3H) | 4:47 | 2022-01-19 | 2022-07-29 |
 | [Crazy \- Spotify Singles](https://open.spotify.com/track/11HrFfyr0btlPPBdGjqV7e) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Spotify Singles](https://open.spotify.com/album/76vwVXwTpLFl6FOFJGjPsg) | 4:52 | 2022-10-19 |  |
-| [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-19 |  |
+| [Creep](https://open.spotify.com/track/056LTDaNpFigGkeN5q8H57) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/5naSz7p9D3O9y4lkbj7OUz) | 2:41 | 2022-10-26 |  |
+| [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-19 | 2022-11-02 |
 | [Creep On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/10385jcCDV35eJtuc1BfVh) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Spotify Singles](https://open.spotify.com/album/4vibnRBWsLi12dV9kf5Jmy) | 3:47 | 2022-01-19 |  |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 3:01 | 2022-01-19 | 2022-07-29 |
 | [Cry For You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3XpryMvmOzzlLfqAq8WLN2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 3:01 | 2022-07-05 |  |
@@ -534,7 +535,8 @@
 | [Lose You To Love Me](https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Spotify Singles](https://open.spotify.com/album/1Lfr02RCVj36QJzjVfEEi9) | 3:55 | 2022-01-19 |  |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4rv4xuViNAAR7VeD14lACp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/7jrYTY6bfhAVzmHfNiQ9ko) | 3:54 | 2022-01-19 | 2022-07-29 |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 | 2022-07-05 |  |
-| [Lost \- Spotify Singles](https://open.spotify.com/track/6n8BEYxCJbdxiu3m3QU7v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Lost \- Spotify Singles](https://open.spotify.com/album/5oUQgUQgKJmmVeNb8KoBCg) | 4:00 | 2022-01-19 |  |
+| [Lost \- Spotify Singles](https://open.spotify.com/track/4cMDos0OPu2XKWDXivzN0q) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Lost \- Spotify Singles](https://open.spotify.com/album/50BXVC6HAFoAunZzwsvLsR) | 4:00 | 2022-10-26 |  |
+| [Lost \- Spotify Singles](https://open.spotify.com/track/6n8BEYxCJbdxiu3m3QU7v5) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Lost \- Spotify Singles](https://open.spotify.com/album/5oUQgUQgKJmmVeNb8KoBCg) | 4:00 | 2022-01-19 | 2022-11-02 |
 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 | 2022-01-19 |  |
 | [Lost In Japan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 3:34 | 2022-01-19 |  |
 | [LOST YOU \(screwed not chopped\)](https://open.spotify.com/track/2kJijusZZbCWGbjTe5afS1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 4:25 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,110 likes - 59 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,135 likes - 59 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 5 | [sparko](https://open.spotify.com/track/6SqxjFzb0cvtWyEE3elRj3) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Herron](https://open.spotify.com/artist/1bpUoSimXPBJ4ynN4mDOeh) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:15 |
 | 6 | [Do It Your Way \- Original Mix](https://open.spotify.com/track/6bxeekI9n4mFVw4GoeQZMa) | [Mood II Swing](https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av), [John Ciafone](https://open.spotify.com/artist/3vESvN8vGnaIif4ZDOcxVC) | [Do It Your Way](https://open.spotify.com/album/2GeAr9D1kztZrxjuLfyYKv) | 9:32 |
 | 7 | [Heartbreak \- Kerri Chandler Remix](https://open.spotify.com/track/6UpWBI1nTv9PnqnGKuzIuT) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Heartbreak \(Kerri Chandler Remix\)](https://open.spotify.com/album/6gxKfyBsjJVL2GdH2YBajb) | 6:19 |
-| 8 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 |
-| 9 | [jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
+| 8 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |
+| 9 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 10 | [The Click](https://open.spotify.com/track/5exQy7sHiO0vdOXBUthIMr) | [Breach](https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [The Click / Fallout](https://open.spotify.com/album/6ifRXj7GTmeghO5Bdf7mZ2) | 6:22 |
 | 11 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |
 | 12 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 58 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 |
 | 59 | [Unravel in the Designated Zone](https://open.spotify.com/track/10IxtRq6xz3ABo8E9aDROE) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [OTMI001](https://open.spotify.com/album/12w3hePulByvTE7fOF0r6W) | 4:48 |
 
-Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMGYzM2M2YmNkMmNmMjhlMTcxN2ZiYmE2YjUzMWQxNDJm`
+Snapshot ID: `MTY0NjA5ODQwMywwMDAwMDAwMDg5ZWNhMGE4NzYwNzdlM2M4MjNmNTgyNDg5NWRhN2Q4`

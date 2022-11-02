@@ -4,7 +4,7 @@
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Dean Lewis
 
-132 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
+133 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Sunshine \- Acoustic Version](https://open.spotify.com/track/5OAuga7P1grWVNYp9v2qGq) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 2:52 | 2022-01-28 |  |
 | [Sweet Talker \- Acoustic](https://open.spotify.com/track/16pWf68x1CzECOHELpeH0S) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sweet Talker \(Acoustic\)](https://open.spotify.com/album/40XJMYKd3XQ9h8kVJqZUs7) | 3:01 | 2022-01-28 | 2022-08-06 |
 | [The Bones \- Acoustic](https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:37 | 2022-01-28 |  |
-| [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:44 | 2022-01-28 |  |
+| [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/0hDM5uXQEUB7KAneZr5KqQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2) | 2:44 | 2022-10-14 |  |
+| [There's No Way \- Live from Box Fresh, London, 2018](https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [There's No Way](https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx) | 2:44 | 2022-01-28 | 2022-11-02 |
 | [To Be Young \(feat\. Doja Cat\) \- Acoustic](https://open.spotify.com/track/3iSu8rkvERzl5iY5GEGE1h) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [To Be Young \(feat\. Doja Cat\) \[Acoustic\]](https://open.spotify.com/album/55S3bs4sdQeFuHdTXiLQ9G) | 3:13 | 2022-01-28 | 2022-10-15 |
 | [Too Close \- Live Acoustic Version](https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close \(Live Acoustic\)](https://open.spotify.com/album/7hKBW8gY2UEGd4Ng6s9SSP) | 3:11 | 2022-01-28 |  |
 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 | 2022-01-28 |  |

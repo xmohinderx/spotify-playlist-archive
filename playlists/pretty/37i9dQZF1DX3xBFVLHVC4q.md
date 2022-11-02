@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,262 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,269 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/track/4UUh7EUY4xOCoay7iZQNv1) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [初音ミク](https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 4:51 |
+| 1 | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/track/4UUh7EUY4xOCoay7iZQNv1) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 4:51 |
 | 2 | [コットンキャンディえいえいおー!](https://open.spotify.com/track/10N2sb4vrtmSs5DeZyV5c8) | [黒澤ルビィ \(CV.降幡 愛\) from Aqours](https://open.spotify.com/artist/5vjMooJRmrsyJuFv8z5HAh) | [LoveLive! Sunshine!! Kurosawa Ruby First Solo Concert Album 〜RED GEM WINK〜](https://open.spotify.com/album/5j7nXWzvMsMrXAsHTSXKXr) | 4:18 |
 | 3 | [Believe again](https://open.spotify.com/track/3aYg7E9EixRCtQQX5SZuat) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:41 |
-| 4 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [初音ミク](https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 |
+| 4 | [KA\-GA\-YA\-KI\-RA\-RI\-RA \(feat\. 初音ミク\)](https://open.spotify.com/track/4q8vn872KuqZGN3Xl7Wk1y) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [BANZAI! digital trippers \(feat\. 初音ミク\)](https://open.spotify.com/album/4TuHll6NmVErSvQLmZhVU1) | 3:20 |
 | 5 | [Strawberry Trapper](https://open.spotify.com/track/3egD1YzZpyckmVlZJV4GOj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [Strawberry Trapper](https://open.spotify.com/album/4DzQWZJZsA7zk2yMqZscqK) | 3:56 |
 | 6 | [Awaken the power](https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 4:56 |
 | 7 | [Paradise Chime](https://open.spotify.com/track/6ib8owyFKokRdEECOOkATG) | [渡辺 曜 \(CV.斉藤朱夏\) from Aqours](https://open.spotify.com/artist/60xC7FUmpDBsPRQsb7uUNg) | [LoveLive! Sunshine!! Second Solo Concert Album \~THE STORY OF FEATHER\~ starring Watanabe You](https://open.spotify.com/album/4QbH80ewjdtHpNoDhTivdq) | 3:49 |

@@ -1127,10 +1127,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 225733,
       "name": "Connection",
       "url": "https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh"
+    },
+    {
+      "album": {
+        "name": "10 Tracks to Echo in the Dark",
+        "url": "https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK"
     },
     {
       "album": {
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 187666,
       "name": "Got to My Head",
       "url": "https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7"
@@ -7185,6 +7203,24 @@
       "duration_ms": 209613,
       "name": "Window",
       "url": "https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc"
+    },
+    {
+      "album": {
+        "name": "WONDER (reimagined)",
+        "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5MvVNla7ZjT51haF10iVTu"
     },
     {
       "album": {

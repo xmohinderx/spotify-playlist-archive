@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 89507,
+  "num_followers": 89577,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMDExZTVhNTAzYjZmYTk0ZmRiNTczZDFjY2UyZWE3NWVh",
+  "snapshot_id": "MTY1MzM0MjgwNCwwMDAwMDAwMGZhMmM5MjFhZjg0NDJjNDE0MjFjOWYxMWJlMTNmMTJm",
   "tracks": [
     {
       "added_at": "2021-12-03 19:11:51",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-12-03 19:11:51",
       "album": {
+        "name": "Un Viaje Diferente",
+        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 227316,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/4Ccz9cZYPRSMMCsNRb5Hyt"
+    },
+    {
+      "added_at": "2021-12-03 19:11:51",
+      "album": {
         "name": "Mi Amor Por Ti (En Vivo)",
         "url": "https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 239695,
       "name": "Mi Amor Por Ti (En Vivo)",
       "url": "https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm"
-    },
-    {
-      "added_at": "2021-12-03 19:11:51",
-      "album": {
-        "name": "Un Viaje Diferente",
-        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 227316,
-      "name": "Due\u00f1o de Ti",
-      "url": "https://open.spotify.com/track/4Ccz9cZYPRSMMCsNRb5Hyt"
     },
     {
       "added_at": "2021-12-03 19:11:51",

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: UNIIQU3.",
-  "num_followers": 23964,
+  "num_followers": 24021,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGExOWY1ZjExOGY2ZTY3NTk2N2RkZDgyMzFmYzY3YzQ2",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDJkZTNjOGQyNjhlMTY4MGJmYWViMDYzZjQ5MWJjMTAw",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "say im ur luv (Jumbo Remix)",
+        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 137032,
+      "name": "say im ur luv - Jumbo Remix",
+      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Shake Dhat",
         "url": "https://open.spotify.com/album/2H7UA3WRJM2dGMZoMEhUYf"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 229629,
       "name": "Level Up (feat. Missy Elliott & Fatman Scoop) - Remix",
       "url": "https://open.spotify.com/track/0aBsXZLJDvn0QWfcIqBXq8"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "say im ur luv (Jumbo Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Ziggy Reloaded II",
-        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
-      },
-      "artists": [
-        {
-          "name": "Ziggy",
-          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
-        }
-      ],
-      "duration_ms": 102187,
-      "name": "Look Back It (Club Mix)",
-      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "BaDinga (Reloaded)",
         "url": "https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 168000,
       "name": "BaDinga - Reloaded",
       "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Ziggy Reloaded II",
+        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
+      },
+      "artists": [
+        {
+          "name": "Ziggy",
+          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
+        }
+      ],
+      "duration_ms": 102187,
+      "name": "Look Back It (Club Mix)",
+      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -707,6 +707,42 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Drowning (Remixes)",
+        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "POPULAR LONER",
+        "url": "https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx"
+      },
+      "artists": [
+        {
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
+        }
+      ],
+      "duration_ms": 100858,
+      "name": "70s",
+      "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/4eD8ndZc5zCAMSHpHm3Qzj"
       },
@@ -735,26 +771,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Drowning (Remixes)",
-        "url": "https://open.spotify.com/album/3nIatv0DsncjyHL9aNKYv7"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Drowning (feat. Kodak Black) - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/4DuAzqkeL6tXge2XCkxFve"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Trip to Brazil",
         "url": "https://open.spotify.com/album/6tnEzZ6nrmb5XSYoiH2iGW"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 103073,
       "name": "Trip to Brazil",
       "url": "https://open.spotify.com/track/20NsO7bS1TfMMBzwqWASjx"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "POPULAR LONER",
-        "url": "https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx"
-      },
-      "artists": [
-        {
-          "name": "LilC4",
-          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
-        }
-      ],
-      "duration_ms": 100858,
-      "name": "70s",
-      "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Vibrate EP",
-        "url": "https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 128955,
-      "name": "Put Cha Back In It",
-      "url": "https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "One Way",
         "url": "https://open.spotify.com/album/1n31UsS0MSzs3FcK1d9IvQ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Vibrate EP",
+        "url": "https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 128955,
+      "name": "Put Cha Back In It",
+      "url": "https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Need Your Body",
+        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
+      },
+      "artists": [
+        {
+          "name": "Jaeo Draftpick",
+          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
+        },
+        {
+          "name": "DJ Scenario",
+          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Need Your Body",
+      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "My Heart Freestyle",
         "url": "https://open.spotify.com/album/6Ygz14g1xrVThYm0Sh5Cqp"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 149747,
       "name": "SLIME PROTOCOL",
       "url": "https://open.spotify.com/track/3ldwM7zo4KDqdAymQ1eLHr"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Need Your Body",
-        "url": "https://open.spotify.com/album/7sqFwj4nu19GzsxJzg9Ogi"
-      },
-      "artists": [
-        {
-          "name": "Jaeo Draftpick",
-          "url": "https://open.spotify.com/artist/3ZFFfdm5Xl5W3U0sX9Y9Uq"
-        },
-        {
-          "name": "DJ Scenario",
-          "url": "https://open.spotify.com/artist/34kyEo5yp0o6ZrgpoZNnHE"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Need Your Body",
-      "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "King of BBM",
         "url": "https://open.spotify.com/album/0mRfNhYEVF7w1qkMcWEVLd"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 151901,
       "name": "Hands on Ya Hips",
       "url": "https://open.spotify.com/track/3RRPOt0SQzhAPcI6YHljR5"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Jersey Vs The World",
+        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+      },
+      "artists": [
+        {
+          "name": "YK ACE",
+          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+        }
+      ],
+      "duration_ms": 170015,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "New Jersey Club vol.2",
         "url": "https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Jersey Vs The World",
-        "url": "https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP"
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
       },
       "artists": [
         {
-          "name": "YK ACE",
-          "url": "https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx"
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
         }
       ],
-      "duration_ms": 170015,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK"
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1591,22 +1607,6 @@
       "duration_ms": 115680,
       "name": "Beautiful Lies (Jersey Club Remix)",
       "url": "https://open.spotify.com/track/6fTCqSo22XjfvbLCeVfbD0"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
-      },
-      "artists": [
-        {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
-        }
-      ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Shake Dhat",
-        "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
-      },
-      "artists": [
-        {
-          "name": "dj Shawny",
-          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
-        }
-      ],
-      "duration_ms": 56816,
-      "name": "Shake Dat",
-      "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/5ejDnrOQ5Yb8qZhxrn5nBx"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 139026,
       "name": "POP",
       "url": "https://open.spotify.com/track/6ZvZtgdc38dTaQ74WB9qUr"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Shake Dhat",
+        "url": "https://open.spotify.com/album/1QKwrwRA6Shk7TVxmgt6zL"
+      },
+      "artists": [
+        {
+          "name": "dj Shawny",
+          "url": "https://open.spotify.com/artist/6d88nPjQLpyxi8vH3wgkrx"
+        }
+      ],
+      "duration_ms": 56816,
+      "name": "Shake Dat",
+      "url": "https://open.spotify.com/track/5NpKBngX232AHgIME1jwF3"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Chocolate Parfait",
-        "url": "https://open.spotify.com/album/7vQ6C0NU6ReWNqbxMt7tvc"
-      },
-      "artists": [
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Chocolate Parfait",
-      "url": "https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/6w0N3GWB9W953LnuJfiHX9"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 91324,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/0aswI2C8DCUU7xuzKQJdTr"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Chocolate Parfait",
+        "url": "https://open.spotify.com/album/7vQ6C0NU6ReWNqbxMt7tvc"
+      },
+      "artists": [
+        {
+          "name": "MYLK",
+          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Chocolate Parfait",
+      "url": "https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge"
     },
     {
       "added_at": "2022-10-28 04:00:00",

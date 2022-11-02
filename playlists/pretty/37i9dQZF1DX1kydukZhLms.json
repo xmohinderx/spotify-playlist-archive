@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best metal ballads.",
-  "num_followers": 1090461,
+  "num_followers": 1090865,
   "original_name": "Metal Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDVjMTE5NzFkNmM2Yzg4N2UyMGJkNDA2ZGIzNGUyOWE5",
+  "snapshot_id": "MTY1MDA0NDY0OSwwMDAwMDAwMDM0NjRiYjYzZTRlZTdhYmM0ZTk4YWZkNGFlNjkyMmNj",
   "tracks": [
     {
       "added_at": "2022-04-15 17:44:09",
@@ -107,22 +107,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hypnotize",
-        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Lonely Day",
-      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 356160,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/6beFuzSjwhOKFZp2aqYDdY"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Hair Of The Dog",
-        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
-      },
-      "artists": [
-        {
-          "name": "Nazareth",
-          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 273733,
       "name": "Bringin' On The Heartbreak",
       "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Hair Of The Dog",
+        "url": "https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1i5oEx2vFczQ2sCY3c6Kn5"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 266728,
+      "name": "Too Late For Love",
+      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/1rmhml18o2KDLUpYMXq6VQ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 266728,
-      "name": "Too Late For Love",
-      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
       },
       "artists": [
         {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 271173,
-      "name": "Ohne dich",
-      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+      "duration_ms": 271173,
+      "name": "Ohne dich",
+      "url": "https://open.spotify.com/track/4Hruh5C0Ef3y8mIcns5Y1O"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 390800,
-      "name": "Return to Serenity",
-      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Far Beyond Driven",
         "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 243426,
       "name": "Planet Caravan",
       "url": "https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 390800,
+      "name": "Return to Serenity",
+      "url": "https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs"
     },
     {
       "added_at": "2022-04-15 17:44:09",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-04-15 17:44:09",
       "album": {
-        "name": "Girls, Girls, Girls (2021 - Remaster)",
-        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
-    },
-    {
-      "added_at": "2022-04-15 17:44:09",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 381200,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH"
+    },
+    {
+      "added_at": "2022-04-15 17:44:09",
+      "album": {
+        "name": "Girls, Girls, Girls (2021 - Remaster)",
+        "url": "https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/2aLLt6mqBrPO1gnwTju82L"
     },
     {
       "added_at": "2022-04-15 17:44:09",

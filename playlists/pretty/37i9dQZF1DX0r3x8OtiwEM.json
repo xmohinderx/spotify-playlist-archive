@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 781036,
+  "num_followers": 781406,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MzQ2MCwwMDAwMDAwMDlmMWMzZGNlZmJmYWQyYjRjMzYxMTk3ZWYzNWZlNDM2",
+  "snapshot_id": "MTY2Njk2MzQ2MCwwMDAwMDAwMGFhZDZjODA2NWJiMjdiNGM4YjVlNzMxMmY4MDNkYTgz",
   "tracks": [
     {
       "added_at": "2022-10-07 15:45:00",
@@ -85,7 +85,7 @@
       "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Pulses",
         "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Kaleidoscope Colours",
         "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Song To The Siren",
         "url": "https://open.spotify.com/album/5n09GoRSdwB8kufMEKjRG7"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
     },
     {
-      "added_at": "2022-11-01 01:38:47",
+      "added_at": "2022-11-02 01:33:41",
       "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6"
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
+    },
+    {
+      "added_at": "2022-10-07 15:45:00",
+      "album": {
         "name": "Admit It (u don't want 2)",
         "url": "https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
-    },
-    {
-      "added_at": "2022-10-07 15:45:00",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -667,18 +667,22 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "All I Got",
-        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
+        "name": "Best of Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv"
       },
       "artists": [
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "Sailor & I",
+          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
         }
       ],
-      "duration_ms": 304390,
-      "name": "All I Got",
-      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
+      "duration_ms": 229440,
+      "name": "Best of Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Best of Me (Radio Edit)",
-        "url": "https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv"
+        "name": "All I Got",
+        "url": "https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "Sailor & I",
-          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 229440,
-      "name": "Best of Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4bJ7hDIjOucR0hGDEaVBOr"
+      "duration_ms": 304390,
+      "name": "All I Got",
+      "url": "https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -935,26 +935,18 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Don't Give Up (Radio Edit)",
-        "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
+        "name": "Unspoken Words",
+        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
       },
       "artists": [
         {
-          "name": "Nihil Young",
-          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
-        },
-        {
-          "name": "Talal",
-          "url": "https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz"
-        },
-        {
-          "name": "Amy Wawn",
-          "url": "https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         }
       ],
-      "duration_ms": 208977,
-      "name": "Don't Give Up - Radio Edit",
-      "url": "https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9"
+      "duration_ms": 285675,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
     },
     {
       "added_at": "2022-10-07 15:45:00",
@@ -975,18 +967,26 @@
     {
       "added_at": "2022-10-07 15:45:00",
       "album": {
-        "name": "Unspoken Words",
-        "url": "https://open.spotify.com/album/5JuO2GgzgGLrF1Kz0l82Qk"
+        "name": "Don't Give Up (Radio Edit)",
+        "url": "https://open.spotify.com/album/3uvEmBmwZIVOVYu5DDXYUN"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Talal",
+          "url": "https://open.spotify.com/artist/4FahFgHbYW6tRpEwCQqQTz"
+        },
+        {
+          "name": "Amy Wawn",
+          "url": "https://open.spotify.com/artist/2LfqKoz9RFoKwyCs3s2OLf"
         }
       ],
-      "duration_ms": 285675,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/4rw9xbxHWWRuihfAvQG3M2"
+      "duration_ms": 208977,
+      "name": "Don't Give Up - Radio Edit",
+      "url": "https://open.spotify.com/track/3Ect3TlbUYwB0pwWUzCOv9"
     },
     {
       "added_at": "2022-10-07 15:45:00",

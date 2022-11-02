@@ -4,7 +4,7 @@
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-74 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
+75 songs - 4 hr 0 min - [published](https://open.spotify.com/playlist/1Ds22R1HY8cK2GQHEEkmhI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [كنق الحلبة](https://open.spotify.com/track/0QemMisHFcPe19odGtKlnW) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Khayyat](https://open.spotify.com/artist/0ZymXKuHy9Sqg2X5IEwLut) | [كنق الحلبة](https://open.spotify.com/album/3EaRsFezQZP6B1AUDolO92) | 2:44 | 2022-06-24 |  |
 | [كوني](https://open.spotify.com/track/4nmZ8hzRX14xtcQr1i5PIk) | [Oma](https://open.spotify.com/artist/0m0lZ1flHVDnhBWMAaZ9OD) | [كوني](https://open.spotify.com/album/1TAeZ2WnLp3PRhFLpO3ETs) | 2:53 | 2022-06-24 |  |
 | [ولا صحبه احلى](https://open.spotify.com/track/5abjiC8O2jUGyXhFozLhOc) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [ولا صحبه احلى](https://open.spotify.com/album/4SP39vn0J6IBX3HlnPNqGO) | 3:21 | 2022-09-29 |  |
-| [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 |  |
+| [يا ترى](https://open.spotify.com/track/0jdJimx5sKSQIk2509Hhvv) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/2v4Lpoa78QNwurwzvQJOih) | 0:35 | 2022-10-20 |  |
+| [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 | 2022-06-24 | 2022-11-02 |
 
 \*This playlist was first scraped on 2022-07-05. Prior content cannot be recovered.

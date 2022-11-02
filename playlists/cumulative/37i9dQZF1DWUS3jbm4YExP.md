@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-459 songs - 1 day 10 hr 7 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
+460 songs - 1 day 10 hr 12 min - [published](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [El Campesino](https://open.spotify.com/track/7mWqJATsNSfSMHSdegr3Rm) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Domenico Candellori](https://open.spotify.com/artist/6Mq9l39ixUny3v17eLJJlC), [TOROZEBU](https://open.spotify.com/artist/2Nby93FKq5UvGa8cjqOZ1i) | [TOROZEBU](https://open.spotify.com/album/33kzM8NKq6ccrIJJi03kF9) | 3:43 | 2022-02-25 | 2022-07-28 |
 | [El Fen](https://open.spotify.com/track/2XWm5Dzs7pt1qr57gUrZ5U) | [Ait Meslayene](https://open.spotify.com/artist/6UqOmCP26EuPagfWAAGEaI) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Part 2\) \(Habibi Funk 015\)](https://open.spotify.com/album/2QTAwOmV0lj1S1zGTuipFg) | 4:39 | 2021-10-06 | 2022-07-29 |
 | [El Momento Perfecto](https://open.spotify.com/track/7nft6ODluTjQ7TVpTqxKXc) | [Olaya Sound System](https://open.spotify.com/artist/6sVCc3GjCgPU7Vk56h8Zi3) | [El Momento Perfecto](https://open.spotify.com/album/7wjNZpGKGqEMFXrJqdJbjz) | 4:20 | 2021-11-12 | 2022-04-21 |
-| [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-26 |  |
+| [El Traketeo](https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [El Traketeo](https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj) | 3:22 | 2021-10-26 | 2022-11-02 |
 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 | 2021-10-06 | 2022-07-22 |
 | [Enjoy Your Life](https://open.spotify.com/track/17bOaBhRJUI7kobIhukvdC) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:16 | 2021-10-06 | 2022-07-28 |
 | [Enkèn Yèlélèbesh](https://open.spotify.com/track/6MMXwZyjQhw6HaIwFGW0JI) | [Girma Bèyènè](https://open.spotify.com/artist/3Ju4igVmFdATTU3dZdaHqj), [Akalé Wubé](https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn) | [Mistakes on Purpose \(Ethiopiques 30\)](https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW) | 3:58 | 2022-04-17 |  |
@@ -219,6 +219,7 @@
 | [It's a Joke](https://open.spotify.com/track/20nb4i2WWyPDXhiQTZqlrV) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Altriparty](https://open.spotify.com/artist/1xAYeH3iONpgJQy6wyrPkA), [Hypsidia](https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ) | [It's a Joke](https://open.spotify.com/album/1iMYQwnbZ9ruhWRwbzrL04) | 4:16 | 2022-02-25 | 2022-09-01 |
 | [James is back](https://open.spotify.com/track/1AlXdz5TcyMqMmDQpt01PZ) | [James Senese](https://open.spotify.com/artist/1X8A68bKIKdFWmOWYs3Fch) | [James is back](https://open.spotify.com/album/2u9zU4jPiSDnYVEBUOpj5K) | 5:38 | 2021-10-06 | 2022-04-05 |
 | [Je k'abere](https://open.spotify.com/track/0mNYzvTXVvwWlmywEqnzHv) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Je k'abere](https://open.spotify.com/album/29vQ4mgLzNjx3t7GB4Qbr1) | 4:21 | 2021-10-06 | 2022-10-21 |
+| [Je k'abere](https://open.spotify.com/track/5wlLdbWUHyaoSwpbQgJSiL) | [Surv](https://open.spotify.com/artist/2DMOI9FmfrkEXFPLPUi6TQ) | [Je k'abere](https://open.spotify.com/album/76qKWyy9uXq3Brpg3kp6c6) | 4:21 | 2021-10-06 |  |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
 | [Juicy Fruit](https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [KB's Mixtape No\. 2](https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP) | 5:04 | 2022-01-17 | 2022-07-27 |
 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 | 2021-10-06 | 2022-10-01 |

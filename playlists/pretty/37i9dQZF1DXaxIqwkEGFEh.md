@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,483 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,670 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 32 | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/track/3d19P64cMd5IM6jGGwKcSS) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Geeked Up \(feat\. Gucci Mane\)](https://open.spotify.com/album/3Ej4xcq9U5V4cUsfjxeXgV) | 2:55 |
 | 33 | [Wicked Inna RaQ](https://open.spotify.com/track/6Qc6KIe2HMCtHAE8M7PC4s) | [Lil Nuu](https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE) | [Wicked Inna RaQ](https://open.spotify.com/album/2UQE2FyVFL2Sk3JLzqvmV7) | 2:31 |
 | 34 | [Imposters](https://open.spotify.com/track/0Jgi0ZkopEY0nZM7z2uWDg) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Imposters](https://open.spotify.com/album/0xHkV5JYSRR40P5rSr8z2s) | 1:56 |
-| 35 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:11 |
+| 35 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 |
 | 36 | [Reel Em In](https://open.spotify.com/track/50yCs2ldgkd0OJji21ZAAa) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [Reel Em In](https://open.spotify.com/album/4JNBTgwYusBL4RfduIShBZ) | 2:24 |
 | 37 | [Understanding](https://open.spotify.com/track/0dbrw7unsnoUBwS3WSLTiO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [So Icy Boyz 22](https://open.spotify.com/album/0W19oEiOst4LmXpd4X2wb8) | 2:35 |
 | 38 | [SOCKS](https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby 2](https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz) | 2:51 |

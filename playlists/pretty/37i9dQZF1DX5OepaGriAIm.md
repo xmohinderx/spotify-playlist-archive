@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,300 likes - 123 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,354 likes - 123 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 111 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 |
 | 112 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 | 113 | [Your Love Is Mine \(feat\. Corinne Bailey Rae\) \- Nostalgia 77 Remix](https://open.spotify.com/track/0sGFsWPYyhN4X9LKT1EiOv) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN) | [Re:Mixed](https://open.spotify.com/album/4p11Kaw9TBxfcRRXk8rlPn) | 3:17 |
-| 114 | [Strange Flower](https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT) | 5:29 |
+| 114 | [Strange Flower](https://open.spotify.com/track/5yXxlQuUaPjIrHe3e6QKrb) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Jon Fält](https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y) | [Closeness](https://open.spotify.com/album/50KXmOwyzT5fOWraaR9MKq) | 5:29 |
 | 115 | ['S Wonderful / They Can't Take That Away From Me](https://open.spotify.com/track/0vRlpKpHowoQOgn3dbm55X) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:00 |
 | 116 | [Old Fashioned Morphine](https://open.spotify.com/track/2zuCel4NqWnLH28iUQemw1) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Escondida](https://open.spotify.com/album/75yVGSOBXe3OI8bRrIMalh) | 4:35 |
 | 117 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 122 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 123 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMGQ2ZjViN2M2NjAyZWFiYWMwZWExZWQ3OThlNTkyZGM5`
+Snapshot ID: `MTY2NTEyOTkxNywwMDAwMDAwMDY3MmE2YjJmOGFlZTBkNWUxMDc3ZDI5NDI4NGM4OTA0`

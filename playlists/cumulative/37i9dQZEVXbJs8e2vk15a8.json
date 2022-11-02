@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "10:10",
+        "url": "https://open.spotify.com/album/7b2yJGGSgLWMENS1LROLaN"
+      },
+      "artists": [
+        {
+          "name": "Xavi Jordan",
+          "url": "https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "10:10",
+      "url": "https://open.spotify.com/track/6hd1qFV2nSAOeFprnZbHGp"
+    },
+    {
+      "album": {
         "name": "30 Marches, Hymns and Army Songs. World Military Bands",
         "url": "https://open.spotify.com/album/2IeLOLet5nFvk5efI6PymO"
       },
@@ -41,6 +63,66 @@
       "duration_ms": 156141,
       "name": "2 Shipitia (Tio Rene)",
       "url": "https://open.spotify.com/track/5nWNZN5yHShizC96Ojs9wP"
+    },
+    {
+      "album": {
+        "name": "28 Reasons - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189413,
+      "name": "28 Reasons",
+      "url": "https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex"
+    },
+    {
+      "album": {
+        "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+        "url": "https://open.spotify.com/album/6bfrlCHzoneiMotyuHAsFE"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Ecko",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Pedro Calderon",
+          "url": "https://open.spotify.com/artist/0yfhOzsYbBALSbWK4DjpCh"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368982,
+      "name": "34 Amor y Mafia REMIX (feat. El Jincho, Camin, Harry Nach & Pedro Calderon)",
+      "url": "https://open.spotify.com/track/5t6IDQJWcduCcFJceo4Dal"
     },
     {
       "album": {
@@ -1756,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191964,
+      "name": "CASE 143",
+      "url": "https://open.spotify.com/track/1klq7dgG1Pz0ijci5Pmae1"
+    },
+    {
+      "album": {
         "name": "Casi Amor De Verano",
         "url": "https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0"
       },
@@ -2103,7 +2203,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -2553,7 +2653,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 125256,
       "name": "dumb dumb",
       "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
@@ -2701,7 +2801,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 183198,
       "name": "El poder",
       "url": "https://open.spotify.com/track/2Sur4LiJLj4grpAK3u0xmX"
@@ -3039,7 +3139,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 155960,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb"
@@ -3549,10 +3649,28 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 212736,
       "name": "Gilded Lily",
       "url": "https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg"
+    },
+    {
+      "album": {
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212736,
+      "name": "Gilded Lily",
+      "url": "https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY"
     },
     {
       "album": {
@@ -3892,6 +4010,28 @@
     },
     {
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "Hey Mor",
+      "url": "https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr"
+    },
+    {
+      "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
       },
@@ -4189,7 +4329,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 253145,
       "name": "Indivisible",
       "url": "https://open.spotify.com/track/2cPlhOgDwzLwe1AzTOfqhj"
@@ -4975,7 +5115,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 182724,
       "name": "Lugar Seguro",
       "url": "https://open.spotify.com/track/2VF8TTWczzupwrhtsQfx48"
@@ -5117,7 +5257,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 184421,
       "name": "Marisola",
       "url": "https://open.spotify.com/track/2pR6bipXfJySBhje19SW02"
@@ -5953,7 +6093,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 220342,
       "name": "Mil Febreros",
       "url": "https://open.spotify.com/track/0JVLbLjkbbuaUV5j9Q1vAr"
@@ -6037,6 +6177,28 @@
       "duration_ms": 206019,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
+    },
+    {
+      "album": {
+        "name": "The Original Monster Mash",
+        "url": "https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Boris\" Pickett",
+          "url": "https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX"
+        },
+        {
+          "name": "The Crypt-Kickers",
+          "url": "https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Monster Mash",
+      "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
     },
     {
       "album": {
@@ -6243,6 +6405,40 @@
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "album": {
+        "name": "No Me Importa (feat. Luc\u00eda M\u00e9ndez, Laura Zapata, Sylvia Pasquel & Lorena Herrera)",
+        "url": "https://open.spotify.com/album/4juQp66mm3Z76zfTeAtK9f"
+      },
+      "artists": [
+        {
+          "name": "Siempre Reinas",
+          "url": "https://open.spotify.com/artist/0En2HhuY3WkC8OrYqLxnZR"
+        },
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        },
+        {
+          "name": "Laura Zapata",
+          "url": "https://open.spotify.com/artist/6mrYMZ47BCXUn61bCYc9Ng"
+        },
+        {
+          "name": "Sylvia Pasquel",
+          "url": "https://open.spotify.com/artist/5fBzR1eqlQZp88aKMcjm94"
+        },
+        {
+          "name": "Lorena Herrera",
+          "url": "https://open.spotify.com/artist/29RE8ZVb7M2uOGLDtxCR57"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186697,
+      "name": "No Me Importa (feat. Luc\u00eda M\u00e9ndez, Laura Zapata, Sylvia Pasquel & Lorena Herrera)",
+      "url": "https://open.spotify.com/track/0GNS4001wZN2GDL78JHN9l"
     },
     {
       "album": {
@@ -7237,7 +7433,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 286145,
       "name": "Phonky Tribu",
       "url": "https://open.spotify.com/track/4wz2VahIi49SPomvyT75nA"
@@ -7313,6 +7509,24 @@
       "duration_ms": 186964,
       "name": "Pink Venom",
       "url": "https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY"
+    },
+    {
+      "album": {
+        "name": "Piropi",
+        "url": "https://open.spotify.com/album/2yQCcSxT6uPVcWjXfk4dAD"
+      },
+      "artists": [
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190169,
+      "name": "Piropi",
+      "url": "https://open.spotify.com/track/1yJlQ08TIeLsYoIpsupsRd"
     },
     {
       "album": {
@@ -7981,7 +8195,7 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 159157,
       "name": "SE ENDIABLA",
       "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
@@ -8632,6 +8846,24 @@
     },
     {
       "album": {
+        "name": "Halloween Howls: Fun & Scary Music (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2kAB6U6XJQ9lXK7TPsmaR4"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gold",
+          "url": "https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125624,
+      "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
+      "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "album": {
         "name": "Sufriendo",
         "url": "https://open.spotify.com/album/3N1bcRqm5JIAzST7cejp0g"
       },
@@ -8727,6 +8959,24 @@
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "album": {
+        "name": "MAXIDENT",
+        "url": "https://open.spotify.com/album/4KcYaqE7hjQ1g9ES0QV3bB"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "TASTE (Lee Know, Hyunjin, Felix)",
+      "url": "https://open.spotify.com/track/2pH3EXnScj9T0Q2ZPpidNt"
     },
     {
       "album": {
@@ -9065,6 +9315,24 @@
       "duration_ms": 174646,
       "name": "That That (prod. & feat. SUGA of BTS)",
       "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+    },
+    {
+      "album": {
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "album": {
@@ -10221,7 +10489,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 116161,
       "name": "Who's Ready for Tomorrow",
       "url": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"

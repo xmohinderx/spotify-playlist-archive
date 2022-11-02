@@ -5460,6 +5460,24 @@
     },
     {
       "album": {
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/3AgpSfMDtGPCRO2DBrPqZU"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "Plastic",
+      "url": "https://open.spotify.com/track/4YAVirWReJraZhTHasDpyY"
+    },
+    {
+      "album": {
         "name": "Polygon Beach",
         "url": "https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c"
       },
@@ -7321,7 +7339,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 172443,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt"

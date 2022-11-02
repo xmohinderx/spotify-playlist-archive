@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,221 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,232 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prologue](https://open.spotify.com/track/1qxpKgPsS1is1o4Ha15VfH) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 2:21 |
 | 2 | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7) | 9:42 |
 | 3 | [Escape](https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 4:38 |
-| 4 | [Crimson Cloud](https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [Crimson Cloud](https://open.spotify.com/album/2V1hViF311H8XX1104K3i4) | 4:49 |
-| 5 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND), [Jordan Reyne](https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 |
+| 4 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND), [Jordan Reyne](https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le) | [RESIDENT EVIL 7 biohazard Original Soundtrack](https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL) | 2:54 |
+| 5 | [Crimson Cloud](https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [Crimson Cloud](https://open.spotify.com/album/2V1hViF311H8XX1104K3i4) | 4:49 |
 | 6 | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla) | 6:45 |
 | 7 | [Devil Trigger \- Opening Remix](https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS) | [Yoshiya Terayama](https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq), [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [DEVIL MAY CRY 5 Original SoundTrack](https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe) | 2:27 |
 | 8 | [追求 〜追いつめられて](https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 1:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 | 50 | [Save Theme](https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 1:19 |
 
-Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMDNjOTEwYjZmNzM4NGI2ZGIyM2Q1Yjc0ZDJmNzU4ZDUy`
+Snapshot ID: `MTYyNTA2NjMwMywwMDAwMDAwMGM5MTliNTg1YzQ0NjcyYTc1MmUyNmE5NjAwYzk1OGUy`

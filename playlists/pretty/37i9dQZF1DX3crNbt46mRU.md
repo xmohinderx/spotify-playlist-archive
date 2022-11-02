@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,605 likes - 110 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 110 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 97 | [Augenringe](https://open.spotify.com/track/0LB4OdGHBeS62dFmTp3hO1) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd) | [Augenringe](https://open.spotify.com/album/0Hb2tK4JSsyfaB7h7mKP4y) | 2:53 |
 | 98 | [Better Version](https://open.spotify.com/track/0Ab8kTcJ139omtDvRnIjzZ) | [James Levy](https://open.spotify.com/artist/0Y3jo1HV7wMOMsTJSHUh83), [Adam Green](https://open.spotify.com/artist/3RyJG8xp58XSmsiuIySzUj) | [Better Version](https://open.spotify.com/album/6HJKwDc3Q30h2MRn9rvVsu) | 2:41 |
 | 99 | [VERGESSEN](https://open.spotify.com/track/6duXLvgXDWo0cHcpi5rAeW) | [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [VERGESSEN](https://open.spotify.com/album/6dEDx768tS0Vxf3zrBhXoa) | 2:37 |
-| 100 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 100 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 101 | [König von Garnichts](https://open.spotify.com/track/24uIu8XzYVnl65rfZNVtIK) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [König von Garnichts](https://open.spotify.com/album/1CP1oynPuVrWFmsKHJCkOW) | 3:16 |
 | 102 | [2 Close](https://open.spotify.com/track/7ElTMb0MVBKP8g7LbTviJI) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Cool](https://open.spotify.com/album/5iJVlIbvVOFLW8FBQYY5Zc) | 2:44 |
 | 103 | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/track/3t4CxOo3uiixiMpZR5XsaV) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [in my mind \(…sind wir perfekt\)](https://open.spotify.com/album/5S4jylXijHKHNujMW9pQzv) | 2:11 |

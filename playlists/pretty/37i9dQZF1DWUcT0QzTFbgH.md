@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,929 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,941 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 32 | [Truffle Butter](https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [The Pinkprint \(Deluxe Edition\)](https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC) | 3:40 |
 | 33 | [Street Games](https://open.spotify.com/track/0eaLnYcHw5gndlyFyrUs6w) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 4:24 |
 | 34 | [It's Gonna Rain](https://open.spotify.com/track/7fTZUgO8MO7m1w11RsGyVG) | [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI) | [The Ultimate Collection](https://open.spotify.com/album/2VcNLzv5XWWoMNpkn6nM9y) | 4:49 |
-| 35 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |
+| 35 | [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 |
 | 36 | [The Universe Wakes Up](https://open.spotify.com/track/2zaHxMIRqvNZlpXNDuCA7i) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 5:25 |
 | 37 | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/track/0YhJO6feKxyGjwVo5NSXPD) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [OFB](https://open.spotify.com/artist/0koPE9U3b5XYArKa7R2TLm), [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS) | [Magic \(feat\. Bandokay & Double Lz\)](https://open.spotify.com/album/2VZCTJ1tjALGYfT6IjdSVZ) | 2:33 |
 | 38 | [Square 1](https://open.spotify.com/track/0ea9086ldqbhDObsvpmUqF) | [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Square 1](https://open.spotify.com/album/3ktedcz4DO9wfB2Kb4xReb) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcT0QzTFbgH.md) - [plain]
 | 79 | [About Her](https://open.spotify.com/track/7iQDsonHSnaT6hNBJUaRe9) | [Phazz](https://open.spotify.com/artist/0kjZvGERXMvPFSs6DB5UFF) | [About Her](https://open.spotify.com/album/2oPrc4DfMZTI1Bh2ZrSgfF) | 3:31 |
 | 80 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 
-Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMDc3Mzc2YWQwOGFjMDkzZWI3Nzg3Mzc5ZDkzZDUyOThl`
+Snapshot ID: `MTU5ODk4NjQzMCwwMDAwMDAwMGYxZDE1MTFkOWUxMWQ1OWU5MTZkMWM4NGJhZTM0ZTBi`

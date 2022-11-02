@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 20128,
+  "num_followers": 20200,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MjU3NiwwMDAwMDAwMDcwMDVjNTEyNzFmM2IzYzVkZjc5N2YxNTQxNWRkNzRl",
+  "snapshot_id": "MTY2NDg5MjU3NiwwMDAwMDAwMDNhZDM1NTAxZTZmOGUwZDM3ZTE4YmU3YzAxYjc1NzA0",
   "tracks": [
     {
       "added_at": "2022-10-04 14:09:36",
@@ -623,22 +623,18 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
-        },
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
         }
       ],
-      "duration_ms": 267871,
-      "name": "Enerhodar",
-      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2022-10-04 14:09:36",
@@ -659,6 +655,26 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 267871,
+      "name": "Enerhodar",
+      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2022-10-04 14:09:36",
+      "album": {
         "name": "Slowdown",
         "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 497009,
       "name": "Slowdown",
       "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
-    },
-    {
-      "added_at": "2022-10-04 14:09:36",
-      "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2022-10-04 14:09:36",
@@ -811,18 +811,22 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+        "name": "Set the Weather Fair: Seasons",
+        "url": "https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq"
       },
       "artists": [
         {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+          "name": "Digitonal",
+          "url": "https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai"
+        },
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
         }
       ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+      "duration_ms": 396773,
+      "name": "Gold of the Azure - Marconi Union Remix",
+      "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
     }
   ],
   "unique_name": "gloomcore",

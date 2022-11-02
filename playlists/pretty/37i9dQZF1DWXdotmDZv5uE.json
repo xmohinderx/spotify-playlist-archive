@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lleva el folclore de M\u00e9xico a donde sea!",
-  "num_followers": 121449,
+  "num_followers": 121480,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMGViMGJkZGI5MmRiMjY5ODMzYzcwNmY1ZjljNzkwMmUz",
+  "snapshot_id": "MTY2MTk2MDQ3OCwwMDAwMDAwMGU3YjVlZTRiY2RjMjljZmFmNjlkZjNkZDZmZjZjZWZi",
   "tracks": [
     {
       "added_at": "2022-08-31 15:41:18",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 124893,
-      "name": "Las altenitas",
-      "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
+      "duration_ms": 196000,
+      "name": "Zopilote mojado",
+      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Los \u00c9xitos de Antonio Bribiesca Y su Guitarra Mexicana",
-        "url": "https://open.spotify.com/album/4mYfjXYzxh6ihn53h7U6m3"
-      },
-      "artists": [
-        {
-          "name": "Antonio Bribiesca",
-          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
-        }
-      ],
-      "duration_ms": 261293,
-      "name": "Popurr\u00ed Mexicano:",
-      "url": "https://open.spotify.com/track/5pZWWNVotdSMynW3kTooSY"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Gr\u00edtenme Piedras Del Campo (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/40EsqK8Wk2WkpZSjP3TK2y"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 208706,
       "name": "Gr\u00edtenme Piedras Del Campo - En Vivo Desde La Ciudad De M\u00e9xico, 2017",
       "url": "https://open.spotify.com/track/5kjPnaA0MRdjsNNgwsU18c"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Los \u00c9xitos de Antonio Bribiesca Y su Guitarra Mexicana",
+        "url": "https://open.spotify.com/album/4mYfjXYzxh6ihn53h7U6m3"
+      },
+      "artists": [
+        {
+          "name": "Antonio Bribiesca",
+          "url": "https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz"
+        }
+      ],
+      "duration_ms": 261293,
+      "name": "Popurr\u00ed Mexicano:",
+      "url": "https://open.spotify.com/track/5pZWWNVotdSMynW3kTooSY"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Zopilote mojado",
-      "url": "https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L"
+      "duration_ms": 124893,
+      "name": "Las altenitas",
+      "url": "https://open.spotify.com/track/14xRTwrxqIsiwl5SgCnW3m"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 112596,
-      "name": "Juarez",
-      "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 595746,
       "name": "Candela / Morena",
       "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 112596,
+      "name": "Juarez",
+      "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -755,26 +755,18 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "Mariachi Vol. 1",
-        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
       },
       "artists": [
         {
           "name": "Mexican Music Factory",
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
         }
       ],
-      "duration_ms": 132672,
-      "name": "Camino A San Miguel",
-      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -859,18 +851,26 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+        "name": "Mariachi Vol. 1",
+        "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
       "artists": [
         {
           "name": "Mexican Music Factory",
           "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
         }
       ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
+      "duration_ms": 132672,
+      "name": "Camino A San Miguel",
+      "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
+        "name": "De la mera mata",
+        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Vega Delf\u00edn",
+          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "El Zapateado",
+      "url": "https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
         "name": "Por Los Caminos Del Sur",
         "url": "https://open.spotify.com/album/3mRRUTh4dFWac0WLajq689"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 158000,
       "name": "Por Los Caminos Del Sur",
       "url": "https://open.spotify.com/track/7lxSrgCOFBcTlcB6bSjXBS"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
-        "name": "De la mera mata",
-        "url": "https://open.spotify.com/album/7vTwydvxuCNG1nSdnm6c26"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Vega Delf\u00edn",
-          "url": "https://open.spotify.com/artist/4kmqxgznDGuLhVXdfcSLX6"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "El Zapateado",
-      "url": "https://open.spotify.com/track/1P69StBPsVFlm6awf7EACX"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "La bikina (arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Los Primeros A\u00f1os",
         "url": "https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 131691,
       "name": "Jesusita en Chihuahua",
       "url": "https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "La bikina (arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/51asKtaV6doDVdR1WLeE6A"
     },
     {
       "added_at": "2022-08-31 15:41:18",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-08-31 15:41:18",
       "album": {
-        "name": "El Gusto - 40 A\u00f1os de son Huasteco",
-        "url": "https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV"
-      },
-      "artists": [
-        {
-          "name": "Los Caporales",
-          "url": "https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY"
-        }
-      ],
-      "duration_ms": 261773,
-      "name": "El Sacamand\u00fa",
-      "url": "https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN"
-    },
-    {
-      "added_at": "2022-08-31 15:41:18",
-      "album": {
         "name": "Nuevo Son Jarocho",
         "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 205306,
       "name": "Cruzando en el Barco",
       "url": "https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25"
+    },
+    {
+      "added_at": "2022-08-31 15:41:18",
+      "album": {
+        "name": "El Gusto - 40 A\u00f1os de son Huasteco",
+        "url": "https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV"
+      },
+      "artists": [
+        {
+          "name": "Los Caporales",
+          "url": "https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "El Sacamand\u00fa",
+      "url": "https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN"
     },
     {
       "added_at": "2022-08-31 15:41:18",

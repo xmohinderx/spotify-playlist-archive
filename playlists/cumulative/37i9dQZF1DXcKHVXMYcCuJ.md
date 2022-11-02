@@ -4,7 +4,7 @@
 
 > An introduction to some of alt\-rock’s most seminal tracks.
 
-252 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+253 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [I'm Not Part of Me](https://open.spotify.com/track/4LtkzjijkFjaLHT2Az0uAU) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here and Nowhere Else](https://open.spotify.com/album/6BZve8akdJeG6TJ71QC3Bi) | 4:35 | 2021-12-15 | 2022-07-29 |
 | [I'm Not Part Of Me](https://open.spotify.com/track/10Sj9At8dFsEabJcQzOSqu) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Here And Nowhere Else](https://open.spotify.com/album/4mbQAXtP8Kuhq04oriFyYy) | 4:35 | 2022-06-23 |  |
 | [I'm Not Shallow Anymore](https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b) | [Hallowed Ground](https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh) | [I'm Not Shallow Anymore](https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf) | 4:25 | 2021-12-15 | 2022-07-10 |
+| [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 | 2022-10-11 |  |
 | [In Circles \- Remastered](https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(2009 Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:58 | 2022-09-21 |  |
 | [In Honor of Myself](https://open.spotify.com/track/2Y451kFRb0hYzyvBeXm7EX) | [Shift](https://open.spotify.com/artist/0Sc4EJ8JD7CQRDJ1nSAtt1) | [Get In](https://open.spotify.com/album/20Ng6zsaYlSbRLZODZzZvO) | 3:51 | 2021-12-15 | 2022-07-23 |
 | [Innervisions](https://open.spotify.com/track/5DiisEbfcEqNV7UdfADAIq) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Innervisions](https://open.spotify.com/album/7Bgn6H13prpoalF8z4A9cN) | 7:29 | 2022-04-15 | 2022-07-28 |
@@ -193,7 +194,7 @@
 | [Simple Sincerity](https://open.spotify.com/track/6hxtlRK14Vq1xTjjOPiTQw) | [Radish](https://open.spotify.com/artist/6cLlK80e14zGQyq84eENDv) | [Restraining Bolt](https://open.spotify.com/album/6MDLDlxinN9NpI4t4eudsX) | 2:45 | 2021-12-15 | 2022-07-22 |
 | [Smiling at Strangers on Trains](https://open.spotify.com/track/0F54dvs9C0v0snW9m6dSE1) | [Million Dead](https://open.spotify.com/artist/7mAKZuvKKiNRokFE46Sy8l) | [A Song to Ruin](https://open.spotify.com/album/7xF7HQIu6FriHp6yPkE2Kv) | 2:55 | 2021-12-15 | 2022-10-12 |
 | [Smiling Shame](https://open.spotify.com/track/4UW6rF7Pyr7JzsGybnCzxc) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Smiling Shame](https://open.spotify.com/album/4IfIzaH9SZMoZ6PuUH9zv2) | 3:36 | 2021-12-15 | 2022-07-29 |
-| [Smokescreen](https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Amusement Parks On Fire](https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0) | 4:11 | 2021-12-15 |  |
+| [Smokescreen](https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Amusement Parks On Fire](https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0) | 4:11 | 2021-12-15 | 2022-11-02 |
 | [Snail \- Remastered 2011](https://open.spotify.com/track/1Y67fOHM7hb04jj6FLBWDQ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 5:08 | 2022-06-23 | 2022-09-22 |
 | [Snail \- Remastered 2011](https://open.spotify.com/track/5ZhOFEPjbmlNyStoMi0SHt) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish](https://open.spotify.com/album/0FoOJucC8temyTUBpbapWC) | 5:08 | 2021-12-15 | 2022-07-28 |
 | [Snake Oil](https://open.spotify.com/track/7mDibyukIVdLYFJPLJxf0u) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:21 | 2021-12-15 | 2022-09-22 |

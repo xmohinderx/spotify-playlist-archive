@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の秋に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,882 likes - 42 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,918 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 23 | [ジブラルタルの風](https://open.spotify.com/track/0P296mYwYVhHRF2isr5Hvr) | [Takashi Kako](https://open.spotify.com/artist/6SGJdaXYTp5Qzl8NwvlvAw) | [「ジブラルタルの風」〜加古隆・ピアノソロ・ベスト](https://open.spotify.com/album/4VY2egSubLR4UUg85cZfda) | 4:59 |
 | 24 | [G線上のアリア\(Air\)](https://open.spotify.com/track/32aXWDVLpSqOnIEvBftq0Z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ikuko Kawai](https://open.spotify.com/artist/3Mn8t5WvKxtpW1vjxDjphD) | [The Melody \~100年の音楽\~](https://open.spotify.com/album/6qlcoQ2M33fJ9Y2Y7VW3kY) | 2:27 |
 | 25 | [Someday](https://open.spotify.com/track/3NwzABjXouiJdOVjIFNonG) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Old Days](https://open.spotify.com/album/5Y96dH2PLdE39a4SLYXjAo) | 2:39 |
-| 26 | [前奏曲 第15番 変ニ長調 作品28の15《雨だれ》](https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 5:26 |
+| 26 | [Chopin: 前奏曲 第15番 変ニ長調 作品28の15《雨だれ》](https://open.spotify.com/track/1yfbcB4ZzZtkCnAAzzpqTA) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 5:26 |
 | 27 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/40jTwi0A7djTFe01Di61Ux) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [Cello Bouquet](https://open.spotify.com/album/0n0T7E3Ug0OL572o7NGF5W) | 3:02 |
 | 28 | [Shade](https://open.spotify.com/track/3IOKjtqIZprlha7PHowSDp) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:57 |
 | 29 | [カッチーニのアヴェ・マリア](https://open.spotify.com/track/5hAVhz6ksyTExsgbxGe07e) | [カッチーニ・ジュリオ](https://open.spotify.com/artist/3r74od2bke9JO6JRZfaw9F), [Shoko Ikeda](https://open.spotify.com/artist/1GzO6918uAAGHPN3uExNoj), [Miwako Ishida](https://open.spotify.com/artist/6xpoC2CNmTq2GXMbwWcJuO) | [アヴェ・マリア 〜オーボエ作品集〜](https://open.spotify.com/album/1zQg6ITPmT6O6DU2V13OFx) | 2:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,028 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,088 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 38 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
 | 39 | [Masterpiece](https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Masterpiece](https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby) | 3:01 |
 | 40 | [Perfect](https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [No Pressure](https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8) | 1:40 |
-| 41 | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz) | 2:15 |
+| 41 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 |
 | 42 | [The Bigger Picture](https://open.spotify.com/track/44gRhRi2OhEf7moAUj6MD1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Bigger Picture](https://open.spotify.com/album/6ZTl8hHvYNuEg4Mk8yxz75) | 4:12 |
-| 43 | [Gnat](https://open.spotify.com/track/6cS9PmLky2NhLOhpIsUlow) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:44 |
+| 43 | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/track/59fFsGRwFiuhxKDPc1k6xW) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Opp Stoppa \(feat\. 21 Savage\)](https://open.spotify.com/album/6mBVdi3OYfVGmMiT4jXkYz) | 2:15 |
 | 44 | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \- Remix](https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7), [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \[Remix\]](https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8) | 7:36 |
 | 45 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 | 46 | [Excitement](https://open.spotify.com/track/3WnTQDd9A3bpBfzCziElU9) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Excitement](https://open.spotify.com/album/7rcMHNqNbQxF5TaPMHFoKu) | 4:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [POV \(feat\. Rubi Rose\)](https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [The Saga of Wiz Khalifa \(Deluxe\)](https://open.spotify.com/album/7GmwwE2wcNtyq7nlsrYVuD) | 2:05 |
 | 100 | [Flow Pe$ado](https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Flow Pe$ado](https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX) | 2:53 |
 
-Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMDc2YTI2NTcyMGI1YmIyMzhhY2JjOTA0N2NhODhkNjVi`
+Snapshot ID: `MTY0NDg4NDQzMCwwMDAwMDAwMGZhZjgwNWM3NmU0ZTZiNTE5ZjNiYmQxZmE1MDYyN2Ri`

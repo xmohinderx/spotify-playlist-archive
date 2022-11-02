@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 306440,
       "name": "At Home",
       "url": "https://open.spotify.com/track/3dXNrqnhNUPdrkvnj8TjvX"
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Brother Sparrow",
+      "url": "https://open.spotify.com/track/6VkeSWmjyB3wN5SOnISK5S"
+    },
+    {
+      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -239,7 +257,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 214253,
       "name": "Cigarettes In the Theatre",
       "url": "https://open.spotify.com/track/2Vfbf60Ujpom3Bcljzw7Dd"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 234786,
       "name": "Crave You",
       "url": "https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 177426,
       "name": "I Can Talk",
       "url": "https://open.spotify.com/track/5R34yWuK4EWjy3l6IAfMFJ"
@@ -827,6 +845,24 @@
       "duration_ms": 225233,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
+    },
+    {
+      "album": {
+        "name": "Journal of Ardency",
+        "url": "https://open.spotify.com/album/7twFekZ3zmVFkbChsA42bG"
+      },
+      "artists": [
+        {
+          "name": "Class Actress",
+          "url": "https://open.spotify.com/artist/4nZbOHYEypqHtWwTPQu8Fl"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Journal of Ardency",
+      "url": "https://open.spotify.com/track/6GEIpzW14NtOjqHejbcSRE"
     },
     {
       "album": {
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-14",
+      "date_removed": null,
       "duration_ms": 166906,
       "name": "Meyrin Fields",
       "url": "https://open.spotify.com/track/0Em7kYMP9LGyRNc7KroJTZ"
@@ -1252,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Subiza",
+        "url": "https://open.spotify.com/album/6jhoK83VIkt8Yr5L3Hcnsi"
+      },
+      "artists": [
+        {
+          "name": "Delorean",
+          "url": "https://open.spotify.com/artist/4llqCChMq4zPzCB84OrTck"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366146,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6SAtB7zpZ209gCDxU4i9oG"
+    },
+    {
+      "album": {
         "name": "Halcyon Digest",
         "url": "https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ"
       },
@@ -1461,7 +1515,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 164186,
       "name": "Something Good Can Work",
       "url": "https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa"
@@ -1675,7 +1729,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-17",
+      "date_removed": null,
       "duration_ms": 279760,
       "name": "Terrible Love",
       "url": "https://open.spotify.com/track/6pUAg3OgdO2kQ4lub9Tb5m"
@@ -1783,7 +1837,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 167773,
       "name": "Undercover Martyn",
       "url": "https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH"
@@ -1837,7 +1891,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 191706,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3"

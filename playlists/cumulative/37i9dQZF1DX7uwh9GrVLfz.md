@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: LOW IQ 01
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: つしまみれ \(TsuShiMaMiRe\)
 
-461 songs - 1 day 1 hr 20 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+465 songs - 1 day 1 hr 33 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
 | [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 |  |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 |  |
-| [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 |  |
+| [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-02 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
 | [CLOSE MY EYES](https://open.spotify.com/track/107o82eC8ysPIwxKcp3pBZ) | [Upper](https://open.spotify.com/artist/69w8lpKIuZ07GiNtdL7SCm) | [NOT OVER YET](https://open.spotify.com/album/1Ffe5GprhhUzC8KWIUWoVt) | 3:44 | 2022-06-07 | 2022-06-26 |
 | [Come On,Let's Do The Pogo](https://open.spotify.com/track/4glSDAuqHUmUZzidvMhdP9) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Ken Yokoyama VS NAMBA69](https://open.spotify.com/album/2PG2LrM2OO1F68bz5xx0li) | 2:19 | 2022-05-17 | 2022-07-16 |
@@ -76,6 +76,7 @@
 | [DON'T WORRY BE HAPPY](https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [GO ON AS YOU ARE](https://open.spotify.com/album/0iDu9vJKEp2zzVAA4kYwPG) | 3:01 | 2022-06-07 |  |
 | [Don't Worry My Friend](https://open.spotify.com/track/5SkzagUXWlZVtUY4ogTHXh) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [STOP THE WAR](https://open.spotify.com/album/4FiPEUGopzwNJKxdA9TBaU) | 3:02 | 2022-05-12 |  |
 | [Dong Dong](https://open.spotify.com/track/1fzRinte8afs4twwkhFAmF) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Dong Dong](https://open.spotify.com/album/2svUzAWqaFHVBmweXn32I6) | 4:46 | 2022-06-02 | 2022-07-26 |
+| [Down On The Road](https://open.spotify.com/track/7dfPcDPQI7b4yCSORNxsin) | [the JUMPS](https://open.spotify.com/artist/3zbk89SP4P4OrSeHco25aO) | [Rebel Banquet](https://open.spotify.com/album/2LI6uhz4YtjNqMibrnYApf) | 2:56 | 2022-11-01 |  |
 | [DOWN TO HELL](https://open.spotify.com/track/4qauhp8obl2RNnBNZ61BdW) | [SECRET 7 LINE](https://open.spotify.com/artist/1UQk50lmTtdKtet6abI4vz) | [THE SOUND OF US](https://open.spotify.com/album/3F91Tn3AFDYB6A3wSZFppJ) | 2:51 | 2022-05-12 | 2022-07-29 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-12 |  |
 | [Dry Out](https://open.spotify.com/track/6HYp1dflTcMfpQRqp1bTcg) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Dry Out](https://open.spotify.com/album/4dXey12mX4is6Lq8PNCfoe) | 3:11 | 2022-05-19 | 2022-07-09 |
@@ -152,6 +153,7 @@
 | [Life Is A Suspense](https://open.spotify.com/track/72bDB4wY8ztaIG4MJqP5an) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-19 | 2022-07-28 |
 | [Light](https://open.spotify.com/track/6Icm9TrCRGE8My2nskUeiD) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [etc.works3](https://open.spotify.com/album/7sCrpXgXyEPQxA6xgebVIv) | 2:45 | 2022-05-17 | 2022-07-17 |
 | [LIGHT AND SHADOW](https://open.spotify.com/track/1s082mgoEEsahrOBoPQSFu) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [SOULS](https://open.spotify.com/album/3uxRIkRdH2sKNoEMqEYK7t) | 2:09 | 2022-05-17 | 2022-07-29 |
+| [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 |  |
 | [LOSERS WIN LAST](https://open.spotify.com/track/6ZYpueou9LMzTm2qAy0T8G) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [SMILE](https://open.spotify.com/album/5MpZ339ChGKMvQ8umDo1n6) | 2:14 | 2022-06-28 | 2022-07-17 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-12 | 2022-07-29 |
@@ -187,7 +189,7 @@
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2022-05-12 |  |
 | [NANANA](https://open.spotify.com/track/3K3NU1VZiAwIoQ7B06aM8I) | [DISTRESS](https://open.spotify.com/artist/2Rseip7lRjsDFTUSEyRj6K) | [NANANA](https://open.spotify.com/album/3r1ufZMtgZzQ8AjZJwxUwB) | 3:54 | 2022-06-21 | 2022-07-20 |
 | [Never Let Go](https://open.spotify.com/track/54mLLNZy75Nq3WusmnUsKF) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Never Let Go](https://open.spotify.com/album/1OZXwQBMbmHFqt93FGiBsZ) | 3:05 | 2022-05-12 | 2022-07-23 |
-| [Never Wanna Grow Up](https://open.spotify.com/track/2dtAAMlrZq2wpcqh200B7i) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [EVERLASTING](https://open.spotify.com/album/0hMfzTkueV5pZlXtcMotNk) | 2:51 | 2022-06-30 |  |
+| [Never Wanna Grow Up](https://open.spotify.com/track/2dtAAMlrZq2wpcqh200B7i) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [EVERLASTING](https://open.spotify.com/album/0hMfzTkueV5pZlXtcMotNk) | 2:51 | 2022-06-30 | 2022-11-02 |
 | [New Coaster](https://open.spotify.com/track/6PvvJiVzgcsOHZ4m026aFI) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [New Coaster](https://open.spotify.com/album/53CyhLs70UnvnqmU87B1Yx) | 2:45 | 2022-05-19 | 2022-07-28 |
 | [NEW\-BALANCE](https://open.spotify.com/track/0wYC6rohHUi8FegZKfDa0s) | [KNOCK OUT MONKEY](https://open.spotify.com/artist/5Kmgbag5URQXVqUUtvXe1S) | [NEW\-BALANCE](https://open.spotify.com/album/3K6jBDtRWrxedqYD25jlr0) | 3:16 | 2022-05-12 | 2022-07-29 |
 | [No Answer](https://open.spotify.com/track/3WCHmmTGruMeMuYIBt0VzK) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 2:48 | 2022-05-12 | 2022-07-28 |
@@ -237,13 +239,14 @@
 | [SAKURA](https://open.spotify.com/track/7n7DT24H4RZGfMvyMC8Z2s) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R\(e\) BEST](https://open.spotify.com/album/3umPmPd8laHb83g0Wwrq8t) | 4:37 | 2022-06-14 | 2022-07-29 |
 | [Sapphire](https://open.spotify.com/track/3b2zbCDgqGcddzZpE7wJ1E) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Sapphire / Back in Action](https://open.spotify.com/album/4ukPyiibVLHwTY7oMTeliC) | 2:51 | 2022-05-12 | 2022-07-20 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 |  |
-| [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 |  |
+| [SCAR](https://open.spotify.com/track/5OpXHN9hwW1V1YBiChGt7q) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [SCAR](https://open.spotify.com/album/5DvfInAZNzhoyxAOXV4OVT) | 2:45 | 2022-09-14 | 2022-11-02 |
 | [SCRAP AN OLD BRAIN](https://open.spotify.com/track/05NSGCH9lO8SP24FwyAsMc) | [GANZ HASE](https://open.spotify.com/artist/4ITNZW9R7fuSSpr5OqHs2E) | [BLOOD IN BLOOD OUT](https://open.spotify.com/album/6sYqB2z0ESuPjqEmpu1wJI) | 3:37 | 2022-06-02 | 2022-07-29 |
 | [SEE OFF](https://open.spotify.com/track/2Imt3fMqKbdG2WGKW9ZJa7) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [ETERNAL RECURRENCE](https://open.spotify.com/album/6KxD8LRLX3WRXM7pr7eEJW) | 2:18 | 2022-05-24 |  |
 | [set it off](https://open.spotify.com/track/2l3aBqXOsmgqEZN1DB0x9P) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:23 | 2022-08-19 | 2022-09-15 |
 | [shiboufuragu wo tatenaide](https://open.spotify.com/track/6jDtEDmFInvxR4Ga7vff7X) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [shiboufuragu wo tatenaide](https://open.spotify.com/album/76w257U3luBps7VnbQ2ozc) | 4:35 | 2022-08-23 | 2022-09-09 |
 | [SHINOBI TOP SECRET](https://open.spotify.com/track/2JZBHfOcqoeUuY0d5mJX7h) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [SHINOBI TOP SECRET](https://open.spotify.com/album/2BErghmne06N5sK33vJUno) | 3:47 | 2022-06-07 | 2022-08-26 |
 | [SHOOTING STAR](https://open.spotify.com/track/0cRhcha9tHeClPWA4Gpf4y) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [SUPER DELICIOUS](https://open.spotify.com/album/6l4tkHQQ6pwyAcG57BTXL8) | 2:22 | 2022-05-19 | 2022-07-27 |
+| [SHOW YOU MY SOY SAUCE](https://open.spotify.com/track/4hzf8FrONSbzKWqYSWiX5s) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [SHOW YOU MY SOY SAUCE](https://open.spotify.com/album/5KmBmb7US92HxcEY2WcABp) | 4:35 | 2022-11-01 |  |
 | [Silent spear](https://open.spotify.com/track/3smaYm50Ivw3v7TVIFtAEo) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/0kO8GOTSHLSriErXdLQhus) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Silent spear](https://open.spotify.com/track/5l5O5zu4Vnmse6SHbxORDM) | [mildrage](https://open.spotify.com/artist/2LdFzULhmqYvTHBnHSNNcm) | [ROM](https://open.spotify.com/album/1mCJDxhi1kXBQcrz4wv18J) | 3:55 | 2022-07-21 |  |
 | [Simp](https://open.spotify.com/track/31vkkcXzYE3A7bSKfxemS6) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [Simp](https://open.spotify.com/album/31hzFNxPq3yCYKhIZTa4Pd) | 2:02 | 2022-05-17 | 2022-07-05 |
@@ -280,7 +283,7 @@
 | [still in me](https://open.spotify.com/track/4ldzswz3gHEJYF08mi8kIM) | [IF](https://open.spotify.com/artist/1NQpxLowmLRQBdjZOrvzc1) | [In forward](https://open.spotify.com/album/0PdIRoaf7cEZ1rkOelvlAx) | 3:45 | 2022-07-21 | 2022-09-15 |
 | [Still Remember](https://open.spotify.com/track/4wqxCUJUg89gdhw41oASfr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [torches](https://open.spotify.com/album/5dQf9Hqmb9HbGO4s4ZX1mK) | 4:13 | 2022-05-12 | 2022-07-24 |
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2022-05-12 | 2022-07-29 |
-| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 |  |
+| [SUN MYSELF](https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [PUT ON FRESH PAINT](https://open.spotify.com/album/6SgaWf8Yr7C714pmtVZz6x) | 2:41 | 2022-05-12 | 2022-11-02 |
 | [SUNTOWN](https://open.spotify.com/track/1UUoK3etmWU8lFOa4wLod6) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [WOKE](https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW) | 4:41 | 2022-05-12 | 2022-07-29 |
 | [SUPER GO!](https://open.spotify.com/track/5dZn5XNaRnOASUaFetLC1r) | [BABY FIRST](https://open.spotify.com/artist/23FflV6MbhRnm5WreqxuoA) | [SPIN\-OFF](https://open.spotify.com/album/566mnh10XUVvkMHJpHiQKv) | 1:51 | 2022-05-19 | 2022-07-15 |
 | [SURF](https://open.spotify.com/track/7dXGfbpC6nEAClhgMSYXEZ) | [Track's](https://open.spotify.com/artist/7iBZYT8fyfa1J3EGTLHVGx) | [SURF](https://open.spotify.com/album/4Gz58i1XggFiaRFLwGCOv3) | 1:28 | 2022-05-19 | 2022-07-29 |
@@ -306,6 +309,7 @@
 | [turning point](https://open.spotify.com/track/3zSBhkgMc4H4wFvEKRb2AW) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [clockwork](https://open.spotify.com/album/7Avr8T0Wu5GFpTVgb0AgHd) | 3:36 | 2022-05-17 | 2022-07-14 |
 | [UNITY](https://open.spotify.com/track/1FpsMVvNfyQyaJSbTIQ8ax) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [UNITY](https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl) | 1:33 | 2022-06-28 | 2022-07-28 |
 | [Untitled](https://open.spotify.com/track/7HOFDidN6ny6236kuHJfaI) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 2:41 | 2022-05-19 | 2022-07-11 |
+| [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 |  |
 | [USUAL THINGS](https://open.spotify.com/track/6tswheUnXPiqniiAEMa9o8) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [WRAINBOW](https://open.spotify.com/album/1A2wV5V15wivdfxrRkR4ZZ) | 2:55 | 2022-05-17 | 2022-07-24 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-12 |  |
 | [VITAMIN](https://open.spotify.com/track/0nJdVhBNM9jkC0PiG4mYNf) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [DEAD UNICORN & VITAMIN](https://open.spotify.com/album/4A1QgfUuJSNZZEIJ2ZioUB) | 3:19 | 2022-05-12 | 2022-07-27 |

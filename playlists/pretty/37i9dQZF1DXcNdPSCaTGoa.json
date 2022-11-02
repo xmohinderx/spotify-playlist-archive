@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African classics. Cover: <a href=\"https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3-HGc030gg\">Johnny Clegg</a>",
-  "num_followers": 27881,
+  "num_followers": 27897,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMGE1MWIyZDBiOTdiMTI3N2I0NzZlNzg5NDk4MzhhNWVj",
+  "snapshot_id": "MTYyNDc2ODE3MCwwMDAwMDAwMDQ0MDkwZjk5MjMwYjEwMTllNmI4ZjY1OTljYTRkNGI0",
   "tracks": [
     {
       "added_at": "2019-02-03 07:20:41",
@@ -599,26 +599,6 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "It's Our Game (No Need To Claim)",
-        "url": "https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m"
-      },
-      "artists": [
-        {
-          "name": "Boom Shaka",
-          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
-        },
-        {
-          "name": "Thebe",
-          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
-        }
-      ],
-      "duration_ms": 286600,
-      "name": "Thobela",
-      "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
+        "name": "It's Our Game (No Need To Claim)",
+        "url": "https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m"
+      },
+      "artists": [
+        {
+          "name": "Boom Shaka",
+          "url": "https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL"
+        },
+        {
+          "name": "Thebe",
+          "url": "https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Thobela",
+      "url": "https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -707,6 +707,22 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
+        "name": "Mango Groove",
+        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+      },
+      "artists": [
+        {
+          "name": "Mango Groove",
+          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+        }
+      ],
+      "duration_ms": 353266,
+      "name": "Special Star",
+      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
         "name": "Memeza",
         "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
-        "name": "Mango Groove",
-        "url": "https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl"
+        "name": "The Ultimate Collection: Mbongeni Ngema",
+        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
       },
       "artists": [
         {
-          "name": "Mango Groove",
-          "url": "https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J"
+          "name": "Mbongeni Ngema",
+          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
         }
       ],
-      "duration_ms": 353266,
-      "name": "Special Star",
-      "url": "https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt"
+      "duration_ms": 310236,
+      "name": "Stimela SaseZola",
+      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
     },
     {
       "added_at": "2019-02-03 06:58:55",
@@ -767,22 +783,6 @@
       "duration_ms": 387500,
       "name": "Heavenly Sent",
       "url": "https://open.spotify.com/track/0fciLuddpz37OtcxZZ8ixg"
-    },
-    {
-      "added_at": "2018-09-23 12:30:57",
-      "album": {
-        "name": "The Ultimate Collection: Mbongeni Ngema",
-        "url": "https://open.spotify.com/album/6pFattd30V5QtQimALPrdH"
-      },
-      "artists": [
-        {
-          "name": "Mbongeni Ngema",
-          "url": "https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1"
-        }
-      ],
-      "duration_ms": 310236,
-      "name": "Stimela SaseZola",
-      "url": "https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil"
     },
     {
       "added_at": "2018-09-23 12:30:57",
@@ -871,6 +871,22 @@
     {
       "added_at": "2018-09-23 12:30:57",
       "album": {
+        "name": "Ibokwe",
+        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Ingoma",
+      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+    },
+    {
+      "added_at": "2018-09-23 12:30:57",
+      "album": {
         "name": "Our Father",
         "url": "https://open.spotify.com/album/0OoSrujq3IhCnsd8Et9ktL"
       },
@@ -897,20 +913,20 @@
       "url": "https://open.spotify.com/track/7k6fhiKtfldICruY5AdKpb"
     },
     {
-      "added_at": "2018-09-23 12:30:57",
+      "added_at": "2019-03-07 11:17:53",
       "album": {
-        "name": "Ibokwe",
-        "url": "https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM"
+        "name": "Africa in Harmony: 50th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Ingoma",
-      "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
+      "duration_ms": 210613,
+      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
+      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2019-02-03 07:20:41",
@@ -927,22 +943,6 @@
       "duration_ms": 320266,
       "name": "Manyonyoba",
       "url": "https://open.spotify.com/track/2MVoYPJL7n4OynoawmOzJc"
-    },
-    {
-      "added_at": "2019-03-07 11:17:53",
-      "album": {
-        "name": "Africa in Harmony: 50th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7E9IY8XpEVPycKNk5egsfF"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Nkosi Sikelel' iAfrika (Shosholoza Mix)",
-      "url": "https://open.spotify.com/track/2twGhMExp2xH9ZF3gYl9ZT"
     },
     {
       "added_at": "2019-02-03 07:20:41",

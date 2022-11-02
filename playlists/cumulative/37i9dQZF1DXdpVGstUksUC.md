@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-260 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
+261 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Get It](https://open.spotify.com/track/7iitau8sBQBK18nZx6tJee) | [Buffalo Killers](https://open.spotify.com/artist/29FQbwKVUGe1KAI1H2EiDV) | [Dig\. Sow\. Love\. Grow.](https://open.spotify.com/album/3PbGDuPdhSDaGKCaEHfMV2) | 3:10 | 2022-04-28 |  |
 | [Ghost In My Speaker](https://open.spotify.com/track/4iv6rGqTTY9OPo3gO9kImr) | [Cowboys & Aliens](https://open.spotify.com/artist/40dMfiJSBmkMQbf5HNA2nE) | [Love, Sex, Volume](https://open.spotify.com/album/5c8n4VqsS8iUCCSJtBBsWQ) | 4:17 | 2021-11-30 | 2022-07-24 |
 | [Gimme the Keys](https://open.spotify.com/track/2spBFZ0QX3dr0litwWfsmC) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Book of Bad Decisions](https://open.spotify.com/album/4NhNjAi8FbwJQBsYf7BSfS) | 3:32 | 2021-11-30 | 2022-07-29 |
-| [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 |  |
+| [GNT](https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU) | [King of Cowards](https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS) | 5:49 | 2021-11-30 | 2022-11-02 |
 | [God Damn Wolf Man](https://open.spotify.com/track/50UtDNOwKeVHlBnO5xF0eU) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:49 | 2021-11-30 | 2022-02-14 |
 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 | 2021-11-30 | 2022-07-19 |
 | [Grasping Time \- Single Version](https://open.spotify.com/track/27DIYmcXxMNNVztsjiCApl) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Grasping Time](https://open.spotify.com/album/5z4BnCZGs1JX8oIhUyedjW) | 4:20 | 2021-11-30 | 2022-02-08 |
@@ -256,6 +256,7 @@
 | [Up in the Sky](https://open.spotify.com/track/0eXfZ0Tq12ErDNOJFnhZRm) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/2kmk2rzJWOhD9HLEMnINpe) | 8:12 | 2021-11-30 | 2022-07-29 |
 | [Up in the Sky](https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY) | [Somali Yacht Club](https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV) | [The Sun](https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8) | 8:12 | 2022-04-28 | 2022-10-22 |
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2021-11-30 | 2022-07-29 |
+| [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 | 2022-10-14 |  |
 | [We Strive for Excellence](https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [We Strive for Excellence](https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG) | 2:55 | 2022-07-22 | 2022-10-20 |
 | [Weißensee](https://open.spotify.com/track/4oi9uwVORDwDShiauc1Naq) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/0lF4uvIJba3SNIDCwTTLkQ) | 18:33 | 2021-11-30 | 2022-07-29 |
 | [What Needs Must Be](https://open.spotify.com/track/0xy3tLHmsJKEKpAsPsdglm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/5PQ1YxpW1DyHIRDLQYRlf6) | 4:16 | 2021-11-30 | 2022-07-29 |

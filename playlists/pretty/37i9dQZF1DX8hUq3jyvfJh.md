@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Pocah e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,942 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,949 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 12 | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/track/2bPtwnrpFNEe8N7Q85kLHw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Combatchy \(feat\. MC Rebecca\)](https://open.spotify.com/album/4YQQS1DM9JskregbISv1dq) | 2:37 |
 | 13 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 |
 | 14 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 |
-| 15 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
-| 16 | [Amiga](https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amiga](https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3) | 2:15 |
+| 15 | [Amiga](https://open.spotify.com/track/63Kaskt6dmoNKDifEeKtLX) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amiga](https://open.spotify.com/album/4NTdTOPg1rzRrukME3IVk3) | 2:15 |
+| 16 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
 | 17 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 |
 | 18 | [Ao Som do 150](https://open.spotify.com/track/2nCKTSg3tWkfth4TSYBVzy) | [Rebecca](https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr) | [Ao Som do 150](https://open.spotify.com/album/0NnlEaVeimova4vnBMhkGl) | 1:59 |
 | 19 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Voltei](https://open.spotify.com/track/5xM24ffgOwCwJ9bYyNlQMW) | [Agatha](https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i), [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Voltei](https://open.spotify.com/album/1cWeUMEeeityWPHsjU5Nbb) | 2:03 |
 | 50 | [Nocaute](https://open.spotify.com/track/61jYnAUclCOarbNsNWDYS4) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Nocaute](https://open.spotify.com/album/72xcNZ9fxb3V7dw5u2zHNT) | 2:04 |
 
-Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMGZjYWU1ZGY4ZTUwMTAwNDY0ZDk3MDc3NjhmY2E1MmU1`
+Snapshot ID: `MTY2NTcxNjQwMCwwMDAwMDAwMGNhMzAzODBkOTY5ZTViZTAyYzg5NDEzZjEzNWM2YzYz`

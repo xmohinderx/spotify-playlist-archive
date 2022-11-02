@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 564601,
+  "num_followers": 564754,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMGI2MzFhZjcwZmQxYmIwOTI1ODJjY2NmYzVjY2U1ZjU3",
+  "snapshot_id": "MTY1MTY4NDMwOSwwMDAwMDAwMDE4NDkyZTEzYjNlOThhZjNlMTk2NDUzYTQ5NTJiMzJm",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 277386,
-      "name": "Handbags And Gladrags",
-      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Handbags And Gladrags",
+      "url": "https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr"
     },
     {
       "added_at": "2022-05-04 17:11:49",

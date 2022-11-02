@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-76 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/6TfVEDAhgo97YC4Yvz98Mx)
+77 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/6TfVEDAhgo97YC4Yvz98Mx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Below the House](https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 3:41 | 2022-02-11 |  |
 | [Bloodhail](https://open.spotify.com/track/5qZ4c1EBVWpmz1GBaks8Uq) | [Have A Nice Life](https://open.spotify.com/artist/0FRKTwQSToXpCxYMhyUzYY) | [Deathconsciousness](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM) | 5:38 | 2022-02-11 |  |
 | [Buried Above Ground](https://open.spotify.com/track/5dAoUZkkkmx0YDMK9Bmy2g) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 6:28 | 2022-02-11 |  |
-| [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 | 2022-07-01 |  |
+| [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 | 2022-07-01 | 2022-11-02 |
 | [Coma Waering](https://open.spotify.com/track/5JsfsxlFQ0EwfLN95YKI5B) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Coma Waering](https://open.spotify.com/album/2HFgZ2MeCZKxPFrBGY2ulz) | 9:18 | 2022-02-11 | 2022-03-09 |
 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 | 2022-02-11 |  |
 | [Composition I \- Isolation](https://open.spotify.com/track/4y8C2N8SxVX8qqaTswCA7K) | [Aleksi Myllykoski](https://open.spotify.com/artist/2FboFKeiHrjwPpBitv62lo), [Tapani Rinne](https://open.spotify.com/artist/3444FAqjOpZGe7qdyshHg1) | [Composition I\-VII \- St\. Virus](https://open.spotify.com/album/5RP3UwiFIaZZSPIgQeAbM0) | 12:27 | 2022-02-11 | 2022-07-29 |
@@ -31,6 +31,7 @@
 | [Enerhodar](https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [II](https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI) | 4:27 | 2022-05-06 |  |
 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 | 2022-04-01 |  |
 | [Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:05 | 2022-02-11 |  |
+| [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Set the Weather Fair: Seasons](https://open.spotify.com/album/3OKHTxMZvKcIhB1tvZTNgq) | 6:36 | 2022-10-04 |  |
 | [Gold of the Azure \- Marconi Union Remix](https://open.spotify.com/track/4QTLMYj1dHVMgIihKvbidY) | [Digitonal](https://open.spotify.com/artist/5IRw6qWz0NFImXO3hNOyai), [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Gold of the Azure \(Marconi Union Remix\)](https://open.spotify.com/album/43cP2xH2L43NJBDgMslzWZ) | 6:36 | 2022-03-04 | 2022-10-15 |
 | [Heaven Knows I'm Miserable Now \- 2011 Remaster](https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 3:35 | 2022-02-11 |  |
 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 | 2022-02-11 |  |

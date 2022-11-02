@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDkyMGFkMWU1NDM2MjZmODZjNWYzZDE5ZGU1NTdlZTBl",
+  "snapshot_id": "MTY2NTExODg2NywwMDAwMDAwMDRmMTU3NTA4OGZjYTNkNGQxNzdmNjU4MjgxODBmNzhm",
   "tracks": [
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/57sMkc27ZlIo9pSCv6O6ng"
     },
     {
-      "added_at": "2022-11-01 01:47:56",
+      "added_at": "2022-11-02 01:43:53",
       "album": {
         "name": "\uc6d0 Wish",
         "url": "https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7"
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Heart in Motion",
-        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
-      },
-      "artists": [
-        {
-          "name": "The Green Tea",
-          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Green Tea",
-      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Cliche",
         "url": "https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE"
       },
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "Mini Stewardess",
         "url": "https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 202823,
       "name": "Mini Stewardess",
       "url": "https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Heart in Motion",
+        "url": "https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15"
+      },
+      "artists": [
+        {
+          "name": "The Green Tea",
+          "url": "https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Green Tea",
+      "url": "https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi"
     },
     {
       "added_at": "2022-09-05 15:56:48",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-09-05 15:56:48",
       "album": {
-        "name": "blooming",
-        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
-      },
-      "artists": [
-        {
-          "name": "Kim Marie",
-          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "blooming",
-      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
-    },
-    {
-      "added_at": "2022-09-05 15:56:48",
-      "album": {
         "name": "If I (with Yun DDanDDan)",
         "url": "https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 229354,
       "name": "If I (with Yun DDanDDan)",
       "url": "https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U"
+    },
+    {
+      "added_at": "2022-09-05 15:56:48",
+      "album": {
+        "name": "blooming",
+        "url": "https://open.spotify.com/album/4m6i862LBcQlLoDR5INrN3"
+      },
+      "artists": [
+        {
+          "name": "Kim Marie",
+          "url": "https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "blooming",
+      "url": "https://open.spotify.com/track/4ZEdXvd8rWGwOArzGzXr2u"
     },
     {
       "added_at": "2022-09-05 15:56:48",

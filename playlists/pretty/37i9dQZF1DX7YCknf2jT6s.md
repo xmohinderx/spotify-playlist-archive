@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: <br/>Marquis Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,558 likes - 100 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,917 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/track/36tF6eoNw42PF9KsHV25wg) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [maassai](https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV), [Samora Pinderhughes](https://open.spotify.com/artist/6Of92bKNSsFuoNkF4nQ6Za) | [Black Alchemy/Hall of Mirrors](https://open.spotify.com/album/07wjW4FpbYbRCuIAxZVclK) | 6:00 |
 | 2 | [Us \- A COLORS SHOW](https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Us \- A COLORS SHOW](https://open.spotify.com/album/6c1sdchTFvL0jwHeKx725a) | 6:13 |
-| 3 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/1FrPD7V10rJh8TAluBjsoE) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
+| 3 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 |
 | 4 | [Zero — piano reworks](https://open.spotify.com/track/4S2lJF9tqs5MRLtWzuPXx1) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [some kind of peace — piano reworks](https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv) | 3:27 |
 | 5 | [Lokum](https://open.spotify.com/track/1LhXwBdUdkN20igjixRGmy) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Elchin Shirinov](https://open.spotify.com/artist/7EhiJAWt6Pal31fc4iyJM2) | [Lokum](https://open.spotify.com/album/13WbmvW5c2LWLczF2Fygxf) | 4:26 |
 | 6 | [Kantine](https://open.spotify.com/track/5OaD0R2xpY3dheQ3s2JXCF) | [Radio Citizen](https://open.spotify.com/artist/2tPR0lWEWNyDUHPeVEhewu) | [Kantine](https://open.spotify.com/album/3DMbmuLxjPzya3jm2z2dDA) | 4:42 |

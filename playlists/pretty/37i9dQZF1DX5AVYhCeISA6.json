@@ -1,12 +1,12 @@
 {
   "description": "Latinas que inspiran. Kickback and listen to these amazing women. Cover: Villano Antillano",
-  "num_followers": 597029,
+  "num_followers": 597110,
   "original_name": "Inspiring Latinas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGQ1YTdkMDg3NjNhZDdiZDNmYzMwNjlmZWViY2QyOTE1",
+  "snapshot_id": "MTY2MTkzMDAzOSwwMDAwMDAwMGQ2ZmExOGRjNDE5YjdlYzY0OGYwMWRlN2FiYjgyYTU5",
   "tracks": [
     {
       "added_at": "2022-08-31 07:13:59",
@@ -439,6 +439,22 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
+        "name": "Amor Supremo (Desnudo)",
+        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
         "name": "La Ni\u00f1a",
         "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
-        "name": "Amor Supremo (Desnudo)",
-        "url": "https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
-    },
-    {
-      "added_at": "2022-08-31 07:13:59",
-      "album": {
         "name": "DOS DOS DOS",
         "url": "https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190580,
       "name": "Toda la Vida",
       "url": "https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we"
+    },
+    {
+      "added_at": "2022-08-31 07:13:59",
+      "album": {
+        "name": "KI-KI",
+        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 141335,
+      "name": "KI-KI",
+      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
     },
     {
       "added_at": "2022-08-31 07:13:59",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2022-08-31 07:13:59",
       "album": {
-        "name": "KI-KI",
-        "url": "https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1"
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
       },
       "artists": [
         {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 141335,
-      "name": "KI-KI",
-      "url": "https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm"
+      "duration_ms": 202026,
+      "name": "Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY"
     },
     {
       "added_at": "2022-08-31 07:13:59",

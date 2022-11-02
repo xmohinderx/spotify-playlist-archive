@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Codigo FN
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,908 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,946 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 25 | [Especial](https://open.spotify.com/track/03KPXGNkf8k26ep9bvAbKX) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Especial](https://open.spotify.com/album/1lyTFiEt9BLgu0bPK6UApL) | 1:55 |
 | 26 | [Grupo Especial Alfa \- En Vivo](https://open.spotify.com/track/3gkZmO0y4dUl1QdC9xEHbt) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Grupo Especial Alfa \(En Vivo\)](https://open.spotify.com/album/3BUy7aunnk1DhqYUw89LNW) | 2:58 |
 | 27 | [El Bob Esponja \(Versión Banda\)](https://open.spotify.com/track/6k66FmM0fjoVkO3hYx3FhI) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [El Bob Esponja \(Versión Banda\)](https://open.spotify.com/album/5GGqUzYxVT5IBwehc3V2GO) | 3:11 |
-| 28 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Vanguardia](https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 |
+| 28 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 |
 | 29 | [San Judas Tadeo](https://open.spotify.com/track/1Q8KGAKF0DKbyh1cBVM37e) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [San Judas Tadeo](https://open.spotify.com/album/6rMSqDxYAmUdL6cqmnYbqL) | 3:36 |
 | 30 | [La Troca del Moño Negro \- En Vivo](https://open.spotify.com/track/4xvt5lkqVTobufrpAN6lg4) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f), [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [La Troca del Moño Negro \(En Vivo\)](https://open.spotify.com/album/1M09vPGKB3Z7Mi8QbVsg8V) | 3:17 |
 | 31 | [La Cabalgata de San Judas](https://open.spotify.com/track/556HUE8wvrUKHfkg6uk3p0) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [La Cabalgata de San Judas](https://open.spotify.com/album/3cQZlfVxAB3lICkd17FMbR) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marmi",
-  "num_followers": 20004,
+  "num_followers": 20017,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGM5M2M2ZWU3MjlmOTA4MzZmNGFiNzU1MWI4NGJmM2M5",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGZkYWIwZTgxNzQzYjdiOGQ4MTFlODE1ZmI2MTQxYzIw",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+      "duration_ms": 178280,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/0kLFTeOYFRwwfMxWoydgTg"
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/1QmeRSdkLOaa54RU1V6amX"
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -439,6 +439,38 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Alex Turner",
+        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
+      },
+      "artists": [
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Alex Turner",
+      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 148915,
+      "name": "EN EL CIELO",
+      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Lo Que No Te Cuentan",
         "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
       },
@@ -471,38 +503,6 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Alex Turner",
-        "url": "https://open.spotify.com/album/08tPbq1A0YvnoHbbIrKs4j"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Alex Turner",
-      "url": "https://open.spotify.com/track/7JL9bfCKDRmfrQqZbB6X0x"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "EN EL CIELO",
-      "url": "https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "a partes",
         "url": "https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 170285,
       "name": "Indie esperanzador",
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2022-10-27 22:01:00",

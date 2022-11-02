@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 174,
+  "num_followers": 202,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgxODMxMSwwMDAwMDAwMDdmNzZlNDI1MzljMzdiZTJlNDRmOTQ5NjljNDcyZWRh",
+  "snapshot_id": "MTY2NjgxODMxMSwwMDAwMDAwMDgxMTFlYmY0Y2E0YTAwNWNmYWVmNGIyZWY0MjNiNWI0",
   "tracks": [
     {
       "added_at": "2022-09-20 20:10:52",
@@ -967,26 +967,6 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Born To Be Yours",
-      "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
         "name": "Native",
         "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 214813,
       "name": "If I Lose Myself - Alesso vs OneRepublic",
       "url": "https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Born To Be Yours",
+      "url": "https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2"
     },
     {
       "added_at": "2022-09-20 20:10:52",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 210017,
+      "name": "I Want U",
+      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/3NLjETPKVCukXj19Ol7Grj"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 193747,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/4NmOJQxl9UZItUQQtMDYBb"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 210017,
-      "name": "I Want U",
-      "url": "https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od"
     },
     {
       "added_at": "2022-09-20 20:10:52",

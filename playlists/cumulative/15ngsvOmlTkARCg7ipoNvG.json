@@ -6730,6 +6730,24 @@
     },
     {
       "album": {
+        "name": "Hidden Paths",
+        "url": "https://open.spotify.com/album/1JyS8znPyVx640PYnv6zFR"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61643,
+      "name": "Hidden Paths",
+      "url": "https://open.spotify.com/track/19W5bY6RJ58W0jYB1lUQqB"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5"
       },
@@ -9601,6 +9619,24 @@
       "duration_ms": 72391,
       "name": "Peaceful And Calm",
       "url": "https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p"
+    },
+    {
+      "album": {
+        "name": "Peaceful Reflections",
+        "url": "https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61200,
+      "name": "Peaceful Reflections",
+      "url": "https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6"
     },
     {
       "album": {

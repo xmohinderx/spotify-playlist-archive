@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Michal Leah
 
-1,022 songs - 2 day 5 hr 53 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+1,023 songs - 2 day 5 hr 56 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,8 +442,9 @@
 | [i don't wanna let u go](https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [i don't wanna let u go](https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA) | 2:24 | 2022-01-07 | 2022-06-25 |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2021-10-16 | 2022-02-05 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-08-21 | 2022-04-02 |
-| [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-30 |  |
+| [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-30 | 2022-11-02 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
+| [I Just Want a Lover](https://open.spotify.com/track/6whql8yh4n96c8Zl4MYkVG) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:21 | 2022-10-28 |  |
 | [I Never Learn](https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [I Never Learn](https://open.spotify.com/album/3AUVlIKnnnWZAcqzxTKx4G) | 3:17 | 2022-01-14 | 2022-01-29 |
 | [I only go south](https://open.spotify.com/track/2OKm4YcGHT04AuVuqx149o) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [I only go south](https://open.spotify.com/album/7nMyRhka92SYaj3YZOTSAK) | 3:21 | 2021-06-12 | 2021-09-04 |
 | [I Only Love You When I'm Sad](https://open.spotify.com/track/6w2WFVDwMYJtH9xfgL4SKv) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [I Only Love You When I'm Sad](https://open.spotify.com/album/2zWeqS9q6bzyhUlaySpIIa) | 2:22 | 2021-05-08 | 2021-07-10 |

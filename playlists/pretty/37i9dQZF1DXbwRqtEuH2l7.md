@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 
 > Long, dark and sustained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,262 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,335 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 27 | [The Sacrifice](https://open.spotify.com/track/4BEdj9G17kmBuElba6lShF) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8) | [Blind Emperor](https://open.spotify.com/album/0HkYfpjWLP0WYIj0xNFJ0N) | 4:00 |
 | 28 | [Spheres](https://open.spotify.com/track/2svnVFyNQZr7KG706u0u0K) | [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Moonrise](https://open.spotify.com/album/4v1rXVn6xI0cFZKwvIsd7c) | 3:42 |
 | 29 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 |
-| 30 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 |
-| 31 | [Dream](https://open.spotify.com/track/4oIAv5hE2WYfo75ibQA9GU) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/2saJZHSNvwPxaaArq3iKzP) | 7:14 |
-| 32 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 |
+| 30 | [Dream](https://open.spotify.com/track/4oIAv5hE2WYfo75ibQA9GU) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/2saJZHSNvwPxaaArq3iKzP) | 7:14 |
+| 31 | [Bondage To Formula](https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [Cast Of Mind](https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN) | 7:15 |
+| 32 | [Erik's Dream](https://open.spotify.com/track/67VQ33qBCGV61G7R2esk2H) | [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Sandstones](https://open.spotify.com/album/416p04AbDtCrFidDf4gLuk) | 2:38 |
 | 33 | [It Takes Time](https://open.spotify.com/track/4wbph7JCthEvpGVM8KbmZt) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [James Joseph](https://open.spotify.com/artist/6JlUOf5B4IdBSZ4gyaBkej) | [It Takes Time](https://open.spotify.com/album/3TWIEDKHkoy1HmeFTOMnRv) | 5:31 |
 | 34 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
-| 35 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
-| 36 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |
-| 37 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 |
+| 35 | [Sunrise in the Third System](https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Alpha Centauri](https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK) | 4:21 |
+| 36 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 |
+| 37 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 |
 | 38 | [Lobby](https://open.spotify.com/track/4UmwjnEQ4CZy9XmaN52r0I) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:01 |
 | 39 | [Night Electricity Theme](https://open.spotify.com/track/0z6tXw30BznYjtvXgqncCx) | [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Anthology Resource Vol\. I: △△](https://open.spotify.com/album/4q6JB2fWo2EtChhqBbM61l) | 2:51 |
 | 40 | [Getting Ready to Say Goodbye](https://open.spotify.com/track/0JxPSe1YeUwQZLuhiSvK6r) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cycles](https://open.spotify.com/album/4dbsWGtWgEkWqJMvRyx4bL) | 4:05 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwRqtEuH2l7.md) - [plain]
 | 50 | [Procession](https://open.spotify.com/track/3aY7DXuLSjhZWylrsxZlvS) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [Emanate](https://open.spotify.com/album/1egylUUEu5VyrBX4Sn8LwW) | 5:34 |
 | 51 | [Garlands](https://open.spotify.com/track/5SMrvHvUEU8NJohwwcSOO0) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/5ziHF8teR7EXEmOgYJU94B) | 2:54 |
 | 52 | [Brilliance](https://open.spotify.com/track/6yESxXi51ypIOiazRTTinL) | [Christoph De Babalon](https://open.spotify.com/artist/4ZrzdbajcxLidPJDPZomzz) | [If You're Into It I'm Out of It](https://open.spotify.com/album/2eFiRk2G9mVxjpZQy2ouTl) | 7:10 |
-| 53 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
-| 54 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
+| 53 | [Magnified Pieces of Thermodynamics](https://open.spotify.com/track/6yVJyoTT6goRqEvSv6rWLZ) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O), [Forest Management](https://open.spotify.com/artist/2z0s65XFlIfrX3hB5A6YD7) | [Landmarks](https://open.spotify.com/album/4W0Qq5GuaCeVSL4ME7kqLy) | 6:26 |
+| 54 | [Nuuk \(Air\)](https://open.spotify.com/track/4iBVHkmGRBoEOpRRmEqv94) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Nuuk](https://open.spotify.com/album/3ulAX8iVHCIvzCfcMZiKg9) | 4:47 |
 | 55 | [abundance](https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A) | [badfocus](https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh), [Albert Štifter](https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi) | [emerged, vol\. II](https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb) | 2:23 |
 | 56 | [Burn It All Down](https://open.spotify.com/track/3CnXVFKUwgYWZuH6KmlTsv) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo) | 2:31 |
 | 57 | [Sleeping Since Last Year](https://open.spotify.com/track/2kc18BHDqGI7QGpGN150AG) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Sleeping Since Last Year](https://open.spotify.com/album/0hrFPfSOWBFo156sLpdho2) | 5:59 |
 | 58 | [Mod Aki Kasa](https://open.spotify.com/track/1NjkQKN7Fvi9hrYRCljVSs) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Pararatronic](https://open.spotify.com/album/6tf8KKUz2s11zLiP5HNqKL) | 3:46 |
-| 59 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
-| 60 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
+| 59 | [Torn Page](https://open.spotify.com/track/5BEcsUdHuN9aQBqA46iPqP) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Torn Page](https://open.spotify.com/album/7zeAIjVBhbNkgXmcoWWjx9) | 19:54 |
+| 60 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
 
-Snapshot ID: `MTY2NTQwNzE2OSwwMDAwMDAwMDFmYzQ0NTFmNGJhNzlhMTIyZTY3YzllMzBhYTFlZDVh`
+Snapshot ID: `MTY2NTQwNzE2OSwwMDAwMDAwMGI1M2EyOWRjYzg5NDg3ZTJiMWJiNDMzYzA1MmZiY2Nl`

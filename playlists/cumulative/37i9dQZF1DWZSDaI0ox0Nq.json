@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 204889,
       "name": "Coraz\u00f3n Maldito",
       "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-19",
+      "date_removed": null,
       "duration_ms": 218033,
       "name": "Nunca Tuvo Novio",
       "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
@@ -1559,6 +1559,24 @@
       "duration_ms": 198426,
       "name": "Siempre Se Vuelve a Buenos Aires",
       "url": "https://open.spotify.com/track/2RcuXObw8nju8CK3VWZ5Vv"
+    },
+    {
+      "album": {
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
+      },
+      "artists": [
+        {
+          "name": "Elena Roger",
+          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198437,
+      "name": "Siempre Se Vuelve a Buenos Aires",
+      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Zamzam, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Hotboxgroove, Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "published_playlist_ids": [
     "5WHUFzJa9ZzmLS4KcMCdPY"
@@ -41,6 +41,24 @@
       "duration_ms": 187083,
       "name": "All On You",
       "url": "https://open.spotify.com/track/76CER1W49x9F01Z7ZwJ6Oa"
+    },
+    {
+      "album": {
+        "name": "ARMANI",
+        "url": "https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1"
+      },
+      "artists": [
+        {
+          "name": "Papii",
+          "url": "https://open.spotify.com/artist/1kM5oRCVuQgb3oOtGqGHu8"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "ARMANI",
+      "url": "https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN"
     },
     {
       "album": {
@@ -221,7 +239,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 149400,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/4hwAXMumToo9gB29mY65TV"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 163277,
       "name": "Caravan Flow",
       "url": "https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 168545,
       "name": "FRT",
       "url": "https://open.spotify.com/track/14wdMY6YXpn5YrdpYj4OKC"
@@ -618,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Kalam Kteer",
+        "url": "https://open.spotify.com/album/7ticL8OnOkr0oJ9VdssO3a"
+      },
+      "artists": [
+        {
+          "name": "Montiyago",
+          "url": "https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172593,
+      "name": "Kalam Kteer",
+      "url": "https://open.spotify.com/track/2MPhQqiPRsHJUVZqAW3xNi"
+    },
+    {
+      "album": {
         "name": "Khayal",
         "url": "https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO"
       },
@@ -737,7 +773,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 230738,
       "name": "Masquerading Crowd",
       "url": "https://open.spotify.com/track/0zaMCsXxqGXrz1quaVDBtP"
@@ -781,6 +817,24 @@
       "duration_ms": 216120,
       "name": "Mesh assef",
       "url": "https://open.spotify.com/track/0IpW4bdat4oWMYc1zLGkaW"
+    },
+    {
+      "album": {
+        "name": "Midnight Blooms",
+        "url": "https://open.spotify.com/album/7vDLOjrrS0JH2YQYmcUCw8"
+      },
+      "artists": [
+        {
+          "name": "Hotboxgroove",
+          "url": "https://open.spotify.com/artist/2iOmWTulb3nP3FQ9DYtLLV"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492100,
+      "name": "Midnight Blooms",
+      "url": "https://open.spotify.com/track/7vcMs6ZC0TZyrN6BDyf8vg"
     },
     {
       "album": {
@@ -918,6 +972,24 @@
     },
     {
       "album": {
+        "name": "Ocean of Black (AKA Harlot Sun)",
+        "url": "https://open.spotify.com/album/0B4QxMN7Ri5zPAmFuuJRRV"
+      },
+      "artists": [
+        {
+          "name": "Blue Vein River",
+          "url": "https://open.spotify.com/artist/5zLSqhWdzWowLvrg0Nory0"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276244,
+      "name": "Ocean of Black (AKA Harlot Sun)",
+      "url": "https://open.spotify.com/track/43Euq23DvavCc4P3b0WdqF"
+    },
+    {
+      "album": {
         "name": "On Sight",
         "url": "https://open.spotify.com/album/4LxPwuFcp3IOfBnYWKj368"
       },
@@ -929,7 +1001,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 197273,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0S5zLiOfQJPCr7RVj6HFRq"
@@ -987,6 +1059,28 @@
       "duration_ms": 474319,
       "name": "Purity",
       "url": "https://open.spotify.com/track/5DR6vuwwCEBg9kAgJB2zG8"
+    },
+    {
+      "album": {
+        "name": "Sabba7 Sabba7 (\u0635\u0628\u062d \u0635\u0628\u062d)",
+        "url": "https://open.spotify.com/album/0NGKUsDTyyoBnwGJNk9UVp"
+      },
+      "artists": [
+        {
+          "name": "Kassar",
+          "url": "https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP"
+        },
+        {
+          "name": "Mahib Sleat",
+          "url": "https://open.spotify.com/artist/6MmPo4vru1QVS2uWhTQHT4"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Sabba7 Sabba7 - \u0635\u0628\u062d \u0635\u0628\u062d",
+      "url": "https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t"
     },
     {
       "album": {

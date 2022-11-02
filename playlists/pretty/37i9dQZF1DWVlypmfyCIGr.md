@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,414 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,454 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 65 | [ロマンス](https://open.spotify.com/track/7aYS9BNsXFIFEogRGL1rQC) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [ロマンス](https://open.spotify.com/album/08X34HYaXRUkho62DxyGNf) | 3:44 |
 | 66 | [UMBER](https://open.spotify.com/track/7dxrgQktkyu0KHfrnJKzL0) | [ukei.](https://open.spotify.com/artist/0PISjbPSQ6ucHzarrtkLcK) | [UMBER](https://open.spotify.com/album/3Rl7uFMqXA6Y03z7VKAuUE) | 3:20 |
 | 67 | [DOSOKAI](https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [DOSOKAI](https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf) | 2:49 |
-| 68 | [PaIII.AGITATION \(feat\. 初音ミク×GUMI×鏡音リン\)](https://open.spotify.com/track/7o3GPBlq0X0otPk0LX1CmI) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [初音ミク](https://open.spotify.com/artist/4uMfWEy05Ba85u9fEl1yTz), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [PaIII.AGITATION](https://open.spotify.com/album/1lwUlXfM12mDSWKgSekez1) | 3:35 |
+| 68 | [PaIII.AGITATION \(feat\. 初音ミク×GUMI×鏡音リン\)](https://open.spotify.com/track/7o3GPBlq0X0otPk0LX1CmI) | [Yunosuke](https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu), [鏡音リン](https://open.spotify.com/artist/2gz31oKYxWOkb2KKixMv73) | [PaIII.AGITATION](https://open.spotify.com/album/1lwUlXfM12mDSWKgSekez1) | 3:35 |
 | 69 | [風](https://open.spotify.com/track/0wU8Ejhr1mAA9DdCw1nBcz) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [風](https://open.spotify.com/album/4hqX3NRbqoyxsSvTpkeNIM) | 2:58 |
 | 70 | [クリームソーダ](https://open.spotify.com/track/14aSGhLsPb5Qeox0934E7n) | [さのめいみ。](https://open.spotify.com/artist/6FfwgA2Tm5fBHHu9PY5847) | [クリームソーダ](https://open.spotify.com/album/5rs9z2P22wsGjuOK3RXCA8) | 4:06 |
 | 71 | [image](https://open.spotify.com/track/3OiD7kSBfa8IITLSHiL0Re) | [シトナユイ](https://open.spotify.com/artist/0kWlfrKUtyyjipOtWz5gkB) | [image](https://open.spotify.com/album/53hK59N4RcuH5YnRvpx829) | 3:39 |

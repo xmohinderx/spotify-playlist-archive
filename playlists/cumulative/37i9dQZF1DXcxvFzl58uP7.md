@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-786 songs - 1 day 16 hr 50 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
+787 songs - 1 day 16 hr 53 min - [published](https://open.spotify.com/playlist/4p9v5vMC3BNDcXEwon0JiI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Can't Be // How U Feel](https://open.spotify.com/track/2sa35Fu5jG7UBb82NVZWMm) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Self](https://open.spotify.com/album/6IzPYoicnMOnVFTX2v53ac) | 2:06 | 2019-07-31 | 2022-04-18 |
 | [Car Crash in G Major](https://open.spotify.com/track/24EtJ2vTx6CtaP32S6Arn2) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/1aPZj3S4ORUVOaaFmUgCU6) | 2:12 | 2021-02-27 | 2022-10-14 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2020-09-25 | 2022-07-29 |
+| [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2022-09-14 |  |
 | [car freshener aftershave](https://open.spotify.com/track/3WjJsxVGgv338WTJjqMMUo) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [car freshener aftershave](https://open.spotify.com/album/4bttNVeiW21axEo78V9n6B) | 4:03 | 2021-03-21 | 2021-08-23 |
 | [Car Window](https://open.spotify.com/track/54oNYGC5Sh6ZkvlsLYjPpC) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Car Window](https://open.spotify.com/album/6P6XVOcw28EdxuIqikSOqj) | 2:55 | 2019-07-30\* | 2021-05-28 |
 | [Chandelier](https://open.spotify.com/track/1Go9q6KaCpAsQ0wkZFGzY2) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Chandelier](https://open.spotify.com/album/2mLsjWM9GyknWYlAXKZcOe) | 2:07 | 2020-12-22 | 2022-09-30 |
@@ -489,7 +490,7 @@
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-04-12 | 2022-04-21 |
 | [Nostalgia](https://open.spotify.com/track/7gtj3FWoAiQDPbON9EXNbH) | [Michael Seyer](https://open.spotify.com/artist/7K4cef9h3NvU7Xb3BH7Ade) | [Nostalgia](https://open.spotify.com/album/3hFBnq1H23hlLwIooVXl1T) | 4:03 | 2019-11-14 | 2021-05-24 |
 | [notgonnalie](https://open.spotify.com/track/36ibjANovvUo60xwamxLt7) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [notgonnalie](https://open.spotify.com/album/1OYlACKzTcH3bgDsf2lDjf) | 2:50 | 2021-10-25 | 2022-04-21 |
-| [Nothing in Return](https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1) | 3:52 | 2021-02-27 |  |
+| [Nothing in Return](https://open.spotify.com/track/2r0pJWxAyYVQTHTwcnbM8A) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/7bHQuWjDkBQc4cU0jOTBa1) | 3:52 | 2021-02-27 | 2022-11-02 |
 | [Nothing in Return](https://open.spotify.com/track/53G729jc38JTStNPNX4dF1) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [Nothing in Return](https://open.spotify.com/album/3i7HKOoLl6nSPXaOjknDjN) | 3:52 | 2019-07-30\* | 2022-07-29 |
 | [Nothing personal](https://open.spotify.com/track/65L7hHIrNPHfaWGwWfWDSm) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Nothing personal](https://open.spotify.com/album/4SOLhoZmWjEGNWyL5ADkBy) | 4:31 | 2021-04-02 | 2022-04-21 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2021-10-14 |  |

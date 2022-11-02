@@ -2483,10 +2483,28 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 135445,
       "name": "Das U",
       "url": "https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot"
+    },
+    {
+      "album": {
+        "name": "Das U",
+        "url": "https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "Das U",
+      "url": "https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g"
     },
     {
       "album": {

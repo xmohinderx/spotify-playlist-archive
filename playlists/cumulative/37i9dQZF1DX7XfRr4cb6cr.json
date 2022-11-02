@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 348608,
       "name": "Between Two Breaths",
       "url": "https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
@@ -1337,7 +1337,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
@@ -2112,6 +2112,24 @@
     },
     {
       "album": {
+        "name": "Preludes for Halloween Vol. I",
+        "url": "https://open.spotify.com/album/6sbfcYlYMGdTHJJ6QSImiN"
+      },
+      "artists": [
+        {
+          "name": "J. M. Quintana C\u00e1mara",
+          "url": "https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88823,
+      "name": "Prelude for Halloween 1",
+      "url": "https://open.spotify.com/track/3s5Qgp2Wsuvpt2qNG0sXKo"
+    },
+    {
+      "album": {
         "name": "Lost Album",
         "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
       },
@@ -2579,6 +2597,24 @@
     {
       "album": {
         "name": "Midnight",
+        "url": "https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1168386,
+      "name": "Sun - Midnight Version",
+      "url": "https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr"
+    },
+    {
+      "album": {
+        "name": "Midnight",
         "url": "https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK"
       },
       "artists": [
@@ -2677,7 +2713,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 342173,
       "name": "The Aurae Loops",
       "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"

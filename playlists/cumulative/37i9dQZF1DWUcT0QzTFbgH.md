@@ -4,7 +4,7 @@
 
 > All the music from Michaela Coel’s new HBO series, I May Destroy You, now streaming on  <a href="https://open.spotify.com/user/zixjtyf5mcboj19z5t19kz8n5?si=vlwsJ4dMStuKjfmgq1AMhQ">HBO Max</a>
 
-99 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
+100 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5Tbd4QpWdncHbWQkHUpL2F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Oblivion](https://open.spotify.com/track/2RtNSM8cPCAOZ5bvQbW6y3) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/2jXthXcPiAdhatxYPv4yPk) | 4:11 | 2020-09-01 | 2022-07-29 |
 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 | 2020-09-01 |  |
 | [Odo Nana](https://open.spotify.com/track/1cy8lYGrTwzj7iefoed4fD) | [Lady Jay](https://open.spotify.com/artist/0rNTIEZKm4LYPn16AcpTaS) | [Anywhere You Dey](https://open.spotify.com/album/1Xc5X3hHqUiCaXZoxBx136) | 2:55 | 2020-09-01 |  |
-| [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 | 2020-09-01 |  |
+| [Offence](https://open.spotify.com/track/255XENrbBfTCRz6XBL7jJR) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 2:48 | 2020-09-01 |  |
+| [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 | 2020-09-01 | 2022-11-02 |
 | [Only Child](https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Only Child](https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ) | 3:59 | 2020-09-01 |  |
 | [ORA CHE FAI?](https://open.spotify.com/track/3ibnXjXTxiQQVJsoCffeo3) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 2:10 | 2020-09-01 |  |
 | [Out of sight \(yhyh\)](https://open.spotify.com/track/0CJgUhLHQuzHQnegA77DPr) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Stillness In Wonderland \(Deluxe Edition\)](https://open.spotify.com/album/6uMKb8DaGGTHOjt9lBK7XL) | 4:31 | 2020-09-01 |  |

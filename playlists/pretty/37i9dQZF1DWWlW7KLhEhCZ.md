@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Chefin, Leviano
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,584 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,684 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 26 | [Latam](https://open.spotify.com/track/1KPbtkm8RfXBBA8oZg0mzf) | [Duke](https://open.spotify.com/artist/3ymvstp6svGltgIiqcQ3XH), [Martin](https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Latam](https://open.spotify.com/album/6Zb0tUNPUiznDHvaV6Xx7o) | 2:18 |
 | 27 | [Sr\. & Sra\. Slime](https://open.spotify.com/track/6TdcvFVcx7rLgd3veKV777) | [Dascar](https://open.spotify.com/artist/4xMLWhVR0oGEfR4jh6Bni6), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558) | [Sr\. & Sra\. Slime](https://open.spotify.com/album/18L8Hk19g6yKL6RwiJmlW8) | 2:46 |
 | 28 | [Flow Mumuzinho 2](https://open.spotify.com/track/7CpsVQWdcpKLo6IMRCBJRv) | [Dababi 212](https://open.spotify.com/artist/1BvG6DgsQB8Om5T7OUzo5L) | [Flow Mumuzinho 2](https://open.spotify.com/album/7tSlvPJpPSgL5pcG1QZm4T) | 2:20 |
-| 29 | [Passado](https://open.spotify.com/track/1n8b0UZ8sR0ydKqRzalMqi) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/5JrResfPd6NY6d4OWmtFyO) | 2:25 |
+| 29 | [Passado](https://open.spotify.com/track/35yTzGZiPJA3CallyJy1Ek) | [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Passagem](https://open.spotify.com/album/3B6EVijO887Zc17CBTvXBS) | 2:25 |
 | 30 | [Carro Automático](https://open.spotify.com/track/6r9YvfFlg3exxuqYhIeyEv) | [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Carro Automático](https://open.spotify.com/album/0LMe1TRcRPwnE7NaSVx3AB) | 3:04 |
 | 31 | [KWAI](https://open.spotify.com/track/1viAKoZWtR31lKe0fqMNQP) | [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [Rare Gnxt](https://open.spotify.com/artist/4tgnPZ24Ycd88zOfdGTLVR), [7helb](https://open.spotify.com/artist/0GojhFp62lXjZGTtGtgfqi) | [KWAI](https://open.spotify.com/album/1a0Sv7HsnYjSbjnSEKiKut) | 2:35 |
 | 32 | [Novo Vicio](https://open.spotify.com/track/0kUlndDjHVBZqdV3Yok1BA) | [Chinegrx](https://open.spotify.com/artist/7muINs5szM4GmeutBgu3ec), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [Novo Vicio](https://open.spotify.com/album/12hmshpeDjNRd7DC4Gw49K) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Problema](https://open.spotify.com/track/0rOQ7wCFfXNwyWYqbtKKjb) | [Spartano](https://open.spotify.com/artist/5VkAxeOIPrz93DkfyhdHDL), [Felix](https://open.spotify.com/artist/3IC1ZhSDm04wMcWwl8bh06), [Paczin](https://open.spotify.com/artist/5jTwmL3W9w5DWeTUhSL4kS) | [Problema](https://open.spotify.com/album/3Frf8JZ3cinrSMaScM9e1e) | 3:13 |
 | 75 | [Polo Play](https://open.spotify.com/track/6xgxly2TQ501NjZcrCshBD) | [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Polo Play](https://open.spotify.com/album/5FzodxlzOeoOapYbqYJz8J) | 2:40 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDM3MTc3Y2ZlOWEwNTIwNDU1ZWVmNDdhY2NlM2Y4Mzhm`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMDVhYzVjYWMwZWE1YzFkNzU2NjNmYWQ2YmJlODg3Yzk5`

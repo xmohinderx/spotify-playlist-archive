@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-168 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
+169 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/7cYj9PDgylX4yL8DX0zsJe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 | 2022-10-29 |  |
 | [Long Way Home \- From The Motion Picture “Father Stu”](https://open.spotify.com/track/6RbVP4qyOctqbg10v3WEJh) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Long Way Home \(From The Motion Picture “Father Stu”\)](https://open.spotify.com/album/0vb3fPI1GAyhGbYklc5Nvi) | 3:26 | 2022-05-27 |  |
 | [Lost Without You](https://open.spotify.com/track/4fvdWE6alwT00YUAg39Joz) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Lost Without You](https://open.spotify.com/album/3cCdbheCzWJeDKU7J0t82W) | 2:59 | 2022-10-29 |  |
-| [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-10-29 |  |
+| [Love Over Religion](https://open.spotify.com/track/7uZEBTWHzuG68sXaADrwW5) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [River](https://open.spotify.com/album/1wo9f0FTXsciSHZCKD808u) | 4:12 | 2022-10-29 | 2022-11-02 |
 | [Love Won’t Let Go](https://open.spotify.com/track/09uHtTO9982wSxpfaAXOuU) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Love Won’t Let Go](https://open.spotify.com/album/4lVaX2sjMP6qnyGnLHLrdQ) | 3:18 | 2022-05-27 |  |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2022-05-27 |  |
 | [Milk & Honey](https://open.spotify.com/track/56JGnyYpo9I2g8yOfgEt4p) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Sensibilities](https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl) | 2:26 | 2022-05-27 | 2022-10-30 |
@@ -161,6 +161,7 @@
 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 | 2022-05-27 |  |
 | [Time and Time Again](https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Time and Time Again](https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc) | 5:16 | 2022-05-27 | 2022-10-30 |
 | [Unexpected Roads](https://open.spotify.com/track/2QB144MI3R76p3KMcfPu7B) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Unexpected Roads](https://open.spotify.com/album/270YkGxScjMXCnszT2tEgm) | 3:44 | 2022-05-27 | 2022-10-30 |
+| [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 | 2022-10-29 |  |
 | [Walls](https://open.spotify.com/track/6cpPgAiyIs9QZNvikUuyGT) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [Walls](https://open.spotify.com/album/7uWq74i251DnpNGoZcUrDL) | 4:14 | 2022-10-29 |  |
 | [we all need saving](https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI), [Abraham Osorio](https://open.spotify.com/artist/1NBqDNdNsKIhoORbn8IAkC) | [Juntos](https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe) | 3:29 | 2022-05-27 | 2022-10-30 |
 | [We Come Alive](https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [We Come Alive](https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD) | 3:58 | 2022-10-29 |  |

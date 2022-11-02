@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 478 songs - 1 day 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210 likes - 477 songs - 1 day 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 150 | [Come Down In Time](https://open.spotify.com/track/2Mn2MuyqxbzZwnxRX1p8kY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 3:25 |
 | 151 | [The Last Song](https://open.spotify.com/track/0pNXDQo75eOukoK8PejiRE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 3:33 |
 | 152 | [Teacher I Need You](https://open.spotify.com/track/71nUHAbMKXbFP0pB7jzpYT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 4:09 |
-| 153 | [Jack Rabbit \- Single Version](https://open.spotify.com/track/2FXtoMPJJkxCcQbFjwuZJa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 1:49 |
-| 154 | [Rocketman](https://open.spotify.com/track/1K8cppD0meJwkenTeH8JyN) | [Saxophone Rufus](https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs) | [Musica Instrumental](https://open.spotify.com/album/64ceXCPruwANJ0ZRNEo9tX) | 2:30 |
+| 153 | [Rocketman](https://open.spotify.com/track/1K8cppD0meJwkenTeH8JyN) | [Saxophone Rufus](https://open.spotify.com/artist/252rReS6Vt8eAzlmLaG7zs) | [Musica Instrumental](https://open.spotify.com/album/64ceXCPruwANJ0ZRNEo9tX) | 2:30 |
+| 154 | [Jack Rabbit \- Single Version](https://open.spotify.com/track/2FXtoMPJJkxCcQbFjwuZJa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 1:49 |
 | 155 | [Too Low For Zero](https://open.spotify.com/track/45pcawfb1hdBjq69krZpMZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 5:46 |
 | 156 | [El Dorado \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/3ScTaxssPMiRO61W9vkafW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 4:22 |
 | 157 | [The New Fever Waltz](https://open.spotify.com/track/6ODJfZpUen3wj9x4SjlDB6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Diving Board \(Deluxe Version\)](https://open.spotify.com/album/6NhOx6UV8nYDgrzPquDFLh) | 4:38 |
@@ -359,8 +359,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 349 | [Cold Highway](https://open.spotify.com/track/0CY864emS4cZAUYM55R8sW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:25 |
 | 350 | [Out Of The Blue](https://open.spotify.com/track/179G71G6qY3k5Fei5SXuZJ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 6:14 |
 | 351 | [I Must Have Lost It On The Wind](https://open.spotify.com/track/3HvxAXWaHkbbAzEhJiUDz4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:53 |
-| 352 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 |
-| 353 | [The Big Picture](https://open.spotify.com/track/0OURN33X5feSViWhu73SSZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:45 |
+| 352 | [The Big Picture](https://open.spotify.com/track/0OURN33X5feSViWhu73SSZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:45 |
+| 353 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 |
 | 354 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 |
 | 355 | [Hard Luck Story](https://open.spotify.com/track/370wvMsgFk2WFsQfOI7ilP) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 5:16 |
 | 356 | [Old 67](https://open.spotify.com/track/6oovsNtmQPIKcvEbfVpTmA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:01 |
@@ -478,13 +478,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 468 | [Lovesick](https://open.spotify.com/track/18s5u73IeszmNilFtAZ27U) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:59 |
 | 469 | [I Can't Go On Living Without You \- Arranged Band Version](https://open.spotify.com/track/0ptYmaU474xyGZ5Fr8hCP6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 2:57 |
 | 470 | [Honey Roll \- From “Friends” Soundtrack](https://open.spotify.com/track/3gAZbNS5QMbRvYRFEqyLQE) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rare Masters](https://open.spotify.com/album/2ozX7odhzuW1PN1v8dpsxQ) | 3:07 |
-| 471 | [The Camera Never Lies](https://open.spotify.com/track/4jvqotcqMZ32eA6zGiSY2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:36 |
-| 472 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
-| 473 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
-| 474 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
-| 475 | [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 |
-| 476 | [Since God Invented Girls](https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:54 |
-| 477 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
-| 478 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
+| 471 | [Rope Around A Fool](https://open.spotify.com/track/6JC9HV0RxMWleQHqsXxq0K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 3:48 |
+| 472 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 |
+| 473 | [Don't Trust That Woman](https://open.spotify.com/track/6ccnG8TlYnQkib9yaRBitv) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:59 |
+| 474 | [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 |
+| 475 | [Since God Invented Girls](https://open.spotify.com/track/0agGbBdOQuH2qIsVzL6Hao) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:54 |
+| 476 | [Planes](https://open.spotify.com/track/1Fm7IY67rMkXDi7UR4TjIO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 4:31 |
+| 477 | [The Drover's Ballad \- Soundtrack Version](https://open.spotify.com/track/6p2xjO8G9A9FHj0YAcxZIG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Australia \(Music from the Movie\)](https://open.spotify.com/album/2ZeOvOvZdxSP4hBwb3gs9N) | 4:26 |
 
-Snapshot ID: `Mjc3ODc3NjQsMDAwMDAwMDA0ZTZhMzNjNWU5MjIwZWM5MDZjZDVlMGMwNDIzMWU1ZQ==`
+Snapshot ID: `Mjc3ODkyMDQsMDAwMDAwMDBiMDdlMGMyOWI5ZWE5MjgwZWUyNGQxZWFlZGYxMzRmMQ==`

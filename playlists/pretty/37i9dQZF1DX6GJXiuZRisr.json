@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1387692,
+  "num_followers": 1388158,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGFmY2E0N2QyYmE0YTNkOTkzZmRkOTRhODg5NzcxNDNj",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDU0MmNiMWI3ZWU2ZTg1NTgxOTU5ZjZiMzI3OGY2ZDA1",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -64,12 +64,12 @@
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
           "name": "CamelPhat",
           "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
       "duration_ms": 213495,
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
     },
     {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
       "added_at": "2022-07-01 11:37:35",
       "album": {
         "name": "Anjunabeats Volume 14",
@@ -947,26 +967,6 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "I / Y",
+        "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 354098,
+      "name": "I / Y",
+      "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Strangers (with Mansionair) [Tinlicker Remix]",
         "url": "https://open.spotify.com/album/7Mk5uwKvT4OAYQ9kb12lZ6"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "I / Y",
-        "url": "https://open.spotify.com/album/0g0YKewBtW9livkmiAnCOH"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 354098,
-      "name": "I / Y",
-      "url": "https://open.spotify.com/track/4kZgxNJrexSsATXK1lQrQS"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
+      },
+      "artists": [
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
         "name": "Belfast (Yotto Remix)",
         "url": "https://open.spotify.com/album/7BupaHcQOcUy7UMn4cmKse"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 395449,
       "name": "Belfast - Yotto Remix",
       "url": "https://open.spotify.com/track/03cAFCWyzUOFus6Os8EoQG"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR"
-      },
-      "artists": [
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 160000,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     },
     {
       "added_at": "2022-07-01 11:37:35",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+    },
+    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Atlas (Shall Ocin & Artbat Remix)",
@@ -1523,22 +1539,6 @@
       "duration_ms": 380952,
       "name": "Atlas - Shall Ocin & Artbat Remix",
       "url": "https://open.spotify.com/track/1CgZ0pKxdBB9trUYULmKSs"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1725,26 +1725,6 @@
       "url": "https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU"
     },
     {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Feel Again, Pt. 1",
-        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Artefact",
@@ -1763,6 +1743,26 @@
       "duration_ms": 220649,
       "name": "Artefact",
       "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
+    },
+    {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Feel Again, Pt. 1",
+        "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/2oPwqbELgu5i1UtsjqkR3H"
     },
     {
       "added_at": "2022-08-26 13:27:46",
@@ -1897,6 +1897,26 @@
       "url": "https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO"
     },
     {
+      "added_at": "2022-07-01 11:37:35",
+      "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        },
+        {
+          "name": "Jack Dawson",
+          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
+    },
+    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Your Mind (Epic Edit)",
@@ -1919,26 +1939,6 @@
       "duration_ms": 216274,
       "name": "Your Mind - Epic Edit",
       "url": "https://open.spotify.com/track/3QeQ9CW00jI5J6NPF7vel0"
-    },
-    {
-      "added_at": "2022-07-01 11:37:35",
-      "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        },
-        {
-          "name": "Jack Dawson",
-          "url": "https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/2eQfD774357Ymh9NzCl5T2"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1979,22 +1979,22 @@
     {
       "added_at": "2022-07-01 11:37:35",
       "album": {
-        "name": "Paradise (feat. Lucas Ariel)",
-        "url": "https://open.spotify.com/album/11AxCghy6UurshHIAKNaRe"
+        "name": "Spectacle",
+        "url": "https://open.spotify.com/album/6TABqazLHONbP5kyTWIFW1"
       },
       "artists": [
         {
-          "name": "Luis Torres",
-          "url": "https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW"
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
         },
         {
-          "name": "Lucas Ariel",
-          "url": "https://open.spotify.com/artist/6LKOLihOW5mY0KAzMbcu4T"
+          "name": "Dezza",
+          "url": "https://open.spotify.com/artist/3p7y4jD6cIfONGyx6xaFik"
         }
       ],
-      "duration_ms": 232740,
-      "name": "Paradise (feat. Lucas Ariel)",
-      "url": "https://open.spotify.com/track/299lnrCInmGfXBeSu8A6lw"
+      "duration_ms": 193563,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"
     }
   ],
   "unique_name": "Night Rider",

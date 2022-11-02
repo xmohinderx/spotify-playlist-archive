@@ -1588,6 +1588,28 @@
     },
     {
       "album": {
+        "name": "Lose You",
+        "url": "https://open.spotify.com/album/4zCPTx2ALPDPeOQ6p1ecIU"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172362,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/6ztvWxZtWsfDhefzkAhL42"
+    },
+    {
+      "album": {
         "name": "Love Story (Taylor's Version) [Elvira Remix]",
         "url": "https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA"
       },

@@ -4,7 +4,7 @@
 
 > Emo rap feels for the misunderstood\. Cover: iann dior
 
-739 songs - 1 day 9 hr 41 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
+740 songs - 1 day 9 hr 42 min - [published](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [i can see clearly](https://open.spotify.com/track/0hTenOns6LBffrOtLg3rMe) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [SWAMP](https://open.spotify.com/album/6Vhnu49bSHfEnnuwiN1Rf7) | 3:13 | 2021-12-21 | 2022-03-02 |
 | [I Can't Sleep](https://open.spotify.com/track/5GWAraPLRsJ5EFMzqo0C3g) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [I Can't Sleep](https://open.spotify.com/album/02ZUqEVzRyGWTEaybFgRNB) | 3:22 | 2020-12-13\* | 2021-03-26 |
 | [i can't stop](https://open.spotify.com/track/4kODxvif74racbcTGQ5wLe) | [Damien](https://open.spotify.com/artist/6zQRQ2jsbICny41g2fVT5U) | [i can't stop](https://open.spotify.com/album/2BEXnkjBPdTPwtgKCoXxLk) | 2:41 | 2022-05-23 |  |
-| [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S) | 2:50 | 2022-09-23 |  |
+| [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/track/7pmLi2drbQTrVAjd8NCeDs) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [I Didn't Realize How Empty My Bed Was Until You Left](https://open.spotify.com/album/6YvAY8KhVZFB5y5NPdSR5S) | 2:50 | 2022-09-23 | 2022-11-02 |
 | [I Don't Wanna Do This Anymore](https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 1:27 | 2021-01-29 | 2021-02-26 |
 | [I Dont Want](https://open.spotify.com/track/4nA6tCQYqdjcHNYU6etCVP) | [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [I Dont Want](https://open.spotify.com/album/78ql7HzYwB4Ta2IhwuRvsr) | 1:54 | 2022-01-21 | 2022-04-19 |
 | [i don’t wanna talk](https://open.spotify.com/track/117e4m6KCxYmBUOkAZlu5n) | [SCAMP](https://open.spotify.com/artist/1cG6R9fdT5KkiuSZPZZt2n) | [i don’t wanna talk](https://open.spotify.com/album/4f2rzGM6MNbdOixgfYX6L4) | 2:25 | 2020-12-13\* | 2021-01-05 |
@@ -737,6 +737,7 @@
 | [WORLD](https://open.spotify.com/track/6M3ptLy6a66pKAsqrsRIac) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [WORLD](https://open.spotify.com/album/0a1p0zXfILuWg3sNZ7FnSW) | 3:20 | 2020-12-18 | 2021-01-05 |
 | [Would Look Perfect](https://open.spotify.com/track/2L2mNkEWo818IE4fKbnP0O) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Letter's You Never Received](https://open.spotify.com/album/6Kw08aAjdRBrDbDXYiZk4P) | 2:29 | 2021-02-23 | 2021-03-14 |
 | [would you be my baby](https://open.spotify.com/track/0s1jF1PHS9oQ1rHSYg90XB) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/36s99vXNlumFqVrvqmidCl) | 1:13 | 2022-07-22 | 2022-10-20 |
+| [would you be my baby](https://open.spotify.com/track/4VtMwDx5OC0rjchZNxC7ox) | [Enzo Iwamura](https://open.spotify.com/artist/6rECUDgdLKJnJ3L27h1MqJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [would you be my baby](https://open.spotify.com/album/5SGRuYzOCSloOXnKGv73ki) | 1:13 | 2022-10-07 |  |
 | [XO Tour Llif3](https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:02 | 2022-07-22 |  |
 | [You Broke My Heart Again](https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [You Broke My Heart Again](https://open.spotify.com/album/6YYYy7rXFNjORVy1V9nzTn) | 1:43 | 2022-07-22 |  |
 | [You Don't Want Me Anymore](https://open.spotify.com/track/0K4gxQ2u3545b0GAu85ObO) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD) | [You Don't Want Me Anymore](https://open.spotify.com/album/3fIR123EC4MJUYmPPAJ0Ss) | 2:45 | 2022-07-22 |  |

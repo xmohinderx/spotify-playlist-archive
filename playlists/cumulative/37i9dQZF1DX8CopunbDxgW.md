@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2022-08-19 | 2022-10-31 |
+| [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2022-08-19 |  |
 | [\(301\)341\-7207](https://open.spotify.com/track/4dACPlbh1LlNiSuUdaVEl1) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [\(301\)341\-7207](https://open.spotify.com/album/3fgeFGJanCz8Fd50XPOCF7) | 2:16 | 2022-01-28 | 2022-02-12 |
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-02-10 |
 | [2 strings](https://open.spotify.com/track/7fGcGP4L201pDo9BBs7s5F) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [2 strings](https://open.spotify.com/album/1jN6oSiFt4DspfsMTdWlVq) | 3:38 | 2022-04-01 | 2022-07-29 |
@@ -294,7 +294,7 @@
 | [Just Can't Get Enough](https://open.spotify.com/track/2SlZsV3sXc69uhUNBQNgkD) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/4ZAfYKXDMGE7FJEMFGNbmu) | 5:03 | 2022-07-22 | 2022-09-19 |
 | [Just Can't Get Enough](https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Just Can't Get Enough](https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic) | 5:03 | 2022-09-09 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-03-26 | 2022-10-13 |
-| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-09-09 |  |
+| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-09-09 | 2022-11-02 |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-09 |  |
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-09-17 | 2022-10-06 |
 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 | 2022-10-05 |  |

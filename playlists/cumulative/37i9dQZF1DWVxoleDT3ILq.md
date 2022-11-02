@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Tunacola
 
-279 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+280 songs - 17 hr 1 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Lluvia Para el Sol](https://open.spotify.com/track/6y8kBITLyzVN9RGpMBc4iH) | [Pequita](https://open.spotify.com/artist/55ZHeNiYo1WAYjW5kEoZiG) | [Lluvia Para el Sol](https://open.spotify.com/album/3nFS2QursFzce6naclOfBS) | 2:42 | 2022-04-15 | 2022-07-23 |
 | [Lo Nuestro](https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Lo Nuestro](https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz) | 1:53 | 2022-10-14 |  |
 | [Lo Vas a Ver](https://open.spotify.com/track/1TsJ958NQWw2mIwzlWkUXI) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3), [EsMikeGarcia](https://open.spotify.com/artist/5FK9isHItaC3GaYIdNX18w) | [Lo Vas a Ver](https://open.spotify.com/album/2wSBCh5Z3VeSQ6a3by0kKP) | 3:35 | 2022-04-15 | 2022-07-25 |
-| [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 |  |
+| [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2022-11-02 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 |  |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 |  |
 | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/track/2jF6hZEVslHeUfh02sEp4l) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor \(Acústica\)](https://open.spotify.com/album/2V4qUZfWmrZBJ7Lz2OtZOU) | 3:06 | 2022-04-15 | 2022-10-02 |
@@ -172,6 +172,7 @@
 | [Niña](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [Niña](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 | 2022-05-13 |  |
 | [No Es Tarde](https://open.spotify.com/track/3POg7duhY3fUIi0vJce5Cq) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF) | [No Es Tarde](https://open.spotify.com/album/3Kq5jEJvqx1Mwev62asIzB) | 2:36 | 2022-04-15 | 2022-07-29 |
 | [No hace falta nada](https://open.spotify.com/track/6Fo1epLQ8hWDg6lPRdA43D) | [Diego Adrian](https://open.spotify.com/artist/0fRW8ok5l05BHKpkNBDrxh), [Adrianigual](https://open.spotify.com/artist/1zPEKROH5M1RQz9wJinKPW) | [No hace falta nada](https://open.spotify.com/album/39Jhh7LhDJiJLqYG9K2kYv) | 3:28 | 2022-04-15 | 2022-07-29 |
+| [No Hay Más](https://open.spotify.com/track/0KUtLZlufE6fCFMkz1m4mS) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Hay Más](https://open.spotify.com/album/4Llq0EXs525rVvENrZnvaZ) | 2:39 | 2022-10-28 |  |
 | [No Hay Otra Igual](https://open.spotify.com/track/2F7BLXkhLMjSd3L9YN5Mc1) | [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [No Hay Otra Igual](https://open.spotify.com/album/7G6dIHEEIgoSkAeXO9OKUa) | 2:53 | 2022-07-01 |  |
 | [no quiero verte más u.u](https://open.spotify.com/track/4IsqxBuyMlvpFjZG3KJIsm) | [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w) | [no quiero verte más u.u](https://open.spotify.com/album/1bKKhG4tlKWSc1xSb5jHru) | 3:03 | 2022-04-15 | 2022-07-27 |
 | [No se detendrá](https://open.spotify.com/track/7xEeFbpbv23s25kzo9AWhY) | [Matías Ávila](https://open.spotify.com/artist/29yxbIzxVyIPcCENpwzSQ5), [Luca Fabiano](https://open.spotify.com/artist/7vzFXvmqpr4kAmZkcUbKdk) | [El Destino de las Hormigas](https://open.spotify.com/album/4teXqZ3ASoOfJ3RtR0W8Jf) | 5:19 | 2022-04-15 | 2022-07-26 |

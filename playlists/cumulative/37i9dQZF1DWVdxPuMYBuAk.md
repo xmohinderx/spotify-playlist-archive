@@ -4,7 +4,7 @@
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-107 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
+109 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/7goobQ9e4xy8l1vfpiYXYS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,11 @@
 | [Hypnotic Regression](https://open.spotify.com/track/0AIhZWdCh5A01W5ldiS6Z5) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life](https://open.spotify.com/album/7cUfFtYLowKwLNrrJiAxFj) | 3:48 | 2022-02-09 |  |
 | [Hypnotic Regression](https://open.spotify.com/track/4efmMftIGGwVn03AFD7VT9) | [Girls Names](https://open.spotify.com/artist/4UAxwzDV5PYB11huf5Shs3) | [The New Life \(Expanded Version\)](https://open.spotify.com/album/6SpVxy1XGpiXncSI6CiN2Y) | 3:48 | 2022-02-09 | 2022-07-29 |
 | [I Can’t Believe](https://open.spotify.com/track/5jnHZDEQg9a6tv8Ndp277s) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Mood Swing](https://open.spotify.com/album/2tfrNC7CphnNqyPVMwoXs2) | 2:26 | 2022-02-09 |  |
+| [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-02-09 |  |
 | [I Like Me Better](https://open.spotify.com/track/1wjzFQodRWrPcQ0AnYnvQ9) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I Like Me Better](https://open.spotify.com/album/7l6fTSFvlumnPFpOSrbnDV) | 3:17 | 2022-02-09 | 2022-07-29 |
-| [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-02-09 |  |
-| [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/6fnIitWMKHnRnMLxSb0MYW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/5ge6i2NdRMK8XM8Lb9eUDe) | 3:30 | 2022-02-09 |  |
+| [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 | 2022-02-09 | 2022-11-02 |
+| [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/2wViKxJDqr6AUG6dv7oMW4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/53L0zJIjxxqClZyJGN5p7o) | 3:30 | 2022-02-09 |  |
+| [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/6fnIitWMKHnRnMLxSb0MYW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/5ge6i2NdRMK8XM8Lb9eUDe) | 3:30 | 2022-02-09 | 2022-11-02 |
 | [I Love You](https://open.spotify.com/track/1JWUUSoVpMjz1Sgy56kFUg) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:22 | 2022-02-09 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/5EqnXSr74hfTgMa2n2Ne54) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [This Is Where I Live](https://open.spotify.com/album/77N6jWITSP46ToG6ESeHUh) | 2:52 | 2022-02-09 |  |
 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/0L8uKyQFShC68d3W23Rgyu) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [If The World Ended Tonight \(From The Netflix Film "To All The Boys: Always and Forever"\)](https://open.spotify.com/album/0K8WFKwMeLWl7Je98idoOF) | 3:56 | 2022-02-09 |  |

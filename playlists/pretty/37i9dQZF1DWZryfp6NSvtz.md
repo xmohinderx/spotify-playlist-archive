@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Iggy Pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,872 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,116 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 37 | [I Don't Believe in Anything](https://open.spotify.com/track/5AUGTQppAxp03UpaEVZaiD) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 3:14 |
 | 38 | [PREGAME](https://open.spotify.com/track/420s1nVZT3zIRLfmqCOyyA) | [NIKI DEMAR](https://open.spotify.com/artist/6YsltkujF8WzkCRM9S5vy5) | [PREGAME](https://open.spotify.com/album/5Js77sRZpXdAyOvEap192Z) | 3:24 |
 | 39 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 |
-| 40 | [See Nothing](https://open.spotify.com/track/0TjPeoGUxqRczuY2WopRkv) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [See Nothing](https://open.spotify.com/album/482zkw5JDdRO71i0VjEJwc) | 3:10 |
+| 40 | [See Nothing](https://open.spotify.com/track/0TjPeoGUxqRczuY2WopRkv) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [See Nothing](https://open.spotify.com/album/482zkw5JDdRO71i0VjEJwc) | 3:07 |
 | 41 | [Make It](https://open.spotify.com/track/1GTZ0mGZvNoJiokWPlL8hV) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Make It / Cruising](https://open.spotify.com/album/7JD9UpSMD8fM3OfBXQUYIN) | 2:09 |
 | 42 | [Fire](https://open.spotify.com/track/7G2QY6mgvhtaMoY7x0BIDj) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Fire](https://open.spotify.com/album/362Oe8irRHqMfq3FlRaqXU) | 2:26 |
 | 43 | [XO Skeleton](https://open.spotify.com/track/1wvg1rSM6feM7WynWwXjVr) | [Born Without Bones](https://open.spotify.com/artist/541FGx3Aj5vHIpwFiByjFg) | [XO Skeleton](https://open.spotify.com/album/6hDKagBDViZ2SSAPEDHHZW) | 2:37 |

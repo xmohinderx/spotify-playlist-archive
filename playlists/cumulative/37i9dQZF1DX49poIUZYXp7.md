@@ -2,7 +2,7 @@
 
 ### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
 
-> The extraordinary women making great country music today\. Cover: Ashley McBryde
+> The extraordinary women making great country music today\. Cover: Mickey Guyton
 
 291 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
@@ -26,7 +26,7 @@
 | [Big for a Small Town](https://open.spotify.com/track/1cssFOIRPAewIVA9cjRXxH) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Where You Come From](https://open.spotify.com/album/2mO8xA8bcTFLezrNCnUjnF) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Bits & Pieces](https://open.spotify.com/track/2muPf36lYJMIqGzI3h8JTQ) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Bits & Pieces](https://open.spotify.com/album/5kGK6raX2Jt0hiQSZ6Q3uC) | 2:41 | 2021-12-01 | 2022-07-27 |
 | [Bluebird](https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:29 | 2021-12-01 |  |
-| [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 |  |
+| [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2022-11-02 |
 | [Bought the T\-Shirt](https://open.spotify.com/track/28Ncn33pglXWunvZ7lFwgS) | [Brittany Kennell](https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP) | [I Ain't a Saint](https://open.spotify.com/album/0g8HweBRPuoqpruz4ycic8) | 2:40 | 2022-03-25 | 2022-04-20 |
 | [Boys and Girls](https://open.spotify.com/track/6MNC6shWy6gJPtQxPa7fdY) | [Alee](https://open.spotify.com/artist/6jb3bTBWDo0CYqNuvIcyJe) | [Feels Like This](https://open.spotify.com/album/0XQX8svQeK9zt85vjPx8VR) | 3:10 | 2022-03-02 | 2022-04-20 |
 | [Break My Heart](https://open.spotify.com/track/3OLjsUcHEN3LseRaqiYxoD) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Break My Heart](https://open.spotify.com/album/1Gz1G8IgDgJK5M5PAmb6K7) | 3:17 | 2022-03-25 | 2022-04-21 |
@@ -228,7 +228,7 @@
 | [Stay Golden](https://open.spotify.com/track/76GawWqBDrAdNzJDwqwiNF) | [Emily Reid](https://open.spotify.com/artist/3TT6dzzXE5aV42E7PiGuAD) | [Stay Golden](https://open.spotify.com/album/2mz71ERp3XMn78Cel9SYiA) | 3:08 | 2022-03-25 | 2022-04-21 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2021-12-01 |  |
 | [Strange](https://open.spotify.com/track/6BWOWBSalJEp7woRZSyiMb) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:31 | 2022-08-05 |  |
-| [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 | 2022-11-01 |
+| [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 | 2022-01-28 |  |
 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 | 2021-12-01 |  |
 | [Strawberry Wine \- 2021 Version](https://open.spotify.com/track/1iSyS51Ujpm1IHWxoJ97fn) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Did I Shave My Legs For This? \(25th Anniversary Edition\)](https://open.spotify.com/album/7LLjjbEIbUTpMROr1AkCSL) | 5:19 | 2021-12-01 | 2022-07-29 |
 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 | 2021-12-01 |  |

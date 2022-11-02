@@ -4,7 +4,7 @@
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-183 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
+184 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [...Familiar Place](https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE) | 2:55 | 2021-11-12 |  |
 | [Berlin](https://open.spotify.com/track/2P9p3GVQ7S6bJ5xaE7f8gH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2021-11-12 |  |
-| [Better and Better](https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How to Break a Fall](https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn) | 3:00 | 2021-11-12 |  |
+| [Better and Better](https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [How to Break a Fall](https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn) | 3:00 | 2021-11-12 | 2022-11-02 |
 | [Big Leap](https://open.spotify.com/track/1eqNt1BoMPOBPWa1IRut2r) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Thirstier](https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu) | 3:00 | 2021-11-18 | 2022-07-29 |
 | [Big Wheel](https://open.spotify.com/track/366DDVYAJoT1Cc8ijYN9FM) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Big Wheel / Stellate](https://open.spotify.com/album/1EYHnhHes6AWnHthRn19uf) | 3:15 | 2021-11-12 | 2022-07-29 |
 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 | 2021-11-12 |  |
@@ -168,6 +168,7 @@
 | [Thirteen](https://open.spotify.com/track/0BuGTUaFGGjeOz1U3CwHrc) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5P8EEn8VjtMJe7idtwrGTp) | 3:04 | 2021-11-12 | 2022-07-29 |
 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 | 2021-11-12 |  |
 | [This Is What Our Love Looks Like Now](https://open.spotify.com/track/0EIjCvMJeFZC8aysCilaFg) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [This Is What Our Love Looks Like Now](https://open.spotify.com/album/7E3wORlmuCYpfDTzOW8dqK) | 4:03 | 2021-11-12 | 2022-10-13 |
+| [This Is What Our Love Looks Like Now](https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix) | [Ainslie Wills](https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe) | [This Is What Our Love Looks Like Now](https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh) | 4:03 | 2022-09-16 |  |
 | [This Is What You Did](https://open.spotify.com/track/35e4UTDLUpqOzGqjWz3AoT) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [This Is What You Did](https://open.spotify.com/album/2PwaEjXtq2IFT78Vezz5OO) | 3:12 | 2021-11-12 | 2022-07-29 |
 | [This Is What You Did](https://open.spotify.com/track/38Wlgvbw9rM2cm5ZQjMUl5) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:12 | 2021-11-12 |  |
 | [Thumbs](https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Thumbs](https://open.spotify.com/album/0lNq65nJ30VwPv6nzmVbhc) | 4:25 | 2021-11-12 |  |

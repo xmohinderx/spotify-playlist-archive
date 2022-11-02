@@ -4,7 +4,7 @@
 
 > Smooth joints\. Cover: NxWorries \(Anderson .Paak, Knxwledge\)
 
-747 songs - 1 day 20 hr 8 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
+748 songs - 1 day 20 hr 11 min - [published](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,7 +381,7 @@
 | [Like That](https://open.spotify.com/track/72x1nUOZuZultulUXrgQgT) | [Douniah](https://open.spotify.com/artist/0XRqsaNWIoGwotH5YZAb0y), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Like That](https://open.spotify.com/album/0ONPDMuuerUYfODv17AOvq) | 2:56 | 2019-09-29\* | 2019-10-25 |
 | [Like We Used To](https://open.spotify.com/track/5LkfkGOA5Iznx0IQrd6bd2) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl) | [Like We Used To](https://open.spotify.com/album/4YViBgQus5Vef68SOEasxa) | 3:44 | 2020-12-04 | 2021-01-15 |
 | [Limitless](https://open.spotify.com/track/2NsU17TAFI6rWXOrYHj8I3) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Athena](https://open.spotify.com/album/2u6HB59fEXPPk3YVBGfQIZ) | 2:55 | 2019-11-01 | 2020-01-18 |
-| [Little Q, Pt\. 2](https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:46 | 2021-09-04 |  |
+| [Little Q, Pt\. 2](https://open.spotify.com/track/2awkR27GHixnzSiswN0AiT) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:46 | 2021-09-04 | 2022-11-02 |
 | [Lonely Town](https://open.spotify.com/track/0RS1NsqwX7GAuRIl61KYFq) | [Hubert Tas](https://open.spotify.com/artist/4iOjhRZZduPgdzM6bBQuyV), [Marek Pędziwiatr](https://open.spotify.com/artist/285rwNDOrGIgleNASuWyXr), [Piotr Jaraszkiewicz](https://open.spotify.com/artist/7GpiqtpIqpTyUyV6SjJSyD), [Tomek Nowak](https://open.spotify.com/artist/2PTpLYpquAHH95vfNDtzmm) | [Unfinished](https://open.spotify.com/album/33kHAitHhtdUoVtdUh6Kin) | 3:04 | 2019-09-29\* | 2019-10-02 |
 | [Loner](https://open.spotify.com/track/4MNqMI8GyzKOJ1F0hmRB9b) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Loner](https://open.spotify.com/album/1M0pCeh7vI7JEsPFZVvK52) | 3:29 | 2020-05-01 | 2020-05-22 |
 | [Long Love](https://open.spotify.com/track/3OtTh8NtK2lqEbu2Vijndn) | [AgaJon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [ESO.ES](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Long Love](https://open.spotify.com/album/2XhFvJLfoAv0bn5qrSN12E) | 2:44 | 2019-11-01 | 2020-01-17 |
@@ -643,6 +643,7 @@
 | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Take Me Away \(feat\. EARTHGANG\)](https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA) | 2:52 | 2020-10-16 |  |
 | [Talk Is Cheap](https://open.spotify.com/track/1p1iq2npedwN1k112m7UPf) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Velvet](https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8) | 4:18 | 2022-08-19 |  |
 | [Tastes Like Freedom \- Radio Edit](https://open.spotify.com/track/4EAEt7y5pOzv1uY7w2QyKX) | [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Tastes Like Freedom](https://open.spotify.com/album/0XMEO0DmREPTcpquyo0aAd) | 3:11 | 2021-09-12 | 2022-07-29 |
+| [TEARS OF JOY](https://open.spotify.com/track/4xIuopNtFgjT4NfX3TryYH) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:23 | 2022-10-28 |  |
 | [Tell Me Why](https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Tell Me Why](https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN) | 3:08 | 2022-05-13 |  |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2019-12-13 | 2020-01-16 |
 | [Thank You](https://open.spotify.com/track/7hiOhyoRgB7ycVsiNz2ipM) | [Quincy Mumford](https://open.spotify.com/artist/5SuvllnauIOmQexrVDf3yZ) | [Thank You](https://open.spotify.com/album/6KOSeG4bi6XumFRVh2tHwi) | 3:26 | 2019-09-29\* | 2020-04-24 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Miss Monique
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,326 likes - 78 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,652 likes - 78 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Biosphère](https://open.spotify.com/track/4yxlVbgJ5OdE9ipFOSMNGP) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Biosphère](https://open.spotify.com/album/2Cu8QDxQTHq57dOO2GfkFO) | 3:44 |
-| 2 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 2 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 3 | [Die Transformation](https://open.spotify.com/track/44IDBp1nDAa1qcoZ6IU7YP) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Die Transformation / Vidy](https://open.spotify.com/album/5rzipv2nMRtGU1AA35Ig6H) | 6:23 |
 | 4 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 |
 | 5 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 |

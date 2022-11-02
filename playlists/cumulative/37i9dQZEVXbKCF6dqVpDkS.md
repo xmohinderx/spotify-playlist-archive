@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-792 songs - 1 day 17 hr 21 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+793 songs - 1 day 17 hr 25 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,6 +496,7 @@
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-11 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-13 | 2022-10-21 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-12 | 2021-12-29 |
+| [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-11-01 |  |
 | [MOES MONTANA](https://open.spotify.com/track/2mOhQxFj1I5NB9cGZMhZLl) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [PRIX D'AMI](https://open.spotify.com/album/7Jxzu0TIVcjqKghPNiyUGd) | 2:33 | 2022-02-26 | 2022-03-05 |
 | [Monaco](https://open.spotify.com/track/43ZTCU7w4d9JUOCT7JSdm4) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Monaco](https://open.spotify.com/album/7GRX6iKOaD0fJ8V3m43JpX) | 3:05 | 2022-01-29 | 2022-02-20 |
 | [Money In The Morning](https://open.spotify.com/track/3NjnTphNgmdDSH3tIyXoam) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [KLEINE](https://open.spotify.com/album/31p2Uf2DdQfS2o9vcs9wEx) | 2:46 | 2021-04-29 | 2021-05-03 |
@@ -733,7 +734,7 @@
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-03-27\* | 2021-03-27 |
 | [Vallen En Opstaan](https://open.spotify.com/track/1veBfg0rmnrBjhfHMBnMP3) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Vallen En Opstaan](https://open.spotify.com/album/1vbRUJ3yPn710gmYjxku5q) | 2:30 | 2022-07-09 | 2022-07-11 |
 | [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-08-13 |  |
-| [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 |  |
+| [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 | 2022-11-02 |
 | [Ven Ven](https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ven Ven](https://open.spotify.com/album/4SzujG2DgIY5wfFOtQFdEx) | 2:30 | 2021-03-27\* | 2021-05-13 |
 | [Veppie vroom](https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9) | [QuatroByVeks](https://open.spotify.com/artist/6Thwvyg74Tn4VCSkpsMu65), [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Veppie vroom](https://open.spotify.com/album/0RXEbmksA3QO5cpBueLeZ5) | 2:03 | 2022-06-12 | 2022-06-17 |
 | [Verdien Model](https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:33 | 2022-08-05 | 2022-08-08 |

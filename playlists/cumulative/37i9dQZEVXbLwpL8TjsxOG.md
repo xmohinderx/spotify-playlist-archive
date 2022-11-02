@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-485 songs - 1 day 5 hr 11 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
+486 songs - 1 day 5 hr 14 min - [published](https://open.spotify.com/playlist/78ErNjYHpU7KgEH678KeF9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/1sVm0BuqORY7fdazHTCS3K) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:57 | 2022-05-21 | 2022-05-25 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2021-03-27\* | 2021-04-21 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-09-01 | 2021-09-12 |
-| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 |  |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-03 | 2022-11-02 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-11 | 2022-11-01 |
 | [i don't smoke & i don't drink](https://open.spotify.com/track/2BQIL0U5QdqK17n5o8KZB1) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [i don't smoke & i don't drink](https://open.spotify.com/album/3p2buXwB34FSSt8c7PJxc4) | 2:50 | 2022-03-24 | 2022-08-18 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2021-11-21 | 2021-11-26 |
@@ -349,6 +349,7 @@
 | [哪裡只得我共你](https://open.spotify.com/track/6oHNXUrt4s5JJIM1WoOwsZ) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [101](https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD) | 4:30 | 2021-07-10 | 2021-09-30 |
 | [喫煙席](https://open.spotify.com/track/3eT4GvkE7uzp9hdYxc4So2) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:06 | 2021-09-01 | 2021-09-02 |
 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 | 2021-12-04 | 2022-10-07 |
+| [地球上的最後一朵花](https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [地球上的最後一朵花](https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp) | 3:46 | 2022-11-01 |  |
 | [報復式浪漫](https://open.spotify.com/track/6N47H7GFm8SBwdJMkS9sqj) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [報復式浪漫](https://open.spotify.com/album/0eCNcbQPLF8HNXE2iOsOR1) | 3:24 | 2022-02-16 | 2022-05-28 |
 | [塵世美](https://open.spotify.com/track/4cenGIbbIWlcryBPsgtQXy) | [Endy Chow](https://open.spotify.com/artist/5r0xeBSRKRJ5Dm63XzTZhE) | [塵世美](https://open.spotify.com/album/0yBWVChnY7Yp8QSdasyyAh) | 4:44 | 2021-09-11 | 2021-11-21 |
 | [夏之風物詩](https://open.spotify.com/track/0u3En4cJMAjcIQ6zLIlmqY) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [夏之風物詩](https://open.spotify.com/album/2upqPm9Pq0youkJZ9qgoJa) | 3:28 | 2022-06-30 | 2022-10-13 |

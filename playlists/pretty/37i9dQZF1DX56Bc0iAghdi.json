@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Local Sound",
-  "num_followers": 18216,
+  "num_followers": 18218,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMDBiYzdmODJjNzEzODkwNDNmMTE3NzM4ZDBmYjI4MzY0",
+  "snapshot_id": "MTU2OTAwNDQ0NiwwMDAwMDAwMGFlOTA1NTY0Y2E4MzQ4YzE2NGI4NDI4NWY2OTM5ZDE1",
   "tracks": [
     {
       "added_at": "2019-09-20 18:34:06",
@@ -131,6 +131,22 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
         "name": "I'll Find You (feat. Tori Kelly)",
         "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 218213,
       "name": "I'll Find You (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2019-09-20 18:34:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2019-09-20 18:34:06",
       "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
-    },
-    {
-      "added_at": "2019-09-20 18:34:06",
-      "album": {
         "name": "Somebody",
         "url": "https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224000,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC"
+    },
+    {
+      "added_at": "2019-09-20 18:34:06",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2019-09-20 18:34:06",

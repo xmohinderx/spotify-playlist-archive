@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: The 1975
 
-1,294 songs - 3 day 5 hr 18 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,295 songs - 3 day 5 hr 21 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -822,6 +822,7 @@
 | [Once Twice Melody](https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc) | 4:44 | 2021-11-19 | 2022-04-06 |
 | [One and Done](https://open.spotify.com/track/68jcvExgyOsHVKzFpIBElM) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [One and Done](https://open.spotify.com/album/5eMZnNYdx9wkbGKLD1t03L) | 4:53 | 2020-06-12 | 2020-09-25 |
 | [ONE IN A MILLION](https://open.spotify.com/track/2XkDm5m2vPowecEAAR5gmb) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:14 | 2022-06-07 | 2022-07-30 |
+| [One Night](https://open.spotify.com/track/5ZxhHEdMDGitVjy53Cm3Pp) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [INTO THE BLUE](https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0) | 3:49 | 2022-10-24 |  |
 | [Only Friend](https://open.spotify.com/track/5q6Ue2SuMhMBxFPDP2VWXm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:01 | 2019-05-26\* | 2019-09-06 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-01-28 | 2022-04-07 |
 | [Onto Me \(with UMI\)](https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Last Year Was Weird, Vol\. 3](https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH) | 2:47 | 2021-07-20 | 2021-10-14 |
@@ -982,7 +983,7 @@
 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 | 2019-07-30 | 2019-12-13 |
 | [Skrting On The Surface](https://open.spotify.com/track/4XB9mPk0wcrWHRJSypO79z) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Skrting On The Surface](https://open.spotify.com/album/661LADBYIAySiUdlMpjZvT) | 5:31 | 2022-03-24 | 2022-04-21 |
 | [Slow Ready](https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 5:06 | 2022-07-15 | 2022-08-05 |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2020-02-14 | 2020-06-12 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-10 | 2022-03-10 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-07 | 2022-08-17 |

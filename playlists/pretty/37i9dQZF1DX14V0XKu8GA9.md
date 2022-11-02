@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,388 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,412 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 58 | [Palm Trees](https://open.spotify.com/track/0MQlHtQUOHzof3mDZJ7ApA) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Palm Trees](https://open.spotify.com/album/11JcbcyWhiZ3x8y31cYeun) | 4:10 |
 | 59 | [I’m Back](https://open.spotify.com/track/0UKblI4ZDkfbTwKxrBsGPS) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [She Gon Choose \(feat\. Lil Weirdo\)](https://open.spotify.com/album/1CwrdpNQXAxGJCn2nzA9Hz) | 1:57 |
 | 60 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
-| 61 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
-| 62 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
+| 61 | [Smile Now](https://open.spotify.com/track/5aEOxRLzokgAREPRH3MHLJ) | [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Smile Now](https://open.spotify.com/album/7FmKk2Wwe2kzpnd4daiQNU) | 2:50 |
+| 62 | [City Playa](https://open.spotify.com/track/70wo3FKUJtS8w2NDINDSRR) | [Doughboy Tony](https://open.spotify.com/artist/4fMfkGmg0pPSwGYACeeKZ2) | [City Playa](https://open.spotify.com/album/1mvEm795pRqIY19YfAt2n0) | 2:26 |
 | 63 | [SAUCE ME UP](https://open.spotify.com/track/2V444I4cSmVo8IQZkOP5cs) | [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [SAUCE ME UP PESO](https://open.spotify.com/album/7wPk7RKVEyu1bz0LlmwwVp) | 3:13 |
 | 64 | [Palo De Santo](https://open.spotify.com/track/0AjJKyp4VFSU2PFNYdLea6) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [Vivir...](https://open.spotify.com/album/4KrXrRKvWfkWHxmZfAKUdM) | 2:15 |
 | 65 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 77 | [Barbacoa](https://open.spotify.com/track/0TPhatnTdEG2FVxFHqlEij) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [Barbacoa](https://open.spotify.com/album/2ZbpPd2fO8QeEEfnQd6MzS) | 1:54 |
 | 78 | [Badabing](https://open.spotify.com/track/3qBOFluQ2JvErrNHO8X8fr) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk), [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Badabing](https://open.spotify.com/album/5no7RSOP6ijBzUQ0F4q2ha) | 3:05 |
 | 79 | [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 |
-| 80 | [My Type](https://open.spotify.com/track/0jGO5iy60VBAutVznPPuLR) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:16 |
+| 80 | [It's Whateva](https://open.spotify.com/track/2VY4FbhrD1ml2eRdojTvGE) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [It's Whateva](https://open.spotify.com/album/6zbTKRMXn2O523kh4Ka7rA) | 2:58 |
 
-Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMGU4Mzc4ZGUzYWFiNjc0YjI0MDcxMDRlYzA4MjQ1YWQ3`
+Snapshot ID: `MTY2Mzk0NzEyMCwwMDAwMDAwMGIxMzY4M2EwZGQxMjU1MTNhNzAzNTc2NDJjZjExZjMy`

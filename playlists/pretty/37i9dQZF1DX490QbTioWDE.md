@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,459 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,632 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 33 | [Gabriela](https://open.spotify.com/track/5zvsu3ADMUm96R5XY3Xd7G) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No Me Pidan Que Baje el Volumen](https://open.spotify.com/album/16tiLBfRfZ3X9PwTFu4bcY) | 4:28 |
 | 34 | [Te Pido Perdon](https://open.spotify.com/track/1YyQ6i603y0FFQGmBNNPBn) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 3:06 |
 | 35 | [Q' Tal](https://open.spotify.com/track/6KaxyYZhOU04b8IlJk7qOl) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Una Pasión](https://open.spotify.com/album/6yws1EOBYGXGK2kxgdUopP) | 3:10 |
-| 36 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
-| 37 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
+| 36 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
+| 37 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 |
 | 38 | [Como Si No Importara](https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Como Si No Importara](https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu) | 1:47 |
 | 39 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 |
 | 40 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 72 | [Paloma loca](https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Sergio Oliva and Freddy Zavaley](https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC) | [Bien Ahí !](https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B) | 3:13 |
 | 73 | [La Bachata \- En Vivo](https://open.spotify.com/track/2BTlIPUB2qpfkR8UIulnaa) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Bachata \(En Vivo\)](https://open.spotify.com/album/2QJIJQriH01UyYkD21Fuds) | 2:14 |
 | 74 | [Lo Aprendí de Ti](https://open.spotify.com/track/2ZWhVHSByxcaM3n74G06L7) | [Pitty Murua](https://open.spotify.com/artist/625kGlmcaDymYRSEawXlI9) | [Esta de Moda](https://open.spotify.com/album/3Ayz2Jfqes6ru6NBNh3Ng3) | 3:24 |
-| 75 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
-| 76 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 |
+| 75 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 |
+| 76 | [Castillo de Arena / Me Quieres Olvidar \- En Vivo](https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Grandes Exitos](https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl) | 2:58 |
 | 77 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 |
 | 78 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 79 | [Eran dos locos de amor](https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a) | [Los Reyes del Cuarteto](https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm) | [Eran dos locos de amor](https://open.spotify.com/album/5zrpSkFRI1dBpTnoY5JmV4) | 2:49 |
-| 80 | [Ni Diabla Ni Santa](https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ni Diabla Ni Santa](https://open.spotify.com/album/2oUcalZThOmfHkwnkr47OZ) | 3:09 |
-| 81 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 |
+| 80 | [Perfecto Idiota](https://open.spotify.com/track/59KZHCDC4BNb1K4wu1rBPo) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Diferente](https://open.spotify.com/album/62CK08DxCnCChEiaNHQaY0) | 4:02 |
+| 81 | [Ni Diabla Ni Santa](https://open.spotify.com/track/3hsuj2FuNZh9XSdVmFmusi) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Ni Diabla Ni Santa](https://open.spotify.com/album/2oUcalZThOmfHkwnkr47OZ) | 3:09 |
 | 82 | [Beso a beso](https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf), [Hugh Padgham](https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl), [Sergio Oliva](https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM) | [Beso a Beso \(con La Mona\)](https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok) | 5:03 |
 | 83 | [Que No Le Hago Falta](https://open.spotify.com/track/0Loq4vKgTxRdQqT4fJIk8I) | [El Rejunte](https://open.spotify.com/artist/72tGvtaVlYb6MDEc486udG) | [Que No Le Hago Falta](https://open.spotify.com/album/2vHCWKaLfUxtlVU35XHo7H) | 4:16 |
 | 84 | [La Vagancia Cuartetera](https://open.spotify.com/track/2YaJoA2sjtcfq8oM9CyIri) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Vagancia Cuartetera](https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
 | 100 | [Tu Peor Enemigo](https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Tu Peor Enemigo](https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl) | 3:21 |
 
-Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMGMzYzE2YTBmNTRhMGY5ODQ0OWNiZjRlMWQ5ZTFiZTdk`
+Snapshot ID: `MTY2NjkyNjAwMCwwMDAwMDAwMGY1YzA0ZTllN2UwZjU2YzdlZjRkNmNiZDhmNjcwOTBi`

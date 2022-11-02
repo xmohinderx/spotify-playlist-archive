@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance radio</a> hits from the 90s and 00s!",
-  "num_followers": 1280462,
+  "num_followers": 1280638,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMDVkNWY4ZDQ4NWFmZGMzZWVhMTMxMTQxMmIxMjU4ZDE4",
+  "snapshot_id": "MTY0NjA4Njk0NiwwMDAwMDAwMGVhZGEwNWZkODNlNWQwMDg1ZGMzZWI0NzllZmI4Zjdl",
   "tracks": [
     {
       "added_at": "2022-02-28 22:22:26",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "One Love (Deluxe)",
         "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -651,26 +651,18 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        },
-        {
-          "name": "Cozi",
-          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Baby When the Light (feat. Cozi)",
-      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -707,6 +699,30 @@
       "duration_ms": 326834,
       "name": "In White Rooms",
       "url": "https://open.spotify.com/track/2gtWTDbAq2i2oqs0ldX7bn"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        },
+        {
+          "name": "Cozi",
+          "url": "https://open.spotify.com/artist/2L5xi76mB2qwg00CMkuyEN"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Baby When the Light (feat. Cozi)",
+      "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -751,22 +767,6 @@
       "duration_ms": 228493,
       "name": "Starry Eyed Surprise",
       "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -823,34 +823,6 @@
       "duration_ms": 199133,
       "name": "The Sound of Goodbye - Above & Beyond UK Edit",
       "url": "https://open.spotify.com/track/1GMw17BGY1vDWNJ4xVo9V6"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Chris Willis",
-          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
-        },
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
-      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -927,6 +899,34 @@
       "duration_ms": 237293,
       "name": "Move For me",
       "url": "https://open.spotify.com/track/3GhICQNsmPCPgG7RyHAV8q"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Chris Willis",
+          "url": "https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Gettin' Over You (feat. Fergie & LMFAO)",
+      "url": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Disconnect (Platinum Edition)",
-        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
-      },
-      "artists": [
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Imagination - Ti\u00ebsto Radio Edit",
-      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "Fight For You",
         "url": "https://open.spotify.com/album/3ICJTj5U5bm2mql3QduFLb"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 236706,
       "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
       "url": "https://open.spotify.com/track/2YdJ7ZnaXUMZcGe46eCiER"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Disconnect (Platinum Edition)",
+        "url": "https://open.spotify.com/album/1tgLUNsCerUQYAXp3DPK4Y"
+      },
+      "artists": [
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Imagination - Ti\u00ebsto Radio Edit",
+      "url": "https://open.spotify.com/track/091jue13VJFSl0OAJG6BJH"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 219146,
       "name": "Deep At Night (Adam K & Soha Radio Mix)",
       "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3Q92oQsZcRengOwU7XrKY7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/2D7KdXI212C2evy5hh1tI5"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
+        "name": "Strange Condition",
+        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Strange Condition - Inpetto Radio Edit",
+      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
         "name": "I Found U",
         "url": "https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8"
       },
@@ -1979,18 +1995,18 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Strange Condition",
-        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
+        "name": "Addiction (Radio Edit)",
+        "url": "https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52"
       },
       "artists": [
         {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
         }
       ],
-      "duration_ms": 213546,
-      "name": "Strange Condition - Inpetto Radio Edit",
-      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+      "duration_ms": 173626,
+      "name": "Addiction - Radio Edit",
+      "url": "https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -2011,22 +2027,6 @@
       "duration_ms": 208360,
       "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
       "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
-        "name": "Addiction (Radio Edit)",
-        "url": "https://open.spotify.com/album/1uUn4H2JoPGyDYpqmoBY52"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Addiction - Radio Edit",
-      "url": "https://open.spotify.com/track/6bUSZYa1aaVXSk7HFzizTm"
     },
     {
       "added_at": "2022-02-28 22:22:26",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-02-28 22:22:26",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2022-02-28 22:22:26",
-      "album": {
         "name": "You're Not Alone",
         "url": "https://open.spotify.com/album/4sT3LUrP7eehRahyJvexvx"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 223520,
       "name": "You're Not Alone - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6k8cUsxbFMNoArTr2M0hEA"
+    },
+    {
+      "added_at": "2022-02-28 22:22:26",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     }
   ],
   "unique_name": "Dance Classics",

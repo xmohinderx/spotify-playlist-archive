@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,795 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,796 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 2 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 3 | [When I'm Gone](https://open.spotify.com/track/1iA4JW1NzmcYNG8ZASIjdH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:48 |
 | 4 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
-| 5 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
+| 5 | [I Need Some](https://open.spotify.com/track/7blWEpws63flJYjkyNhGya) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Need Some](https://open.spotify.com/album/1VMj4op3upCissjO0BF163) | 2:22 |
 | 6 | [You Gonna Make Me Love Somebody Else](https://open.spotify.com/track/7MRCd5tmZ2iURu4elcBsuH) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:30 |
 | 7 | [Dance Turned Into a Romance](https://open.spotify.com/track/0ac0IMOQCG2Xt5H9Ja70pU) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:28 |
-| 8 | [I Need Some](https://open.spotify.com/track/7blWEpws63flJYjkyNhGya) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [I Need Some](https://open.spotify.com/album/1VMj4op3upCissjO0BF163) | 2:22 |
+| 8 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
 | 9 | [Keep It Comin'](https://open.spotify.com/track/6zwOWgENLbmgzJWbrZhRaB) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:49 |
 | 10 | [This Feeling's Killing Me](https://open.spotify.com/track/5gAMkPxCW7pB61JchjPKTd) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:30 |
-| 11 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
+| 11 | [Let's Celebrate \(Sittin' on Top of the World\)](https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:19 |
 | 12 | [\(I Found\) That Man of Mine](https://open.spotify.com/track/4ykwkuk4VAGCCF82pMadSE) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:09 |
 | 13 | [You Can't Have My Love](https://open.spotify.com/track/5LoDGcEWiT7eQ62805XXct) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:24 |
 | 14 | [I'm At Your Mercy](https://open.spotify.com/track/7BhOkKfnWoMoisAN6bQIuR) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:48 |
-| 15 | [Let's Celebrate \(Sittin' on Top of the World\)](https://open.spotify.com/track/27imdcYKcQ6ZxSgjG43TUY) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 4:19 |
+| 15 | [Children of the Night](https://open.spotify.com/track/5YcEeu42eisgNHJeesoJDS) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [At Peace with Woman](https://open.spotify.com/album/2iDdYPZqTAFwyE0SqSuNCI) | 5:11 |
 | 16 | [Knockin'](https://open.spotify.com/track/4DGWf5ehVZquFQmU3KfWl4) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:04 |
 | 17 | [Love Don't Ever Say Goodbye](https://open.spotify.com/track/4bAEG1ZYfkMCT3SdDRqTzw) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:35 |
 | 18 | [Life Goes On](https://open.spotify.com/track/5o89I5aJYHe4QgleBC7bNu) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 49 | [Taster of the Honey \(Not Keeper of the Bee\)](https://open.spotify.com/track/6sjotJtpxuxZ3h2J9j65nI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:53 |
 | 50 | [Don't Be Sorry Be Careful](https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 2:48 |
 
-Snapshot ID: `Mjc3ODcwNDcsMDAwMDAwMDA0NGUxNTFlOWU3YmI4ZTE2ZjU2MzkyZDUxYmMyY2Y1OA==`
+Snapshot ID: `Mjc3ODg0OTksMDAwMDAwMDAyOWVhMmI5N2JkM2UzOGFkN2EwMDExYjFkNWNiMDYwYw==`

@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 278666,
       "name": "Fairweather",
       "url": "https://open.spotify.com/track/6CiJ9RWyu7YlRioyrGLDZZ"
@@ -1175,6 +1175,24 @@
       "duration_ms": 147893,
       "name": "Love Me Don't",
       "url": "https://open.spotify.com/track/3QWPzWOjko5dm8k0OHQxk8"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/7rNMFgROobX4kniUvoqQrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147893,
+      "name": "Love Me Don't",
+      "url": "https://open.spotify.com/track/7AohiL14D0ya3m3Gum7EA6"
     },
     {
       "album": {
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/4HRcQ151h3D8lZFvDMgObi"
@@ -1877,6 +1895,24 @@
       "duration_ms": 125386,
       "name": "This Is Your House",
       "url": "https://open.spotify.com/track/3pzm9zJZsfVTwuI04CCEJ1"
+    },
+    {
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/2VUgv1IEwEcTIBs8SI4DPH"
     },
     {
       "album": {

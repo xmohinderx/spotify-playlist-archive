@@ -4,11 +4,11 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-631 songs - 1 day 18 hr 11 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+632 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 | 2022-07-30 |
+| [2009](https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Aquarium Drunkard's Lagniappe Sessions](https://open.spotify.com/album/5bztUVns0kRButP1s6qoEL) | 4:31 | 2021-06-04 |  |
 | [4\-U](https://open.spotify.com/track/3rOzx4VaqWIUmeod4k6Nc9) | [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Talk to Me When I'm Sober](https://open.spotify.com/album/4yKXpjNgwKMszBOUXYEFiv) | 3:45 | 2021-04-02 | 2022-04-21 |
 | [49 Years](https://open.spotify.com/track/0D0qXcu6qTrrVls156VipG) | [Club Kuru](https://open.spotify.com/artist/1AdQnmF6taa106PwtUBK6O) | [49 Years](https://open.spotify.com/album/2iuyzz6hPfbEBJEgikgoi6) | 3:56 | 2021-04-02 | 2022-04-21 |
 | [A Heavy Drug](https://open.spotify.com/track/0ZrT7h8W04PDhxTSBgsdrU) | [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Whatever & Ever](https://open.spotify.com/album/4EX14bfjBceEPyq5a3LAKI) | 5:26 | 2021-06-04 | 2022-04-18 |
@@ -97,7 +97,7 @@
 | [Claw Your Way Out](https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq) | [Pluralone](https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K) | [Claw Your Way Out](https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl) | 3:03 | 2022-04-20 | 2022-07-23 |
 | [Clear](https://open.spotify.com/track/5sJMfY7Cb0CbFEBRgTPTtx) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Déjàvu](https://open.spotify.com/album/0vhTWEtT1LUdl5cxr5oACF) | 3:27 | 2022-07-11 | 2022-07-30 |
 | [Clear](https://open.spotify.com/track/6P7Oj48MpnXEB6ZfKgqepg) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Clear](https://open.spotify.com/album/0HRBmKyeF29CQXmZYJgwAw) | 3:27 | 2021-04-02 | 2022-04-18 |
-| [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-04-02 |  |
+| [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-04-02 | 2022-11-02 |
 | [Colorblind \(Single Edit\)](https://open.spotify.com/track/4yGuzdHn8UTqxZHv59Cfrk) | [Alexa Melo](https://open.spotify.com/artist/5nLABaeTeMttYXoBgnWXhj) | [Colorblind \(Single Edit\)](https://open.spotify.com/album/3V9aNU4E9l79mg74UTjWKB) | 5:26 | 2022-04-15 | 2022-06-29 |
 | [Come Undone](https://open.spotify.com/track/0lz0qEK3nPvtpHs1E09Qtn) | [Phantom Handshakes](https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo) | [Come Undone](https://open.spotify.com/album/1SmnQ7oHbdikfk3GSwKojK) | 3:13 | 2022-05-06 | 2022-06-11 |
 | [Comic Book](https://open.spotify.com/track/27cLpHYeCPf9eUsfytxMCe) | [Spires](https://open.spotify.com/artist/1BoNO7Kj26goTfyMxv7H0i) | [Spires \- Debut Single](https://open.spotify.com/album/1ihA1e9kHdz5V7ykwn0IEH) | 3:24 | 2021-04-02 | 2022-04-21 |
@@ -146,7 +146,7 @@
 | [Dreams Via Memories](https://open.spotify.com/track/47rVmhBEJm7bJUYpNcCxsK) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [The Cart](https://open.spotify.com/album/7gCS6N9XxSGCt9rPsIVcD4) | 4:51 | 2022-07-22 |  |
 | [Dripping Sun](https://open.spotify.com/track/0KixIFbJPLjVUgCiTgR649) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 7:50 | 2022-07-11 |  |
 | [Dry the Rain \- Remaster](https://open.spotify.com/track/0tjlSGZvut3IIdmwxC3hTh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [Dry the Rain \(Remaster\)](https://open.spotify.com/album/6C87ASWepSzNhWrquNxPtP) | 6:03 | 2021-04-02 | 2022-04-16 |
-| [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 |  |
+| [Earth Worship](https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/4Ba0XQz4Lwn0h43myCXfHA) | 3:37 | 2022-08-12 | 2022-11-02 |
 | [East West Link](https://open.spotify.com/track/3hFhPZ9ApoLLQ3bGCDlCDs) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [L.W.](https://open.spotify.com/album/7mGW0YccQQZPCD1acHaClx) | 3:08 | 2021-04-02 | 2022-04-21 |
 | [Easy](https://open.spotify.com/track/7n2LE79lG0ffnBaz1FafUT) | [Gringo Star](https://open.spotify.com/artist/09CQngaijJk9iSalfKfrIW) | [Easy](https://open.spotify.com/album/5WasPewzfe8OJmGk93ezBK) | 3:42 | 2021-04-02 | 2022-04-20 |
 | [Easy to Love](https://open.spotify.com/track/5RSg2bbmjzURvkTGQdgSAB) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 3:38 | 2022-07-11 | 2022-07-30 |
@@ -220,6 +220,7 @@
 | [Good Time](https://open.spotify.com/track/7ypwscZmBFji0U8xDvviT9) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Where I Live](https://open.spotify.com/album/3fdj5y1QH4yT1Z5lYxKAFL) | 4:10 | 2022-07-11 | 2022-07-13 |
 | [Grapefruit Juice](https://open.spotify.com/track/4tamIVsnMQqETLsJ3HxlPq) | [Bobby Renz](https://open.spotify.com/artist/1ZXhPh7E9Gm4xHRKKmKzD4) | [Eat a Rainbow](https://open.spotify.com/album/5k0cK7vd4It7hPKG8QbfFy) | 2:18 | 2021-05-17 | 2022-04-20 |
 | [Gregorian Chance](https://open.spotify.com/track/7DvvUCZQzyFu5b7vW0cM3K) | [Nolan Potter](https://open.spotify.com/artist/5dFUTy118iDraWRyIpaXTm), [Nolan Potter's Nightmare Band](https://open.spotify.com/artist/0PkYsKKstxYMM4DAxn34Ig) | [Music is Dead](https://open.spotify.com/album/0umIgM2tzwnLk0GbbaTOAC) | 5:51 | 2022-04-20 | 2022-07-29 |
+| [HALOHEAD](https://open.spotify.com/track/0svx31qU41UZMV9qDA4H6S) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS \(DELUXE\)](https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ) | 3:24 | 2022-10-24 |  |
 | [HALOHEAD](https://open.spotify.com/track/3XxBj4muC0eqMSXMXA3X87) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [HALOHEAD](https://open.spotify.com/album/5m6n8hbxuE4DuDvxi19yRN) | 3:24 | 2021-08-20 | 2022-07-29 |
 | [HALOHEAD](https://open.spotify.com/track/5ExI57hQ9irAstrGiyOnY6) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [VISUALS](https://open.spotify.com/album/0zoanXJYpaFO0jND1HzAti) | 3:24 | 2022-08-19 | 2022-08-26 |
 | [Happens All the Time](https://open.spotify.com/track/7k6MdU3CPrnFAnkYJRM1gY) | [Spaceface](https://open.spotify.com/artist/3rcMe5nRZ2Z6Qbx1OB0vIz) | [Anemoia](https://open.spotify.com/album/0P65IoBOZZ36tbKMfUwILD) | 3:18 | 2022-04-20 | 2022-07-29 |

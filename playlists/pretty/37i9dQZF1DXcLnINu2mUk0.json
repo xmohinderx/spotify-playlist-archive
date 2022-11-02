@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: B\u00e1rbara Bandeira e Ivandro.",
-  "num_followers": 19865,
+  "num_followers": 19924,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGVjZDQ1YzVjYmU1NWUyMDRkY2VmM2M3N2YyMTE4MGNk",
+  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMDlmZTAyZGVhNDlmMTFjNzI0NDVmNzZmNjc5NTk0ZGFk",
   "tracks": [
     {
       "added_at": "2022-10-27 23:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "\u00daltima Vez",
         "url": "https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 205440,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "Desce Do C\u00e9u",
-        "url": "https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        }
-      ],
-      "duration_ms": 258390,
-      "name": "Desce Do C\u00e9u",
-      "url": "https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
       },
@@ -843,6 +827,26 @@
       "duration_ms": 196179,
       "name": "Toque",
       "url": "https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "Ka nu komplika",
+        "url": "https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW"
+      },
+      "artists": [
+        {
+          "name": "Ricky Man",
+          "url": "https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n"
+        },
+        {
+          "name": "Valter LS",
+          "url": "https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P"
+        }
+      ],
+      "duration_ms": 199363,
+      "name": "Ka nu komplika",
+      "url": "https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -883,26 +887,6 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
-        "name": "Ka nu komplika",
-        "url": "https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW"
-      },
-      "artists": [
-        {
-          "name": "Ricky Man",
-          "url": "https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n"
-        },
-        {
-          "name": "Valter LS",
-          "url": "https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P"
-        }
-      ],
-      "duration_ms": 199363,
-      "name": "Ka nu komplika",
-      "url": "https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
         "name": "Losing",
         "url": "https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI"
       },
@@ -915,6 +899,38 @@
       "duration_ms": 236571,
       "name": "Losing",
       "url": "https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "Desce Do C\u00e9u",
+        "url": "https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "duration_ms": 258390,
+      "name": "Desce Do C\u00e9u",
+      "url": "https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        }
+      ],
+      "duration_ms": 161163,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
     },
     {
       "added_at": "2022-10-27 23:00:00",
@@ -939,22 +955,6 @@
       "duration_ms": 152347,
       "name": "Conquista Mundo",
       "url": "https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W"
-      },
-      "artists": [
-        {
-          "name": "Bere",
-          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
-        }
-      ],
-      "duration_ms": 161163,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5"
     },
     {
       "added_at": "2022-10-27 23:00:00",

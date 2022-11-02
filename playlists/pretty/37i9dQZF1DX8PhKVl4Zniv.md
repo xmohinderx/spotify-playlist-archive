@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,207 likes - 65 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 65 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 43 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 |
 | 44 | [Actual Proof](https://open.spotify.com/track/10ayGc2Uxrz7G1EQbnskUG) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [HBC](https://open.spotify.com/album/177EnulmbDMJdNE5vsrjTU) | 10:15 |
 | 45 | [Smack 'em](https://open.spotify.com/track/0vlHJxm2m5GUdUnhBl5WFK) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Brandon "TAZ" Niederauer](https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth) | [Swagism](https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu) | 8:19 |
-| 46 | [Soundcheck and Whatnots](https://open.spotify.com/track/35W33iV87wL4cXAMt7ovFj) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/0W8OGpEZHGz1Raj2afoGGY) | 1:09 |
+| 46 | [Soundcheck and Whatnots](https://open.spotify.com/track/70e8x2PmWdnWZPlOW2PhGX) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Focus](https://open.spotify.com/album/2EqaPqR7GfZLpOuEde7dLz) | 1:09 |
 | 47 | [Chameleon](https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Chameleon](https://open.spotify.com/album/7Maxr67eS8mA5JVjZHBjfJ) | 4:42 |
 | 48 | [Virtual Life](https://open.spotify.com/track/1Pax97BZgQU2uC5BQSAZBl) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 7:19 |
 | 49 | [Chips & Dip](https://open.spotify.com/track/6og0RD1Xq1Ya7BOt0TxHz6) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD SUCKS](https://open.spotify.com/album/25DY2SjlnIG72HQWrvfIMa) | 1:00 |
-| 50 | [Knuckaround](https://open.spotify.com/track/13ptJ0sjLFp7ymeaLRxYIw) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/6VJVd3Y0kj35GhpEYASsQz) | 1:09 |
+| 50 | [Knuckaround](https://open.spotify.com/track/4Zg2zDhCMF019K5dIVItTE) | [The Funky Knuckles](https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V) | [Delicious](https://open.spotify.com/album/26xicCegyTkFjxQQwec8ed) | 1:09 |
 | 51 | [Bruise Cruise](https://open.spotify.com/track/0Z27rTTijg45gBZn56hBSa) | [Scary Goldings](https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Scary Goldings IV](https://open.spotify.com/album/6nR9rJfgSR5U6ffU4vhv75) | 2:13 |
 | 52 | [Welcome 2 Minneapolis \- The Paisley Park Session](https://open.spotify.com/track/4pFeY1QTJUGpqRJO3jqFQp) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Paisley Park Session](https://open.spotify.com/album/5sieNimqkuXKxrIGmeKg4W) | 4:36 |
 | 53 | [Patrol Acrobatique](https://open.spotify.com/track/37nNjtdPywMHpMZumunVP7) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers III](https://open.spotify.com/album/5Wy2eDSTyXNP3GOV3n64Yc) | 1:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 64 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 65 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDYzZTViMDM1NDFmZjU1ZjE4NDU2ZWI4NTMwNWFlMDQ3`
+Snapshot ID: `MTY2NDUxMDQ2MCwwMDAwMDAwMDZiZTQ4NWVlNmM0YmUzY2FjZjhlNTE3MDc5NGY5OTI3`

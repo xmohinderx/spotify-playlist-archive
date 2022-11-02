@@ -661,10 +661,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 69982,
       "name": "Knuckaround",
       "url": "https://open.spotify.com/track/13ptJ0sjLFp7ymeaLRxYIw"
+    },
+    {
+      "album": {
+        "name": "Delicious",
+        "url": "https://open.spotify.com/album/26xicCegyTkFjxQQwec8ed"
+      },
+      "artists": [
+        {
+          "name": "The Funky Knuckles",
+          "url": "https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69982,
+      "name": "Knuckaround",
+      "url": "https://open.spotify.com/track/4Zg2zDhCMF019K5dIVItTE"
     },
     {
       "album": {
@@ -1049,10 +1067,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 69419,
       "name": "Soundcheck and Whatnots",
       "url": "https://open.spotify.com/track/35W33iV87wL4cXAMt7ovFj"
+    },
+    {
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2EqaPqR7GfZLpOuEde7dLz"
+      },
+      "artists": [
+        {
+          "name": "Shaun Martin",
+          "url": "https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69419,
+      "name": "Soundcheck and Whatnots",
+      "url": "https://open.spotify.com/track/70e8x2PmWdnWZPlOW2PhGX"
     },
     {
       "album": {

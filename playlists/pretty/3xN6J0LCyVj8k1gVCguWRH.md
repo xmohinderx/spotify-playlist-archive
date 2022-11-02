@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,834 likes - 181 songs - 11 hr 4 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 101,827 likes - 181 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 180 | [MULTIVERSO](https://open.spotify.com/track/3hOYzuMBAg3yPxglI5wEyA) | [Zaravia](https://open.spotify.com/artist/2zPRXZSRA4OLTLIBUdHIaK) | [MULTIVERSO](https://open.spotify.com/album/0WCe9PQZJNHdHaDF8c44Dz) | 3:43 |
 | 181 | [My Love \(Borth Remix\)](https://open.spotify.com/track/3QA979rq5SWdIH2Rsm2TPg) | [Eric Anders](https://open.spotify.com/artist/7wYbNTiiFpJwzAwFk910dl), [Mark O'Bitz](https://open.spotify.com/artist/1l1iTfSE17m7r3FZehWsIR) | [Bardo Hauntings II: Borth Remixes](https://open.spotify.com/album/4xomyU3RIbujt0hAJLxkwc) | 3:54 |
 
-Snapshot ID: `MzYyMCw5NDMwZTYxZjA5N2E3ODhmYjA2N2ZlMzNmMDFlMTVkYzY4YmZhMGIz`
+Snapshot ID: `MzYyMiwyYjM5MGRkZWE3NDdjYjkyN2EyYzJiZjc4NDllNjkzZjcwYzIxMWY1`

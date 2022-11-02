@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42812,
+  "num_followers": 42826,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDJlOTRjM2JlYWRjN2ZjYWQ3YjRkYTRhZTE3MzFkNGE4",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDJhZjZhOTgxZWNmYjM0NWVkMzljMzFkMjhjODMzNzdk",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -211,6 +211,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Carrollton",
+        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
+      },
+      "artists": [
+        {
+          "name": "Carrollton",
+          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
+        }
+      ],
+      "duration_ms": 232683,
+      "name": "Not Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Carrollton",
-        "url": "https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf"
-      },
-      "artists": [
-        {
-          "name": "Carrollton",
-          "url": "https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs"
-        }
-      ],
-      "duration_ms": 232683,
-      "name": "Not Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "VILLAIN",
-        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
-      },
-      "artists": [
-        {
-          "name": "Jared Marc",
-          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Avalanche - Piano Version",
-      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Neighbor Songs",
         "url": "https://open.spotify.com/album/2MpPrCjCCzWEEUD9gb93So"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241600,
       "name": "Daughters of Zion",
       "url": "https://open.spotify.com/track/1cOGwFxxHG1xtkKN8Eet5I"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "VILLAIN",
+        "url": "https://open.spotify.com/album/1WYu7wMRAWA0G3IwqcwFAL"
+      },
+      "artists": [
+        {
+          "name": "Jared Marc",
+          "url": "https://open.spotify.com/artist/4VGrnFhLNsG1ni78qk7ZWM"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Avalanche - Piano Version",
+      "url": "https://open.spotify.com/track/5P9944uZjaKP2TzRdtErdd"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "O, Peace",
-        "url": "https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 304192,
-      "name": "Stir A Passion",
-      "url": "https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Comes and Goes",
         "url": "https://open.spotify.com/album/2GZKfuX5AfXtneH04BBPKP"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 217812,
       "name": "For Your Glory",
       "url": "https://open.spotify.com/track/4etWtEzUFn7AEiiSGwZT6X"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "O, Peace",
+        "url": "https://open.spotify.com/album/0DQEChF6qLK8DthcId02sL"
+      },
+      "artists": [
+        {
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
+        }
+      ],
+      "duration_ms": 304192,
+      "name": "Stir A Passion",
+      "url": "https://open.spotify.com/track/4ObhmsDpExlIJ4VKJtIoOt"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Leaving Shadowland",
-        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
-      },
-      "artists": [
-        {
-          "name": "Seeker & Servant",
-          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "Everything Is Possible",
         "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 269560,
       "name": "Yes and Amen",
       "url": "https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Leaving Shadowland",
+        "url": "https://open.spotify.com/album/0o81ZEoFaZP8GgR8MGuGqE"
+      },
+      "artists": [
+        {
+          "name": "Seeker & Servant",
+          "url": "https://open.spotify.com/artist/6Nuo4qEB3cLo3hOpYjneNu"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
     },
     {
       "added_at": "2020-12-18 06:02:14",

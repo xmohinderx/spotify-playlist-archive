@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 206761,
+  "num_followers": 206785,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDVlMzI5Nzc5M2JjMmUzYTViN2Y4MDg2MDQzN2FkMGYz",
+  "snapshot_id": "MTY2MzkwNTY2MCwwMDAwMDAwMDBlZTM0MjliYTEzZjMxMTNkNmMxYWY5NmFhYmJiMTE3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -365,20 +365,24 @@
       "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
       "artists": [
         {
           "name": "Euge Groove",
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Livin' Large",
-      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
+      "duration_ms": 289800,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -453,38 +457,6 @@
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
     },
     {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Lookin' Up",
-        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
-      },
-      "artists": [
-        {
-          "name": "Tom Braxton",
-          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
-        }
-      ],
-      "duration_ms": 251142,
-      "name": "Sharon's Groove",
-      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Supersonic",
@@ -503,22 +475,50 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
+    },
+    {
+      "added_at": "2021-08-06 04:01:00",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk"
+      },
+      "artists": [
+        {
+          "name": "Tom Braxton",
+          "url": "https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK"
+        }
+      ],
+      "duration_ms": 251142,
+      "name": "Sharon's Groove",
+      "url": "https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
       "artists": [
         {
           "name": "Euge Groove",
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        },
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 289800,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
+      "duration_ms": 271533,
+      "name": "Livin' Large",
+      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -627,6 +627,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Manhattan Nights",
+        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
+      },
+      "artists": [
+        {
+          "name": "Jaared",
+          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "James Vargas",
         "url": "https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Manhattan Nights",
-        "url": "https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1"
+        "name": "There's A Riot Goin' On",
+        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
       },
       "artists": [
         {
-          "name": "Jaared",
-          "url": "https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL"
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
         }
       ],
-      "duration_ms": 232733,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay"
+      "duration_ms": 190866,
+      "name": "Luv N' Haight",
+      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -695,22 +711,6 @@
       "duration_ms": 253946,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "There's A Riot Goin' On",
-        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luv N' Haight",
-      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "West Coast Soul",
-        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
-      },
-      "artists": [
-        {
-          "name": "Chris Godber",
-          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "West Coast Soul",
-      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Quintastic",
@@ -821,20 +805,20 @@
       "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-08-13 04:01:00",
       "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+        "name": "West Coast Soul",
+        "url": "https://open.spotify.com/album/1twn2s1XpW5lwVQ2Lhol0V"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Chris Godber",
+          "url": "https://open.spotify.com/artist/2UpaCo1jPuhehJBrIAaj53"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Caught Me By Surprise",
-      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
+      "duration_ms": 259838,
+      "name": "West Coast Soul",
+      "url": "https://open.spotify.com/track/6FIXVKzMAqi9GTv0rysrVH"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -867,6 +851,22 @@
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
+    },
+    {
+      "added_at": "2021-07-12 18:23:33",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "Caught Me By Surprise",
+      "url": "https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "G (Bonus Version)",
         "url": "https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 244600,
       "name": "Taking Control",
       "url": "https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Smooth Jazz SAX Showcase",
-        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
-      },
-      "artists": [
-        {
-          "name": "Uko",
-          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
-        }
-      ],
-      "duration_ms": 296475,
-      "name": "Got To Be Real",
-      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+        "name": "Smooth Jazz SAX Showcase",
+        "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
       },
       "artists": [
         {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+          "name": "Uko",
+          "url": "https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp"
         }
       ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+      "duration_ms": 296475,
+      "name": "Got To Be Real",
+      "url": "https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1291,6 +1275,22 @@
       "duration_ms": 258453,
       "name": "Soho",
       "url": "https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
-      },
-      "artists": [
-        {
-          "name": "Michael Lington",
-          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
-        }
-      ],
-      "duration_ms": 236273,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Moment of Truth",
@@ -1431,6 +1415,22 @@
       "duration_ms": 263106,
       "name": "A-Game",
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "duration_ms": 236273,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1533,22 +1533,6 @@
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
-    },
-    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Say What",
@@ -1563,6 +1547,22 @@
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 243986,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC"
     },
     {
       "added_at": "2021-07-12 18:09:21",

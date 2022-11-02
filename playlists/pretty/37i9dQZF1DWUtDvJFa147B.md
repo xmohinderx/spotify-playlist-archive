@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 
 > The official playlist of JTBC Begin Again, which contains the busking live soundtracks of the best musicians in Korea\. \(국내 최정상 뮤지션들의 버스킹 라이브 음원들이 담긴 JTBC 비긴어게인의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,230 likes - 113 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,266 likes - 113 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 16 | [High](https://open.spotify.com/track/4QbEmHyDJKYXHM7nBAiT2U) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Begin Again Open Mic Episode.8](https://open.spotify.com/album/5XV5QyROAzDYE1MK4om3Qr) | 3:17 |
 | 17 | [Paris in the rain](https://open.spotify.com/track/0x4bj4t4wNpn19lejvwJU5) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Begin Again Open Mic Episode.8](https://open.spotify.com/album/5XV5QyROAzDYE1MK4om3Qr) | 3:19 |
 | 18 | [Imagine](https://open.spotify.com/track/2mMHK2SKzZfuiortMxkyhe) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open Mic Episode.7](https://open.spotify.com/album/0N69CWf8jOk19aH16ciFTN) | 3:47 |
-| 19 | [이 바보야](https://open.spotify.com/track/2t8qEutUXmM1JKKs9mW6YB) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Begin Again Open Mic Episode.6](https://open.spotify.com/album/1vtbTUap3V5YDoMz9AlEis) | 3:49 |
+| 19 | [이 바보야](https://open.spotify.com/track/2t8qEutUXmM1JKKs9mW6YB) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg), [신용재 \(2F\)](https://open.spotify.com/artist/3F41NA4lCodjllMP4uxM5l) | [Begin Again Open Mic Episode.6](https://open.spotify.com/album/1vtbTUap3V5YDoMz9AlEis) | 3:49 |
 | 20 | [기도](https://open.spotify.com/track/78mBLKx5Yj8Ggz0JEhIv1q) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Begin Again Open Mic Episode.6](https://open.spotify.com/album/1vtbTUap3V5YDoMz9AlEis) | 4:08 |
 | 21 | [Wake me up](https://open.spotify.com/track/2i1lFSnsggHwJ3UPhqHcsS) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open Mic Episode.5](https://open.spotify.com/album/5GoZfyf3iffgWTOxRIhyEW) | 3:11 |
 | 22 | [Perfect](https://open.spotify.com/track/35BFqppJUzKmjNNpUWRGp5) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Begin Again Open Mic Episode.5](https://open.spotify.com/album/5GoZfyf3iffgWTOxRIhyEW) | 4:53 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtDvJFa147B.md) - [plain]
 | 26 | [바람의 노래](https://open.spotify.com/track/6sr6Wh8Wje5b0wOhbr81Jm) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Begin Again Open Mic Episode.3](https://open.spotify.com/album/2986fRMH18qfk9QxpVauJS) | 4:04 |
 | 27 | [해줄 수 없는 일](https://open.spotify.com/track/4Xr59xrDnkL4Irg1gzytC9) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Begin Again Open Mic Episode.2](https://open.spotify.com/album/13NIHyvcTUikGNpB2Eom5Y) | 4:10 |
 | 28 | [모든 날 모든 순간](https://open.spotify.com/track/4YFuEVtei9QRxtbYzRZLA9) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open Mic Episode.2](https://open.spotify.com/album/13NIHyvcTUikGNpB2Eom5Y) | 2:24 |
-| 29 | [예뻤어](https://open.spotify.com/track/3Y4NKHQJrBfwGxtMjtGvt8) | [제이미](https://open.spotify.com/artist/3TKBiBhfaWg5buTbBsreNk) | [Begin Again Open Mic Episode.1](https://open.spotify.com/album/7iem5K9m8FOx6gnjrqdt74) | 2:59 |
+| 29 | [예뻤어](https://open.spotify.com/track/3Y4NKHQJrBfwGxtMjtGvt8) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Begin Again Open Mic Episode.1](https://open.spotify.com/album/7iem5K9m8FOx6gnjrqdt74) | 2:59 |
 | 30 | [우울시계](https://open.spotify.com/track/4Zo3A6ZxagtR2Q4WZW23hK) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Begin Again Open Mic Episode.1](https://open.spotify.com/album/7iem5K9m8FOx6gnjrqdt74) | 3:01 |
 | 31 | [Departure \(From The Original TV Show "Begin Again Korea" Ep\. 1\) \(Live\)](https://open.spotify.com/track/44P1L1j9IsyG4vnw1lh60U) | [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Departure \(From The Original TV Show "Begin Again Korea" Ep\. 1\) \(Live\)](https://open.spotify.com/album/3zIzMWWXelWouGwx3KYtVX) | 3:52 |
 | 32 | [Youngblood \(From The Original TV Show "Begin Again Korea" Ep\. 1\-1\) \(Live\)](https://open.spotify.com/track/6UZ0ahbrJ9pRyOMC3Zf6do) | [Henry](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [Youngblood \(From The Original TV Show "Begin Again Korea" Ep\. 1\-1\) \(Live\)](https://open.spotify.com/album/4ItShd2pRcDjq7pkR7NAlc) | 4:38 |

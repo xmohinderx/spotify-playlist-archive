@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-73 songs - 9 hr 36 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+74 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Buya \- Loco Dice Kliptown Love Remix](https://open.spotify.com/track/7JDFf5fWpR9bhpk7UGjpiy) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 7:04 | 2021-12-28 | 2022-02-24 |
 | [Come To Me](https://open.spotify.com/track/1eIhSaVLP46opgA6baksuB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:57 | 2021-12-28 |  |
 | [Come With Me](https://open.spotify.com/track/1i9Ag3QndpJdr8nxWDCjrK) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me](https://open.spotify.com/album/3oCLiovKu5rEDwRn5OMULV) | 3:17 | 2021-12-28 |  |
-| [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/6iqdyQpUgpO2dYXlqDoi5s) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve), [Quentin Harris](https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B) | [Crazy \(The Remixes\)](https://open.spotify.com/album/7yjLZJERrZNHb2OojbmqBO) | 7:46 | 2021-12-28 |  |
+| [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 | 2022-11-01 |  |
+| [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/6iqdyQpUgpO2dYXlqDoi5s) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve), [Quentin Harris](https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B) | [Crazy \(The Remixes\)](https://open.spotify.com/album/7yjLZJERrZNHb2OojbmqBO) | 7:46 | 2021-12-28 | 2022-11-02 |
 | [Deep In The Bottom \- The Jouney Mix](https://open.spotify.com/track/7sLrlIM34q3YLeAPGFJqFd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Monique Bingham](https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa) | [The Journey Continues](https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67) | 8:36 | 2021-12-28 | 2022-06-24 |
 | [DJ Mix](https://open.spotify.com/track/0HPsuZ8rZbBf71J34uhYKA) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 55:02 | 2022-01-07 | 2022-10-13 |
 | [DJ Mix 3](https://open.spotify.com/track/7xZdRkC3g57gOtdFlum2eS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 1:10:18 | 2021-12-28 | 2021-12-30 |

@@ -1,29 +1,13 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4?si=Z4rpKi0vTzuo_6ZbRBQbqg\">Boohle</a>",
-  "num_followers": 358985,
+  "num_followers": 359438,
   "original_name": "AmaPiano Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwNzk0MCwwMDAwMDAwMDUzNGU2YjNmNTU3ZTVlYmFkMTQ1ZmJkMzdkZDc4ZmZh",
+  "snapshot_id": "MTY2NzI5MDkzOCwwMDAwMDAwMDZjMTFiYzQwMDhkNzYwYjhkOTdiMzJlZGY1Yzg2YWVk",
   "tracks": [
-    {
-      "added_at": "2022-10-27 21:59:00",
-      "album": {
-        "name": "Mexico way",
-        "url": "https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK"
-      },
-      "artists": [
-        {
-          "name": "Deemo De Flame",
-          "url": "https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A"
-        }
-      ],
-      "duration_ms": 454272,
-      "name": "Mexico way",
-      "url": "https://open.spotify.com/track/2whKA5gzY2smoUV3OANgfr"
-    },
     {
       "added_at": "2022-10-13 21:59:00",
       "album": {
@@ -195,6 +179,22 @@
     {
       "added_at": "2022-10-27 21:59:00",
       "album": {
+        "name": "Mexico way",
+        "url": "https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK"
+      },
+      "artists": [
+        {
+          "name": "Deemo De Flame",
+          "url": "https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A"
+        }
+      ],
+      "duration_ms": 454272,
+      "name": "Mexico way",
+      "url": "https://open.spotify.com/track/2whKA5gzY2smoUV3OANgfr"
+    },
+    {
+      "added_at": "2022-10-27 21:59:00",
+      "album": {
         "name": "Kae Kae",
         "url": "https://open.spotify.com/album/11vMcHOpweFim1GTA33dyS"
       },
@@ -352,20 +352,16 @@
       },
       "artists": [
         {
-          "name": "Pushkin",
-          "url": "https://open.spotify.com/artist/1dLp3t3fYYlZMSCuHBxwFt"
+          "name": "Pushkin RSA",
+          "url": "https://open.spotify.com/artist/2yOabnExwqn16MmeIYkOc7"
         },
         {
           "name": "Springle",
           "url": "https://open.spotify.com/artist/2MrjOkIsQao28a0Xf1Gy7F"
         },
         {
-          "name": "Mankay",
-          "url": "https://open.spotify.com/artist/1aAQb4YWLOX181q3VNj6mm"
-        },
-        {
-          "name": "ChocoDynasty",
-          "url": "https://open.spotify.com/artist/2KdZRMrGzBwlRs2rYi0MdL"
+          "name": "Mankay & Choco Dynasty",
+          "url": "https://open.spotify.com/artist/4kgGl41WQC3wNWtzPFP2tP"
         }
       ],
       "duration_ms": 398571,

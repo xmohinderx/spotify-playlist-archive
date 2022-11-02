@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Wunderhorse
 
-316 songs - 17 hr 44 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+317 songs - 17 hr 50 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-16 | 2022-07-29 |
 | [Show & Tell](https://open.spotify.com/track/5lKLRqfjytzxOGJtqOZqxF) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Show & Tell](https://open.spotify.com/album/6rlVrcewSVgwBENyMbu5Hj) | 3:27 | 2022-02-04 | 2022-09-09 |
 | [Sleep](https://open.spotify.com/track/6h17D5OtByI2UJ9StWVgAv) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [Octubre](https://open.spotify.com/album/1GMAtZzE5QxNlRoAnMH3f3) | 3:53 | 2021-03-09 | 2022-01-17 |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-06 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-13 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-06 | 2022-11-02 |
 | [Slowly Separate](https://open.spotify.com/track/0pQ3HWdEQ4dKh56PBgvDuy) | [Crows](https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn) | [Slowly Separate](https://open.spotify.com/album/3BO6yFiAUJf5ZcyGKMz7C3) | 3:41 | 2022-01-17 | 2022-08-19 |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-08-18 |  |
 | [Speak of the Devil](https://open.spotify.com/track/5dBqUGyiFVvjc901wkZGyr) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Speak of the Devil](https://open.spotify.com/album/0cwnN8cat7gqJDL84CxxyO) | 3:35 | 2021-03-09 | 2022-01-17 |

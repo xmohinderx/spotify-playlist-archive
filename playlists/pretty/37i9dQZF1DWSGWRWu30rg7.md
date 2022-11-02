@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Meiska  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,232 likes - 73 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,242 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 4 | [Dimensio](https://open.spotify.com/track/44aFC9Q6JUO8txxJeunsz3) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Dimensio](https://open.spotify.com/album/4xgJN8UO0lrJkUjfgoShBg) | 3:22 |
 | 5 | [2008](https://open.spotify.com/track/6XIhtiqBvXXHislhKJYi1p) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [2008](https://open.spotify.com/album/6bn9BTzXixKL3VcFJ3lPfq) | 4:12 |
 | 6 | [Phases of the Moon](https://open.spotify.com/track/0XyoNtGd1AVECZy8lPzK9Z) | [Dustrck](https://open.spotify.com/artist/0tbvGfLG4DHpTUzYEjz4ep) | [Phases of the Moon](https://open.spotify.com/album/79VhVdaXgcX0GOLCEuoKSL) | 3:16 |
-| 7 | [Song for Mama](https://open.spotify.com/track/5nte5fLlIOWNeyUq7JJAW3) | [Nuelo](https://open.spotify.com/artist/0St5cBAcEnnjcUW9muoYWM) | [Song for Mama](https://open.spotify.com/album/6cuzCxbOZuXcGJWSvtbBM2) | 1:13 |
+| 7 | [Song for Mama](https://open.spotify.com/track/5nte5fLlIOWNeyUq7JJAW3) | [Nuelo](https://open.spotify.com/artist/0St5cBAcEnnjcUW9muoYWM) | [Song for Mama](https://open.spotify.com/album/6cuzCxbOZuXcGJWSvtbBM2) | 2:27 |
 | 8 | [Sirens](https://open.spotify.com/track/6HZizUtULpYr2R61iG2IkJ) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Sirens](https://open.spotify.com/album/5JIrh7kGpBubQXfrcU2kgf) | 2:58 |
 | 9 | [The Sky & I](https://open.spotify.com/track/3Qw7NKvr06X1yB9TnTnLrj) | [Jane Callista](https://open.spotify.com/artist/7CI7ZsOBkOkmB9Q1xl2uEl) | [The Sky & I](https://open.spotify.com/album/4Xn2WReFJOkL8fnppQjLsS) | 4:11 |
 | 10 | [Melukis Pelangi](https://open.spotify.com/track/1ERftFzRB5JxPr4EDZMFXJ) | [Jemi Sormin](https://open.spotify.com/artist/7mmwIMhmDaxPq4SWNOvHw4), [Rifany](https://open.spotify.com/artist/4QJe2OgOQEgRyDdY9PCKEC) | [Melukis Pelangi](https://open.spotify.com/album/0PD8yn8kNITCMb1jTAA2V9) | 4:36 |

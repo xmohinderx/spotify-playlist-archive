@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boy Fire](https://open.spotify.com/track/5LZjRcsQchkrv6PmCn0Uee) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Boy Fire](https://open.spotify.com/album/3kWRIFkHfECb8Cs9rWvoTK) | 2:53 |
 | 2 | [Bubble Up](https://open.spotify.com/track/6ys37R562Bjkk6cddXH3m0) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:56 |
 | 3 | [Wakikuba](https://open.spotify.com/track/2eP5ehkZmHF9gSrt7vJHmw) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p) | [Tupaate](https://open.spotify.com/album/3NlSPmx0BeXeUUxhmIQqjv) | 2:47 |
-| 4 | [Nalonda Nemala](https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Nalonda Nemala](https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG) | 3:02 |
-| 5 | [Mpulira Bibyo](https://open.spotify.com/track/7BbgvMTsbkGZZZatPzMGxK) | [Grenade](https://open.spotify.com/artist/0kPRI396OHQP7mSEs4jvhQ) | [Mpulira Bibyo](https://open.spotify.com/album/4xxfpwf5KiCnLCAftwARKU) | 2:45 |
+| 4 | [Mpulira Bibyo](https://open.spotify.com/track/7BbgvMTsbkGZZZatPzMGxK) | [Grenade](https://open.spotify.com/artist/0kPRI396OHQP7mSEs4jvhQ) | [Mpulira Bibyo](https://open.spotify.com/album/4xxfpwf5KiCnLCAftwARKU) | 2:45 |
+| 5 | [Nalonda Nemala](https://open.spotify.com/track/1MgMK2l4zjRKl56tvdqXih) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Nalonda Nemala](https://open.spotify.com/album/5I9F9BPPANye5vrYjahOIG) | 3:02 |
 | 6 | [Boom Party](https://open.spotify.com/track/71qpPBgoPTecBX5Shqnv0F) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv) | [Boom Party](https://open.spotify.com/album/2raBDiITs682lZEHzVaPiP) | 3:25 |
 | 7 | [Basheshe](https://open.spotify.com/track/494DKelh71AKorLmulm5C7) | [Zagazillions](https://open.spotify.com/artist/3JDY9JvgYHKbL8oSxjyLn6), [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Basheshe](https://open.spotify.com/album/56rn1q7WdgSdLnxOQw21to) | 2:19 |
 | 8 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 37 | [Best Friend](https://open.spotify.com/track/1Xx1ANa143J6W82ocYwq4b) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [King Saha](https://open.spotify.com/artist/2q1gW9fMZWElkfCOWbBqE3) | [Kokonya](https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS) | 3:49 |
 | 38 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
 | 39 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
-| 40 | [Dancehall](https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Semyekozo](https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs) | 4:40 |
-| 41 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
+| 40 | [Sunset](https://open.spotify.com/track/2n3MwWYG4pOOBUkD6ztgQM) | [Cindy Sanyu](https://open.spotify.com/artist/18t4XuHqIzZRypjviaepTs) | [Kisses at Midnight](https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM) | 3:16 |
+| 41 | [Dancehall](https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Semyekozo](https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs) | 4:40 |
 | 42 | [Bailando](https://open.spotify.com/track/0c3TjkmUKWDDi5WHM2qmPy) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Sama Sojah](https://open.spotify.com/artist/6Cu8b2RnzlfjEWxuKrg9Bk) | [Bailando](https://open.spotify.com/album/5uovEJCYYLl53i8Wryc1e9) | 3:04 |
 | 43 | [Kiriza \- Remix](https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Kiriza \(Remix\)](https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd) | 2:42 |
 | 44 | [Cyaa Sidung](https://open.spotify.com/track/0gWxlOlMh7FuWgczwM9kZG) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Cyaa Sidung](https://open.spotify.com/album/5UBTZbCjSZLOA7LsqyDnYa) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 49 | [Wi Di Best \(feat\. Bebe Cool & Sumi Crazy\)](https://open.spotify.com/track/6oZMoPM3UFaUozKIiRNjVK) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [Sumi Crazy](https://open.spotify.com/artist/0RD6wSCv8A4zf8hblm8fvB) | [Nothing to Something](https://open.spotify.com/album/1VG1MkMJs5v7o3phdQ5vtv) | 3:38 |
 | 50 | [Randomly](https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Randomly](https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e) | 2:43 |
 
-Snapshot ID: `MTY2NTA5MDAwMCwwMDAwMDAwMDZhMjUxYjJlYWFiN2I2YjZlZWY0NzM5ZGFkOGMxYWQ4`
+Snapshot ID: `MTY2NTA5MDAwMCwwMDAwMDAwMDcxNTFlMDY2NWE5OTc1YjYyYTk2MzY0YWY0ODYwZTk1`

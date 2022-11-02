@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Nelccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,876 likes - 126 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,000 likes - 126 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

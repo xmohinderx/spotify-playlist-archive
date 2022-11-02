@@ -702,6 +702,28 @@
     },
     {
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 0",
+        "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154900,
+      "name": "Be my",
+      "url": "https://open.spotify.com/track/2KVjYR3u7p5MYXSX2BYxmq"
+    },
+    {
+      "album": {
         "name": "Drawing",
         "url": "https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF"
       },
@@ -1149,7 +1171,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201320,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7xgHy510SVkSgV1ZpzElW1"
@@ -1535,6 +1557,24 @@
       "duration_ms": 237175,
       "name": "CHAMELEON (Feat. SUMIN, Dbo) (Prod. SUMIN)",
       "url": "https://open.spotify.com/track/7CP1u7vb5Yyj9qz2e6Ulnk"
+    },
+    {
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Cheetos",
+      "url": "https://open.spotify.com/track/2LbNAKighVWykuwfVHaAqe"
     },
     {
       "album": {
@@ -1985,7 +2025,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 229213,
       "name": "D.I.M.E (Feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/6UmSylnabtV1qfbSzdDGUh"
@@ -8633,7 +8673,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 240760,
       "name": "Salad Days (feat. sokodomo, pH-1 & BE'O)",
       "url": "https://open.spotify.com/track/2MrBAJUseysxVN63HrPZL3"
@@ -9625,7 +9665,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"

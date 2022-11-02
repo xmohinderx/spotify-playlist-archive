@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,729 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,737 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 31 | [Thinkin About](https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Thinkin About](https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs) | 2:39 |
 | 32 | [Call Me \(feat\. Maverick Sabre\)](https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:29 |
 | 33 | [Remember](https://open.spotify.com/track/3XejA5R4AptKcmGPXnwAhD) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Remember](https://open.spotify.com/album/09pPQEIYPuyy350ccJBU4L) | 3:35 |
-| 34 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 |
-| 35 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
+| 34 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 |
+| 35 | [Sundown](https://open.spotify.com/track/6sdvLVBHnuNjne2DS2IrJ9) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Sundown](https://open.spotify.com/album/5XRi4gmPsCAb6rF6HwfSUf) | 4:28 |
 | 36 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 |
 | 37 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |
 | 38 | [Nobody To Love](https://open.spotify.com/track/5dzHlLBWdxdQySpvZLHcu9) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/0mRK0BA8DrCUfhFF9Oua5J) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 74 | [Open Page](https://open.spotify.com/track/0iqT5BeQEHBds5RSsJDMJL) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF), [Riya](https://open.spotify.com/artist/5XPW5vMGMW4tA1Z3qosShb) | [Open Page](https://open.spotify.com/album/6fmfcUWI0g4HqXrqdNlfzq) | 5:44 |
 | 75 | [Find Your Way](https://open.spotify.com/track/0HbW183P72KHki0wJsv99I) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Find Your Way](https://open.spotify.com/album/4wDEWSRuqO6k4RgOolYy2h) | 5:28 |
 
-Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMGQxYTkzODk0YWQ4ZTAzNWRjOGY3ZGViMWE2Y2M5ODZj`
+Snapshot ID: `MTY1OTY5MDM0NywwMDAwMDAwMGFmYjViYTczOTZiZDhjMGI1Njg3NTgzMWVhYjY0ZGE3`

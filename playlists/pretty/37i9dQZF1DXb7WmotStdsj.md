@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,003 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,144 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 8 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 |
 | 9 | [Denia keratni \- Va bene](https://open.spotify.com/track/4QpthEgd5SYqlYGPLoCPgU) | [Reda Taliani](https://open.spotify.com/artist/2VTYaHMlKvQxlVW3k07NVt) | [Denia Keratni](https://open.spotify.com/album/6LEiREHxVTyoMGiDWWogu0) | 6:39 |
 | 10 | [Aachk El Memnou3](https://open.spotify.com/track/5eqd75kv4vAPQdvZ7RJTJb) | [Cheb Akil](https://open.spotify.com/artist/5zhdzKcrjPbWWcFIwfhSqw) | [Raï RnB 2013](https://open.spotify.com/album/1L08FkHFD7tIsXVxy0kF7u) | 4:04 |
-| 11 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
+| 11 | [Allo Gatli Nsani](https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Allo Gatli Nsani](https://open.spotify.com/album/1USeU5Fjj3Z5NPIVyOukQS) | 5:33 |
 | 12 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 |
 | 13 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 |
 | 14 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 49 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 50 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY2NzE2MTA1NSwwMDAwMDAwMDgyMGM5MjBkYjJiZDY5MmM4M2M4ZjdmODA5ZGE1NzIw`
+Snapshot ID: `MTY2NzE2MTA1NSwwMDAwMDAwMGU5ZWFmNDkzZWMzNTJlOGRhYThlZDAxNWViYTc5YjA3`

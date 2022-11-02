@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Rihanna, SZA, Juice WRLD, Fred again.., and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,979,882 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,980,206 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 75 | [Monsieur Dior](https://open.spotify.com/track/47993TulzIDIq2Bgs5JqOz) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Monsieur Dior](https://open.spotify.com/album/2NZnmicnIq9lnVtMhyc1bP) | 2:26 |
 | 76 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
 | 77 | [Falling from the Sky](https://open.spotify.com/track/58vqgltwYoOCSPIyqNiBaU) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [Girl Next Door](https://open.spotify.com/album/4fXvwuGNst1OzuwVdoK80D) | 2:44 |
-| 78 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
+| 78 | [The Sign](https://open.spotify.com/track/0hjRzBuGh9qGGzcbW7xK12) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [The Sign](https://open.spotify.com/album/1ayB1Y1h0ZNW9MECEA7QSb) | 3:33 |
 | 79 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
 | 80 | [Come Back](https://open.spotify.com/track/32KWgcLBOlSnA4wKOkO3gS) | [Keni](https://open.spotify.com/artist/4sAlHma1cIiZvdcFwjrNYz) | [Come Back](https://open.spotify.com/album/1bOpu44KswHp5tJQQUAjgB) | 2:46 |
 | 81 | [Chameleons](https://open.spotify.com/track/2AD9ksH0C7hJrSXZMllbgh) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX), [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Goldwash](https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21) | [Chameleons](https://open.spotify.com/album/4bZLJJlvkGpCV0n8xU2duC) | 3:15 |

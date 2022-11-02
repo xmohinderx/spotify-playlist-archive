@@ -450,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/0Ctk3m6ZOyCv0Gx4zRE1aG"
       },
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 247459,
       "name": "Deux fr\u00e8res",
       "url": "https://open.spotify.com/track/7xy0ELfUz8xEon8B4K55Vb"
@@ -4125,6 +4143,24 @@
       "duration_ms": 174814,
       "name": "Life Sux",
       "url": "https://open.spotify.com/track/7GZ9fGAJn84kNEhNVSSQuU"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "album": {
@@ -7787,7 +7823,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 148220,
       "name": "Warum du schreibst",
       "url": "https://open.spotify.com/track/4IjsNbQYk6aIjvBKiLOEPH"
@@ -7943,7 +7979,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 238400,
       "name": "We Are The People - Southstar Remix",
       "url": "https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ"
@@ -8473,6 +8509,28 @@
       "duration_ms": 177026,
       "name": "Zuhause",
       "url": "https://open.spotify.com/track/0jPrdybe6ZbQXHzSVfILxy"
+    },
+    {
+      "album": {
+        "name": "Zukunft Pink (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/0oCAC1DmJcWxPjs55uJl6D"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230829,
+      "name": "Zukunft Pink (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/4YxZQd3I4rj1nqkXgvpCk4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTBz12MDeCuX"

@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Ab-Soul",
-  "num_followers": 635860,
+  "num_followers": 635951,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGIwNWY5YWNhYWUwNTJmNTRlYzVhMThmNmIxNjE1MmM1",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDU3Y2FkNjMwNzkyOGU3Njg4YTI2NjgyOTJhMDdkNzhj",
   "tracks": [
     {
       "added_at": "2022-10-28 04:00:00",
@@ -383,22 +383,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "GOD DID",
-        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+        "name": "247",
+        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
         }
       ],
-      "duration_ms": 172499,
-      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
-      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
+      "duration_ms": 163733,
+      "name": "247",
+      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -419,18 +415,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "247",
-        "url": "https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z"
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
         }
       ],
-      "duration_ms": 163733,
-      "name": "247",
-      "url": "https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H"
+      "duration_ms": 172499,
+      "name": "JADAKISS INTERLUDE (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/39zh5ufK1qVSOh6fJk4hNl"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
         "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 177030,
       "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
       "url": "https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -555,18 +555,26 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "A Quarter Til",
-        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
       },
       "artists": [
         {
-          "name": "A$AP Twelvyy",
-          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        },
+        {
+          "name": "FARR",
+          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Jus Lef Phoenix",
-      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
+      "duration_ms": 223641,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -591,26 +599,18 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/36R9HGczu4CoWRnNrPpzKV"
+        "name": "A Quarter Til",
+        "url": "https://open.spotify.com/album/1pH42Rw6Ug6qxBwWFc00Z8"
       },
       "artists": [
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        },
-        {
-          "name": "FARR",
-          "url": "https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq"
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
         }
       ],
-      "duration_ms": 223641,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D"
+      "duration_ms": 92000,
+      "name": "Jus Lef Phoenix",
+      "url": "https://open.spotify.com/track/67ildkjzEsv38VbiUoCVnc"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
-        "name": "29 (Freestyle)",
-        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 142282,
-      "name": "29 (Freestyle)",
-      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
         "name": "moMINTs",
         "url": "https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "29 (Freestyle)",
+        "url": "https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 142282,
+      "name": "29 (Freestyle)",
+      "url": "https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Mannequin",
         "url": "https://open.spotify.com/album/2p6jl1M9uh40sIv1KA5aKW"
       },
@@ -703,6 +703,34 @@
       "duration_ms": 234664,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/6rCj7kub7xxSvkdKBFyQ4W"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Estee Nack",
+          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Keisha Plum",
+          "url": "https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck"
+        }
+      ],
+      "duration_ms": 321214,
+      "name": "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
+      "url": "https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -815,34 +843,6 @@
       "duration_ms": 178677,
       "name": "Hollandaise",
       "url": "https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Estee Nack",
-          "url": "https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        },
-        {
-          "name": "Keisha Plum",
-          "url": "https://open.spotify.com/artist/4J55gzoHd6d6Wymxoz7qck"
-        }
-      ],
-      "duration_ms": 321214,
-      "name": "God Is Love (feat. Estee Nack, Stove God Cooks & Keisha Plum)",
-      "url": "https://open.spotify.com/track/1YB6cwZZEQzH0mpuPpPP9h"
     },
     {
       "added_at": "2022-10-28 04:00:00",

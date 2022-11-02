@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0DqR5aQYPz1s2M3YbycLMJ">jamesjamesjames' </a> favourite tracks\.  Updated regularly\. Curated by jamesjamesjames\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-63 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
+64 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/46XZ4IMGhni4OH0JCWukmO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Puppy](https://open.spotify.com/track/6h7WnYtD8BTlRwCqrfFxly) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Puppy](https://open.spotify.com/album/1aSB8LZ9XAzTkAHOWG60yn) | 4:08 | 2022-03-31 |  |
 | [Quantum Stealth](https://open.spotify.com/track/4GzdUe7khLDV3vct1UnTBE) | [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [Neptune](https://open.spotify.com/album/7FcOUT8CZy3r7nc4IDm1is) | 2:54 | 2022-03-31 |  |
 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 | 2022-03-31 |  |
-| [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/3MJmnfqoLQ29DkcOi8v5lL) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/1sEBFzld6aMExAsErmLQ0N) | 4:01 | 2022-03-31 |  |
+| [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/3MJmnfqoLQ29DkcOi8v5lL) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/1sEBFzld6aMExAsErmLQ0N) | 4:01 | 2022-03-31 | 2022-11-02 |
+| [Rainbow \- make it double Oklou Mix](https://open.spotify.com/track/4kE5gZGXZ6kWmsrD8N2n8u) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Good Luck \(Deluxe\)](https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM) | 4:01 | 2022-03-31 |  |
 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 | 2022-03-31 |  |
 | [Sfire 7](https://open.spotify.com/track/57raKVKlm6ofEoCCJJvTsY) | [Sfire](https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE) | [Sfire 6/7](https://open.spotify.com/album/7FZS02CQATRKUtZbRCitrY) | 2:29 | 2022-03-31 |  |
 | [Shining Star](https://open.spotify.com/track/7irDybhGY1HtUM7iL2QzFq) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [Eternity](https://open.spotify.com/album/10NLvLAsQvYjHb9n8299xy) | 5:22 | 2022-03-31 |  |

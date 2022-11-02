@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. angelus
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,182 likes - 113 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,304 likes - 113 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 83 | [Bury It \- Alice Longyu Gao Remix](https://open.spotify.com/track/6KIP5nzxAA5zWzFQCGQwns) | [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Bury It \(Alice Longyu Gao Remix\)](https://open.spotify.com/album/180xOHbxZqHlCOVl0IBQRX) | 2:10 |
 | 84 | [Hell Hounds](https://open.spotify.com/track/0cAYxatX3fzSGpLmATQ0jz) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny \(Deluxe\)](https://open.spotify.com/album/0J0Ns0AG3qUqodD8zYRSzS) | 2:01 |
 | 85 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
-| 86 | [Horse Girl](https://open.spotify.com/track/0Pimw3RrTWSrI26BLJd0GA) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/3rkPyVBtMAuwIiRbnv1kYE) | 3:06 |
+| 86 | [Horse Girl](https://open.spotify.com/track/1EqDSe1As5tdf5plS0yl7a) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Horse Girl](https://open.spotify.com/album/4MHDJJydXzMbuJkMaLP5Ic) | 3:06 |
 | 87 | [victim](https://open.spotify.com/track/6Ni5XFp1ZQyfGBtkFAG2uF) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 2:55 |
 | 88 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
 | 89 | [do or die \(feat\. carolesdaughter\)](https://open.spotify.com/track/5Xzkhj06J4UpzUPBKD9uwU) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [good grief](https://open.spotify.com/album/5WcXLH8cIFdKcYOU6eIZBj) | 2:51 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 112 | [Petroleum](https://open.spotify.com/track/3YRP6HZc1wRJiK30LYNekC) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:18 |
 | 113 | [SHELL](https://open.spotify.com/track/3tYkvqIjHFS8O56DrWGYvO) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [SHELL](https://open.spotify.com/album/7tZkP62cFpLp5VPPJSYTOV) | 2:31 |
 
-Snapshot ID: `MTY2NjkyOTkwMCwwMDAwMDAwMGE2NTM5OWMyYjBjZDdlZGRkNDZmN2VkODZhNDBkYzBh`
+Snapshot ID: `MTY2NjkyOTkwMCwwMDAwMDAwMDJmYjU5ZWRkZjk5MTcyN2UxOWZlM2M4OWI5MTk5Yjhi`

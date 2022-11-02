@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > The pulse of new indie rock\. Featuring new music by The Backseat Lovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,850 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,004 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 47 | [De Facto](https://open.spotify.com/track/0IqDJs8WRXwAR5TlaAdFA8) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [De Facto](https://open.spotify.com/album/53mFa0T7xdQAQ6z8gkWeWl) | 4:21 |
 | 48 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 |
 | 49 | [tough love](https://open.spotify.com/track/2wFmtAhnsyiGkvqV229rfJ) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [tough love](https://open.spotify.com/album/2RpKR1VeJvE8ELL0OdTmbz) | 3:12 |
-| 50 | [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 |
+| 50 | [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 |
 | 51 | [Words and Guitar](https://open.spotify.com/track/0Bcpp4FkZWscayqYaGVRxW) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Words and Guitar](https://open.spotify.com/album/65xHh3Xt6eB7NhIFeEHwLA) | 2:23 |
 | 52 | [All Day I Dream About](https://open.spotify.com/track/3RdDhtBteHxiehIooekE8Z) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [French Blonde](https://open.spotify.com/album/2Kdza8BsRX3vGaZiveNp9Z) | 3:20 |
 | 53 | [DONNIE DARKO](https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [DONNIE DARKO](https://open.spotify.com/album/34NmkOQ5HylEjb8wSPoNXv) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Home](https://open.spotify.com/track/3tYH04NBLuzodhjHpsBjoh) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Half Life](https://open.spotify.com/album/6JnANSlFJBXjpwilA6KLYU) | 3:51 |
 | 100 | [Singapore](https://open.spotify.com/track/6KYHEjY1Q6PskPAjQlzw6z) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [SIDE B](https://open.spotify.com/album/0e7O2OWagUpoL2JXFkKGQj) | 2:52 |
 
-Snapshot ID: `MTY2NjkyOTkwMCwwMDAwMDAwMDFlZjAwOTkxMTRhMThkYTRiYTYyZDMxYjFlZWIyZGU4`
+Snapshot ID: `MTY2NjkyOTkwMCwwMDAwMDAwMDM5N2YwNGRlNTQxOGJjN2M3YThjMTMwZTVkMDQyYmE4`

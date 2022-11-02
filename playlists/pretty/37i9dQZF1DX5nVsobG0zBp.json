@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 33321,
+  "num_followers": 33362,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMGRhMGI1ZDk4YzRkZjkxZWE1NTNiN2U4OTUzY2U2YWE3",
+  "snapshot_id": "MTY2NjkxMTYwMCwwMDAwMDAwMDhhM2Q2Mjc4YTM5MDJhY2Y0NzIyYmVmZGFmMjFhOTQy",
   "tracks": [
     {
       "added_at": "2022-10-27 23:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-27 23:00:00",
       "album": {
+        "name": "Primeira Vez",
+        "url": "https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE"
+      },
+      "artists": [
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        }
+      ],
+      "duration_ms": 155456,
+      "name": "Primeira Vez",
+      "url": "https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz"
+    },
+    {
+      "added_at": "2022-10-27 23:00:00",
+      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
-    },
-    {
-      "added_at": "2022-10-27 23:00:00",
-      "album": {
-        "name": "Primeira Vez",
-        "url": "https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE"
-      },
-      "artists": [
-        {
-          "name": "Wayn Dior",
-          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
-        }
-      ],
-      "duration_ms": 155456,
-      "name": "Primeira Vez",
-      "url": "https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz"
     },
     {
       "added_at": "2022-10-27 23:00:00",

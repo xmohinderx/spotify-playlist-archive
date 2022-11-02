@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,400 songs - 3 day 1 hr 44 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,401 songs - 3 day 1 hr 47 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [BULLYING BOYS](https://open.spotify.com/track/7GGrpWD9evnHjnk2oCeRZk) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [BULLYING BOYS](https://open.spotify.com/album/0pu1qrkfI32iz5MrVaxV4n) | 3:45 | 2020-10-20 | 2021-05-27 |
 | [Bummerland](https://open.spotify.com/track/3QCMUnmMaqokrfNZes4D6S) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bummerland](https://open.spotify.com/album/5XIgmuIwLIkDr5mO4tEFpP) | 3:09 | 2020-10-13\* | 2021-05-24 |
 | [Burn Down](https://open.spotify.com/track/2Byhhe2CFnDvJ4UimmPEPG) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Burn Down](https://open.spotify.com/album/6zX8fbwuC9a3XWh4pL1dJ0) | 2:35 | 2021-11-12 | 2022-06-30 |
-| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 |  |
+| [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-11-02 |
 | [Busy](https://open.spotify.com/track/1ZOvGngH4YojNtbhtzJCZs) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Busy](https://open.spotify.com/album/3bvUadr6ldYuCapGdpOjC9) | 2:23 | 2020-11-20 | 2021-01-15 |
 | [Busy Boy](https://open.spotify.com/track/3YvF7itMxKrlezMRKpkfdD) | [Mark Johns](https://open.spotify.com/artist/6zMEGo7y1noMoUEcQfIRCT) | [Busy Boy](https://open.spotify.com/album/3z9eUWFyWVUsrvHZ6GphpI) | 2:28 | 2021-02-23 | 2021-03-06 |
 | [but i love you](https://open.spotify.com/track/43W2o7HEEYpj56vrkV7SpY) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [but i love you](https://open.spotify.com/album/0oTvl2dWcSOaToatvwkmQi) | 2:39 | 2021-02-23 | 2021-05-27 |
@@ -469,8 +469,9 @@
 | [Fuck June](https://open.spotify.com/track/6zIjeRxHPybvw7ZjWsEa8i) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Fuck June](https://open.spotify.com/album/2HXUqQUzY12VNpdlEmyLvK) | 2:58 | 2021-06-11 | 2022-04-12 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-07 | 2022-04-20 |
 | [Fuck What People Say](https://open.spotify.com/track/374oRsbKs0t6GWDKJorPt6) | [X Lovers](https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38) | [Fuck What People Say](https://open.spotify.com/album/4VUAWpsRiLFjrFXU6SzzQT) | 2:46 | 2020-10-20 | 2021-10-12 |
-| [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-15 |  |
-| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 | 2022-10-31 |
+| [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-15 | 2022-11-02 |
+| [Fucking Married](https://open.spotify.com/track/71eUN154oDoZ2OSvS4GaL7) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/1NnJE26FXazMsybH0RuyK4) | 3:13 | 2022-10-28 |  |
+| [fun out of it](https://open.spotify.com/track/1e6JmZg46vKcwhtM8hXbnK) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:51 | 2022-08-19 |  |
 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 | 2021-02-22 | 2021-05-26 |
 | [Furniture](https://open.spotify.com/track/5hwCVRrBvFOkH3oK0LB7Fc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/62JRLwlRIdkFkFs22DnE51) | 2:36 | 2020-10-20 | 2021-02-01 |
 | [Furniture](https://open.spotify.com/track/6Yw8OzTprQU3pqwnBRodi3) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Furniture](https://open.spotify.com/album/4ESA2feUF3VJ5tWpFmbgwB) | 2:36 | 2021-01-23 | 2022-06-15 |

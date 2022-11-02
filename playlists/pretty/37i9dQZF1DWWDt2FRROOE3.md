@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 
 > ¡Los éxitos del pop y el rock interpretados con mariachi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,780 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,812 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cancion Del Mariachi](https://open.spotify.com/track/7MFsLdEb5V395J9Zsy9xls) | [Antonio Banderas/los Lobos](https://open.spotify.com/artist/0H3JH7wDy4Lh69D2EcZbLn) | [Mexico and Mariachis](https://open.spotify.com/album/6pAX4F1ruCFfldfRen3sju) | 2:07 |
 | 2 | [La Cucaracha](https://open.spotify.com/track/3rgPxzkWK65kjWtP8pkRGL) | [The Mariachis](https://open.spotify.com/artist/65Xpewey6CgYSNGZuGinLb) | [Mexican Fiesta](https://open.spotify.com/album/4ew6gZSo0k4PBTRYyydx3G) | 2:45 |
 | 3 | [Bohemian Rhapsody \- Instrumental](https://open.spotify.com/track/1ikHG5XBAjPWxCYlMjkTcN) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos De Los Chicos De London \(Instrumental\)](https://open.spotify.com/album/4nG0gIba7QL4zbpkBpQl21) | 5:48 |
-| 4 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 |
-| 5 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 |
+| 4 | [Eye of the Tiger](https://open.spotify.com/track/0q9BEc2ph335v37QaqHSNq) | [Niu Mariachi](https://open.spotify.com/artist/2QdpT0wz37idrm6ZtJFdsb) | [Niü Mariachi Rock\-Pop](https://open.spotify.com/album/3owdH9NKzDarGPjeJcUVzD) | 4:12 |
+| 5 | [Vega \[Street Fighter II\]](https://open.spotify.com/track/2UEnNkf7ZHIY57yC1eOPOV) | [Mariachi Entertainment System](https://open.spotify.com/artist/6Fo4ZNILtdNHxC61x0Q8IX), [The OneUps](https://open.spotify.com/artist/4kvAB828lg5b3M8aelIAQp) | [Vega \[Street Fighter II\]](https://open.spotify.com/album/0nh7ZeiZYsW1JHIAmiwuTv) | 2:39 |
 | 6 | [Crazy Train](https://open.spotify.com/track/4GIhMr21KbdGGBlN9VBj1Y) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Uno](https://open.spotify.com/album/3mCK5Vz0CRwcc4GglR3Q5v) | 4:32 |
 | 7 | [Viva La Vida](https://open.spotify.com/track/4hI8sKg524kUczaWwFYp9r) | [Mariachi Rock\-O](https://open.spotify.com/artist/0Op3oPwgkCDb3JfAKLPw98) | [Sonidos De Jalisco, Vol\. 2](https://open.spotify.com/album/3eQWfypo2bF6tjo5oq8b9c) | 4:06 |
 | 8 | [California Dreamin'](https://open.spotify.com/track/6EYpYR8PT5jq4y8L6qkbYj) | [Mariachi Los Soñadores](https://open.spotify.com/artist/1N0WkGJo1trgGY1x1hMPJk) | [California Dreamin'](https://open.spotify.com/album/2pBIPtKailH8feE3DLoJVr) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDt2FRROOE3.md) - [plain]
 | 49 | [Here I Go Again](https://open.spotify.com/track/23ixxCukfTpxV0yqy0SyK7) | [Metalachi](https://open.spotify.com/artist/3m8XkZz5AmCii0rrte2IM6) | [Dos](https://open.spotify.com/album/5UCb0AMpst48IRQsKtierb) | 4:25 |
 | 50 | [Octopus's Garden](https://open.spotify.com/track/73I3tHlaStjv20avY2n1aw) | [Los Mariachis](https://open.spotify.com/artist/2YwopcCMqCYbtZmxVXTcNk) | [Exitos Instrumentales](https://open.spotify.com/album/5Jrvf6K3Q6Yfh8RstOvZMg) | 2:54 |
 
-Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMDVlYmRhMDkzNmYxMzFmMmY2NGEzOTIwZTQwZmMwYjU1`
+Snapshot ID: `MTY0MjE3ODg0OSwwMDAwMDAwMGExZmY2ZGYzYTg1NzJiNzA3ZTgwM2MzM2YzZjEwNDFm`

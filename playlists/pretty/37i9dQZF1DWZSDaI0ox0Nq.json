@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 14190,
+  "num_followers": 14196,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMGQwZDdiYzQ4ZmYyMmNjZWFiNTI3OTc1MzA1OGQxMjQ3",
+  "snapshot_id": "MTY1NzI0OTIwMCwwMDAwMDAwMDIwZDE4NDc2OGI3OWNmN2Q2ZGM4YzA2NzJmZTY2MWZi",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+        "name": "Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Nina Miranda",
+          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
+        },
+        {
+          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
+          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+      "duration_ms": 148293,
+      "name": "Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -315,22 +319,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0JlDk5W6I54VCV4uHT82VO"
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
       },
       "artists": [
         {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        },
-        {
-          "name": "Donato Racciatti y Su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/7yxrBMKCOe3Br5RZjsMu1t"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 148293,
-      "name": "Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1zhWF3sY4s7h9oxXbPODIP"
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
-      },
-      "artists": [
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Presentando a Mercedes Simone",
         "url": "https://open.spotify.com/album/6HNgJ8dZflujytFtS4TUm3"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 158840,
       "name": "Milonga Sentimental",
       "url": "https://open.spotify.com/track/1uJeHbIPeOKGfEEJujJkP7"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
+      },
+      "artists": [
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 286093,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Con las Alas del Alma",
-        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
-      },
-      "artists": [
-        {
-          "name": "Eladia Blazquez",
-          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "Siempre Se Vuelve a Bs. As.",
-      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/3Bejr5wnkAxczzVqZKYfSc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 245733,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/17iPZmaID95A2XxcTDBXoh"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Un sue\u00f1o de barrio",
+        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
+      },
+      "artists": [
+        {
+          "name": "Mirta Uguet",
+          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
+        }
+      ],
+      "duration_ms": 208384,
+      "name": "Confidencias",
+      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Un sue\u00f1o de barrio",
-        "url": "https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz"
-      },
-      "artists": [
-        {
-          "name": "Mirta Uguet",
-          "url": "https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O"
-        }
-      ],
-      "duration_ms": 208384,
-      "name": "Confidencias",
-      "url": "https://open.spotify.com/track/53573za1S0cPRlR9TudWro"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 231373,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Con las Alas del Alma",
+        "url": "https://open.spotify.com/album/1IJDQDltstBfcrxE7IoJii"
+      },
+      "artists": [
+        {
+          "name": "Eladia Blazquez",
+          "url": "https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "Siempre Se Vuelve a Bs. As.",
+      "url": "https://open.spotify.com/track/3xjANYsJ2nMZBLr7T6lDcZ"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Patio De Tango",
         "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 270791,
       "name": "Trenzas",
       "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
         "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
         "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
@@ -895,26 +915,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
@@ -943,8 +943,8 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tiempo Mariposa",
-        "url": "https://open.spotify.com/album/4mwdsJlML3Qi566J5t21Ef"
+        "name": "Vientos del Sur",
+        "url": "https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
         }
       ],
-      "duration_ms": 249481,
-      "name": "O Mundo",
-      "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
+      "duration_ms": 198437,
+      "name": "Siempre Se Vuelve a Buenos Aires",
+      "url": "https://open.spotify.com/track/1J0yQfmer8N1GHQaZvZoDE"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Maldito",
-        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
         }
       ],
-      "duration_ms": 204889,
-      "name": "Coraz\u00f3n Maldito",
-      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     }
   ],
   "unique_name": "Mujeres del Tango",

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Silvana Estrada
 
-759 songs - 1 day 17 hr 45 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+760 songs - 1 day 17 hr 48 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,7 +634,8 @@
 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 | 2022-10-04 |  |
 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 | 2022-08-03 | 2022-09-09 |
 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 | 2022-06-01 | 2022-07-07 |
-| [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 | 2022-10-04 |  |
+| [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 | 2022-10-04 | 2022-11-02 |
+| [Tudu Tudu Tu](https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tudu Tudu Tu](https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt) | 2:40 | 2022-10-11 |  |
 | [Tumse Pyaar Karke](https://open.spotify.com/track/4Iyx3XvZwM0hYsLmeyjva3) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Tumse Pyaar Karke](https://open.spotify.com/album/1cUI7KGXYLNjTBvzjdDr59) | 3:54 | 2022-02-02 | 2022-03-09 |
 | [Two Years](https://open.spotify.com/track/6a2z6P7iSN9CTnR3NYyCKV) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [Two Years](https://open.spotify.com/album/4UckwDR1GDGS6DN1YsTqql) | 2:48 | 2022-06-01 | 2022-07-07 |
 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 | 2022-08-03 | 2022-09-09 |

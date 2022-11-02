@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 8246,
+  "num_followers": 8266,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMGI1ZDM4YjI2MTg5MzEzZTI0YjUyZDgxNmNkMDk1N2Ez",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDBhMTE4MWZkZGVhZWMxYTgwODZiNTA0MjEwYmU1ODJj",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 163133,
-      "name": "I Can't Hardly Stand It",
-      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -187,8 +187,8 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Psychedelic Jungle",
-        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 186038,
-      "name": "Goo Goo Muck",
-      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+      "duration_ms": 163133,
+      "name": "I Can't Hardly Stand It",
+      "url": "https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Crystal Gazing Luck Amazing",
-        "url": "https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP"
-      },
-      "artists": [
-        {
-          "name": "Compulsive Gamblers",
-          "url": "https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY"
-        }
-      ],
-      "duration_ms": 250146,
-      "name": "Rock & Roll Nurse",
-      "url": "https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Horndog Fest",
         "url": "https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 183533,
       "name": "I Can't Stop Thinking About It",
       "url": "https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Crystal Gazing Luck Amazing",
+        "url": "https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP"
+      },
+      "artists": [
+        {
+          "name": "Compulsive Gamblers",
+          "url": "https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY"
+        }
+      ],
+      "duration_ms": 250146,
+      "name": "Rock & Roll Nurse",
+      "url": "https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
+        "name": "Ultraglide In Black",
+        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
+      },
+      "artists": [
+        {
+          "name": "The Dirtbombs",
+          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
         "name": "Nothing Can Stop These Men",
         "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ultraglide In Black",
-        "url": "https://open.spotify.com/album/5dUbfMC2mz6nB9mIZlTV4z"
-      },
-      "artists": [
-        {
-          "name": "The Dirtbombs",
-          "url": "https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/2iQiWJRPlCV0nC9AgenOkU"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "You, The Night\u2026 and The Music",
         "url": "https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Whatcha Doin'",
-        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
-      },
-      "artists": [
-        {
-          "name": "The Go",
-          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Summer Sun Blues",
-      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The Kids Are All Square - This Is Hip & Girlsville",
         "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 145400,
       "name": "Round Every Corner",
       "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
+      },
+      "artists": [
+        {
+          "name": "The Go",
+          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Summer Sun Blues",
+      "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Thee Caesars of Trash",
-        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
+        "name": "Broad Appeal",
+        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
       },
       "artists": [
         {
-          "name": "Thee Mighty Caesars",
-          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
+          "name": "The Hentchmen",
+          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
         }
       ],
-      "duration_ms": 161426,
-      "name": "Oh Yeah",
-      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
+      "duration_ms": 130000,
+      "name": "Michigan Blues",
+      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Broad Appeal",
-        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
+        "name": "Thee Caesars of Trash",
+        "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
       },
       "artists": [
         {
-          "name": "The Hentchmen",
-          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
+          "name": "Thee Mighty Caesars",
+          "url": "https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Michigan Blues",
-      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
+      "duration_ms": 161426,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
     },
     {
       "added_at": "2022-03-28 20:14:58",

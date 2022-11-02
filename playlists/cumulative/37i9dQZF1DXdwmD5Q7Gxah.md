@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. cover: chappell roan
 
-1,914 songs - 4 day 6 hr 24 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
+1,916 songs - 4 day 6 hr 32 min - [published](https://open.spotify.com/playlist/2xUOX5SyncubeZSn9gFeBN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,8 @@
 | [BS](https://open.spotify.com/track/1qxZswAdBvM0JMUoV83J1b) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [BS](https://open.spotify.com/album/1mmtCAKto81kdJtokCAfc6) | 2:13 | 2020-09-12 | 2021-04-02 |
 | [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 | 2019-10-25 | 2021-01-12 |
 | [Bubble](https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [Bubble](https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN) | 2:37 | 2020-06-13 | 2020-12-04 |
-| [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-28 |  |
+| [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-28 | 2022-11-02 |
+| [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2022-09-28 |  |
 | [Built This Way \- \(Slow Remix\)](https://open.spotify.com/track/4BtaPciwVOkH7eFC59i27G) | [Samantha Ronson](https://open.spotify.com/artist/439RqyQhzmvM2TG7hn4KVs) | [Mean Girls \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VMeOsRr2wyELrgfz2rkHp) | 4:16 | 2022-05-02 | 2022-06-10 |
 | [Built To Spill](https://open.spotify.com/track/4waleULtpyAttZiusnOuKG) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Built To Spill](https://open.spotify.com/album/6TLLO4Oh4ndwKlnkXNoCUV) | 3:44 | 2022-04-08 | 2022-04-29 |
 | [BULL$HIT](https://open.spotify.com/track/7lADpzPifJz9k2XcX8r9P7) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BULL$HIT](https://open.spotify.com/album/2bEu0wvV7dkvVUAMxLTrPz) | 3:19 | 2020-10-24 | 2020-11-27 |
@@ -1488,7 +1489,8 @@
 | [Skywalker](https://open.spotify.com/track/21TLD85Q0waH65GxMnIJft) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Skywalker](https://open.spotify.com/album/5nDWZFeZsRXUTFvjg7jruY) | 4:02 | 2021-03-06 | 2021-06-05 |
 | [Sleeping Through Sunshine](https://open.spotify.com/track/6FQvYKMIg47n3Q5GG1n5Zd) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Host B Sides & Remixes](https://open.spotify.com/album/4paNaQZ8eB1cUU1ZJh14gJ) | 3:16 | 2022-09-09 | 2022-09-24 |
 | [Slow Drive](https://open.spotify.com/track/6PlUZo9MVghD6kv8QIbrnm) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Slow Drive](https://open.spotify.com/album/2djpEfVUTm8AfVhbbIsuEL) | 2:14 | 2021-08-28 | 2022-01-08 |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-11 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-11 | 2022-11-02 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |
 | [Smokescreen](https://open.spotify.com/track/5OiEjwZys4qcCYaBJNFn7I) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2020-04-10 | 2020-05-22 |

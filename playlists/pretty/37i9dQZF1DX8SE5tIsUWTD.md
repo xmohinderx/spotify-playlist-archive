@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,181 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,225 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 30 | [Bisaraha](https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:13 |
 | 31 | [El Bahr Azra](https://open.spotify.com/track/59EeGCSYCV8HjxBkAkC7Pz) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:58 |
 | 32 | [Al Hadaoui](https://open.spotify.com/track/0uw6c2r6AMkVeqCAhXhD3a) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB) | 4:03 |
-| 33 | [Forssa Saeeda](https://open.spotify.com/track/5BoLdMq2K6BV8RpDmfY2Df) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 6:55 |
-| 34 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
+| 33 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
+| 34 | [Forssa Saeeda](https://open.spotify.com/track/5BoLdMq2K6BV8RpDmfY2Df) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 6:55 |
 | 35 | [Taban Ahwak](https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:31 |
 | 36 | [Eujoaideen](https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [The Scorpios](https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4) | 4:39 |
 | 37 | [Gelty](https://open.spotify.com/track/6haHoWRck06kZn4h92sEeL) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Love Words](https://open.spotify.com/album/34rC9hANoR793NEd7MY9OU) | 6:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Mabruk \- aJan Remix](https://open.spotify.com/track/3PHxtuVhigaZtNouOl2aFW) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm), [aJan](https://open.spotify.com/artist/70F0gnTzCFcxOVgbibWTxr) | [Mabruk \(aJan Remix\)](https://open.spotify.com/album/7xv9PpIsK6nwn0N9oRDDcO) | 3:10 |
 | 50 | [Music Laounga 79](https://open.spotify.com/track/11AzUEPBJuCG5F0DvRI7n8) | [Hany Shnoda Ferqet Masr](https://open.spotify.com/artist/1qeimvAZjU4Y8Rvlz31kSV) | [Ashhar Aghany El Masreen](https://open.spotify.com/album/7bqepNvmYdtejNq9Dh9rcw) | 3:33 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDE0MWI4NGQ0MjQ1MThkNzA5OTNlYzhkYWQ4M2Y2ZWZl`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDUwNjU3Y2VhZDFhNTI0ZDQwOGY3NDkxZjFhZDAwNGYw`

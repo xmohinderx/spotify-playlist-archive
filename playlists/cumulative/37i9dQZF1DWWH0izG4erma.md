@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/37i9dQZF1DWWH0izG4erma)
 
-> Country Music that ROCKS!! Cover: Koe Wetzel
+> Country Music that ROCKS!! Cover: Warren Zeiders
 
 198 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 

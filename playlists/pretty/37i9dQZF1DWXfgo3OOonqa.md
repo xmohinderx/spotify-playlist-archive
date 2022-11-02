@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > spooky season 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,853 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,994 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 17 | [DUBBELT](https://open.spotify.com/track/6ucH6MDH2YJSEWsmWn7TPd) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [DUBBELT](https://open.spotify.com/album/1kCuWYeT82ozXFOVsPonRk) | 2:38 |
 | 18 | [100](https://open.spotify.com/track/0n1QYqFJHL1OqG7lB3b8Vd) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [100](https://open.spotify.com/album/1MXCv3dM79ueLAnN0xnVdQ) | 2:15 |
 | 19 | [Vikt](https://open.spotify.com/track/2Jub86Y9MLipu7R2pmdvcW) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Vikt](https://open.spotify.com/album/1C2KUz89AAgHqCf6xqWlHG) | 3:04 |
-| 20 | [Narnia](https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH) | [Narnia](https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0) | 2:17 |
+| 20 | [Narnia](https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Luwapp](https://open.spotify.com/artist/5GzNgix4Ps9dlIYBqnSQGp) | [Narnia](https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0) | 2:17 |
 | 21 | [SÖDERMALM \- Remix](https://open.spotify.com/track/3tVnfy2EiiiEgLgkbQ1weS) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [SÖDERMALM \(Remix\)](https://open.spotify.com/album/3UwYbsJK4kFYtSGENGqK7S) | 2:34 |
 | 22 | [SEVILLA](https://open.spotify.com/track/05tLudzJAr4iHnDiWWdA59) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SEVILLA](https://open.spotify.com/album/3tgk1Bzv0iVukij9boSLnN) | 2:55 |
 | 23 | [Vågorna](https://open.spotify.com/track/4UxcCFStKnPIyhOt70esUA) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Vågorna](https://open.spotify.com/album/0dqa53gaDVWLfbpM9BL6XZ) | 2:48 |

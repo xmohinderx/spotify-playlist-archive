@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-264 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+265 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Hurray](https://open.spotify.com/track/4pa46ELAejI7w1mkeKI4Hu) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu), [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Hurray](https://open.spotify.com/album/1hSEGYKjYidrzq8xXnxgu7) | 3:47 | 2021-12-16 |  |
 | [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2021-12-16 | 2022-01-14 |
 | [I Got Diplomas](https://open.spotify.com/track/5aV3ALw9wpNRdjwxPelUpe) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [I Got Diplomas](https://open.spotify.com/album/4wol6rgjmq9Qr0KBubygGj) | 1:30 | 2022-03-10 | 2022-05-20 |
-| [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 | 2022-02-10 |  |
+| [I See You](https://open.spotify.com/track/4aAJQjtjZQXKFEHIpZEJCj) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:58 | 2022-10-28 |  |
+| [I See You](https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:58 | 2022-02-10 | 2022-11-02 |
 | [I Used to Blame Others](https://open.spotify.com/track/1kA6PCZmtjHXvkXJV7YRZI) | [Gita Buhari](https://open.spotify.com/artist/24BUyCLuFoyt6qsfespK0D) | [I Used to Blame Others](https://open.spotify.com/album/40Vw94C1sS4kMsgY8Yp9h4) | 3:19 | 2022-04-28 | 2022-10-15 |
 | [I'm Trying](https://open.spotify.com/track/62VtlNPhJPlb0nqlL2Tn4L) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp) | [I'm Trying](https://open.spotify.com/album/42CmiJbrEQNYNkIYzKr6ZJ) | 3:08 | 2021-12-16 | 2022-02-11 |
 | [Icarus](https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [ICARUS](https://open.spotify.com/album/6aGniRX6xCiybxgzc6llFD) | 4:58 | 2021-12-16 | 2022-02-25 |

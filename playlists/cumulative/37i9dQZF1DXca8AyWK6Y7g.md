@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: UPSAHL
 
-1,374 songs - 2 day 22 hr 32 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,375 songs - 2 day 22 hr 34 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-26 | 2022-01-08 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-01-14 | 2022-09-03 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2021-09-10 | 2022-07-29 |
-| [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 |  |
+| [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 | 2022-09-16 |  |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-09-24 |
@@ -660,6 +660,7 @@
 | [Julian, king of manhattan](https://open.spotify.com/track/69OR7bYhVphLuTd9dyJjT9) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Julian, king of manhattan](https://open.spotify.com/album/3FX6KsHmQJTAdt1a0gqbdP) | 2:08 | 2022-07-01 | 2022-07-09 |
 | [Jump to Fall](https://open.spotify.com/track/23BwqOEvkwfnOawh1VGedD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Jump to Fall](https://open.spotify.com/album/1ZEEGv1mpRFdMDStKkQ5ZO) | 3:45 | 2021-11-05 | 2022-01-15 |
 | [JUNE](https://open.spotify.com/track/7J6ksWrraIusOZztXNyFdw) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [JUNE](https://open.spotify.com/album/6S06K8Q4tHG3FGzfx0qQbJ) | 3:32 | 2020-08-11 | 2021-11-10 |
+| [Just A Kiss \(Muah\)](https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Just A Kiss \(Muah\)](https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy) | 2:36 | 2022-10-28 |  |
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-06-17 | 2022-08-01 |
 | [Just Breathe](https://open.spotify.com/track/54Ka3UbuleZljUHYmPMEmL) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Langata](https://open.spotify.com/album/4nuH0xy26EaMxxDJBBHn2z) | 3:37 | 2019-05-26\* | 2020-05-16 |
 | [Just For A Moment \(feat\. Iselin\)](https://open.spotify.com/track/4JAX1qhCBGkO1IM9woosbZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Iselin](https://open.spotify.com/artist/3rjHIPFed2qITXAWvArRtp) | [Just For A Moment \(feat\. Iselin\)](https://open.spotify.com/album/39yZYUBuslLo1an8AGh9AA) | 4:14 | 2019-05-26\* | 2019-08-13 |
@@ -816,7 +817,7 @@
 | [Move Me](https://open.spotify.com/track/0vrGg6n72wLwgv32jeewgi) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Give Me Your Shoulders, Pt\. 1](https://open.spotify.com/album/07Ac7q2KMqblFcVfyWPmig) | 3:36 | 2022-02-11 | 2022-03-17 |
 | [MOVE!](https://open.spotify.com/track/1oJtEFSyTnUgajiY1R3uRY) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [MOVE!](https://open.spotify.com/album/5FqWHUJSDN3ElenK311n8p) | 2:34 | 2021-04-22 | 2021-10-16 |
 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 | 2022-02-15 | 2022-06-25 |
-| [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 | 2022-09-09 |  |
+| [Mr\. Percocet](https://open.spotify.com/track/0kZfIS6tmcL7lSvUaa1D1D) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:13 | 2022-09-09 | 2022-11-02 |
 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 | 2022-05-13 | 2022-09-16 |
 | [Mr\. Percocet](https://open.spotify.com/track/5zcv9Sck4CCc3c7BOExjK9) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:13 | 2022-09-09 | 2022-09-20 |
 | [Mr\. Percocet](https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:13 | 2022-09-09 | 2022-10-08 |
@@ -1012,7 +1013,7 @@
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-25 | 2022-08-20 |
 | [Sad Love](https://open.spotify.com/track/68UkVdPxJFZDz5Dtz2nGsb) | [Whitney Woerz](https://open.spotify.com/artist/10BwHZCTlNF44mgOBrMec3) | [Sad Love](https://open.spotify.com/album/0LdcazWtgzYxZfwbbEFoXK) | 3:37 | 2022-06-24 | 2022-07-04 |
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-06-12 | 2020-06-13 |
-| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 | 2022-11-01 |
+| [saddest happy girl](https://open.spotify.com/track/01dhiSuKRdWMCvT6snLTkw) | [Stalking Gia](https://open.spotify.com/artist/3VTJqPiHqHHIrx1FL7avMY) | [saddest happy girl](https://open.spotify.com/album/7y5gcNMgfvn7LhAFOdvT4z) | 2:27 | 2022-08-26 |  |
 | [Salir](https://open.spotify.com/track/4BPPnB4QD4eXI251VjifTL) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Salir](https://open.spotify.com/album/3yTS8NyDJBjuyM5WtLX6Nl) | 2:58 | 2021-10-10 | 2021-10-11 |
 | [Saltines & Gingerale](https://open.spotify.com/track/4fywIRWZFKQWBUwSBrQ271) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Saltines & Gingerale](https://open.spotify.com/album/7GGxMJrXmbPMnQ03uuJBa5) | 2:34 | 2021-07-16 | 2022-01-29 |
 | [SAME DAMN SONG](https://open.spotify.com/track/1ocrDvt7PiRJC9OoSQNLHf) | [Brendan Bennett](https://open.spotify.com/artist/0lpU3HUAjN8AdjApUJ2ykI) | [SAME DAMN SONG](https://open.spotify.com/album/4BcgMBYOSYiICH7gdyv8Ga) | 2:22 | 2021-03-07 | 2021-11-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 17931,
+  "num_followers": 17963,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDc2YmQyOTY4NWZiMDM0YWEwYTAwNjYxZDY5M2ZjZWM0",
+  "snapshot_id": "MTY0NDg0NjY4MCwwMDAwMDAwMDRmYWNmYjVhOGI2OTBhZmQ3MzM3YjZiMWQ3ZWExYjlm",
   "tracks": [
     {
       "added_at": "2022-02-14 13:51:20",
@@ -343,6 +343,26 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
+        "name": "Loving is Easy",
+        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
-        "name": "Loving is Easy",
-        "url": "https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 155720,
-      "name": "Loving Is Easy",
-      "url": "https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd"
     },
     {
       "added_at": "2022-02-14 13:51:20",
@@ -947,6 +947,26 @@
     {
       "added_at": "2022-02-14 13:51:20",
       "album": {
+        "name": "Sonia Dada",
+        "url": "https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u"
+      },
+      "artists": [
+        {
+          "name": "D. Pritzker",
+          "url": "https://open.spotify.com/artist/7hSWOsjh4uFNAS6c3gcm25"
+        },
+        {
+          "name": "Sonia Dada",
+          "url": "https://open.spotify.com/artist/1aTjB39eq6n3HcA8MbGpGp"
+        }
+      ],
+      "duration_ms": 247626,
+      "name": "(Lover) You Don't Treat Me No Good",
+      "url": "https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl"
+    },
+    {
+      "added_at": "2022-02-14 13:51:20",
+      "album": {
         "name": "Phases EP",
         "url": "https://open.spotify.com/album/67yZd1xUTES5qFQT9XNwZG"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 204026,
       "name": "54-46 Was My Number",
       "url": "https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe"
-    },
-    {
-      "added_at": "2022-02-14 13:51:20",
-      "album": {
-        "name": "Sonia Dada",
-        "url": "https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u"
-      },
-      "artists": [
-        {
-          "name": "D. Pritzker",
-          "url": "https://open.spotify.com/artist/7hSWOsjh4uFNAS6c3gcm25"
-        },
-        {
-          "name": "Sonia Dada",
-          "url": "https://open.spotify.com/artist/1aTjB39eq6n3HcA8MbGpGp"
-        }
-      ],
-      "duration_ms": 247626,
-      "name": "(Lover) You Don't Treat Me No Good",
-      "url": "https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl"
     },
     {
       "added_at": "2022-02-14 13:51:20",

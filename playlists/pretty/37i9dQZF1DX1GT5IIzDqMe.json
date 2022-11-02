@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 70185,
+  "num_followers": 70242,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMGU0MjdmM2Y1MWE1NjE0OWJmYzZkNTNlNjU0ZWU1NjVk",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDcyNzZiMDI3ZThiMWY3YzgyZTEyOWUzODhiYWY3ZTJk",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -459,34 +459,6 @@
       "duration_ms": 361400,
       "name": "Track Ten",
       "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
-        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
-        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        },
-        {
-          "name": "Virus J",
-          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
-        },
-        {
-          "name": "Justin Cholewski",
-          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
-        }
-      ],
-      "duration_ms": 190947,
-      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
-      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -543,6 +515,22 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "No Ufo's (Original Version)",
         "url": "https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg"
       },
@@ -579,18 +567,30 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+        "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
+        "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Virus J",
+          "url": "https://open.spotify.com/artist/1gBvJcwTpQU8wun5viRcGw"
+        },
+        {
+          "name": "Justin Cholewski",
+          "url": "https://open.spotify.com/artist/7h81kW4LNqyMlPkfRD8nEq"
         }
       ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
+      "duration_ms": 190947,
+      "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
+      "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "I Can't Believe",
-        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 369016,
-      "name": "I Can't Believe - Extended Mix",
-      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -683,22 +663,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
-      },
-      "artists": [
-        {
-          "name": "Dantiez",
-          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
-        }
-      ],
-      "duration_ms": 400579,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "The Art of Music",
         "url": "https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm"
       },
@@ -715,22 +679,18 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "We All Move Together",
-        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "ZebrA OctobrA",
-          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         }
       ],
-      "duration_ms": 188225,
-      "name": "SoundwaveZ",
-      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+      "duration_ms": 400579,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -755,6 +715,26 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "ZebrA OctobrA",
+          "url": "https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd"
+        }
+      ],
+      "duration_ms": 188225,
+      "name": "SoundwaveZ",
+      "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
         "name": "Best of Techno (Compilation Tracks)",
         "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 223626,
       "name": "Throw",
       "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "I Can't Believe",
+        "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 369016,
+      "name": "I Can't Believe - Extended Mix",
+      "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
     },
     {
       "added_at": "2022-07-22 08:57:48",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "Detroit Love Vol. 2 (DJ Mix)",
         "url": "https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ"
       },
@@ -875,6 +855,22 @@
       "duration_ms": 339336,
       "name": "Do It All Night (C2 Edit) - Mixed",
       "url": "https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "Feel It / Circus Act",
+        "url": "https://open.spotify.com/album/4UapkYniEMCTYnA9SzZgh0"
+      },
+      "artists": [
+        {
+          "name": "Stacey Pullen",
+          "url": "https://open.spotify.com/artist/0GJpYdmVCgg90TkyB1nB1y"
+        }
+      ],
+      "duration_ms": 458302,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/7AjK0QATXS2Ee857NmZABa"
     }
   ],
   "unique_name": "Detroit Techno",

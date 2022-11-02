@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-139 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+140 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 |  |
 | [Minnoch](https://open.spotify.com/track/6GdyEMYwaCWCPFKTUCsBjF) | [Hunee](https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy) | [Tide / Minnoch](https://open.spotify.com/album/5xlIE5AFZb7p6eIK4exIKU) | 5:44 | 2021-09-01 | 2022-07-29 |
+| [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 | 2021-09-01 |  |
 | [Modern Romance](https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Modern Romance](https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz) | 3:34 | 2021-09-01 |  |
 | [Morning Shift](https://open.spotify.com/track/0DtvmA9qyTtrcCW4CcobHl) | [Project Pablo](https://open.spotify.com/artist/2OHzpRiwkpxGE7IA0hnSko) | [Scented Trip](https://open.spotify.com/album/1c9o8AiaQTSCCmJw81GRxO) | 6:20 | 2021-09-01 | 2022-10-05 |
 | [Most Precious Love](https://open.spotify.com/track/47UPyhVOYi13lDCabh0V8s) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [RE//CHOIRED](https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka) | 3:54 | 2021-09-01 |  |
@@ -118,7 +119,7 @@
 | [Summer Grooves](https://open.spotify.com/track/1w2YjNjCfxRQLWEWVFzJ7Z) | [Mirage](https://open.spotify.com/artist/64bYHpPNqRYmu5g0BTvU4p) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/3oVHLixmU76yOp2ciXBCop) | 5:35 | 2021-09-01 | 2022-07-28 |
 | [Sunshine](https://open.spotify.com/track/168Wl5cpxF8G1eBeNapiu3) | [Get To Know](https://open.spotify.com/artist/3FZEnh3qohxcPnCVt63WfF), [Femi Santiago](https://open.spotify.com/artist/6tVI9nVE3zeTM3NgmtJdI2) | [Sunshine](https://open.spotify.com/album/7K0F1PtnaL0zNe0UkGj0Go) | 3:11 | 2021-09-15 | 2022-07-29 |
 | [Tasty](https://open.spotify.com/track/69zeFafjEhalju3xDjXTrm) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Tasty](https://open.spotify.com/album/2j0DUG3RE4cblXd58mY6NE) | 3:23 | 2021-09-01 | 2022-07-03 |
-| [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 | 2021-09-01 |  |
+| [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 | 2021-09-01 | 2022-11-02 |
 | [Tasty Jam](https://open.spotify.com/track/6smHuWvMAMQfVO855qtTDw) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4OKxxZwVeESgtIvH8UoPAV) | 2:10 | 2021-09-01 | 2022-07-29 |
 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 | 2021-09-01 |  |
 | [That Was Your Mother \- Gui Boratto Remix](https://open.spotify.com/track/7qB5mBa997C6ddiCgmsfU4) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Graceland \- The Remixes](https://open.spotify.com/album/34ORSj2qrkkwUUwQJMcV1d) | 6:17 | 2021-09-01 |  |

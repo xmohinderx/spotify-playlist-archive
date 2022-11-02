@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Javiera Mena
 
-449 songs - 1 day 1 hr 58 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+451 songs - 1 day 2 hr 4 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 | 2022-06-03 |  |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 |  |
+| [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2022-10-28 |  |
 | [El Aire Que Respires](https://open.spotify.com/track/2AwBz5FvRImGnV4T7qQKrR) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Axel Mugneco](https://open.spotify.com/artist/6pr2XhUBfnXEa7bDc0nswN), [Michelle Mugneco](https://open.spotify.com/artist/693n5w7Sj2J0ZIjkp4FX9Y) | [El Aire Que Respires](https://open.spotify.com/album/2E8xOX3RrtFVdSDx5fW4yw) | 3:21 | 2022-01-21 | 2022-06-22 |
 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 | 2022-01-14 | 2022-10-15 |
 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 | 2022-10-14 |  |
@@ -225,7 +226,7 @@
 | [Lo Que Digo](https://open.spotify.com/track/5OFN31HnVm100b0bCNrggm) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Lo Que Digo](https://open.spotify.com/album/2pf4WSVOCJUOnGCk1xnFA8) | 4:43 | 2022-01-21 | 2022-07-25 |
 | [Lo Que Quedó](https://open.spotify.com/track/2WzKA3ZmmQD2IVvgcHhZzd) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Lo Que Quedó](https://open.spotify.com/album/6LeAdcapsLl9nHI1A7cASR) | 2:55 | 2022-01-21 | 2022-04-17 |
 | [Loco](https://open.spotify.com/track/44nbI3uV9Xy4JTQJ6eCYTL) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Loco](https://open.spotify.com/album/07unMn9Pkm8nWxv1Kr1sdt) | 2:58 | 2022-07-08 | 2022-07-16 |
-| [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-21 |  |
+| [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 | 2022-01-21 | 2022-11-02 |
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2022-01-21 | 2022-07-16 |
 | [Los Segundos](https://open.spotify.com/track/6nHvrVoLWkyfqvxubRQ1Z1) | [María Viola](https://open.spotify.com/artist/1roFBD0EmElVwimb3qpkSK) | [Los Segundos](https://open.spotify.com/album/0q9l4LrCSLBTNHShkzhVLU) | 2:46 | 2022-06-03 | 2022-06-15 |
 | [Luna Blanca](https://open.spotify.com/track/4CmR7OzhllsOtUt9fN93cR) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Luna Blanca](https://open.spotify.com/album/3wqao1R6kX82CGRmTteWgO) | 3:40 | 2022-01-14 | 2022-07-29 |
@@ -336,6 +337,7 @@
 | [Presente](https://open.spotify.com/track/06ObiOjteic76rfFebiJhc) | [Martina Flores](https://open.spotify.com/artist/48CEqfnDnepsHPiICI1hUg) | [Presente](https://open.spotify.com/album/2c5ZD2bY4qJ8y65Vfbcqaf) | 3:51 | 2022-01-21 | 2022-04-14 |
 | [PRINCESA](https://open.spotify.com/track/4FbEvvDBDqy39mgQwjbXEf) | [Mica Hourbeigt](https://open.spotify.com/artist/5pZDNzUtIPjNesdPzNui04), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Princesa](https://open.spotify.com/album/5uipLduXdcseEMzrwmeNkW) | 3:23 | 2022-02-11 | 2022-04-16 |
 | [Profundidad del Mar](https://open.spotify.com/track/6fM8NeVzpDJTl6AmMq28Nu) | [Fran Quintero](https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2) | [NAVEGANDO](https://open.spotify.com/album/6Ta9nz4E0FD8udyyCXz2KN) | 3:08 | 2022-07-08 | 2022-07-24 |
+| [Protagonista](https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:53 | 2022-10-28 |  |
 | [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2022-07-15 | 2022-10-30 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2022-01-14 | 2022-07-27 |
 | [PSILOCIBINA](https://open.spotify.com/track/7FEvlCsK8J6IWyRvog7V2O) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/00RQtUO8IFXb2XMb66xV1w) | 3:17 | 2022-01-21 | 2022-07-29 |
@@ -346,7 +348,7 @@
 | [que tanto](https://open.spotify.com/track/5nshGFVBrUf3doA6FTVJzT) | [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [Tade Fonk](https://open.spotify.com/artist/7dXN6fbKgGlax00ZgnE73j) | [que tanto](https://open.spotify.com/album/3dyDQYo0vvFWEdJw8wyo4H) | 2:40 | 2022-03-04 | 2022-04-14 |
 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 | 2022-10-14 |  |
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2022-01-14 | 2022-10-14 |
-| [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 |  |
+| [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 | 2022-11-02 |
 | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/track/7LReYLKTIJF7hbRyOuxPvl) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/album/5CjuC09KYMi7FqbVBJHYSc) | 3:47 | 2022-01-21 | 2022-07-25 |
 | [qué bueno!](https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [qué bueno!](https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7) | 2:37 | 2022-01-14 |  |
 | [Qué Más Quieres de Mí](https://open.spotify.com/track/21GNomOYNYf3xoBflp5hlo) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Qué Más Quieres de Mí](https://open.spotify.com/album/50YHt1Y6bHYA3G5uqMaolp) | 5:10 | 2022-01-21 | 2022-07-24 |

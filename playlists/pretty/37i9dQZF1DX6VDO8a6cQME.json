@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 90s. Cover: Sade",
-  "num_followers": 3000511,
+  "num_followers": 3001399,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg0MzIwMCwwMDAwMDAwMDExN2I5ZDRiZjZkNzAyNWFmZmQ4NmRmYTBiZWQ4NmZj",
+  "snapshot_id": "MTY2Njg0MzIwMCwwMDAwMDAwMDdmYmZkYWMxNTk4NDYwZjdlMDhmNDI3OTkxYzJlNjcx",
   "tracks": [
     {
       "added_at": "2022-09-16 08:12:46",
@@ -395,6 +395,22 @@
     {
       "added_at": "2021-08-20 04:02:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/4MTHIKGWNTBoubzDMkXFfa"
     },
     {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "From The Bottom Up",
+        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+      },
+      "artists": [
+        {
+          "name": "Brownstone",
+          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+        }
+      ],
+      "duration_ms": 304160,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
       "added_at": "2022-08-23 02:58:10",
       "album": {
         "name": "Love Soul",
@@ -1005,22 +1021,6 @@
       "url": "https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
-      },
-      "artists": [
-        {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
-        }
-      ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Tyrese",
@@ -1035,26 +1035,6 @@
       "duration_ms": 290600,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "BAD BOY CELEBRATES DIDDY: The Executive",
-        "url": "https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        },
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Can't You See",
-      "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -1079,6 +1059,26 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "BAD BOY CELEBRATES DIDDY: The Executive",
+        "url": "https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG"
     },
     {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Love Crimes",
+        "url": "https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb"
+      },
+      "artists": [
+        {
+          "name": "Ruff Endz",
+          "url": "https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF"
+    },
+    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Blaque",
@@ -1259,22 +1275,6 @@
       "duration_ms": 218186,
       "name": "Bring It All to Me (feat. *NSYNC)",
       "url": "https://open.spotify.com/track/1cjBan0t4eBk2Y5j17hdyf"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Love Crimes",
-        "url": "https://open.spotify.com/album/5FA0SqkvmxtJi96oCqBjHb"
-      },
-      "artists": [
-        {
-          "name": "Ruff Endz",
-          "url": "https://open.spotify.com/artist/7liFhc0PDIx8etigqd2WhW"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2WfhlEjoUII31H6imnQdvF"
     }
   ],
   "unique_name": "I Love My '90s R&B",

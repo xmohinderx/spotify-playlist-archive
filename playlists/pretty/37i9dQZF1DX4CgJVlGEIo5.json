@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 300107,
+  "num_followers": 300202,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMDgzNTEzM2EzZTRiNDE3MDhlNzM1MGNmMTBhZjA0YjQy",
+  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMDBjM2ExZjdkMmIzMDFhZDkxNjc0YTFmODIxZDY2ZmZl",
   "tracks": [
     {
       "added_at": "2022-03-23 21:31:21",
@@ -839,6 +839,22 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "By The Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 184849,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/3nluW0s91ld5iOjW9kE5Kg"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2022-03-23 21:31:21",

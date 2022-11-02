@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Los Telepáticos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,065 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,082 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Daría](https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Daría](https://open.spotify.com/album/6X6iitQfdcFj9dBmOjfGEy) | 3:43 |
+| 1 | [Daria](https://open.spotify.com/track/1N5gxXUVDRx7SIr6xN47zL) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Daria](https://open.spotify.com/album/6X6iitQfdcFj9dBmOjfGEy) | 3:43 |
 | 2 | [Pérdida Total](https://open.spotify.com/track/5s3kNxzdeToeSTInn6W3gv) | [Sgt\. Papers](https://open.spotify.com/artist/76aFiLtqQ3kqvPxLe3D8ri) | [Pérdida Total](https://open.spotify.com/album/6iqpVpx4BBqxjoXQDtlZ46) | 2:02 |
 | 3 | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 |
 | 4 | [Argentina](https://open.spotify.com/track/4DCW7zZP2ftq93hGayOnsS) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Argentina](https://open.spotify.com/album/64Mpu3td2ehyqwmaeBK2ga) | 2:24 |

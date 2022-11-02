@@ -4,7 +4,7 @@
 
 > Our favorite electronic tracks of 2021\. Cover: Fred again..
 
-117 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
+118 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/3osIW9coSTQHd3N0LFREv3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,9 @@
 | [Jour 3](https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/6w7nCE7qv2GNngPYW6HZgV) | 3:06 | 2021-12-01 |  |
 | [Jour 3](https://open.spotify.com/track/6DS9JfbMf76Bo5qqylNtgt) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Hildegard](https://open.spotify.com/album/1iWXfCQ5mVVcvLtxJYyfPq) | 3:06 | 2021-12-01 | 2022-07-29 |
 | [Joy](https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Joy](https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL) | 4:41 | 2021-12-01 |  |
+| [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2021-12-01 |  |
 | [Keep Moving](https://open.spotify.com/track/6a88fc0zSrVWGPdoj445nJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Moving](https://open.spotify.com/album/2RfWbfIULVPJq4Ng554eyX) | 4:00 | 2021-12-01 | 2022-10-13 |
-| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 |  |
+| [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2021-12-01 | 2022-11-02 |
 | [Les gens](https://open.spotify.com/track/3pJoFVanmdOAeyR29X9nIf) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Les gens](https://open.spotify.com/album/7sqpJwq2QQMJ6I7Y0Qr4r1) | 3:14 | 2021-12-01 |  |
 | [Let’s Sing Let’s Dance](https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Let’s Sing Let’s Dance](https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG) | 3:50 | 2021-12-01 |  |
 | [Life In A Mind](https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Tread](https://open.spotify.com/album/5wKXfInna4rPKYVhdiSgQA) | 5:03 | 2021-12-01 |  |

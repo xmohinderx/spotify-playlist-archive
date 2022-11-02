@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-445 songs - 1 day 1 hr 9 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
+446 songs - 1 day 1 hr 12 min - [published](https://open.spotify.com/playlist/7brk0cDWEnSceUmvio3ED2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Pixel Radio](https://open.spotify.com/track/38TWdQGwbesUPzMcRfbPJe) | [Ikyoto](https://open.spotify.com/artist/5gtDrrVDdpH9S5xLuAOISl) | [Pixel Pop! II](https://open.spotify.com/album/7fsioVTAh9CvWPaWQWkjZF) | 3:14 | 2022-07-15 | 2022-08-13 |
 | [planetarium](https://open.spotify.com/track/5QDe6q5KNYURvqgIdCg3Z8) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [geccochild](https://open.spotify.com/artist/3Jsm7LexLQaXBk9Hy3vS3p) | [planetarium](https://open.spotify.com/album/7B1ZVZLT9RQjUHBwNSqRby) | 2:26 | 2022-02-27 | 2022-07-18 |
 | [Plastic](https://open.spotify.com/track/0zbmRwI3Cn0aPCkVIvxQtO) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/1cjuAssWUepRNTprygXosp) | 3:15 | 2021-12-08 | 2022-10-18 |
+| [Plastic](https://open.spotify.com/track/4YAVirWReJraZhTHasDpyY) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/3AgpSfMDtGPCRO2DBrPqZU) | 3:15 | 2022-09-16 |  |
 | [Polygon Beach](https://open.spotify.com/track/4oTFKaLvALwvYdNKDTBARL) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Polygon Beach](https://open.spotify.com/album/7vg7mqEeZvoWaHtamxIG1c) | 2:36 | 2022-06-08 |  |
 | [Positive](https://open.spotify.com/track/0E2A3EhNsvWYWVqSaqisep) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Positive](https://open.spotify.com/album/7gKWbapL9jZogKY9aRcVTU) | 3:37 | 2021-12-08 | 2022-07-26 |
 | [Power Make Up](https://open.spotify.com/track/33sdJcyi2leaVCFGwshDTX) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [J\-Funk City : Vantage's Edits Collection](https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf) | 3:58 | 2022-06-01 | 2022-06-08 |
@@ -393,7 +394,7 @@
 | [The Way U Make Me Feel](https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X) | [Cyber Love](https://open.spotify.com/album/5oBHfEpAfHIQ4J2IkGYviT) | 2:29 | 2021-12-08 |  |
 | [This Feeling \(w\-Soul Bell\)](https://open.spotify.com/track/51eAz9B5izI0qpOYx1LKDb) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [A Millions Miles Away](https://open.spotify.com/album/5IrjPvqdC4Wxse4oKSwaQe) | 3:57 | 2022-03-04 | 2022-03-12 |
 | [This is Future Funk](https://open.spotify.com/track/0WdGwHFGmVHkXwdKVceNJL) | [That's Matt](https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo) | [This is Future Funk](https://open.spotify.com/album/3g3EWH7CgRnOjfOErBwYbA) | 3:33 | 2021-12-08 | 2022-07-16 |
-| [This Is It](https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/6X6BP547q2EhoEsDVbwMt6) | 2:52 | 2022-07-15 |  |
+| [This Is It](https://open.spotify.com/track/2SQqNZF6ofMYk18VTu6vXt) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/6X6BP547q2EhoEsDVbwMt6) | 2:52 | 2022-07-15 | 2022-11-02 |
 | [This Is It](https://open.spotify.com/track/5DEGmMh9qyEMxQ33QshXUI) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/1HPiMWP73QOQEk0Cwx3rXg) | 2:52 | 2022-04-12 | 2022-04-19 |
 | [This Is Just a Test](https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf) | [UniBe@t](https://open.spotify.com/artist/1h9Qvyu1kcChodIA2z04Jg) | [This Is Just a Test](https://open.spotify.com/album/72qhWDUouLx3Y2gr1s3WY8) | 6:03 | 2021-12-08 |  |
 | [Tidal Wave](https://open.spotify.com/track/60HoZuMMqZLLJo0ICqvukK) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Tidal Wave](https://open.spotify.com/album/0F0Yc8JJMsyosdrF7Esppp) | 3:23 | 2022-09-16 |  |

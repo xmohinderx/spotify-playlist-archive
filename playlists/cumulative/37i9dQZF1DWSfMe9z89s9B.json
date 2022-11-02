@@ -4970,6 +4970,24 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7JTfcLHEOyg7aQTF16PGyA"
+      },
+      "artists": [
+        {
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163689,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/6IwZZImA6kzAcLo0fobeFO"
+    },
+    {
+      "album": {
         "name": "Sol\u00e8y",
         "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
@@ -5025,7 +5043,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 232967,
       "name": "Home Maker (Edit)",
       "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"

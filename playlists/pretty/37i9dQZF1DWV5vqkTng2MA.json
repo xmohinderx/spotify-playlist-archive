@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Pokey LaFarge",
-  "num_followers": 336382,
+  "num_followers": 336464,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMGU5NDI4MjlkYTM0ODU4YmRlNjM4ZjczMjM4OTcwNWUw",
+  "snapshot_id": "MTY2NDUxMDQwMCwwMDAwMDAwMDY5YzA0YWNmYjA5NjA0NzkzZmExYzZjY2UwMmI4Mzkx",
   "tracks": [
     {
       "added_at": "2022-08-02 19:57:54",
@@ -487,6 +487,38 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
@@ -511,22 +543,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 235426,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 143939,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1045,20 +1045,20 @@
       "url": "https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv"
     },
     {
-      "added_at": "2022-08-02 19:57:54",
+      "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Max Jury",
-        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
       },
       "artists": [
         {
-          "name": "Max Jury",
-          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
         }
       ],
-      "duration_ms": 250414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1077,20 +1077,20 @@
       "url": "https://open.spotify.com/track/1vXstUplbFJ0W8DyY39eVL"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/3JguwYeip9GV8u95tng4lA"
+        "name": "Max Jury",
+        "url": "https://open.spotify.com/album/4dylZZrQcKM84MAAmvkIlb"
       },
       "artists": [
         {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
         }
       ],
-      "duration_ms": 244108,
-      "name": "Two Wolves",
-      "url": "https://open.spotify.com/track/6ojNVt86xChV8OV3qcWeB4"
+      "duration_ms": 250414,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7n2xBCtl9qFMVnbKjWOvH4"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
-        }
-      ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Alexander",
         "url": "https://open.spotify.com/album/69QwyJobyX40i2uwAbNha6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 209466,
       "name": "Bad Bad Love",
       "url": "https://open.spotify.com/track/1BKQSpOtgGoVKUCDjfspVj"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
-      },
-      "artists": [
-        {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Midnight Wine",
-      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Kids In The Street",
         "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202320,
       "name": "Trouble Is",
       "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/2t9TN9PcDnAcLZCP9odxLY"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Midnight Wine",
+      "url": "https://open.spotify.com/track/29ya2cQa0u96dSTctywzHI"
     },
     {
       "added_at": "2022-08-02 19:57:54",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-08-02 19:57:54",
       "album": {
-        "name": "Faded Gloryville",
-        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
-      },
-      "artists": [
-        {
-          "name": "Lindi Ortega",
-          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Run-down Neighborhood",
-      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
-    },
-    {
-      "added_at": "2022-08-02 19:57:54",
-      "album": {
         "name": "Plus de Sauce",
         "url": "https://open.spotify.com/album/329yK2nEn3owPZOdYcFHvQ"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 146571,
       "name": "We Shouldn't Talk About It (feat. Emily Gimble)",
       "url": "https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25"
+    },
+    {
+      "added_at": "2022-08-02 19:57:54",
+      "album": {
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Run-down Neighborhood",
+      "url": "https://open.spotify.com/track/5a0zfY27mdOdvjwypqVVhT"
     },
     {
       "added_at": "2022-08-02 19:57:54",

@@ -1388,6 +1388,24 @@
     },
     {
       "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
+    },
+    {
+      "album": {
         "name": "Modern Romance",
         "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
       },
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 130024,
       "name": "Tasty Jam",
       "url": "https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1"

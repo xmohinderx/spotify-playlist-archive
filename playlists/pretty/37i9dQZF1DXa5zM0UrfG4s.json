@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle",
-  "num_followers": 89850,
+  "num_followers": 90026,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDA2ODc1OGRmY2FmZWQzOWMxYzlkNGM2MmUwMTgwNTEz",
+  "snapshot_id": "MTY2NzM1MjE0NCwwMDAwMDAwMGQ3ZmViNmZlNTVlZTc1ZTNiMzI0NmUwMDQzMjU5YmUx",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Raggarbil",
-        "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        },
-        {
-          "name": "Karen",
-          "url": "https://open.spotify.com/artist/5e1ekj5rPqXgSRF4gZw7cO"
-        }
-      ],
-      "duration_ms": 135227,
-      "name": "Raggarbil",
-      "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
         "url": "https://open.spotify.com/album/2p4Z7QkMsyhIqLuf8W4fQL"
       },
@@ -307,6 +287,22 @@
       "duration_ms": 140245,
       "name": "EFTERFEST P\u00c5 V\u00c5R BALKONG",
       "url": "https://open.spotify.com/track/2mb8CyNT8vw2UjOxfGwX60"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -387,22 +383,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Ja likav\u00e4l",
-        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 161917,
-      "name": "Ja likav\u00e4l",
-      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Stavangerkameratene",
         "url": "https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 210093,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Du kan inte f\u00e5 min \u00f6l",
+        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "duration_ms": 136100,
+      "name": "Du kan inte f\u00e5 min \u00f6l",
+      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -443,22 +443,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Du kan inte f\u00e5 min \u00f6l",
-        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
+        "name": "Ja likav\u00e4l",
+        "url": "https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh"
       },
       "artists": [
         {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        },
-        {
-          "name": "K\u00e5ren",
-          "url": "https://open.spotify.com/artist/5QhqVrbqXPUJzI8nY0ft7M"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 136100,
-      "name": "Du kan inte f\u00e5 min \u00f6l",
-      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+      "duration_ms": 161917,
+      "name": "Ja likav\u00e4l",
+      "url": "https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1195,6 +1191,30 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
+        "name": "Baby, f\u00f6rl\u00e5t!",
+        "url": "https://open.spotify.com/album/3gemrsMKHe8MgGrMJa8UcP"
+      },
+      "artists": [
+        {
+          "name": "Erik Meduza",
+          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
+        },
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        },
+        {
+          "name": "REMO",
+          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
+        }
+      ],
+      "duration_ms": 168055,
+      "name": "Baby, f\u00f6rl\u00e5t!",
+      "url": "https://open.spotify.com/track/6J2y7h0XWLMYC39iaqRZpu"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
         "name": "Jag Gillar Dig",
         "url": "https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2"
       },
@@ -1231,30 +1251,6 @@
       "duration_ms": 161267,
       "name": "Bara vara med dig",
       "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
-        "name": "Baby, f\u00f6rl\u00e5t!",
-        "url": "https://open.spotify.com/album/3gemrsMKHe8MgGrMJa8UcP"
-      },
-      "artists": [
-        {
-          "name": "Erik Meduza",
-          "url": "https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr"
-        },
-        {
-          "name": "250 kg k\u00e4rlek",
-          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
-        },
-        {
-          "name": "REMO",
-          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
-        }
-      ],
-      "duration_ms": 168055,
-      "name": "Baby, f\u00f6rl\u00e5t!",
-      "url": "https://open.spotify.com/track/6J2y7h0XWLMYC39iaqRZpu"
     },
     {
       "added_at": "2022-10-20 22:00:00",

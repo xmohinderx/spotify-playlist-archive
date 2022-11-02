@@ -1,33 +1,13 @@
 {
-  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: \u00c1i Ph\u01b0\u01a1ng",
-  "num_followers": 129622,
+  "description": "V-Pop \u0111\u00e3 \u0111\u01a1m hoa tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: T\u00f3c Ti\u00ean",
+  "num_followers": 129718,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwMjg3OSwwMDAwMDAwMGU4ZWY5MmFiODM4MjNiOTM2NzdlYzZhNDU2NDliMTkw",
+  "snapshot_id": "MTY2NzI4MjQwMCwwMDAwMDAwMDljMWUwNDkzMzFiYWZiMzY0NmM2MTViMDc2MmI2MzQy",
   "tracks": [
-    {
-      "added_at": "2022-10-27 20:34:39",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj"
-      },
-      "artists": [
-        {
-          "name": "MONO",
-          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
-        },
-        {
-          "name": "Onionn",
-          "url": "https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW"
-    },
     {
       "added_at": "2022-10-27 20:34:39",
       "album": {
@@ -81,6 +61,26 @@
       "url": "https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP"
     },
     {
+      "added_at": "2022-11-01 06:00:00",
+      "album": {
+        "name": "CONG",
+        "url": "https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "duration_ms": 273061,
+      "name": "N\u1ebfu Anh L\u00e0 Em (feat. H\u1ee9a Kim Tuy\u1ec1n)",
+      "url": "https://open.spotify.com/track/1G9gGCq1i7smFoaNnAdt8f"
+    },
+    {
       "added_at": "2022-10-27 20:34:39",
       "album": {
         "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
@@ -95,6 +95,26 @@
       "duration_ms": 367799,
       "name": "\u0110\u00f4ng T\u00e2y Nam B\u1eafc",
       "url": "https://open.spotify.com/track/0hqCfsV0T1e35k7urmBBHz"
+    },
+    {
+      "added_at": "2022-10-27 20:34:39",
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        },
+        {
+          "name": "Onionn",
+          "url": "https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW"
     },
     {
       "added_at": "2022-10-27 20:34:39",

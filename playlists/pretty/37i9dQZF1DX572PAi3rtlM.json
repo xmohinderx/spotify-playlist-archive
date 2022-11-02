@@ -1,12 +1,12 @@
 {
   "description": "That summer in the city feeling, any day of the week. ",
-  "num_followers": 24061,
+  "num_followers": 24080,
   "original_name": "Rooftop Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDNhZDYyYmUzZmI0NTQ2YTZiZGYxMTc1YTg2ZmM0NTg5",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDAwMDMxZjgzOGUzYjU5ZmM1MmI3ZDNjYzAyMDk0NTdlYTYx",
   "tracks": [
     {
       "added_at": "2021-09-01 00:59:23",
@@ -47,22 +47,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Together Onetime",
-        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
-      },
-      "artists": [
-        {
-          "name": "Dole & Kom",
-          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
-        }
-      ],
-      "duration_ms": 419014,
-      "name": "Together Onetime",
-      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "No.1 (Jubil\u00e4ums Edition)",
         "url": "https://open.spotify.com/album/3lOQAtRoBQM4SrOC05fdcY"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 217669,
       "name": "Touch in the Night - Radio Version",
       "url": "https://open.spotify.com/track/5074Vt992hKDNhwXMhRceJ"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Together Onetime",
+        "url": "https://open.spotify.com/album/5P8aR9Q1LcG1yhthHMuU29"
+      },
+      "artists": [
+        {
+          "name": "Dole & Kom",
+          "url": "https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT"
+        }
+      ],
+      "duration_ms": 419014,
+      "name": "Together Onetime",
+      "url": "https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -343,6 +343,22 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
+        "name": "Silentintroduction",
+        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 485306,
+      "name": "I Can't Kick This Feeling When It Hits",
+      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 386426,
       "name": "Bad Luck (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
-        "name": "Silentintroduction",
-        "url": "https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 485306,
-      "name": "I Can't Kick This Feeling When It Hits",
-      "url": "https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -707,26 +707,6 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Modern Romance",
-        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
-      },
-      "artists": [
-        {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
-        },
-        {
-          "name": "Gerd Janson",
-          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
-        }
-      ],
-      "duration_ms": 214049,
-      "name": "Modern Romance",
-      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
-    },
-    {
-      "added_at": "2021-09-01 00:59:23",
-      "album": {
         "name": "Calling Out (feat. Dames Brown) [12\" Mix]",
         "url": "https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 477881,
       "name": "Calling Out (feat. Dames Brown) - 12\" Mix",
       "url": "https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4"
+    },
+    {
+      "added_at": "2021-09-01 00:59:23",
+      "album": {
+        "name": "Modern Romance",
+        "url": "https://open.spotify.com/album/5JPxDmfJuWSErtOyRTeYuz"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Gerd Janson",
+          "url": "https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO"
+        }
+      ],
+      "duration_ms": 214049,
+      "name": "Modern Romance",
+      "url": "https://open.spotify.com/track/4CL7IheP2ryGEcMVOoAOUZ"
     },
     {
       "added_at": "2021-09-01 00:59:23",
@@ -863,18 +863,18 @@
     {
       "added_at": "2021-09-01 00:59:23",
       "album": {
-        "name": "Yacht World",
-        "url": "https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX"
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
       },
       "artists": [
         {
-          "name": "Engelwood",
-          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
         }
       ],
-      "duration_ms": 130024,
-      "name": "Tasty Jam",
-      "url": "https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1"
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     }
   ],
   "unique_name": "Rooftop Sunset",

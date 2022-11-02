@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-340 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
+341 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/5NyuBYmYOJuxQT3ZVKo7pG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Breathe](https://open.spotify.com/track/6KHGSUYKkKS959jRJ1KD8D) | [Takkin](https://open.spotify.com/artist/6YJXZoTvzi4NK03J19R73d) | [Breathe](https://open.spotify.com/album/2tQdlqHpf2UoAv6gfxQB11) | 3:03 | 2022-07-22 | 2022-07-27 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2022-09-23 | 2022-10-08 |
 | [Butterfly](https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Butterfly](https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU) | 3:32 | 2022-05-27 | 2022-07-29 |
+| [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 |  |
 | [Call Me Home](https://open.spotify.com/track/0MEwwyJBkGgeDLfDNCJtc1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Squeeze](https://open.spotify.com/album/54p7fdwenIgGmhUK4qbCiT) | 3:45 | 2022-09-23 | 2022-10-08 |
 | [Can We Have A Conversation?](https://open.spotify.com/track/3XwxGT889lbCi96I4IIFJc) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Can We Have A Conversation?](https://open.spotify.com/album/3jZ6NHEPluSeUZEaPtlGWF) | 2:34 | 2022-05-27 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-01 | 2022-09-24 |
@@ -327,7 +328,7 @@
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 |  |
 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 | 2022-05-27 | 2022-07-26 |
 | [WEST](https://open.spotify.com/track/7LiXlY6Fhueht9ME6oLzWN) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [WEST](https://open.spotify.com/album/2Z6pkESrKWO14hSFVaUNmS) | 2:49 | 2022-05-27 |  |
-| [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 |  |
+| [what are we?](https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1) | [Soul Dot](https://open.spotify.com/artist/1bVtaLqLAXTmZZpzNYwaSy), [Akeem Jahat](https://open.spotify.com/artist/5SHYzihs8WKAP0qxcCgtDl), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [what are we?](https://open.spotify.com/album/56TDcCVGF0BuPWOuAlghsj) | 2:33 | 2022-05-27 | 2022-11-02 |
 | [What Can I Do](https://open.spotify.com/track/4SH4MuHj0BtOTddqvPFhxI) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [What Can I Do](https://open.spotify.com/album/6P1dIrYEUtd2zGtgqdUvLL) | 4:16 | 2022-05-27 | 2022-07-02 |
 | [Whatchu Sayin'?](https://open.spotify.com/track/7dBnndmnlUgMq2hMkiWdof) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Whatchu Sayin'?](https://open.spotify.com/album/27HxLoxsWmYhjf7fWoZvjf) | 2:57 | 2022-06-24 | 2022-07-16 |
 | [When She Comes Around](https://open.spotify.com/track/1XCocNlJdfTqGboOp4UICc) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [It's All Smiles](https://open.spotify.com/album/1nx7N9E7k5AfKwjWIb2DQd) | 2:54 | 2022-09-23 | 2022-10-08 |

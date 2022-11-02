@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-63 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
+64 songs - 5 hr 5 min - [published](https://open.spotify.com/playlist/1ltNc3ZBZ5slAqB5oA5cdE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [It's So Different Here](https://open.spotify.com/track/3sn7rUTrSl6kbxYyBGopWr) | [Rachel Sweet](https://open.spotify.com/artist/3E8iIu6yKztcuEHrKFBNMS) | [Fool Around](https://open.spotify.com/album/0sKjovgkj2IdErxyM3gsjI) | 2:50 | 2022-03-01 |  |
 | [J&W Beat](https://open.spotify.com/track/3ulYmElxqeXxo8TaezKciy) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [J&W Beat](https://open.spotify.com/album/2DFU3nz0jrhjY0Vj2aJA37) | 6:03 | 2022-03-01 |  |
 | [J.W\. on a Good Night](https://open.spotify.com/track/5ftI5jeqgxBMAFVVpK0ApJ) | [Martyn](https://open.spotify.com/artist/68i1l0GWQ5dwzAy1UVNHNw) | [DAT Music 2](https://open.spotify.com/album/6QoY08xZUGGVzI95yI6l7i) | 5:43 | 2022-03-01 |  |
-| [jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2022-03-01 |  |
+| [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2022-03-01 |  |
 | [Je disparais dans tes bras](https://open.spotify.com/track/2P96XdauZc5DlJFtlFT9Rt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [La vita nuova](https://open.spotify.com/album/0iyzHNJTyl7G9vNwp3B8iQ) | 3:55 | 2022-03-01 |  |
 | [Make It Up](https://open.spotify.com/track/66aoMO408FA4pLR2xWVH3f) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Make It Up](https://open.spotify.com/album/7dc8lqqkFo9yNll6VmSsg1) | 3:50 | 2022-03-01 |  |
 | [Medium](https://open.spotify.com/track/6cZOCKcURyJNou1nudfb5X) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:14 | 2022-03-01 |  |
@@ -69,7 +69,8 @@
 | [Walking On Your Name \- Logic1000 Remix](https://open.spotify.com/track/0sbcE7ltIt3tM47UTK0mmP) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Walking On Your Name \(Remixes\)](https://open.spotify.com/album/2UqZWogF2knW9C8O2pVKwE) | 4:18 | 2022-03-01 |  |
 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 | 2022-03-01 |  |
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2022-03-01 |  |
-| [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-03-01 |  |
+| [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-03-01 | 2022-11-02 |
+| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-03-01 |  |
 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 | 2022-03-01 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

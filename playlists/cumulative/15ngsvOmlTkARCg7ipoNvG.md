@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-848 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
+850 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/0QzPGzivrhyHnxUEmsSWdl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Here For Us](https://open.spotify.com/track/7w9oE3swQE4jW4gN3VgQkG) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Tenderness](https://open.spotify.com/album/5cqsHPHamgtgv6JUuuKW8j) | 1:02 | 2022-02-11 |  |
 | [Hidden](https://open.spotify.com/track/4jYn364j5nrCKJ9w4LQz0A) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Solitary](https://open.spotify.com/album/53vuiIjcuNuZ8NwIQiLUHk) | 1:13 | 2022-01-12 |  |
 | [Hidden Daydreams](https://open.spotify.com/track/6z34vpvwq6z4ywo8T7kqtG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Promises](https://open.spotify.com/album/2j0DTCwnzCxsmqTlswfICq) | 1:06 | 2022-02-26 |  |
+| [Hidden Paths](https://open.spotify.com/track/19W5bY6RJ58W0jYB1lUQqB) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Hidden Paths](https://open.spotify.com/album/1JyS8znPyVx640PYnv6zFR) | 1:01 | 2022-11-01 |  |
 | [Hiking](https://open.spotify.com/track/0eC7fbmLCsIYIwch3Sf6mn) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:29 | 2022-01-12 |  |
 | [Hold My Hand](https://open.spotify.com/track/3Cq8ZoVxpOAbz7jz8tfWgN) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Soft Strings](https://open.spotify.com/album/633Q4gSm8Mc205tuBQ84Vz) | 1:29 | 2022-01-12 |  |
 | [Home](https://open.spotify.com/track/24j1BbJXzzmazQOFHmsjut) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:19 | 2022-01-12 |  |
@@ -538,6 +539,7 @@
 | [Peace Is the Only Way](https://open.spotify.com/track/0vJCt2jnOAwSUm5XeEf7PW) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Aura](https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0) | 1:37 | 2022-01-20 |  |
 | [Peace on the Water](https://open.spotify.com/track/0SqbAQ3G3BTnOWEurcBDno) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Grateful Hearts](https://open.spotify.com/album/1zFFBWzfLyAI2hesLvb6gV) | 1:32 | 2022-01-20 |  |
 | [Peaceful And Calm](https://open.spotify.com/track/1Rm9wbsq6n8ysupu43ll5p) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:12 | 2022-01-12 |  |
+| [Peaceful Reflections](https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Peaceful Reflections](https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw) | 1:01 | 2022-11-01 |  |
 | [Peaceful Silence](https://open.spotify.com/track/4vZrqIZc16vNAhhh4uADPu) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:05 | 2022-06-01 |  |
 | [Peaceful Solitude](https://open.spotify.com/track/2V8tWQBB9sPCFZ6zbqQdfo) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 2:06 | 2022-01-12 |  |
 | [Peaceful Wandering](https://open.spotify.com/track/39IJSsoNrdyK4CqNZSBn66) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:45 | 2022-01-12 |  |

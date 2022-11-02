@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36Lvoo24qFe.md) - [plain]
 | 23 | [Are You All Good](https://open.spotify.com/track/1z0wo0mMyQILrrQZBzKCoO) | [MDSH Coffee House](https://open.spotify.com/artist/2ApjT0W9xDPdaYWlbTR2sy), [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Are You All Good](https://open.spotify.com/album/66nJ57hBwiExB3vfjWx6lA) | 3:12 |
 | 24 | [it's ok, you're ok](https://open.spotify.com/track/26WAJZIwv0D1kkG7521PlO) | [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [it's ok, you're ok](https://open.spotify.com/album/0VsgtAta0KqSIodZfDnziG) | 3:35 |
 | 25 | [september rain](https://open.spotify.com/track/1XREfGfPZGBoGP6KIKy8QR) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Confessions](https://open.spotify.com/album/0f4ZcRoYPzppioLoB70vYc) | 2:15 |
-| 26 | [jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
+| 26 | [Jasmine \- Demo](https://open.spotify.com/track/1BYc1M6fuvRA9s9wSugS2h) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Jasmine \(Demo\)](https://open.spotify.com/album/6Uc6j2mDKpCAd01eu21evb) | 4:13 |
 | 27 | [The Fall](https://open.spotify.com/track/4aoUYp6DBRT2JjDw9qOFO5) | [Blake Leyh](https://open.spotify.com/artist/2gKgSA1quoNlsq2RnNIQu8) | [...and all the pieces matter, Five Years of Music from The Wire \(deluxe version\)](https://open.spotify.com/album/6BPxysOQGjfI9pwei72Njl) | 1:50 |
 
 Snapshot ID: `MTYyMTI5NDAzMCwwMDAwMDAwMDU5YmI1NjJkMjJiMGNmMzllMmI1MjE5YmVlYmE1YTgy`

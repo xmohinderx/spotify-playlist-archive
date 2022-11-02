@@ -2255,6 +2255,28 @@
     {
       "album": {
         "name": "There's No Way",
+        "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164606,
+      "name": "There's No Way - Live from Box Fresh, London, 2018",
+      "url": "https://open.spotify.com/track/0hDM5uXQEUB7KAneZr5KqQ"
+    },
+    {
+      "album": {
+        "name": "There's No Way",
         "url": "https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx"
       },
       "artists": [
@@ -2269,7 +2291,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 164606,
       "name": "There's No Way - Live from Box Fresh, London, 2018",
       "url": "https://open.spotify.com/track/71OIThiJmbKLnqbmNAAREk"

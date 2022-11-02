@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,651 likes - 101 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,823 likes - 101 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 55 | [Kano](https://open.spotify.com/track/00VOLFxUiXMcWC8XVotjTm) | [Maher Cissoko](https://open.spotify.com/artist/7v8qNR5OXbOludbhQoLabP) | [Cissoko Heritage](https://open.spotify.com/album/1b1GGqobvbVrPdedaj7w5w) | 3:57 |
 | 56 | [Kagala namib](https://open.spotify.com/track/6mdTVS7vrqpd2uUJ2uB3xN) | [Elemotho](https://open.spotify.com/artist/5cbeD8yRFDT2rkmX2x1diB), [Jackson Jr\. Kaujeua](https://open.spotify.com/artist/6zsZzIaWZOXzVae17wc8KY), [Ermelinda Thataone](https://open.spotify.com/artist/4Nw5eQl9eIQ8jDW44e3rj1), [Polina Loubnina](https://open.spotify.com/artist/256czgZzckInCYYbYAZTzl), [Jackson Wahengo](https://open.spotify.com/artist/4cR93Kh0uITQFQ9C36RYSI), [Tulonga Wahengo](https://open.spotify.com/artist/5EOYNuEjtcOm1BDBouX9J1), [Erick Hamuntenya](https://open.spotify.com/artist/5vV6V9FeMwNlKCb9Pm9WHo), [Ralph Geiseb](https://open.spotify.com/artist/1qxxbFOeqNtrCPUbDUOmgw), [Emmanuel Karumazondo](https://open.spotify.com/artist/0SIZ7bBPfEP1UdRwBEHoui) | [My Africa](https://open.spotify.com/album/4eTKD1Yq7Ztl9lbwVZmCn8) | 6:42 |
 | 57 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 |
-| 58 | [Minmanle?](https://open.spotify.com/track/6dh2Pk67JhkjUof4i3N2ZY) | [Jess Sah Bi & Peter One](https://open.spotify.com/artist/4AAPGFYcThlVFRh8jXpaDT) | [Our Garden Needs Its Flowers](https://open.spotify.com/album/1jAPqpP7jpLIpZZnXU5Y6u) | 4:07 |
+| 58 | [Minmanle?](https://open.spotify.com/track/6dh2Pk67JhkjUof4i3N2ZY) | [Jess Sah Bi](https://open.spotify.com/artist/15aLRR4OIdppLLQ3Kboc95), [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Our Garden Needs Its Flowers](https://open.spotify.com/album/1jAPqpP7jpLIpZZnXU5Y6u) | 4:07 |
 | 59 | [Toroya](https://open.spotify.com/track/1M3FFFzymhsgKCs6b67SjM) | [Issa Bagayogo](https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn) | [Timbuktu](https://open.spotify.com/album/5IpKgE3sThNxDaMDe9uSWO) | 3:37 |
 | 60 | [Admeta Harmony](https://open.spotify.com/track/7tntp9lLredGjNeh4KG1cQ) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy), [Jens Christian 'Chappe' Jensen](https://open.spotify.com/artist/3WjC3u0cM2lefYZpKPllrQ) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:28 |
 | 61 | [Salubrité](https://open.spotify.com/track/6bWVW40nFfIG0uxav8lKwS) | [Bao Sissoko](https://open.spotify.com/artist/4CTaCrWrRUUmZt3KJtwg3E), [Mola Sylla](https://open.spotify.com/artist/1OCWAUqRSu9ZUGdpehnEWK), [Wouter Vandenabeele](https://open.spotify.com/artist/0OlrNScJQ7YYGSkij4TFg8) | [Tamala](https://open.spotify.com/album/0HxflxCmZs5FOmTVx2jryV) | 5:18 |

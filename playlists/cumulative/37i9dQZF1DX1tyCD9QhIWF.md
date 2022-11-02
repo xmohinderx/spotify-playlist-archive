@@ -4,7 +4,7 @@
 
 > Big riffs and pounding drums to help you strut the streets.
 
-88 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
+89 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/7gqp6Qihy76TgbYOyECoLT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-06-10 |  |
 | [Ready For Something](https://open.spotify.com/track/0Tep6Kp3UHzpewyC0iSsDd) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 3:57 | 2022-09-13 |  |
 | [Ready for the High](https://open.spotify.com/track/1v7w94vaYr1gcVUkIgN7y1) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Ready for the High](https://open.spotify.com/album/0IVC8NNkU0KiDmWCRHeoHN) | 4:05 | 2021-11-30 | 2022-10-13 |
-| [Ready for the High](https://open.spotify.com/track/7tWT6Ye2xizFRpIU5P2iu3) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:05 | 2022-09-13 |  |
+| [Ready for the High](https://open.spotify.com/track/6gReaFvSI1Pabi3xE0Oh9V) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:05 | 2022-09-13 |  |
+| [Ready for the High](https://open.spotify.com/track/7tWT6Ye2xizFRpIU5P2iu3) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:05 | 2022-09-13 | 2022-11-02 |
 | [Ruins](https://open.spotify.com/track/0vK3N1xq5nyQpaD7d1CE9I) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 4:10 | 2021-11-30 | 2022-06-11 |
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-06-10 |  |
 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 | 2021-11-30 | 2022-09-15 |

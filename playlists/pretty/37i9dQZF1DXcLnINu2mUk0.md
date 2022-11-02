@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bárbara Bandeira e Ivandro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,865 likes - 59 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,924 likes - 59 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,19 +48,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 38 | [Break It](https://open.spotify.com/track/05vnos9Hfj27gKeReNWDNF) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF) | [Break It](https://open.spotify.com/album/2VGFyPuCNtXM9Y87rVW8Kq) | 2:24 |
 | 39 | [Bad Like You](https://open.spotify.com/track/2Gle4hosXEnrkdTu2YMwsH) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Come quarantine w me](https://open.spotify.com/album/4w38KrD6iNjnzUUEj8hfsi) | 4:27 |
 | 40 | [Depois da Chuva](https://open.spotify.com/track/1ScmnksyeYyEtdBlqZcozC) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/4ZgWBr16niSFDwCIiJ4iBk) | 4:39 |
-| 41 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 |
-| 42 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 41 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
+| 42 | [Última Vez](https://open.spotify.com/track/3IBrb6eBXyPo1EN4ElkLQI) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Última Vez](https://open.spotify.com/album/5qUi6QhO9E4cbVKvJHDiOW) | 3:25 |
 | 43 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 44 | [Rubi](https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Midas](https://open.spotify.com/artist/6bLqHfd3myOdJyC4z6Blhj) | [Rubi](https://open.spotify.com/album/5GZRN9j6B5N7Gk5jtvaRtM) | 3:43 |
 | 45 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 46 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 |
-| 47 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
+| 46 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 |
+| 47 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter LS](https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 |
 | 48 | [Novo Demais](https://open.spotify.com/track/5oSmue3lpl1Ur8RkMFRj32) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd), [eaux](https://open.spotify.com/artist/0AtdC5zNnXJq428tUMW7uh) | [Novo Demais](https://open.spotify.com/album/66py2LrNUY7Q6zXrEo8vjH) | 3:08 |
 | 49 | [Mirmã](https://open.spotify.com/track/3zE75C7Ao1G9VJr2bW0kGO) | [Toty Sa'Med](https://open.spotify.com/artist/7bSdfJqYQHXa3oKbNuY1Os) | [MOXI](https://open.spotify.com/album/5zyXkcLivSXfP68Bd1NDSH) | 3:16 |
-| 50 | [Ka nu komplika](https://open.spotify.com/track/4m1wnxbGmnKLE8BsWy6pBD) | [Ricky Man](https://open.spotify.com/artist/3rfltEHnMqq67JqiCU0s6n), [Valter LS](https://open.spotify.com/artist/3HluRyydje2ZZVhFvwXl5P) | [Ka nu komplika](https://open.spotify.com/album/0jVrhfP5LcnoJMftzS7ueW) | 3:19 |
-| 51 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 |
-| 52 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 |
-| 53 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
+| 50 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 |
+| 51 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 |
+| 52 | [Right Now](https://open.spotify.com/track/4U9RdI6luKEGy4xn2n2iZ5) | [Bere](https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV) | [Right Now](https://open.spotify.com/album/3z1x7PCAvhRkG0F7bxAf3W) | 2:41 |
+| 53 | [Conquista Mundo](https://open.spotify.com/track/52Zd6OI7ypoK9D27dSsjHT) | [Mulatoh Prod](https://open.spotify.com/artist/3rpJhMe1y5yfFyuSIWP2zR), [Tino OG](https://open.spotify.com/artist/4eS9qGsJeOE6d5cqAlfPST), [Akapta G](https://open.spotify.com/artist/7qrgEKJaQNUpmWxIjfnopY) | [Conquista Mundo](https://open.spotify.com/album/3xbeCkmXaHf17iAXIByf6M) | 2:32 |
 | 54 | [Slow Motion](https://open.spotify.com/track/21SPIQSg34YDZTJNIybhBE) | [Camy Breezy](https://open.spotify.com/artist/1j8AO6p658k4Zv7q7WMWZZ) | [Slow Motion](https://open.spotify.com/album/3wMiRqzoARY1TtiPOvAnAg) | 3:06 |
 | 55 | [Já Não Dá](https://open.spotify.com/track/0iWK3yXRNehoxd3mGzOf4x) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Johnny B.O.B](https://open.spotify.com/artist/2eSh5msnLJbgXewXSm9XvJ), [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K) | [Já Não Dá](https://open.spotify.com/album/0AxsOCsnd0mdbqV8XExiTS) | 3:43 |
 | 56 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [UP](https://open.spotify.com/track/50etRztTYtGrwhUi0MV7JX) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [UP](https://open.spotify.com/album/79gzyakOLwnxmy7mWW4MZi) | 2:37 |
 | 59 | [Calma](https://open.spotify.com/track/05t8u8aUPngMb4a0K35GUC) | [CP](https://open.spotify.com/artist/54FkNwUXQGoOXQF6nU3ZeB), [Maurex](https://open.spotify.com/artist/2h8Uc3bjHkRnEc2PVpO8Je) | [Calma](https://open.spotify.com/album/19zw55AIExi0SYdFJRBHGf) | 2:42 |
 
-Snapshot ID: `MTY2NjkxMTYwMCwwMDAwMDAwMGVjZDQ1YzVjYmU1NWUyMDRkY2VmM2M3N2YyMTE4MGNk`
+Snapshot ID: `MTY2NjkxMTYwMCwwMDAwMDAwMDlmZTAyZGVhNDlmMTFjNzI0NDVmNzZmNjc5NTk0ZGFk`

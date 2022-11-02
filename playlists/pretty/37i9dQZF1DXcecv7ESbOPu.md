@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,629 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,658 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 |
 | 36 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 |
 | 37 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 |
-| 38 | [My Chosen One \(feat\. LÉON\)](https://open.spotify.com/track/6bI4K9M71fhCMirFGQtCi4) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pop\-Up Dynamo!](https://open.spotify.com/album/011nOWPtQukAjMKMzgyEBE) | 3:28 |
+| 38 | [My Chosen One](https://open.spotify.com/track/6bI4K9M71fhCMirFGQtCi4) | [PG Roxette, Roxette, Per Gessle](https://open.spotify.com/artist/3k83Pwm2SN09V7k57fUWUM), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pop\-Up Dynamo!](https://open.spotify.com/album/011nOWPtQukAjMKMzgyEBE) | 3:28 |
 | 39 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 40 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 |
 | 41 | [Love & Toxic?](https://open.spotify.com/track/1Aj5Fennst2h7kTsZjgFUU) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [Love & Toxic?](https://open.spotify.com/album/37vGTropk8VtKiysRQ4jko) | 2:06 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 61 | [Älskar dig mest](https://open.spotify.com/track/6iLhzs7yArNHHF9sRd79MM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Älskar dig mest](https://open.spotify.com/album/6kZ325dDbKL8PXk63UWB4R) | 1:34 |
 | 62 | [Somnade på bussen](https://open.spotify.com/track/0UAkW98P88ioIE3LUCy4be) | [ALMEA](https://open.spotify.com/artist/0CtuSYu3T2MyMqfSoWThwW) | [Somnade på bussen](https://open.spotify.com/album/17sdZSqXkeNgWITyoVHdr6) | 2:48 |
 | 63 | [Blåst \- Från "Älskar inte vi dig då \- Hommage till Olle Adolphson"](https://open.spotify.com/track/2ksBJHh9HnM0GQG7VnBvRp) | [Junior Brielle](https://open.spotify.com/artist/4wp7fk3zvD1Nr688kd4VSc) | [Blåst \(Från "Älskar inte vi dig då \- Hommage till Olle Adolphson"\)](https://open.spotify.com/album/2Mecg4Dj6oPx3id1bIA5RH) | 3:26 |
-| 64 | [Rockbotten](https://open.spotify.com/track/1R5NW7I0rXunnCyJZguixB) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Rockbotten](https://open.spotify.com/album/79Ezd1t5311MggrOglc3Hj) | 4:35 |
+| 64 | [Rockbotten](https://open.spotify.com/track/1R5NW7I0rXunnCyJZguixB) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf), [H\. Self](https://open.spotify.com/artist/0ZCVudOFNfgtYnnAsBAUdz) | [Rockbotten](https://open.spotify.com/album/79Ezd1t5311MggrOglc3Hj) | 4:35 |
 | 65 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 66 | [Late Nights](https://open.spotify.com/track/6dhvkxlef1tdtFCksgq9kw) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Late Nights](https://open.spotify.com/album/5VAUKjs691na9pODVWk6tc) | 2:43 |
 | 67 | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/track/3yaLVo3UBWXEy9FcHl8kOb) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [SOMEONE ELSE'S PROBLEM](https://open.spotify.com/album/7yq3G4VS4hSqfSgV4bfWHb) | 2:40 |

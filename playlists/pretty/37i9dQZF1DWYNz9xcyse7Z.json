@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 31916,
+  "num_followers": 32011,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMDM2YmQ3Y2Q5MWU5NWY2MjU4ZjllNDRlYTJkOTU2YWE3",
+  "snapshot_id": "MTY0MzM0NTUyMywwMDAwMDAwMDdkMzc4MWVjNDI0N2E4Yzc0YmM4OWMyNGY5NmY1ODQx",
   "tracks": [
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "El Jardin Olvidado",
         "url": "https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB"
       },
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "De Huarache Y Sombrero",
+        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ortiz",
+          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "El Ranchero Afamado",
+      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -1123,6 +1139,22 @@
       "duration_ms": 156942,
       "name": "Rama Verde",
       "url": "https://open.spotify.com/track/4ItuglUP2usKbAWKFcPZna"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Mi Guitarra y Yo Vol. 2",
+        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Se Me Mamo El Becerro",
+      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1147,38 +1179,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Mi Guitarra y Yo Vol. 2",
-        "url": "https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 238626,
-      "name": "Se Me Mamo El Becerro",
-      "url": "https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "De Huarache Y Sombrero",
-        "url": "https://open.spotify.com/album/31MF32JeJx4ZCBVrDt92KA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ortiz",
-          "url": "https://open.spotify.com/artist/4uFtoGq7ttbGYMLsBZzGM8"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "El Ranchero Afamado",
-      "url": "https://open.spotify.com/track/3rwY8ugSp7G5nRAIXiTlJZ"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+        "name": "Por Las Calles Enlodadas",
+        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
       },
       "artists": [
         {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 146906,
-      "name": "Esta Cobardia",
-      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+      "duration_ms": 148573,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1227,18 +1227,82 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Por Las Calles Enlodadas",
-        "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
       "artists": [
         {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 148573,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx"
+      "duration_ms": 146906,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "De La Sierra A La Playa",
+        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
+      },
+      "artists": [
+        {
+          "name": "Los Grandes Del Pardito",
+          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
+        }
+      ],
+      "duration_ms": 215301,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
+      },
+      "artists": [
+        {
+          "name": "Los Students",
+          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Llorando Por Ti",
+      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Mi Guitarra Y Yo",
+        "url": "https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Que Caso Tiene",
+      "url": "https://open.spotify.com/track/7EBDJJ6ovV80cvMrQEeK4V"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Besos y Caricias",
+        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 130039,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1263,70 +1327,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "De La Sierra A La Playa",
-        "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
-      },
-      "artists": [
-        {
-          "name": "Los Grandes Del Pardito",
-          "url": "https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb"
-        }
-      ],
-      "duration_ms": 215301,
-      "name": "Fue Tu Culpa",
-      "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Mi Guitarra Y Yo",
-        "url": "https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Que Caso Tiene",
-      "url": "https://open.spotify.com/track/7EBDJJ6ovV80cvMrQEeK4V"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
-      },
-      "artists": [
-        {
-          "name": "Los Students",
-          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
-        }
-      ],
-      "duration_ms": 198946,
-      "name": "Llorando Por Ti",
-      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Besos y Caricias",
-        "url": "https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 130039,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7GOi2uDFPSc1pnq33KvgqW"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "Como Duele Saber",
         "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
       },
@@ -1339,26 +1339,6 @@
       "duration_ms": 198586,
       "name": "La Canelera",
       "url": "https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn \"El Gallo\"",
-          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
-        },
-        {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "El Venadito",
-      "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1459,6 +1439,22 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
+        "name": "Un Golpe Mas",
+        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 151813,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1475,18 +1471,38 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Un Golpe Mas",
-        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
+        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
       "artists": [
         {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+          "name": "Valent\u00edn \"El Gallo\"",
+          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
+        },
+        {
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
         }
       ],
-      "duration_ms": 151813,
-      "name": "La Chuparrosa",
-      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
+      "duration_ms": 289802,
+      "name": "El Venadito",
+      "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
-      },
-      "artists": [
-        {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
-        }
-      ],
-      "duration_ms": 197466,
-      "name": "Los Plebes Atrevidos",
-      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
         "name": "Tres Suspiros",
         "url": "https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB"
       },
@@ -1571,34 +1571,18 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
         }
       ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
-        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "Mi Virgencita",
-      "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
+      "duration_ms": 197466,
+      "name": "Los Plebes Atrevidos",
+      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
     },
     {
       "added_at": "2022-01-25 18:06:26",
@@ -1619,6 +1603,38 @@
     {
       "added_at": "2022-01-25 18:06:26",
       "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 180819,
+      "name": "No Se Ha Dado Cuenta",
+      "url": "https://open.spotify.com/track/7fjHEYbzucBpM8GO7jgSqh"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
+        "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "Mi Virgencita",
+      "url": "https://open.spotify.com/track/3CqPkvPNkDHVHPSeHCUbMu"
+    },
+    {
+      "added_at": "2022-01-25 18:06:26",
+      "album": {
         "name": "20 Exitos Sierre\u00f1os",
         "url": "https://open.spotify.com/album/3oQTOdQllM1EwXNzrmClNi"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 198813,
       "name": "Eres Mi Droga",
       "url": "https://open.spotify.com/track/521UsXTm7oXDQAgTf9dyS4"
-    },
-    {
-      "added_at": "2022-01-25 18:06:26",
-      "album": {
-        "name": "Siguen los Exitos",
-        "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
-      },
-      "artists": [
-        {
-          "name": "Sierre\u00f1os de Sinaloa",
-          "url": "https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Que Casualidad",
-      "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"
     }
   ],
   "unique_name": "Sierre\u00f1as Viejitas",

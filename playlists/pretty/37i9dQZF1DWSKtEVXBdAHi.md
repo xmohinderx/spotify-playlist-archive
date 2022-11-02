@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,082 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 23 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
 | 24 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 25 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
-| 26 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
-| 27 | [Forever Young](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Forever Young](https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8) | 3:21 |
+| 26 | [Forever Young](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Forever Young](https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8) | 3:21 |
+| 27 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
 | 28 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
 | 29 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
 | 30 | [Bruises \- Steve Void Remix](https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:32 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 63 | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/track/4cTo1wbzGiVJJiCG3BdZ64) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Eskeemo](https://open.spotify.com/artist/6c1KIrxttQDU6A31FwNlXg) | [Lost In Amsterdam \(feat\. Eskeemo\)](https://open.spotify.com/album/3GlialhdlVuLTrU3BGF4aj) | 2:24 |
 | 64 | [FOMO](https://open.spotify.com/track/02zYabT1FTwMy8byKpd40O) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Sylo Songs](https://open.spotify.com/album/5q8Wc6yo9hQfLH9neXgXRR) | 2:07 |
 | 65 | [Hotel Walls](https://open.spotify.com/track/0Qn1TA2a7EIcSPc2X1xXmu) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:26 |
-| 66 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 |
-| 67 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
+| 66 | [Lion](https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lion](https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG) | 3:36 |
+| 67 | [Blinding Lights](https://open.spotify.com/track/7JAo7wy8BzmP9smtTJ3fuU) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blinding Lights](https://open.spotify.com/album/5K1nRHJ9JrwHAGXKc0yrZD) | 2:10 |
 | 68 | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/track/0IhTEIjFaRt3B2NQYf9azQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Thing For You \(With Martin Solveig\)](https://open.spotify.com/album/1cbCgek1ORPGZFKlBIhBmH) | 3:11 |
 | 69 | [OK \- Ofenbach Remix](https://open.spotify.com/track/1iPWXMClLL4AZtBuMD0lh3) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [OK \(The Remixes\)](https://open.spotify.com/album/2ridyWvBRA24PXySJ2qeSS) | 3:04 |
 | 70 | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/track/2Ae5awwKvQpTBKQHr1TYCg) | [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ), [Pretty Sister](https://open.spotify.com/artist/4bvWFV51SAEocM22uiDOza) | [Dynamite \(feat\. Pretty Sister\)](https://open.spotify.com/album/1B0jux6nCrSuez1iPS7tUJ) | 3:15 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
 | 80 | [Too Far Gone](https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Too Far Gone](https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW) | 3:16 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDkyNzYyMThmMjIzNDE5OGUxYzY3YjQ2M2ZlYmZkYzQ1`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDc0ZTNjMWE3OTE5NDlkZmFhNGQwNDI1MDJjZmNjYzEx`

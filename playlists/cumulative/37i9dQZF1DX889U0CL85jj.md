@@ -4,7 +4,7 @@
 
 > Just chill.
 
-364 songs - 20 hr 59 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+367 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-06-10 |  |
 | [Chocolate Hills](https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Chocolate Hills](https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY) | 3:10 | 2022-01-21 | 2022-07-29 |
 | [city](https://open.spotify.com/track/7ezWFPZxTDiQMl7NlAXdkR) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [city](https://open.spotify.com/album/7B56wFrXjSdNgudqe46eKz) | 2:21 | 2020-07-31 | 2022-01-22 |
-| [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-02-05 |  |
+| [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-02-05 | 2022-11-02 |
+| [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 | 2022-08-19 |  |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2020-03-30 | 2022-08-06 |
 | [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-08-21 |  |
 | [Come Down When You're Ready](https://open.spotify.com/track/1guFmtftIo1lNcin08glmH) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Come Down When You're Ready](https://open.spotify.com/album/1Q2UTZxAQVJe3kQog1zsEP) | 4:11 | 2020-07-31 | 2022-01-22 |
@@ -97,7 +98,8 @@
 | [Dreams](https://open.spotify.com/track/17TX3VpcIYnjHLTFbXE9zO) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [WHEN WE'RE FAR APART I FALL APART](https://open.spotify.com/album/2YjUjPvj8KfFyhnE24KJxU) | 4:16 | 2021-08-27 | 2022-01-22 |
 | [either side](https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:47 | 2022-08-19 |  |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-07 | 2022-10-13 |
-| [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 | 2022-10-21 |  |
+| [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 | 2022-10-21 | 2022-11-02 |
+| [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 | 2022-10-21 |  |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-10 | 2022-10-08 |
 | [everything's worth it](https://open.spotify.com/track/01N0x8m4P4SUren7NBYxQl) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/5LYJ2vWmQ6FBjlaIZ5yoZl) | 4:35 | 2021-06-07 | 2022-10-29 |
 | [everything's worth it](https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [everything's worth it](https://open.spotify.com/album/3kxSzWBcKwvmKRtz5qhTCo) | 4:35 | 2022-08-19 |  |
@@ -279,7 +281,8 @@
 | [Slipping Away](https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:55 | 2022-06-10 |  |
 | [Slipping Away](https://open.spotify.com/track/0BCPHe2assdUDijB5gUuCU) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Slipping Away](https://open.spotify.com/album/6udWhj8k7YdjygeAl0HE0S) | 3:55 | 2020-06-26 | 2022-07-29 |
 | [Slowdiving](https://open.spotify.com/track/4oqyzxXvzHTptWo5l2tlpz) | [Duñe](https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [Hundred Fifty Roses](https://open.spotify.com/album/5SCpPAXLERpGRtQpM6d1MR) | 3:14 | 2022-04-29 |  |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-08 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-08 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-08 | 2022-11-02 |
 | [Snowflower](https://open.spotify.com/track/0pbNi6CIjylkOjq7a1PFei) | [Annie Stela](https://open.spotify.com/artist/6L2LACunZv5Bk1pyQdYCU0) | [Snowflower](https://open.spotify.com/album/3EnEsCxMnDEIoIp8tNBf4x) | 3:28 | 2022-06-09 |  |
 | [Sober](https://open.spotify.com/track/2lQv5l2Bmf7hYyYwjNe2lC) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Sober](https://open.spotify.com/album/7qM4xyGyZdO6K2r2k7Lz7V) | 3:19 | 2020-03-26 | 2022-01-22 |
 | [Sola](https://open.spotify.com/track/1B72ipO4lbLubrgJRqpiiR) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Sola](https://open.spotify.com/album/1h03vGM2kwQnf3q9yliFZx) | 3:18 | 2022-08-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Ali Loka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,683 likes - 67 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,702 likes - 67 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,6 +74,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 64 | [Meen Fe Dol](https://open.spotify.com/track/63uctqlwCI5AxXYmpTVO2Z) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Meen Fe Dol](https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ) | 3:55 |
 | 65 | [Leeh Aashgah](https://open.spotify.com/track/0TBgkcyxayUBByqDt0HhNR) | [Meteb Alshalan](https://open.spotify.com/artist/7HRVFYJ71mBbcv8gA2qEjA) | [Leeh Aashgah](https://open.spotify.com/album/3txXZExrTSWJaDgIMS4MOv) | 4:04 |
 | 66 | [Yjeek Youm](https://open.spotify.com/track/7mhRSbBekfLTVLcWo3rxmW) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Yjeek Youm](https://open.spotify.com/album/2KShjcCHoSnt6qDnW9HxAz) | 3:36 |
-| 67 | [يا ترى](https://open.spotify.com/track/6FC6o08x0Ah6AVl4SVoCMI) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/0pdp0vz5ruqkvmpXjtmAjI) | 0:35 |
+| 67 | [يا ترى](https://open.spotify.com/track/0jdJimx5sKSQIk2509Hhvv) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [يا ترى](https://open.spotify.com/album/2v4Lpoa78QNwurwzvQJOih) | 0:35 |
 
-Snapshot ID: `MTY2NjMwNjQyMywwMDAwMDAwMDg1YjliMDRlYzI0ZWVkOTM4ZDU4MThhZDg3MzU0ZWY0`
+Snapshot ID: `MTY2NjMwNjQyMywwMDAwMDAwMDkzMmE4MTczYWU0MjMzOWQ3ZTRiMzRmM2FlM2ZmZjEy`

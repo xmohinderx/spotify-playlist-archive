@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 271349,
       "name": "2009",
       "url": "https://open.spotify.com/track/0tDx1qbjSAqljmYBwQQs8m"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 63214,
       "name": "cloud castle",
       "url": "https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 217530,
       "name": "Earth Worship",
       "url": "https://open.spotify.com/track/1TZ0kYAnkz5hhrKU5hsKPp"
@@ -3929,6 +3929,28 @@
       "duration_ms": 351746,
       "name": "Gregorian Chance",
       "url": "https://open.spotify.com/track/7DvvUCZQzyFu5b7vW0cM3K"
+    },
+    {
+      "album": {
+        "name": "VISUALS (DELUXE)",
+        "url": "https://open.spotify.com/album/1uV3CJwt4iG0IVIYFWt7OZ"
+      },
+      "artists": [
+        {
+          "name": "KUNZITE",
+          "url": "https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO"
+        },
+        {
+          "name": "Ratatat",
+          "url": "https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "HALOHEAD",
+      "url": "https://open.spotify.com/track/0svx31qU41UZMV9qDA4H6S"
     },
     {
       "album": {

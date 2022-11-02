@@ -742,6 +742,24 @@
     },
     {
       "album": {
+        "name": "Colorful Raindrop",
+        "url": "https://open.spotify.com/album/6Xr7K3xKDAxS1nUwyRDvOW"
+      },
+      "artists": [
+        {
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188262,
+      "name": "Colorful Raindrop",
+      "url": "https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q"
+    },
+    {
+      "album": {
         "name": "The Reverb 2022 OMEGA TRIBE -VAP Edition-",
         "url": "https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY"
       },
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 211562,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ"
@@ -1829,6 +1847,24 @@
       "duration_ms": 298999,
       "name": "KISS",
       "url": "https://open.spotify.com/track/3tVxy9ELaFCugIRJZuTZZA"
+    },
+    {
+      "album": {
+        "name": "KOUKIATSU GIRL (Cover)",
+        "url": "https://open.spotify.com/album/1YfgGk0q0Lwvf0L0pybRbH"
+      },
+      "artists": [
+        {
+          "name": "Junk Fujiyama",
+          "url": "https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268571,
+      "name": "KOUKIATSU GIRL - Cover",
+      "url": "https://open.spotify.com/track/5QlxHMreTskkE83iRbCcc6"
     },
     {
       "album": {
@@ -2301,6 +2337,24 @@
       "duration_ms": 192115,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
+    },
+    {
+      "album": {
+        "name": "Music, Dance & Love",
+        "url": "https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Music, Dance & Love",
+      "url": "https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa"
     },
     {
       "album": {
@@ -5909,7 +5963,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 239300,
       "name": "\u697d\u5712",
       "url": "https://open.spotify.com/track/1uqY0QGoXd6Lj95Igp3h3W"
@@ -6163,7 +6217,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-02",
       "duration_ms": 265040,
       "name": "\u8584\u660e",
       "url": "https://open.spotify.com/track/1Omq8yA8pYXeB8sQ9LnFyZ"

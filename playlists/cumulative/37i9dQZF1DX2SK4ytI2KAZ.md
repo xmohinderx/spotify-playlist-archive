@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-399 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+401 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Come To The Beach](https://open.spotify.com/track/3cwrYbdU4eJkVXiH2USGid) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Come To The Beach](https://open.spotify.com/album/7zvkLdqZGE4L68lf37t53G) | 2:58 | 2021-03-10 |  |
 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 | 2021-03-10 |  |
 | [Coming Up Short](https://open.spotify.com/track/3YrT4nWBMF1eEHYc2fNOht) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Coming Up Short](https://open.spotify.com/album/5M2Z9oYLzg6BzpefliunfX) | 3:15 | 2021-03-10 | 2022-04-19 |
-| [Connection](https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Connection \- Echo in the Dark, Pt\. I](https://open.spotify.com/album/4adJa7zLA5L0XmhDzyD6c6) | 3:45 | 2022-02-04 |  |
+| [Connection](https://open.spotify.com/track/5bcuTbaK9Ff2b0BxPayGmh) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Connection \- Echo in the Dark, Pt\. I](https://open.spotify.com/album/4adJa7zLA5L0XmhDzyD6c6) | 3:45 | 2022-02-04 | 2022-11-02 |
+| [Connection](https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [10 Tracks to Echo in the Dark](https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv) | 3:45 | 2022-10-07 |  |
 | [Critical Mistakes](https://open.spotify.com/track/0L0Fq1BEatmTzQ96R5GuVX) | [888](https://open.spotify.com/artist/2KOCXIEmkM6K82nL9fovWf) | [Critical Mistakes](https://open.spotify.com/album/7BafwPHEx0mlMAkLUulc1F) | 3:20 | 2022-03-11 | 2022-07-30 |
 | [Crocodile Tears](https://open.spotify.com/track/1Ogx9hdaApNyMTDLIYLh4L) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Crocodile Tears](https://open.spotify.com/album/50z98bFMiIfpH5ZoTfhTTG) | 4:03 | 2022-04-29 | 2022-07-29 |
 | [Crooked Eyes](https://open.spotify.com/track/6LUqGcQXQlsE6tEwswHIFG) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Crooked Eyes](https://open.spotify.com/album/6Jaz2rNwmGPA5xuZx9HPPr) | 4:15 | 2022-03-11 | 2022-04-13 |
@@ -135,7 +136,7 @@
 | [Good Old Days](https://open.spotify.com/track/0uUp3khxvnrRrr6FLCXcC3) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/5d8D46IKAaS3JTRpAO8Nbn) | 3:24 | 2021-03-10 | 2022-07-29 |
 | [Good Old Days](https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs) | 3:24 | 2022-06-27 |  |
 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 | 2022-03-11 | 2022-04-20 |
-| [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 | 2022-06-27 |  |
+| [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 | 2022-06-27 | 2022-11-02 |
 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-03-10 |  |
 | [Grind \(feat\. Yoshi Flower\)](https://open.spotify.com/track/1EOfAIDwTq1CXHllp45V44) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Powerslide](https://open.spotify.com/album/2ge7NcJyzQGzHDtLHJ8MV3) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2021-03-10 | 2022-07-29 |
@@ -398,6 +399,7 @@
 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-04-29 | 2022-08-18 |
 | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/track/6dgniKsterTlem7d54gGjP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx) | 5:09 | 2022-01-21 |  |
 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 | 2021-03-10 | 2022-05-28 |
+| [WONDER](https://open.spotify.com/track/5MvVNla7ZjT51haF10iVTu) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER \(reimagined\)](https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8) | 3:45 | 2022-10-07 |  |
 | [WONDER](https://open.spotify.com/track/6dZQEvVq2Zt23bD99bpInc) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER](https://open.spotify.com/album/2LUpdRveZYA02M51m1sJPb) | 3:45 | 2021-03-10 | 2022-07-29 |
 | [Xo](https://open.spotify.com/track/07szho7oBzTazuymjyzpLg) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Xo](https://open.spotify.com/album/1eQa2aJyNUJw5siUNwNDEx) | 3:05 | 2022-03-11 | 2022-04-21 |
 | [Yellow](https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Yellow](https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e) | 3:48 | 2022-07-29 |  |

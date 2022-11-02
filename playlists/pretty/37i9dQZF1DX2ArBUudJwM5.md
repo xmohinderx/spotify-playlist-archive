@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > ¡TINI y más mujeres a todo volumen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,168 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,197 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 18 | [Pedestal](https://open.spotify.com/track/7p4QEB7iXuOG7Zomx9WMqn) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Pedestal](https://open.spotify.com/album/2IsAYh8idgFVFh9ZeJ1Yu6) | 3:28 |
 | 19 | [Dándote](https://open.spotify.com/track/4qjxEKW5hIOhsZ3O584W63) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Dándote](https://open.spotify.com/album/0TMWoq8coUwBzUbSGeijwG) | 3:38 |
 | 20 | [Me Va Muy Bien](https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Me Va Muy Bien](https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf) | 2:21 |
-| 21 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 |
-| 22 | [Me Tienta](https://open.spotify.com/track/439kXtzOgB3Rqi2KiCDAJc) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Me Tienta](https://open.spotify.com/album/2nQyqyr3saA74QH13pbS2V) | 2:44 |
+| 21 | [Me Tienta](https://open.spotify.com/track/439kXtzOgB3Rqi2KiCDAJc) | [Agus Padilla](https://open.spotify.com/artist/2qmA5QmaGZH3ky4qq25d1m), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [Me Tienta](https://open.spotify.com/album/2nQyqyr3saA74QH13pbS2V) | 2:44 |
+| 22 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 |
 | 23 | [Te Pense un Monton](https://open.spotify.com/track/24La1Vx1hoGp9SVo3gL8x5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Te Pense un Monton](https://open.spotify.com/album/2Di4g9I7pzOCrNOAAx01rE) | 2:24 |
 | 24 | [SOLA](https://open.spotify.com/track/4m7ZXTzncCmDo1yCjNC4xh) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [SOLA](https://open.spotify.com/album/6ibXgT9otExjpjJBdgzkp9) | 2:55 |
 | 25 | [Sed](https://open.spotify.com/track/0tv5fCvV6pLcwstfO2zxLP) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Call Me](https://open.spotify.com/track/5iUS5k0A8ZN0Vgr01obiR2) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [Call Me](https://open.spotify.com/album/1rYrD5yRhwQnDb67POVJgy) | 2:33 |
 | 50 | [Fenty](https://open.spotify.com/track/1o4DbSmhwZ08Rnq99Lhqvo) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Fenty](https://open.spotify.com/album/3Zkt2UDHWaklY7JxWnaAtp) | 2:30 |
 
-Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMGNkMDFmMGZlMzg2MDQ5NjE0NGU4ZjBjZDRiMzRmN2Nk`
+Snapshot ID: `MTY2NDkzODg2MCwwMDAwMDAwMDYyOTU4MzdjODgzYzU4MDFkNzBiNWM0YWY4YzUwM2Zj`

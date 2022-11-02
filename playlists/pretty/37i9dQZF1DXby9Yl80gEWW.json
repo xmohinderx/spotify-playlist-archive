@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 31095,
+  "num_followers": 31146,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMGNiOTQyYjgzMWZlY2EyOGE0Yzg3MTYyNjg2YWQ0MjRh",
+  "snapshot_id": "MTY2NTExNTIwMCwwMDAwMDAwMDUxZWJkMDUzMmQ4NDQzNTQyZGFkZjc4ZmVhOGU5ODFk",
   "tracks": [
     {
       "added_at": "2022-10-07 04:00:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "33 Guitar Instrumentals",
+        "url": "https://open.spotify.com/album/2QYQxbv8IwFPZP2T65sXkg"
+      },
+      "artists": [
+        {
+          "name": "Clarence White",
+          "url": "https://open.spotify.com/artist/6bV5tUO90I3oRIy3Gy1UOG"
+        }
+      ],
+      "duration_ms": 85626,
+      "name": "Willdwood Flower",
+      "url": "https://open.spotify.com/track/2J9evmBkXC8HkY8DkzbNtw"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Finch In The Pantry",
         "url": "https://open.spotify.com/album/5GXqDQAqbb4sJ63OGZAaSh"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 231098,
       "name": "Finch In The Pantry",
       "url": "https://open.spotify.com/track/5R6gLpBqAD6P7PzKMdIvLc"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Double Banjo Bluegrass Spectacular",
-        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
-      },
-      "artists": [
-        {
-          "name": "Tony Trischka",
-          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "Bon Aqua Blues",
-      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "33 Guitar Instrumentals",
-        "url": "https://open.spotify.com/album/2QYQxbv8IwFPZP2T65sXkg"
+        "name": "Double Banjo Bluegrass Spectacular",
+        "url": "https://open.spotify.com/album/4tIGzvCcfoHTYI8nlzPwch"
       },
       "artists": [
         {
-          "name": "Clarence White",
-          "url": "https://open.spotify.com/artist/6bV5tUO90I3oRIy3Gy1UOG"
+          "name": "Tony Trischka",
+          "url": "https://open.spotify.com/artist/1NjpWti9GnUtjjC2XV7UJK"
         }
       ],
-      "duration_ms": 85626,
-      "name": "Willdwood Flower",
-      "url": "https://open.spotify.com/track/2J9evmBkXC8HkY8DkzbNtw"
+      "duration_ms": 180493,
+      "name": "Bon Aqua Blues",
+      "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Long Violent History",
-        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Camp Chase",
-      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "The Muscle Shoals Recordings",
         "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 167320,
       "name": "California Chainshaw",
       "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Long Violent History",
+        "url": "https://open.spotify.com/album/6mnyZZR498NtFOkjGfGl8s"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Camp Chase",
+      "url": "https://open.spotify.com/track/0oe6Z8P9wQqrdRSaVtySKq"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Nickel Creek",
+        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "Robin And Marian",
+      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Tall Fiddler",
         "url": "https://open.spotify.com/album/1fo7fjWxKNcQ5FPX43oJFX"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 194151,
       "name": "Tall Fiddler",
       "url": "https://open.spotify.com/track/1CSVXXjCoOaPEqa2R5QDb3"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Nickel Creek",
-        "url": "https://open.spotify.com/album/5SGG7graQOU3OnK3cZZCNd"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 274200,
-      "name": "Robin And Marian",
-      "url": "https://open.spotify.com/track/2gfaYVBsjZrtXRTyy5ETMX"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
+      },
+      "artists": [
+        {
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "Peace Behind the Bridge",
+      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Formations",
         "url": "https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 198733,
       "name": "Smith Chapel",
       "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "Peace Behind the Bridge",
-      "url": "https://open.spotify.com/track/2zPgQOAfxCdfINZFtnPrHc"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
         "name": "Bluegrass 96",
         "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "A Man Must Carry On",
         "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 329933,
       "name": "Eternal Blues",
       "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Shallows",
-        "url": "https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V"
-      },
-      "artists": [
-        {
-          "name": "Hawktail",
-          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
-        }
-      ],
-      "duration_ms": 199365,
-      "name": "Shallows - Single Version",
-      "url": "https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
       },
       "artists": [
         {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
+        "name": "Shallows",
+        "url": "https://open.spotify.com/album/1AkizJGDtqdAQR9xtMK53V"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "duration_ms": 199365,
+      "name": "Shallows - Single Version",
+      "url": "https://open.spotify.com/track/0XfyWCu8jmidSYiCGSp1aN"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
       },
       "artists": [
         {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "The Good, the Bad and the Ugly",
-        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
       },
       "artists": [
         {
-          "name": "Southern Raised",
-          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
         }
       ],
-      "duration_ms": 351091,
-      "name": "The Good, the Bad and the Ugly",
-      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1559,22 +1563,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
-        "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
+        "name": "The Good, the Bad and the Ugly",
+        "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
       "artists": [
         {
-          "name": "Dominick Leslie",
-          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
-        },
-        {
-          "name": "Ric Robertson",
-          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
+          "name": "Southern Raised",
+          "url": "https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH"
         }
       ],
-      "duration_ms": 222646,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
+      "duration_ms": 351091,
+      "name": "The Good, the Bad and the Ugly",
+      "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
+        "name": "Banjo Man",
+        "url": "https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz"
       },
       "artists": [
         {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
+          "name": "Bill Emerson",
+          "url": "https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF"
         }
       ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
+      "duration_ms": 217866,
+      "name": "Good to Go",
+      "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1815,18 +1815,18 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
-        "name": "Banjo Man",
-        "url": "https://open.spotify.com/album/7B2u2hjEQowl7eBkCNwgHz"
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
       },
       "artists": [
         {
-          "name": "Bill Emerson",
-          "url": "https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF"
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
         }
       ],
-      "duration_ms": 217866,
-      "name": "Good to Go",
-      "url": "https://open.spotify.com/track/0UMa1yjIaKjDUqGpNWER9Q"
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2022-10-07 04:00:00",
       "album": {
+        "name": "Instrumental Bluegrass - Dobro",
+        "url": "https://open.spotify.com/album/0H9NxNfWX1InlbeetwJ8g2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Burch",
+          "url": "https://open.spotify.com/artist/3G6XeAPt67G86ZW2o94kAa"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Rainbow Bridge",
+      "url": "https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn"
+    },
+    {
+      "added_at": "2022-10-07 04:00:00",
+      "album": {
         "name": "Town's End",
         "url": "https://open.spotify.com/album/3YS90lzcD6JYYdT3wlB8nz"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 206106,
       "name": "Town's End",
       "url": "https://open.spotify.com/track/6fpL9QnornxpYhhWw6aWyM"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Instrumental Bluegrass - Dobro",
-        "url": "https://open.spotify.com/album/0H9NxNfWX1InlbeetwJ8g2"
-      },
-      "artists": [
-        {
-          "name": "Curtis Burch",
-          "url": "https://open.spotify.com/artist/3G6XeAPt67G86ZW2o94kAa"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Rainbow Bridge",
-      "url": "https://open.spotify.com/track/7iGwt0pkSxGRo5u5yHE5fn"
     },
     {
       "added_at": "2022-10-07 04:00:00",

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-306 songs - 17 hr 54 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+307 songs - 17 hr 57 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Drift Away](https://open.spotify.com/track/2L8at3lop2IDJyYeBMMUZa) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Drift Away](https://open.spotify.com/album/6syTBBVYJJ9Tlp4sBAW2k4) | 3:42 | 2022-08-08 | 2022-10-20 |
 | [Drive You Crazy](https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Drive You Crazy](https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb) | 2:58 | 2022-07-08 | 2022-09-23 |
 | [Droids](https://open.spotify.com/track/14jlkBcHSBOdGLeei57uEH) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Droids](https://open.spotify.com/album/0i7MvBfZ7poiVKpOIJWAQ0) | 3:40 | 2022-06-09 | 2022-08-23 |
-| [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 |  |
+| [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 |  |
@@ -196,6 +196,7 @@
 | [Nocturnal](https://open.spotify.com/track/64jRAmk99vinM9WgvGSNch) | [Annix](https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Nocturnal](https://open.spotify.com/album/2DZvctY5zi4s5RyyiwPFxT) | 3:43 | 2022-04-28 | 2022-07-09 |
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
 | [Numb](https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Numb](https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT) | 3:45 | 2022-05-02 | 2022-07-13 |
+| [Oasis](https://open.spotify.com/track/2YQq8vFPzvA7seaAKNJkdt) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [Oasis](https://open.spotify.com/album/5PCIiG3MSNN9umYr2Z4SUi) | 2:43 | 2022-11-01 |  |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-02 | 2022-08-13 |
 | [October](https://open.spotify.com/track/3dI7bW8OnWBUCCeBNwQ08J) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [October](https://open.spotify.com/album/1qPdose5MyZE37xgnGKz1e) | 2:38 | 2022-10-11 |  |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |

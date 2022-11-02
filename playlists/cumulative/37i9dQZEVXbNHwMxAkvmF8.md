@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-580 songs - 1 day 6 hr 40 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
+581 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Lángoló Szívek](https://open.spotify.com/track/5roMxZTmVB76tzEPXRCmdx) | [AKC Misi](https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv), [AKC Kretta](https://open.spotify.com/artist/3NuMiSIG3kYlW4dGwljerz) | [Holdvilág Club Hotel & Casino](https://open.spotify.com/album/2jCvGyvuawW2wxDgfiDJUS) | 2:02 | 2022-04-23 | 2022-04-25 |
 | [Lóerő](https://open.spotify.com/track/7k50YH3s8FqrBMRPm6DtJN) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [A ló túloldalán](https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7) | 2:57 | 2022-05-21 | 2022-08-12 |
 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-17 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-01 |  |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-10 |
 | [Malibu](https://open.spotify.com/track/5FW58MYtSU6mFxp88eOHI8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:18 | 2022-10-26 |  |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2021-10-10 | 2021-10-24 |
@@ -580,7 +581,7 @@
 | [Ájkosz](https://open.spotify.com/track/1zoULyy3P5grr7iRLKKmCm) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Ájkosz](https://open.spotify.com/album/5dbnOcIzIROMH0q7QXwzNU) | 2:07 | 2021-12-24 | 2022-03-13 |
 | [Állat](https://open.spotify.com/track/5bmPNUbxkFtxPeen1Lqjen) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Berta'Lami](https://open.spotify.com/artist/4hKnMdOlXgv52JpK4hCbv3) | [Állat](https://open.spotify.com/album/0i2gJ7D6SuwVbFjYpaRe5c) | 3:58 | 2021-05-29 | 2021-06-13 |
 | [Álmatlan esték](https://open.spotify.com/track/3JEYn4Ewai3sGkJl01v9Of) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Nemazalány](https://open.spotify.com/artist/474u1cnCRF41ym7ZNBddcc), [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Álmatlan esték](https://open.spotify.com/album/7N0Ft1YrxAf52HZXfrdgho) | 3:03 | 2021-10-30 | 2022-08-11 |
-| [Áthívhatsz](https://open.spotify.com/track/2hIEG1Sty1qfe7jnzhVg0R) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:42 | 2022-10-26 |  |
+| [Áthívhatsz](https://open.spotify.com/track/2hIEG1Sty1qfe7jnzhVg0R) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [DESHPERADO](https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy) | 2:42 | 2022-10-26 | 2022-11-02 |
 | [Éget a nap](https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt) | [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh), [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Éget a nap](https://open.spotify.com/album/2g6EW3GB1zeDuGVs5TJGX4) | 2:30 | 2021-06-04 | 2022-11-01 |
 | [Élvezd](https://open.spotify.com/track/15Zz41Ec3C6Rh6nDZa8331) | [Punnany Massif](https://open.spotify.com/artist/6cOn5jBriFvJ1qy817VmMD) | [Sun Kick](https://open.spotify.com/album/1SQpN9vgJgxl9IhktvHwTp) | 3:57 | 2021-07-05 | 2021-08-24 |
 | [És Az Apák Keze Ökölbe Szorul](https://open.spotify.com/track/7tgvPuBv33OWi7JKklAuqC) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Digitális/Analóg](https://open.spotify.com/album/3Esc3QxtrJhGTB1CWvl2sA) | 1:08 | 2022-03-12 | 2022-03-14 |

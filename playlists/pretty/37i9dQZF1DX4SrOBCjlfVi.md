@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Kodak Black, Polo G, Trippie Redd and more\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,087 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,195 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Myspace](https://open.spotify.com/track/2qmGNxyjEmdOAZB0dLPMMf) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Bin Reaper 3: Old Testament](https://open.spotify.com/album/4TYqv90YfbQPWchJmGt0T8) | 2:46 |
 | 22 | [Meet The Walkers 2 \(With Nardo Wick\)](https://open.spotify.com/track/4b74N1zeHs4tIOTxTz1Jub) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Meet The Walkers 2 \(With Nardo Wick\)](https://open.spotify.com/album/2cLUowGZhWDNrxBhQM4xYc) | 3:06 |
 | 23 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 |
-| 24 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:11 |
+| 24 | [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 |
 | 25 | [Gleecin \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/3MK1cTENZGGYtjuwBue1Va) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Quail Lane Baby](https://open.spotify.com/album/3wuXWLb7E0oy61UtBh5FvH) | 2:56 |
 | 26 | [pg baby \- Remix](https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [pg baby \(Remix\)](https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R) | 4:09 |
 | 27 | [Let Me Know \(feat\. Jeremih\)](https://open.spotify.com/track/0JOFB6I6pIOXgieSBVFCNf) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Clan Way 3](https://open.spotify.com/album/7hnGsYnLEAwAUGNY48ISqt) | 3:02 |

@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: BABYJOY",
-  "num_followers": 18356,
+  "num_followers": 18351,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDBmMjIxOWFjMDVmMjM3Nzc1ZTU5NjJkMjE0OTAxYTRl",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDU0NzE4ZmYwNWQxMmRjNjcxYTdkN2NiZTIwMzhmNDZl",
   "tracks": [
     {
       "added_at": "2022-10-04 22:00:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
+        "name": "Separate Us",
+        "url": "https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz"
+      },
+      "artists": [
+        {
+          "name": "Dillon",
+          "url": "https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW"
+        }
+      ],
+      "duration_ms": 201038,
+      "name": "Separate Us",
+      "url": "https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
         "name": "Got 2 Know (feat. SHELLS)",
         "url": "https://open.spotify.com/album/1hbjC4DD3fy3vvEfczipeX"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Separate Us",
-        "url": "https://open.spotify.com/album/6XMwkgtX332rhk2tT7CXZz"
-      },
-      "artists": [
-        {
-          "name": "Dillon",
-          "url": "https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW"
-        }
-      ],
-      "duration_ms": 201038,
-      "name": "Separate Us",
-      "url": "https://open.spotify.com/track/1OTfGZcyl7Eh5TXaDtLgod"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Where Did You Sleep?",
         "url": "https://open.spotify.com/album/7m2X0vbsdPF2mUIHDcugYv"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Clearing Up",
-        "url": "https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 188691,
-      "name": "Clearing Up",
-      "url": "https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/5zopm6odq7OHqffTJ02ZzR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 139636,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1RB0Rl1FubH49eVPiTJFEX"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Clearing Up",
+        "url": "https://open.spotify.com/album/27c9Gmx0vjHxeRtdDWK8Wa"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 188691,
+      "name": "Clearing Up",
+      "url": "https://open.spotify.com/track/1myngwB46MFlfvFsH3Pxmb"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "ORCA",
-        "url": "https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7"
-      },
-      "artists": [
-        {
-          "name": "MARYAM.fyi",
-          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "ORCA",
-      "url": "https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Harlequin",
         "url": "https://open.spotify.com/album/4KWRSlFGJVcctCYzwyII38"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 268568,
       "name": "Schweden Espresso",
       "url": "https://open.spotify.com/track/0LokKpZ75o151vBOJpDS8b"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "ORCA",
+        "url": "https://open.spotify.com/album/1lPXlaxGjJ985MXLnDOJX7"
+      },
+      "artists": [
+        {
+          "name": "MARYAM.fyi",
+          "url": "https://open.spotify.com/artist/3XBMpJEVQyZLNKsLI7qri9"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "ORCA",
+      "url": "https://open.spotify.com/track/09UjGnS0SrbxDxL4yD8ldG"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "The Hills",
-        "url": "https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky"
-      },
-      "artists": [
-        {
-          "name": "Perel",
-          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
-        }
-      ],
-      "duration_ms": 336250,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/3ZqHMx75NlTZRsZNZ6xS7a"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Verlieren",
         "url": "https://open.spotify.com/album/4rG1lto3LDuSRdDaD4iAsb"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 177962,
       "name": "Verlieren",
       "url": "https://open.spotify.com/track/2tsWZUMOTJR3wXze5SKW2D"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "The Hills",
+        "url": "https://open.spotify.com/album/6nKFDsf5NNxLdDhhWoeMky"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "duration_ms": 336250,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/3ZqHMx75NlTZRsZNZ6xS7a"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Pleasure Pilgrim",
-        "url": "https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh"
-      },
-      "artists": [
-        {
-          "name": "Ava Vegas",
-          "url": "https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes"
-        }
-      ],
-      "duration_ms": 205474,
-      "name": "Pleasure Pilgrim",
-      "url": "https://open.spotify.com/track/4fG6h8vkVngqCSF6Dp65BS"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "In My Darkness",
         "url": "https://open.spotify.com/album/0IY4wLUmDh1D6YxSmF0iJ2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 161120,
       "name": "In My Darkness",
       "url": "https://open.spotify.com/track/0TWZxbMl9cU0RCal5WsC04"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Pleasure Pilgrim",
+        "url": "https://open.spotify.com/album/4IobnsBjhAszwYA3fw4skh"
+      },
+      "artists": [
+        {
+          "name": "Ava Vegas",
+          "url": "https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes"
+        }
+      ],
+      "duration_ms": 205474,
+      "name": "Pleasure Pilgrim",
+      "url": "https://open.spotify.com/track/4fG6h8vkVngqCSF6Dp65BS"
     },
     {
       "added_at": "2022-10-04 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Sleeper",
-        "url": "https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy"
-      },
-      "artists": [
-        {
-          "name": "Anna Aaron",
-          "url": "https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F"
-        }
-      ],
-      "duration_ms": 156389,
-      "name": "Sleeper",
-      "url": "https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Eudaimonia",
         "url": "https://open.spotify.com/album/3V18CTW9HGUPtQRTMr3BEm"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203904,
       "name": "Eudaimonia",
       "url": "https://open.spotify.com/track/6IJPIqZEaxPE69gV7HNLH7"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Sleeper",
+        "url": "https://open.spotify.com/album/4qxeRuGGeFRW7Abh10jPFy"
+      },
+      "artists": [
+        {
+          "name": "Anna Aaron",
+          "url": "https://open.spotify.com/artist/0yaptyutnlF0rkKBo1K46F"
+        }
+      ],
+      "duration_ms": 156389,
+      "name": "Sleeper",
+      "url": "https://open.spotify.com/track/1juBpFSW4cJ4JSiFAJX1lj"
     }
   ],
   "unique_name": "EQUAL GSA",

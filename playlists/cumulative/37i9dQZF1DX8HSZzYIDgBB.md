@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Mula en portada.
 
-190 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+192 songs - 11 hr 35 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2021-10-05 | 2022-07-29 |
 | [Pantera](https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V) | [Renee Mooi](https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB) | [Pantera](https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp) | 2:44 | 2022-07-25 |  |
 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 | 2021-10-05 | 2022-06-08 |
-| [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-12 |  |
+| [Papelito](https://open.spotify.com/track/6MHN9H0xjXlBNqBu9vuYOt) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 2:59 | 2022-09-12 |  |
+| [Papelito](https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Enjoy](https://open.spotify.com/artist/46OZe7BgkZhisNbEMW4oqq) | [Papelito](https://open.spotify.com/album/5yJFqe2xPrtVggqnH1USoW) | 2:59 | 2022-09-12 | 2022-11-02 |
 | [Para todo mal](https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY) | [La Furia con Lujuria Sonidera](https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU), [Dr\. Shenka](https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu) | [Para todo mal](https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3) | 4:00 | 2022-02-25 | 2022-09-27 |
 | [Paraguaya \- ANRMAL \- Live in México](https://open.spotify.com/track/6hqyN0cQeL25DreIYsl1Dn) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(Live in México\)](https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho) | 3:43 | 2021-10-05 | 2022-10-28 |
 | [Paraguaya \- En Vivo](https://open.spotify.com/track/2lw9zOr22G17OIsIDhtPPf) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [ANRMAL \(En Vivo\)](https://open.spotify.com/album/2PBK1zRRzjilywQ6yOEqPZ) | 3:43 | 2021-10-05 | 2022-07-29 |
@@ -191,7 +192,8 @@
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 |  |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2021-10-05 | 2022-03-31 |
 | [wepa \(Eggglub Remix\)](https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [wepa \(Eggglub Remix\)](https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub) | 2:44 | 2021-10-05 |  |
-| [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 |  |
+| [XO](https://open.spotify.com/track/2gwMQLaqquUZF5dsmRI8c4) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [XO](https://open.spotify.com/album/53901xfQofw8GAjt1dBUxp) | 3:05 | 2022-08-19 | 2022-11-02 |
+| [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-08-19 |  |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-30 |  |
 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 | 2022-04-22 | 2022-08-20 |
 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 |  |

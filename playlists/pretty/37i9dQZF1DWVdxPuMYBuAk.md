@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > The official playlist for To All The Boys: Always and Forever\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,149 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,167 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 14 | [Me and My Mind](https://open.spotify.com/track/4QG1X1iG7fevXjaEeGLmBI) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Me and My Mind](https://open.spotify.com/album/09xUbuXHA0Wp7QqHOE1Pdh) | 3:04 |
 | 15 | [Beginning Middle End \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/1BOhfgNrX3vKKrzyTKhsPE) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:15 |
 | 16 | [Tutti Frutti](https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:24 |
-| 17 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/6fnIitWMKHnRnMLxSb0MYW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/5ge6i2NdRMK8XM8Lb9eUDe) | 3:30 |
+| 17 | [I Like Me Better \- Ryan Riback Remix](https://open.spotify.com/track/2wViKxJDqr6AUG6dv7oMW4) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [I met you when I was 18\. \(the extras\)](https://open.spotify.com/album/53L0zJIjxxqClZyJGN5p7o) | 3:30 |
 | 18 | [If The World Ended Tonight \- From The Netflix Film "To All The Boys: Always and Forever"](https://open.spotify.com/track/7m26R0lPWq6OaDuL6o3aRr) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [To All The Boys: Always and Forever \(Music From The Netflix Film\)](https://open.spotify.com/album/35SXwj3IksuJcEbBckg2GT) | 3:56 |
 | 19 | [Heartshaker](https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:06 |
 | 20 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 66 | [Talk With Your Hands](https://open.spotify.com/track/4NnP5XQEbe3Kd6faO3kXUK) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Lightning Round](https://open.spotify.com/album/4pDwtZKEgsUaekOlVA4kkJ) | 3:06 |
 | 67 | [Girls Just Wanna Have Fun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2GwGoL1XlvuYPd6LkZVYB7) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/33zW0KIUcungtxX9ZB22g7) | 2:43 |
 | 68 | [Midway](https://open.spotify.com/track/4RFQqoOFw0pdropkjrPnh3) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Psychic Reader](https://open.spotify.com/album/5klZj0GbathSjaZZBD2Qxm) | 3:04 |
-| 69 | [I Like Me Better](https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:17 |
+| 69 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 |
 | 70 | [Chinatown](https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/3hxVFxpF7uUtjLHzvGIm7W) | 3:18 |
 | 71 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
 | 72 | [You & I](https://open.spotify.com/track/2rVoTl5ZMP3UijfJVnyRgf) | [Twinsmith](https://open.spotify.com/artist/6OzddGLeuKG9irjEC13C69) | [Stay Cool](https://open.spotify.com/album/44ZygtuH05Lo1yUuVcBA85) | 3:30 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 84 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 85 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 
-Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMGQzZWUzYmZhMWEzYTNjMWQyODEyZTdmY2Q5NjNkZTE0`
+Snapshot ID: `MTY0NDQ0NzMxMywwMDAwMDAwMDJkYTUzM2Y1MjE1ZDk1NDk2ODRjOThhZDQ1M2ZiMmM4`

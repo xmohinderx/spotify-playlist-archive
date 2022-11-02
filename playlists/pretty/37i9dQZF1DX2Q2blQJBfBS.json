@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the underground ",
-  "num_followers": 7226,
+  "num_followers": 7604,
   "original_name": "The Skate Shop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzAxNjAwMCwwMDAwMDAwMDA3ZWEyODAxZDliNzQ5NDQxMGRiYTdmMDA1NmFkNjIy",
+  "snapshot_id": "MTY2NzAxNjAwMCwwMDAwMDAwMDA3NjIzODExYWRhYzgyYWEyYjg1NjM1OTg3ZmUwYWQ1",
   "tracks": [
     {
       "added_at": "2022-10-29 04:00:00",
@@ -164,7 +164,7 @@
       "added_at": "2022-10-29 04:00:00",
       "album": {
         "name": "Amir Divine (Damn Son Rework)",
-        "url": "https://open.spotify.com/album/0Iu7Eyw2F90rQrVAa7MZoB"
+        "url": "https://open.spotify.com/album/3SImf3Y8oGlCJNMIax4wMu"
       },
       "artists": [
         {
@@ -178,7 +178,7 @@
       ],
       "duration_ms": 123000,
       "name": "Amir Divine - Damn Son Rework",
-      "url": "https://open.spotify.com/track/7ciFddgG0khIs0vpzyBZRe"
+      "url": "https://open.spotify.com/track/1cpZ8qDrMA4qWqCOPw5xcU"
     },
     {
       "added_at": "2022-10-29 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Mecca And The Soul Brother",
-        "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
-      },
-      "artists": [
-        {
-          "name": "Pete Rock & C.L. Smooth",
-          "url": "https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq"
-        }
-      ],
-      "duration_ms": 286693,
-      "name": "They Reminisce Over You (T.R.O.Y.)",
-      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "One Day It'll All Make Sense",
         "url": "https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 134040,
       "name": "Invocation",
       "url": "https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Mecca And The Soul Brother",
+        "url": "https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock & C.L. Smooth",
+          "url": "https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq"
+        }
+      ],
+      "duration_ms": 286693,
+      "name": "They Reminisce Over You (T.R.O.Y.)",
+      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy"
     },
     {
       "added_at": "2022-05-13 12:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Lupe Fiasco's The Cool",
-        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 270653,
-      "name": "Paris, Tokyo",
-      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
         "name": "Flamagra",
         "url": "https://open.spotify.com/album/5WfDyog8yO7ZF8JdJxeZfl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 161971,
       "name": "Black Balloons Reprise",
       "url": "https://open.spotify.com/track/2csZLnXBMuw6ETZuRxdUZF"
+    },
+    {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 270653,
+      "name": "Paris, Tokyo",
+      "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1065,26 +1065,6 @@
       "url": "https://open.spotify.com/track/42Bczh6IIyTYJduQnfS92p"
     },
     {
-      "added_at": "2022-10-14 13:44:02",
-      "album": {
-        "name": "The Fonz",
-        "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
-      },
-      "artists": [
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        },
-        {
-          "name": "Subjxct 5",
-          "url": "https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV"
-        }
-      ],
-      "duration_ms": 288230,
-      "name": "The Fonz",
-      "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
-    },
-    {
       "added_at": "2022-05-13 12:00:00",
       "album": {
         "name": "Bandana",
@@ -1103,6 +1083,26 @@
       "duration_ms": 219826,
       "name": "Cataracts",
       "url": "https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO"
+    },
+    {
+      "added_at": "2022-10-14 13:44:02",
+      "album": {
+        "name": "The Fonz",
+        "url": "https://open.spotify.com/album/2H8cEEjOZtLHTMHLcsHclS"
+      },
+      "artists": [
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        },
+        {
+          "name": "Subjxct 5",
+          "url": "https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV"
+        }
+      ],
+      "duration_ms": 288230,
+      "name": "The Fonz",
+      "url": "https://open.spotify.com/track/6UIZmxCu4t5Az180O5ApoT"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/5YkeyUlwClpOR8297j0uK8"
     },
     {
-      "added_at": "2022-09-02 18:33:39",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
-      },
-      "artists": [
-        {
-          "name": "Ashton Travis",
-          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
-        }
-      ],
-      "duration_ms": 201056,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Clockers (Original Motion Picture Soundtrack)",
@@ -1279,6 +1263,22 @@
       "duration_ms": 304840,
       "name": "Return of The Crooklyn Dodgers",
       "url": "https://open.spotify.com/track/57iKOKfcj8wVZp6Il1wU4f"
+    },
+    {
+      "added_at": "2022-09-02 18:33:39",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/1bBH7XmYduj4tVTip9zuRo"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "duration_ms": 201056,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5kRAI8FU35oY52jn8xwrI0"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1505,6 +1505,26 @@
       "url": "https://open.spotify.com/track/3RkZ88ENyaY9WRC2yMAUQ0"
     },
     {
+      "added_at": "2022-05-10 19:26:35",
+      "album": {
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
+    },
+    {
       "added_at": "2022-10-14 13:44:02",
       "album": {
         "name": "Duck Czn: Tiger Style",
@@ -1531,22 +1551,26 @@
     {
       "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+        "name": "2 P'z In A Pod",
+        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
         },
         {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "LNDN DRGS",
+          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
         }
       ],
-      "duration_ms": 350400,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/7frJEBqz0olVg8sQpXD5BF"
+      "duration_ms": 177819,
+      "name": "Vanilla Cream",
+      "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
       "added_at": "2022-09-09 04:01:00",
@@ -1571,30 +1595,6 @@
       "duration_ms": 163850,
       "name": "Looking for Water (feat. Boldy James)",
       "url": "https://open.spotify.com/track/3d7ElSqY4RDoqSWe5rJCAc"
-    },
-    {
-      "added_at": "2022-05-10 19:26:35",
-      "album": {
-        "name": "2 P'z In A Pod",
-        "url": "https://open.spotify.com/album/2l1r2KjXbu22wGvNixnlbk"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "LNDN DRGS",
-          "url": "https://open.spotify.com/artist/65d2Cw70rLuVwEZwQpHtFW"
-        }
-      ],
-      "duration_ms": 177819,
-      "name": "Vanilla Cream",
-      "url": "https://open.spotify.com/track/12h2DHtHRrxrhe1mc5QmKm"
     },
     {
       "added_at": "2022-06-24 12:00:00",
@@ -1769,6 +1769,22 @@
       "url": "https://open.spotify.com/track/42BRNhLPYuzKz0gHSwRX8m"
     },
     {
+      "added_at": "2022-07-08 12:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 68830,
+      "name": "Cherry Beach",
+      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
+    },
+    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Gravity",
@@ -1787,22 +1803,6 @@
       "duration_ms": 280220,
       "name": "The Love Song",
       "url": "https://open.spotify.com/track/73Dlr72hp7aI3wTpp5tftn"
-    },
-    {
-      "added_at": "2022-07-08 12:00:00",
-      "album": {
-        "name": "Lyrics to GO, Vol. 3",
-        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 68830,
-      "name": "Cherry Beach",
-      "url": "https://open.spotify.com/track/5E4saQ3z3Dwj1vpauqEqsL"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1841,22 +1841,6 @@
       "url": "https://open.spotify.com/track/5ME1N55LXNNEx9SP5s1rRv"
     },
     {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "I'll Fight You",
-        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
-      },
-      "artists": [
-        {
-          "name": "Open Mike Eagle",
-          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "I'll Fight You",
-      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
-    },
-    {
       "added_at": "2022-05-10 19:26:35",
       "album": {
         "name": "Aethiopes",
@@ -1881,6 +1865,38 @@
       "url": "https://open.spotify.com/track/5UgkmxdEqJV0WqBVcLmrSG"
     },
     {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I'll Fight You",
+        "url": "https://open.spotify.com/album/67n4uk6Rlej4tIZPmrQSrK"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "I'll Fight You",
+      "url": "https://open.spotify.com/track/44ii9mr7Daywg6pdq7S3NW"
+    },
+    {
+      "added_at": "2022-05-20 12:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
+      },
+      "artists": [
+        {
+          "name": "KUMBAYA",
+          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
+    },
+    {
       "added_at": "2022-09-09 04:01:00",
       "album": {
         "name": "Early",
@@ -1899,22 +1915,6 @@
       "duration_ms": 171647,
       "name": "Early",
       "url": "https://open.spotify.com/track/08C6F1gh1XmARvRNk71nSX"
-    },
-    {
-      "added_at": "2022-05-20 12:00:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZWovUa3OQ9xkbmFHyR2VK"
-      },
-      "artists": [
-        {
-          "name": "KUMBAYA",
-          "url": "https://open.spotify.com/artist/4C5VirGeSfloffJC78CJio"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/596etLASQapOGD4iOcYJOk"
     },
     {
       "added_at": "2022-05-10 19:26:35",
@@ -1937,20 +1937,20 @@
       "url": "https://open.spotify.com/track/6eeG2PFxH0rFmLoK3hGGZH"
     },
     {
-      "added_at": "2022-08-05 12:00:00",
+      "added_at": "2022-05-10 19:26:35",
       "album": {
-        "name": "50K or Brunch",
-        "url": "https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE"
+        "name": "Navy's Reprise",
+        "url": "https://open.spotify.com/album/3wkNVoQDFznu6kIR8d1BQb"
       },
       "artists": [
         {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         }
       ],
-      "duration_ms": 158386,
-      "name": "50K or Brunch",
-      "url": "https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV"
+      "duration_ms": 152281,
+      "name": "Not a Lot to Fear",
+      "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
     }
   ],
   "unique_name": "The Skate Shop",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,968 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,014 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Das U](https://open.spotify.com/track/3zN3TNLf2BHR9889yhofot) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/18WfOTopPutbLshJTL2Mgf) | 2:15 |
+| 1 | [Das U](https://open.spotify.com/track/5d4T6L8Td6bL6iWKhNxe7g) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Das U](https://open.spotify.com/album/1gUvkLRrJ6Q80Va3fpdFVS) | 2:15 |
 | 2 | [Move](https://open.spotify.com/track/5FoSDKPB0QufTlGbOBye0F) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Move](https://open.spotify.com/album/1KaLxqjf1O9xnxS5Z3G1ga) | 3:16 |
 | 3 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 |
 | 4 | [One In The Chamber](https://open.spotify.com/track/0MtO6lNufS0fiQPNFeUCuy) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [One In The Chamber](https://open.spotify.com/album/4MQZ4pMrSHIxi1BdKGGRCL) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [MMembers](https://open.spotify.com/track/3pqRC2GopQ3rh1DkENPKfA) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE) | [MMembers](https://open.spotify.com/album/2Z6xIqT3VL7lD0S6184pU1) | 2:33 |
 | 100 | [City Of Serpents](https://open.spotify.com/track/1lgUY0CDC92SbaVwcpyaRn) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [City Of Serpents](https://open.spotify.com/album/5ih9wrmTQmzJR4G1aCpGfQ) | 2:07 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDA3NDQ4NThmY2FkODdkM2E4YTYzM2RiZjg2YmUyNWQx`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDRlMDc2ZmZiNTg0OWExNDY2NTY5ODM1ZTc4ZThiMmI5`

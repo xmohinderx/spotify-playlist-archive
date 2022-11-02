@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Black Eyed Peas, Anitta, El Alfa\n",
-  "num_followers": 102853,
+  "num_followers": 102886,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3MDQyOSwwMDAwMDAwMDcxZDUzOThmNzEzNmI1YTliNzE2YmVhODlmNjc5Mjkw",
+  "snapshot_id": "MTY2Njk3MDQyOSwwMDAwMDAwMGMxMGU1YWU5YTQxNmQxNTNiMjViZWRjYzM4Y2ZmYjU0",
   "tracks": [
     {
       "added_at": "2022-10-28 15:20:29",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "Songs of Sonder",
         "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
       },
@@ -959,6 +943,30 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -987,26 +995,18 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
       "artists": [
         {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 189080,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 201495,
-      "name": "psychofreak (feat. WILLOW)",
-      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "Don't Leave Me Lonely",
         "url": "https://open.spotify.com/album/3f0b6DdDRkMTVAPs8WHpDW"
       },
@@ -1195,6 +1175,26 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 201495,
+      "name": "psychofreak (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
         "name": "Infinite Dream",
         "url": "https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr"
       },
@@ -1207,6 +1207,26 @@
       "duration_ms": 153391,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4E2sMWXzxK3uYJerGbeUfp"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "WDIA (Would Do It Again)",
+        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        },
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "WDIA (Would Do It Again)",
+      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1231,26 +1251,6 @@
       "duration_ms": 195213,
       "name": "Only You",
       "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
-        "name": "WDIA (Would Do It Again)",
-        "url": "https://open.spotify.com/album/50ImqQW5kr8xad7RZgnCvB"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        },
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "WDIA (Would Do It Again)",
-      "url": "https://open.spotify.com/track/2CORoIId0A9UrEIft3nExk"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 208604,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
         "name": "Faking Love (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
       },
@@ -1347,42 +1367,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 208604,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 187759,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/74LRQ6073VpLGX6F0bTcUG"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "omw",
         "url": "https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 182681,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 175555,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/7xlvDpADKIaRhPGgbMlsQ1"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 182681,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/5DlwOwWvIA9MOGixQnkwXD"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1511,6 +1495,22 @@
       "duration_ms": 184973,
       "name": "Daddy's Eyes - Stripped Version",
       "url": "https://open.spotify.com/track/4sSOflpDatjmCva0P9GxZA"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 187759,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/5qkZ6PPFjweR2yOKUGUDX3"
     },
     {
       "added_at": "2022-10-28 15:20:29",

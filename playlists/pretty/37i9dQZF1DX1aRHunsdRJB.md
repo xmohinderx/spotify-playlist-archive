@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,105 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,109 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 27 | [Demon Girl](https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Demon Girl](https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD) | 3:22 |
 | 28 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 |
 | 29 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
-| 30 | [Wileside Government](https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO) | 3:22 |
-| 31 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
+| 30 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
+| 31 | [Wileside Government](https://open.spotify.com/track/7JrgCxdl0C7PlbfOG98x0N) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Wileside Government](https://open.spotify.com/album/10XhKqbnvtoGiAH7kCOXjO) | 3:22 |
 | 32 | [Up Top Boss](https://open.spotify.com/track/3plfljoZKGixRbQ2u6o2et) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Progress Riddim](https://open.spotify.com/album/4DInWuzCI8yOwhoV0uZwqn) | 3:30 |
 | 33 | [We Outside](https://open.spotify.com/track/2tQ4YMW7iOA6pbA4Zb87sT) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [Knock About Riddim](https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw) | 2:56 |
 | 34 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
 | 68 | [Skill & Steady](https://open.spotify.com/track/65dhZDMJ4eifxYqJjERBFW) | [Kevyn V](https://open.spotify.com/artist/3Ny44fCQVoy3gEwdyMqAUu), [DancehallRulerz](https://open.spotify.com/artist/7vKTly2ufzt1vPBUKvuuDh), [2Fik](https://open.spotify.com/artist/3TmucDSfk9ChMNebAXrYyO), [Dj Tades](https://open.spotify.com/artist/1zkwng6zki0lHoikDdfsHf) | [Skill & Steady](https://open.spotify.com/album/4hOYiwVEgniVVhVSC1Sflg) | 2:38 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDVmZDQ1MThlNjk4N2ZhNTRlNzdhMTI1NDhjYzMwMTVk`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGRlYjNjZWYxZTU4M2U4ZDhlMWIwMzVhNDg4ZWRlMDBh`

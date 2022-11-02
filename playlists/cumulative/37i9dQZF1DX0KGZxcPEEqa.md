@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-590 songs - 1 day 11 hr 15 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
+591 songs - 1 day 11 hr 18 min - [published](https://open.spotify.com/playlist/4jFBFoNSnmjtPM7QWXc7vG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,8 @@
 | [The Mack](https://open.spotify.com/track/7aV2mflaASUmGhCErm7kBO) | [Nevada](https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT), [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [The Mack](https://open.spotify.com/album/7FDBvwfZD9ejQzzg0dyoac) | 2:47 | 2021-08-10 | 2022-07-29 |
 | [The One](https://open.spotify.com/track/0wfbD5rAksdXUzRvMfM3x5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 2:57 | 2022-05-11 |  |
 | [The One](https://open.spotify.com/track/619A7U0RtsSEvqJeJdazJ3) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [The One](https://open.spotify.com/album/0Kd2DBbWxHWsEH3E3IuUIe) | 2:57 | 2021-08-10 | 2022-07-29 |
-| [The Other](https://open.spotify.com/track/0EAzlhtMYxRb6wbi6KnPjC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:09 | 2022-05-11 |  |
+| [The Other](https://open.spotify.com/track/0EAzlhtMYxRb6wbi6KnPjC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:09 | 2022-05-11 | 2022-11-02 |
+| [The Other](https://open.spotify.com/track/1DlGTnBydbBcOSdC6XEZnq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:09 | 2022-05-11 |  |
 | [The Other](https://open.spotify.com/track/3ZD3kjn80pQ9keYO8eqp9d) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [The Other](https://open.spotify.com/album/5jDywdhHpj1DPdZZ8zX1dj) | 3:09 | 2021-08-10 | 2022-07-29 |
 | [The Power of Love](https://open.spotify.com/track/0sE9ZTxMxYneIUAEHN4Tg7) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 4:05 | 2022-05-11 |  |
 | [The Power of Love](https://open.spotify.com/track/1m5eFhE34yyYv2lkjtcKPG) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 4:05 | 2021-08-10 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop nacional e gringo para acompanhar gamers e gaming.",
-  "num_followers": 118267,
+  "num_followers": 118260,
   "original_name": "Gamer Gang",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMDY5NTM5M2ZhY2U1NzZlNWYxYmRmMThjNDA5OWZlNzZk",
+  "snapshot_id": "MTYwMzIyNTQxOSwwMDAwMDAwMGIyMDAzZTQ5ZGNiYTJjNDQxMzAwOGIxYjViMDAyNzcz",
   "tracks": [
     {
       "added_at": "2020-10-20 20:23:39",
@@ -183,6 +183,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+    },
+    {
+      "added_at": "2020-10-20 20:23:39",
+      "album": {
         "name": "WAP (feat. Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2020-10-20 20:23:39",
-      "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1655,22 +1655,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Mant\u00e9m",
-        "url": "https://open.spotify.com/album/2e15uAU6zg3r8zAUlFKv0G"
+        "name": "Smile (with The Weeknd)",
+        "url": "https://open.spotify.com/album/1NJfa8mJWJjYzigrMU6Fd3"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         },
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 195692,
-      "name": "Mant\u00e9m",
-      "url": "https://open.spotify.com/track/17rF54WvGGqPVxDheq8PP8"
+      "duration_ms": 196180,
+      "name": "Smile (with The Weeknd)",
+      "url": "https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M"
     },
     {
       "added_at": "2020-10-20 20:23:39",
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2020-10-20 20:23:39",
       "album": {
-        "name": "Smile (with The Weeknd)",
-        "url": "https://open.spotify.com/album/1NJfa8mJWJjYzigrMU6Fd3"
+        "name": "Mant\u00e9m",
+        "url": "https://open.spotify.com/album/2e15uAU6zg3r8zAUlFKv0G"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 196180,
-      "name": "Smile (with The Weeknd)",
-      "url": "https://open.spotify.com/track/09NtNfFG4vpHsAUbdUug0M"
+      "duration_ms": 195692,
+      "name": "Mant\u00e9m",
+      "url": "https://open.spotify.com/track/17rF54WvGGqPVxDheq8PP8"
     },
     {
       "added_at": "2020-10-20 20:23:39",

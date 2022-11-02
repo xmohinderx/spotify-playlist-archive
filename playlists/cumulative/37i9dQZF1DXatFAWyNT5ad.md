@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-525 songs - 1 day 3 hr 35 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
+526 songs - 1 day 3 hr 38 min - [published](https://open.spotify.com/playlist/7btkhvftx7WY0w5vxyn75X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 | 2022-03-17 | 2022-07-21 |
 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 | 2022-09-01 |  |
 | [Body And Mind](https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp) | 3:06 | 2022-03-17 | 2022-10-13 |
+| [Body And Mind](https://open.spotify.com/track/6GFrELGVKBXRcrTNkwjSfF) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/69p42ovQdwmYPLUsAQpeNn) | 3:06 | 2022-10-27 |  |
 | [Bodybag](https://open.spotify.com/track/3XlrbYlaUFnDYGfRcdoYRU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 2:38 | 2022-03-17 | 2022-07-28 |
 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 | 2022-03-17 | 2022-10-18 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-03-17 |  |
@@ -244,7 +245,7 @@
 | [I Want You Gone](https://open.spotify.com/track/57Pnwjod2OYmwNlyivrsoe) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Not Your Kind](https://open.spotify.com/album/37be69Kxa6pUHHqo8V8u5L) | 3:22 | 2022-03-24 | 2022-05-12 |
 | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/track/6v3uCeZyBl3nygTVIRIMS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [I'm Dead \(feat\. jxdn\) \[From the Podcast “Prom In Hell”\]](https://open.spotify.com/album/1t9u3ZrWBilDu0SADcPbI2) | 2:38 | 2022-03-24 | 2022-05-17 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2022-09-01 |  |
-| [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2022-03-17 |  |
+| [I'm Not Mad](https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 2:53 | 2022-03-17 | 2022-11-02 |
 | [i'm too pretty for this](https://open.spotify.com/track/4shULiz3P7luscRsQobtDN) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i’m too pretty for this](https://open.spotify.com/album/50hj2kKggCkXqSIX2c1rxF) | 2:46 | 2022-07-07 | 2022-09-03 |
 | [IDONTWANNATALKTOYOU! \(with renforshort\)](https://open.spotify.com/track/39LAVN7bpAOvpCwA06dvWZ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [CHASING HARMONY](https://open.spotify.com/album/2bAyamw2R64VLAFsQW20xc) | 2:18 | 2022-03-24 | 2022-04-21 |
 | [idwgtyp](https://open.spotify.com/track/28Qv23wjvAhPZGr5NXhBq8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [idwgtyp](https://open.spotify.com/album/0x5swq6Ju73lmGUdR7sjwi) | 3:06 | 2022-03-24 | 2022-06-06 |

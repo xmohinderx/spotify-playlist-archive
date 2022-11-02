@@ -4,7 +4,7 @@
 
 > as mais tristes do brasil
 
-101 songs - 4 hr 50 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
+102 songs - 4 hr 55 min - [published](https://open.spotify.com/playlist/4ADBfixRHFwffrKYoekmv1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Caos Dentro de Mim](https://open.spotify.com/track/6hyvQaaCsDtrNnfzO980Fz) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ) | [Caos Dentro de Mim](https://open.spotify.com/album/5VoN0R82NCgRiKTvXiLi4g) | 2:10 | 2022-07-22 | 2022-10-18 |
 | [Chorei no Rolê](https://open.spotify.com/track/700s6PcR2Qi0pleAPy1Qow) | [Bakuri](https://open.spotify.com/artist/2nr5oBJ1hLC7KWUE2gGYsp) | [Chorei no Rolê](https://open.spotify.com/album/4fIWKyzN6z3bZusP5ETu8T) | 2:55 | 2022-08-17 | 2022-10-15 |
 | [Cinza e Preto](https://open.spotify.com/track/4mJ4xwuj2fC03WT32ET8O5) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Cinza e Preto](https://open.spotify.com/album/3pI5nKUspP8UIsc8rY0a9K) | 2:36 | 2022-05-20 |  |
+| [Como Vai Você?](https://open.spotify.com/track/02oLFe4l8p6ilVEUFuirxR) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [VMZ](https://open.spotify.com/artist/5sgcRRQA3HrL1AVk6oMUeg) | [Como Vai Você?](https://open.spotify.com/album/5y4d689IAEifS94Ntcc0MN) | 5:03 | 2022-11-01 |  |
 | [Coração em Chamas](https://open.spotify.com/track/5eeCipd1BK56hbiA161l54) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Coração em Chamas](https://open.spotify.com/album/4fvJw6BWzxhqqNIjbzOhTl) | 2:40 | 2022-05-20 |  |
 | [Coração Gelado](https://open.spotify.com/track/4TuhjX8VbmRYnsu4KatTyG) | [David iesu](https://open.spotify.com/artist/6mfkFg4ZF8th47O0eKeRLH) | [Coração Gelado](https://open.spotify.com/album/7eGJFopEpP5wmlAgSLECqu) | 2:37 | 2022-08-12 | 2022-10-15 |
 | [Crazy](https://open.spotify.com/track/6zoNaIXnHBHvVkYIitosXR) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Crazy](https://open.spotify.com/album/5UJ0C74v5OiSpAGc1efAbF) | 2:22 | 2022-05-20 |  |

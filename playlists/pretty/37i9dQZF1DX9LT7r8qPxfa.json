@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Julien Baker",
-  "num_followers": 244857,
+  "num_followers": 244906,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDA4ZDIzMTUxNWYzODdiYmY2MmE3NTc0YWM2MDVjY2Y2",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDRkN2NjMzc0YTNjMTE3YjY0MmU1ZWQ3NjgyNTY2NGFl",
   "tracks": [
     {
       "added_at": "2022-09-16 04:00:00",
@@ -497,6 +497,22 @@
       "url": "https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a"
     },
     {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Here Goes Nothing!",
+        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I'm Afraid I Love You",
+      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
+    },
+    {
       "added_at": "2022-09-16 04:00:00",
       "album": {
         "name": "Love of Her Life",
@@ -513,20 +529,20 @@
       "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Here Goes Nothing!",
-        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
+        "name": "Can You Afford To Lose Me?",
+        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
       },
       "artists": [
         {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 158106,
-      "name": "I'm Afraid I Love You",
-      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
+      "duration_ms": 133773,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -591,22 +607,6 @@
       "duration_ms": 182827,
       "name": "Something American",
       "url": "https://open.spotify.com/track/0SjWmoYajBMXHeh3DWZf9s"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
-        "name": "Can You Afford To Lose Me?",
-        "url": "https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Haunted House",
-      "url": "https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Wild Parts",
-        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 239979,
-      "name": "Wild Parts",
-      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Would You Mind Please Pulling Me Close?",
         "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 243925,
       "name": "Would You Mind Please Pulling Me Close?",
       "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Wild Parts",
+        "url": "https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 239979,
+      "name": "Wild Parts",
+      "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "New Conditions",
-        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
-      },
-      "artists": [
-        {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "The Impossible Task of Feeling Complete",
-      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "New Conditions",
+        "url": "https://open.spotify.com/album/7gkyC56SqUzjOS8FTX1Wxh"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "The Impossible Task of Feeling Complete",
+      "url": "https://open.spotify.com/track/3NXuIEguTxfOUqzzU1OM9x"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
-      },
-      "artists": [
-        {
-          "name": "Indigo Sparke",
-          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
-        }
-      ],
-      "duration_ms": 206950,
-      "name": "Everything Everything",
-      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Flight Risk EP",
         "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 188615,
       "name": "Mortals",
       "url": "https://open.spotify.com/track/6SxCb6DNwXShYd6F2KcyBE"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
+      },
+      "artists": [
+        {
+          "name": "Indigo Sparke",
+          "url": "https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh"
+        }
+      ],
+      "duration_ms": 206950,
+      "name": "Everything Everything",
+      "url": "https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
+        "name": "People Pleaser",
+        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 252291,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
         "name": "Infinite Worlds",
         "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "People Pleaser",
-        "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
-      },
-      "artists": [
-        {
-          "name": "Laura Elliott",
-          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
-        }
-      ],
-      "duration_ms": 252291,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/0j5QJZWlMGIcd0tmFQXs63"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 236610,
       "name": "I'll Go Running",
       "url": "https://open.spotify.com/track/3pdzD05LaKcxuToCrM2w7b"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
+      },
+      "artists": [
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Silk",
-        "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
       "artists": [
         {
-          "name": "Giselle",
-          "url": "https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42"
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Silk",
-      "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Kitchen Table",
-        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Meet Me on the Edge of Our Ruin",
         "url": "https://open.spotify.com/album/3Qhzb0RDdvFWkOvi025g8L"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "I Don't Want To Let You Down b/w All Over Again",
-        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+        "name": "Kitchen Table",
+        "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 242893,
-      "name": "I Don't Want to Let You Down",
-      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
+      "duration_ms": 208800,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 285760,
       "name": "We Cannot Resist",
       "url": "https://open.spotify.com/track/068ZytZuPeqoSgaffebBVD"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "I Don't Want To Let You Down b/w All Over Again",
+        "url": "https://open.spotify.com/album/4109aQhIlnT1SCw6az5xg9"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "I Don't Want to Let You Down",
+      "url": "https://open.spotify.com/track/2R1QmACbs4S02eaHJVAIjq"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "Aldous Harding",
-        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 338639,
-      "name": "Stop Your Tears",
-      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2022-09-16 04:00:00",
-      "album": {
         "name": "Walking Proof",
         "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 175773,
       "name": "Rae",
       "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
+    },
+    {
+      "added_at": "2022-09-16 04:00:00",
+      "album": {
+        "name": "Aldous Harding",
+        "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 338639,
+      "name": "Stop Your Tears",
+      "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-09-16 04:00:00",
       "album": {
-        "name": "How to Break a Fall",
-        "url": "https://open.spotify.com/album/4BdwmZr2Z7T7evaxK3FuAn"
+        "name": "This Is What Our Love Looks Like Now",
+        "url": "https://open.spotify.com/album/1W073g3rJsTWsNWZgE6Drh"
       },
       "artists": [
         {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
         }
       ],
-      "duration_ms": 180415,
-      "name": "Better and Better",
-      "url": "https://open.spotify.com/track/1o24Xqw0n5tQHJqpZDCXp7"
+      "duration_ms": 243242,
+      "name": "This Is What Our Love Looks Like Now",
+      "url": "https://open.spotify.com/track/1nMTCm7jq5UOUW4tP8JDix"
     }
   ],
   "unique_name": "noir",

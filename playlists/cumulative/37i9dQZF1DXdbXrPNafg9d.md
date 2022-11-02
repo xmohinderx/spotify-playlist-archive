@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Montell Fish
 
-4,378 songs - 10 day 17 hr 16 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,381 songs - 10 day 17 hr 27 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,8 @@
 | [Buddy's Rendezvous](https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Buddy's Rendezvous](https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ) | 5:01 | 2022-06-17 | 2022-07-23 |
 | [Buena Park](https://open.spotify.com/track/4ek4nixH3b9vzzSNIKnbLl) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Buena Park](https://open.spotify.com/album/2u54J2qbqqzWHTebG9zBZC) | 3:40 | 2022-09-02 | 2022-10-15 |
 | [Bug Eyes](https://open.spotify.com/track/7Bmd0vPLxSyFFLH7VXm7T2) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 5:03 | 2020-06-05 | 2020-07-24 |
-| [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-30 |  |
+| [Bugs](https://open.spotify.com/track/0uzlPTCYCYrMVeBW9alXHr) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/1vVB5JCXtIwEddrx43Em7C) | 2:42 | 2022-09-30 | 2022-11-02 |
+| [Bugs](https://open.spotify.com/track/7uPoiTTpyRhDpSsLivlc1j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Bugs](https://open.spotify.com/album/2IgEdXtkm2N3YJJuQP4SVL) | 2:42 | 2022-09-30 |  |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-12-03 | 2022-02-05 |
 | [Built For This](https://open.spotify.com/track/6r16wh66SWCMrHBOpZv2GW) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Built For This](https://open.spotify.com/album/6GBOLgT39B6LnKP2ky3O63) | 2:25 | 2021-03-26 | 2021-05-03 |
 | [Bull Breed](https://open.spotify.com/track/6wndWnjI4UxLDBBu1XeHsC) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/1mee0IS1v4ushnhl91NdHC) | 2:52 | 2022-06-03 | 2022-06-26 |
@@ -1381,7 +1382,8 @@
 | [Fuck it I love you](https://open.spotify.com/track/28aEiMfveru430xmXhDCy3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Fuck it I love you / The greatest](https://open.spotify.com/album/0Zv6uLCDXAW4oG8cVvtG6c) | 3:38 | 2019-08-23 | 2019-09-06 |
 | [Fuck June](https://open.spotify.com/track/6zIjeRxHPybvw7ZjWsEa8i) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Fuck June](https://open.spotify.com/album/2HXUqQUzY12VNpdlEmyLvK) | 2:58 | 2021-06-12 | 2021-08-07 |
 | [fuck sex](https://open.spotify.com/track/2aBd3rkEzBc35myxSkEzQS) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [fuck sex](https://open.spotify.com/album/1WziZgKNvFgY3nkQVcvosw) | 3:19 | 2022-01-07 | 2022-02-12 |
-| [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-14 |  |
+| [Fucking Married](https://open.spotify.com/track/5Bfqnr9dFaG1T1v2ZjWkfu) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/0s4XjlVPKuGfZpnk9NRt2c) | 3:13 | 2022-10-14 | 2022-11-02 |
+| [Fucking Married](https://open.spotify.com/track/71eUN154oDoZ2OSvS4GaL7) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Fucking Married](https://open.spotify.com/album/1NnJE26FXazMsybH0RuyK4) | 3:13 | 2022-10-14 |  |
 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 | 2020-12-12 | 2021-02-16 |
 | [Fugazi](https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Fugazi](https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB) | 4:26 | 2022-01-21 | 2022-04-16 |
 | [Full Moon In Gemini](https://open.spotify.com/track/76yM6xAA9tjUyxSp5Z8uYE) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 2:52 | 2019-10-18 | 2019-12-06 |
@@ -3370,7 +3372,8 @@
 | [Slidin' \- EOB Remix](https://open.spotify.com/track/7qCm38KsAwzB0A9INFVNWP) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Slidin' \(EOB Remix\)](https://open.spotify.com/album/6i0EU18nKFbeRUtnmTvTyW) | 2:39 | 2021-04-10 | 2021-05-29 |
 | [Slow Down](https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:22 | 2022-05-13 | 2022-06-22 |
 | [Slow Ready](https://open.spotify.com/track/19AXHJvTBkh8n9aRrlRqv6) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Dripfield](https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV) | 5:06 | 2022-06-24 | 2022-07-23 |
-| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 |  |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 |  |
+| [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3GGhyTPYDufku46UtvLTPi) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Slowly](https://open.spotify.com/album/2DTKy8cjrG6GIvDO4s3ljv) | 3:07 | 2020-01-31 | 2020-03-27 |
 | [Small Ghosts](https://open.spotify.com/track/6zFqu6VWpbpO36qr9QkH4G) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [5 Songs For The Dysphoric](https://open.spotify.com/album/6ope4Z98ybMP7ayuCSLDNl) | 3:27 | 2021-02-12 | 2021-04-10 |
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-17 | 2021-08-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > it's a cinnamon infused kind of mood
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,426 likes - 81 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,727 likes - 81 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 47 | [Head Over Heels](https://open.spotify.com/track/57SYiEHr1BKIKWk7FCK3Fy) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Head Over Heels](https://open.spotify.com/album/17bbqglX9vw1omdJ6pap3W) | 3:14 |
 | 48 | [Letting Go](https://open.spotify.com/track/6SmgLOxqcRtC6dbZqxkcuB) | [GLDMTH](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:43 |
 | 49 | [I've Got A Bad Bad Feeling](https://open.spotify.com/track/4ApZHEHDUDh4j48X3shcnY) | [Swimmingly](https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg) | [I've Got A Bad Bad Feeling](https://open.spotify.com/album/3K31D1r7thS4Lj04sdYhap) | 2:54 |
-| 50 | [I Burned LA Down](https://open.spotify.com/track/5z8F06wTZvUOR5DzyWJ0L6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:15 |
+| 50 | [I Burned LA Down](https://open.spotify.com/track/4dEUEEbO25gBn2s9dASnYi) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:15 |
 | 51 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 |
 | 52 | [I Never Danced](https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [I Never Danced](https://open.spotify.com/album/1gglryfErGNk6ZiuIPb2u7) | 2:55 |
 | 53 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 80 | [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 |
 | 81 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 
-Snapshot ID: `MTY2NjMwNTU4NiwwMDAwMDAwMGI5YmVhYjRjMjk0Y2M0N2E3YWJkN2VkYTgwNWJiODQ2`
+Snapshot ID: `MTY2NjMwNTU4NiwwMDAwMDAwMDJhMmQyNTRkMGUzZWQ5ZDI5ZDQ1OTE0MTkwNDZmMGZl`

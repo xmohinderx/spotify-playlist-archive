@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 309387,
+  "num_followers": 309488,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMDdjNjBmOWI5NjliNGQ5MGM4Yzk2YWVjOGEwMDkzMmQ2",
+  "snapshot_id": "MTY2MzkwNTYwMCwwMDAwMDAwMGI3NjYwNmE0NjI4MDliMDljNDQyOTIwNzU2Yjg5NTM3",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Greasin The Wheels",
         "url": "https://open.spotify.com/album/4sXHD4MaPHwTdjivbWMmtO"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
       },
       "artists": [
         {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
         }
       ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 166760,
       "name": "The Duke",
       "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "VXNTX VXNTX",
-        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
-      },
-      "artists": [
-        {
-          "name": "Black Mantra",
-          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
+      "added_at": "2022-08-26 04:02:00",
+      "album": {
+        "name": "Watchu Want",
+        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Watchu Want",
+      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Soul Jazz Express",
@@ -1207,26 +1227,6 @@
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
-    },
-    {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Watchu Want",
-        "url": "https://open.spotify.com/album/1t1DLpoawvMQz4vzNSAMOh"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Watchu Want",
-      "url": "https://open.spotify.com/track/5zuvfo5EyQvM116kKxRgQZ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/2zMTauBe9guPMWLTbG1pAH"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
+    },
+    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Bunny Hop!",
@@ -1329,20 +1345,20 @@
       "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-04-15 04:02:00",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
       },
       "artists": [
         {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 247630,
-      "name": "Just Funkin' Around",
-      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
+      "duration_ms": 222533,
+      "name": "Samson",
+      "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 242226,
       "name": "Sir Somebody",
       "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "West Coast Jam",
-      "url": "https://open.spotify.com/track/5kg9Jl18Z3XjTYznMtFUED"
     }
   ],
   "unique_name": "Instrumental Funk",

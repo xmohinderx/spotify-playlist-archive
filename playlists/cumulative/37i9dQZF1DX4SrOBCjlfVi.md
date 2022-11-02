@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Kodak Black, Polo G, Trippie Redd and more\. Cover: Baby Keem
 
-1,720 songs - 3 day 8 hr 41 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,720 songs - 3 day 8 hr 42 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Abandoned](https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM) | [Abandoned](https://open.spotify.com/album/6aah8TZjuMfUTwq5dxYuYP) | 2:56 | 2021-12-24 | 2022-01-15 |
 | [ABOW](https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [ABOW](https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b) | 2:14 | 2022-06-03 | 2022-06-11 |
 | [Active](https://open.spotify.com/track/04OW3p7V9ACVSttnuTfikE) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Active](https://open.spotify.com/album/3F3kfa81UeFxORdaFa8dzE) | 2:54 | 2022-07-01 | 2022-07-09 |
-| [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:11 | 2022-10-28 |  |
+| [Add It Up](https://open.spotify.com/track/3m1l2YNu0yhHFcmLFQUHmA) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Add It Up](https://open.spotify.com/album/1UbM213ebd3VhTEDVhoaN7) | 2:49 | 2022-10-28 |  |
 | [Addy](https://open.spotify.com/track/0MaNWrLab10U4DOi6nK6sB) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Addy](https://open.spotify.com/album/57a2jFTnluxa3WNu6BrIDr) | 2:03 | 2022-08-26 | 2022-09-03 |
 | [AFFILIATED \(feat\. Lil Durk\)](https://open.spotify.com/track/7wqTOAyaUd6nSxo8rxhDdk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:03 | 2022-05-06 | 2022-05-28 |
 | [Afterlife](https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Afterlife](https://open.spotify.com/album/0mU8kILJJ8QZv6C6zSSREv) | 2:29 | 2022-01-28 | 2022-02-05 |

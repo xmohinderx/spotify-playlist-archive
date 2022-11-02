@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,791 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,994 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 24 | [Volveré](https://open.spotify.com/track/26Wuw2ugVQCZdXCNU0M95x) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Volveré](https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa) | 3:22 |
 | 25 | [Caballo Viejo](https://open.spotify.com/track/3PpACueUHFmzKRf5wkLd6s) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Caballo Viejo](https://open.spotify.com/album/7DkA2QeMLLBPQzgFW0MJW8) | 3:38 |
 | 26 | [Un Cabrón Anda Suelto](https://open.spotify.com/track/2AVSW5sxMUl0nrZaHdTW58) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Un Cabrón Anda Suelto](https://open.spotify.com/album/0UjFjbugEamjgm7EQ3ORzx) | 2:46 |
-| 27 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Vanguardia](https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 |
+| 27 | [Serafin \- En Vivo](https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin \(En Vivo\)](https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg) | 3:07 |
 | 28 | [La Malicia \(En Vivo\)](https://open.spotify.com/track/7Eer48O5vfdJyRxvb6T1E5) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [La Malicia \(En Vivo\)](https://open.spotify.com/album/1gAaKiDmn4KVMunZhTH9wv) | 2:59 |
 | 29 | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/track/72zKXb35QSe3wTIsSHoz64) | [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Si Estoy Donde Estoy \(En Vivo\)](https://open.spotify.com/album/2gx6KVPGKqFRmdxPAUjLek) | 3:22 |
 | 30 | [La Cabalgata de San Judas](https://open.spotify.com/track/556HUE8wvrUKHfkg6uk3p0) | [Los Austeros De Durango](https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51) | [La Cabalgata de San Judas](https://open.spotify.com/album/3cQZlfVxAB3lICkd17FMbR) | 2:28 |

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 55511,
+  "num_followers": 55548,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGY3MTE5NTJjODdiMmU0ZmRhMTM3ZjI3NWU4OWJmNTI2",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMDRiNDlmMDYxZTFmNGE3ODhjMDAyYzlmMzhhZDM0MGRj",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
-        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
-      },
-      "artists": [
-        {
-          "name": "Dino",
-          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Mil A\u00f1os",
-      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Musica...Recuerdo Inolvidable",
         "url": "https://open.spotify.com/album/7pZ3OkH9YbE4zebon4dvhl"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 159240,
       "name": "Se Rompio la Cadena",
       "url": "https://open.spotify.com/track/7HO4ZsjFfOy30yhTssf643"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Boleros & Baladas: Peruvians Sing For The Brokenhearted",
+        "url": "https://open.spotify.com/album/2aKXlmYHTdm68pa9Q289Pk"
+      },
+      "artists": [
+        {
+          "name": "Dino",
+          "url": "https://open.spotify.com/artist/7xyshlh8wadJg6dB4SYfPm"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Mil A\u00f1os",
+      "url": "https://open.spotify.com/track/5uF6rmLCccjT8C08GUESf4"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -523,8 +523,8 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
+        "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
+        "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
       },
       "artists": [
         {
@@ -532,9 +532,25 @@
           "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
         }
       ],
-      "duration_ms": 178918,
-      "name": "Me Enga\u00f1as Mujer",
-      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
+      "duration_ms": 132426,
+      "name": "Amor De Pobre",
+      "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Un Bolero un Vals, Vol. 2",
+        "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 307401,
+      "name": "Mi Viejo / Recordando a Mi Padre",
+      "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -587,22 +603,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals, Vol. 2",
-        "url": "https://open.spotify.com/album/6QcqMrnNCOFagbX5Xn1Gg4"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 307401,
-      "name": "Mi Viejo / Recordando a Mi Padre",
-      "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Pedrito Otiniano y Sus Exitos",
         "url": "https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75"
       },
@@ -619,8 +619,8 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Antolog\u00eda 1960 - 1990 (Remastered)",
-        "url": "https://open.spotify.com/album/2xAG4UwtVF0U4rG6xLawfx"
+        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
+        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
         }
       ],
-      "duration_ms": 132426,
-      "name": "Amor De Pobre",
-      "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
+      "duration_ms": 178918,
+      "name": "Me Enga\u00f1as Mujer",
+      "url": "https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Mucho Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191000,
       "name": "Esc\u00e1ndalo / Luz y Sombra",
       "url": "https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -815,22 +815,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Loca Ansiedad",
-        "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
       "artists": [
         {
-          "name": "Raul Lopez",
-          "url": "https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S"
-        },
-        {
-          "name": "Orquesta de Ricaurte Arias",
-          "url": "https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Loca Ansiedad",
-      "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -851,18 +847,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
+        "name": "Loca Ansiedad",
+        "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
       "artists": [
         {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+          "name": "Raul Lopez",
+          "url": "https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S"
+        },
+        {
+          "name": "Orquesta de Ricaurte Arias",
+          "url": "https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr"
         }
       ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
+      "duration_ms": 175333,
+      "name": "Loca Ansiedad",
+      "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
     },
     {
       "added_at": "2021-12-17 05:01:00",

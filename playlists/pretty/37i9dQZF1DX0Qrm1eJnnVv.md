@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 
 > Solo piano recordings of classic rags
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,894 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,893 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 4 | [St\. Louis Rag](https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The Best Of Scott Joplin](https://open.spotify.com/album/300iEB8P24hhTozzVI2Mfl) | 2:34 |
 | 5 | [Troublesome Ivories](https://open.spotify.com/track/1X2NYWrWmpIbs5ALWeZ6Iy) | [Eubie Blake](https://open.spotify.com/artist/35Y7WdrKm5TItu5yHOJ69U) | [Eighty Six Years Of Eubie Blake](https://open.spotify.com/album/5CKfWa3U9PeFEuBhgGBhJX) | 2:02 |
 | 6 | [Pastime Rag No\. 4](https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG) | [Artie Matthews](https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL), [Richard Dowling](https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77) | [World's Greatest Piano Rags](https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ) | 2:02 |
-| 7 | [Cataract Rag](https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx) | [Ralph Sutton](https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9) | [Oh Baby!](https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry) | 3:15 |
+| 7 | [Frog Legs Rag](https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:56 |
 | 8 | [Maple Leaf Rag](https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Entertainer](https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz) | 3:14 |
-| 9 | [Frog Legs Rag](https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:56 |
+| 9 | [Cataract Rag](https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx) | [Ralph Sutton](https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9) | [Oh Baby!](https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry) | 3:15 |
 | 10 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
 | 11 | [Castle House Rag \(James Reese Europe, 1914\)](https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL) | [Sue Keller](https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx) | [Ol' Muddy](https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe) | 3:30 |
 | 12 | [Top Liner Rag](https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od) | [Max Morath](https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF) | [The World Of Scott Joplin](https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl) | 3:53 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 25 | [Fig Leaf Rag](https://open.spotify.com/track/1yMqt5habP5GQsll993r1D) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:54 |
 | 26 | [Solace: Solace: A Mexican Serenade](https://open.spotify.com/track/1Rx5e9Sj4Dm7LliHE9ysHP) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Alexander Peskanov](https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU) | [Joplin: Piano Rags, Vol\. 1](https://open.spotify.com/album/0lNT0wgggNxAUsquXDQX7X) | 6:55 |
 | 27 | [Broadway Rag](https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb) | [Squeek Steele](https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF) | [Ragtime, Vol\. 1](https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK) | 3:37 |
-| 28 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 28 | [Grace and Beauty](https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ) | [James Scott](https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ), [Brian Dykstra](https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY) | [Ragtime Classics, 1901\-1919](https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b) | 3:25 |
 | 29 | [American Beauty Rag](https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z) | [Donald Beavers](https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5) | [100 Years of Ragtime](https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR) | 3:29 |
-| 30 | [Grace and Beauty](https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ) | [James Scott](https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ), [Brian Dykstra](https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY) | [Ragtime Classics, 1901\-1919](https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b) | 3:25 |
-| 31 | [Great Scott Rag](https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:57 |
-| 32 | [Possum and Taters](https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB) | [Jack & Chris Bradshaw](https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py) | [Takes Two](https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O) | 2:45 |
+| 30 | [Paramount Rag](https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7) | [Leslie Bridges](https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw) | [Classic Rags Piano Solos, Vol\. 4](https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul) | 2:45 |
+| 31 | [Possum and Taters](https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB) | [Jack & Chris Bradshaw](https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py) | [Takes Two](https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O) | 2:45 |
+| 32 | [Great Scott Rag](https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:57 |
 | 33 | [A Breeze from Alabama](https://open.spotify.com/track/0CU9oRq6jUw5WE0fN7Epdn) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Alessandro Simonetto](https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk) | [Joplin: Rags & Waltzes](https://open.spotify.com/album/0ewUAHaISymm0ywE1FdAKX) | 4:12 |
 | 34 | [Patricia Rag](https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6) | [Jazzou Jones](https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv) | [Hilarity](https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4) | 3:23 |
 | 35 | [Champagne Rag](https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f) | [Waldham Ragtime Pianos](https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5) | [The St Louis Rag](https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Qrm1eJnnVv.md) - [plain]
 | 49 | [Scott Joplin's New Rag](https://open.spotify.com/track/49uqrtWArmME93qBRrHamC) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:28 |
 | 50 | [Something Doing](https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [The Greatest Ragtime Of The Century](https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj) | 3:16 |
 
-Snapshot ID: `MTY0ODQ5OTE0MywwMDAwMDAwMDY4ZGM5ZTk1MGJkMTM1NDEzODhjZmU5ZDc1ZmY3YTZk`
+Snapshot ID: `MTY0ODQ5OTE0MywwMDAwMDAwMGI0NzhjZTkyYjE1MTY5OWQ4MWYxN2JiZmUxZGE4ZmQx`

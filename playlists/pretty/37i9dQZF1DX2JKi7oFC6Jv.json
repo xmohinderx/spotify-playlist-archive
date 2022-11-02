@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 96162,
+  "num_followers": 96187,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMDc3YTdkYmFjNDgwNzE1MzMxOGNjNzU3MTZiNzJlZTk5",
+  "snapshot_id": "MTY0OTg2MjE4MiwwMDAwMDAwMGE1YjFiZGUwOTAwYzAzNWEwMTE0ODNkYWMyZDRkMzM5",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Street Nation",
-        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
-      },
-      "artists": [
-        {
-          "name": "Funky Dee",
-          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Are You Gunna Bang Doe?",
-      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/2goDYGdgun4cjrYELDKrzw"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 419546,
       "name": "Get Over It",
       "url": "https://open.spotify.com/track/1Utz4zu6JCd8iyA77ueD3t"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Street Nation",
+        "url": "https://open.spotify.com/album/04geSaCj6lElctYUC0gFTd"
+      },
+      "artists": [
+        {
+          "name": "Funky Dee",
+          "url": "https://open.spotify.com/artist/4hzlCYExpUNcY6r0jFG3Pv"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Are You Gunna Bang Doe?",
+      "url": "https://open.spotify.com/track/4W7pSezkbbWWQIiRsiNxoW"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -567,26 +567,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "In The Morning (Let Your Love Come In)",
-        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
-      },
-      "artists": [
-        {
-          "name": "Egypt",
-          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
-        },
-        {
-          "name": "Richard Forbes",
-          "url": "https://open.spotify.com/artist/0zz4dNczrASgFx0fkXrjJB"
-        }
-      ],
-      "duration_ms": 173675,
-      "name": "In The Morning (Let Your Love Come In) - Sticky Radio Edit",
-      "url": "https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Make Money",
         "url": "https://open.spotify.com/album/0lF3TZ4d8dK723Icsy5dvH"
       },
@@ -607,6 +587,26 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "In The Morning (Let Your Love Come In)",
+        "url": "https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk"
+      },
+      "artists": [
+        {
+          "name": "Egypt",
+          "url": "https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86"
+        },
+        {
+          "name": "Richard Forbes",
+          "url": "https://open.spotify.com/artist/0zz4dNczrASgFx0fkXrjJB"
+        }
+      ],
+      "duration_ms": 173675,
+      "name": "In The Morning (Let Your Love Come In) - Sticky Radio Edit",
+      "url": "https://open.spotify.com/track/1nneW6gCqP7U9BPQ4F3Adg"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Party Hard",
         "url": "https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV"
       },
@@ -619,26 +619,6 @@
       "duration_ms": 280693,
       "name": "Devil in a Blue Dress",
       "url": "https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "Bongo Jam",
-        "url": "https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN"
-      },
-      "artists": [
-        {
-          "name": "Crazy Cousinz",
-          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
-        },
-        {
-          "name": "Calista",
-          "url": "https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2"
-        }
-      ],
-      "duration_ms": 461960,
-      "name": "Bongo Jam - Club Mix",
-      "url": "https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -659,6 +639,26 @@
       "duration_ms": 210967,
       "name": "WYWD - Remix",
       "url": "https://open.spotify.com/track/4hFi1gI6EUBHoi9FjtvCKN"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Bongo Jam",
+        "url": "https://open.spotify.com/album/6xWb3uW2YtedtmnBWYKUMN"
+      },
+      "artists": [
+        {
+          "name": "Crazy Cousinz",
+          "url": "https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr"
+        },
+        {
+          "name": "Calista",
+          "url": "https://open.spotify.com/artist/6A2nY049pOVi16IhBf5Ui2"
+        }
+      ],
+      "duration_ms": 461960,
+      "name": "Bongo Jam - Club Mix",
+      "url": "https://open.spotify.com/track/43MvSFYL99yAvRi4a3Ln8U"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Da Linha",
-        "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
-      },
-      "artists": [
-        {
-          "name": "PEDRO",
-          "url": "https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5"
-        },
-        {
-          "name": "Bryte",
-          "url": "https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO"
-        }
-      ],
-      "duration_ms": 170901,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Bayeke (Prace Remix)",
         "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 354244,
       "name": "Bayeke - Prace Remix",
       "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Da Linha",
+        "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
+      },
+      "artists": [
+        {
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5"
+        },
+        {
+          "name": "Bryte",
+          "url": "https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO"
+        }
+      ],
+      "duration_ms": 170901,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -855,6 +855,30 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "I'm Leaving",
+        "url": "https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Alahna",
+          "url": "https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3"
+        },
+        {
+          "name": "DJ MA1",
+          "url": "https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6"
+        }
+      ],
+      "duration_ms": 370023,
+      "name": "I'm Leaving - DJ MA1 Remix",
+      "url": "https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Best Of Bizzle",
         "url": "https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 205440,
       "name": "Move & Breathe",
       "url": "https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "I'm Leaving",
-        "url": "https://open.spotify.com/album/2R9DbkINYc0xVuBxjk1K8r"
-      },
-      "artists": [
-        {
-          "name": "Scratcha DVA",
-          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
-        },
-        {
-          "name": "Alahna",
-          "url": "https://open.spotify.com/artist/46jSEbui6AGr4nPZwYiHi3"
-        },
-        {
-          "name": "DJ MA1",
-          "url": "https://open.spotify.com/artist/4INAX5tocNkzY3S6Acrll6"
-        }
-      ],
-      "duration_ms": 370023,
-      "name": "I'm Leaving - DJ MA1 Remix",
-      "url": "https://open.spotify.com/track/4ZuIiYL4lADtA7zoPFw4Mk"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Firepower EP",
-        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
-      },
-      "artists": [
-        {
-          "name": "DJ Naughty",
-          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
-        }
-      ],
-      "duration_ms": 439466,
-      "name": "Quicktime - Roska Remix",
-      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "Appocolipto",
         "url": "https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 237307,
       "name": "De Siegalizer",
       "url": "https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Firepower EP",
+        "url": "https://open.spotify.com/album/4o2FL2jtRxupHPOGX7Af5U"
+      },
+      "artists": [
+        {
+          "name": "DJ Naughty",
+          "url": "https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo"
+        }
+      ],
+      "duration_ms": 439466,
+      "name": "Quicktime - Roska Remix",
+      "url": "https://open.spotify.com/track/1FDicxg7GVUtCqhF4xgdcI"
     },
     {
       "added_at": "2022-04-13 15:03:02",

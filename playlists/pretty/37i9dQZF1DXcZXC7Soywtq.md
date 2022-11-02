@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 
 > ملتقي أصوات النساء العربيات! الغلاف: سميرة سعيد
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,873 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,887 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 | 28 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
 | 29 | [Poco a Poco](https://open.spotify.com/track/58IXUe8FloHamXLpSsj9tH) | [Sonia Noor](https://open.spotify.com/artist/1bV7AGkUHkPO1AQpsxMrbX) | [Poco a Poco](https://open.spotify.com/album/5w0dZ7uEgnSUzPBgwiItLC) | 3:42 |
 | 30 | [Darhali Galbi](https://open.spotify.com/track/5rX5sT9yC44Rq61EmtGrk5) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Darhali Galbi](https://open.spotify.com/album/2014sSwnnhZMXV5pMDeiXn) | 3:26 |
-| 31 | [Ekhtary](https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [اختاري](https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi) | 3:20 |
+| 31 | [Yallah Rouh](https://open.spotify.com/track/3uWSYjmimNU6BKRTktp6MS) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Yallah Rouh](https://open.spotify.com/album/3oouovHnQ89O7clarzK0mD) | 3:14 |
 | 32 | [Ethebny](https://open.spotify.com/track/5uArNfOPW1qDbtPujYtM3F) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Ethebny](https://open.spotify.com/album/4bg3oJHgyQ2Rsnz11T1Sba) | 5:11 |
 | 33 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 |
-| 34 | [Jabbar](https://open.spotify.com/track/6O8aVzqG0zyqiBwHdS9jfe) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Jabbar](https://open.spotify.com/album/0x4byprGzchyheCLuKrCv7) | 4:15 |
+| 34 | [Waynak](https://open.spotify.com/track/29xE91g0DONeUAgbAtjAMJ) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Hikayi](https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD) | 3:12 |
 | 35 | [Eii Enta](https://open.spotify.com/track/2IUrw2RUKWwxP71q5GwmJL) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Eii Enta](https://open.spotify.com/album/1G3NhiDpVHLKvQZdwZeIiO) | 5:08 |
-| 36 | [Waynak](https://open.spotify.com/track/29xE91g0DONeUAgbAtjAMJ) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Hikayi](https://open.spotify.com/album/2DPOCdXwCUpJSSrJZDfkFD) | 3:12 |
-| 37 | [Yallah Rouh](https://open.spotify.com/track/3uWSYjmimNU6BKRTktp6MS) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Yallah Rouh](https://open.spotify.com/album/3oouovHnQ89O7clarzK0mD) | 3:14 |
+| 36 | [Jabbar](https://open.spotify.com/track/6O8aVzqG0zyqiBwHdS9jfe) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Jabbar](https://open.spotify.com/album/0x4byprGzchyheCLuKrCv7) | 4:15 |
+| 37 | [Ekhtary](https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [اختاري](https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi) | 3:20 |
 | 38 | [Rahn Al Eshara](https://open.spotify.com/track/6VT3137LQvixurPqH71K3b) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Rahn Al Eshara](https://open.spotify.com/album/5Z9XBnaWqJrP4tuD7FZ0AI) | 3:14 |
 | 39 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 |
 | 40 | [Kol Shams W Liha Del](https://open.spotify.com/track/0ctwrNGbqdhBBDhYm7VEV6) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Kol Shams W Liha Del](https://open.spotify.com/album/1ACwZETQMrDDeP2wlPo1TH) | 3:09 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 | 61 | [Zuruni](https://open.spotify.com/track/0dW503oQBCoCcwl2uTvnr6) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ensanein](https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt) | 3:09 |
 | 62 | [Khaloony](https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Khaloony](https://open.spotify.com/album/769Ve8jTV2eKv85Cjh9bdy) | 4:16 |
 | 63 | [Tra Haqi](https://open.spotify.com/track/6AquUqs6BnFxrEjHICtv80) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Tra Haqi](https://open.spotify.com/album/2kZN8xpx72cfkeZ4HkWFHF) | 6:03 |
-| 64 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 |
-| 65 | [Sa7ya Ray2a](https://open.spotify.com/track/0Y11KVVMr1fY8SoD7ycBuv) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Sa7ya Ray2a](https://open.spotify.com/album/3RK29YNVMGGASuJvWEwsqU) | 3:51 |
-| 66 | [Karari](https://open.spotify.com/track/4SfsozqZlFNwuqFYjsUkw3) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Karari](https://open.spotify.com/album/1k7BvvvSQh4WoUvtpNWaLt) | 3:37 |
+| 64 | [Sa7ya Ray2a](https://open.spotify.com/track/0Y11KVVMr1fY8SoD7ycBuv) | [Banah](https://open.spotify.com/artist/4zOyNEn2WrQKUEL92y7Rxf) | [Sa7ya Ray2a](https://open.spotify.com/album/3RK29YNVMGGASuJvWEwsqU) | 3:51 |
+| 65 | [Karari](https://open.spotify.com/track/4SfsozqZlFNwuqFYjsUkw3) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Karari](https://open.spotify.com/album/1k7BvvvSQh4WoUvtpNWaLt) | 3:37 |
+| 66 | [Aktar Shewaya](https://open.spotify.com/track/31jm2OsyfhnU3uklUnWWsB) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Aktar Shewaya](https://open.spotify.com/album/7iTyA5W1HKLQ3Mkzogu1WT) | 2:48 |
 | 67 | [El Gaw Helw](https://open.spotify.com/track/2W1f8o9Af7QEf6VBXzAXdG) | [Nicole Saba](https://open.spotify.com/artist/5rG4r9CUQsfZhjcCiR643w) | [El Gaw Helw](https://open.spotify.com/album/6Dv9RkMigQXKZyNLQz4JE8) | 3:49 |
 | 68 | [La Zher La Maktoub](https://open.spotify.com/track/5sYkyX02CapaYwK5qJRZSt) | [Fatima Zahra Laaroussi](https://open.spotify.com/artist/0bU3oL3uow8qjpD2YL3Mr1) | [La Zher La Maktoub](https://open.spotify.com/album/02rqEUJDvQLYeRVzON38Qq) | 4:09 |
 | 69 | [Eshtaghla Wala Laa ?](https://open.spotify.com/track/2bNxNculDJujQoC2Z5cdVi) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Eshtghala Wala Laa ?](https://open.spotify.com/album/6U6EkwNEO4wbGFb9hIK9OZ) | 3:27 |
 | 70 | [Fil Lail](https://open.spotify.com/track/64kEs3TmxItCXxNWtoEhco) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fil Lail](https://open.spotify.com/album/2fb3xGUCZ3yLQ0wX4mg7bv) | 4:13 |
 | 71 | [تعالى تشوف](https://open.spotify.com/track/4ekRE8jtEHBH9palfFvtqG) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [تعالى تشوف](https://open.spotify.com/album/1Swp3onpJy5TMMKQPF4cHu) | 3:20 |
-| 72 | [3AD Bdit](https://open.spotify.com/track/2zwPbmvHgnUgRR7bz2vL19) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [3AD Bdit](https://open.spotify.com/album/1ZMBcnuZtmARHLLRcAoe6u) | 2:53 |
-| 73 | [Mataha](https://open.spotify.com/track/722rPEG66G3fPBldNp9Sza) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Mataha](https://open.spotify.com/album/0MIkqAFtMjcwfbqKCNvgk3) | 3:32 |
+| 72 | [Mataha](https://open.spotify.com/track/722rPEG66G3fPBldNp9Sza) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Mataha](https://open.spotify.com/album/0MIkqAFtMjcwfbqKCNvgk3) | 3:32 |
+| 73 | [3AD Bdit](https://open.spotify.com/track/2zwPbmvHgnUgRR7bz2vL19) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [3AD Bdit](https://open.spotify.com/album/1ZMBcnuZtmARHLLRcAoe6u) | 2:53 |
 | 74 | [Ezayak Elnaharda](https://open.spotify.com/track/4kNbcRHWX5fgJoCyVgI9Tv) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Ezayak Elnaharda](https://open.spotify.com/album/1d7Oy5ZIdbZUsrroHbLRmH) | 3:57 |
 | 75 | [El Galb Yefdak](https://open.spotify.com/track/5lS6rBpq85NstaRES7R6ca) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [El Galb Yefdak](https://open.spotify.com/album/4GUiweSeHmpdWrZ3lqiXSw) | 3:45 |
 | 76 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 |
@@ -88,17 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 | 78 | [Watani Li Jayi](https://open.spotify.com/track/53dJCsOBOr6zks7A9qncVZ) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Watani Li Jayi](https://open.spotify.com/album/0itFgJembtYiLCN4GXzoiA) | 4:07 |
 | 79 | [Tammuz](https://open.spotify.com/track/2q5sq3WjdPJGE9xA6pJ5ih) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Tammuz](https://open.spotify.com/album/2iQPDMDcg5R9pHbjmHLkGg) | 3:22 |
 | 80 | [Sowarna](https://open.spotify.com/track/5aMf5XddEvzeC1m88J6x4v) | [Al Anean](https://open.spotify.com/artist/4OGe22HHsE2RKyb710cHI3) | [Sowarna](https://open.spotify.com/album/3K3l4mS2yhPMaKkNbsAgpn) | 3:34 |
-| 81 | [El Sa3a Etneen Belleil](https://open.spotify.com/track/5t9bkuWqShyzWmuNZlmkls) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [El Sa3a Etneen Belleil](https://open.spotify.com/album/2Wotq3x966fQCJgOT7xrHw) | 3:12 |
-| 82 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 |
+| 81 | [Bkafi Lahali](https://open.spotify.com/track/1mTZFc6RPX6GRVFLiD4dkk) | [Rouba Khoury](https://open.spotify.com/artist/2imCWk5nD5dmXsrvczXMqu) | [Bkafi Lahali](https://open.spotify.com/album/5rXJPbARiCPl0OBpptSv64) | 3:44 |
+| 82 | [El Sa3a Etneen Belleil](https://open.spotify.com/track/5t9bkuWqShyzWmuNZlmkls) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [El Sa3a Etneen Belleil](https://open.spotify.com/album/2Wotq3x966fQCJgOT7xrHw) | 3:12 |
 | 83 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 |
 | 84 | [Resala Mennak](https://open.spotify.com/track/1ChC38YBlUIrbbTkG6zGcZ) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Resala Mennak](https://open.spotify.com/album/3JhWAkCT2txqKB0PwkIM8H) | 4:18 |
-| 85 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 |
-| 86 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 |
-| 87 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 |
+| 85 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 |
+| 86 | [Maaleish](https://open.spotify.com/track/2UmMhiOyqkHkDQwlQD1nTH) | [Rima Yussef](https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl) | [Maaleish](https://open.spotify.com/album/2eaaJ7UvHSTAwIZ85PUhyi) | 3:27 |
+| 87 | [Yazid Alhama](https://open.spotify.com/track/59ZuKOZER5zP4dCUe1U6wM) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [يزيد الهم](https://open.spotify.com/album/29D1k5ambOiIO7J9KuQzCf) | 4:40 |
 | 88 | [Alhawa Alhab](https://open.spotify.com/track/5ChuqrJ9vJkOeZXQnqX93m) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Alhawa Alhab](https://open.spotify.com/album/7sF5e87LzyoYeC4B8DCrUG) | 4:56 |
 | 89 | [Ana Ma Astaghni](https://open.spotify.com/track/54ytiI75JBleHsTiJwi9d9) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Ana Ma Astaghni](https://open.spotify.com/album/7doUub9LdO3apzewNqafd6) | 5:01 |
-| 90 | [Bukra Ahla](https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB) | 2:40 |
-| 91 | [Daba](https://open.spotify.com/track/4f6oJ6niLEOd8pOuINJtlx) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R) | 3:46 |
+| 90 | [Daba](https://open.spotify.com/track/4f6oJ6niLEOd8pOuINJtlx) | [Oum](https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f) | [Daba](https://open.spotify.com/album/11OL1xFGIU33aWk1Hf964R) | 3:46 |
+| 91 | [Bukra Ahla](https://open.spotify.com/track/1XY2yjkH0QlflcX3cp3j5f) | [Nina Abdel Malak](https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E) | [Bukra Ahla](https://open.spotify.com/album/6g3GiO6nDZm1yQWPyuXUsB) | 2:40 |
 | 92 | [3shqi 3shqi](https://open.spotify.com/track/2ijiMws0XoGBkiHhnWeR0R) | [Assala Al Majidi](https://open.spotify.com/artist/2pTl8ndSxB3HXTCkpyxD9D) | [3shqi 3shqi](https://open.spotify.com/album/0oAAOShXtjTUAekbYxWjTw) | 3:14 |
 | 93 | [Galbi Tlef](https://open.spotify.com/track/75uPMqyybZN0jPzfV93a9E) | [Ibtissam Tiskat](https://open.spotify.com/artist/4l1fokkgiLZQg1qx0kkKrm) | [Galbi Tlef](https://open.spotify.com/album/02dB6JX78mIrKolDkwiS9q) | 3:04 |
 | 94 | [خالي بلاش](https://open.spotify.com/track/0m0CR7PeE1e7THI4ejvOO1) | [Hala Al Turk](https://open.spotify.com/artist/08XpoQUQ8CrwDVMo1BOEpj) | [خالي بلاش](https://open.spotify.com/album/6lOBDVMS5R5bnBBB8yn2jS) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZXC7Soywtq.md) - [plain]
 | 99 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 |
 | 100 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 |
 
-Snapshot ID: `MTY2Njg2Mzc0MiwwMDAwMDAwMDg4YzhmZTYwNDU1NWJlOTIxMzgyZDk4OTJkNTliZjg0`
+Snapshot ID: `MTY2Njg2Mzc0MiwwMDAwMDAwMGFiOGE0YWFkOGY2M2I5ODBlZGU3MzBiMWRiZDJkOGQz`

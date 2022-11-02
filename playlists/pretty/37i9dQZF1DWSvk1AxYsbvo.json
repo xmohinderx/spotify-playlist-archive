@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 6068,
+  "num_followers": 6061,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTYzOTk2NywwMDAwMDAwMGY3NWFlY2UyNDBiOWIxMmUzYTMxZTZkYWI3YTVkOGMx",
+  "snapshot_id": "MTY2NTYzOTk2NywwMDAwMDAwMGQyYjQ4ODYxNGFhNTA3MzdiNTZmOWFiNGUyODdkYmNk",
   "tracks": [
     {
       "added_at": "2022-10-13 05:46:07",
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
+        "name": "Salt Rain (Prod. By Alfie Hole)",
+        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
+      },
+      "artists": [
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "Keumbee",
+          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
+        }
+      ],
+      "duration_ms": 217774,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
         "name": "Seoul Check-in OST Part 8",
         "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 135750,
       "name": "right now",
       "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
-        "name": "Salt Rain (Prod. By Alfie Hole)",
-        "url": "https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn"
-      },
-      "artists": [
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "Keumbee",
-          "url": "https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm"
-        }
-      ],
-      "duration_ms": 217774,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
+        "name": "sleepless nights (My Sweden Laundry #1)",
+        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "sleepless nights (My Sweden Laundry #1)",
+      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
         "name": "My Beautiful Apartment (Original Television Soundtrack) (O\u2032PENing)",
         "url": "https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 220842,
       "name": "\ub0b4\uc77c\uc774 \ub418\uba74",
       "url": "https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
-        "name": "sleepless nights (My Sweden Laundry #1)",
-        "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "sleepless nights (My Sweden Laundry #1)",
-      "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 400871,
       "name": "Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "Summer Night You and I",
-        "url": "https://open.spotify.com/album/2vo3nvT5oqGlEHGbh1QvhO"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Summer Night You and I",
-      "url": "https://open.spotify.com/track/1zCRu6ONQa4FCADwoZnHuI"
-    },
-    {
-      "added_at": "2022-10-13 05:46:07",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2022-10-13 05:46:07",
+      "album": {
+        "name": "Summer Night You and I",
+        "url": "https://open.spotify.com/album/2vo3nvT5oqGlEHGbh1QvhO"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Summer Night You and I",
+      "url": "https://open.spotify.com/track/1zCRu6ONQa4FCADwoZnHuI"
     },
     {
       "added_at": "2022-10-13 05:46:07",
@@ -839,18 +839,18 @@
     {
       "added_at": "2022-10-13 05:46:07",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
+        "name": "Olive",
+        "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
       "artists": [
         {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+          "name": "Artinb",
+          "url": "https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp"
         }
       ],
-      "duration_ms": 210840,
-      "name": "To My Friend",
-      "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
+      "duration_ms": 129000,
+      "name": "Olive",
+      "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
