@@ -2803,6 +2803,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Outliers](/playlists/pretty/37i9dQZF1DX7oMO417tEZs.md)
 - [Over The Moon Official Playlist](/playlists/pretty/37i9dQZF1DX1izsHDxkdWu.md)
 - [Oye Pop](/playlists/pretty/37i9dQZF1DX92MLsP3K1fI.md)
+- [Oyster](/playlists/pretty/37i9dQZF1DX2Wvd8VINtcF.md)
 - [Ozark Official Playlist](/playlists/pretty/37i9dQZF1DXbnT3D0off4y.md)
 - [PARTY MODE](/playlists/pretty/37i9dQZF1DX0MXH7aN4Pxn.md)
 - [PAUSE: Anxiety](/playlists/pretty/37i9dQZF1DX3zwZ4R1dXab.md)
