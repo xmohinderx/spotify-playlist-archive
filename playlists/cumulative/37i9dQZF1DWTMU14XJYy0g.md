@@ -4,12 +4,12 @@
 
 > Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Indio Solari.
 
-135 songs - 8 hr 36 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
+136 songs - 8 hr 39 min - [published](https://open.spotify.com/playlist/1BEgfZL9U1ltwJb00J2hJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Medias](https://open.spotify.com/track/5z1VEnPsozGXwQ5cWRimol) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [A Medias](https://open.spotify.com/album/2n5bjUV8VCJXxEnuanZUpB) | 3:18 | 2022-06-24 |  |
-| [Alejado de la Red](https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 3:47 | 2022-06-24 |  |
+| [Alejado de la Red](https://open.spotify.com/track/6964EHVPA0v5lNcRKJnmpU) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Alejado de la Red](https://open.spotify.com/album/4PTq788RYYJ6cUV1yzFaUP) | 3:47 | 2022-06-24 | 2022-11-03 |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 |  |
 | [Ataque de Nervios](https://open.spotify.com/track/5ohwtgVYVXy9nOc7J9h5ab) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Ataque de Nervios](https://open.spotify.com/album/0oXboB0KtD8JPyMgY5SNYj) | 3:31 | 2022-06-24 |  |
 | [Azúcar Impalpable](https://open.spotify.com/track/48nLgkR14oklsdfjN6wGsl) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [2020](https://open.spotify.com/album/1gYS9ESTHondssy51aBUPK) | 4:26 | 2022-06-24 |  |
@@ -130,7 +130,7 @@
 | [Todos los Vientos](https://open.spotify.com/track/6xi1npz5rpEhOtEg1LHKUG) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Todos los Vientos](https://open.spotify.com/album/1hdoOfhsWQ05avZZunec0C) | 3:47 | 2022-06-24 | 2022-08-06 |
 | [Trinchera](https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera \- Single](https://open.spotify.com/album/7e6wpR5m0K1S3cWkDGQEBm) | 3:20 | 2022-09-02 |  |
 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 | 2022-06-24 |  |
-| [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 |  |
+| [Ultra Free](https://open.spotify.com/track/2r3KSEga5xq8EsglHOep0o) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Ultra Free](https://open.spotify.com/album/00rJK2jvhkRho9npgLWL1w) | 3:00 | 2022-07-08 | 2022-11-03 |
 | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/track/1mr6dXlWBIiSjTY44bcEhs) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Un Chico en el Cuerpo de un Mayor](https://open.spotify.com/album/3PbE2A6hMQIejFQUHImi5U) | 3:01 | 2022-07-29 |  |
 | [Un demonio](https://open.spotify.com/track/0NwKbZrsXH5FqFQMFKeeDg) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Un demonio](https://open.spotify.com/album/2ZSLCx4FVuCAb6R5df0zax) | 1:12 | 2022-06-24 |  |
 | [Una y Otra Vez](https://open.spotify.com/track/4odPPgH2sPMadY0nKws2pW) | [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Una y Otra Vez](https://open.spotify.com/album/4HbrGsJV51qvPJnmDaMvhK) | 2:10 | 2022-06-24 | 2022-07-29 |
@@ -141,6 +141,7 @@
 | [Volver a Nacer](https://open.spotify.com/track/2IzKyyYTVmh5h6shdsawT1) | [Corvex](https://open.spotify.com/artist/2E94EJ7lzS7wlcvpYMelWy) | [Volver a Nacer](https://open.spotify.com/album/3b4LialsppSQBwax8zMLVz) | 4:24 | 2022-06-24 | 2022-07-02 |
 | [Ya Lo Sabés](https://open.spotify.com/track/3qml78xRFn8FOQmdfq3PVE) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Ya Lo Sabés](https://open.spotify.com/album/3jhXMrOIcE2PHpXq52mY25) | 3:28 | 2022-06-24 | 2022-10-15 |
 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2022-06-24 | 2022-09-24 |
+| [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 | 2022-11-02 |  |
 | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/track/4Oojh7z0igJiloOBasoOUF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Ya Nö Quiero \(Banda Sonora Original de la Película "Existir"\)](https://open.spotify.com/album/5o4nzFZ1VSJoVlQeSxC3eB) | 4:14 | 2022-06-24 | 2022-07-30 |
 | [Yo Soy la Máquina](https://open.spotify.com/track/4eq8fPmokjpFcMVpNLKwaI) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Yo Soy la Máquina](https://open.spotify.com/album/1KgTB2iKxtvGWQ5EL97LDZ) | 3:04 | 2022-10-14 |  |
 

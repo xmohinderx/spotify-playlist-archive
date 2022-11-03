@@ -1,12 +1,12 @@
 {
   "description": "\"Women at full volume\" - H\u00f6re hier K\u00fcnstlerinnen aus Deutschland, \u00d6sterreich und der Schweiz. Cover: BABYJOY",
-  "num_followers": 18351,
+  "num_followers": 18346,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMDU0NzE4ZmYwNWQxMmRjNjcxYTdkN2NiZTIwMzhmNDZl",
+  "snapshot_id": "MTY2NDkyMDgwMCwwMDAwMDAwMGY5ZmQ3ZTc5MzYyYWEwMTc5NjAzZDdkOTE4MzM1NjMx",
   "tracks": [
     {
       "added_at": "2022-10-04 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-10-04 22:00:00",
       "album": {
-        "name": "Delikat",
-        "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
-      },
-      "artists": [
-        {
-          "name": "TASHAN",
-          "url": "https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Delikat",
-      "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
-    },
-    {
-      "added_at": "2022-10-04 22:00:00",
-      "album": {
         "name": "Irgendwo In Dieser Stadt",
         "url": "https://open.spotify.com/album/0i2xhfLlTRmKS37YkFyyeR"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 165976,
       "name": "Irgendwo In Dieser Stadt",
       "url": "https://open.spotify.com/track/4zpN7E64DLc5oWkYaNnZ6P"
+    },
+    {
+      "added_at": "2022-10-04 22:00:00",
+      "album": {
+        "name": "Delikat",
+        "url": "https://open.spotify.com/album/004XfNY0Dw7e6O2aVSJsxO"
+      },
+      "artists": [
+        {
+          "name": "TASHAN",
+          "url": "https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Delikat",
+      "url": "https://open.spotify.com/track/7jhhp9QvHGDmWPYSMiO04O"
     },
     {
       "added_at": "2022-10-04 22:00:00",

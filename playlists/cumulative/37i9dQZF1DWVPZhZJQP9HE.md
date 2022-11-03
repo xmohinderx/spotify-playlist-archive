@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sandy
 
-217 songs - 13 hr 14 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+218 songs - 13 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ini Thani](https://open.spotify.com/track/6HrKGKbkAPTN71WJ6QzcgE) | [Christo Daniel](https://open.spotify.com/artist/5f5FrBhf9BoH8pqpE0OsYq) | [Ini Thani](https://open.spotify.com/album/1UtuUFZlTekioqKELIghnP) | 5:40 | 2022-10-18 |  |
 | [Inneram Indha Neram](https://open.spotify.com/track/3M4PpixFma16wWsBCNFZol) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Inneram Indha Neram](https://open.spotify.com/album/5xsj5KNmtzrZ992CJR519j) | 5:25 | 2022-03-08 |  |
 | [Insta Instagram](https://open.spotify.com/track/04Sp1e4G7xoTvGHcoMl6ou) | [Leo Peters](https://open.spotify.com/artist/4MMARjT8FuxvD3inBuloPW), [Naksha Saran](https://open.spotify.com/artist/2dRBC4Whl2IXFcVGq9cOpQ) | [Insta Instagram](https://open.spotify.com/album/4cEAdsQ5h7H0dl3QQECUX4) | 3:32 | 2022-02-23 | 2022-07-08 |
+| [International Perazhage](https://open.spotify.com/track/2mXDBH9Mgxt7XrOwYCP1oy) | [A R Anandh](https://open.spotify.com/artist/0g4Lzawjm4gE1sjed9U02Y) | [International Perazhage](https://open.spotify.com/album/1Cp9FvS11YeJfXNbBKnb6B) | 2:59 | 2022-11-02 |  |
 | [Ithu Ellam Unnale](https://open.spotify.com/track/6EbbVS4m0opr8cyVjIkgqR) | [Tajmeel Sheriff](https://open.spotify.com/artist/0SyOW7GFk4hsjBI0cztpI8) | [Ithu Ellam Unnale](https://open.spotify.com/album/5OjkUlvcyk24eMoS5wJJc6) | 4:38 | 2022-03-01 | 2022-05-31 |
 | [Ithuvum Kadanthu Pogum](https://open.spotify.com/track/1XEQvmPd3hMEq83oy5WQrX) | [Vidusan](https://open.spotify.com/artist/4HWnGaT10cviOt7T531O54), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Ithuvum Kadanthu Pogum](https://open.spotify.com/album/5eEdQNAnstFiNkmWmAXgaM) | 3:00 | 2022-10-28 |  |
 | [Jai Bheem](https://open.spotify.com/track/1WX37OlJfPfppUOSOOT4c0) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 2:54 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-333 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+334 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Dirty Blues](https://open.spotify.com/track/2DlEnRwz2rcXaM5w3sZyCC) | [Heather Newman](https://open.spotify.com/artist/6dILx9IGvPcmvB1ZRkCyZv) | [Burn Me Alive](https://open.spotify.com/album/0oFD0u2SEMkASy4SMSA2ZF) | 4:11 | 2021-02-23 | 2022-04-26 |
 | [Dois Ali Se Amando Mesmo](https://open.spotify.com/track/1eH7t8r7vhJ57MJc4mpeVn) | [François Muleka](https://open.spotify.com/artist/5KZmSICYyJfFS1lqcF771A) | [Feijão e Sonho](https://open.spotify.com/album/5oEi9HsVuXu4WsqCXkGQWF) | 4:51 | 2021-02-23 | 2022-04-26 |
 | [Don't You Ever Change](https://open.spotify.com/track/5c6hEWwdVsJuRFzTQMERYF) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g) | [Don't You Ever Change](https://open.spotify.com/album/1iPi9KGq4x7oNH49tPoZC5) | 2:46 | 2021-02-23 | 2022-04-26 |
-| [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at the Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 | 2022-04-25 |  |
+| [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 | 2022-04-25 |  |
 | [Earthquake](https://open.spotify.com/track/1GFpX3PE5atI0ZWrS2GBPe) | [LÓN](https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i) | [Earthquake](https://open.spotify.com/album/6EukX6qgoP2vDJ1kvjGsK6) | 2:49 | 2022-04-25 | 2022-07-29 |
 | [Earthquake](https://open.spotify.com/track/6k0GwkSMQfvjwOOpyD7joi) | [LÓN](https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i) | [Thankfully Distracted](https://open.spotify.com/album/4hnK0PL8CRX0aWpABDp5NG) | 2:49 | 2022-04-25 |  |
 | [East Tennessee Blues \(Live\)](https://open.spotify.com/track/7lqZCwKGwdxhThFjU1vepC) | [Mike Compton](https://open.spotify.com/artist/6LZ6w8r6v69UrAhYklRG74) | [Live](https://open.spotify.com/album/1jifrKqcA2svvFRphUkBah) | 2:22 | 2022-04-25 |  |
@@ -279,7 +279,8 @@
 | [The Cuckoo](https://open.spotify.com/track/2G7FxaQcUpdmfeCVqQG58s) | [Hillary Klug](https://open.spotify.com/artist/7bKlmScAPDnvjvXdesMS7r) | [The Cuckoo](https://open.spotify.com/album/5lwzQt3XnyTj3aS9GCsEmX) | 2:44 | 2022-04-25 |  |
 | [The Doffing Mistress](https://open.spotify.com/track/72bZmDzbGMxowdGNyQW7AY) | [Varo](https://open.spotify.com/artist/5kKhaRaOYiUyP2NimolxL5) | [Varo](https://open.spotify.com/album/6tGslHV3epjKaTdtLKPPDn) | 2:11 | 2021-02-23 | 2022-04-26 |
 | [The Flood](https://open.spotify.com/track/2YdU9FRM7fYiZ9B2KOUIpl) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/7nSIlWXzql4FW4JG8v2OcE) | 4:21 | 2021-02-23 | 2022-04-26 |
-| [The It Girl](https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY) | 2:42 | 2022-04-25 |  |
+| [The It Girl](https://open.spotify.com/track/04Tk8Bp1n4PPRFJGTNCooO) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/7pPR3wabtIfX0k3qN8uGeY) | 2:42 | 2022-04-25 | 2022-11-03 |
+| [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 | 2022-04-25 |  |
 | [The Killing Times](https://open.spotify.com/track/7InKmSKkQqAFOEZTfvbQ2X) | [Ruth Hazleton](https://open.spotify.com/artist/1PQMtrdmdo7Gi7FXoAAUgt) | [Daisywheel](https://open.spotify.com/album/3hxjJpFxW7JFtFdSryj4Pa) | 4:44 | 2021-02-23 | 2022-04-26 |
 | [The Lick](https://open.spotify.com/track/26vW8FjqRbrYJlS5ttvJRm) | [New Orleans Nightcrawlers](https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ) | [Atmosphere](https://open.spotify.com/album/7A7tAQa8C6AWd5NZ0lJavB) | 5:10 | 2021-02-23 | 2022-04-26 |
 | [The Long Way Around](https://open.spotify.com/track/0QrbEUOAudJejbINJ4CrF0) | [Gaelynn Lea](https://open.spotify.com/artist/68zltLWXjBB3dIqHikDXZy) | [The Long Way Around](https://open.spotify.com/album/2WCLjdMsLwL0pJSBL7dHhf) | 4:42 | 2022-04-25 |  |

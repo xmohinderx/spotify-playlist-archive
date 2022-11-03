@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4?si=Z4rpKi0vTzuo\_6ZbRBQbqg">Boohle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,438 likes - 80 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,907 likes - 80 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 7 | [Mexico way](https://open.spotify.com/track/2whKA5gzY2smoUV3OANgfr) | [Deemo De Flame](https://open.spotify.com/artist/7qgydy5pOtkE15F0EdNm4A) | [Mexico way](https://open.spotify.com/album/3imwuOwzr2pNT5AdZKxZuK) | 7:34 |
 | 8 | [Kae Kae](https://open.spotify.com/track/03cojjbc3ES88WMTMNCJG7) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [K LeSuper](https://open.spotify.com/artist/1GMEaV53bRjUsXcCM26QkH) | [Kae Kae](https://open.spotify.com/album/11vMcHOpweFim1GTA33dyS) | 6:25 |
 | 9 | [Waga Bietjie](https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Waga Bietjie](https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48) | 4:51 |
-| 10 | [Gusheshe](https://open.spotify.com/track/5PRFgdwLTh9ghOFowF8Jhb) | [Frenzyoffixial](https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ), [Bizizi](https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB), [KayGee DaKing](https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2) | [Gusheshe](https://open.spotify.com/album/7r4X2vjz24MLwu4bmOljK0) | 4:15 |
+| 10 | [Gusheshe](https://open.spotify.com/track/1dodq9lLoi0i1QhHcKTCwT) | [Frenzyoffixial](https://open.spotify.com/artist/0JTurBlK1OnYn1Ohq7fGuJ), [Bizizi](https://open.spotify.com/artist/1bd4LtfOcSzkWOjHKTj6yB), [KayGee DaKing](https://open.spotify.com/artist/6rQ1MAPgKqwX5hTZZdcJf2) | [PIANOJOLLOF](https://open.spotify.com/album/5FKnn3MWsdhSbkHV83I6ot) | 4:15 |
 | 11 | [Sengizwile \(feat\. Aymos & Young Stunna\)](https://open.spotify.com/track/3PdO57q0KLWkfWXsXQJlV6) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Young Stunna](https://open.spotify.com/artist/5EFltv565Wfat1X84qESVr) | [Auti 'eSharp](https://open.spotify.com/album/6J12Gv5rBMymYJlCM4hXPu) | 7:00 |
 | 12 | [Malunde](https://open.spotify.com/track/6Dq5g1yiFDf83YWQvZiyh3) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL) | [The First Offering](https://open.spotify.com/album/0L9pP2e3pJ4ORgCdlpZGbm) | 6:34 |
 | 13 | [Fatela](https://open.spotify.com/track/58u8z6ia8GTm9yZlkmtCtV) | [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Fatela](https://open.spotify.com/album/0XkXn7Kotl8QMwP5YGdGHY) | 5:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 79 | [GIN & JUCE](https://open.spotify.com/track/7DuBVoyz6F4Y5cTTrES3s3) | [DJ Michel](https://open.spotify.com/artist/0e2fF4oRhJRn7GvLbPsdLL), [Teddy](https://open.spotify.com/artist/4hySpEQOgKAiWwQxQJJJ5L), [BeeKay](https://open.spotify.com/artist/3UIkKpGjjYpMXblZIMCcbW) | [GIN & JUCE](https://open.spotify.com/album/3Z8o6hPK8nXbhS5jeCz5DT) | 6:21 |
 | 80 | [Konnichiwa \(feat\. TNK MusiQ, Malum.Hypeman & Ultrasoft\)](https://open.spotify.com/track/3Ukwgh8Fv5EOqQgx9mhsEp) | [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ntsika](https://open.spotify.com/artist/3tYY43HzH3E0ORW0qAYc9M), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [Malum.Hypeman](https://open.spotify.com/artist/6zGbKQ9vZhI5DSJMGaxRqf), [Ultrasoft](https://open.spotify.com/artist/79bqtQcUY3vwh7uSO9yM9C) | [Konnichiwa \(feat\. TNK MusiQ, Malum.Hypeman & Ultrasoft\)](https://open.spotify.com/album/0SVekOTVpuyB0CnqvQVuEa) | 6:38 |
 
-Snapshot ID: `MTY2NzI5MDkzOCwwMDAwMDAwMDZjMTFiYzQwMDhkNzYwYjhkOTdiMzJlZGY1Yzg2YWVk`
+Snapshot ID: `MTY2NzI5MDkzOCwwMDAwMDAwMDliMWI3M2Q5NmE3ZTI4MGFkYjM5MGIzMTJiNjUyYTU0`

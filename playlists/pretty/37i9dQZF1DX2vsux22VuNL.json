@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Elana Dara",
-  "num_followers": 236244,
+  "num_followers": 236353,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGU2NjhhZjYwMDhiOTZkMTFiMGRhNjI4ODNhZWM4MjJm",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGE4OGE5ZjFiNjY1ZjI4OGNhZWMyNjk2ZGM3OWQwNDhk",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Enigma",
-        "url": "https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N"
-      },
-      "artists": [
-        {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        }
-      ],
-      "duration_ms": 240503,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Sussurros",
         "url": "https://open.spotify.com/album/0QKrzgGefbKTTGNiyXMsy2"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 191933,
       "name": "Sussurros",
       "url": "https://open.spotify.com/track/3h5WrbxaFRRRtLKvmlfvau"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Enigma",
+        "url": "https://open.spotify.com/album/7zbo1VQgkYL3kzmNusNV3N"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        }
+      ],
+      "duration_ms": 240503,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/4esz5K53Soq2bGevWlCSfW"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1043,6 +1043,42 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Xavequin 2",
+        "url": "https://open.spotify.com/album/3U0g88ovbhpQwTzaaJMenm"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        }
+      ],
+      "duration_ms": 350014,
+      "name": "Xavequin 2",
+      "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5"
       },
@@ -1087,42 +1123,6 @@
       "duration_ms": 208762,
       "name": "Linda",
       "url": "https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Xavequin 2",
-        "url": "https://open.spotify.com/album/3U0g88ovbhpQwTzaaJMenm"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        },
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "San Joe",
-          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
-        }
-      ],
-      "duration_ms": 350014,
-      "name": "Xavequin 2",
-      "url": "https://open.spotify.com/track/2C2Ya63y7cp3rh01Umjy2P"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Incompreens\u00edvel",
-        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Rossi",
-          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Incompreens\u00edvel",
-      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Vale Nada",
         "url": "https://open.spotify.com/album/3znzrPr1akppdreErreNFU"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 164480,
       "name": "Vale Nada",
       "url": "https://open.spotify.com/track/1HcptUOhD09D9Q61Y1eWTG"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Incompreens\u00edvel",
+        "url": "https://open.spotify.com/album/5ruFS6omFm5SYUeQc3WDaM"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rossi",
+          "url": "https://open.spotify.com/artist/4ffbPlugxavkW9jARlpNBA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Incompreens\u00edvel",
+      "url": "https://open.spotify.com/track/7kAuO29y7qOGyviJqxl0xi"
     },
     {
       "added_at": "2022-10-28 03:00:00",

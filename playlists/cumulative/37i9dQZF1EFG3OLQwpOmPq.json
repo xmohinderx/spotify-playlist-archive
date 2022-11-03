@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Being Good Is Boring",
+        "url": "https://open.spotify.com/album/6asqvl3ZX2moMrkpowonUr"
+      },
+      "artists": [
+        {
+          "name": "Jena Rose",
+          "url": "https://open.spotify.com/artist/05cgS2xJt75RhmFWgpgfE7"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Being Good Is Boring",
+      "url": "https://open.spotify.com/track/6UXWq2vWpHeTZlMIFyEWIn"
+    },
+    {
+      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/13lsx3HiueZWyN5wSSNDEL"
       },

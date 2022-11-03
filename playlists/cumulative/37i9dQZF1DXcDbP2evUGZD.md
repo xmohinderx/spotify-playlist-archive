@@ -4,7 +4,7 @@
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-121 songs - 8 hr 1 min - [published](https://open.spotify.com/playlist/6I3IOSUqfYyVYRdWwm2w2N)
+123 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/6I3IOSUqfYyVYRdWwm2w2N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Delicious](https://open.spotify.com/track/1t2BXAZq0KM7AaFu5cvc3x) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:21 | 2022-09-27 |  |
 | [Devil](https://open.spotify.com/track/0Lh8BrgdjL4i4SupJmS2Jw) | [byebyesea](https://open.spotify.com/artist/6riFTYc983NGqLzQBW3UZK) | [Pink Revolution](https://open.spotify.com/album/04TZAEZLEi3BOg79lnKhz7) | 3:21 | 2022-09-27 |  |
 | [Diamond](https://open.spotify.com/track/3rLzrVi4yBQ0ohgklv9R82) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:09 | 2022-09-27 |  |
-| [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-09-27 |  |
+| [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-09-27 | 2022-11-03 |
+| [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-10-22 |  |
 | [Do What You Want](https://open.spotify.com/track/0oowgBmA5ZZRTJErzZo3Am) | [다정 Dajung](https://open.spotify.com/artist/4MisLzbilh7iF4SvLWd77C) | [Jay Knife](https://open.spotify.com/album/14cBsBAuKSnwZPe6brHuSD) | 1:57 | 2022-09-27 |  |
 | [Don't Care About Me](https://open.spotify.com/track/5Rfo9DsoKWTJTbq77VNStM) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:29 | 2022-09-27 |  |
 | [Dracula](https://open.spotify.com/track/3DPV4Bmm7xiwTJW2zOu1ql) | [HeMeets](https://open.spotify.com/artist/58WZqBpDzT98SrNhy01TPD), [SAEM](https://open.spotify.com/artist/2rhoey47DIa5YfnHD8Kj19), [Jung Da\-woon](https://open.spotify.com/artist/1hGnyLaS02zH0kTe5ufdBu), [Lee Hyeong\-gu](https://open.spotify.com/artist/6nKpvtfQYvk8WeToauGGpe), [Rockun](https://open.spotify.com/artist/2uzJBnU7A1A6qYpgkecPSc) | [Mars Attack](https://open.spotify.com/album/2VwBRJyHqL17IzorSdiXK4) | 3:49 | 2022-09-27 |  |
@@ -72,7 +73,8 @@
 | [kk](https://open.spotify.com/track/7HYtRBGVkaka9OAvifc7g2) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Harmony 화](https://open.spotify.com/album/5G5tvzJf7JitZ0x4GpoUxh) | 2:51 | 2022-09-27 |  |
 | [Last Call](https://open.spotify.com/track/5saaGZgz1R2TBeB0mDZHIL) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower Shop](https://open.spotify.com/album/3eQwoUhBTy2F89F4K4dmRI) | 2:52 | 2022-10-17 |  |
 | [Liars](https://open.spotify.com/track/0TWlOxbPcxIozWShIGYOsv) | [TRPP](https://open.spotify.com/artist/1aBpZ0N9BHa5pVM8oKhT0D) | [TRPP](https://open.spotify.com/album/2BacozGtXMOerDsVq5lJkd) | 3:00 | 2022-09-27 |  |
-| [Light Beside You](https://open.spotify.com/track/6EE4jMxM5EY8uJ3Z76wsIG) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/1KlYJdZhZvRTj1VTEsLpge) | 3:35 | 2022-09-27 |  |
+| [Light Beside You](https://open.spotify.com/track/2QTyOuLerx1U0kcpAVH4Fo) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/7KNZ09ycq8We2c9kJD6yKl) | 3:35 | 2022-10-22 |  |
+| [Light Beside You](https://open.spotify.com/track/6EE4jMxM5EY8uJ3Z76wsIG) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/1KlYJdZhZvRTj1VTEsLpge) | 3:35 | 2022-09-27 | 2022-11-03 |
 | [Like a Butterfly](https://open.spotify.com/track/21eq5IlsfbAh0eb44e0dqQ) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [Crazy Driver](https://open.spotify.com/album/02usvaengQGAO3S8BQGOZZ) | 3:34 | 2022-09-27 |  |
 | [Lip balm](https://open.spotify.com/track/4wii40hlqbVqbSeXuDtySq) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:16 | 2022-09-27 |  |
 | [Love&Art](https://open.spotify.com/track/7lyWHvKsAx1N9CwQIDRCJU) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [4pricøt](https://open.spotify.com/album/3t8eCpA20zjLJdAFdYAslp) | 6:30 | 2022-09-27 |  |

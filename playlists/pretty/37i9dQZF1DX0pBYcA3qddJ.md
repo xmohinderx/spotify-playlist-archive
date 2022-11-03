@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,955 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,954 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 67 | [Gluck: 妖精の踊り](https://open.spotify.com/track/3KCH3uAbvDwaEKdswsspgX) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR) | [鳥の歌](https://open.spotify.com/album/2WrUZcTKVmFZdbatMmx9oB) | 2:37 |
 | 68 | [The Forever Now \- From "This Is Us: Season 6"](https://open.spotify.com/track/6iIHZUDmGAzpOuKHehdsgw) | [This Is Us Cast](https://open.spotify.com/artist/4jLe6sgGBkNDC6pNstUJ2S), [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [The Forever Now \(From "This Is Us: Season 6"\)](https://open.spotify.com/album/2h7h6xLkT9MjRi8xUdckLo) | 3:18 |
 | 69 | [reflection](https://open.spotify.com/track/3y3VLtIZsmjb5bTDrfZE5C) | [Masafumi Komatsu](https://open.spotify.com/artist/6EeYq4J3QdKusSaCarhC80) | [Life](https://open.spotify.com/album/2xgE7xh8Q9mMLYWaOuRgn2) | 5:18 |
-| 70 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
+| 70 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
 | 71 | [トロイメライ](https://open.spotify.com/track/5YH6qLexMGY9pUNLrq3WBq) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Suguru Matsutani](https://open.spotify.com/artist/0cGtHLKfga7uvnXld79LK7) | [WORKS](https://open.spotify.com/album/0Ou5yZUCihKLoiy6zfwk2I) | 3:15 |
-| 72 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 |
+| 72 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 73 | [Liszt: 献呈\(シューマンの歌曲による\) S.566](https://open.spotify.com/track/2BcoxFxJYKgNJ04OvcjIHa) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [リスト・リサイタル](https://open.spotify.com/album/5wW0Umm77TQjMihv2RUU8b) | 3:56 |
 | 74 | [Cello Concerto No\. 1 in C Major, Hob\. VIIb:1: II\. Adagio](https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M) | [Joseph Haydn](https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Haydn: Cello Concertos \(Remastered\)](https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA) | 8:13 |
 | 75 | [花水木の咲く頃 \- 辻井伸行](https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Ise sonorite](https://open.spotify.com/track/4i9aNdBvZgUdZoWXvI8zth) | [齊藤桃子](https://open.spotify.com/artist/38rBUCUOs3mjE227Zh9znJ) | [Oto No Eiga](https://open.spotify.com/album/2VOWJSvAakSiq0fHX19rjF) | 6:55 |
 | 100 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 
-Snapshot ID: `MTY2NzMxNDgwMCwwMDAwMDAwMDQ4MWI4NWJiYjFjYTM5NTQzNjdlMDEzY2ZjYmYzMzdl`
+Snapshot ID: `MTY2NzMxNDgwMCwwMDAwMDAwMDEyN2E5OGI4OTg4NGI1YjQ2Y2UyY2JlODNiOTllMGFi`

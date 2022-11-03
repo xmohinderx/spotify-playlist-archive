@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,954 likes - 78 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,993 likes - 78 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 30 | [Love Thang \- Long Version](https://open.spotify.com/track/55Q1gdClrnRYk8HnRkUK0m) | [Fredi Grace](https://open.spotify.com/artist/1lDpsgE48uQcfZh6vpj8Fh), [Rhinstone](https://open.spotify.com/artist/53kfXebhQMaddxG1eDbCgp) | [Get On Your Mark \(Expanded Version\)](https://open.spotify.com/album/1CzTtpcgi4LvfR3u02t1gk) | 7:17 |
 | 31 | [More Than A Lover \- Remix](https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2) | 3:21 |
 | 32 | [Do that dance](https://open.spotify.com/track/5GoI2NdKncz3WERdzO68KV) | [Modogsta](https://open.spotify.com/artist/786qXsqlTqvPpf5ncqTOWV) | [Modogsta](https://open.spotify.com/album/2R7oZd9PZE6jl7ueT7uekh) | 4:27 |
-| 33 | [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 |
+| 33 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 34 | [When I Hit the Block](https://open.spotify.com/track/4Vy23imXjy2kg8zaaX5D7O) | [Throwback Zack](https://open.spotify.com/artist/75csMNFe2KTbVYOko3sLzv) | [Cloud 9](https://open.spotify.com/album/4gvxF2lP3osUa2MXxq3atT) | 3:46 |
 | 35 | [Destiny \(Electric House\)](https://open.spotify.com/track/1OW7Tc4LlUli3bNIVgAbTM) | [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [The Remix Animated](https://open.spotify.com/album/3zquMij5PJ1itKFatEmb0p) | 4:47 |
 | 36 | [Winning](https://open.spotify.com/track/5aoEP8goqbvoI7ITs2SVAo) | [Fingazz](https://open.spotify.com/artist/5r1yBS6lhh7Mo4Egr3k0JT) | [Winning](https://open.spotify.com/album/4UQCFBr4wdsGQmcdXyoVcV) | 3:39 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 77 | [All Yours](https://open.spotify.com/track/2Ve7DnsbG1TBmzSZUdVz0m) | [Ben Maxwell](https://open.spotify.com/artist/6OPUscoxZHZHQ2wUbiQhmR) | [All Yours](https://open.spotify.com/album/0dgErgADgR9uDN5dSaP29f) | 3:23 |
 | 78 | [Baby \- Short Version](https://open.spotify.com/track/0Wq4qAWGtK2mTX3ljg7Euw) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Baby](https://open.spotify.com/album/0ahizNeWVa0gfdTYyowEka) | 3:07 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDRlYzUyMjFjNDlkODE0ZjE1ZjgyNGNhMTZlM2IyMWUw`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGIyODk0NDFiMWUyM2MyMjcwN2Q1NDIyOWJhNTY1M2Iw`

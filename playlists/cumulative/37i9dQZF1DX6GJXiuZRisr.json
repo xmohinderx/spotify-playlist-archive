@@ -52,6 +52,32 @@
     },
     {
       "album": {
+        "name": "A Drug From God (Reb\u016bke Remix)",
+        "url": "https://open.spotify.com/album/3IpdopIzRhHVXMtXh4TuuI"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+        },
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188251,
+      "name": "A Drug From God (Reb\u016bke Remix)",
+      "url": "https://open.spotify.com/track/5MFe1Wz3fNTYRJhxK2kk57"
+    },
+    {
+      "album": {
         "name": "A Long Time Coming (Original Mix)",
         "url": "https://open.spotify.com/album/6CvVtbHJ4D7K6Dmrsj5bhr"
       },
@@ -2341,7 +2367,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 193563,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5XAQO5MN3T7Z5ecAAql0JV"

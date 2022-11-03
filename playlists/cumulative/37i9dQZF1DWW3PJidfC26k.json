@@ -111,7 +111,7 @@
     {
       "album": {
         "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
       },
       "artists": [
         {
@@ -122,6 +122,24 @@
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
+    },
+    {
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs"

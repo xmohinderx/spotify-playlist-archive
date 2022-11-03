@@ -4,7 +4,7 @@
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 
-123 songs - 7 hr 6 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
+124 songs - 7 hr 10 min - [published](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Gravity](https://open.spotify.com/track/24r3v5xQdmC4qXH6twiWla) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:54 | 2021-07-26 |  |
 | [Groove](https://open.spotify.com/track/4Xi0jBySALbHLMh9MnSvAb) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:28 | 2021-07-26 |  |
 | [Growl](https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:27 | 2021-07-26 |  |
-| [happy](https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST Part.11](https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ) | 3:52 | 2021-07-26 |  |
+| [happy](https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Do You Like Brahms? OST Part.11](https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ) | 3:52 | 2021-07-26 | 2022-11-03 |
+| [happy](https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [브람스를 좋아하세요? \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR) | 3:52 | 2021-07-26 |  |
 | [Heaven](https://open.spotify.com/track/64wBH2x7lTYxhwUzoS5gvt) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:45 | 2021-07-26 |  |
 | [Heaven](https://open.spotify.com/track/7wlPyCWaTMfkYyalMq5jU2) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT \- The 3rd Album](https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD) | 3:45 | 2021-07-26 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 | 2021-07-26 |  |

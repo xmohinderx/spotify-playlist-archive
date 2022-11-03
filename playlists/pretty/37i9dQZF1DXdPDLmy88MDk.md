@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,565 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,710 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 49 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 |
 | 50 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 51 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |
-| 52 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [FLUR](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 |
+| 52 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Flur](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 |
 | 53 | [Shimmering Water](https://open.spotify.com/track/4Z4RbVmOpawdQSFLtTvZPB) | [Dan Evmark](https://open.spotify.com/artist/6u2qrVRsvJjOpbTYwH6Xsp), [Paula Gustafsson](https://open.spotify.com/artist/7hqiEu32L3foRmOiP7ealx), [Amelie Evmark](https://open.spotify.com/artist/2OJcCy0s7bowPrykt9KT5G) | [Silent Waves](https://open.spotify.com/album/2prO7Ke2ASXq9cDTvvVPUk) | 4:49 |
 | 54 | [Nocturne Op.9 No.2 \- Arranged by Francisco Tárrega/Mattias Schulstad](https://open.spotify.com/track/2gPbAlaGCuRAyWp0bJtJ9g) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Mattias Schulstad](https://open.spotify.com/artist/2jvqNlkR1lMdHy8ipcFzY5) | [Invocación](https://open.spotify.com/album/4e1OIusJfC64x8jPvIzeNM) | 4:11 |
 | 55 | [Wild Symphony: The Ray](https://open.spotify.com/track/3HwrvKobl53LLlWoy1eFSW) | [Dan Brown](https://open.spotify.com/artist/6yGJF6jxyfhp4evcVfN8ub), [Zagreb Festival Orchestra](https://open.spotify.com/artist/4DtKAGXohf7BzaVU8cBxlU) | [Wild Symphony \(Preview\)](https://open.spotify.com/album/3Xrhilf51s6UlQWcBr2Npo) | 2:00 |

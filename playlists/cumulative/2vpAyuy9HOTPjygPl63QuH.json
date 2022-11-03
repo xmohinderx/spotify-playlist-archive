@@ -1112,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Bring It Down",
+        "url": "https://open.spotify.com/album/7HNdACEoJgHTjYDBc2XU1k"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "Bring It Down",
+      "url": "https://open.spotify.com/track/1MnocAMS5MnNBf1Crkgjz3"
+    },
+    {
+      "album": {
         "name": "Bring the House",
         "url": "https://open.spotify.com/album/6trWlniWrPVr07sTbHuMe4"
       },

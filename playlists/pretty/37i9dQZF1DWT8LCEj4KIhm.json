@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDJkMWM2NWMyOTczNWQzZWFkNTUwOGU5MGE2MGU3MTUz",
+  "snapshot_id": "MTYzMzY2NTY2MCwwMDAwMDAwMDI3OGUzYmJkNzkyZjY2ZWZkYzU4ODJkYThiY2I5YTli",
   "tracks": [
     {
       "added_at": "2021-10-08 04:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-10-08 04:01:00",
       "album": {
-        "name": "Maison",
-        "url": "https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z"
-      },
-      "artists": [
-        {
-          "name": "Rom\u00e9o Elvis",
-          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Chaud",
-      "url": "https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5"
-    },
-    {
-      "added_at": "2021-10-08 04:01:00",
-      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 199895,
       "name": "Lay Your Head On Me (feat. Marcus Mumford)",
       "url": "https://open.spotify.com/track/0oB9964bp22Bmok0Dmxlzb"
+    },
+    {
+      "added_at": "2021-10-08 04:01:00",
+      "album": {
+        "name": "Maison",
+        "url": "https://open.spotify.com/album/6a0kpW3K2zVsjnusyitG8Z"
+      },
+      "artists": [
+        {
+          "name": "Rom\u00e9o Elvis",
+          "url": "https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Chaud",
+      "url": "https://open.spotify.com/track/4sPJpns1ma2kpfDEMvpAG5"
     },
     {
       "added_at": "2021-10-08 04:01:00",

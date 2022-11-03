@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 52305,
+  "num_followers": 52332,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGFjZjYxN2VhN2M5N2ViYTJiMDhjYjE2MjRlMmFiOGVl",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMGY4MzgwODlmNzc2MDFkMmE5N2U1MjA3MjhmOTQwNTVi",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Hymnotic",
-        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
-      },
-      "artists": [
-        {
-          "name": "Future Breeze",
-          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
-        }
-      ],
-      "duration_ms": 262677,
-      "name": "Hymnotic",
-      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Know You",
         "url": "https://open.spotify.com/album/6skZFW6NdHUwCgWhgRJUCm"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+        "name": "Hymnotic",
+        "url": "https://open.spotify.com/album/6UlbePpX6dvFF24UfxFEuk"
       },
       "artists": [
         {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
         }
       ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+      "duration_ms": 262677,
+      "name": "Hymnotic",
+      "url": "https://open.spotify.com/track/2GKICfOOYlFAiwALLEPTJu"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -599,6 +583,22 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -643,6 +643,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "duration_ms": 339391,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 358841,
       "name": "Mirage - Anoraak Extended Remix",
       "url": "https://open.spotify.com/track/35iuuDX0wvxdOwwRVg84UX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Forgive Me",
-        "url": "https://open.spotify.com/album/1pZQjsbqDLVwlXOp8SU7RQ"
-      },
-      "artists": [
-        {
-          "name": "Scuba",
-          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
-        }
-      ],
-      "duration_ms": 339391,
-      "name": "Forgive Me",
-      "url": "https://open.spotify.com/track/1Mua8IC1yJW6buvktiTQHH"
     },
     {
       "added_at": "2021-08-27 15:45:01",

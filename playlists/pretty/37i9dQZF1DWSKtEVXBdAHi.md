@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,084 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,087 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 77 | [Sun Is Shining](https://open.spotify.com/track/2AbhqUAK0wukEWyb61jqNN) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Sun Is Shining](https://open.spotify.com/album/1R0fZK3IFtWEpfv8Cgb8jJ) | 3:09 |
 | 78 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
 | 79 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
-| 80 | [Too Far Gone](https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Too Far Gone](https://open.spotify.com/album/4Ow8VDC7PLzir1Glze74dW) | 3:16 |
+| 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDc0ZTNjMWE3OTE5NDlkZmFhNGQwNDI1MDJjZmNjYzEx`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGRiZGVkZmIzZTU4YTkxNWJmZjcxODYzODQ0ZmJlYmYx`

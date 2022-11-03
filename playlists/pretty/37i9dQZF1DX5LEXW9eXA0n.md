@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Roy Kim\(로이킴\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,708 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,763 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 26 | [My Romance](https://open.spotify.com/track/2KqdVt3WWqNIla3lx41Nbh) | [Lee Ju Hyuk](https://open.spotify.com/artist/05kWx8q5sU1MChiDfWcVRk) | [The Law Cafe \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/15NYQBlwX5YbqfHOt1xgNR) | 3:21 |
 | 27 | [Island](https://open.spotify.com/track/5qLt5LS1WVUwo1CYl08wFQ) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Island](https://open.spotify.com/album/3wtjtiFtIyB8TfvT8qkMsz) | 3:36 |
 | 28 | [Tonight](https://open.spotify.com/track/5zRPAxbJo5IXIHFTOETcJL) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH), [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Tipping Point Pt.1](https://open.spotify.com/album/1S5zQMBBDIklg0QR97Zq9I) | 4:15 |
-| 29 | [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 |
+| 29 | [홀로 핀 아이](https://open.spotify.com/track/7HKQdNF6zTVj0QBLheWD7O) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,](https://open.spotify.com/album/50ypPSIjofQu7iEkA4ILTr) | 4:09 |
 | 30 | [A Pining Wind](https://open.spotify.com/track/0VMcRleh9Pep4inwQSO2rv) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [A Pining Wind](https://open.spotify.com/album/3GrDwT7tSSKz861FBjRDZz) | 5:00 |
 | 31 | [Traces of You](https://open.spotify.com/track/0K9vliPUbih2E6YCLDobCu) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [The Law Cafe \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/1FuORImSSQuDDj7A1rTxSz) | 3:49 |
 | 32 | [Still Here](https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Still Here](https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU) | 3:39 |

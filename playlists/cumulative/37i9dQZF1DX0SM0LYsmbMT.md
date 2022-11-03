@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,078 songs - 4 day 23 hr 14 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,079 songs - 4 day 23 hr 15 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Blue Lagoon](https://open.spotify.com/track/3mtaRfivMCPYmqh9BpLTLW) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Blue Lagoon](https://open.spotify.com/album/4KcvYwsqUQF2OgvrNL4Wvk) | 1:55 | 2021-01-29 | 2021-03-19 |
 | [Blue Mood](https://open.spotify.com/track/3EtZnZm5vSUoyANv1y4Euq) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Blue Mood](https://open.spotify.com/album/0Y7qlxushLfHt6A7YDztUf) | 1:34 | 2022-09-08 |  |
 | [Blue Moon](https://open.spotify.com/track/680BqFD0FVVA0Eld6Tjvij) | [Wilczynski](https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Blue Moon](https://open.spotify.com/album/3rqs1QEtD7ziWUYynt4DIM) | 1:56 | 2021-03-27 | 2021-08-06 |
+| [Blue Orchids](https://open.spotify.com/track/4U78uBnxWdIaP8DFWBFaGC) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Blue Orchids](https://open.spotify.com/album/7GEGxtHdQtuP04wodEjbID) | 1:34 | 2022-11-03 |  |
 | [Blue Peony](https://open.spotify.com/track/65hqr4D7lPZ3lOIYDyPGhY) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Blue Peony](https://open.spotify.com/album/70OBG89uKQf6MPmos4cBG2) | 2:36 | 2022-06-23 | 2022-07-15 |
 | [Blue Shades](https://open.spotify.com/track/12iqqPRu2loZsYRwhYF4J4) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Blue Shades](https://open.spotify.com/album/7gwQVv9qESm4EeJ7E6qDZq) | 1:31 | 2019-05-26\* | 2019-08-13 |
 | [Blue Shift](https://open.spotify.com/track/6M9BG9lw1NJ3cUXHc5UWar) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Blue Shift](https://open.spotify.com/album/362D4juwui3HWOSHfeMV6n) | 2:20 | 2020-07-18 | 2021-03-06 |
@@ -1992,7 +1993,7 @@
 | [Palm Oil](https://open.spotify.com/track/5hYxf9l3EEYY6weglDZOx8) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Palm Oil](https://open.spotify.com/album/6jVKXAn69SHH3qn2fgbDLX) | 2:33 | 2020-04-24 | 2020-07-03 |
 | [Palma](https://open.spotify.com/track/7pxbteHpF1ZCPAjrRDxJoS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Palma](https://open.spotify.com/album/58i6QGRroAiZlhQQYnomHc) | 2:08 | 2021-05-07 | 2021-06-11 |
 | [Palos Verdes Sunsets](https://open.spotify.com/track/7kMyUZDiAFKzs54cCvXUkT) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD), [Nils](https://open.spotify.com/artist/3LIDXKf2DqV6RiJ4UtiRww) | [Palos Verdes Sunsets](https://open.spotify.com/album/5S4iDgn9XN93qgNDTrorQX) | 2:18 | 2021-05-29 | 2021-10-22 |
-| [Pangea](https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Pangea](https://open.spotify.com/album/0yTryh9Co9Zdrw1z1lxRCm) | 1:42 | 2022-05-12 |  |
+| [Pangea](https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Pangea](https://open.spotify.com/album/0yTryh9Co9Zdrw1z1lxRCm) | 1:42 | 2022-05-12 | 2022-11-03 |
 | [papaya](https://open.spotify.com/track/68PTwG29nRche3xj2gMDlL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [papaya](https://open.spotify.com/album/0zrqz82mfGhh3SH35CkR0l) | 2:58 | 2021-08-27 | 2021-10-08 |
 | [Papaya Creek](https://open.spotify.com/track/70fervkMWWH6rQ89nNauM2) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Papaya Creek](https://open.spotify.com/album/3a9g4YpDhxkpn0D9sXc1I5) | 2:32 | 2022-06-16 | 2022-09-02 |
 | [Paper](https://open.spotify.com/track/7MmlDhyroURJOtnEjYnPeQ) | [Amuseity](https://open.spotify.com/artist/6eNL8EiCnr1E8xQI3WECDf) | [Beat Chow Vol\. 1](https://open.spotify.com/album/2LNj69VHihIkvsI5NU9TJx) | 2:03 | 2019-06-08 | 2019-11-29 |

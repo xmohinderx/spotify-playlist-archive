@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Danny Schiller",
-  "num_followers": 749643,
+  "num_followers": 749642,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMDVlODgyNGI4YjA2NTUxZWM4ZDVkZWE5N2IzMzNiNTEz",
+  "snapshot_id": "MTY2Njk4ODM2NCwwMDAwMDAwMDc0Mzg1OGE5MzMzZmIyMjU4NzMyYmMzNTMzMmQ2Yzg2",
   "tracks": [
     {
       "added_at": "2022-10-28 20:18:35",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 148490,
-      "name": "I Love You Bitch",
-      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
         "name": "up at night (feat. justin bieber)",
         "url": "https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182226,
       "name": "up at night (feat. justin bieber)",
       "url": "https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 148490,
+      "name": "I Love You Bitch",
+      "url": "https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Will I See You Again?",
-        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
       "artists": [
         {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Will I See You Again?",
-      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
+      "duration_ms": 156798,
+      "name": "hate to be lame",
+      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
+        "name": "Will I See You Again?",
+        "url": "https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 156798,
-      "name": "hate to be lame",
-      "url": "https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl"
+      "duration_ms": 240653,
+      "name": "Will I See You Again?",
+      "url": "https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
-        "name": "Si nos vamos",
-        "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 166750,
-      "name": "Si nos vamos",
-      "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
         "name": "Constellations",
         "url": "https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 179491,
       "name": "Bedtime Story",
       "url": "https://open.spotify.com/track/2OmdXyjwfOQGsVdTUCRDwv"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
+        "name": "Si nos vamos",
+        "url": "https://open.spotify.com/album/4KtiEBfQhipRwX7jzaSdLJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "Si nos vamos",
+      "url": "https://open.spotify.com/track/1PssPMY2c6vBIdfipUMR3X"
     },
     {
       "added_at": "2022-10-27 13:44:27",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2022-10-27 13:44:27",
       "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/1U6e6MPp6JaQ9lFo6YJyKp"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5vpCo7GpBJmc8RWkOZyvtI"
+    },
+    {
+      "added_at": "2022-10-27 13:44:27",
+      "album": {
         "name": "Apple",
         "url": "https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK"
       },
@@ -1735,22 +1755,6 @@
       "duration_ms": 204467,
       "name": "Apple",
       "url": "https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX"
-    },
-    {
-      "added_at": "2022-10-27 13:44:27",
-      "album": {
-        "name": "Spell 31",
-        "url": "https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m"
-      },
-      "artists": [
-        {
-          "name": "Ibeyi",
-          "url": "https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Creature (Perfect)",
-      "url": "https://open.spotify.com/track/2emF1fcXtygEDeOgHvUArs"
     }
   ],
   "unique_name": "Mixto",

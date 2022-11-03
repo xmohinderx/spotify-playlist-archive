@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-327 songs - 16 hr 7 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
+328 songs - 16 hr 10 min - [published](https://open.spotify.com/playlist/397jGpRsbRdsmrqQjQPUxi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [María Bonita](https://open.spotify.com/track/6DRR66qe90hVC2KtYqHOjq) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2EcjFNKdJ5DEYxaayM6Zbm) | 3:21 | 2021-05-15 | 2022-01-22 |
 | [Mañanita Fría](https://open.spotify.com/track/1mJpHbfkLFpS32MDLCKwuj) | [Dr\. Alfonso Ortíz Tirado](https://open.spotify.com/artist/3hlOljYjVCom3YivKRP9Oq) | [Lo Mejor de Alfonso Ortíz Tirado](https://open.spotify.com/album/3X2pCUdaiIe2PA6BZ5zuV0) | 3:11 | 2022-01-21 |  |
 | [Me Dices Que Te Vas](https://open.spotify.com/track/5N5B2DAZbvZcX67yKgUm1V) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Son Inolvidables: Cheo Feliciano y la R\. Venezolana](https://open.spotify.com/album/1mKna9IG2BJoMxsEZJveI0) | 3:13 | 2021-05-15 |  |
-| [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 | 2021-05-15 |  |
+| [Me Engañas Mujer](https://open.spotify.com/track/4qcjtUP5Lk9RRQQMkcKkKR) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Lucho Barrios \- In Memoriam 1935 \- 2010](https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS) | 2:58 | 2021-05-15 | 2022-11-03 |
+| [Me Engañas Mujer](https://open.spotify.com/track/5Sr5Jpy291i4d07B2tWruy) | [Lucho Barrios](https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh) | [Una Rockola en el Cielo, Vol\. 1](https://open.spotify.com/album/5dcGv6iJb00Ba4YP3xMrRU) | 2:58 | 2022-01-21 |  |
 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 | 2021-05-15 |  |
 | [Mi Negra Linda](https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 3:08 | 2021-05-15 |  |
 | [Mi Último Fracaso](https://open.spotify.com/track/2T9yeQHLGyxVwXRW0So0Xo) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Los Tres Ases](https://open.spotify.com/album/3qQNIEw5zY5NOpgTNAVhZJ) | 3:10 | 2021-05-15 | 2022-01-22 |

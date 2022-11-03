@@ -4,7 +4,7 @@
 
 > Anything from hidden local gems to pop classics about the journey to embracing all kinds of love.
 
-78 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
+79 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/6mVBkmhR4OzyzNdQQH6C7g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-04-07 | 2022-06-24 |
 | [Cocktail](https://open.spotify.com/track/3fpZCgUe70u50OJMbpM84S) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [好風光](https://open.spotify.com/album/2olyf0rTeI1FNoU8mSTPAx) | 4:34 | 2022-06-23 | 2022-07-29 |
 | [Come With Me](https://open.spotify.com/track/35MCt0BeMs2pWtYNhMR92l) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE), [AF](https://open.spotify.com/artist/6CygVJXs3ziiuKWNA4TkF9) | [Come With Me](https://open.spotify.com/album/7GboJALajHDdhgqetBTZRU) | 3:14 | 2022-06-23 | 2022-07-29 |
-| [Crave You](https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz) | 3:54 | 2022-07-28 |  |
+| [Crave You](https://open.spotify.com/track/4ESWJepzBtY2lR9oZDYVaP) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/5V8798yQx7GwVCXQTyIOJz) | 3:54 | 2022-07-28 | 2022-11-03 |
+| [Crave You](https://open.spotify.com/track/5mdzg7ZwebXNb90LPRusAs) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/1FQyS2AHgEQB6F5Jh1ymGb) | 3:54 | 2022-07-28 |  |
 | [Dangerous \(feat\. Joywave\) \- Oliver Remix](https://open.spotify.com/track/3PVukkbEGmJGoyJG2lfBPP) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [1.6 \(feat\. Joywave\)](https://open.spotify.com/album/4Sl5PqIX7DpX39AiCNnYQh) | 4:37 | 2022-07-28 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-07-28 |  |
 | [Elio](https://open.spotify.com/track/026J1RDgiiTTqJ0cENHQhB) | [Higgo Raj](https://open.spotify.com/artist/3YEVEdKje1zmAHh8Hsxgnb) | [EUM001: Ups and Downs](https://open.spotify.com/album/5q8Y41IplrcB2QqqmE4bR1) | 3:47 | 2022-04-07 | 2022-06-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Rihanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,622 likes - 110 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,633 likes - 110 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/track/5n4tX6qxC8giXU7IUmDSuI) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/album/1hyL0GzOo3xtHAyhUQ5mjV) | 2:24 |
 | 60 | [Jule X](https://open.spotify.com/track/5dLZWeOsdqlbCm1FXIVsy8) | [Jule X](https://open.spotify.com/artist/1TSeKOGQXY1ERc745kFTJ0) | [Jule X](https://open.spotify.com/album/3GBzA4ewOgGSDqEHh0Fz1y) | 2:30 |
 | 61 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
-| 62 | [aufgehört zu rennen](https://open.spotify.com/track/6dDyEooW4lFeOicB5kfXGj) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [aufgehört zu rennen](https://open.spotify.com/album/7AP8GPYAjGvetdGxidWCdd) | 2:17 |
+| 62 | [Aufgehört zu rennen](https://open.spotify.com/track/6dDyEooW4lFeOicB5kfXGj) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Aufgehört zu rennen](https://open.spotify.com/album/7AP8GPYAjGvetdGxidWCdd) | 2:17 |
 | 63 | [You Are Entering The Human Heart](https://open.spotify.com/track/4BenuknMGlePyfb7VcJinW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [You Are Entering The Human Heart](https://open.spotify.com/album/3vVoyRVSZHm55WiywJQ6c9) | 3:22 |
 | 64 | [Sie braucht mich](https://open.spotify.com/track/7g0mP5AnVhZZwvDKRMVXla) | [Theo Junior](https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO) | [Sie braucht mich](https://open.spotify.com/album/1LmdjTNVQVA54OQa3OchL7) | 3:13 |
 | 65 | [Pretty Face](https://open.spotify.com/track/3BFQo7aVMYhOj93wqPrpJE) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Pretty Face](https://open.spotify.com/album/7bZr9hW34mEV4WN86j304e) | 3:15 |

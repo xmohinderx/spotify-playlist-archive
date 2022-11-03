@@ -1,12 +1,12 @@
 {
   "description": "When the bassline slaps.",
-  "num_followers": 274731,
+  "num_followers": 274741,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk0NzYwMCwwMDAwMDAwMDFkNDM5NmMwNTE0NTM1ZThhYzk0NGUzYzFmOWMwOGY5",
+  "snapshot_id": "MTY2Njk0NzYwMCwwMDAwMDAwMGUwMmUxOTM3YTdlZTM1MDVhZGFiNDBkY2IxNmZkZTNh",
   "tracks": [
     {
       "added_at": "2022-10-28 09:00:00",
@@ -191,26 +191,18 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
-        "name": "Lady",
-        "url": "https://open.spotify.com/album/3S8f5GXk7reT5IFw6XjRBl"
+        "name": "Slap House Party",
+        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
       },
       "artists": [
         {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        },
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        },
-        {
-          "name": "Scott Rill",
-          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 155267,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/5MZtSCAvjvCoUbJ0a9ljum"
+      "duration_ms": 165428,
+      "name": "Drunk in Love",
+      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -231,18 +223,26 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
-        "name": "Slap House Party",
-        "url": "https://open.spotify.com/album/7risiHnzUvnYXey8cpEdoX"
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/3S8f5GXk7reT5IFw6XjRBl"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Drunk in Love",
-      "url": "https://open.spotify.com/track/0rG5jvbdBRAg7paORdTWSe"
+      "duration_ms": 155267,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/5MZtSCAvjvCoUbJ0a9ljum"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
-      },
-      "artists": [
-        {
-          "name": "Axel Black & White",
-          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
-        }
-      ],
-      "duration_ms": 141170,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc"
+      },
+      "artists": [
+        {
+          "name": "Axel Black & White",
+          "url": "https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN"
+        }
+      ],
+      "duration_ms": 141170,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
         "name": "Heaven (feat. Sofia Quinn)",
         "url": "https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -959,6 +959,30 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
+        "name": "Darkroom",
+        "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Marmy",
+          "url": "https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz"
+        }
+      ],
+      "duration_ms": 156674,
+      "name": "Darkroom",
+      "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
         "name": "World in Your Eyes",
         "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
@@ -987,6 +1011,22 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 149724,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
         "name": "Try Again",
         "url": "https://open.spotify.com/album/1mAJ1htzZKsFXwbcTatxIq"
       },
@@ -1003,46 +1043,6 @@
       "duration_ms": 169717,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/26gSKAMIFzwMd4htHklFfN"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "Darkroom",
-        "url": "https://open.spotify.com/album/41Dkv1wi7AreaeUyNfBY0k"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Ilkay Sencan",
-          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
-        },
-        {
-          "name": "Marmy",
-          "url": "https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz"
-        }
-      ],
-      "duration_ms": 156674,
-      "name": "Darkroom",
-      "url": "https://open.spotify.com/track/41f0NEYvnCWC8rW0TeQmEy"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 149724,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
     },
     {
       "added_at": "2022-10-28 09:00:00",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-10-28 09:00:00",
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
+      },
+      "artists": [
+        {
+          "name": "Coldabank",
+          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+        },
+        {
+          "name": "Freedo",
+          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
+        }
+      ],
+      "duration_ms": 154904,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
+    },
+    {
+      "added_at": "2022-10-28 09:00:00",
+      "album": {
         "name": "redruM (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/4nnIvDNj4KOJgN2dAZThea"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 162580,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6"
-    },
-    {
-      "added_at": "2022-10-28 09:00:00",
-      "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD"
-      },
-      "artists": [
-        {
-          "name": "Coldabank",
-          "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
-        },
-        {
-          "name": "Freedo",
-          "url": "https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ"
-        }
-      ],
-      "duration_ms": 154904,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C"
     },
     {
       "added_at": "2022-10-28 09:00:00",

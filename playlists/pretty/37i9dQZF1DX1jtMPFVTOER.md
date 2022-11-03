@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: José James
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,487 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,579 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 23 | [Repotting](https://open.spotify.com/track/0foCHcn6DKwDkENsETguuK) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY), [Ryan Nadin](https://open.spotify.com/artist/1eDdmLqcLhJXubA0xItdGA), [Prizm Wizard](https://open.spotify.com/artist/3NY11hCKUaJRJmsPo4pu4c) | [Repotting](https://open.spotify.com/album/5qhqB44JPrhSPstqbGJt7o) | 1:41 |
 | 24 | [Torch](https://open.spotify.com/track/0kp0CNhNG6n1cUvaCMGyxK) | [Jared Evan](https://open.spotify.com/artist/6HfPfjqkmkpLbYqYhTeNuB), [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc) | [B.B.3](https://open.spotify.com/album/4dupqsqU305eTwu1pdFIPL) | 3:40 |
 | 25 | [The Long Juju Slave Route of Arochokwu](https://open.spotify.com/track/2DvCrMyz3oq1xCmBGofrWG) | [Camilla George](https://open.spotify.com/artist/6gIw9VQPs8SI1XRYhSwYWH), [SANITY](https://open.spotify.com/artist/41GSvyq3TDpJu49qvAU6X8), [Daru Jones](https://open.spotify.com/artist/3kOGIhN1mgwbrQMgY5KV9U) | [Ibio\-Ibio](https://open.spotify.com/album/0qIUtII533DzbMMVXmvGuC) | 4:33 |
-| 26 | [Set It Free](https://open.spotify.com/track/2s9IaOOEUsGCb7KmNspnht) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Aima The Dreamer](https://open.spotify.com/artist/1ORLJq5AanngmpKPFBbMpG), [Dakini Star](https://open.spotify.com/artist/0VMuXwSyQxE29S8J7GM3lN) | [Set It Free](https://open.spotify.com/album/5Qi5s5V3CpIxDEoXI6SuBb) | 4:58 |
+| 26 | [Set It Free](https://open.spotify.com/track/2s9IaOOEUsGCb7KmNspnht) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Aima The Dreamer](https://open.spotify.com/artist/1ORLJq5AanngmpKPFBbMpG), [Dakini Star](https://open.spotify.com/artist/0VMuXwSyQxE29S8J7GM3lN) | [Set It Free](https://open.spotify.com/album/5Qi5s5V3CpIxDEoXI6SuBb) | 4:43 |
 | 27 | [World Tour](https://open.spotify.com/track/4xElmn7BQfsHRns1UMP8dU) | [Young RJ](https://open.spotify.com/artist/5KBwAQ3DCGfHNdAcFr4eSh), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Rebel Kuzco](https://open.spotify.com/artist/5EoF6y6Of0pqpQQXoubsh0) | [World Tour](https://open.spotify.com/album/4vzLCoahP66GqaHMT0t9GR) | 2:47 |
 | 28 | [leslianne](https://open.spotify.com/track/4Po4QT2yUSoMakeWktz78r) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [leslianne](https://open.spotify.com/album/5TlQKwwFcsdBjoDDYvkMzk) | 1:54 |
 | 29 | [Breevin’](https://open.spotify.com/track/3gtXEtHVTc6uBytakGwrUq) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [Butcher Brown Presents Triple Trey](https://open.spotify.com/album/6KPa5VJzFraZ3RUZksMb23) | 3:24 |

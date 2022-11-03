@@ -607,6 +607,24 @@
     {
       "album": {
         "name": "All The Truth That I Can Tell",
+        "url": "https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193372,
+      "name": "Everyone Else Is Just Noise",
+      "url": "https://open.spotify.com/track/1wsztVwZx7BuGwgMyN1nL8"
+    },
+    {
+      "album": {
+        "name": "All The Truth That I Can Tell",
         "url": "https://open.spotify.com/album/1kzA5gBC9bgVLBENxgBAWr"
       },
       "artists": [
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 160266,
       "name": "Graduating Life",
       "url": "https://open.spotify.com/track/18mzsMdTswjVIzQ0U06Yqa"

@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3?si=Xv5EZXQ5R4OtBgobLBjTxA">Afrotraction</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g?si=9c68ab33c85a4c44">Lloyiso</a>
 
-284 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+285 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,7 @@
 | [Ngentombi \(feat\. Vernotile\)](https://open.spotify.com/track/6uvWChTYALlp152oBW7Zq1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Ngentombi \(feat\. Vernotile\)](https://open.spotify.com/album/0nA6dCfJ4ZqHjcyd3B97hB) | 4:56 | 2022-07-14 | 2022-09-23 |
 | [Ngidlisiwe](https://open.spotify.com/track/6wdRz5YJ0ILdqvclsF1tJg) | [Malungelo](https://open.spotify.com/artist/2aONiE8Bf4dDZH9SZ6w1a4), [Mduduzi Ncube](https://open.spotify.com/artist/26wQS9QDgipxSQd9uWBUSG), [Mr Brown](https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr) | [Circle Groove Vol.2](https://open.spotify.com/album/0DWl5uGL7kEuylL9cSRqE5) | 3:38 | 2022-10-28 |  |
 | [Ngifuna Ukuba](https://open.spotify.com/track/1XW3hfd2u94eSgetTjjO5h) | [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [nolly m](https://open.spotify.com/artist/1TL9pBRVj4qKOszCfIoyVZ), [Inkosi Yamagcokama](https://open.spotify.com/artist/0TO77YI4D7Bpo9JKDW2c6M) | [Uzuka](https://open.spotify.com/album/58GJD0Zy1H4cA6FLC0RFhk) | 4:20 | 2022-09-09 |  |
-| [Ngihlanyiswa Nguwe](https://open.spotify.com/track/3pH9FBTVk2jhI0AK9xyNam) | [Amanda Mo](https://open.spotify.com/artist/4xv9nOCqcmMbgl9RLatYJC) | [Ngihlanyiswa Nguwe](https://open.spotify.com/album/0aqd2lSJaA4Aw8s0hwiqKC) | 4:11 | 2022-08-18 |  |
+| [Ngihlanyiswa Nguwe](https://open.spotify.com/track/3pH9FBTVk2jhI0AK9xyNam) | [Amanda Mo](https://open.spotify.com/artist/4xv9nOCqcmMbgl9RLatYJC) | [Ngihlanyiswa Nguwe](https://open.spotify.com/album/0aqd2lSJaA4Aw8s0hwiqKC) | 4:11 | 2022-08-18 | 2022-11-03 |
 | [Ngikhathele](https://open.spotify.com/track/6GkVUZwouenrP5icNbRxfh) | [Filipo](https://open.spotify.com/artist/3NhTyn2Veg6o9yaolJzv0t) | [Ngikhathele](https://open.spotify.com/album/15kzAx0NLMjHxBbQxgjk9Y) | 4:52 | 2022-06-02 | 2022-06-17 |
 | [Ngimtholile](https://open.spotify.com/track/767RWorzGOLj084gbi4fs9) | [Brandon Dhludhlu](https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Ngimtholile](https://open.spotify.com/album/0Aqwt3quGqHhm5nQYZeUDD) | 3:44 | 2021-08-19 | 2022-01-21 |
 | [Ngingo Wakho](https://open.spotify.com/track/4LwKC20vFWCqrU9vO62s8l) | [Sparks Bantwana](https://open.spotify.com/artist/4RHZEatdcV6Uz3j3DwOqIf), [Ngelosi](https://open.spotify.com/artist/4BOwguMrG9l04OnWyBrmXg) | [Ngingo Wakho](https://open.spotify.com/album/3fe1n8u2IjDzICZZwffugr) | 5:07 | 2022-08-11 | 2022-08-19 |
@@ -287,6 +287,7 @@
 | [Wena](https://open.spotify.com/track/32WKq65uODGqGpEWzslSd2) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Ngumama](https://open.spotify.com/album/3aVcedqj0IXKp136xu2YVZ) | 3:21 | 2021-01-28 | 2022-07-29 |
 | [Wena Wedwa](https://open.spotify.com/track/4M2aKdNOTIPyZ8mGvc5Sd2) | [Adroitb3atz](https://open.spotify.com/artist/1fnfj6ADHd5JtRSCvfMxN8), [Crosswavee](https://open.spotify.com/artist/6Sq69aTwgyzk6yL6U5mU85), [Romeo ThaGreatwhite](https://open.spotify.com/artist/1t53J4ENVC3cOt17297mib), [Chris Bang](https://open.spotify.com/artist/15HMMFJgDzAxo1sIqHZ0p1) | [Wena Wedwa](https://open.spotify.com/album/4PoxGF9A46egvJYcFSOqTO) | 4:33 | 2022-02-17 | 2022-05-06 |
 | [Wena Wedwa](https://open.spotify.com/track/5xjVGlEkaEiPsJWWFuauQX) | [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz), [Ndumiso](https://open.spotify.com/artist/5O4KfmVQIaSPiD8FIIRMXr) | [Wena Wedwa](https://open.spotify.com/album/5SRlHZifEc85pKM1RfjmJ0) | 3:22 | 2022-10-13 |  |
+| [What I Would Say](https://open.spotify.com/track/2RIQcWNRhgp5wbnwZ2mLXN) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [What I Would Say](https://open.spotify.com/album/33MQBGfeRumyzpZhMumRqC) | 2:59 | 2022-11-02 |  |
 | [Where's Your Key](https://open.spotify.com/track/4VQ9rwBCGRjR7OEl0XuPKn) | [The One Who Sings](https://open.spotify.com/artist/2q2MBrkkj7y8evCayJ15PG) | [Thetha Mama](https://open.spotify.com/album/0fhzaeDu50uGOWz7d8fxbd) | 3:50 | 2021-11-11 | 2022-04-01 |
 | [Xola](https://open.spotify.com/track/1K1LdWVjJURkMXNaCmS62i) | [Luve Dubazane](https://open.spotify.com/artist/0B6FEFiymNPCKJB34TBsFi), [Sphesihle Zulu\-Dludla](https://open.spotify.com/artist/1BmoWjd81OQoAU190nxzJh) | [Ithuna lesgebengu](https://open.spotify.com/album/7nrxrJBzfEyl82Ae0YFdE9) | 4:26 | 2022-10-28 |  |
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |

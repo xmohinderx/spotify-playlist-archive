@@ -2,9 +2,9 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/37i9dQZF1DWTvM9hRJYH10)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Madeline Merlo
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Jordana Bryant
 
-235 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
+236 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Growing Up \(Are You Happy\)](https://open.spotify.com/track/6z9H1dDF1eF0wu7zXrslXw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Growing Up \(Are You Happy\)](https://open.spotify.com/album/1yiaYbHec1sNIo2g0wSBUQ) | 2:31 | 2022-05-27 |  |
 | [Guilty](https://open.spotify.com/track/3oMw1Me5BrUyVdAcjtn0BS) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Guilty](https://open.spotify.com/album/4gAIYOwt94MpkgGTSDwJEi) | 2:44 | 2022-04-22 |  |
 | [Habit](https://open.spotify.com/track/5xL8e1wBrpqcMxMzeBDlWX) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Habit](https://open.spotify.com/album/0Mmppw4dHragYwpRhbhqhC) | 2:49 | 2022-03-18 |  |
+| [Had To Be There](https://open.spotify.com/track/6zXVzaFPSe2X5LMkRHeN5x) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Had To Be There](https://open.spotify.com/album/5vY6uG0RmX4F9wHeUDpTRt) | 2:22 | 2022-11-02 |  |
 | [Hang the Moon](https://open.spotify.com/track/2pQEiFLujXVmbLKhanrXjD) | [The Roads Below](https://open.spotify.com/artist/4gTxZRVdDpwAZCpSaXy7fI) | [Hang the Moon](https://open.spotify.com/album/7eWr3gZZqEHV7t2SAET5jo) | 2:56 | 2021-12-31 |  |
 | [Hard To Be Like You](https://open.spotify.com/track/2SwN4lQizVGH8xt2PV3Jn7) | [Tim Cote](https://open.spotify.com/artist/691irgH5wVKYSc2NkhFqR4) | [Hard To Be Like You](https://open.spotify.com/album/37ZmUNecp9w66EswqHTSQc) | 3:17 | 2021-12-31 |  |
 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-01-28 | 2022-07-02 |

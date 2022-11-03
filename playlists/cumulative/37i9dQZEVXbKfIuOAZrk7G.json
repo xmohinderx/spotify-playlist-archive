@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 229640,
       "name": "A Gangster's Wife",
       "url": "https://open.spotify.com/track/6QNphn62YKaHG1hrnPSoHi"
@@ -3786,6 +3786,28 @@
     },
     {
       "album": {
+        "name": "Do It Again (feat. 2Rare)",
+        "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "2Rare",
+          "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213206,
+      "name": "Do It Again (feat. 2Rare)",
+      "url": "https://open.spotify.com/track/5gAwpwuchaCGnJLlBMGBzp"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -6154,6 +6176,24 @@
     },
     {
       "album": {
+        "name": "The Misfits Box Set",
+        "url": "https://open.spotify.com/album/6vZ6KNlP8hReYxJVuU7G42"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112453,
+      "name": "Halloween - Mix-O-Lydian 1981",
+      "url": "https://open.spotify.com/track/5QOvYYp7yRSY6LP7Vm48br"
+    },
+    {
+      "album": {
         "name": "Halloween (Original 2018 Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CKWm3CJVrTSttgNyX90LM"
       },
@@ -8133,7 +8173,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 114857,
       "name": "Just Dance (TikTok Edit) - Remix",
       "url": "https://open.spotify.com/track/7uDpnlxtGBylpKhQR6nVqU"

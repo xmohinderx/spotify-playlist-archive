@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: HENRYY
 
-431 songs - 20 hr 48 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+432 songs - 20 hr 51 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Genug von dir](https://open.spotify.com/track/1MLurEsyykUHYr2BUheeaz) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/4ljegebVR6pKgfE2OgULdk) | 2:29 | 2022-07-21 | 2022-10-09 |
 | [Genug von dir](https://open.spotify.com/track/7EMAXqufsn0uZIS91TuEDM) | [Rojas](https://open.spotify.com/artist/5BBMBWZzGLBRGVn8G0XZY1) | [Genug von dir](https://open.spotify.com/album/5MKU4q5E3TwE4H80qmktii) | 2:29 | 2022-10-07 |  |
 | [Giftig](https://open.spotify.com/track/69hi7EaJMbzSnEFoWrzrKy) | [Tommyn](https://open.spotify.com/artist/4bKMWpArwutcuzKitMc4ug) | [Giftig](https://open.spotify.com/album/2oUgnNxtcPynysaTQKPkZw) | 2:32 | 2022-07-04 | 2022-08-05 |
-| [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-27 |  |
+| [Gilded Lily](https://open.spotify.com/track/1V27TTo9FI2sl8xzGr3sCg) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/5Wl4DJMOt13fs92ddL2v9Q) | 3:32 | 2022-10-27 | 2022-11-03 |
+| [Gilded Lily](https://open.spotify.com/track/6PaWZ0PIMxx15YBgCohvXY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/1FUaSRyu5LIj1QpMXRncxt) | 3:32 | 2022-11-01 |  |
 | [GL +3](https://open.spotify.com/track/5liQ5heZoAB6ohWhpdVWPa) | [YUGO](https://open.spotify.com/artist/05ygKFPjfiChHhQSx5Y9Y2), [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [GL +3](https://open.spotify.com/album/0JBJEu7kyFBmygxp9l1KO1) | 2:39 | 2022-06-09 | 2022-07-15 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-20 | 2022-07-01 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-10-11 | 2022-10-21 |

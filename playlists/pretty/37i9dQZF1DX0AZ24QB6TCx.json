@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 271775,
+  "num_followers": 271890,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMGZkZTkzZGNjZWZkZTU4ZjIyNjJjYzA4MGM4YjFkOTNi",
+  "snapshot_id": "MTY2Njk2MjY4NCwwMDAwMDAwMDQ1NTM1ZTFjYzAyYmNiNTBjMzJiNzMwOWM5YTNhM2Rm",
   "tracks": [
     {
       "added_at": "2022-10-28 13:11:24",
@@ -491,6 +491,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 288880,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        },
+        {
+          "name": "Boy Wolf",
+          "url": "https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Don't Go Asking",
         "url": "https://open.spotify.com/album/61IwZ9b7ob482lwl6SXuHt"
       },
@@ -819,6 +839,22 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
+        "name": "Now Is",
+        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 323919,
+      "name": "World Turns",
+      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
         "name": "Eolian",
         "url": "https://open.spotify.com/album/3JaX0K75UU23Kb4A3lrH87"
       },
@@ -835,42 +871,6 @@
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Killing Time",
-        "url": "https://open.spotify.com/album/6xNjdHhhNVSjGWciTy1BxH"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        },
-        {
-          "name": "Boy Wolf",
-          "url": "https://open.spotify.com/artist/3MK7IThlo651w6Wt687NlM"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/77kPYUHSjGVr71TNQrbvvj"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Now Is",
-        "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 323919,
-      "name": "World Turns",
-      "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -927,6 +927,22 @@
       "duration_ms": 293701,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3aJSJAzqPfTGX05wAXGFxS"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Eastbound Silhouette",
+        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "duration_ms": 527618,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Eastbound Silhouette",
-        "url": "https://open.spotify.com/album/7CgB2RVayWXcMSd3cv0gOa"
-      },
-      "artists": [
-        {
-          "name": "Tim Green",
-          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
-        }
-      ],
-      "duration_ms": 527618,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/1XtlpDLDLbuk9mFnUs614k"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Perspective EP",
         "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 304753,
       "name": "Message",
       "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
-      },
-      "artists": [
-        {
-          "name": "Fejk\u00e1",
-          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1059,6 +1043,22 @@
       "duration_ms": 334867,
       "name": "Holy - Frank Wiedemann Remix",
       "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0TSx6t9ZxdVmH4r0kXHLbq"
+      },
+      "artists": [
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2r4Xr6SX8m8KhqQuKFyUmG"
     },
     {
       "added_at": "2022-10-28 13:11:24",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-10-28 13:11:24",
       "album": {
-        "name": "Madman",
-        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Madman",
-      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
-    },
-    {
-      "added_at": "2022-10-28 13:11:24",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/3XcU0mvjzG4Ww84JCqVEbt"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 363889,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/122Q96pdQ0hlfbgDzcxndg"
+    },
+    {
+      "added_at": "2022-10-28 13:11:24",
+      "album": {
+        "name": "Madman",
+        "url": "https://open.spotify.com/album/4WFXuTDpA77bBtWuv4t74a"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 448000,
+      "name": "Madman",
+      "url": "https://open.spotify.com/track/4LXl83AHAkdMVLWoFfKF31"
     },
     {
       "added_at": "2022-10-28 13:11:24",

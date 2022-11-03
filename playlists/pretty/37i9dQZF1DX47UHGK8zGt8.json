@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 362194,
+  "num_followers": 362443,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMDVjZjA3MzA5M2RlYjM0Y2M0NDFhMTkyNmZkMDAxMDVm",
+  "snapshot_id": "MTY2Njc1MzIwMCwwMDAwMDAwMGQ4YTkyMTA1NTA1M2IzYWM3MzM5ZjYxNjVjMWIwMjEx",
   "tracks": [
     {
       "added_at": "2022-10-26 03:00:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Feito Pra Acabar",
-        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
-    },
-    {
-      "added_at": "2022-10-26 03:00:00",
-      "album": {
         "name": "Pode Se Achegar",
         "url": "https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 228780,
       "name": "Pode Se Achegar",
       "url": "https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU"
+    },
+    {
+      "added_at": "2022-10-26 03:00:00",
+      "album": {
+        "name": "Feito Pra Acabar",
+        "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        },
+        {
+          "name": "Laura Lavieri",
+          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/7wqojWtf69NNjw3P5wMst6"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -711,18 +711,22 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Juliette",
-        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
+        "name": "Estrela",
+        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
       },
       "artists": [
         {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        },
+        {
+          "name": "Lucas Lima",
+          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
         }
       ],
-      "duration_ms": 174040,
-      "name": "Benzin",
-      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
+      "duration_ms": 237696,
+      "name": "Estrela",
+      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
     },
     {
       "added_at": "2022-10-26 03:00:00",
@@ -759,22 +763,18 @@
     {
       "added_at": "2022-10-26 03:00:00",
       "album": {
-        "name": "Estrela",
-        "url": "https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC"
+        "name": "Juliette",
+        "url": "https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q"
       },
       "artists": [
         {
-          "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
-        },
-        {
-          "name": "Lucas Lima",
-          "url": "https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab"
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
         }
       ],
-      "duration_ms": 237696,
-      "name": "Estrela",
-      "url": "https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA"
+      "duration_ms": 174040,
+      "name": "Benzin",
+      "url": "https://open.spotify.com/track/15zJ06ES4cb5elQNwey99F"
     },
     {
       "added_at": "2022-10-26 03:00:00",

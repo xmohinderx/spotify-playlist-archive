@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Col3trane
 
-475 songs - 1 day 3 hr 19 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
+476 songs - 1 day 3 hr 23 min - [published](https://open.spotify.com/playlist/0z3nbjkWeZZbRZSs8bbW9u)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Blame](https://open.spotify.com/track/6S5dMjMifQYmyTu1mX4f8P) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Blame](https://open.spotify.com/album/2OOcufzAxz4qgzadyJaEty) | 2:07 | 2019-09-20 | 2020-05-01 |
 | [Bling Up](https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z) | [SANNI](https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS) | [Bling Up](https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ) | 2:57 | 2021-11-20 | 2022-04-16 |
 | [BMHWDY](https://open.spotify.com/track/7xlEcaR9vhZzNwC2TReE0l) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:06 | 2022-07-08 |  |
-| [bnb](https://open.spotify.com/track/3UGxNcFSS0t2MyQl8ClV9Q) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:32 | 2022-10-21 |  |
+| [bnb](https://open.spotify.com/track/3UGxNcFSS0t2MyQl8ClV9Q) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:32 | 2022-10-21 | 2022-11-03 |
+| [bnb](https://open.spotify.com/track/6wprPmHMxfXtb2BwywwdXE) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:32 | 2022-10-21 |  |
 | [Body Aint Me](https://open.spotify.com/track/6Pg3lOfFt49w6mNmmvzJB2) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/3V3wIOcmYhraECOfqnRQi4) | 2:42 | 2019-07-10\* | 2019-10-16 |
 | [Borderline](https://open.spotify.com/track/1FhxEhPZpBBOJTDwSf6MA5) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [b7](https://open.spotify.com/album/09jppw0ufVFDiotrHDMK1w) | 5:12 | 2020-07-31 | 2020-08-01 |
 | [Boy Bye \(feat\. Lucky Daye\)](https://open.spotify.com/track/0U8tC6UzgYePgOJT6Chlw9) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 5:01 | 2022-09-09 |  |

@@ -1,15 +1,15 @@
 {
   "description": "\u00a1Perreo del bueno!\nCover: Arcangel & Yandel",
-  "num_followers": 1275369,
+  "num_followers": 1275517,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjcyNDY2NSwwMDAwMDAwMGYzNTUyYmIxNGYxMjkyYzY5YzRmYjIyYmVhN2I5OWYx",
+  "snapshot_id": "MTY2NjcyNDY2NSwwMDAwMDAwMDUxZmNiNTdiNmFiYjY4ODY4MzAyZTc5YzRlZTQzOThk",
   "tracks": [
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "Doxxis",
         "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "Instagram (Remix)",
         "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "Flotaera",
         "url": "https://open.spotify.com/album/1pdt1WhLnsRZ2zZ9laqKe4"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1"
     },
     {
-      "added_at": "2022-11-02 01:25:14",
+      "added_at": "2022-11-03 01:20:18",
       "album": {
         "name": "Marisola",
         "url": "https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp"
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2022-10-24 19:25:53",
       "album": {
-        "name": "CXO (A Qui\u00e9n No Le Gusta)",
-        "url": "https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 236156,
-      "name": "CXO (A Qui\u00e9n No Le Gusta)",
-      "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
-    },
-    {
-      "added_at": "2022-10-24 19:25:53",
-      "album": {
         "name": "Fiel (Remix)",
         "url": "https://open.spotify.com/album/1jBESH0DEFN7z8WH8B0B5c"
       },
@@ -1435,6 +1411,30 @@
       "duration_ms": 349546,
       "name": "Fiel - Remix",
       "url": "https://open.spotify.com/track/43qcs9NpJhDxtG91zxFkj7"
+    },
+    {
+      "added_at": "2022-10-24 19:25:53",
+      "album": {
+        "name": "CXO (A Qui\u00e9n No Le Gusta)",
+        "url": "https://open.spotify.com/album/77istRQF1XwnI20tjlcwYu"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 236156,
+      "name": "CXO (A Qui\u00e9n No Le Gusta)",
+      "url": "https://open.spotify.com/track/5Oticg4aAjACVhbzqe6KDY"
     },
     {
       "added_at": "2022-10-24 19:25:53",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2022-10-24 19:25:53",
       "album": {
+        "name": "Toro",
+        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 254457,
+      "name": "TORO",
+      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
+    },
+    {
+      "added_at": "2022-10-24 19:25:53",
+      "album": {
         "name": "De Pari",
         "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
@@ -1895,22 +1911,6 @@
       "duration_ms": 174250,
       "name": "De Pari",
       "url": "https://open.spotify.com/track/2oYbmygoO3gzLychByw297"
-    },
-    {
-      "added_at": "2022-10-24 19:25:53",
-      "album": {
-        "name": "Toro",
-        "url": "https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2"
-      },
-      "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 254457,
-      "name": "TORO",
-      "url": "https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt"
     },
     {
       "added_at": "2022-10-24 19:25:53",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2022-10-24 19:25:53",
       "album": {
+        "name": "Por Ella",
+        "url": "https://open.spotify.com/album/4XNgfRpzodtOCX3osGoSAU"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/2V1gkU11cDoJJHmDUYGbTG"
+    },
+    {
+      "added_at": "2022-10-24 19:25:53",
+      "album": {
         "name": "Always Dream",
         "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
       },
@@ -2207,22 +2223,6 @@
       "duration_ms": 218800,
       "name": "No Es Normal",
       "url": "https://open.spotify.com/track/2g13NghX82C4oR0Wmz7asw"
-    },
-    {
-      "added_at": "2022-10-24 19:25:53",
-      "album": {
-        "name": "Por Ella",
-        "url": "https://open.spotify.com/album/4XNgfRpzodtOCX3osGoSAU"
-      },
-      "artists": [
-        {
-          "name": "Nickoog Clk",
-          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/2V1gkU11cDoJJHmDUYGbTG"
     },
     {
       "added_at": "2022-10-24 19:25:53",

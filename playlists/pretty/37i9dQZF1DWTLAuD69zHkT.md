@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 
 > Slow, soft and sensual \- the laid back sounds of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,451 likes - 76 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,465 likes - 76 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLAuD69zHkT.md) - [plain]
 | 71 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
 | 72 | [Glory Be](https://open.spotify.com/track/25H4Ux5UrzQz2LEqtGq5C6) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Mojo Hand](https://open.spotify.com/album/0X0Z6M1sQQpSRs9UbqpJEo) | 4:26 |
 | 73 | [Don't You Leave Me Here](https://open.spotify.com/track/5IJffuRk0JHYELKPiMUg6j) | [Larry Johnson](https://open.spotify.com/artist/4QSzvmywSXYxbs7jn4xjFt) | [Blues for Harlem](https://open.spotify.com/album/63voCNAcgApZx4SQO24FLo) | 3:37 |
-| 74 | [Come On In This House](https://open.spotify.com/track/4FOJYIDHcuvu7JWQkDIQmd) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:53 |
+| 74 | [Come On In This House](https://open.spotify.com/track/2mg0AroACiMcHiPNy5vYny) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU) | [Come On In This House](https://open.spotify.com/album/6C8GwjAgpd0Y7au5jKQ4aA) | 5:53 |
 | 75 | [I Love to Sing the Blues](https://open.spotify.com/track/5aBTkEM1vy7GaLeNH4ZBsq) | [Eb Davis Blues Band](https://open.spotify.com/artist/5EFzsijVGUq2VWklM2fxgK) | [Good Time Blues](https://open.spotify.com/album/0G4CO1qvIODlarbiaMOcEa) | 5:35 |
 | 76 | [When My Heart Beats Like a Hammer](https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 7:09 |
 
-Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMGI3YzE2OWE1NzY1Nzc0N2E5M2YwODYwYWQwYjNmZTY3`
+Snapshot ID: `MTY2NTc2Mjg4NywwMDAwMDAwMDA2ZTZkNmZmNDU1MzRjNzcwOGNhOWM5OWE2OTVkNWM0`

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 70242,
+  "num_followers": 70278,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDcyNzZiMDI3ZThiMWY3YzgyZTEyOWUzODhiYWY3ZTJk",
+  "snapshot_id": "MTY1ODQ4MDI2OCwwMDAwMDAwMDhhYzY4Y2Q1YjA4MTU4NTk4ZWNhNWRjMzljZDFiMmVm",
   "tracks": [
     {
       "added_at": "2022-07-22 08:57:48",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-07-22 08:57:48",
       "album": {
-        "name": "The Album Formerly Known As ...",
-        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
-        }
-      ],
-      "duration_ms": 415759,
-      "name": "A Wonderful Life - Version",
-      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
-    },
-    {
-      "added_at": "2022-07-22 08:57:48",
-      "album": {
         "name": "The Legendary Adventures Of A Filter King",
         "url": "https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 387371,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U"
+    },
+    {
+      "added_at": "2022-07-22 08:57:48",
+      "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd"
     },
     {
       "added_at": "2022-07-22 08:57:48",

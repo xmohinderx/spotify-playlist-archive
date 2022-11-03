@@ -6283,7 +6283,7 @@
     {
       "album": {
         "name": "She Loves Me",
-        "url": "https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs"
+        "url": "https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb"
       },
       "artists": [
         {
@@ -6294,6 +6294,24 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205986,
+      "name": "She Loves Me",
+      "url": "https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf"
+    },
+    {
+      "album": {
+        "name": "She Loves Me",
+        "url": "https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 205986,
       "name": "She Loves Me",
       "url": "https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX"

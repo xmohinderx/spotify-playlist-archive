@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,026 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,061 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 29 | [Qué me van a hablar de amor \- Remastered](https://open.spotify.com/track/3FfcNuVn1yyNkikUxm6qwW) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX) | [Varón \(Remastered\)](https://open.spotify.com/album/1mIJOhB8422u9D6b7Fjow9) | 3:12 |
 | 30 | [Como Dos Extraños](https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [..\. Tangamente](https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu) | 2:44 |
 | 31 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
-| 32 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
-| 33 | [Los Cosos De Al Lao](https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 3:28 |
+| 32 | [Los Cosos De Al Lao](https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [El Album Blanco](https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM) | 3:28 |
+| 33 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
 | 34 | [Niebla del Riachuelo](https://open.spotify.com/track/4Jupi4tbrMAT8HriFC5xQN) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Docke](https://open.spotify.com/album/73sutmVaIOSflj6XV4hjAL) | 2:59 |
 | 35 | [Sería Facil Decir](https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 2:34 |
 | 36 | [De Puro Curda](https://open.spotify.com/track/3uAp3dUUD1uB5JoApVhcby) | [Alfredo Belusi](https://open.spotify.com/artist/64Ni4gszhSPmQhN5zhzhKe) | [Lo Mejor de Alfredo Belusi](https://open.spotify.com/album/3wb46GHMf2t8Ljb30eDsB9) | 2:04 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 54 | [Quiero Verte una Vez Más](https://open.spotify.com/track/6Flr9TJ8VCfBa3WpeKX7ID) | [Roberto Siri](https://open.spotify.com/artist/4LZr3L7Z0rpW0vO0jOgJAl) | [70 Años de Tango](https://open.spotify.com/album/4jQm0n9pt0pn7fylkyUiFk) | 3:48 |
 | 55 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
 | 56 | [Pasional](https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0) | [Jorge Vázquez](https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab) | [Pasional](https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc) | 3:28 |
-| 57 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 |
-| 58 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
+| 57 | [En Ese Ayer/Ventarrón](https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 4:02 |
+| 58 | [Danzarín](https://open.spotify.com/track/4zdKgCwKjX0E75qQyGpTYo) | [Leopoldo Federico \- Roberto Grela](https://open.spotify.com/artist/2utsUOhTQw9eMJWpP2vYkX) | [Hombres de tango](https://open.spotify.com/album/1ceobp5yVCMfzfTunQmH2G) | 3:51 |
 | 59 | [Sur](https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [Rescatados](https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy) | 2:57 |
 | 60 | [Otoño porteño](https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM) | [Ventarrón](https://open.spotify.com/artist/019R06cxxEUXY1QyQThspX) | [Otoño Porteño](https://open.spotify.com/album/7l2DNm9VNrLevUMU2CaKKT) | 4:51 |
 | 61 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 67 | [El Abrojito](https://open.spotify.com/track/6RSHrF9jTWWlQbGnw6mRan) | [Rodolfo Mederos](https://open.spotify.com/artist/6eas1NblWrY95XvCm0V3zC) | [Comunidad](https://open.spotify.com/album/2W4TjCwnnCsqSnhczdVL76) | 4:07 |
 | 68 | [Tango Del Angel](https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog) | [Leopoldo Federico y su Orquesta Tipica](https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w) | [Todo Piazzolla](https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO) | 3:16 |
 | 69 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
-| 70 | [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 |
-| 71 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
+| 70 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
+| 71 | [Gran Hotel Victoria](https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ) | [Gran Hotel Victoria](https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9) | 2:51 |
 | 72 | [Payada Gardel\-Razzano](https://open.spotify.com/track/0JHgMRz4WxRkIsdeorFzxX) | [Guillermo Fernández](https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J), [Walter Laborde](https://open.spotify.com/artist/3i15UUNyqKV2PJpVhkn4mQ) | [De Criollos y Tangueros](https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU) | 4:13 |
 | 73 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
 | 74 | [La casita de mis viejos \- Remastered](https://open.spotify.com/track/780oI6gpWrr8ds9gzx98B0) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Horacio Salgán](https://open.spotify.com/artist/2Bh9iQTtKB9vzl6iLtwZ9W) | [Sur \(Remastered\)](https://open.spotify.com/album/4tNFXEyh7O6YxUVDB1ULz6) | 5:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 79 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 |
 | 80 | [Tarde](https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY) | [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP), [Federico Mizrahi](https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt) | [El Tango](https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX) | 3:41 |
 
-Snapshot ID: `MTY0NzU3MjQwMCwwMDAwMDAwMDdhNDM5MzhmNDUxODUxMzM2N2Y1MzU3YTNjODg3NGU1`
+Snapshot ID: `MTY0NzU3MjQwMCwwMDAwMDAwMDMxYjRkMmUyMzQyOTA3ZjA3Yjg1MGMzNDk0NjUyN2Zh`

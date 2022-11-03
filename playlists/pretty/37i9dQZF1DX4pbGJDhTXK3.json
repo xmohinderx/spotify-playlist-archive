@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120995,
+  "num_followers": 121008,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGYwYWNhOGVjOTlkMWYzNzNkNzRmNzA1ZjBmZWZmZWRi",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGM3MjkzODYwNjY4NWJlMjAzNmY1ZGJiN2QwNGU4MmJl",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
-      },
-      "artists": [
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        }
-      ],
-      "duration_ms": 265192,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "It's Album Time",
         "url": "https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 268440,
       "name": "Strandbar",
       "url": "https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
+      },
+      "artists": [
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 265192,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -399,18 +399,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Sadsongwtf",
-        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
+        "name": "Tyrkisk Pepper",
+        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
       },
       "artists": [
         {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+          "name": "Blackbelt Andersen",
+          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
+        },
+        {
+          "name": "D\u00f8lle J\u00f8lle",
+          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
         }
       ],
-      "duration_ms": 173164,
-      "name": "Sadsongwtf",
-      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
+      "duration_ms": 482835,
+      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
+      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -435,22 +439,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Tyrkisk Pepper",
-        "url": "https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt"
+        "name": "Sadsongwtf",
+        "url": "https://open.spotify.com/album/0snl6gC7BXLFyK1MJjWy42"
       },
       "artists": [
         {
-          "name": "Blackbelt Andersen",
-          "url": "https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL"
-        },
-        {
-          "name": "D\u00f8lle J\u00f8lle",
-          "url": "https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B"
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
         }
       ],
-      "duration_ms": 482835,
-      "name": "Tyrkisk Pepper - Dolle Jolle Remix",
-      "url": "https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX"
+      "duration_ms": 173164,
+      "name": "Sadsongwtf",
+      "url": "https://open.spotify.com/track/2zA7dBlE6tarkCzK2Rsi3o"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Pax Americana",
-        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "HS",
-      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Moving Points",
         "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 127524,
       "name": "Low",
       "url": "https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Pax Americana",
+        "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "HS",
+      "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "The Tower",
-        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 477630,
-      "name": "Apex - Live",
-      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Eurodans",
         "url": "https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 387053,
       "name": "Italian Stallion",
       "url": "https://open.spotify.com/track/3o7AUvN9hTo5TRUrrW0HYV"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "The Tower",
+        "url": "https://open.spotify.com/album/4M2fF5bRBP8Gi5Bi2EccFg"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 477630,
+      "name": "Apex - Live",
+      "url": "https://open.spotify.com/track/5stm0hFXNYDoXKbcKamH95"
     },
     {
       "added_at": "2022-10-27 22:01:00",

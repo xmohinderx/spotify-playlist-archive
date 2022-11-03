@@ -283,7 +283,7 @@
     {
       "album": {
         "name": "Ani DiFranco",
-        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+        "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
       },
       "artists": [
         {
@@ -294,6 +294,24 @@
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Both Hands",
+      "url": "https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg"
+    },
+    {
+      "album": {
+        "name": "Ani DiFranco",
+        "url": "https://open.spotify.com/album/7cdszxdNxyYrL9wkPPpCcw"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 218800,
       "name": "Both Hands",
       "url": "https://open.spotify.com/track/4FJsFAdLFGqrmuM74CIzhs"
@@ -571,6 +589,24 @@
     {
       "album": {
         "name": "Binary",
+        "url": "https://open.spotify.com/album/40K1wGwuWJcj6KAFjRcoUT"
+      },
+      "artists": [
+        {
+          "name": "Ani DiFranco",
+          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185027,
+      "name": "Deferred Gratification",
+      "url": "https://open.spotify.com/track/0z0KuKYsE0rYmdS7gedm4O"
+    },
+    {
+      "album": {
+        "name": "Binary",
         "url": "https://open.spotify.com/album/21EZKiGPUG8xYt79LMbtmv"
       },
       "artists": [
@@ -599,7 +635,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 185027,
       "name": "Deferred Gratification",
       "url": "https://open.spotify.com/track/7b4LkbAhZGeKtcELdS0QdL"

@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-74 songs - 9 hr 43 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
+75 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Africa Shine](https://open.spotify.com/track/7uld2wN7GThO54ryAS0ezL) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8) | 5:26 | 2021-12-28 |  |
 | [Angelina](https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx) | 8:06 | 2021-12-28 |  |
 | [Arise And Shine](https://open.spotify.com/track/4xE4nImgVAFtSADMkupgvm) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 7:29 | 2022-01-08 | 2022-02-25 |
-| [Buya](https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 8:35 | 2022-02-23 |  |
+| [Buya](https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 8:35 | 2022-02-23 | 2022-11-03 |
+| [Buya](https://open.spotify.com/track/7xZj6OXBXA274dQUMnbU06) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU) | 8:35 | 2022-11-02 |  |
 | [Buya \- Loco Dice Kliptown Love Remix](https://open.spotify.com/track/7JDFf5fWpR9bhpk7UGjpiy) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Buya](https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C) | 7:04 | 2021-12-28 | 2022-02-24 |
 | [Come To Me](https://open.spotify.com/track/1eIhSaVLP46opgA6baksuB) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Turn Me On / Come To Me](https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en) | 7:57 | 2021-12-28 |  |
 | [Come With Me](https://open.spotify.com/track/1i9Ag3QndpJdr8nxWDCjrK) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me](https://open.spotify.com/album/3oCLiovKu5rEDwRn5OMULV) | 3:17 | 2021-12-28 |  |

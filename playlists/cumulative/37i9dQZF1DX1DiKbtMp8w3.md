@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-231 songs - 12 hr 59 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
+232 songs - 13 hr 3 min - [published](https://open.spotify.com/playlist/7jC47AMsHxfgse5RBvTx03)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [High Noon](https://open.spotify.com/track/2D7AA8KIUDgUoC8VFjIhLB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Capital Disease](https://open.spotify.com/album/0glXbKYknQlnd2FnxsxWez) | 3:25 | 2022-10-06 |  |
 | [I Dot Car](https://open.spotify.com/track/4S6qpj3Tan7dbsg91Gk91u) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Into Innerverse](https://open.spotify.com/album/0YCxq2nT2BLL9vSCsQEFNX) | 4:55 | 2022-10-06 |  |
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-08-25 |  |
-| [I Like Me](https://open.spotify.com/track/4WNWEl66OnjTcMP0WL0NZ5) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [I Like Me](https://open.spotify.com/album/4AQz2u4cY5AC2DLgcwhrDg) | 3:12 | 2022-10-06 |  |
+| [I Like Me](https://open.spotify.com/track/4WNWEl66OnjTcMP0WL0NZ5) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [I Like Me](https://open.spotify.com/album/4AQz2u4cY5AC2DLgcwhrDg) | 3:12 | 2022-10-06 | 2022-11-03 |
+| [I Like Me \- Instrumental](https://open.spotify.com/track/0Oh2AkCB68jE8I0d3FS0b3) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [minsu X innisfree I Like Me](https://open.spotify.com/album/39ZMi8KIbJ4tFBAaXkcXHW) | 3:12 | 2022-10-18 |  |
 | [I Mean Us \- Stage Comment 1](https://open.spotify.com/track/6mvr9d15mjlhfiRXhDBlOv) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 1:20 | 2022-10-06 |  |
 | [I Mean Us \- Stage Comment 2](https://open.spotify.com/track/1bO9JCvF4mEaOowWctJvpx) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 2:14 | 2022-10-06 |  |
 | [I Mean Us \- Stage Comment 3](https://open.spotify.com/track/0kBtmdTc6OWJzuqkwYAgRG) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:08 | 2022-10-06 |  |

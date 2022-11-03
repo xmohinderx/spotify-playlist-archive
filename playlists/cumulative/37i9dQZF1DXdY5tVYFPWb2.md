@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-335 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
+337 songs - 22 hr 22 min - [published](https://open.spotify.com/playlist/41pE6WZAp3SxdsIrmRUYjJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [CITY BOY](https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE) | 4:03 | 2022-07-05 | 2022-07-29 |
 | [CITY BOY](https://open.spotify.com/track/3v0JBtr2GRE7fONwUaIGrS) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/3GUO72r5DExiZzVytINvxM) | 4:03 | 2022-07-27 | 2022-08-03 |
 | [CITY FLIGHT](https://open.spotify.com/track/0XyD2MgwzwuNBVugOhnpek) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [EP\-3](https://open.spotify.com/album/2abkuqj2lyCwE0dyQlnyMK) | 4:05 | 2022-05-24 | 2022-07-29 |
-| [Colorful Raindrop](https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/6Xr7K3xKDAxS1nUwyRDvOW) | 3:08 | 2022-11-01 |  |
+| [Colorful Raindrop](https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/6Xr7K3xKDAxS1nUwyRDvOW) | 3:08 | 2022-11-01 | 2022-11-03 |
+| [Colorful Raindrop](https://open.spotify.com/track/3mdEo8YTPXlcZlvpVhFEgY) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/52eAKerLBLJvoP6eXtKhNB) | 3:08 | 2022-11-01 |  |
 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 | 2022-06-14 | 2022-08-31 |
 | [countdown \- prod\. Shin Sakiura & ZIN](https://open.spotify.com/track/7kg73PDeip6tT32vZHJ2hh) | [GaRDeN](https://open.spotify.com/artist/6blpRxldFfjqsSOm3s5DZi) | [countdown \(prod\. Shin Sakiura & ZIN\)](https://open.spotify.com/album/39cmHGqTMKDUo0tyUSKu7T) | 4:18 | 2022-10-06 | 2022-10-12 |
 | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4) | 4:12 | 2022-06-07 | 2022-07-10 |
@@ -130,7 +131,8 @@
 | [MOON NIGHT](https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Black Humor](https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt) | 3:10 | 2022-05-24 |  |
 | [Moonset](https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Moonset with KozyPop](https://open.spotify.com/album/1XULv2rBeMhr16Pq3HFP19) | 3:46 | 2022-08-02 |  |
 | [Moonshine](https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Moonshine](https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv) | 3:12 | 2022-06-07 | 2022-07-19 |
-| [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 |  |
+| [Music, Dance & Love](https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/1fvF659Q8PetSR3R8HaQDE) | 4:33 | 2022-11-01 | 2022-11-03 |
+| [Music, Dance & Love](https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Music, Dance & Love](https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q) | 4:33 | 2022-11-01 |  |
 | [Natsume](https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Natsume](https://open.spotify.com/album/1zDuHfKUHI0SRimAdD8whm) | 2:37 | 2022-05-24 |  |
 | [Natural](https://open.spotify.com/track/0o313xtpNX0r3gx5TZSwK0) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [Natural](https://open.spotify.com/album/6mgmUHvmxOcfr4YZGfxWti) | 2:50 | 2022-08-18 |  |
 | [Night Distance](https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [mahina](https://open.spotify.com/artist/09fkf1eyPFsr82M3WzXdJM) | [Smoky Valley](https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc) | 4:19 | 2022-05-24 |  |

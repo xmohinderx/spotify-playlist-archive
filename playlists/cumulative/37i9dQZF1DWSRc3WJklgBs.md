@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,024 songs - 2 day 12 hr 34 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+1,025 songs - 2 day 12 hr 39 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,7 +968,8 @@
 | [What Are We Waiting For?](https://open.spotify.com/track/1Mfl0t1hvP1v6EJL1yIuWf) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [What Are We Waiting For?](https://open.spotify.com/album/0AEFcJNs06MlE0vTLSQ1kc) | 3:20 | 2020-10-30 | 2021-09-25 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2020-03-29 | 2021-04-03 |
 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 | 2019-08-09\* | 2020-03-29 |
-| [What Is Real \- Edit](https://open.spotify.com/track/1t5qLStBx9Jx3j1x7D4k4K) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Vök](https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8) | [What Is Real / If You Loop It, They Will Come](https://open.spotify.com/album/2PowNQehJv4CYSDB8gLM0S) | 4:36 | 2022-09-02 |  |
+| [What Is Real \- Edit](https://open.spotify.com/track/1t5qLStBx9Jx3j1x7D4k4K) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Vök](https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8) | [What Is Real / If You Loop It, They Will Come](https://open.spotify.com/album/2PowNQehJv4CYSDB8gLM0S) | 4:36 | 2022-09-02 | 2022-11-03 |
+| [What Is Real \- Edit](https://open.spotify.com/track/3ngQbhj4jDCpEaxYxlrAIQ) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Vök](https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8) | [What Is Real / If You Loop It, They Will Come](https://open.spotify.com/album/1cqpaLY5PdbdpYUs5K04se) | 4:36 | 2022-10-28 |  |
 | [What Sarah Said](https://open.spotify.com/track/2JFrlsJBH4IDt3Suot97dP) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 6:20 | 2019-08-10 | 2019-08-27 |
 | [What You Like](https://open.spotify.com/track/5D6qMK2UQiOCiBSHHnTfC5) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe) | [What You Like](https://open.spotify.com/album/1zOyO3pMXxEoxaou0eywXR) | 2:23 | 2020-10-30 | 2021-07-17 |
 | [When I Was Me \- ShiShi Remix](https://open.spotify.com/track/6HoXpEnhzeDpz7gYgGaYF0) | [Ryan Brahms](https://open.spotify.com/artist/3mYfDZXZxSexTPMBEdSREL), [ShiShi](https://open.spotify.com/artist/3zLlUTuczHTGLHdMnYNYX9) | [When I Was Me](https://open.spotify.com/album/4muJSisBJyW6z6vmyaaIgc) | 3:17 | 2019-08-09\* | 2020-03-29 |

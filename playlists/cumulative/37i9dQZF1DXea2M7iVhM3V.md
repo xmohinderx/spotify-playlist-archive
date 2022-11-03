@@ -4,7 +4,7 @@
 
 > Kill it today with this awesome Hip Hop.
 
-45 songs - 2 hr 53 min - [published](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
+46 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Cinderella Man](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:39 | 2015-04-07 |  |
 | [Close Your Eyes \(And Count to Fuck\)](https://open.spotify.com/track/3RlurnnuVkVbaN6lul4136) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/6WBUyDe1Xy8QRwF6wzhJsY) | 3:54 | 2022-07-29 |  |
 | [Close Your Eyes \(And Count to Fuck\) \[feat\. Zack De La Rocha\]](https://open.spotify.com/track/76QLGx0NleOYqkDtL7HKIA) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Zack De La Rocha](https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S) | [Run the Jewels 2](https://open.spotify.com/album/2lPYlP4eumsjz6LBG8GCbG) | 3:54 | 2015-04-07 | 2022-07-29 |
-| [Do Like Me](https://open.spotify.com/track/0QlKo37FHKCWqaQqKIQtkf) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/4hkVHLORkJVlB9Mtz5mKvs) | 2:52 | 2022-07-29 |  |
+| [Do Like Me](https://open.spotify.com/track/0QlKo37FHKCWqaQqKIQtkf) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/4hkVHLORkJVlB9Mtz5mKvs) | 2:52 | 2022-07-29 | 2022-11-03 |
 | [Do Like Me](https://open.spotify.com/track/4lcPFTxlZJhNV2cRSnRVc7) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/560cnMA9gFwdWIJW7sFsBs) | 2:52 | 2015-04-07 | 2022-07-29 |
+| [Do Like Me](https://open.spotify.com/track/66cZz7gz3xIKm9BioUYEli) | [Chris Webby](https://open.spotify.com/artist/3IstlZaHyUP9SONpulb4SM) | [Homegrown](https://open.spotify.com/album/38LekT1XJRPPsdGl4TJ3Lb) | 2:52 | 2022-11-03 |  |
 | [Donald Trump](https://open.spotify.com/track/3uulVrxiI7iLTjOBZsaiF8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Donald Trump \- Single](https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw) | 2:45 | 2015-04-07 |  |
 | [Express Yourself](https://open.spotify.com/track/0hXJmucLNpF138QY9FJvsT) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:03 | 2022-07-29 |  |
 | [Express Yourself](https://open.spotify.com/track/7GjjSQwQwq6gjcH1kQeNVn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:03 | 2015-04-07 | 2022-07-29 |

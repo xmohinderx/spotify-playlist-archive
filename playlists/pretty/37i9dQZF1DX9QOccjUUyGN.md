@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,248 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,266 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 22 | [Marca de Batom](https://open.spotify.com/track/6xOW9fUzrIsGS3M0b52PEf) | [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Marca de Batom](https://open.spotify.com/album/101L31d4cOuJ58zGVhLjGJ) | 2:33 |
 | 23 | [Uzi E Abuse](https://open.spotify.com/track/2ExxuGFGjXMuwSYMfsP9Fy) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Uzi E Abuse](https://open.spotify.com/album/3TKnFeFxNE0vjpz0GYFfz3) | 2:28 |
 | 24 | [Peixe Grande](https://open.spotify.com/track/4eL2UJw7hlvoxywx4CSL9F) | [Nauta](https://open.spotify.com/artist/4AgzhiI0w5c5simIeNuyh4), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Peixe Grande](https://open.spotify.com/album/0BVqwfKqX94meCXXWem6XB) | 2:06 |
-| 25 | [Toda Força](https://open.spotify.com/track/2kuPQjaLLvpuz4sS7XK7yI) | [DOM7NICO](https://open.spotify.com/artist/620szMALjTzToFTwfdGlFc) | [Toda Força](https://open.spotify.com/album/6YeIiZDWaKsWVvQuyitwjr) | 2:54 |
+| 25 | [Toda Força](https://open.spotify.com/track/2kuPQjaLLvpuz4sS7XK7yI) | [Domenico](https://open.spotify.com/artist/3iXaC2NBxDMdFBHCEoKOmB) | [Toda Força](https://open.spotify.com/album/6YeIiZDWaKsWVvQuyitwjr) | 2:54 |
 | 26 | [BAE](https://open.spotify.com/track/5RBsK1ZzkrQwhA53Z62LWU) | [PRÓ K](https://open.spotify.com/artist/5okGN1c4ym1LagLidc9cZk), [Modestto](https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd) | [BAE](https://open.spotify.com/album/4juhGx49OFihS4NO7gKlex) | 2:31 |
 | 27 | [Ok](https://open.spotify.com/track/5iqGwRFxb6sA6Nft63xl4M) | [Cezza](https://open.spotify.com/artist/5rLw6pCcoJyli9ZYnDFwrV), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7), [LEIROZ](https://open.spotify.com/artist/5cRriQJijsudb4UimiqQxU) | [Ok](https://open.spotify.com/album/167xAEQlWPafUZ4IgztgMw) | 3:34 |
 | 28 | [Disfarça](https://open.spotify.com/track/2kH5vD45RQtkkJv8YPKiq7) | [CRIZI](https://open.spotify.com/artist/1hTAvb0pcopMhAWBWp482O) | [Disfarça](https://open.spotify.com/album/3jG7kKxQkJ0NB3rXfQSLUQ) | 3:05 |

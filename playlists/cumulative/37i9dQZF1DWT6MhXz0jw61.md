@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Symba
 
-318 songs - 17 hr 37 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+319 songs - 17 hr 41 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Save The Best For Last \(Feat\. Rick Ross\)](https://open.spotify.com/track/6iCZg6uWwwtdJHZ7LzQKxU) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:50 | 2022-08-12 | 2022-08-18 |
 | [Say It](https://open.spotify.com/track/7fQ4WRBESYZNY6BMhAoIQ8) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Say It](https://open.spotify.com/album/1z8WyOkgd080WMDeSmmQpJ) | 3:35 | 2021-05-21 | 2022-04-16 |
 | [Scottie Pippen](https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Scottie Pippen](https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34) | 3:53 | 2021-10-22 | 2022-07-09 |
-| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 | 2022-11-03 |
 | [SHELTER ft Wyclef Jean, ft Chance The Rapper](https://open.spotify.com/track/2nKaHCeL3e5DNl3P7eZ5uo) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [SHELTER ft Wyclef Jean, ft Chance The Rapper](https://open.spotify.com/album/2iojD0foSUQWKlHX0urlSs) | 4:21 | 2021-05-21 | 2022-01-15 |
 | [Show You](https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Show You](https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES) | 3:23 | 2021-10-22 | 2022-01-15 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 | 2021-12-03 | 2022-08-13 |

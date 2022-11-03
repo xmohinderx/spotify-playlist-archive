@@ -4,7 +4,7 @@
 
 > New music from Rihanna \(pictured\), SZA, Shania Twain, dvsn, Fred again.., and more!
 
-4,427 songs - 9 day 19 hr 39 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+4,428 songs - 9 day 19 hr 42 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3381,7 +3381,8 @@
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-02-05 |
 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 | 2022-06-24 | 2022-07-02 |
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 | 2022-07-02 |
-| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 | 2022-11-03 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-02-12 |
 | [She's The One](https://open.spotify.com/track/2gXHI0QqYYni7Os15Ytwbp) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Soni Pabla](https://open.spotify.com/artist/0r6tUqpXxetklBsrzkqoM9) | [She's The One](https://open.spotify.com/album/3gL49M72yRMTAm1pW5ZBfu) | 2:35 | 2022-08-05 | 2022-08-13 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-29 | 2022-05-07 |

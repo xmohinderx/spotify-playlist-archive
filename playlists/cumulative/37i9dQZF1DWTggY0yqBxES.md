@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Kenny Mason
 
-292 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
+293 songs - 14 hr 54 min - [published](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [RUN THE WORLD](https://open.spotify.com/track/24O46adSE5SxxOthWe28AC) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [RUN THE WORLD](https://open.spotify.com/album/06spODPScUqLi5jMPKq93q) | 2:58 | 2021-09-03 | 2022-10-13 |
 | [Running With The Angels](https://open.spotify.com/track/7nXTQjl7BGAhhWTqVsYXo6) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Tia P.](https://open.spotify.com/artist/7uFSEV6cpCa34EnVeJ2hE2) | [Running With The Angels](https://open.spotify.com/album/6Fjjj82WDhGnR287L6lHVi) | 2:20 | 2022-04-01 | 2022-04-15 |
 | [Sex Symbol](https://open.spotify.com/track/5jDx8OLmJpnLKiDStY8US7) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr) | [Sex Symbol](https://open.spotify.com/album/51XUjHEsoH2qrZs2D79gdC) | 2:10 | 2022-10-21 |  |
-| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 | 2022-11-03 |
 | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/track/1CsLmXktvD3Cj04dPCtJNI) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [SIERRA NIGHTS \(feat\. Ryan Beatty\)](https://open.spotify.com/album/0msGRJHLXl4KB7GXJiKZSx) | 4:23 | 2021-09-03 | 2022-07-30 |
 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 | 2022-03-25 | 2022-04-20 |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 |  |

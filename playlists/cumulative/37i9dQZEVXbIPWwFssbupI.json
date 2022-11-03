@@ -3309,6 +3309,28 @@
     {
       "album": {
         "name": "REDVOLUTION (Vol.1)",
+        "url": "https://open.spotify.com/album/54TQRxLz42JwIMf2njbwEn"
+      },
+      "artists": [
+        {
+          "name": "REDVOLUTION",
+          "url": "https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/07r32jNfQPQ4gQJRc3K17q"
+    },
+    {
+      "album": {
+        "name": "REDVOLUTION (Vol.1)",
         "url": "https://open.spotify.com/album/1G71uEM5fVHdztWGgs2zLG"
       },
       "artists": [
@@ -3323,7 +3345,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 195459,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3VzWEZ0gFsC3FxngfAPfvE"
@@ -4127,7 +4149,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 189873,
       "name": "CP_004_ Juste un dernier",
       "url": "https://open.spotify.com/track/3idfsvvJ6qVj8GlTixYFOn"
@@ -6585,7 +6607,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 168877,
       "name": "Filtr\u00e9",
       "url": "https://open.spotify.com/track/7eb7JIRN6HKpedFSDGd4yI"
@@ -12313,7 +12335,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-30",
+      "date_removed": null,
       "duration_ms": 152546,
       "name": "Meuda",
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
@@ -16901,6 +16923,24 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {

@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Go Off",
+        "url": "https://open.spotify.com/album/4QugeAvLTbWTcrAFcm9Ezz"
+      },
+      "artists": [
+        {
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "Go Off",
+      "url": "https://open.spotify.com/track/7jw05QlMKjqOoEHLCeXUD7"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc"
       },

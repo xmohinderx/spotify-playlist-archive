@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The 52nd Annual nominees are here! Tune in to TBN on Oct\. 22nd 8/7 PM Central to watch this year's celebration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,226 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,295 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 32 | [Wake Up](https://open.spotify.com/track/3E2hqslxAV6v6yZmlitNPS) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Keeping On](https://open.spotify.com/album/6BqmmNMV9YLf9BdOeq1jcb) | 3:40 |
 | 33 | [Because He Lives](https://open.spotify.com/track/4V5dQ0bZ75SSHMKt8W9RKh) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Alone With My Faith](https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU) | 3:33 |
 | 34 | [Better Off There](https://open.spotify.com/track/40Rpg0pzoaVsFzHgCREvcx) | [The Browns](https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb) | [Brave](https://open.spotify.com/album/1uJ4rjuZy4xwZ8ccYTPbmg) | 4:09 |
-| 35 | [Go Rest High On That Mountain](https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ) | [Fortune/Walker/Rogers/Isaacs](https://open.spotify.com/artist/61ZPatRwS09QE7KQ5ufPJI) | [Brotherly Love](https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5) | 4:12 |
+| 35 | [Go Rest High On That Mountain](https://open.spotify.com/track/5f2AJLUMjy6jBQYZy2RmQZ) | [Brothers of the Heart](https://open.spotify.com/artist/1avG1diqhx83QehJoAbHL5) | [Brotherly Love](https://open.spotify.com/album/5kpJWPBsLldYiX808pQHF5) | 4:12 |
 | 36 | [Great God Almighty](https://open.spotify.com/track/5U8hXWb7NmHHiw1X066zE4) | [The Sound](https://open.spotify.com/artist/3bsZZ1rEW7u6BqsIorxUPy) | [Make It Count](https://open.spotify.com/album/0Fe4YmNCYibI8T5sQsvr8G) | 2:47 |
 | 37 | [If God Pulled Back The Curtain](https://open.spotify.com/track/2Rk4cVGZ4MM2y7ClZFtaOM) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Peace At Last](https://open.spotify.com/album/1PATvPSNkCt3CP5J31PjWx) | 3:26 |
 | 38 | [I Got It \- Bonus Track](https://open.spotify.com/track/6y8ZVdDFBly8GJhFJAM97L) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got It: Singles Ministry, Vol\. 1](https://open.spotify.com/album/5jxxVFeOULCVZR5K3n9Zwa) | 4:07 |

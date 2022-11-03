@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8393,
+  "num_followers": 8410,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMGRkNGI4MjU5NWQ3NTk1N2UyOGFjNWNmOTRjZDY5NDAx",
+  "snapshot_id": "MTY2Njk2MTQ0NCwwMDAwMDAwMDEzNjU1ZjBlMDI4YTMyYWQ0ZGNjMGZmNWNlZDFjMGFj",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
@@ -579,18 +595,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2022-06-30 23:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 137727,
       "name": "FOR MY BABY",
       "url": "https://open.spotify.com/track/5bAsB0uRfEAOj9d3vsNSm5"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
-      "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
-      },
-      "artists": [
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "APOLLO",
@@ -779,6 +763,22 @@
       "duration_ms": 172191,
       "name": "ELI",
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
+    },
+    {
+      "added_at": "2022-08-18 23:00:00",
+      "album": {
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+      },
+      "artists": [
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2022-09-30 06:26:52",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "My WorlD With U",
-        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
-      },
-      "artists": [
-        {
-          "name": "WurlD",
-          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "SAME AS YOU",
-      "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
-    },
-    {
       "added_at": "2022-09-30 06:26:52",
       "album": {
         "name": "Spring to Summer",
@@ -1171,6 +1155,22 @@
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "My WorlD With U",
+        "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
+      },
+      "artists": [
+        {
+          "name": "WurlD",
+          "url": "https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "SAME AS YOU",
+      "url": "https://open.spotify.com/track/3vYLmH7y9vkEKI9IB1fw8v"
     },
     {
       "added_at": "2022-06-09 23:00:00",

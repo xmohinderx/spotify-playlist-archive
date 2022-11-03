@@ -1198,6 +1198,24 @@
     },
     {
       "album": {
+        "name": "La Makani",
+        "url": "https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs"
+      },
+      "artists": [
+        {
+          "name": "Masroor Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272509,
+      "name": "La Makani",
+      "url": "https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN"
+    },
+    {
+      "album": {
         "name": "La Salam Mast Qalandar",
         "url": "https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm"
       },

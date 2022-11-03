@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,181 likes - 1,201 songs - 3 day 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,228 likes - 1,201 songs - 3 day 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 170 | [Budi Setahun Segunung Intan](https://open.spotify.com/track/0nOdB3pUYURDusotlSsMuN) | [Datuk Ahmad Jais](https://open.spotify.com/artist/5DR3x1kevrEtZGk2FSSsB7), [Kartina Dahari](https://open.spotify.com/artist/1fOzHIScKPXsUOugUL3KQ5) | [Memori Hit](https://open.spotify.com/album/3vFf8DTJaYSf40I1PtyJTb) | 2:34 |
 | 171 | [Ya Shaifni](https://open.spotify.com/track/24v3B8W91oKeDSxOFdTVVS) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 6:44 |
 | 172 | [País Tropical](https://open.spotify.com/track/0ypyIQO9bJyIb9Z0WUFGNo) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gal Costa](https://open.spotify.com/album/5t4T7WvLFuozhrvjylY9kO) | 3:47 |
-| 173 | [Edmundo \(In The Mood\) \- Remastered](https://open.spotify.com/track/1jbK6GJ8YHdGq3rQvDHOa3) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Oswaldo Borba E Sua Orquestra](https://open.spotify.com/artist/4LFS1T3yghQZ2zanxmUuz8) | [A Bossa Negra](https://open.spotify.com/album/1bipQEaqC48cgr1prG3sDy) | 1:57 |
+| 173 | [Edmundo \(In The Mood\)](https://open.spotify.com/track/1jbK6GJ8YHdGq3rQvDHOa3) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [A Bossa Negra](https://open.spotify.com/album/1bipQEaqC48cgr1prG3sDy) | 1:57 |
 | 174 | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/track/0GlDM1s0mLBrnV3BcF59EW) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk) | 4:07 |
 | 175 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [S'Imbora \- A História De Wilson Simonal](https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4) | 2:32 |
 | 176 | [Every Body Is Going Home](https://open.spotify.com/track/1XHOg7tLEEwjvfDcxdUEbN) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [Fine Anyway \(Habibi Funk 016\)](https://open.spotify.com/album/2HrlABnkwte3NYA0erFtCU) | 2:52 |

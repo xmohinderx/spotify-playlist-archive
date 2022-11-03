@@ -215,7 +215,7 @@
     {
       "album": {
         "name": "The Voyage Never Ends...",
-        "url": "https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e"
+        "url": "https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx"
       },
       "artists": [
         {
@@ -226,6 +226,24 @@
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 304521,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/174JRizws7VqM3oCF8zruo"
+    },
+    {
+      "album": {
+        "name": "The Voyage Never Ends...",
+        "url": "https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e"
+      },
+      "artists": [
+        {
+          "name": "Captain Supernova",
+          "url": "https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH"
+        }
+      ],
+      "date_added": "2020-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 304521,
       "name": "Closer to You",
       "url": "https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL"

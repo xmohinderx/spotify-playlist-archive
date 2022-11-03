@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-70 songs - 4 hr 21 min - not published yet
+71 songs - 4 hr 24 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [They Are Night Zombies!! They Are Neighbors!! They Have Come Back From the Dead!! Ahhhh!](https://open.spotify.com/track/6pvwYMVs13EJ8jj4LMX0aV) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 5:09 | 2022-10-27 |  |
 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 | 2022-10-27 |  |
 | [Wendell Walker](https://open.spotify.com/track/5NpiojbPGLVmxiszru8FcX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Bearer of Bad News](https://open.spotify.com/album/1bKpcuXtsV2l6ybVUJMRAl) | 8:23 | 2022-10-27 |  |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2022-10-27 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2022-10-27 | 2022-11-03 |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2022-10-27 |  |
 | [Whistlin' Past The Graveyard](https://open.spotify.com/track/43dz5W2FnvUIzA84hFEPkZ) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Blue Valentine \(Remastered\)](https://open.spotify.com/album/2fgQN85UzwZMRIBTs06FjX) | 3:17 | 2022-10-27 |  |
 | [Wolf Like Me ft\. Shovels & Rope](https://open.spotify.com/track/3AZXq6ty10UPcTspnzHAGo) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7), [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Plays Well With Others](https://open.spotify.com/album/4aHyH0AmCxSsB0ZYKIEcuk) | 4:05 | 2022-10-27 |  |
 

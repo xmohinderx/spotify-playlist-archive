@@ -4,7 +4,7 @@
 
 > New York salsa...it's home.
 
-122 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/7Az1DHHabnSiAJM8PmKhAj)
+123 songs - 9 hr 37 min - [published](https://open.spotify.com/playlist/7Az1DHHabnSiAJM8PmKhAj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 | 2022-08-17 |  |
 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 | 2022-08-17 |  |
 | [Quien Entiende Este Amor](https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Serie Platino](https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt) | 5:03 | 2022-08-17 |  |
-| [Quiéreme Tal Como Soy](https://open.spotify.com/track/1KbbxKaj3LK7z8nC3TawqF) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/5d1h1b8M4qsCFjt1Tg8Edj) | 4:52 | 2022-08-17 |  |
+| [Quiéreme Tal Como Soy](https://open.spotify.com/track/1KbbxKaj3LK7z8nC3TawqF) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/5d1h1b8M4qsCFjt1Tg8Edj) | 4:52 | 2022-08-17 | 2022-11-03 |
+| [Quiéreme Tal Como Soy](https://open.spotify.com/track/6w9ghQgpSD8gOa29mcnvd9) | [El Gran Combo De New York](https://open.spotify.com/artist/10fmLCyVtSdgMCYnjIPCpu) | [Salsa Sensual, Vol\. 1](https://open.spotify.com/album/20rmPQW0XSuaqPWu6Lqfkv) | 4:52 | 2022-08-17 |  |
 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 | 2022-08-17 |  |
 | [Ran Kan Kan](https://open.spotify.com/track/7qKQb6lScG5P9PKUaBLSaa) | [German Villareal](https://open.spotify.com/artist/4XkEwP6rxlThQhL2mdQ5jm), [Mambo Big Band](https://open.spotify.com/artist/1S88nr4JvfizT2pLOORfpI) | [Con Permiso de Mis Mayores](https://open.spotify.com/album/4bzpKsW94b9dGiCsbyAKFT) | 4:05 | 2022-08-17 |  |
 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 | 2022-08-17 |  |

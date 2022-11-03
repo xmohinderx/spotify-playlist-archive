@@ -1,13 +1,37 @@
 {
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI?si=OvYd99_SRBWLxcnDQn1_Xw\">Peter Fox</a>",
-  "num_followers": 3266,
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi?si=hX0ud9u5TMGZP-zFPS5t6g\">Yaba Buluku Boyz</a>",
+  "num_followers": 3277,
   "original_name": "Piano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzIyMDcxOSwwMDAwMDAwMDQ4ZmI3N2I2NjI4NGIzMDNhYmNlNTRlNTRhN2NmOGE0",
+  "snapshot_id": "MTY2NzM4Mjk2MSwwMDAwMDAwMDg1NDM0MjZmMWRiNzg0ZTljNjM3ZDFiZWEzYzA3Y2Uz",
   "tracks": [
+    {
+      "added_at": "2022-11-02 09:56:01",
+      "album": {
+        "name": "Wa Kula (Zacaria)",
+        "url": "https://open.spotify.com/album/7xQGp5Epz5G2ESwOORmiHh"
+      },
+      "artists": [
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        },
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Jah Prayzah",
+          "url": "https://open.spotify.com/artist/13JLy7UFJgqRypeQGbucP3"
+        }
+      ],
+      "duration_ms": 269933,
+      "name": "Wa Kula (Zacaria)",
+      "url": "https://open.spotify.com/track/13vm93aPWfMs6lnKAVDoLR"
+    },
     {
       "added_at": "2022-10-31 12:51:59",
       "album": {
@@ -1107,34 +1131,6 @@
       "duration_ms": 325636,
       "name": "Tembisa",
       "url": "https://open.spotify.com/track/1OdNCZD8SfPpXcDfwg0OMk"
-    },
-    {
-      "added_at": "2022-05-23 07:21:35",
-      "album": {
-        "name": "Nobody (Amapiano)",
-        "url": "https://open.spotify.com/album/4p6H3XZEwl7qObMSQwhioa"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Nobody (Amapiano)",
-      "url": "https://open.spotify.com/track/7bwMgt5a2vGunZbqfQGYSN"
     },
     {
       "added_at": "2022-05-23 07:21:35",

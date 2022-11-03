@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: All Them Witches\n",
-  "num_followers": 461567,
+  "num_followers": 461584,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMDhlMjhkMGExMzc5NGM4MDU4YmFjZGM4ZmRmNDQzZTJi",
+  "snapshot_id": "MTY2NjMyNDgwMCwwMDAwMDAwMGRmMGRjMmEzMThiNjA1NzVkNjNiMWNjMzY0NzE0OWUy",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
-        }
-      ],
-      "duration_ms": 295776,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
         "name": "Magic Secrets #1",
         "url": "https://open.spotify.com/album/5w6plCQfzFps3aHN4drA9u"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
+      "duration_ms": 295776,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 253226,
       "name": "The Tipping Point",
       "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -819,22 +819,6 @@
       "duration_ms": 227373,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Fix Yourself, Not the World",
-        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Everything I Love Is Going to Die",
-      "url": "https://open.spotify.com/track/6O94vSYs7gDfIV2sutYfVo"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 291186,
       "name": "Cannabis Tree",
       "url": "https://open.spotify.com/track/0JhW4OheoZ3N2OaLqvT5PR"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "The Best Part of Letting Go",
+        "url": "https://open.spotify.com/album/10CEMFXxts5hhJbIimhf0F"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "The Best Part of Letting Go",
+      "url": "https://open.spotify.com/track/6yvTqQtBaZEQGcrnuVjgRF"
     }
   ],
   "unique_name": "Rockin' Vibes",

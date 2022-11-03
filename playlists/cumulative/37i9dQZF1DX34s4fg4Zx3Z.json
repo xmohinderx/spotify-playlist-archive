@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 171692,
       "name": "Anh Bi\u1ebft Anh \u0110ang Sai",
       "url": "https://open.spotify.com/track/17w5ebCui16ZhSH1iq8d9m"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 242789,
       "name": "Anh Y\u00eau Em R\u1ed3i \u0110\u1ea5y",
       "url": "https://open.spotify.com/track/2lKN0Ram0d8HhqQsZe0Ov4"
@@ -8033,7 +8033,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 245670,
       "name": "Nh\u1eefng Ng\u00e0y M\u01b0a Ng\u00e2u",
       "url": "https://open.spotify.com/track/6X3OBvI8JRCEcP3DSlf6Hx"
@@ -10862,6 +10862,24 @@
     },
     {
       "album": {
+        "name": "T\u00e0i T\u1eeb Trong Tr\u1ee9ng",
+        "url": "https://open.spotify.com/album/2nioZ8ZB1lVPWUQp6QagjT"
+      },
+      "artists": [
+        {
+          "name": "Freaky",
+          "url": "https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120129,
+      "name": "T\u00e0i T\u1eeb Trong Tr\u1ee9ng",
+      "url": "https://open.spotify.com/track/47IYspeINcK0nf9OXQfo9N"
+    },
+    {
+      "album": {
         "name": "T\u00e0n Hoa",
         "url": "https://open.spotify.com/album/5aA4zBdLF0bjXWI16UUUk9"
       },
@@ -11232,6 +11250,28 @@
     },
     {
       "album": {
+        "name": "T\u1eebng",
+        "url": "https://open.spotify.com/album/7w2kW14HTO1vG6Wvy9hzJ5"
+      },
+      "artists": [
+        {
+          "name": "GUA",
+          "url": "https://open.spotify.com/artist/5Q5ZsD33P3z5ZiVmOC5WMx"
+        },
+        {
+          "name": "VCC Left Hand",
+          "url": "https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174216,
+      "name": "T\u1eebng",
+      "url": "https://open.spotify.com/track/08VxVMoeU8syyF4V1jkcG2"
+    },
+    {
+      "album": {
         "name": "T\u1eebng L\u00e0 Ch\u00fang Ta",
         "url": "https://open.spotify.com/album/3ge04XkhedMdUOpMWsOwMk"
       },
@@ -11363,6 +11403,28 @@
       "duration_ms": 188101,
       "name": "Va roi em block...",
       "url": "https://open.spotify.com/track/4ZPgCISc9Nbt4ToEISUKH3"
+    },
+    {
+      "album": {
+        "name": "Va V\u00e0o T\u00ecnh Y\u00eau",
+        "url": "https://open.spotify.com/album/5MxCyMCcsBip2L0bYBPjUp"
+      },
+      "artists": [
+        {
+          "name": "SASSY",
+          "url": "https://open.spotify.com/artist/4S4bIRzJUtv95EX72sKM1i"
+        },
+        {
+          "name": "Nh\u1eadt Ho\u00e0ng",
+          "url": "https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Va V\u00e0o T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/32bf7GlG2K6I3QcXd2Azdr"
     },
     {
       "album": {
@@ -12407,7 +12469,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 160814,
       "name": "\u0110eo Balo L\u00ean V\u00e0 \u0110i",
       "url": "https://open.spotify.com/track/2tCiFRGFl1orY7MTUlBtOK"

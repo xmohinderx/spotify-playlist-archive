@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Kyan e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,103 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,191 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 41 | [Melhor Opção](https://open.spotify.com/track/7fiZYdnWf2HOrFCZbX0yEz) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Kanhoto](https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [Melhor Opção](https://open.spotify.com/album/0heyA9Zjcf7j9w1ixRclKW) | 3:40 |
 | 42 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 |
 | 43 | [99 Não É 100](https://open.spotify.com/track/09fHhIwGvRtvi32cxOmsJQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Apoema](https://open.spotify.com/artist/6CJ906W2O22tAdxvWi51e6) | [99 Não É 100](https://open.spotify.com/album/4O6iZixoEhq4fYTRPHSQy4) | 3:14 |
-| 44 | [Falta Você](https://open.spotify.com/track/1WGczMTTrGQGo5f3W7Tu5V) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Falta Você](https://open.spotify.com/album/0wBWnsXhlYr5BMqjdFmJhi) | 3:40 |
-| 45 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
+| 44 | [100 Mili](https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [100 Mili](https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi) | 2:22 |
+| 45 | [Falta Você](https://open.spotify.com/track/1WGczMTTrGQGo5f3W7Tu5V) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Falta Você](https://open.spotify.com/album/0wBWnsXhlYr5BMqjdFmJhi) | 3:40 |
 | 46 | [Versace](https://open.spotify.com/track/2GvPGP32IAGg3StcgFZJcx) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Versace](https://open.spotify.com/album/1w88VF51xOry8vPZk5vdcV) | 2:50 |
 | 47 | [Obama](https://open.spotify.com/track/4aIj9PkZFTR8oLciZRCLNw) | [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Obama](https://open.spotify.com/album/5r7fZPl16IUqjzxZc7upaP) | 2:15 |
 | 48 | [Kim N Kanye](https://open.spotify.com/track/5NJHee8EbpbMv6Mb8ZilZI) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Kim N Kanye](https://open.spotify.com/album/7gQ2aVBOespHG0nqvJGSwu) | 3:06 |
 | 49 | [REVERSE](https://open.spotify.com/track/6EVxMejp12otEEADDqwNbs) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [REVERSE](https://open.spotify.com/album/1YQJnUtRI7utiKvLx8H76m) | 2:56 |
 | 50 | [Morango no Gin](https://open.spotify.com/track/64AaCofmb0AqrN7vWuXO5c) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Morango no Gin](https://open.spotify.com/album/6nkJrMukU7V3XXfVKLujjA) | 2:29 |
 
-Snapshot ID: `MTY2Njc3Nzc5MywwMDAwMDAwMDExNDIxZGI3MmE0MTQyZWUwZjYwNWI3ZTcxMDg1MDVk`
+Snapshot ID: `MTY2Njc3Nzc5MywwMDAwMDAwMDJkMTI3NzZiZjNkMGVhNzRlYmFiNWQwMzlkZjMxZDFj`

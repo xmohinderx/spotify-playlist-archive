@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more in <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>
 
-132 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
+133 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/5gJNqDWvbp9UkUeEjkgqKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Faryaad](https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Faryaad](https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z) | 4:45 | 2021-12-06 |  |
 | [Filhaal](https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv) | [Towers](https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO) | [Filhaal](https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2) | 4:15 | 2021-12-06 |  |
 | [Fitoor](https://open.spotify.com/track/59JAyLDknHxl9PPWwdXFqM) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Mujju](https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm) | [Fitoor](https://open.spotify.com/album/5tutMtSpFgrJeVy7wlJM92) | 3:25 | 2021-12-06 | 2022-01-29 |
+| [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 | 2022-11-02 |  |
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2021-12-06 |  |
 | [Gumm](https://open.spotify.com/track/14REs7jJd4v4QA7EOaPDiy) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo) | [Gumm](https://open.spotify.com/album/4HoeJSANDO9zCueiAHI0QY) | 3:04 | 2021-12-06 |  |
 | [HICO](https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [HICO](https://open.spotify.com/album/1VM1CsYQjbmrVUNjqqkY2U) | 2:28 | 2021-12-06 | 2022-09-06 |
@@ -124,7 +125,7 @@
 | [surface](https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [surface](https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy) | 3:56 | 2021-12-06 |  |
 | [SWEETU](https://open.spotify.com/track/7HwkCWwndPqQXozRbGCKYd) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [SWEETU](https://open.spotify.com/album/0LZoenSRLZreaObBEOpQo7) | 3:10 | 2021-12-06 |  |
 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 | 2022-09-14 |  |
-| [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2021-12-06 |  |
+| [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2021-12-06 | 2022-11-03 |
 | [Tera Suna](https://open.spotify.com/track/38mne9HRPU9JxWVYEf6YXg) | [Auj](https://open.spotify.com/artist/6j8CtrSU03lHurd79ojYpO) | [Tera Suna](https://open.spotify.com/album/30h8wa7E6VJkfaaBNfX9ri) | 3:31 | 2021-12-06 | 2022-09-06 |
 | [Teri Ay](https://open.spotify.com/track/3WBsWNtL054HCFz7UUGK9e) | [Umer Farooq](https://open.spotify.com/artist/3hVxqR4x3D6PaJWHICzhpt) | [Patang](https://open.spotify.com/album/2dtBK0Vkm1vrkucjfaqR3I) | 3:52 | 2021-12-06 |  |
 | [The River](https://open.spotify.com/track/1bUp7N1YaBxIcZAk1VmQ0N) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD) | [Tar](https://open.spotify.com/album/4HEA1y0YM2G74eNsF780sT) | 3:54 | 2021-12-06 | 2022-01-29 |

@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí \(y de allá\), como Andrés Calamaro.
 
-189 songs - 12 hr 42 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
+190 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/4AGuLAzZtz0hNpibnA51bn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/0IUFjvwlh18TWiTi6kO5pP) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:38 | 2022-05-19 | 2022-09-22 |
 | [Como un burro amarrado en la puerta del baile \- 2008 Remastered Version](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:38 | 2022-07-21 |  |
 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 | 2022-06-16 |  |
-| [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 |  |
+| [Corazon de Tango](https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Fugitivos De Paraiso](https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk) | 3:51 | 2022-05-19 | 2022-11-03 |
 | [Cruzando el paraíso](https://open.spotify.com/track/1i4IlPSIE1hDiAwVHyH2yp) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Balmoral](https://open.spotify.com/album/2KytedMiEQc7JbWZa2wTt7) | 4:58 | 2022-05-19 | 2022-09-02 |
 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 | 2022-05-26 |  |
 | [Dentro De La Ley](https://open.spotify.com/track/113AF9qdjqcBHaOABYca6S) | [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M) | [A Todo Que Sí](https://open.spotify.com/album/7LXLPz8rJAGS1fxWVBSQjS) | 2:48 | 2022-05-19 | 2022-07-25 |
@@ -149,6 +149,7 @@
 | [Perr@](https://open.spotify.com/track/6ZgbAKNcD6RpSTA3Iw6J0n) | [Javier Corcobado](https://open.spotify.com/artist/38euAah4YlEfvxaaa6kYmg), [Culto Oculto](https://open.spotify.com/artist/2WEYGiEpun91aWUiTY2XRa), [Aintzane con G de Gloria](https://open.spotify.com/artist/02i7Z9rORoCbkleLsFm4Do) | [Somos Demasiados \(Edición Deluxe\)](https://open.spotify.com/album/3M1mh5gwgz0SL1WMpdtnIi) | 2:58 | 2022-05-19 | 2022-05-27 |
 | [Perros Románticos](https://open.spotify.com/track/6K0OujXjXCdkBNUp181kkh) | [Carlos Vudú](https://open.spotify.com/artist/7HmCc2l8NOT3VjhjKGj8dQ) | [Perros Románticos](https://open.spotify.com/album/095kVg9ctC3jlnEmIExWov) | 3:57 | 2022-05-26 | 2022-06-10 |
 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 | 2022-05-26 | 2022-07-29 |
+| [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/track/3WJYbZVCqG5EygdjCiBLmh) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj), [Juancho Sidecars](https://open.spotify.com/artist/0SbrR0n1dENC05Dg3Wt5wH) | [Plan fatal \(feat\. Juancho Sidecars, Sidecars\)](https://open.spotify.com/album/4SADYirwzSPh8Z0vtot42I) | 3:43 | 2022-10-27 |  |
 | [Polvo Vacío](https://open.spotify.com/track/3R2f4sj7M5ktJ2cLyBbYan) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO), [Mastodonte](https://open.spotify.com/artist/4hXAEP4eZ8Et0UMdOdOf0E) | [Polvo Vacío](https://open.spotify.com/album/7t8TDs1aZq2XdAZoYQ3Cch) | 6:09 | 2022-06-02 | 2022-06-17 |
 | [Pongamos Que Hablo De Madrid](https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [12 Botellines Y 5 Tercios](https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd) | 2:55 | 2022-05-19 | 2022-07-29 |
 | [Por la boca vive el pez](https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Fitografía](https://open.spotify.com/album/4zSihveMwgYWHA5Bkw29Ug) | 4:29 | 2022-05-19 | 2022-07-29 |

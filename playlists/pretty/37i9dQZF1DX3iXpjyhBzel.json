@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Preto no Branco",
-  "num_followers": 866993,
+  "num_followers": 867185,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzNTE4MSwwMDAwMDAwMDBmOGM5M2Y1ZTIyYjM3ODcyYWY0MmNkNWQ0Mzc0YWQ3",
+  "snapshot_id": "MTY2NjkzNTE4MSwwMDAwMDAwMDhmNjA0N2ViNzZlYjI3MjU4NmUzODQwMjk4Yzc0NzZl",
   "tracks": [
     {
       "added_at": "2022-10-21 13:44:17",
@@ -547,26 +547,6 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Redentor",
-        "url": "https://open.spotify.com/album/4yNYug0DEgvDuYMT3qXGjG"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 382272,
-      "name": "Redentor",
-      "url": "https://open.spotify.com/track/2YOZHcypOnfbG5cfsSpW4N"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
         "name": "Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 427444,
       "name": "O Amor Tem Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
+        "name": "Redentor",
+        "url": "https://open.spotify.com/album/4yNYug0DEgvDuYMT3qXGjG"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 382272,
+      "name": "Redentor",
+      "url": "https://open.spotify.com/track/2YOZHcypOnfbG5cfsSpW4N"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Ele Vir\u00e1",
-        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 296865,
-      "name": "Ele Vir\u00e1",
-      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
         "name": "At\u00e9 te Encontrar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 292755,
       "name": "Nada Pode Calar Um Adorador",
       "url": "https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "duration_ms": 453941,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo"
+        "name": "Ele Vir\u00e1",
+        "url": "https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 453941,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB"
+      "duration_ms": 296865,
+      "name": "Ele Vir\u00e1",
+      "url": "https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -819,30 +819,6 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Tu \u00c9s Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1267PNiK42sqjmxh5pJ4PZ"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        }
-      ],
-      "duration_ms": 773437,
-      "name": "Tu \u00c9s Tudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/37wJRR4kiND7EHW6CvNMWn"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
         "name": "Espera S\u00f3 Mais um Pouquinho",
         "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
@@ -855,6 +831,22 @@
       "duration_ms": 229759,
       "name": "Espera S\u00f3 Mais um Pouquinho",
       "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
+        "name": "Vou Me Humilhar",
+        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Vou Me Humilhar",
+      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -915,18 +907,26 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Vou Me Humilhar",
-        "url": "https://open.spotify.com/album/1JEot4g3P0ySOuBGB9otLB"
+        "name": "Tu \u00c9s Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1267PNiK42sqjmxh5pJ4PZ"
       },
       "artists": [
         {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
         }
       ],
-      "duration_ms": 236493,
-      "name": "Vou Me Humilhar",
-      "url": "https://open.spotify.com/track/6XsCKaTpswfeXBak03mNhl"
+      "duration_ms": 773437,
+      "name": "Tu \u00c9s Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/37wJRR4kiND7EHW6CvNMWn"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
         "name": "Tu E\u0301s Fiel",
         "url": "https://open.spotify.com/album/1ynTnCdCBEL22jMTjWGG5N"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 301276,
       "name": "Tu E\u0301s Fiel",
       "url": "https://open.spotify.com/track/0rYFCbRb25YpQ7fx2Gnr6v"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
+        "name": "A Resposta",
+        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 265565,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
         "name": "Para Ti Eu Vou (Ao Vivo)",
         "url": "https://open.spotify.com/album/0QnyvMynTBuazeXR561cKo"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
-        "name": "A Resposta",
-        "url": "https://open.spotify.com/album/4UJ3wWteqxGpPadcxc7Atq"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 265565,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/6Z1489RmO6tTSWmghjA7FT"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2022-10-21 13:44:17",
       "album": {
+        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 283365,
+      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
+    },
+    {
+      "added_at": "2022-10-21 13:44:17",
+      "album": {
         "name": "Sol da Justi\u00e7a",
         "url": "https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w"
       },
@@ -1385,6 +1405,30 @@
       "url": "https://open.spotify.com/track/74x0zAixJTR1kaXQRzO9uJ"
     },
     {
+      "added_at": "2022-11-03 01:34:01",
+      "album": {
+        "name": "Voc\u00ea Tem Um Pai",
+        "url": "https://open.spotify.com/album/59vjLYXsBWzBzpSwI3mvxJ"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        },
+        {
+          "name": "Pr. Lucas",
+          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+        }
+      ],
+      "duration_ms": 309035,
+      "name": "Voc\u00ea Tem Um Pai",
+      "url": "https://open.spotify.com/track/6n7pN952ASYZ0FODczWqFZ"
+    },
+    {
       "added_at": "2022-10-21 13:44:17",
       "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
@@ -1419,42 +1463,6 @@
       "duration_ms": 322478,
       "name": "Creio em Ti (Creo En Ti)",
       "url": "https://open.spotify.com/track/6fsEESlFy3NxaIBSOrUbZm"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
-        "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/1DjK8GUoTRrGLa4CI8zReu"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 283365,
-      "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
-    },
-    {
-      "added_at": "2022-10-21 13:44:17",
-      "album": {
-        "name": "Te Desejamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1vxNS67P8ZEj4gmwncHi5c"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 320103,
-      "name": "Te Desejamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ"
     },
     {
       "added_at": "2022-10-21 13:44:17",
@@ -1525,28 +1533,20 @@
       "url": "https://open.spotify.com/track/7jCfGx4EKrsNlrlmgK88qE"
     },
     {
-      "added_at": "2022-11-02 01:39:11",
+      "added_at": "2022-10-21 13:44:17",
       "album": {
-        "name": "Voc\u00ea Tem Um Pai",
-        "url": "https://open.spotify.com/album/59vjLYXsBWzBzpSwI3mvxJ"
+        "name": "Te Desejamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1vxNS67P8ZEj4gmwncHi5c"
       },
       "artists": [
         {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        },
-        {
-          "name": "Pr. Lucas",
-          "url": "https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 309035,
-      "name": "Voc\u00ea Tem Um Pai",
-      "url": "https://open.spotify.com/track/6n7pN952ASYZ0FODczWqFZ"
+      "duration_ms": 320103,
+      "name": "Te Desejamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ"
     },
     {
       "added_at": "2022-10-21 13:44:17",

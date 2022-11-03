@@ -1,12 +1,12 @@
 {
   "description": "Punk anthems with strong messages for the masses. Cover: Bad Religion",
-  "num_followers": 3028,
+  "num_followers": 3132,
   "original_name": "Political Punks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGY1YTY1NTY5MWZlMGY0ZDcwNjc4YjdjMGE4MDczZDBj",
+  "snapshot_id": "MTY2NDcxMTI3MCwwMDAwMDAwMGY2N2IxMjI3YTlmNTM0NThiZGEzNTc3YjgzYWYxY2U5",
   "tracks": [
     {
       "added_at": "2021-01-16 16:36:48",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "The Disease",
-        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "The Disease",
-      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 214306,
       "name": "Gold Jacket, Green Jacket...",
       "url": "https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "The Disease",
+        "url": "https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "The Disease",
+      "url": "https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -647,22 +647,6 @@
       "duration_ms": 199466,
       "name": "American Futbol",
       "url": "https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ"
-    },
-    {
-      "added_at": "2021-01-16 16:36:48",
-      "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -747,8 +731,8 @@
     {
       "added_at": "2021-01-16 16:36:48",
       "album": {
-        "name": "American Attraction",
-        "url": "https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe"
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 176373,
-      "name": "American Attraction",
-      "url": "https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r"
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo"
     },
     {
       "added_at": "2021-01-16 16:36:48",
@@ -807,6 +791,22 @@
       "duration_ms": 237840,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
+    },
+    {
+      "added_at": "2021-01-16 16:36:48",
+      "album": {
+        "name": "Thoughts and Prayers",
+        "url": "https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW"
+      },
+      "artists": [
+        {
+          "name": "Good Riddance",
+          "url": "https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO"
+        }
+      ],
+      "duration_ms": 136664,
+      "name": "Our Great Divide",
+      "url": "https://open.spotify.com/track/70uib2Tdquyh4JDqvgUhZx"
     }
   ],
   "unique_name": "Political Punks",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Gaye Su Akyol
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,380 likes - 63 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,748 likes - 63 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 2 | [İmdat](https://open.spotify.com/track/4EqdtryLzCbXYK0Pr1e5p7) | [Ezgi Alaş](https://open.spotify.com/artist/3MPYl70VF5QlFVTOTRC9PZ), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [İmdat](https://open.spotify.com/album/2J5UY6OAgNrcA4ESKWQarx) | 3:54 |
 | 3 | [Tanırım İntiharı](https://open.spotify.com/track/7s6yYB04JE83gdTybGJe4x) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Tanırım İntiharı](https://open.spotify.com/album/0miT4OrEIjnNlLDDHFPetS) | 2:47 |
 | 4 | [Bize Kaldı](https://open.spotify.com/track/4SpbyEU2eWqR8bVpBaWNLR) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [Bize Kaldı](https://open.spotify.com/album/7rIs9VYWm9AqK4aqTk7B51) | 4:14 |
-| 5 | [Esmerin Adı Oya \- Sarışınlar Çat](https://open.spotify.com/track/5TPK3RmACz6NQF2fVB0pQb) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Esmerin Adı Oya \(Sarışınlar Çat\)](https://open.spotify.com/album/4rqcBFhRcBT5DqEKqSyHPY) | 3:39 |
+| 5 | [Esmerin Adı Oya \- Sarışınlar Çat](https://open.spotify.com/track/5TPK3RmACz6NQF2fVB0pQb) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Esmerin Adı Oya \(Sarışınlar Çat\)](https://open.spotify.com/album/4rqcBFhRcBT5DqEKqSyHPY) | 3:30 |
 | 6 | [Sen Yokken](https://open.spotify.com/track/4NMJzl0n1gdDmCFWtqiRHM) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Sen Yokken](https://open.spotify.com/album/7MkcVM5HHkeJV1rT7yrgHW) | 2:42 |
 | 7 | [Unutamazsın](https://open.spotify.com/track/0NQpsWRQP4W9LDLNo6RZ7m) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Unutamazsın](https://open.spotify.com/album/51PhvJu6YEVRdsVACNsgoY) | 2:30 |
 | 8 | [Beynimi Siktin](https://open.spotify.com/track/4YjDw6azfkK9uyn4As5nDB) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Beynimi Siktin](https://open.spotify.com/album/3feDEGL0SDtEqyNnHCesGw) | 3:04 |

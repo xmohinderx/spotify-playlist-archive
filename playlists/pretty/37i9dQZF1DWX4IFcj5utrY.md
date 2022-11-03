@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu?si=yD7sYHXxQSGNVFsSNxTbrw">Jazzuelle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,890 likes - 49 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,922 likes - 49 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

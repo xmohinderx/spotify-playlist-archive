@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-113 songs - 13 hr 12 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
+114 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/6jyKNP769IPaxkOJDH7ZYq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 | 2022-10-25 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Love Sufiana](https://open.spotify.com/album/50BCq2H5lHgRFTFVXX4DoJ) | 8:00 | 2022-08-02 |  |
 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 | 2022-06-21 |  |
+| [La Makani](https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [La Makani](https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs) | 4:32 | 2022-11-02 |  |
 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 | 2022-06-21 |  |
 | [Laal Meri Pat](https://open.spotify.com/track/0aszgmTzbSUKNsN5R2V72z) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/05YKbyGJeAcnQJxManto4S), [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/5TXDqeJKuJ3dlvbypD9Hu1) | 8:20 | 2022-06-21 | 2022-10-25 |
 | [Madari](https://open.spotify.com/track/7BGWfKugCG5QCXilymYBOy) | [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Greatest Hits of Coke Studio India, Vol\. 1](https://open.spotify.com/album/6NBDzr46UrfXsZ1SdvzIJB) | 7:43 | 2022-06-21 | 2022-10-25 |

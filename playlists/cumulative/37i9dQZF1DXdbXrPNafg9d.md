@@ -4,7 +4,7 @@
 
 > The best new tracks every week\. Cover: Montell Fish
 
-4,381 songs - 10 day 17 hr 27 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
+4,382 songs - 10 day 17 hr 31 min - [published](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,8 @@
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2020-07-24 | 2020-09-04 |
 | [Berlin](https://open.spotify.com/track/2WY760DTMqDK0ppsgC1NPe) | [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF) | [Berlin](https://open.spotify.com/album/24PrappqmAgafcce5C49Ph) | 3:00 | 2019-10-25 | 2019-11-15 |
 | [BERNADETTE](https://open.spotify.com/track/1Vr58OrTTkru2xyFEwEf6z) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [BERNADETTE](https://open.spotify.com/album/753cAFVuIEKz16wM8K7B38) | 2:24 | 2021-03-19 | 2021-05-22 |
-| [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 |  |
+| [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-10-21 |  |
+| [best](https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X) | 3:16 | 2022-10-21 | 2022-11-03 |
 | [Best for You](https://open.spotify.com/track/6lXY0nLCYYGEW9gWqGYq7m) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Best for You](https://open.spotify.com/album/0DHLiRv0bRVro75Bw25xzo) | 3:33 | 2019-06-21 | 2019-08-13 |
 | [Best I Can](https://open.spotify.com/track/7spqcauBWI88oEKjUgNebM) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Best I Can](https://open.spotify.com/album/5GA1Wp8OHxF4zdjHa4MTGI) | 3:18 | 2022-07-01 | 2022-08-13 |
 | [Best I Ever Had](https://open.spotify.com/track/5E5mmYOgof8lqvREZ5s6JI) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Best I Ever Had](https://open.spotify.com/album/0sqyA8yq8GC7FVFfLuk3HU) | 4:03 | 2020-10-16 | 2020-12-22 |

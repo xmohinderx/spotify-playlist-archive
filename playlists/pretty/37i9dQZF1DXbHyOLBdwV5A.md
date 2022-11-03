@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar\. Foto: DJ Roger Vale, Brunno Ramos
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,508 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,537 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 53 | [O Seu Amor É \- Remix](https://open.spotify.com/track/6bmrwAPWOXz8m8NTqA0tpD) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Benito Vitorette](https://open.spotify.com/artist/19eFC9b8d3JQ5sbYMLkY7v) | [O Seu Amor É \(Remix\)](https://open.spotify.com/album/1OBk6ijpYUJliwkNN9lEvw) | 2:52 |
 | 54 | [A Sua Chance](https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Diego Tiguez](https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP) | [A Sua Chance](https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY) | 4:01 |
 | 55 | [Dias de Verão](https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN) | [Jacobnew](https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Bruno Jovita](https://open.spotify.com/artist/3lF94UQsakzv27ztMbKKfL) | [Dias de Verão](https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp) | 3:20 |
-| 56 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
-| 57 | [Madrugada](https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG) | [Madrugada](https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y) | 3:48 |
+| 56 | [Madrugada](https://open.spotify.com/track/2sTbqDYPzPmg7KeOmTpq9D) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG) | [Madrugada](https://open.spotify.com/album/5DzTLUVAtN3sEvFsZFuv3Y) | 3:48 |
+| 57 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
 | 58 | [Só em Ti](https://open.spotify.com/track/0tNR8q9dwVpnB27DQ6goz8) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Thalita Barros](https://open.spotify.com/artist/2XcqwaVdCPErj0ah69UpbL) | [Só em Ti](https://open.spotify.com/album/7EyTM3WHWk8R63fqCdqM9N) | 3:52 |
 | 59 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 |
 | 60 | [Meu Pastor](https://open.spotify.com/track/04aufbCqQ5adE5h4bPSgGk) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Paulo Roberto](https://open.spotify.com/artist/75cRf4Gt2Us0LtN5pDBQuE) | [Meu Pastor](https://open.spotify.com/album/2pYrFe5fNwevFR7Tj4yhpo) | 2:59 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 69 | [Direção](https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Patrick Felix](https://open.spotify.com/artist/0eCHrizrfyIEVK6wiyUYWf), [BR7](https://open.spotify.com/artist/1p80BrxoS9dat7F4S6UlWv) | [Direção](https://open.spotify.com/album/1zIQAyYF6GXKQnrCYy1U25) | 2:32 |
 | 70 | [Balança \- AVIPA Remix](https://open.spotify.com/track/6o7hCpHBH7k2keD64G3ZF1) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Diego Atalaia](https://open.spotify.com/artist/3Wrcxw6gmXzUCgKtDXmCe5), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Balança: Remixes](https://open.spotify.com/album/487SwfT2EM1BQwVhzNZSBf) | 1:45 |
 
-Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDc0ZjNkYzRhOTkzYzExMDgzNzgwZDA2MDMzNWNmOTE3`
+Snapshot ID: `MTY2NTcyNjU1MywwMDAwMDAwMDUxZjRiZGUzNDVhNjJkM2VmYzg2ZDQ3MTJjOTAwMmEx`

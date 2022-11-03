@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-766 songs - 1 day 15 hr 21 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
+767 songs - 1 day 15 hr 23 min - [published](https://open.spotify.com/playlist/0xv3bctlBNT4vjfpPN47e4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,8 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-17 | 2022-02-16 |
 | [Love Me More](https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:32 | 2022-02-08 | 2022-02-13 |
 | [Lula 2022](https://open.spotify.com/track/3J3oeKeRYWzYRuPKoOxzdY) | [Maderada](https://open.spotify.com/artist/4Y8oZmeJmbpooOF0uD1NRp) | [Lula 2022](https://open.spotify.com/album/0gwfNewnKwiQCuk4CXAnE3) | 3:16 | 2022-10-03 | 2022-10-11 |
-| [Lula Lá 2022](https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf) | [Esquerda Festiva](https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK) | [Lula Lá 2022](https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M) | 1:50 | 2022-10-01 |  |
+| [Lula Lá 2022](https://open.spotify.com/track/6JppDQy0FW1nRAc5gCvoJI) | [Esquerda Festiva](https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK) | [LULA PRESIDENTE](https://open.spotify.com/album/02jwUb2nHJuvWTAnfXB4j7) | 1:50 | 2022-11-02 |  |
+| [Lula Lá 2022](https://open.spotify.com/track/7b1P6Ut5ehjeXhJ6SiPTrf) | [Esquerda Festiva](https://open.spotify.com/artist/19kP8LcEBcxfaxKOW0URAK) | [Lula Lá 2022](https://open.spotify.com/album/6UzlPDtPjiPU2ukr9pCf6M) | 1:50 | 2022-10-01 | 2022-11-03 |
 | [Lula Lá no Funk \(O Pai Tá On\)](https://open.spotify.com/track/3ZKwh2EZwtbLl36lhJONuA) | [Festa do Lula](https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG), [DJ Fábio ACM](https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ) | [Festa do Lula, Vol\. 1](https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o) | 1:46 | 2022-10-03 |  |
 | [Lula Lá no Funk 150 Bpm](https://open.spotify.com/track/33IX6O7YB75VvNQOmxzlry) | [Festa do Lula](https://open.spotify.com/artist/3ZOpvSIzCBGbEeqiTcJxsG), [DJ Fábio ACM](https://open.spotify.com/artist/1I5miROzH3MFMhRsphAvQJ) | [Festa do Lula, Vol\. 1](https://open.spotify.com/album/5UcjBnRDyFNgPu3suSFm1o) | 1:43 | 2022-10-03 |  |
 | [Lula Presidente](https://open.spotify.com/track/7obBa7zskrwsoXyJN9agRe) | [Nuno Boladão](https://open.spotify.com/artist/0xCH32DXtsZ9TReOcv1iH1) | [Lula Presidente](https://open.spotify.com/album/7GhPlpD6BVnUqKxrzPkh3t) | 1:48 | 2022-10-31 |  |

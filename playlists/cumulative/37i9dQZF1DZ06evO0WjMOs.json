@@ -868,6 +868,28 @@
     },
     {
       "album": {
+        "name": "Stayin' Alive",
+        "url": "https://open.spotify.com/album/0FmuxgEy8Sjec7tNY4SPCv"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189845,
+      "name": "Stayin' Alive",
+      "url": "https://open.spotify.com/track/5yH1Dmshfq3sVD2VKvroaB"
+    },
+    {
+      "album": {
         "name": "When The World Stopped Moving: The Live EP",
         "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
       },

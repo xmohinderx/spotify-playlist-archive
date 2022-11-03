@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Featuring new music by Yung Gravy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,333 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,575 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 17 | [Speak Up](https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx) | [Is0kenny](https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb) | [Speak Up](https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi) | 1:44 |
 | 18 | [Notti Bop](https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Notti Bop](https://open.spotify.com/album/7vkQS7TYsnbF0AopUZ7tjI) | 3:45 |
 | 19 | [Face no Book](https://open.spotify.com/track/5LIIVNlJGqtFrfe9pl3Gw2) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/0FFzC5WmgTApZK7RgJTPZw) | 2:25 |
-| 20 | [Told Me](https://open.spotify.com/track/0CLUTFC191s6Lc4WRrcPQz) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas) | 3:15 |
+| 20 | [Told Me](https://open.spotify.com/track/1KlESdVNnEDy7xo0CWfV6o) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/5rXK0jL7SyizDDe7om0Tqo) | 3:15 |
 | 21 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 |
 | 22 | [Ice Cream Truck](https://open.spotify.com/track/0aTB8UmGUXwyriKxoBQsUq) | [$ugarHill Keem](https://open.spotify.com/artist/7DY7ygEiVKNki7ZIPnZoNB) | [KING OF DRILL](https://open.spotify.com/album/0DHKlZcAKN55YN53EveJSQ) | 1:46 |
 | 23 | [i see london i see france](https://open.spotify.com/track/4wwoTaV7tQmGTshV7aYjBD) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i see london i see france](https://open.spotify.com/album/4SwqPUwME35rcRv2J30WYx) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Prettiest Problem](https://open.spotify.com/track/4xJGDw3NuNpfzIluJjAoye) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DAMU UP](https://open.spotify.com/artist/6llShcWedgxXoOR1dpsXD1) | [Prettiest Problem](https://open.spotify.com/album/1B2TwkqjAO0CBknczIjuRk) | 2:17 |
 | 100 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 |
 
-Snapshot ID: `MTY2NzE1MTA5OCwwMDAwMDAwMDRjNGMyN2RmZDk4MzdiOTJhYTc3ODBkZmNlY2NkNjY1`
+Snapshot ID: `MTY2NzE1MTA5OCwwMDAwMDAwMDBiYzk1ZjExZmMxNWM4OGQ0Y2ZkNzA4NDg1NjlmYzhj`

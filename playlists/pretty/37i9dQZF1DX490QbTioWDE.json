@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga & Marama.",
-  "num_followers": 521632,
+  "num_followers": 521816,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGY1YzA0ZTllN2UwZjU2YzdlZjRkNmNiZDhmNjcwOTBi",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDdhZGMyMWUzYzcxNTVjMGYzNTIxNjljOWRiNGU0ZGU5",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "Dos Amantes",
+        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "duration_ms": 174140,
+      "name": "Respetemos el duelo",
+      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "La Fiesta Es De Primera",
         "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Dos Amantes",
-        "url": "https://open.spotify.com/album/7ptztFycSuajNlo0MPbIz2"
+        "name": "Trulala - Grandes exitos",
+        "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
       },
       "artists": [
         {
-          "name": "Tyago Griffo",
-          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
         }
       ],
-      "duration_ms": 174140,
-      "name": "Respetemos el duelo",
-      "url": "https://open.spotify.com/track/4fl80hP4AbCF3YtEgkNA3x"
+      "duration_ms": 198320,
+      "name": "Tu amor me duele",
+      "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1587,22 +1603,6 @@
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "Trulala - Grandes exitos",
-        "url": "https://open.spotify.com/album/2fN5IbC3IrIssRB7H9W5Bx"
-      },
-      "artists": [
-        {
-          "name": "Claudio Toledo",
-          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Tu amor me duele",
-      "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
     },
     {
       "added_at": "2022-10-28 03:00:00",

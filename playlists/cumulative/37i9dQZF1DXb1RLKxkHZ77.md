@@ -2,9 +2,9 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Joe Flizzow
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: ALYPH
 
-110 songs - 7 hr 1 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
+112 songs - 7 hr 8 min - [published](https://open.spotify.com/playlist/3xlZYnrJUmenJqfRqm85Z9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-05-25 |  |
 | [I LAB U](https://open.spotify.com/track/1gl1lndIHDDpQeYuUrrMoU) | [Pudds](https://open.spotify.com/artist/6saVgVtwLnVSk9fKMtTvnA), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [I LAB U](https://open.spotify.com/album/6xDjAB66om2adSX7iMfZLv) | 2:20 | 2022-09-15 | 2022-09-29 |
 | [Isteri](https://open.spotify.com/track/1H50k7ZiylQVuuVOYIvlZr) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Isteri](https://open.spotify.com/album/31hFm4Jh0q1LS4oQSO7EhN) | 2:44 | 2022-08-24 | 2022-10-13 |
-| [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/track/7yOOxQWaypqMHW21HwxKgk) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk), [Rachel Patricia](https://open.spotify.com/artist/57PgHtyRgqcUwxJdgMr7mo) | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD) | 3:49 | 2022-10-05 |  |
+| [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/track/7yOOxQWaypqMHW21HwxKgk) | [Raffa Affar](https://open.spotify.com/artist/7JqV001XBrSr1Iyt66VPGk), [Rachel Patricia](https://open.spotify.com/artist/57PgHtyRgqcUwxJdgMr7mo) | [Jangan Ada Dusta Diantara Kita](https://open.spotify.com/album/0s0gDzEspCuawHzw0SWTTD) | 3:49 | 2022-10-05 | 2022-11-03 |
 | [Jangan Menangis Cinta](https://open.spotify.com/track/3k5nHyv6EjnH7eeIZQfuYL) | [Idayu](https://open.spotify.com/artist/7suXbmosCjq93DMz9QO2rM) | [Jangan Menangis Cinta](https://open.spotify.com/album/6g8SiSsDDK79vqzTgYwRll) | 4:21 | 2022-05-25 | 2022-07-28 |
 | [Janji Manis](https://open.spotify.com/track/31ECplyzYRmbQihescMh6N) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Jalan Abbey](https://open.spotify.com/album/3eMXmUpVMwBaVm6hEmr6Ns) | 3:16 | 2022-05-25 |  |
 | [Jika](https://open.spotify.com/track/6zLvxuwVGs0a9ztrEpYmI3) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Jika](https://open.spotify.com/album/7IRGPklzUkOw1uhYlXHIPS) | 4:04 | 2022-10-12 |  |
@@ -61,7 +61,8 @@
 | [KEMBALI TERANG](https://open.spotify.com/track/4NzB31TlldP5VSb9En1L6Q) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [KEMBALI TERANG](https://open.spotify.com/album/4BGue0B72lKl9nvFPxZDzW) | 3:22 | 2022-07-27 | 2022-09-29 |
 | [Khilaf Asmara](https://open.spotify.com/track/5ubqF9AMFQ0iU7dUnKi5Hs) | [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Khilaf Asmara](https://open.spotify.com/album/7x3XbkqzFCKljhqwyyAX11) | 3:54 | 2022-06-08 | 2022-09-01 |
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-05-25 |  |
-| [Kopi Sepi](https://open.spotify.com/track/36v2Nx5shbMJwFiTEig9Nc) | [Aiman Sidek](https://open.spotify.com/artist/1povjOYaWAzxgLchIrhKtM) | [Kopi Sepi](https://open.spotify.com/album/0EP1K4z5uyenKCDYs1Nu93) | 4:02 | 2022-10-05 |  |
+| [Kong Kali Kong](https://open.spotify.com/track/3ZSMdkjrxvB6fY3eBdS38i) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD), [Namiey](https://open.spotify.com/artist/1o8u7FWcdL5S8upSWJNoNw) | [Kong Kali Kong](https://open.spotify.com/album/7cIbMGFQcsAaURdaNGyE0L) | 3:18 | 2022-11-02 |  |
+| [Kopi Sepi](https://open.spotify.com/track/36v2Nx5shbMJwFiTEig9Nc) | [Aiman Sidek](https://open.spotify.com/artist/1povjOYaWAzxgLchIrhKtM) | [Kopi Sepi](https://open.spotify.com/album/0EP1K4z5uyenKCDYs1Nu93) | 4:02 | 2022-10-05 | 2022-11-03 |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2022-05-25 | 2022-09-16 |
 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 | 2022-06-09 |  |
 | [Layu Di Hujung Mekar](https://open.spotify.com/track/3GxKGD4HE7YSPkVKqy445n) | [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Layu Di Hujung Mekar](https://open.spotify.com/album/0Kq0OS9rB8nhcICy9pnAxG) | 4:27 | 2022-05-25 | 2022-09-16 |
@@ -85,6 +86,7 @@
 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 | 2022-05-25 | 2022-08-11 |
 | [PEREMPUAN](https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [PEREMPUAN](https://open.spotify.com/album/36RXsb86wBFDKuXzl9NcjP) | 4:00 | 2022-08-03 | 2022-09-09 |
 | [Peri Cintaku](https://open.spotify.com/track/5cASSQjKWI5ox8LykUtJGL) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Peri Cintaku](https://open.spotify.com/album/5njf9tv5t5iF2VCGAIfIOx) | 4:19 | 2022-05-25 | 2022-10-06 |
+| [Putus Tapi Cinta](https://open.spotify.com/track/7own7BT68l3Ofq9m8AF7LI) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Putus Tapi Cinta](https://open.spotify.com/album/2T43bcCSk25buRS18VeiBh) | 4:29 | 2022-11-02 |  |
 | [Ragu](https://open.spotify.com/track/6EfM9gZnVkp3f13ifmOOz8) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Jejak](https://open.spotify.com/album/3wPVyzCeB9iMdqW0RdVRvC) | 3:30 | 2022-05-25 | 2022-09-22 |
 | [Resah Kerinduan](https://open.spotify.com/track/1K8cHn6DX4FUtdI0wdx6md) | [Tajul](https://open.spotify.com/artist/5R3bXZA74wEH9GGKWBHd0v), [Afieq Shazwan](https://open.spotify.com/artist/29LWzRDuZ4ABF8fA3flIz8) | [Resah Kerinduan](https://open.spotify.com/album/2IjeneKtJJ6WBd7XhlgMgw) | 4:14 | 2022-05-25 | 2022-08-18 |
 | [Rindu Setengah Mati](https://open.spotify.com/track/4NRbwtbSE7xikojPuG9HjK) | [Nidza Afham](https://open.spotify.com/artist/0zceqpBQTndQrTQiTnxZB9) | [Rindu Setengah Mati](https://open.spotify.com/album/5kdSL9VcYtWEIEP5VLXVmj) | 4:04 | 2022-05-25 | 2022-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Dinesh Gamage
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,401 likes - 87 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,424 likes - 87 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 25 | [Omari](https://open.spotify.com/track/0iIFDg202oHMi5Lh9BdNvM) | [Satheeshan](https://open.spotify.com/artist/3N3y9RPCdGRECp1MWJr00c), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k) | [Omari](https://open.spotify.com/album/0ER2ytZDbMjyeM6IAnMGHg) | 3:04 |
 | 26 | [Mathake](https://open.spotify.com/track/0r1y5DUXbYuFoYGEnz4vfm) | [Kasun Randunu](https://open.spotify.com/artist/32FYnle6hUf3EII57Z9uwy), [Ravi Jay](https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2) | [Mathake](https://open.spotify.com/album/5Cm4n9ujuLSgZzw66vfsoU) | 3:18 |
 | 27 | [Kaviyak Wage](https://open.spotify.com/track/7bT48CImz9ukWWpo2967GV) | [Eshan Samarasinghe](https://open.spotify.com/artist/27fz2Gp6yctgQ04fXnRm8z), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Kaviyak Wage](https://open.spotify.com/album/4Pqkoa8qNIpUoyRkebCNgf) | 3:23 |
-| 28 | [Handa Gawin](https://open.spotify.com/track/6q54NPEivZfu0w4mfi2pzk) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Handa Gawin](https://open.spotify.com/album/0yqIEof1HHy2cjBeID0BMF) | 3:16 |
+| 28 | [Handa Gawin](https://open.spotify.com/track/2Egxrl73wREKmp1F2nvE3l) | [DILU Beats](https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t) | [Handa Gawin](https://open.spotify.com/album/0klqE21kzuXBdJwCDnnTR0) | 3:16 |
 | 29 | [Mandaaram Kathawe](https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj) | [Anushka Udana](https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz), [Nisal Gamage](https://open.spotify.com/artist/1M8N1mJapJj4Uj58izFWbC), [Amith Guru](https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT), [Wasthi](https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt) | [Mandaaram Kathawe](https://open.spotify.com/album/1dRosK2zVDLdWIr4TmmAbI) | 3:25 |
 | 30 | [Ma Prarthanawe](https://open.spotify.com/track/4iQykx2tTGNJ11JKbkyTTE) | [Supun Perera](https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN) | [Ma Prarthanawe](https://open.spotify.com/album/6vxanAElpLdL5OEQtggNge) | 3:35 |
 | 31 | [Kathawo Sinawo](https://open.spotify.com/track/4IgCYyejQWe2yrT9gsRYLG) | [Raween Kanishka](https://open.spotify.com/artist/7zD9E5cfPuGOnfs0DjzI4i), [Upeka Nirmani](https://open.spotify.com/artist/70m0p3DqUMKImpZ5rY8rAg) | [Kathawo Sinawo](https://open.spotify.com/album/1uAyugPQAotRZfglIXNhNe) | 4:11 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 86 | [Paata Gawe Man](https://open.spotify.com/track/4orf12TDpLYIh6AKSSNn1D) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Paata Gawe Man](https://open.spotify.com/album/539f3h6YfO0KKFCRgZ1puS) | 2:45 |
 | 87 | [Laga Lagatama \- Remix](https://open.spotify.com/track/1iIOK68SJyv4HGiAI8SrNh) | [Thiwanka Dilshan](https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx), [SHAN PUTHA](https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ), [Zack N](https://open.spotify.com/artist/7ArDql3vEsoh5HXcqP9aOy) | [Laga Lagatama \(Remix\)](https://open.spotify.com/album/2bBBFcFYKULKNXMfOOThO3) | 2:48 |
 
-Snapshot ID: `MTY2NTE0NjA4MiwwMDAwMDAwMDFhZmQ1YzgzNWMyYzM4MjMzYjQ0MjJhYjBlYzk1OTgx`
+Snapshot ID: `MTY2NTE0NjA4MiwwMDAwMDAwMGIyYWNjM2I2MTU1MjNkMWE1MjJiODg5MWI0ZTQ5NjY4`

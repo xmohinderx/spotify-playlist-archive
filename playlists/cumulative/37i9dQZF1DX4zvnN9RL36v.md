@@ -4,7 +4,7 @@
 
 > 내 마음을 노랫말이 알아줄 때.
 
-98 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
+99 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/1ePLnJPdYrdhAdDDYNy420)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 | 2022-06-09 |  |
 | [If You Were Me \(From Mr\. Sunshine \[Original Television Soundtrack\], Pt\. 14\)](https://open.spotify.com/track/55vLDRsWmZoUyKgNgF2mZP) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [If You Were Me \[From Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14\]](https://open.spotify.com/album/2oiawoUuxkhUEDEiTrcXgI) | 4:24 | 2022-03-07 | 2022-07-29 |
 | [Jewel \(feat\. KURO\)](https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Jewel \(feat\. KURO\)](https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b) | 3:01 | 2022-03-07 |  |
-| [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 |  |
+| [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 | 2022-11-03 |
 | [Like Air \(feat\. Dalmood\)](https://open.spotify.com/track/1Q2OIj95JJ7sbU84Nm4r87) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW), [Dalmood](https://open.spotify.com/artist/0bbyVltGmhBaILdoxGZ350) | [d'motive](https://open.spotify.com/album/7agoIZYuOrEpnhIobnqZfO) | 3:05 | 2022-03-07 | 2022-08-19 |
 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 | 2022-03-07 |  |
 | [Love you \(bye\)](https://open.spotify.com/track/4xYXT7ZTyVvhdhNJotWGik) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Love you \(bye\)](https://open.spotify.com/album/2wI45sUbr1MIpzKWrbUBtJ) | 3:39 | 2022-06-09 |  |
@@ -77,6 +77,7 @@
 | [Where Love Begins \(From 'Yoobyeolna! Chef Moon'\)](https://open.spotify.com/track/7hJ8bvpxNmXQsDGcuAj7on) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Yoobyeolna! Chef Moon \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/0VHZuQ0JkiON2gXxOGG2GK) | 3:39 | 2022-03-07 | 2022-07-29 |
 | [Wish](https://open.spotify.com/track/6Ldub58ljpaVpHKw79c8CO) | [SonSiaaa](https://open.spotify.com/artist/1JAecAVZEQFOK5TqhFYRYQ) | [Wish](https://open.spotify.com/album/7rcVHJWEzPNZQKQK4syjqu) | 4:01 | 2022-03-07 | 2022-08-19 |
 | [Zzack sarang](https://open.spotify.com/track/3mvnSG5sJLUTHiyXap5xgo) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/3b7lh3a4DfFxPCCKm7baGT) | 3:14 | 2022-06-09 |  |
+| [구애 \(求愛\) Propose](https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 \(求愛\) Propose](https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ) | 3:33 | 2022-08-18 |  |
 | [구애 Propose](https://open.spotify.com/track/5gaFDKroNN3BRcqJbYf5Gb) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [구애 Propose](https://open.spotify.com/album/2MRBFyAUweiBw5svhtlUVK) | 3:33 | 2022-03-07 | 2022-11-01 |
 | [그랬나봐](https://open.spotify.com/track/73sCf6xzgU9gJrkxz45HLz) | [김형중](https://open.spotify.com/artist/1PeAdO7bawJcZXcsLVXSSp) | [Kim Hyung Joong](https://open.spotify.com/album/2PqgCecKYA280VFveIfHCN) | 4:29 | 2022-03-07 |  |
 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 | 2022-03-07 |  |

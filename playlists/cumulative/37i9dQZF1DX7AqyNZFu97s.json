@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Jayahadadream",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Bricknasty",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -55,10 +55,28 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 231386,
       "name": "19",
       "url": "https://open.spotify.com/track/1BDUYDvUTyRCyHfNx7bWTw"
+    },
+    {
+      "album": {
+        "name": "2 Cool 2 Be Somebody",
+        "url": "https://open.spotify.com/album/2DnO2F70y4jUWMHC65awMe"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187183,
+      "name": "2 Cool 2 Be Somebody",
+      "url": "https://open.spotify.com/track/1KLEHZfhkCNpdhSXMGAGXW"
     },
     {
       "album": {
@@ -239,6 +257,24 @@
       "duration_ms": 164866,
       "name": "Act Right",
       "url": "https://open.spotify.com/track/0SjrBMybJh2eHL8vwn4G3P"
+    },
+    {
+      "album": {
+        "name": "Adelaide",
+        "url": "https://open.spotify.com/album/6vL34ppXDGTVKqp1l5CmSy"
+      },
+      "artists": [
+        {
+          "name": "Lauren Ann",
+          "url": "https://open.spotify.com/artist/2dC6qGukdDzZAaV62tzGLL"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191117,
+      "name": "Adelaide",
+      "url": "https://open.spotify.com/track/2uuFnP6vm64FVbbclxHDJ4"
     },
     {
       "album": {
@@ -1184,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "BIG TALK, little girl",
+        "url": "https://open.spotify.com/album/2D6DEklBlhJutocdztbZ4h"
+      },
+      "artists": [
+        {
+          "name": "Claudia Kate",
+          "url": "https://open.spotify.com/artist/3vTOtyW2zfxYELGaIN8Py5"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263181,
+      "name": "BIG TALK, little girl",
+      "url": "https://open.spotify.com/track/5Zo3pUZrg32O3rfb66dGd2"
+    },
+    {
+      "album": {
         "name": "Bigger Than Anything Ever",
         "url": "https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm"
       },
@@ -1611,7 +1665,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 183320,
       "name": "Burning Questions",
       "url": "https://open.spotify.com/track/0U0w9e5Uwaz0Xaz8n0yq1l"
@@ -2293,7 +2347,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 192300,
       "name": "Crying in the Swimming Pool",
       "url": "https://open.spotify.com/track/1TBtBOCF94xbvzM4Xtc4zY"
@@ -2571,7 +2625,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 203825,
       "name": "Deserve It",
       "url": "https://open.spotify.com/track/1xBtr8DgGvmMlhvYmnTpVN"
@@ -3256,6 +3310,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/15Q805JtVjmUwtVfAEU7zs"
+      },
+      "artists": [
+        {
+          "name": "Retropxssy",
+          "url": "https://open.spotify.com/artist/6tWhhrZoYdVYYik1YsSwdI"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/2D1rTKRi5k7yXZ9LUbkd6q"
+    },
+    {
+      "album": {
         "name": "Fake Feelings",
         "url": "https://open.spotify.com/album/41F8MWMVGaLHVdhZi7BibX"
       },
@@ -3267,7 +3339,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 173684,
       "name": "Fake Feelings",
       "url": "https://open.spotify.com/track/1GzQcKBN7YI9yNt74n04Zi"
@@ -3415,7 +3487,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 227267,
       "name": "Feet Will Fall",
       "url": "https://open.spotify.com/track/3GYwH4usfHI0CcDTXXqqkB"
@@ -5042,6 +5114,24 @@
     },
     {
       "album": {
+        "name": "I Stole Your Jumper",
+        "url": "https://open.spotify.com/album/5NxaINFTcSNBXAiNnacHFM"
+      },
+      "artists": [
+        {
+          "name": "Eaves Wilder",
+          "url": "https://open.spotify.com/artist/41NfVLegTOApdhejdXt4jQ"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234710,
+      "name": "I Stole Your Jumper",
+      "url": "https://open.spotify.com/track/5nuROIVvYDED6r0akmIwXT"
+    },
+    {
+      "album": {
         "name": "I thought this would be a love song",
         "url": "https://open.spotify.com/album/0yIofW9DnqPQ55iFsZkqCC"
       },
@@ -5903,6 +5993,28 @@
       "duration_ms": 206692,
       "name": "Life On The TV",
       "url": "https://open.spotify.com/track/4qp7NM0v0tpJFQkWDF1oLS"
+    },
+    {
+      "album": {
+        "name": "Lights Down (feat. KOATES)",
+        "url": "https://open.spotify.com/album/3z5yMDf21woohuKmeVBlzV"
+      },
+      "artists": [
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        },
+        {
+          "name": "KOATES",
+          "url": "https://open.spotify.com/artist/5YSPtpr66K8oOTvy3UjDcj"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "Lights Down (feat. KOATES)",
+      "url": "https://open.spotify.com/track/54ioHJKXGQbM7YSJAvBPoB"
     },
     {
       "album": {
@@ -7059,7 +7171,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 179573,
       "name": "My Girl Likes",
       "url": "https://open.spotify.com/track/5dTrwACgS2aUqr50KAdYW1"
@@ -7139,7 +7251,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 344281,
       "name": "Never 4Get",
       "url": "https://open.spotify.com/track/6GABILhlWp5CXxhnc5nkRV"
@@ -7157,7 +7269,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 264974,
       "name": "Never Forget Me (Get Naked)",
       "url": "https://open.spotify.com/track/1ilcjfgXnAsnbcTu8ITxyv"
@@ -7557,6 +7669,40 @@
       "duration_ms": 185693,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/1wgUHb4D5lgBhFDIhYSjeu"
+    },
+    {
+      "album": {
+        "name": "NSTW",
+        "url": "https://open.spotify.com/album/0UdrpZPbLNFiIM6ioVoPHP"
+      },
+      "artists": [
+        {
+          "name": "Phro.",
+          "url": "https://open.spotify.com/artist/5YXHkRQUQU314daYoZDI9n"
+        },
+        {
+          "name": "Clbrks",
+          "url": "https://open.spotify.com/artist/4sCWLyNqgRdi8ZMZE4OmWV"
+        },
+        {
+          "name": "Verbz",
+          "url": "https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w"
+        },
+        {
+          "name": "Tony Bontana",
+          "url": "https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl"
+        },
+        {
+          "name": "Guilty Simpson",
+          "url": "https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275840,
+      "name": "NSTW",
+      "url": "https://open.spotify.com/track/5ikuGdToORjW8ycuT3D0s6"
     },
     {
       "album": {
@@ -8102,6 +8248,24 @@
     },
     {
       "album": {
+        "name": "Players Part",
+        "url": "https://open.spotify.com/album/33oQnbQRfEoNLaDXHQYq4R"
+      },
+      "artists": [
+        {
+          "name": "Nia Chennai",
+          "url": "https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Players Part",
+      "url": "https://open.spotify.com/track/1kBGylDnYEnURR74H6XqNK"
+    },
+    {
+      "album": {
         "name": "Popular Loner",
         "url": "https://open.spotify.com/album/5JkBe7aLVMVqDesIXFzmIh"
       },
@@ -8117,6 +8281,24 @@
       "duration_ms": 164571,
       "name": "Popular Loner",
       "url": "https://open.spotify.com/track/1V6d5jHw6eAE5tJbe0uO8X"
+    },
+    {
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/5uOgAM46Vgu82pLYBrIEul"
+      },
+      "artists": [
+        {
+          "name": "Ruby Ivy",
+          "url": "https://open.spotify.com/artist/31AVijgbQyxtk7ikA3Xh9W"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176674,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/0FZ3zg6xZfgjmlIMH26zMo"
     },
     {
       "album": {
@@ -8413,6 +8595,24 @@
       "duration_ms": 197276,
       "name": "Rainy Day",
       "url": "https://open.spotify.com/track/3SiiOPLforhEw10atQ7afO"
+    },
+    {
+      "album": {
+        "name": "realign",
+        "url": "https://open.spotify.com/album/3IFkgTx4UyMIKBH6tZFven"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "realign",
+      "url": "https://open.spotify.com/track/5mVqxsl2BeRV0TBRKcWL6v"
     },
     {
       "album": {
@@ -9452,6 +9652,24 @@
     },
     {
       "album": {
+        "name": "Still Love You",
+        "url": "https://open.spotify.com/album/0aBAsMGt96yM4dkiuyevrG"
+      },
+      "artists": [
+        {
+          "name": "Kimani",
+          "url": "https://open.spotify.com/artist/59i7EZjgHlVzoxZvvCRWiX"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176005,
+      "name": "Still Love You",
+      "url": "https://open.spotify.com/track/3yawrWwPgd4cCGKeikf80j"
+    },
+    {
+      "album": {
         "name": "Strawberry Milkshake",
         "url": "https://open.spotify.com/album/1iQHnMMTTH7xWsgjHCWWmj"
       },
@@ -10113,7 +10331,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 237000,
       "name": "The Wetlands",
       "url": "https://open.spotify.com/track/6CrTOj2Oa2Vgh6YnKZddIZ"
@@ -10391,7 +10609,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 293954,
       "name": "Tupperware Party",
       "url": "https://open.spotify.com/track/3ji7qRyfJlMd7iwFnjKeKW"
@@ -10651,7 +10869,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 170000,
       "name": "Vision",
       "url": "https://open.spotify.com/track/39wW7uJ7JdjjYCcLRgzozF"
@@ -10673,6 +10891,32 @@
       "duration_ms": 210337,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2ttcXPZZwD6Fqsx1Ep91AZ"
+    },
+    {
+      "album": {
+        "name": "Wages",
+        "url": "https://open.spotify.com/album/3yQZCTO2VVBRD1b75yUlDe"
+      },
+      "artists": [
+        {
+          "name": "Noah Bouchard",
+          "url": "https://open.spotify.com/artist/1TOSiewKNzAeyWuE5Yb27X"
+        },
+        {
+          "name": "Razkid",
+          "url": "https://open.spotify.com/artist/2KzDiaFgcmY6XiorW0q4hR"
+        },
+        {
+          "name": "Jayahadadream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Wages",
+      "url": "https://open.spotify.com/track/6PbD6sW8QXzZv4y2tY3YI7"
     },
     {
       "album": {

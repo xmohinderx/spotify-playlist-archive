@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872 likes - 50 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 873 likes - 50 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 17 | [T.O.T.S\. Main Title](https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:40 |
 | 18 | [Muppet Babies Theme 2018](https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO) | [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:01 |
 | 19 | [Call Me, Beep Me! \(The Kim Possible Song\)](https://open.spotify.com/track/47HmhXbYlMIxpN2ChwNMh9) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Songs from Kim Possible \(Original Soundtrack\)](https://open.spotify.com/album/611TrABNivsGExe1eqIRur) | 2:37 |
-| 20 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 |
-| 21 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS) | 0:31 |
+| 20 | [Blaze and the Monster Machines Theme Song](https://open.spotify.com/track/1GzfnrqhJFsm2UK7dHRCea) | [Blaze and the Monster Machines](https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l) | [Rockin' Ride\-Along Songs](https://open.spotify.com/album/6gQCF7uOLmdFvqopFRVvIS) | 0:31 |
+| 21 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 |
 | 22 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
 | 23 | [Shake It Up \- From "Shake It Up"](https://open.spotify.com/track/1oLcpJA9TfwwejiEM9C5gi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Shake It Up \(From "Shake It Up"\)](https://open.spotify.com/album/4RYzLsns7p8y1CA8jUBFoB) | 3:00 |
 | 24 | [Bringing This Baby Home](https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 49 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 |
 | 50 | [Ordinary Me](https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 1:26 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMGU1OWQwM2EwYTBlYWM0ZWU5NDkxYzY1OTY5ZmRiNjU3`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDYxOTdlMWU5YzNkMjY5MmNmMWVjM2E3OWVjOTg0ZjM0`

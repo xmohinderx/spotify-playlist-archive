@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,249 likes - 65 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,294 likes - 65 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 16 | [Elroy](https://open.spotify.com/track/6jmUbrySw9qGfG7HW2dqC0) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn) | [Planet Earth](https://open.spotify.com/album/0PL8zomkWnMjhkJae8k6ee) | 6:05 |
 | 17 | [Mixed Bag](https://open.spotify.com/track/47kUGRjxvP9bhGEP4uSMZw) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 6:37 |
 | 18 | [Obliquely Speaking](https://open.spotify.com/track/32pUQ9rhUitApFWhjBQuAp) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Palindrome](https://open.spotify.com/album/7cKvZbIyBu3C7EIgHDtL8R) | 6:16 |
-| 19 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/3zN4g0kL9VJNTVo5Woh5BL) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 |
+| 19 | [Nate Smith Is the Ace of Aces](https://open.spotify.com/track/3p8Gxhqy3pzCU7BRfqhqPE) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [Tailwinds](https://open.spotify.com/album/6qPLq4JNIUi0BEj1OHwEkg) | 2:17 |
 | 20 | [Inside My Memory](https://open.spotify.com/track/3gaGmRxUQ8n2vMC4BmDXSE) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR) | [Ostinato Bass](https://open.spotify.com/album/5a1EmamjgzVgnoOgL9MMjz) | 4:13 |
 | 21 | [In The Pocket](https://open.spotify.com/track/6m7GqeOw8x6AhfAXNlA70B) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 5:30 |
 | 22 | [Jungle Circuit](https://open.spotify.com/track/1khNGmU4Hhr1GjkaISocYA) | [Trix](https://open.spotify.com/artist/0r3CKyd6SM51XaPM3b66iv) | [Art](https://open.spotify.com/album/44AeXmG9YVEx9NPSi5cEsp) | 5:35 |

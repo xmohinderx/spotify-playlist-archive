@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,017 likes - 114 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,015 likes - 114 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 41 | [Drive Thru](https://open.spotify.com/track/5z780k9o8KNblm25qUVsjU) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [Moonshine](https://open.spotify.com/album/79RORAgkofZCqc3LAFZHNX) | 3:40 |
 | 42 | [BORDERLINE](https://open.spotify.com/track/7mva6GztaB4UsfHmAiPoZY) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [WHAT THE FUZZ](https://open.spotify.com/album/7e5VfiESUdEgnu0KZOufMu) | 4:40 |
 | 43 | [Moonshine](https://open.spotify.com/track/7e9Hl4QtVJxQFsaNurn6Tr) | [A\-Fuzz](https://open.spotify.com/artist/113w9vmZPkX93Pc3pkUby3) | [Moonshine](https://open.spotify.com/album/79RORAgkofZCqc3LAFZHNX) | 4:19 |
-| 44 | [Light Beside You](https://open.spotify.com/track/6EE4jMxM5EY8uJ3Z76wsIG) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/1KlYJdZhZvRTj1VTEsLpge) | 3:35 |
-| 45 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 |
+| 44 | [Light Beside You](https://open.spotify.com/track/2QTyOuLerx1U0kcpAVH4Fo) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Rise From The Ashes](https://open.spotify.com/album/7KNZ09ycq8We2c9kJD6yKl) | 3:35 |
+| 45 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 |
 | 46 | [I Feel Your Love](https://open.spotify.com/track/5MPTnzbIv8DFih57iAE8Kt) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Feel Your Love](https://open.spotify.com/album/3pXT9yvQwnv83HLyy5FZLk) | 3:44 |
 | 47 | [Warm Salad](https://open.spotify.com/track/7Mln2Uqs4WNOwzQCk5RnRK) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:16 |
 | 48 | [reyn \- KR version](https://open.spotify.com/track/5qTwTJu5yGjomZF68WgCmP) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Name of The Seasons](https://open.spotify.com/album/1PtJ3s9wuWD2WjtYV2BG1e) | 4:36 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 113 | [Lip balm](https://open.spotify.com/track/4wii40hlqbVqbSeXuDtySq) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:16 |
 | 114 | [Happy Birthday](https://open.spotify.com/track/5WBC8Ymk4UsMecQgLpwfqQ) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[3\-2=A\]](https://open.spotify.com/album/12f7MPJxreN85KhapL4Ayz) | 3:05 |
 
-Snapshot ID: `MTY2NjQzMjM1MiwwMDAwMDAwMDczNzFhNTRlOGJkZWIzNjQxYWZmYmFkYzcxMzNhNjM5`
+Snapshot ID: `MTY2NjQzMjM1MiwwMDAwMDAwMDc1NTMwNmZkMzlmMTJkZTI4NDEzZTliNGUyODljZTQ3`

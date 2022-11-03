@@ -1625,10 +1625,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 188262,
       "name": "Colorful Raindrop",
       "url": "https://open.spotify.com/track/3dVcGtf7hg1Ma0jmt03P9q"
+    },
+    {
+      "album": {
+        "name": "Colorful Raindrop",
+        "url": "https://open.spotify.com/album/52eAKerLBLJvoP6eXtKhNB"
+      },
+      "artists": [
+        {
+          "name": "Mime",
+          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188262,
+      "name": "Colorful Raindrop",
+      "url": "https://open.spotify.com/track/3mdEo8YTPXlcZlvpVhFEgY"
     },
     {
       "album": {
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-02",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -2865,6 +2883,24 @@
       "duration_ms": 284226,
       "name": "Hateshinai Futari",
       "url": "https://open.spotify.com/track/6leWYHCjGa8xdExUj5DtR1"
+    },
+    {
+      "album": {
+        "name": "Hatsukoi",
+        "url": "https://open.spotify.com/album/3z0QAgSij3xNZDtRTh6tHj"
+      },
+      "artists": [
+        {
+          "name": "Sakurako Ohara",
+          "url": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298200,
+      "name": "Hatsukoi",
+      "url": "https://open.spotify.com/track/5Gp2LHC0Apdx51h0X3Wxz8"
     },
     {
       "album": {
@@ -4243,7 +4279,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 183260,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/7F38cYOAZBuCjf3YoAmIZn"
@@ -11973,7 +12009,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 298200,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/7xOB5iOSHNsTyRAkW8T3xa"

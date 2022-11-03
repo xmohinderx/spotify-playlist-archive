@@ -4,7 +4,7 @@
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-522 songs - 23 hr 10 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
+523 songs - 23 hr 13 min - [published](https://open.spotify.com/playlist/7ACRaTvmzFFb0E4bv2Gefa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,8 @@
 | [TMF](https://open.spotify.com/track/1MtqVeaNkhWE2W0dOvfKOf) | [Dada444l](https://open.spotify.com/artist/4dVmDpC6DBlSBwxvQkT21C) | [TMF](https://open.spotify.com/album/4j5NRsZgbL7ZvFzfuhPh7D) | 2:08 | 2022-10-05 |  |
 | [TO THE MOON](https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn) | [TO THE MOON](https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt) | 2:32 | 2022-01-13 | 2022-01-27 |
 | [toast to me](https://open.spotify.com/track/0GX2IFi49yh7BmudeyQNpn) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [toast to me](https://open.spotify.com/album/0lFj42FwIdOPB2O76yhPaS) | 2:17 | 2022-03-23 | 2022-05-12 |
-| [Told Me](https://open.spotify.com/track/0CLUTFC191s6Lc4WRrcPQz) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas) | 3:15 | 2022-10-26 |  |
+| [Told Me](https://open.spotify.com/track/0CLUTFC191s6Lc4WRrcPQz) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas) | 3:15 | 2022-10-26 | 2022-11-03 |
+| [Told Me](https://open.spotify.com/track/1KlESdVNnEDy7xo0CWfV6o) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/5rXK0jL7SyizDDe7om0Tqo) | 3:15 | 2022-10-26 |  |
 | [Too Comfortable](https://open.spotify.com/track/6o430YO7OGbZzaUcfzf40T) | [AQ](https://open.spotify.com/artist/1lXmxcmcB5YYr5Tc27uzZP) | [Too Comfortable](https://open.spotify.com/album/7nheN2HPiSKlqYIDbtJUij) | 2:24 | 2021-12-01 | 2022-01-14 |
 | [Toothpaste](https://open.spotify.com/track/1JBMewsromlpB8Ca7FBlXZ) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Toothpaste](https://open.spotify.com/album/3kHhuKbewC3HmXGn7YYcLi) | 3:00 | 2021-12-01 | 2022-01-14 |
 | [TOOYOUNG](https://open.spotify.com/track/737kPzO3GT2cALxjXouTVC) | [Take45](https://open.spotify.com/artist/4v40FFB2OBdChsx83RTEUO) | [Boy On Mars 2](https://open.spotify.com/album/2ailm754W0FoyX3Bf0o1Jq) | 1:47 | 2022-08-03 | 2022-09-01 |

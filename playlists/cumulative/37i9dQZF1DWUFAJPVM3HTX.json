@@ -1367,7 +1367,7 @@
     {
       "album": {
         "name": "EXTC",
-        "url": "https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X"
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
@@ -1378,6 +1378,24 @@
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
+    },
+    {
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/7tl2a7xWOzkUKPZ3syJ58X"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
       "duration_ms": 196056,
       "name": "best",
       "url": "https://open.spotify.com/track/41t2C4YsLxckK5U9D3RltX"
@@ -1559,6 +1577,24 @@
       "duration_ms": 158794,
       "name": "Between The Notes",
       "url": "https://open.spotify.com/track/6AReBjXPbQs68TQiyV189F"
+    },
+    {
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138157,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
     },
     {
       "album": {
@@ -2477,6 +2513,24 @@
       "duration_ms": 134064,
       "name": "Carry-on",
       "url": "https://open.spotify.com/track/70e1O0WgWtRIvbtAayyMqo"
+    },
+    {
+      "album": {
+        "name": "Cayendo",
+        "url": "https://open.spotify.com/album/2NApMA4aPyo3KGl6lYh3qC"
+      },
+      "artists": [
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201375,
+      "name": "Cayendo",
+      "url": "https://open.spotify.com/track/5tkMNy22O7sLjDOJkr5jRq"
     },
     {
       "album": {
@@ -8604,6 +8658,28 @@
     },
     {
       "album": {
+        "name": "Love Songz",
+        "url": "https://open.spotify.com/album/5FkfJeD1DvqKXXJFTvEjoH"
+      },
+      "artists": [
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        },
+        {
+          "name": "ZDBT",
+          "url": "https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200632,
+      "name": "Love Songz",
+      "url": "https://open.spotify.com/track/0Ypj1zPzSDiy80kjRSFZf3"
+    },
+    {
+      "album": {
         "name": "Don't Look Down!",
         "url": "https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0"
       },
@@ -10281,6 +10357,24 @@
       "duration_ms": 188117,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4fp34qCt027BJGROwGDeQh"
+    },
+    {
+      "album": {
+        "name": "OOOO AAH",
+        "url": "https://open.spotify.com/album/1stGmRuTdU000aOby2w4jU"
+      },
+      "artists": [
+        {
+          "name": "HXRY",
+          "url": "https://open.spotify.com/artist/2iqM6ytAoq3ckSITRNOaWB"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162513,
+      "name": "OOOO AAH",
+      "url": "https://open.spotify.com/track/0wxs4LBPtGl7r9HMsoLF5V"
     },
     {
       "album": {
@@ -14096,6 +14190,24 @@
     },
     {
       "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169019,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK"
+    },
+    {
+      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/1aB96LzLx2G13D4K49YcW4"
       },
@@ -14129,6 +14241,24 @@
       "duration_ms": 261027,
       "name": "Time Goes \"Bye\"",
       "url": "https://open.spotify.com/track/5JIkpWBTRbDUacnjHeBwt9"
+    },
+    {
+      "album": {
+        "name": "Time In Our Lives",
+        "url": "https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158365,
+      "name": "Time In Our Lives",
+      "url": "https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr"
     },
     {
       "album": {

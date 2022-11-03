@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Rihanna \(pictured\), SZA, Shania Twain, dvsn, Fred again.., and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,020 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,071 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 30 | [Slap](https://open.spotify.com/track/75VgEKfn6TL5W3hSPE81ZC) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Big Daddy Kane](https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Slap](https://open.spotify.com/album/4WFi8d3LcgKiJxXTHlNclv) | 4:04 |
 | 31 | [SummerTime](https://open.spotify.com/track/3cOOvxceUJO9Z1mfCSBwv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [SummerTime](https://open.spotify.com/album/3U4DWNFTAN0fsZD1wYiTr4) | 2:58 |
 | 32 | [Object of Fun](https://open.spotify.com/track/0cqzZKc1UXaTJix5yKpQhG) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Object of Fun](https://open.spotify.com/album/6ZIuuL02NpszQgKbvwKDNN) | 3:10 |
-| 33 | [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 |
+| 33 | [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 |
 | 34 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 | 35 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
 | 36 | [Blame It On Being Young](https://open.spotify.com/track/2OiQOns4bQK3ZI3JxpXL5m) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Blame It on Being Young](https://open.spotify.com/album/3OAsLLW9T43CBLswannByc) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Bored](https://open.spotify.com/track/0fRorkrSqSuIeMQnhksyLJ) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb), [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k) | [Bored](https://open.spotify.com/album/222AjkZM0xZGoK3HXoNYNF) | 2:39 |
 | 100 | [Misser](https://open.spotify.com/track/731dIUADAcSxYGVKz09evn) | [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2), [Anderblast](https://open.spotify.com/artist/4IxQ7KFeYjNzc0g7CK2ujp) | [Misser](https://open.spotify.com/album/4M6hUgAWAfD0EE0m4RhSuH) | 3:39 |
 
-Snapshot ID: `MTY2Njk2NzMxMCwwMDAwMDAwMDcwY2I2NGZlYmNmMGViZDFkN2FkNGIwNzlhNDk3NGRj`
+Snapshot ID: `MTY2Njk2NzMxMCwwMDAwMDAwMGU2MDYwODBlYzBmOGUyYmM0YzIwMjVlOTk3ZWMyYTA4`

@@ -1,12 +1,12 @@
 {
   "description": "As novidades e estrelas do pop que est\u00e3o explodindo no Spotify. \u2728 Foto: Black Eyed Peas, Anitta, El Alfa\n",
-  "num_followers": 102886,
+  "num_followers": 102929,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3MDQyOSwwMDAwMDAwMGMxMGU1YWU5YTQxNmQxNTNiMjViZWRjYzM4Y2ZmYjU0",
+  "snapshot_id": "MTY2Njk3MDQyOSwwMDAwMDAwMDg3MjM1ZTYwZWMyOTI4ZjcyYTIzM2JiZjBjM2NkYzUz",
   "tracks": [
     {
       "added_at": "2022-10-28 15:20:29",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "Songs of Sonder",
-        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 189080,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "Songs of Sonder",
+        "url": "https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
-        "name": "2step (feat. Chefin)",
-        "url": "https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "2step (feat. Chefin)",
-      "url": "https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 208604,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
+        "name": "2step (feat. Chefin)",
+        "url": "https://open.spotify.com/album/1Cu9w3jFSFKHa1YckwnUFW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "2step (feat. Chefin)",
+      "url": "https://open.spotify.com/track/72DbvEOeqtJbKAX9GLzRER"
     },
     {
       "added_at": "2022-10-28 15:20:29",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-10-28 15:20:29",
       "album": {
+        "name": "Daddy\u2019s Eyes (Acoustic Versions)",
+        "url": "https://open.spotify.com/album/1Dse14nLe9THBp0Lt4FHz5"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 184973,
+      "name": "Daddy's Eyes - Stripped Version",
+      "url": "https://open.spotify.com/track/4sSOflpDatjmCva0P9GxZA"
+    },
+    {
+      "added_at": "2022-10-28 15:20:29",
+      "album": {
         "name": "Family (feat. IZA, Ty Dolla $ign & A Boogie Wit da Hoodie)",
         "url": "https://open.spotify.com/album/6cthT1KP1drgL7X8Uf0K31"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 158994,
       "name": "Family (feat. IZA, Ty Dolla $ign & A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/4POyIypAT6qv6T4sSKd8aR"
-    },
-    {
-      "added_at": "2022-10-28 15:20:29",
-      "album": {
-        "name": "Daddy\u2019s Eyes (Acoustic Versions)",
-        "url": "https://open.spotify.com/album/1Dse14nLe9THBp0Lt4FHz5"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Daddy's Eyes - Stripped Version",
-      "url": "https://open.spotify.com/track/4sSOflpDatjmCva0P9GxZA"
     },
     {
       "added_at": "2022-10-28 15:20:29",

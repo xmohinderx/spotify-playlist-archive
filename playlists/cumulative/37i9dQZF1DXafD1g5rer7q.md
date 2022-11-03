@@ -4,7 +4,7 @@
 
 > Create the new vibe by mixing in the retro sounds.
 
-164 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
+165 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/6MFAOS4DnvWe0ANdEUS1lG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2022-07-28 |  |
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2022-07-28 |  |
 | [Move Up](https://open.spotify.com/track/1wyg0x1IvNNSWv8JWxKpRn) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Move Up](https://open.spotify.com/album/0iX0mDDPY7A5ayoPza4tpK) | 2:59 | 2022-06-30 | 2022-07-24 |
-| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 |  |
+| [Mr\. Saxobeat](https://open.spotify.com/track/2dmZy75CTSv6BFo7IbO0eK) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Mr\. Saxobeat](https://open.spotify.com/album/70TSV0yHReXgd8pnbnrMmz) | 2:31 | 2022-04-21 | 2022-11-03 |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-04-14 |  |
 | [My Heart's Been Waiting for You \(feat\. Duvall\)](https://open.spotify.com/track/5CDdnP62YjCVbp8epDMdLY) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [My Heart's Been Waiting For You \(feat\. Duvall\)](https://open.spotify.com/album/1JXZJkssqEVjgN6hE0lVVW) | 3:26 | 2022-06-02 | 2022-07-28 |
 | [My Loneliness \- Jake Tarry Remix](https://open.spotify.com/track/6uqOSS7xyQqAYFSgd7oM0A) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [My Loneliness \(Jake Tarry Remix\)](https://open.spotify.com/album/2bLmdVUZ5XNg5kz5FGMF7E) | 2:41 | 2022-04-14 | 2022-07-29 |
@@ -115,6 +115,7 @@
 | [One Last Dance](https://open.spotify.com/track/3KFGSaINkrBytfgfIlPKiT) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Trans\-X](https://open.spotify.com/artist/4JyfkCTV9FO5Yipee3f9EI) | [One Last Dance](https://open.spotify.com/album/1um2wZhBIXvkGDpQs17oWQ) | 2:45 | 2022-04-21 | 2022-06-12 |
 | [Ooh Girl \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1mKNyZCNDueEASgBgZuLdA) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Ooh Girl \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/3wXCIYqdw64MOR8pJtKvPQ) | 2:48 | 2022-04-14 | 2022-04-21 |
 | [Papa](https://open.spotify.com/track/3obAduhRTVHYojRBAINwSg) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Papa](https://open.spotify.com/album/0Z0FvARli6slgZbISwsXJ8) | 2:50 | 2022-04-21 | 2022-06-21 |
+| [Party Shaker](https://open.spotify.com/track/2jS3ohHKsvGQi0LUWbrFc4) | [R.I.O.](https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [Nicco](https://open.spotify.com/artist/56JVNVix1HgLwxGGHnSAdq) | [Party Shaker](https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D) | 2:39 | 2022-10-24 |  |
 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 | 2022-07-28 |  |
 | [Poppin Bottles](https://open.spotify.com/track/2FIa0Zmilui8GpApF3vF1a) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg) | [Poppin Bottles](https://open.spotify.com/album/1QCMJsTQC8osFp4j35PyKM) | 2:47 | 2022-04-14 | 2022-07-29 |
 | [Promises \(feat\. Reigns\)](https://open.spotify.com/track/0tRBq8hQKbox13zTypuYqM) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Dropgun](https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Promises \(feat\. Reigns\)](https://open.spotify.com/album/0PpHiG2wAGvLZQc40Z0sSm) | 3:16 | 2022-04-21 | 2022-07-08 |

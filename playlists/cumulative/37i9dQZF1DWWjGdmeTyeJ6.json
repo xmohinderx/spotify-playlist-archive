@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Maz",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Saint Harison",
   "name": "Fresh Finds",
   "published_playlist_ids": [
     "79nrZbvopdFTugULd7djIE"
@@ -4753,6 +4753,24 @@
       "duration_ms": 210810,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5"
+    },
+    {
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
     },
     {
       "album": {
@@ -33715,6 +33733,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/1JtEPUQKsLnBjPa3YQnAG1"
+      },
+      "artists": [
+        {
+          "name": "Mati",
+          "url": "https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161330,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/0PNqLl3M7EfhMHXKodY8PM"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/0abvZEzTy1FhekP4UYAly1"
       },
       "artists": [
@@ -47273,6 +47309,24 @@
       "duration_ms": 175562,
       "name": "Why",
       "url": "https://open.spotify.com/track/7Gk42CsHgDuD5jVMs57GUG"
+    },
+    {
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "album": {

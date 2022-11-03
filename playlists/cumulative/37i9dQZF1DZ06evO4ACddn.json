@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Place Isn't Lost",
+        "url": "https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178588,
+      "name": "Place Isn't Lost",
+      "url": "https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c"
+    },
+    {
+      "album": {
         "name": "Things Will Matter (Redux)",
         "url": "https://open.spotify.com/album/5Pr1REYMnyucyL3tC1V9Zr"
       },

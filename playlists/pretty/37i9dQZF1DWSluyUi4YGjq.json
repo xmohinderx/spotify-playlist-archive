@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Alvvays on cover!",
-  "num_followers": 21077,
+  "num_followers": 21098,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMGMxNWZkN2NlNWYzNGFkZjVlN2QxMGVmNTE0MjhlMWRi",
+  "snapshot_id": "MTY2NjkwOTE3NiwwMDAwMDAwMDE5ODFlZjQwOThmMzhlNDkwNTE5NDBmY2FmOTUzZDFh",
   "tracks": [
     {
       "added_at": "2022-09-29 00:07:21",
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0i5zjtoRR0U2715BEgUsdS"
     },
     {
-      "added_at": "2022-11-02 01:18:04",
+      "added_at": "2022-11-03 01:11:08",
       "album": {
         "name": "T.W.I.N.",
         "url": "https://open.spotify.com/album/64wKY2vc3FLDD3CwD68vBz"
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-12-08 15:59:07",
-      "album": {
-        "name": "Death Spells",
-        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
-      },
-      "artists": [
-        {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
-        }
-      ],
-      "duration_ms": 387065,
-      "name": "Drag Me into the Woods",
-      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
-    },
-    {
       "added_at": "2022-05-03 02:08:01",
       "album": {
         "name": "Destiny XL",
@@ -727,6 +711,22 @@
       "duration_ms": 189673,
       "name": "eightball",
       "url": "https://open.spotify.com/track/6OvX3WPe2CeyLRVsy3yFxz"
+    },
+    {
+      "added_at": "2021-12-08 15:59:07",
+      "album": {
+        "name": "Death Spells",
+        "url": "https://open.spotify.com/album/3L9kfqui54S1V2MvOHKmJC"
+      },
+      "artists": [
+        {
+          "name": "Holy Fawn",
+          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
+        }
+      ],
+      "duration_ms": 387065,
+      "name": "Drag Me into the Woods",
+      "url": "https://open.spotify.com/track/54pMqFXx7X3d5DH2xoTamD"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1017,6 +1017,26 @@
       "url": "https://open.spotify.com/track/0dGFsu0DQET42B0AJrPfQc"
     },
     {
+      "added_at": "2022-08-03 04:10:44",
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 231929,
+      "name": "atonement",
+      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pipe Dreams",
@@ -1049,26 +1069,6 @@
       "url": "https://open.spotify.com/track/5lQ5Tnlf8A9uFvTjz8uALp"
     },
     {
-      "added_at": "2022-08-03 04:10:44",
-      "album": {
-        "name": "What Kind of Blue Are You?",
-        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 231929,
-      "name": "atonement",
-      "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Winks & Kisses: Crackled",
@@ -1083,6 +1083,22 @@
       "duration_ms": 396253,
       "name": "Shirley Temple Tidal Wave",
       "url": "https://open.spotify.com/track/0Gz3IknZYVtHaZ0w6CyVMl"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Gemelos C\u00f3ctel",
+      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
     },
     {
       "added_at": "2022-04-22 18:16:47",
@@ -1103,38 +1119,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Nature Heart Software",
-        "url": "https://open.spotify.com/album/25NpVtdgL29klIrre3mion"
-      },
-      "artists": [
-        {
-          "name": "Pia Fraus",
-          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
-        }
-      ],
-      "duration_ms": 217728,
-      "name": "Pretend to Be Here",
-      "url": "https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 231640,
-      "name": "Gemelos C\u00f3ctel",
-      "url": "https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/6GSS7qv0QGIdTyvbbd8yZd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 247200,
       "name": "Drift",
       "url": "https://open.spotify.com/track/61iCA0ReZHTA7f8ZaKZyEg"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Nature Heart Software",
+        "url": "https://open.spotify.com/album/25NpVtdgL29klIrre3mion"
+      },
+      "artists": [
+        {
+          "name": "Pia Fraus",
+          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Pretend to Be Here",
+      "url": "https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1261,6 +1261,22 @@
       "url": "https://open.spotify.com/track/0QnzDELjpEoz8DkylcrlCj"
     },
     {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 405324,
+      "name": "S.W.I.M.",
+      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
+    },
+    {
       "added_at": "2022-09-03 04:19:36",
       "album": {
         "name": "Surprise",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2P71q1cH8pCpiBvQNnkZMJ"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 405324,
-      "name": "S.W.I.M.",
-      "url": "https://open.spotify.com/track/41qO4ILS1Gm4A1Szf25pz3"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll"
       },
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
-      },
-      "artists": [
-        {
-          "name": "The Pains Of Being Pure At Heart",
-          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Heart in Your Heartbreak",
-      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Our Goal to Realise",
         "url": "https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 197563,
       "name": "Our Goal to Realise",
       "url": "https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/7Hif0SCVj3oHys2QsTSWiZ"
+      },
+      "artists": [
+        {
+          "name": "The Pains Of Being Pure At Heart",
+          "url": "https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Heart in Your Heartbreak",
+      "url": "https://open.spotify.com/track/5jTEWDfM9CQO7twh9a299R"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/0fk0PlLPH4ko6acyM6ajPY"
     },
     {
-      "added_at": "2022-09-29 01:17:03",
-      "album": {
-        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
-        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
-      },
-      "artists": [
-        {
-          "name": "Codie",
-          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Mobius",
-      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pica",
@@ -1439,6 +1423,22 @@
       "duration_ms": 311912,
       "name": "Pica",
       "url": "https://open.spotify.com/track/3XHF4nwGiYuGufZVpdGjvF"
+    },
+    {
+      "added_at": "2022-09-29 01:17:03",
+      "album": {
+        "name": "\u76f8\u5c0d\u6027\u975c\u6b62",
+        "url": "https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi"
+      },
+      "artists": [
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Mobius",
+      "url": "https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1471,6 +1471,26 @@
       "duration_ms": 265600,
       "name": "While My Waves Wonder",
       "url": "https://open.spotify.com/track/5dyA5FqCFFmkA4L7dxBmvQ"
+    },
+    {
+      "added_at": "2022-09-11 03:41:26",
+      "album": {
+        "name": "What Kind of Blue Are You?",
+        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 245219,
+      "name": "good",
+      "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1519,26 +1539,6 @@
       "duration_ms": 231696,
       "name": "Fast N All",
       "url": "https://open.spotify.com/track/0E6A5gwmEulCFPewEGpJIx"
-    },
-    {
-      "added_at": "2022-09-11 03:41:26",
-      "album": {
-        "name": "What Kind of Blue Are You?",
-        "url": "https://open.spotify.com/album/78h5X8ibgjBxrM48kvYLGF"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 245219,
-      "name": "good",
-      "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1717,6 +1717,30 @@
       "url": "https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM"
     },
     {
+      "added_at": "2022-04-09 04:56:08",
+      "album": {
+        "name": "Al Rev\u00e9s (feat. Petite Amie)",
+        "url": "https://open.spotify.com/album/4VP9sto7vsed9Qi6wjmklj"
+      },
+      "artists": [
+        {
+          "name": "Charles Spearin",
+          "url": "https://open.spotify.com/artist/3PEieAx7awxOPIdseRJuFb"
+        },
+        {
+          "name": "iiis",
+          "url": "https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D"
+        },
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 195312,
+      "name": "Al Rev\u00e9s - feat. Petite Amie",
+      "url": "https://open.spotify.com/track/7MdUqzrHXeTk2zf55YXqM4"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Pastel",
@@ -1731,22 +1755,6 @@
       "duration_ms": 205417,
       "name": "Die Happily",
       "url": "https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Autumn, Again",
-        "url": "https://open.spotify.com/album/2iME9zWaS1jUcztTmzPHSB"
-      },
-      "artists": [
-        {
-          "name": "A Sunny Day In Glasgow",
-          "url": "https://open.spotify.com/artist/6ri0XKbaMvGEQ6r7fSee8g"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "Calling it love isn't love (Don't fall in love)",
-      "url": "https://open.spotify.com/track/4CQExLcRw5XWiWL1FqwE8J"
     }
   ],
   "unique_name": "Shoegaze Now",

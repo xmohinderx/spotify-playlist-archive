@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 165720,
       "name": "Hallyday",
       "url": "https://open.spotify.com/track/1usHOAm45uCnvTu4IUYZGm"
@@ -1913,6 +1913,36 @@
       "duration_ms": 159832,
       "name": "Ocho",
       "url": "https://open.spotify.com/track/5SHrFAnxCwUkt8fh1r3qLd"
+    },
+    {
+      "album": {
+        "name": "Ocho",
+        "url": "https://open.spotify.com/album/5SRQszVohD4Raw4vcAMknL"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        },
+        {
+          "name": "LASTMONDAY",
+          "url": "https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159832,
+      "name": "Ocho",
+      "url": "https://open.spotify.com/track/63kbEZBD0zATYin8BWju3c"
     },
     {
       "album": {

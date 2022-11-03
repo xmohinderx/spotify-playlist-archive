@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The freshest South African alternative & folk pop jams\. Cover: <a href="https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y?si=2iEbvkXLQ1ywjHS7kYnM7Q">Petite Noir</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,981 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,987 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 66648,
+  "num_followers": 66727,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMDAzYTU0YmI1NTBmMWY3Y2YzYmYzNDZlMGI3Nzg1N2Ey",
+  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMGMzNjNmZGY3MDIyZmJjM2E1ODRhNmM2OTdhYTY3NDI1",
   "tracks": [
     {
       "added_at": "2022-10-27 15:00:00",
@@ -839,22 +839,26 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "\u30a2\u30df",
-        "url": "https://open.spotify.com/album/585o5gifFloGibjfoanTXW"
+        "name": "takt",
+        "url": "https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3"
       },
       "artists": [
         {
-          "name": "ayaho",
-          "url": "https://open.spotify.com/artist/7awsMAHbAIxGXzwOOxme2B"
+          "name": "ryo (supercell)",
+          "url": "https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX"
         },
         {
-          "name": "\u548c\u306c\u304b",
-          "url": "https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI"
+          "name": "Mafumafu",
+          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
+        },
+        {
+          "name": "gaku",
+          "url": "https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts"
         }
       ],
-      "duration_ms": 169085,
-      "name": "\u30a2\u30df",
-      "url": "https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD"
+      "duration_ms": 237500,
+      "name": "takt",
+      "url": "https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

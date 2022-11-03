@@ -2,9 +2,9 @@
 
 ### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
 
-> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Maz
+> The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Saint Harison
 
-2,610 songs - 5 day 23 hr 27 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
+2,613 songs - 5 day 23 hr 36 min - [published](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Beneath The Canopy](https://open.spotify.com/track/5lzIC3119TNtb5I1BiDXkE) | [Nili Fossae](https://open.spotify.com/artist/2OK2TRERh4tmACxlgjIvp0) | [Into The Blue](https://open.spotify.com/album/5VzhW20SptDDaQ3FjjO6IQ) | 5:17 | 2022-03-02 | 2022-03-10 |
 | [berserk](https://open.spotify.com/track/589qel3bVhjWq7XCRZwxLa) | [kei](https://open.spotify.com/artist/4zCj68j0fYRCrgBaDqknoP) | [berserk](https://open.spotify.com/album/4d4JeEYeGI0uZtgtA199NF) | 1:39 | 2022-10-05 | 2022-10-13 |
 | [Beside Me](https://open.spotify.com/track/2VrV7wCTN2LBvhZyv5Xly5) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO) | [Beside Me](https://open.spotify.com/album/17rqZcnWm6lUbrPG8QSS7g) | 3:30 | 2022-05-11 | 2022-05-19 |
+| [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 | 2022-11-02 |  |
 | [Best Dressed Ex](https://open.spotify.com/track/5N6zMhMWFeJmDSgoDGuCC5) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [Best Dressed Ex / Your New Tattoo](https://open.spotify.com/album/7weBwRSKvIl9cMq5Xbtfmz) | 3:33 | 2022-04-06 | 2022-04-14 |
 | [best for you](https://open.spotify.com/track/3gXwidbBHPmJObr7XvaErN) | [sad face.](https://open.spotify.com/artist/3E9nbdWPIrVqkHoQeU003n) | [best for you](https://open.spotify.com/album/0mneaPxKbTvEWIYiUu5GdJ) | 3:43 | 2022-06-15 | 2022-06-30 |
 | [Better](https://open.spotify.com/track/0J9kxY7gBnNP4PJacnepOA) | [Gimme Gimme](https://open.spotify.com/artist/4jFc030lOLNBuF250a3bkp), [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Better](https://open.spotify.com/album/2013h47z3XFsPmF0gI8ElP) | 3:19 | 2022-10-19 | 2022-10-27 |
@@ -1817,6 +1818,7 @@
 | [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 | 2022-08-31 | 2022-09-09 |
 | [Prescriptions](https://open.spotify.com/track/3LYjxu7eqgGPDiPz8ed4pX) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Prescriptions](https://open.spotify.com/album/3hdDCo5ApKuKVWBOPluH5L) | 3:47 | 2022-02-02 | 2022-02-10 |
 | [Pressure](https://open.spotify.com/track/5DMFR9JU4l86FD063mmb7z) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Pressure](https://open.spotify.com/album/5ggd0JyaC9xDcbbIQigiiX) | 2:27 | 2022-09-07 | 2022-09-15 |
+| [Pressure](https://open.spotify.com/track/0PNqLl3M7EfhMHXKodY8PM) | [Mati](https://open.spotify.com/artist/16nyx3S0mgSs2cGlw9Sol8) | [Pressure](https://open.spotify.com/album/1JtEPUQKsLnBjPa3YQnAG1) | 2:41 | 2022-11-02 |  |
 | [Pressure](https://open.spotify.com/track/0cQtpYUTFpLX9knYsQAsJf) | [TraviS](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Pressure](https://open.spotify.com/album/0abvZEzTy1FhekP4UYAly1) | 2:44 | 2022-03-09 | 2022-03-17 |
 | [Pressurized](https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Pressurized](https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe) | 2:16 | 2022-01-12 | 2022-01-20 |
 | [Pretend](https://open.spotify.com/track/5ZdXp6ruQlKZhd0udym6Ud) | [Sebastian Javier](https://open.spotify.com/artist/7jEax0MCKxovBHDU6AaFca) | [Pretend](https://open.spotify.com/album/6t1xNIVOiLRS8Kz45mp4xm) | 2:41 | 2022-03-30 | 2022-04-07 |
@@ -2546,6 +2548,7 @@
 | [WHY](https://open.spotify.com/track/5orKju2PjW1eFaJKri6YmQ) | [Jotti Singh](https://open.spotify.com/artist/24K9MIPDuCz4AoXJlSEgSs) | [WHY](https://open.spotify.com/album/6RBiIzp0RfDDliqyERgJdh) | 2:46 | 2022-01-26 | 2022-02-03 |
 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 | 2022-04-27 | 2022-05-05 |
 | [Why](https://open.spotify.com/track/7Gk42CsHgDuD5jVMs57GUG) | [Whitness](https://open.spotify.com/artist/4qHxPlm5NVNVQslavBr4ad) | [Why](https://open.spotify.com/album/5FDmykc0dbkOM1c3nIFwS7) | 2:55 | 2022-04-06 | 2022-04-14 |
+| [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-02 |  |
 | [Why We Broke Up](https://open.spotify.com/track/6kd5baO6SfzrL8Jc23JSYr) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Why We Broke Up](https://open.spotify.com/album/7j1tsKIEf8epSilZ65cJ11) | 2:56 | 2022-06-08 | 2022-06-16 |
 | [why you so sad?](https://open.spotify.com/track/2Bhc4Iv2xExK4DhWDPyTRx) | [wax works](https://open.spotify.com/artist/1iqQLpQGyiXKKr9URml14f) | [why you so sad?](https://open.spotify.com/album/0XOy1TQIvwAfDs6AKinEQj) | 3:02 | 2022-02-02 | 2022-02-10 |
 | [Why You Wanna](https://open.spotify.com/track/2HdXu7KYcTU1amXr8tN95b) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Noah Klein](https://open.spotify.com/artist/6v46qXvQK6xsSibC2xnftD) | [Why You Wanna](https://open.spotify.com/album/4PMNtKV2Nf6iXm502kBGWj) | 3:11 | 2022-01-12 | 2022-01-20 |

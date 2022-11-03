@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-299 songs - 18 hr 3 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+300 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Brooklyn Ballers](https://open.spotify.com/track/5rLvASDpyKgO9pP1tO6LEr) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Brooklyn Ballers](https://open.spotify.com/album/0KAnKmRLfpp4cl7no7MMk9) | 4:22 | 2022-04-11 |  |
 | [Cabrio](https://open.spotify.com/track/0s8pNfoWRBD2yVGW1A8U5A) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Cabrio](https://open.spotify.com/album/0ZBqW1VjcmL4bjeuJhYlxa) | 2:19 | 2021-12-07 | 2022-04-21 |
 | [Cake](https://open.spotify.com/track/2ygZBYHY5708auyuPShucL) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Cake](https://open.spotify.com/album/5DiX06MBaTKEH2DpiZ5UGp) | 3:35 | 2022-04-11 | 2022-04-20 |
-| [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 | 2021-12-07 |  |
+| [Can You Feel It](https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Bonus Tracks\)](https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2) | 3:09 | 2021-12-07 | 2022-11-03 |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7s47cTLl4j1JKawu308yId) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Forward](https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx) | 3:17 | 2022-04-11 |  |
 | [Can't Lie](https://open.spotify.com/track/2u0qxXtibsuJW8b3V8m2EG) | [J P Rose](https://open.spotify.com/artist/0srIcdeVQQaftAQnLSUcAq) | [Can't Lie](https://open.spotify.com/album/75mmw9lDt2DfnRLllkwN3A) | 2:41 | 2021-12-07 | 2022-04-28 |
 | [Cascade](https://open.spotify.com/track/1RIbEnRRMMgKxbpiGCV0FU) | [Hashira](https://open.spotify.com/artist/0gTFdxCPLzEUNtbML5pcFv) | [Cascade](https://open.spotify.com/album/7EFUTNFlhR41QUsEYL3KU6) | 5:10 | 2021-12-07 | 2022-04-17 |
@@ -123,6 +123,7 @@
 | [Gravitate](https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Gravitate](https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb) | 5:41 | 2022-04-11 | 2022-07-29 |
 | [Groove 32](https://open.spotify.com/track/3Zr60HMgmHnA4gg0gMTVkO) | [Khotin](https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk) | [Finds You Well](https://open.spotify.com/album/4I9x9IPVmztrxjsa9k1lAZ) | 3:50 | 2021-12-07 | 2022-07-29 |
 | [Gunning For Fees](https://open.spotify.com/track/003oYjviEtMybWtnTa0lln) | [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx), [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Gunning For Fees](https://open.spotify.com/album/4W3ebwBP0FhfNleHqY0qtb) | 2:14 | 2021-12-07 | 2022-07-13 |
+| [Half Hour Verve](https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 4:05 | 2022-06-20 |  |
 | [Half Hour Verve](https://open.spotify.com/track/141xElf21pwBjWf9EXYmCu) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Half Hour Verve](https://open.spotify.com/album/4iHWnc9utDoAZfW5dJnoit) | 4:05 | 2021-12-07 | 2022-07-29 |
 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 | 2022-06-20 | 2022-10-15 |
 | [Hands On](https://open.spotify.com/track/0YmU22gCHDKFejuvI8nDou) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [JMF](https://open.spotify.com/artist/6V5X6OhHNqA0q01XiQHF8I) | [Hands On](https://open.spotify.com/album/6H1ArOOmdPY8XYp1x1pXem) | 6:06 | 2021-12-07 | 2022-06-04 |

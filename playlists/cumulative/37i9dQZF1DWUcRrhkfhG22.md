@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes.
 
-79 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
+80 songs - 5 hr 55 min - [published](https://open.spotify.com/playlist/7j5PeJeRKR16JZLphjYAJm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Break\-Out](https://open.spotify.com/track/27pmnmNu2OOktpgfXqC6Xl) | [Rodney Stepp](https://open.spotify.com/artist/02mMWXpx6Kkkr55vi4iyhf) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 5:47 | 2020-09-18 |  |
 | [Breathe Deeper](https://open.spotify.com/track/51nYrq1zvDorGijDA0hLC1) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Breathe Deeper](https://open.spotify.com/album/7qkQOjSJbwUzRIFMdvXMQf) | 5:13 | 2022-03-18 |  |
 | [Call Me Up](https://open.spotify.com/track/2JGRHnNYsYsWGFZsAv3uvS) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork: Deluxe Edition](https://open.spotify.com/album/4lPn10rqeU3aSMSApE1Ff8) | 4:11 | 2020-09-18 |  |
-| [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 | 2020-09-18 |  |
+| [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 | 2020-09-18 |  |
+| [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 | 2020-09-18 | 2022-11-03 |
 | [Computer Funk](https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 6:32 | 2020-09-18 |  |
 | [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 | 2020-09-18 |  |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 |  |

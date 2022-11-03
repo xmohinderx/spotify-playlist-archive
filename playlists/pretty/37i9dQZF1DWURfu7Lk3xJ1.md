@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 
 > Focus the mind with these calming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,346 likes - 199 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,466 likes - 199 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 103 | [Shadows](https://open.spotify.com/track/2CuHpzNh7yi3j8w9vLOSCg) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Tranquil Teddy](https://open.spotify.com/artist/52Mg3MSOqtZjEWuhJcsaU0) | [Shadows](https://open.spotify.com/album/2jj7bRZJxB62VLBrdsxWHD) | 2:50 |
 | 104 | [first kiss](https://open.spotify.com/track/2sElGQDxRv0426H5hjvTck) | [Blocktane](https://open.spotify.com/artist/2DL1LxN8dHBG1tI3Q3TlK7) | [her smile](https://open.spotify.com/album/0beXtiM7Lbld4dW7wGiPTe) | 2:03 |
 | 105 | [Daffodil](https://open.spotify.com/track/5hX2PkApzbk9jw4bwz5MYo) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Daffodil](https://open.spotify.com/album/2vqbcYmHOcCq98XNHcOuQr) | 2:23 |
-| 106 | [ataraxy](https://open.spotify.com/track/1Me9xmon6ukRkMTW84tqc6) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Transcendence](https://open.spotify.com/album/5Dh4GgreJtAgCBFPbq0qyB) | 2:54 |
+| 106 | [ataraxy](https://open.spotify.com/track/7iMJDkT8ruOLmRvnxccgNP) | [Arya](https://open.spotify.com/artist/1m0tdSviN7MEKE4ito6M0L), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Transcendence](https://open.spotify.com/album/1JC56s6x6yG7YCJbacEaED) | 2:54 |
 | 107 | [Raven's Song](https://open.spotify.com/track/3wt9M9GdG9IGYvyJeezaHT) | [Kaidon Roddy](https://open.spotify.com/artist/1Cp9rtBne3LPozzNLTJ9dy), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Raven's Song](https://open.spotify.com/album/6itGUdmcWnqHbI5ytB9qsr) | 2:12 |
 | 108 | [A Comfortable Place](https://open.spotify.com/track/0ESeRwwITsNX7WHjXNr1Qr) | [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA), [Bitter Blossom](https://open.spotify.com/artist/5d66sWR2eYa7f627BC2t6Q) | [A Comfortable Place](https://open.spotify.com/album/0jhliMIQ1EekdqZ1t5mSOf) | 3:07 |
 | 109 | [Starlight](https://open.spotify.com/track/3MxDHKNDbOzqORspMt9Svg) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [Gyatso](https://open.spotify.com/artist/6qUpXEPXKjsXpaBnCVhlwY) | [Starlight](https://open.spotify.com/album/3JHomhfWakRZAXmyTjW3AY) | 2:16 |
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 149 | [Eventide](https://open.spotify.com/track/4zS6aF52hDz8jDszrwxzGU) | [Colours in Context](https://open.spotify.com/artist/4CHVFfmgOpcOMB3d3B0uwO) | [Eventide](https://open.spotify.com/album/6BCRameozm5s6beRaxpGQx) | 2:55 |
 | 150 | [midnight](https://open.spotify.com/track/58p2CheTGFg41WQifXMww6) | [drowsy](https://open.spotify.com/artist/0GlXvaYL6TY3zsZPQBk9sd) | [midnight](https://open.spotify.com/album/4e08g8EbIj7THGU4R1eV6K) | 1:58 |
 | 151 | [Aural Winds](https://open.spotify.com/track/5xhAr8ax48USCJ1tUdCPed) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Aural Winds](https://open.spotify.com/album/76zoJwuj35uMd4rM6u6g8L) | 2:49 |
-| 152 | [Thinking Of ...](https://open.spotify.com/track/7sUTDV8jMnxy9hFEQSSPcP) | [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV), [VNPR](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Around The Moon](https://open.spotify.com/album/0BdxdW0yxKKGUeryEMPwze) | 1:56 |
+| 152 | [Thinking Of ...](https://open.spotify.com/track/7sUTDV8jMnxy9hFEQSSPcP) | [droemsk](https://open.spotify.com/artist/1BCaWmZ5a7IMTP5EFSPkfL), [Tree Climber](https://open.spotify.com/artist/4JklWwTFWnCHDOa8Vc7YHV), [vnpr](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Around The Moon](https://open.spotify.com/album/0BdxdW0yxKKGUeryEMPwze) | 1:56 |
 | 153 | [Misunderstanding](https://open.spotify.com/track/61pctYFvw8aR69aAXvikcl) | [Darsena](https://open.spotify.com/artist/1BeDagLSzc3lMXJm0NSKNV), [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Misunderstanding](https://open.spotify.com/album/1WgYuK73Ht4aMb8p06rWcj) | 2:32 |
 | 154 | [Breakfast in bed](https://open.spotify.com/track/4gYwQHBvLabDAPj2tOKPov) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Breakfast in bed](https://open.spotify.com/album/30eBqj9VqxVdVL4eVKkWoM) | 2:08 |
 | 155 | [In Love With The Sky](https://open.spotify.com/track/2B8kKzd1DqlQvRAYGpWChj) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [In Love With The Sky](https://open.spotify.com/album/08wYnmfnjarv1iVQAI16Rc) | 2:50 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURfu7Lk3xJ1.md) - [plain]
 | 198 | [JP Photo Bounce](https://open.spotify.com/track/52drfrfdOabG98VBtK2qwC) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [JP Photo Bounce](https://open.spotify.com/album/47aQvzo4dJD4NR8eKSOiE1) | 2:35 |
 | 199 | [A Rainy Tuesday In July](https://open.spotify.com/track/6Pc9GxMePOMF5ROGrGOpgb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [The Way It Was](https://open.spotify.com/album/1MuvFMh0EKewDWrYHbNT8s) | 1:42 |
 
-Snapshot ID: `MTY2Njk0ODE2NiwwMDAwMDAwMGNmYmIxY2NjODIyOGE3Yzc4OWEzMjExZDM4ODc3YmQ4`
+Snapshot ID: `MTY2Njk0ODE2NiwwMDAwMDAwMGIxZTEzMmNhOGU3MjA1NTU1ZWYzNjg5ZjdlNWY3OGYx`

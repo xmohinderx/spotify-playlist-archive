@@ -1540,6 +1540,28 @@
     },
     {
       "album": {
+        "name": "High On Your Love",
+        "url": "https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx"
+      },
+      "artists": [
+        {
+          "name": "The Waked",
+          "url": "https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV"
+        },
+        {
+          "name": "Nora Andersson",
+          "url": "https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq"
+        }
+      ],
+      "date_added": "2020-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156283,
+      "name": "High On Your Love",
+      "url": "https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68"
+    },
+    {
+      "album": {
         "name": "high.",
         "url": "https://open.spotify.com/album/0a2NtVIkjsLVZycDSLakph"
       },
@@ -3249,7 +3271,7 @@
       ],
       "date_added": "2020-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 196953,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/0s5ibKUNbISHnrBrx1o2nF"

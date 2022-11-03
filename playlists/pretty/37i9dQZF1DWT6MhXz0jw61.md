@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Symba
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,036 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,298 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 5 | [Sacrifices \(feat\. Fridayy\)](https://open.spotify.com/track/3jSGgwZMCfdEOOIxP8JkC2) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Results Take Time](https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9) | 4:08 |
 | 6 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/1pRkGgpQGX6nr8PrO1NMIs) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 4:41 |
 | 7 | [Gratuity](https://open.spotify.com/track/1hegHGW3yUFJxRWOVl5ga9) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Gratuity](https://open.spotify.com/album/3RGJQBgfxj2bYWCoEPoc5e) | 3:37 |
-| 8 | [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 |
+| 8 | [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 |
 | 9 | [One More Chance](https://open.spotify.com/track/0oEpUfyFdrdakg2ZIBPu95) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Subjxct 5](https://open.spotify.com/artist/4h4ObUIJAlK0DodbX1YurV), [Navy Blue](https://open.spotify.com/artist/2PmAn8zBjcG0goqfOmX43A) | [One More Chance](https://open.spotify.com/album/5NXS9OmiHYfXeVLy4DKW9u) | 4:24 |
 | 10 | [Bidding War](https://open.spotify.com/track/66kGv0aBlCByLdNvpDkfCi) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Bidding War](https://open.spotify.com/album/4kIyTYa9PPAoSwR5NnVE59) | 3:12 |
 | 11 | [Aang](https://open.spotify.com/track/1Tq22UsA5ThihqbZvustnR) | [Pivot Gang](https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE) | [Aang](https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [The Happy](https://open.spotify.com/track/5e5Tc4ad1BUNHwclgAWMbH) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [The Happy](https://open.spotify.com/album/5mue8Vi6Sxw3vscmf1Nra1) | 2:33 |
 | 100 | [GOD DID \(feat\. Rick Ross, Lil Wayne, Jay\-Z, John Legend & Fridayy\)](https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 8:21 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGQ3NzJkZGVmOTllMzMzZTgyMzJlNDdjNjg0ZGM1YWUz`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDI5MWU1Zjg5YjkyNjE5MTk0ODM4NzZjODI4NWQ1YmM3`

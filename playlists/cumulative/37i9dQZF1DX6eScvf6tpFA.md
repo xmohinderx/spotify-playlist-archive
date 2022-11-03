@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-126 songs - 6 hr 44 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
+127 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [In In \- Lotic Remix](https://open.spotify.com/track/4qGkSR26dmQG7vu7SvBdB0) | [Resina](https://open.spotify.com/artist/4YwqIO2idfCdo4ZRpihMQY), [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [In In \(Lotic Remix\)](https://open.spotify.com/album/1PKzytYNpLC0E5h5Po9Qs8) | 3:44 | 2021-11-16 | 2022-01-22 |
 | [In The Party](https://open.spotify.com/track/52BJrldggFQyTiW8XrILhO) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 2:17 | 2021-11-16 | 2022-06-10 |
 | [Introvert](https://open.spotify.com/track/0UShrEEVntV8OGruqeFYt7) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Introvert](https://open.spotify.com/album/6Tz74aSvCkoTiekO3SQRY9) | 6:02 | 2021-11-16 | 2022-10-13 |
-| [Introvert](https://open.spotify.com/track/2lbX8Jt97ou14yL9rqG58C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 6:02 | 2022-06-09 |  |
+| [Introvert](https://open.spotify.com/track/1Tva251P6CYwQWpJOedwQ8) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 6:02 | 2022-06-09 |  |
+| [Introvert](https://open.spotify.com/track/2lbX8Jt97ou14yL9rqG58C) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 6:02 | 2022-06-09 | 2022-11-03 |
 | [Jelly](https://open.spotify.com/track/7upI4eeUGFQWpHvFF36p2G) | [Big Homie Ty.Ni](https://open.spotify.com/artist/0IiQOvnmgZpXMLB1fLVYko) | [Jelly](https://open.spotify.com/album/62vEl5UFS0O6XcF7haIZDN) | 2:22 | 2021-11-16 |  |
 | [Jigga Who](https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Outside](https://open.spotify.com/album/5ec2VzJnxnvn4eh2vdJc1Q) | 2:32 | 2021-11-16 |  |
 | [Koroba](https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Koroba](https://open.spotify.com/album/674LMffDQV6mF5JbtvU1Hs) | 2:36 | 2021-11-16 | 2022-01-29 |

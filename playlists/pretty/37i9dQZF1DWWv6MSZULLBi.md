@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,235 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,253 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 42 | [Buzz Cut](https://open.spotify.com/track/3BpEI4vjCFvblmJIKj1ygx) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Buzz Cut](https://open.spotify.com/album/04QmI7yV5m6I8UtUKjiQMs) | 2:42 |
 | 43 | [Hang On To Me](https://open.spotify.com/track/3MR6unFt0DNQ3Vo7QegzzK) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hang On To Me](https://open.spotify.com/album/7z74YoHegtXzQZL50aeyhL) | 3:22 |
 | 44 | [True Patriot Love](https://open.spotify.com/track/0IaYpkm0UInrmPsX0VY6IX) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC), [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [The Window Inn Sessions](https://open.spotify.com/album/5QrNXKz7lvIiz5BQGFsVln) | 4:01 |
-| 45 | [Every Beginning Ends](https://open.spotify.com/track/1cO3IDkpPFM8hk1l9zG9aL) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 2:30 |
+| 45 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
 | 46 | [Pools](https://open.spotify.com/track/1A98z5gHfk228AzC6YGDbc) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Pools](https://open.spotify.com/album/1clKYzpwHKlkkq4pBu6IFK) | 3:49 |
 | 47 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 |
 | 48 | [Safe Flight \- Acoustic](https://open.spotify.com/track/2e8vuU33xtWNOPtPzCcDJa) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Safe Flight \(Acoustic\)](https://open.spotify.com/album/5oIF7vKLlB1trWhyCKIeul) | 3:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 |
 | 100 | [Snake](https://open.spotify.com/track/3AYCM68uOBBJohCXZ107P0) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Snake](https://open.spotify.com/album/0dryzQjbnmvdyOVr2q4Rkr) | 4:04 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMGUwYjY5NjA1YjA1MTgyMTM1NWYyNTNiZDVjNDMxYTkx`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDFjOTc0NzQxMGNlZjk1YzE1NDBjOGNkNGI2ZWEzNTM2`

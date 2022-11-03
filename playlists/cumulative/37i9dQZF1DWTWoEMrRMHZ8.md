@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Francisco, el Hombre
 
-323 songs - 19 hr 34 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
+324 songs - 19 hr 38 min - [published](https://open.spotify.com/playlist/01cf54AteUmLGb18bFZOzr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Lua e Sol](https://open.spotify.com/track/3VWX6p8fx82o1AduNqgDGb) | [Chico Lobo](https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ), [Tetê Espíndola](https://open.spotify.com/artist/6cOiaEg6UzuxJPrMV4ceQM) | [Lua e Sol](https://open.spotify.com/album/0Jv7niaW346J542ad404LL) | 3:38 | 2022-04-29 | 2022-05-14 |
 | [Lágrimas no Mar](https://open.spotify.com/track/4WGZODjcivlNbqhuqD10DC) | [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Vitor Araújo](https://open.spotify.com/artist/0Y94YmDI103Kk0Ff4fi4oa) | [Lágrimas no Mar](https://open.spotify.com/album/24TrG94LGvDdWQjLP2SIFU) | 3:39 | 2021-12-24 | 2022-04-02 |
 | [Mais](https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx) | [Marcelo Perdido](https://open.spotify.com/artist/2WR3bb5fUKqJ65TPcu3dIt), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Mais](https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO) | 2:28 | 2022-02-01 | 2022-04-02 |
-| [Mal Acostumada](https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Mal Acostumada](https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi) | 4:30 | 2022-08-11 |  |
+| [Mal Acostumada](https://open.spotify.com/track/2EnaSv5aZ7vfjlOd2bHDGk) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Mal Acostumada](https://open.spotify.com/album/0Dvz457PJaalNw8ofRGlLi) | 4:30 | 2022-08-11 | 2022-11-03 |
+| [Mal Acostumada](https://open.spotify.com/track/2t1oKq2C9Qa2ZrvwxIe8Ab) | [Alexia Bomtempo](https://open.spotify.com/artist/28HvZHehbCmYkf6o1W8vp9), [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Doce Carnaval](https://open.spotify.com/album/6yeamXA0Sxk8QvgOkRZXXB) | 4:30 | 2022-10-28 |  |
 | [Malê](https://open.spotify.com/track/77yiJ3Bt8o8DDhNosd00nq) | [Pedro Paulo Junior](https://open.spotify.com/artist/4l4xn0qyO8Zr7F0QDDgrXd), [Arthus Fochi](https://open.spotify.com/artist/2Qz4Q1BZizbj4UuUlyhLdj), [Ilessi](https://open.spotify.com/artist/7tFzUF3Tvd65nlJ1Nky7va) | [Malê](https://open.spotify.com/album/04CejgJc5DS7Oy3r29ofZr) | 5:17 | 2022-09-09 | 2022-10-26 |
 | [Mancada](https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n) | [Beth Carvalho e Gilberto Gil](https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM) | [Duetos 2](https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC) | 2:52 | 2022-07-22 | 2022-08-20 |
 | [Mar do Sonhador](https://open.spotify.com/track/2J9VKTodi8CqwvaVCtc77r) | [Cassiano Andrade](https://open.spotify.com/artist/6zpu0t9nfePmnwBBlw63xl), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Mar do Sonhador](https://open.spotify.com/album/7HpLIirkGZXvLooQnnlchA) | 3:14 | 2022-03-03 | 2022-03-11 |

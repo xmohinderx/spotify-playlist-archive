@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,547 songs - 2 day 22 hr 3 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,548 songs - 2 day 22 hr 6 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2022-03-29 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 | 2022-07-27 |  |
 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/2AkcjsKlRbIBYGAgpQVFii) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Amelie from Montmartre](https://open.spotify.com/album/6hzdQgjn3wTJhOUI4cVKu2) | 2:20 | 2021-03-18 | 2022-04-09 |
+| [Con Cariño](https://open.spotify.com/track/5Wp5IP3REfgDJnxKeUOfb3) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Con Cariño](https://open.spotify.com/album/5J12GR7RKMZGO96J7JIZnp) | 2:26 | 2022-10-25 |  |
 | [Connections](https://open.spotify.com/track/3834Hm0CBL2WODWXE5qEcK) | [Michel Brown](https://open.spotify.com/artist/1hkmtdMFegFuNSV5qhrqGZ) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 3:36 | 2022-03-29 | 2022-04-21 |
 | [Connemara](https://open.spotify.com/track/7JinB2F0516WbcPMtFepu6) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Connemara](https://open.spotify.com/album/5OkQ447PqYUX6t0zwSIhND) | 3:07 | 2021-05-09 | 2021-12-19 |
 | [Consistency](https://open.spotify.com/track/6W6yNawhIyfAQQ4TfyuFRB) | [NK\-67](https://open.spotify.com/artist/11TxJf8mz0gmLUK050PyGU) | [Consistency](https://open.spotify.com/album/3j25ulDHGAZEhgYebIqfdL) | 3:00 | 2021-05-11 | 2022-04-18 |
@@ -1238,7 +1239,7 @@
 | [Strata](https://open.spotify.com/track/0NkxSU0b1Jsw6yK2mJZru3) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Sketches](https://open.spotify.com/album/056bSw2h1gakzLfQQN85PG) | 4:33 | 2021-03-11 | 2022-04-17 |
 | [Streams](https://open.spotify.com/track/6jP8veGopi7UjFP8Uk5prz) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As The Years Go By](https://open.spotify.com/album/3mJDPP4Axx9itKVW5SPytr) | 2:14 | 2022-03-24 | 2022-04-18 |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2021-05-17 | 2022-04-10 |
-| [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-06 |  |
+| [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-01-06 | 2022-11-03 |
 | [Sugarcane](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Sugarcane](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 2:24 | 2021-05-04 | 2022-04-15 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2021-11-28 | 2021-11-28 |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-08 |  |

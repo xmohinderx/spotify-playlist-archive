@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127213,
+  "num_followers": 127215,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc1MixlZjg4NTI0ZDIxYmU0YWU1YTkyNGJmZjExOWM1NTI1Nzc2NmQ5OGNh",
+  "snapshot_id": "Mzc1NSw2NDlkZmI2MWE1ZGFiMTZkMmU3ODA5ZTE0MjRjNjY2MjY2YWE0ZTA3",
   "tracks": [
+    {
+      "added_at": "2022-11-02 19:10:15",
+      "album": {
+        "name": "Garden's Edge",
+        "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
+      },
+      "artists": [
+        {
+          "name": "Odsen",
+          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Garden's Edge",
+      "url": "https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir"
+    },
     {
       "added_at": "2022-11-01 16:56:50",
       "album": {
@@ -1071,22 +1087,6 @@
       "duration_ms": 207000,
       "name": "Once Upon A World",
       "url": "https://open.spotify.com/track/0OsxgJTV7hlPz6AkSW2Luz"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/5ZP5RXBdCFckiXwXN6tWp8"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/26g9KhoTTaEG4IM1uTkwZ4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

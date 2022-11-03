@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 323495,
+  "num_followers": 323960,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDQ1NDg0MzY0M2RlYzBjNjk0ZjMzZTc3MjllZmVlMDYx",
+  "snapshot_id": "MTY0OTg2MjE5NywwMDAwMDAwMDg1MGUwOTYzNmYyYTg3Y2FhYTA3ZjlhMGVkZGU1MDhi",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:17",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Produced & Remixed",
-        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
-      },
-      "artists": [
-        {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
-        }
-      ],
-      "duration_ms": 515173,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "The New Daylight (Radio Versions)",
         "url": "https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 230146,
       "name": "Till The Sky Falls Down",
       "url": "https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Produced & Remixed",
+        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        }
+      ],
+      "duration_ms": 515173,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -711,26 +711,6 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Superstring",
-        "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
-      },
-      "artists": [
-        {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
-        },
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Superstring - RANK 1's Radio Edit",
-      "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
         "name": "Southern Sun / Ready Steady Go",
         "url": "https://open.spotify.com/album/10vaUmlTOpclr1x7xjYS8h"
       },
@@ -755,18 +735,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
-        "name": "Hudson Street",
-        "url": "https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD"
+        "name": "Superstring",
+        "url": "https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3"
       },
       "artists": [
         {
-          "name": "Agnelli & Nelson",
-          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
         }
       ],
-      "duration_ms": 417306,
-      "name": "Everyday - Extended Mix",
-      "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
+      "duration_ms": 187520,
+      "name": "Superstring - RANK 1's Radio Edit",
+      "url": "https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -787,6 +771,22 @@
       "duration_ms": 215480,
       "name": "Happiness Happening - Lange Remix",
       "url": "https://open.spotify.com/track/5FzfJkVJSn8JrYe58uM5O5"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
+        "name": "Hudson Street",
+        "url": "https://open.spotify.com/album/2Uxdu2VRsTj2AIUI38VNfD"
+      },
+      "artists": [
+        {
+          "name": "Agnelli & Nelson",
+          "url": "https://open.spotify.com/artist/25fXoLpROrtnNtQ1ifr8oN"
+        }
+      ],
+      "duration_ms": 417306,
+      "name": "Everyday - Extended Mix",
+      "url": "https://open.spotify.com/track/4ApMz0VzAlMf7EAR1Nn3I5"
     },
     {
       "added_at": "2022-04-13 15:03:17",
@@ -867,6 +867,22 @@
     {
       "added_at": "2022-04-13 15:03:17",
       "album": {
+        "name": "Trance Top 1000 - Ibiza Classics",
+        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "duration_ms": 171231,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
+    },
+    {
+      "added_at": "2022-04-13 15:03:17",
+      "album": {
         "name": "Bits N Pianos",
         "url": "https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 669685,
       "name": "C'est Musique - Armin van Buuren Mix",
       "url": "https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC"
-    },
-    {
-      "added_at": "2022-04-13 15:03:17",
-      "album": {
-        "name": "Trance Top 1000 - Ibiza Classics",
-        "url": "https://open.spotify.com/album/4JYyajxWZaOKHwNGDLRFvL"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        }
-      ],
-      "duration_ms": 171231,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1tSaez12qgU8xkO478Tvgb"
     }
   ],
   "unique_name": "Trance Classics",

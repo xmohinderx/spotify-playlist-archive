@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 71600,
+  "num_followers": 71714,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDUxNmUyNDFiOTcyODgwYzAyNTQyNDljNjQ5NzQ0NWMx",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGYzYzljZjU3OWRkNzM3ZGY2MTZmZWJjNzhlOGM4ZDAy",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/608DP618oad2ENr4JzaYdT"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Rose In Abstract (Portico Quartet Remix)",
         "url": "https://open.spotify.com/album/13Hiad2UiJ7yU9oxvN8A6E"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Star of the County Down (Ambient Mix)",
-        "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
-      },
-      "artists": [
-        {
-          "name": "Sheku Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
-        }
-      ],
-      "duration_ms": 340023,
-      "name": "Star of the County Down - Ambient Mix",
-      "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 235563,
       "name": "G-Minor",
       "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Star of the County Down (Ambient Mix)",
+        "url": "https://open.spotify.com/album/70xARhLSnGj1WxOzTsKXya"
+      },
+      "artists": [
+        {
+          "name": "Sheku Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX"
+        }
+      ],
+      "duration_ms": 340023,
+      "name": "Star of the County Down - Ambient Mix",
+      "url": "https://open.spotify.com/track/6a14yJ4N2r2DFMyAA849gr"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -611,22 +627,6 @@
       "duration_ms": 200259,
       "name": "Traveller - Lambert rework",
       "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/608DP618oad2ENr4JzaYdT"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/62dZwFD4glaESrFFPGrXAN"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Attract",
         "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
+        "name": "Solitudes",
+        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
       },
       "artists": [
         {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+      "duration_ms": 277021,
+      "name": "We Begin",
+      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -731,22 +747,6 @@
       "duration_ms": 215293,
       "name": "Falling Colour",
       "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Solitudes",
-        "url": "https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 277021,
-      "name": "We Begin",
-      "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "We Could Stay",
-        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "We Could Stay",
-      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Human Reworked",
         "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 277653,
       "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "We Could Stay",
+        "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "We Could Stay",
+      "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+      },
+      "artists": [
+        {
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
         "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
       },
@@ -1147,18 +1163,42 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+        "name": "Sound Visions",
+        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
       "artists": [
         {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+          "name": "Matteo Saggese",
+          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
         }
       ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+      "duration_ms": 207315,
+      "name": "Dancing leaves",
+      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Appearing",
+        "url": "https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai"
+      },
+      "artists": [
+        {
+          "name": "Simon Goff",
+          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+        },
+        {
+          "name": "Dobrawa Czocher",
+          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+        }
+      ],
+      "duration_ms": 234181,
+      "name": "Appearing",
+      "url": "https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1179,26 +1219,6 @@
       "duration_ms": 425440,
       "name": "Retour",
       "url": "https://open.spotify.com/track/2mNgkig9gqGeq8DNSp443Z"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Sound Visions",
-        "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
-      },
-      "artists": [
-        {
-          "name": "Matteo Saggese",
-          "url": "https://open.spotify.com/artist/3svbV9ROns7csbmy5yVLm4"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 207315,
-      "name": "Dancing leaves",
-      "url": "https://open.spotify.com/track/76Do68qtelIHgHFecvUZ0Y"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1243,8 +1263,8 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Solitudes, Vol. II",
-        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
+        "name": "Klass (MISSUXO Film Edit)",
+        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
       },
       "artists": [
         {
@@ -1252,9 +1272,25 @@
           "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
         }
       ],
-      "duration_ms": 237827,
-      "name": "Peter",
-      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
+      "duration_ms": 238000,
+      "name": "Klass - MISSUXO Film Edit",
+      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 292044,
+      "name": "Dawn is Near",
+      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1287,22 +1323,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Diane",
-        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pioro",
-          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
-        }
-      ],
-      "duration_ms": 237563,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
       },
@@ -1319,54 +1339,18 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/2audNxAFYm85cY3VNjpt8Z"
+        "name": "Diane",
+        "url": "https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi"
       },
       "artists": [
         {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+          "name": "Daniel Pioro",
+          "url": "https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM"
         }
       ],
-      "duration_ms": 292044,
-      "name": "Dawn is Near",
-      "url": "https://open.spotify.com/track/3GBazB23qS7nwK55xxZRB3"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
-      },
-      "artists": [
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Alexandra Hamilton-Ayres",
-          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
-      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Klass (MISSUXO Film Edit)",
-        "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Klass - MISSUXO Film Edit",
-      "url": "https://open.spotify.com/track/0pmcmbz1zW2ZEYHTJUUKai"
+      "duration_ms": 237563,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1411,22 +1395,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Appearing",
-        "url": "https://open.spotify.com/album/5sDWiSwqGYHVtfUSKSb6ai"
+        "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+        "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
       "artists": [
         {
-          "name": "Simon Goff",
-          "url": "https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90"
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
         },
         {
-          "name": "Dobrawa Czocher",
-          "url": "https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 234181,
-      "name": "Appearing",
-      "url": "https://open.spotify.com/track/4GxMKI7XRRUN0NCRA5g1bt"
+      "duration_ms": 288693,
+      "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
+        "name": "Solitudes, Vol. II",
+        "url": "https://open.spotify.com/album/3X8LQ3lxamJcRUSlOT7pxP"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 237827,
+      "name": "Peter",
+      "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
         "name": "Enfantillages pittoresques: II. Berceuse [Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)]",
         "url": "https://open.spotify.com/album/1oVLQpp20OpriUDJLDZBsS"
       },
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
-      },
-      "artists": [
-        {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
-        }
-      ],
-      "duration_ms": 244531,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 343666,
       "name": "Abandoned Places",
       "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3"
+      },
+      "artists": [
+        {
+          "name": "Angus MacRae",
+          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+        }
+      ],
+      "duration_ms": 244531,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ"
     },
     {
       "added_at": "2022-10-28 04:01:00",

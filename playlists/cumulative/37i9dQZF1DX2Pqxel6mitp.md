@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-127 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+128 songs - 7 hr 58 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-05-25 |  |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-05-25 |  |
 | [Got to Go Back Home](https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6) | [Chris Kramer](https://open.spotify.com/artist/7w3T4vxCmCgARMHf4gyGNZ), [Jens Filser](https://open.spotify.com/artist/5a74UdzcXf4bEDpWYVGAtp) | [Got to Go Back Home](https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR) | 3:54 | 2022-05-25 | 2022-07-28 |
-| [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-25 |  |
+| [Great God Almighty \- Demo, Summer 2018](https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy) | [Mike Trask](https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k) | [Great God Almighty \(Demo, Summer 2018\)](https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4) | 2:58 | 2022-05-25 | 2022-11-03 |
 | [Guitar Man \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:05 | 2022-07-08 |  |
 | [Hangover Blues](https://open.spotify.com/track/1babQrGnsSw3RZ07KvMapY) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Hangover Blues](https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz) | 4:04 | 2022-05-25 |  |
 | [Hear My Train A Comin' \(Acoustic\)](https://open.spotify.com/track/5H7FF15O9yujsj79WGSF3w) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:05 | 2022-05-25 |  |
@@ -116,6 +116,7 @@
 | [T.B\. Blues](https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6) | [Leon Redbone](https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5) | [Mystery Man](https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt) | 4:51 | 2022-05-25 | 2022-07-27 |
 | [Take a Little Walk With Me](https://open.spotify.com/track/6oMY5SOMbPuUPkV0RkNzzH) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [David "Honeyboy" Edwards](https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR) | [Bob Corritore & Friends: Down Home Blues Revue](https://open.spotify.com/album/4kwuIj7SYemazu9mNv85ta) | 2:59 | 2022-07-08 | 2022-07-13 |
 | [Take A Little Walk With Me](https://open.spotify.com/track/0GE8NTX8wh5TodHp85at1R) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Otis Spann Is The Blues](https://open.spotify.com/album/1gOYJ8uvSBe021ieQL2z9f) | 3:29 | 2022-05-25 | 2022-07-29 |
+| [Take A Little Walk With Me \- Remastered](https://open.spotify.com/track/6BW7rDbeWvsz7v6kVFvEay) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Otis Spann Is The Blues \(Remastered\)](https://open.spotify.com/album/5C85Qbmifxkrb5aPfAMZq2) | 3:27 | 2022-10-10 |  |
 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 | 2022-10-15 |  |
 | [Tell Me Baby](https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 2:15 | 2022-05-25 |  |
 | [That's All Right \(Mama\)](https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Mean Ole Frisco](https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr) | 2:20 | 2022-07-08 | 2022-07-29 |

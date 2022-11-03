@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-21",
+      "date_removed": null,
       "duration_ms": 186962,
       "name": "Be The One",
       "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
@@ -2353,10 +2353,28 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 273466,
       "name": "Music, Dance & Love",
       "url": "https://open.spotify.com/track/3QN1ptGLRym2YgBXOy8esa"
+    },
+    {
+      "album": {
+        "name": "Music, Dance & Love",
+        "url": "https://open.spotify.com/album/53RSNtlBrBo908JZQcWo5q"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Music, Dance & Love",
+      "url": "https://open.spotify.com/track/7DbuirumWBjbLNDjImz7H9"
     },
     {
       "album": {
@@ -4756,6 +4774,24 @@
     },
     {
       "album": {
+        "name": "OVER THE 9",
+        "url": "https://open.spotify.com/album/3pUntJ51rsJWQPL6W5Bs9P"
+      },
+      "artists": [
+        {
+          "name": "Koji Kikkawa",
+          "url": "https://open.spotify.com/artist/1S6yZL1OIb51tEtbKg3iZ1"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "\u30ae\u30e0\u30ec\u30c3\u30c8\u306b\u306f\u65e9\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4kRNvgIaeVI3jMzQY85Pio"
+    },
+    {
+      "album": {
         "name": "\u30ae\u30e0\u30ec\u30c3\u30c8\u306b\u306f\u65e9\u3059\u304e\u308b",
         "url": "https://open.spotify.com/album/4DiVPnf9leDsfYNxqTRHH7"
       },
@@ -4767,7 +4803,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 223520,
       "name": "\u30ae\u30e0\u30ec\u30c3\u30c8\u306b\u306f\u65e9\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/7CiyZc2GaNrPdZ4HjaPWCF"
@@ -6715,7 +6751,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 224399,
       "name": "\u7adc\u5dfb\u3044\u3066\u9bae\u8133",
       "url": "https://open.spotify.com/track/53ygKATZIiOKS9DWMKdNwH"

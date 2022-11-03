@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Valdes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,230 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,250 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 74 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 75 | [Frontera](https://open.spotify.com/track/6PegnsNXWaVzIsMY6kKKgm) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [El Poder del Mar](https://open.spotify.com/album/1ruz4l7Q6kJu92ezyaMYYL) | 4:36 |
 | 76 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 |
-| 77 | [Un1Berso](https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG) | [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX), [Calina Manyu](https://open.spotify.com/artist/28DvSrXAPQzvvJXPjKRrzh) | [Un1Berso](https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl) | 3:38 |
+| 77 | [Un1Berso](https://open.spotify.com/track/3i6r5ngWgDrvjyt4SaelaG) | [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX), [Calina Manyü](https://open.spotify.com/artist/2X0kv7hHOBMxnHBoqD4YXa) | [Un1Berso](https://open.spotify.com/album/5Oc993tbcauXPDE4a12xLl) | 3:38 |
 | 78 | [Empate](https://open.spotify.com/track/1ltnHwKy5jFgnJGtW056F0) | [niniomáquina](https://open.spotify.com/artist/7bvnxCbFjrEbiHQgksovJd), [Martín Buscaglia](https://open.spotify.com/artist/2JY8pGyMVoDOvZIOnBxf5W) | [Empate](https://open.spotify.com/album/2uoKUJILAJXhOsAWbutwLg) | 2:58 |
 | 79 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
 | 80 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 |

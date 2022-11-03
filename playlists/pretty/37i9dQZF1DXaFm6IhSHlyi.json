@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 133084,
+  "num_followers": 133133,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDQ5M2JmYTgyYmJkOTViNTVkMTc2Y2MwY2E2MzEwODg1",
+  "snapshot_id": "MTY2NjAxODgwMCwwMDAwMDAwMDBkOWUzMGJiODFjYjcwMGNjOTRjMDkzOWFkZjY5ZjRh",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "A Little Bit Yours",
+        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "A Little Bit Yours",
+      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 173021,
       "name": "Oye",
       "url": "https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "A Little Bit Yours",
-        "url": "https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "A Little Bit Yours",
-      "url": "https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 169748,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Albi Ya Albi",
         "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 206963,
       "name": "Albi Ya Albi",
       "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 169748,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Bad Dreams (Stripped)",
+        "url": "https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 171351,
+      "name": "Bad Dreams - Stripped",
+      "url": "https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u6469\u5929\u52d5\u7269\u5712",
         "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 262597,
       "name": "\u5225\u52c9\u5f37",
       "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Bad Dreams (Stripped)",
-        "url": "https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P"
-      },
-      "artists": [
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 171351,
-      "name": "Bad Dreams - Stripped",
-      "url": "https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "From Midnight To Sunrise",
-        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Al Kawn Janni Maak",
         "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 135060,
       "name": "Al Kawn Janni Maak",
       "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "From Midnight To Sunrise",
+        "url": "https://open.spotify.com/album/4HejSNN1hxuW9AVVE9cr6h"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7wmCFmugk0Qj6xLlvg2ot4"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Media Tinta",
         "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 234340,
       "name": "Media Tinta",
       "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Primera Cita - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1kw5VKLs2JFpg3FjY1RwCL"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Love song",
-        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
-      },
-      "artists": [
-        {
-          "name": "J-JUN",
-          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Tender love",
-      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Night within you",
         "url": "https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 254360,
       "name": "Night within you",
       "url": "https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Love song",
+        "url": "https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Tender love",
+      "url": "https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "I mecht nur wissn wo du bist (I.U.E.)",
-        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
-      },
-      "artists": [
-        {
-          "name": "Popwal",
-          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
-        }
-      ],
-      "duration_ms": 207920,
-      "name": "I mecht nur wissn wo du bist - I.U.E.",
-      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Patience",
         "url": "https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 170156,
       "name": "Patience",
       "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "I mecht nur wissn wo du bist (I.U.E.)",
+        "url": "https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1"
+      },
+      "artists": [
+        {
+          "name": "Popwal",
+          "url": "https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx"
+        }
+      ],
+      "duration_ms": 207920,
+      "name": "I mecht nur wissn wo du bist - I.U.E.",
+      "url": "https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP"
     },
     {
       "added_at": "2022-10-17 15:00:00",

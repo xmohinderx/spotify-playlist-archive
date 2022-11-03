@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-113 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+114 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2022-09-20 |  |
 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 | 2022-01-11 | 2022-03-26 |
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 | 2022-09-21 |
+| [Maghadnich Frakek](https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Maghadnich Frakek](https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA) | 4:45 | 2022-10-30 |  |
 | [Maghboun Wahdi](https://open.spotify.com/track/53jIJkxsMot3n7Reolf6QO) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Maghboun Wahdi](https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6) | 3:27 | 2021-10-19 | 2022-09-21 |
 | [Makach Kifach](https://open.spotify.com/track/3RxlroBoqy7N3wgCUxNHhn) | [Amoune Talens](https://open.spotify.com/artist/7Clbt167lhGJ2yLwPkvJhJ), [Dj Fouzi](https://open.spotify.com/artist/7mYT5gH0ZziVicvSVJAA8O), [DJ Abed](https://open.spotify.com/artist/36f15Tayj3prRQsVNgCvXk) | [Makach Kifach](https://open.spotify.com/album/2lab8N8zcfb2J8XKqvlsn5) | 2:57 | 2022-09-20 | 2022-10-04 |
 | [Makanch Li Yafhamni](https://open.spotify.com/track/0gtRVUfCvjTg7D0yFuiWTo) | [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig), [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb) | [Makanch Li Yafhamni](https://open.spotify.com/album/0gNWk1obpn1exlDtmAtxst) | 4:44 | 2022-09-20 |  |
@@ -112,7 +113,7 @@
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 | 2022-09-21 |
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 |  |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 | 2022-09-21 |
-| [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 |  |
+| [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 |  |
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 |  |
 | [روحو ليها فيت شاب عباس](https://open.spotify.com/track/0qtTV779VjZD2GpRrz2iCi) | [Mohamed Adly](https://open.spotify.com/artist/0YNxTS81q1b2z9qdtJkmCO) | [روحو ليها فيت شاب عباس](https://open.spotify.com/album/2MHopoMeZ4jOVhubBcSmXk) | 4:01 | 2021-10-19 | 2022-09-21 |

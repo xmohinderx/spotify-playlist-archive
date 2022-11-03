@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: GLIM SPANKY
 
-651 songs - 1 day 17 hr 53 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+654 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Fool](https://open.spotify.com/track/0NWKnbVeZuKPOmGnl2gh6q) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5UcrQdw6afVoQqI7tpxTw2) | 2:15 | 2022-05-31 | 2022-07-19 |
 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 | 2022-07-21 | 2022-07-23 |
 | [FREEDOM!](https://open.spotify.com/track/5YThJeUxwNPrWMCmiZZrIQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [FREEDOM!](https://open.spotify.com/album/2MOk0vG38H1M133hRGIkK3) | 3:57 | 2022-06-07 | 2022-07-06 |
+| [Game Over](https://open.spotify.com/track/3RTPhsEAhEOTcw4y7cAnbC) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Game Over](https://open.spotify.com/album/2l28sfvxclSXQOMHgm1fe3) | 3:19 | 2022-11-01 |  |
 | [Girl](https://open.spotify.com/track/1M5x3ztSHcQM0OGNc10CAq) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [Girl](https://open.spotify.com/album/2BXNNQa9tBXq6ZGvdGNdHo) | 3:40 | 2022-08-17 | 2022-09-10 |
 | [Girl](https://open.spotify.com/track/4UxuBBgV1wsv6GIMrYVpTW) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [INNER JOURNEY](https://open.spotify.com/album/01dlkun9ZeuPK7jcTX9Y9v) | 3:40 | 2022-09-08 | 2022-09-15 |
 | [girl](https://open.spotify.com/track/3mqeR1acQPMzeX9n3zPoh6) | [suya suya junction](https://open.spotify.com/artist/1yXOe73eSiTukW4jCKpgMh) | [girl](https://open.spotify.com/album/1sug5oEX1Zf92dHGoUY9e5) | 4:12 | 2022-06-21 | 2022-06-29 |
@@ -182,7 +183,8 @@
 | [PEACE&LOVE](https://open.spotify.com/track/5jNlUYqa30ObfBlzQTx4NI) | [cluppo](https://open.spotify.com/artist/0Hb4LfqZcAmGidmZJJzG2v) | [PEACE&LOVE/Flapping wings](https://open.spotify.com/album/5Cxu4fYWSh4ZqyUyPYy4gt) | 3:10 | 2022-07-14 | 2022-07-21 |
 | [Peep song](https://open.spotify.com/track/3YbO7N66pwaB3yxVQFjrXb) | [KUNG\-FU GIRL](https://open.spotify.com/artist/6BqS4eIwAiTHOtK1f4Rs1V) | [Peep song](https://open.spotify.com/album/5PSNHPbRj7MiF5gmJZxqs2) | 2:54 | 2022-06-02 | 2022-06-07 |
 | [pet](https://open.spotify.com/track/6GtIJouvgsWMPK1bjjRaiu) | [THE 118's](https://open.spotify.com/artist/2R1jsctVv0kiFjq9qz1Zym) | [pet](https://open.spotify.com/album/04RCPjfEdsY06g0MF0Hlgx) | 3:44 | 2022-06-23 | 2022-06-26 |
-| [phantasien](https://open.spotify.com/track/1z12WmAfx1nLLY1XoyupLA) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [A Fusion Of Two Hemispheres](https://open.spotify.com/album/7CXUEEYysNt4buctqyHncp) | 4:15 | 2022-11-01 |  |
+| [phantasien](https://open.spotify.com/track/0U5UB2imOAtwihwzoYwxBP) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [A Fusion Of Two Hemispheres](https://open.spotify.com/album/5iJle5VR8rvyRiNwKNu1lY) | 4:15 | 2022-11-01 |  |
+| [phantasien](https://open.spotify.com/track/1z12WmAfx1nLLY1XoyupLA) | [sphere](https://open.spotify.com/artist/4uBU5O7I0CyLona5bxwQ9N) | [A Fusion Of Two Hemispheres](https://open.spotify.com/album/7CXUEEYysNt4buctqyHncp) | 4:15 | 2022-11-01 | 2022-11-03 |
 | [PLAYER](https://open.spotify.com/track/3vE2BACJCQZ0Ojxyn50Dss) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [PLAYER](https://open.spotify.com/album/6KECSuZPPkN1hyc8MglWXV) | 4:23 | 2022-06-16 | 2022-07-24 |
 | [POOL](https://open.spotify.com/track/6hiLrjPj5RoC632xTspNtK) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [POOL](https://open.spotify.com/album/0jRklgtrDP6D8kMTnNJvhH) | 4:31 | 2022-10-04 | 2022-10-26 |
 | [Power](https://open.spotify.com/track/6GoYRGZ4uLwr2FTEc4A7pZ) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Power](https://open.spotify.com/album/1ELo1NACe1pDRtJjsVC836) | 4:11 | 2022-06-02 | 2022-07-20 |
@@ -234,6 +236,7 @@
 | [Summer Ends](https://open.spotify.com/track/3g8qRMTfUJ8zUUisdzmRfh) | [The tiva](https://open.spotify.com/artist/4QAZydJKmIPBmDHwqp1k6s) | [Summer Ends](https://open.spotify.com/album/1KqJUE3wJ7cB0JLXJiJIJs) | 4:51 | 2022-09-13 | 2022-09-28 |
 | [SUMMER NUDE](https://open.spotify.com/track/7l9onEdVYUK5RPh5TxTSSF) | [POP ART TOWN](https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG) | [SUMMER NUDE](https://open.spotify.com/album/0cDZaBapsWJWOsfAjxK9ah) | 5:21 | 2022-06-28 | 2022-08-03 |
 | [Super Hero](https://open.spotify.com/track/5fGqPgwGLJOiCD3hc3imNv) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Super Hero](https://open.spotify.com/album/4FN8M7IILtVO5KRWmAqWAq) | 2:41 | 2022-05-26 | 2022-07-24 |
+| [SYOUZIKINAHANASHI](https://open.spotify.com/track/44RNH27DJsxihO91CePtnw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [SYOUZIKINAHANASHI](https://open.spotify.com/album/2CfdQb7DJI7oVQbMoAocY2) | 2:37 | 2022-11-01 |  |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-06-07 | 2022-07-20 |
 | [take it easy](https://open.spotify.com/track/2l8LW9K4XkxpEqlncd40A1) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [take it easy](https://open.spotify.com/album/5yX4AYo6pFzmKuxTakgkYo) | 3:20 | 2022-06-02 | 2022-07-29 |
 | [Teal](https://open.spotify.com/track/6fYIb8G0p6F8LDQIgxW7vl) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [AGLIO OLIO](https://open.spotify.com/album/3uyizW7cmxyVHccvL1HDKJ) | 5:12 | 2022-06-02 | 2022-06-04 |
@@ -375,7 +378,7 @@
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2022-05-31 |  |
 | [グッドナイトベイベー](https://open.spotify.com/track/5sYJnoEO3q43mlAX7huztD) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [ポップコーン](https://open.spotify.com/album/0L48DwxY1akUCwSnJnDNbQ) | 3:30 | 2022-05-26 | 2022-07-29 |
 | [ケサランパサラン](https://open.spotify.com/track/310YSoyoKLjghoBMsZJePE) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [ケサランパサラン](https://open.spotify.com/album/4eD6mfO93Aeh5IRXdggnjd) | 2:30 | 2022-07-26 | 2022-07-29 |
-| [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 |  |
+| [ゲームオーバー](https://open.spotify.com/track/6Ht0WEBCr04XNgqz6cEsTk) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ゲームオーバー](https://open.spotify.com/album/0IcKWBOYdCBqlVVa9756Px) | 3:19 | 2022-11-01 | 2022-11-03 |
 | [サイドウォーク](https://open.spotify.com/track/31lmwYElV6tUm79onQ6X9j) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [サイドウォーク](https://open.spotify.com/album/78AUbYz0BsTn6ziFpZb8IT) | 3:50 | 2022-05-26 | 2022-06-08 |
 | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/track/60TyIUjq4CyOoWUG9gaubR) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [サブリナ \(10th Anniversary Version\)](https://open.spotify.com/album/73tELo06Cer78bMDnmMzDf) | 3:37 | 2022-05-26 | 2022-07-18 |
 | [サークル](https://open.spotify.com/track/0enK10VfP1xtCr1FRJntAA) | [マッシュとアネモネ](https://open.spotify.com/artist/1hCMb6ZZq7wlwLouYSgsKj) | [サークル](https://open.spotify.com/album/7tKA1NE12YCS6v17Ebq2zx) | 3:01 | 2022-07-28 | 2022-08-17 |
@@ -571,7 +574,7 @@
 | [朝が来るまで](https://open.spotify.com/track/488MU4VNQ7Ub8aqTHiDOhm) | [sawamay](https://open.spotify.com/artist/0pXaWX4t0zSi9TzhoKBd55) | [朝が来るまで](https://open.spotify.com/album/2CgBUoWARafJ3cxTDjb2Ta) | 6:19 | 2022-06-23 | 2022-06-26 |
 | [東京の夜](https://open.spotify.com/track/1448UWmEPIjOsyhoxT43Hj) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [東京の夜](https://open.spotify.com/album/3RYeTDnWxngNgwObtY1tE2) | 5:00 | 2022-06-02 | 2022-07-05 |
 | [桃色](https://open.spotify.com/track/4lrFiccogYLp3HQQlSBr4r) | [アザーカット](https://open.spotify.com/artist/0fe6FRYZ0d7W0aHQoRQV62) | [桃色](https://open.spotify.com/album/6QA5ytg8lYfqVo1OIF9xx4) | 3:49 | 2022-06-27 | 2022-07-28 |
-| [正直な話](https://open.spotify.com/track/1VKvGWoscAp8V9c8Ij95bw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [正直な話](https://open.spotify.com/album/6nM2IHiqedhJBPGRtvLqq0) | 2:37 | 2022-11-01 |  |
+| [正直な話](https://open.spotify.com/track/1VKvGWoscAp8V9c8Ij95bw) | [hello montesquieu](https://open.spotify.com/artist/4MLdET7CBGlPSXbqyKcwx4) | [正直な話](https://open.spotify.com/album/6nM2IHiqedhJBPGRtvLqq0) | 2:37 | 2022-11-01 | 2022-11-03 |
 | [気になっていく](https://open.spotify.com/track/4bY37i3bRo7ANjXB5EBmj1) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [気になっていく](https://open.spotify.com/album/1b4Q75MDJRgl0dLe6EDWnR) | 3:37 | 2022-06-27 | 2022-06-29 |
 | [水の底](https://open.spotify.com/track/7ifBSzzaHSGdnIoEBIcIUO) | [CuBerry](https://open.spotify.com/artist/4Bzc9zZE7eFanFRzyDkOjq) | [マーメイド](https://open.spotify.com/album/2RplDDyUDfDtESrL5TiCs0) | 3:57 | 2022-09-20 | 2022-09-28 |
 | [永遠が続くのは](https://open.spotify.com/track/3nRht8eUysxlKZbGJ1uF9B) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 5:00 | 2022-06-07 | 2022-06-15 |

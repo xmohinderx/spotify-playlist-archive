@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 142 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 449 likes - 142 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 69 | [Newport Up](https://open.spotify.com/track/6nTU78IraUploReW0vasAl) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Berlin 1959](https://open.spotify.com/album/4YwwiXDPhpiDHD8HpI7dAS) | 4:38 |
 | 70 | [Kissing Bug](https://open.spotify.com/track/2FJljaSzWVJB66P0E11v8Z) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Ballads For Night People](https://open.spotify.com/album/2so70v2boeF065BbF6VcJD) | 2:43 |
 | 71 | [All Day Long](https://open.spotify.com/track/0DIbeVbiZSFHuM7dey6Z5Q) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 2:56 |
-| 72 | [All Heart \- Rehearsal](https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Songbook \(Expanded Edition\)](https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle) | 4:02 |
-| 73 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 |
+| 72 | [Tymperturbably Blue](https://open.spotify.com/track/7hjE25giigr2EMT4YORsIe) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 4:23 |
+| 73 | [All Heart \- Rehearsal](https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Songbook \(Expanded Edition\)](https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle) | 4:02 |
 | 74 | [Killin' Myself \(Original Mix\)](https://open.spotify.com/track/5dh9D9GrBa0n2Q2bbQLmVq) | [Ivie Anderson](https://open.spotify.com/artist/1jEpOIhjQCQlOEzLdGS4bA) | [Cotton](https://open.spotify.com/album/31B65BtXTCOXo72fc3JRZH) | 2:25 |
 | 75 | [Progressive Gavotte](https://open.spotify.com/track/3URrsgBM7nSEhbfPd9J3US) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 2:55 |
 | 76 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `Mjc3ODkxODEsMDAwMDAwMDA4ZDBlYmUwOGVkNzJhZTZhODMwNTZlYWFlODZjZDA4Yg==`
+Snapshot ID: `Mjc3OTA2MjEsMDAwMDAwMDBkYWFlMGY4OTM1YWVmNzIyZmVlN2FmNjdiYjJhOWViNQ==`

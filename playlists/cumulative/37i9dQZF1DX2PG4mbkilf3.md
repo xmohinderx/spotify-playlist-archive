@@ -4,7 +4,7 @@
 
 > This is R&B in Canada, elevate your aura with RealestK.
 
-423 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
+424 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/5Scr3kl4jdyMwylCsvsI3D)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Selfish...](https://open.spotify.com/track/75rgxmX8w67Af5EgyQiyaa) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 3:14 | 2022-02-18 | 2022-04-23 |
 | [Shame On You](https://open.spotify.com/track/2m81AlvTDGiN95KcktNGlJ) | [JYDN HILL](https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2) | [Shame On You](https://open.spotify.com/album/3htnYj3YlMe1IfnjlTs8bn) | 2:28 | 2022-07-15 | 2022-09-03 |
 | [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2022-08-19 |  |
-| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/0p2GBILactIaeRXc4LTyRf) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/5GH9G6VBA5d291GurowMvb) | 3:25 | 2022-10-28 |  |
+| [She Loves Me](https://open.spotify.com/track/3vmbscYhJnfxCdpOFlZwjX) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [She Loves Me](https://open.spotify.com/album/54ArtqMOhrW7TPqgdYOOLs) | 3:25 | 2022-10-28 | 2022-11-03 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-29 | 2022-09-24 |
 | [Shots](https://open.spotify.com/track/1G68PxN1SDCCxkMgHW5rTZ) | [Astrokidjay](https://open.spotify.com/artist/4EqrcmIvzNaisM7z775lyE) | [Rose Out The Mud](https://open.spotify.com/album/5dJ8Zg98nzdo3qCSvLOrzm) | 2:19 | 2022-04-22 | 2022-07-16 |
 | [Signs](https://open.spotify.com/track/3iccRZL7pfvsrTearGjkw1) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Signs](https://open.spotify.com/album/6kKa0FQVC8JhvM9q6B7FMP) | 2:43 | 2022-02-18 | 2022-04-23 |

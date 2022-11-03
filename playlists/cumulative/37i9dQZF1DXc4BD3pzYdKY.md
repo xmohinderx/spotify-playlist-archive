@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover: <br/> Zauntee
 
-707 songs - 1 day 11 hr 38 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
+708 songs - 1 day 11 hr 40 min - [published](https://open.spotify.com/playlist/5C9jrTdmQ9Yxn8FPYTBuYY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [FRONT ROW](https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [FRONT ROW](https://open.spotify.com/album/2OJbLHFcmhmEYLKXm5BByp) | 3:15 | 2021-12-11 | 2022-05-29 |
 | [Ghost](https://open.spotify.com/track/4XhUObUqIGEl0ktONaZ9Oo) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q) | [Ghost](https://open.spotify.com/album/5rOP9eB4N1rFSGVCuYl8cr) | 3:15 | 2021-12-11 | 2022-02-05 |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 |  |
+| [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-10-29 |  |
 | [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 | 2022-08-09 |
 | [Give You My Last](https://open.spotify.com/track/7BaTq18k26aXmT0FJMCudt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Give You My Last](https://open.spotify.com/album/5JrgdyLCtCwoNmVCFkiOZC) | 2:52 | 2022-06-25 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 |  |
@@ -689,7 +690,7 @@
 | [WILDIN](https://open.spotify.com/track/4VcRyBTFNI3pLGdUn1Bf6q) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [WILDIN](https://open.spotify.com/album/6hywvl3tsSHcK4LbdXP8Gj) | 3:03 | 2021-12-11 | 2022-05-29 |
 | [Window Pane \(Pain is Gone Remix\)](https://open.spotify.com/track/1jAupzBklq4tyRb0IvzBnV) | [DaShawn Shauntá](https://open.spotify.com/artist/5c0sCqEmXd6T0uWWcAyis9), [Ruslan](https://open.spotify.com/artist/2GEXrCflKZ5S5ZHBM4LNcV) | [Window Pane \(Pain is Gone Remix\)](https://open.spotify.com/album/6iBolFNDMgCtqhvqPXQyE6) | 2:23 | 2022-05-28 | 2022-06-26 |
 | [Winners](https://open.spotify.com/track/1Nq5wcX1rl3nA4H4NoYVOB) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6) | [Winners](https://open.spotify.com/album/3FYaMMQaQvnImMXpOaWtN2) | 3:14 | 2022-07-17 | 2022-09-13 |
-| [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 | 2022-07-17 |  |
+| [Wins](https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Wins](https://open.spotify.com/album/5UtwE8AZGxOUIIntICw3Bq) | 2:35 | 2022-07-17 | 2022-11-03 |
 | [Wins On Me](https://open.spotify.com/track/2nybUYGqGgFSyAs9DgGxuh) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Tony Tillman](https://open.spotify.com/artist/3ykPxobhwzrQ2a15hEFWAo), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Wins On Me](https://open.spotify.com/album/5E2pgw6HeAFHPxLGwmQ6VZ) | 2:26 | 2021-12-11 | 2022-04-28 |
 | [With Me Now](https://open.spotify.com/track/1l8yaeAZvUvz2pxVsimVRY) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [With Me Now](https://open.spotify.com/album/7tQtISv4zTUMbYVfU1gWr3) | 2:47 | 2021-12-11 | 2022-02-04 |
 | [Without You](https://open.spotify.com/track/1FsGBL397lIzp4oYPLht0E) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs) | [Without You](https://open.spotify.com/album/1xl7tDD0FSHIEVAtPh4TyA) | 3:21 | 2021-12-11 | 2022-04-29 |

@@ -1314,6 +1314,28 @@
     },
     {
       "album": {
+        "name": "Maghadnich Frakek",
+        "url": "https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA"
+      },
+      "artists": [
+        {
+          "name": "Cheb Kader Wahrani",
+          "url": "https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw"
+        },
+        {
+          "name": "Amine La Colombe",
+          "url": "https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285444,
+      "name": "Maghadnich Frakek",
+      "url": "https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A"
+    },
+    {
+      "album": {
         "name": "Maghboun Wahdi",
         "url": "https://open.spotify.com/album/1I8PsxRrpOrwub7GJjYzT6"
       },
@@ -1991,7 +2013,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 285287,
       "name": "\u0627\u0644\u0635\u063a\u0631 \u0645\u0627 \u064a\u062f\u0648\u0645",
       "url": "https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV"

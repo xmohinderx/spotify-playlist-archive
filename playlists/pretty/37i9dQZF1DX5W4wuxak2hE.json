@@ -1,12 +1,12 @@
 {
   "description": "Here's a taste of power pop. <a href=\"spotify:genre:0JQ5IMCbQBLk5woFi85yOT\">Click here for further discovery.</a> Cover: Cheap Trick\n",
-  "num_followers": 127207,
+  "num_followers": 127244,
   "original_name": "Power Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDk0ZDcyZmE1M2RmMThhOTU3NjFlMGNhZjcxYmZkZmE1",
+  "snapshot_id": "MTY2MDc0NjAzNiwwMDAwMDAwMDdiODlkNzNjMzBiOTE1ZjQ0MDBlNDk3ODNkODAyODdh",
   "tracks": [
     {
       "added_at": "2021-12-16 19:14:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-16 19:14:26",
       "album": {
-        "name": "Outside Inside",
-        "url": "https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH"
-      },
-      "artists": [
-        {
-          "name": "The Tubes",
-          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "She's A Beauty - Remastered 1991",
-      "url": "https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo"
-    },
-    {
-      "added_at": "2021-12-16 19:14:26",
-      "album": {
         "name": "Labour of Lust",
         "url": "https://open.spotify.com/album/7c8NVsxXciWMbAMN51GKim"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 210131,
       "name": "Cruel to Be Kind",
       "url": "https://open.spotify.com/track/7D5ycpIrqwGNTQFKmzhDIg"
+    },
+    {
+      "added_at": "2021-12-16 19:14:26",
+      "album": {
+        "name": "Outside Inside",
+        "url": "https://open.spotify.com/album/2WiDQ5arP6dQ5unzoTJ0UH"
+      },
+      "artists": [
+        {
+          "name": "The Tubes",
+          "url": "https://open.spotify.com/artist/7zfhej6FnVXN9LIXs6dcoK"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "She's A Beauty - Remastered 1991",
+      "url": "https://open.spotify.com/track/7HF88mJXq8DpotZohoW2mo"
     },
     {
       "added_at": "2021-12-16 19:14:26",

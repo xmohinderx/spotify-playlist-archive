@@ -4,7 +4,7 @@
 
 > Rain keep a fallin’ round my window pane..\. Blues to warm the soul when there’s no point going outside.
 
-95 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
+96 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7oJ0v1QCs5RqWKmg8kv7zj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Trouble In Mind](https://open.spotify.com/track/4LGB1Oo4LYCH3pmdaE94ce) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [King Of The Blues](https://open.spotify.com/album/2Wr5LRhgVQ9c8MsM4bj7r3) | 3:43 | 2022-05-25 | 2022-07-29 |
 | [Trouble In Mind](https://open.spotify.com/track/6BCPs3UOkxbeTpI7cYsOkk) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Woman Across The River](https://open.spotify.com/album/3iaVJullB48EV1OM2oMXJs) | 3:43 | 2022-07-28 |  |
 | [Trust My Baby](https://open.spotify.com/track/0FsHxi1SVrXjFXFdD3rVo6) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Come On In This House](https://open.spotify.com/album/7uq2JwkJPraf1KndNdU3Lw) | 5:01 | 2022-05-25 | 2022-07-29 |
-| [Trust My Baby](https://open.spotify.com/track/2k7lftnucFcJUufj3QMJwY) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:01 | 2022-07-28 |  |
+| [Trust My Baby](https://open.spotify.com/track/2k7lftnucFcJUufj3QMJwY) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Come On In This House](https://open.spotify.com/album/6keYEl1L883Nzm1EHU6JcB) | 5:01 | 2022-07-28 | 2022-11-03 |
+| [Trust My Baby](https://open.spotify.com/track/3Q3US0kXDyinu7XHpJ3yIZ) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Come On In This House](https://open.spotify.com/album/6C8GwjAgpd0Y7au5jKQ4aA) | 5:01 | 2022-09-30 |  |
 | [Trust My Baby \- Mono Version](https://open.spotify.com/track/3nzlpFJW2uvMzBliyTwois) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:44 | 2022-05-25 |  |
 | [Trying So Hard to Forget](https://open.spotify.com/track/26tvejfVo4iDlMFJYy2vUg) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 4:45 | 2022-05-25 | 2022-07-29 |
 | [Trying So Hard to Forget](https://open.spotify.com/track/4RU0p13ARYDbv2T9z4TQgf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 4:50 | 2022-07-28 |  |

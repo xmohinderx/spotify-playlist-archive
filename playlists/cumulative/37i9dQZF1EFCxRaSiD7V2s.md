@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-263 songs - 13 hr 38 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
+264 songs - 13 hr 42 min - [published](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Know U Anymore \(feat\. Sarah Hyland\)](https://open.spotify.com/track/6Ufv48wYcNp822At8Q4k7w) | [BoTalks](https://open.spotify.com/artist/3wjluyWXDHiiMKxkhaW1em), [Sarah Hyland](https://open.spotify.com/artist/7icfzHg2AhHxy65PU58rCP) | [Know U Anymore](https://open.spotify.com/album/73JMf3o63Tvh9CKx5yrr7N) | 3:11 | 2021-12-27 |  |
 | [Last Person](https://open.spotify.com/track/32HZuMuyydgpFqbuu8omR0) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 3:15 | 2021-12-27 | 2022-08-19 |
 | [Last Person](https://open.spotify.com/track/3uVH59Q8AF1nB7P6D7H6ZJ) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:15 | 2022-08-18 |  |
-| [Led to the Sea](https://open.spotify.com/track/3fP06kl6sHPCwLY2RQA3Yb) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 3:42 | 2021-12-27 |  |
+| [Led To The Sea](https://open.spotify.com/track/3lKhtreSBcXEnVSeXSEWPc) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 3:27 | 2022-11-02 |  |
+| [Led to the Sea](https://open.spotify.com/track/3fP06kl6sHPCwLY2RQA3Yb) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Slack Tide](https://open.spotify.com/album/11MZQCQnyElUdoeuFTFbKA) | 3:42 | 2021-12-27 | 2022-11-03 |
 | [Let's...](https://open.spotify.com/track/6EaDOr30nUHFk4sKpyrEyi) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's.../Here's Looking at You Kid](https://open.spotify.com/album/7tpCMcSB98vXULhqTpC2BA) | 3:49 | 2021-12-27 |  |
 | [Lie to Me](https://open.spotify.com/track/1qLKtFqpyYIqr28rPvAU6z) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Two](https://open.spotify.com/album/5r0Xn9uTzTulJLEjY0WCSd) | 2:52 | 2021-12-27 |  |
 | [Life Serial](https://open.spotify.com/track/2RMEiGcDlj7gnYot6ycVi0) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Songs From Season Six](https://open.spotify.com/album/1rO8TFG6L5LXXyyKhwJmh2) | 2:40 | 2021-12-27 |  |

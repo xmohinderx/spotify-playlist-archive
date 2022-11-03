@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 
 > 유행은 돌고 돌아! 레트로에 새로움을 더한 뉴트로 댄스 음악을 즐겨보세요\. \(커버: SUNMI\(선미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,448 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 76 | [Destiny](https://open.spotify.com/track/5ULuuLKnVJWQpI9VkuJDJX) | [Niel](https://open.spotify.com/artist/1wPvrQKu6dJBeLimAntEuH), [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS), [Nam Dohyon](https://open.spotify.com/artist/25lZDZ43ommDJkO6FzS5gL) | [Destiny](https://open.spotify.com/album/3xcGMdtWOfxnYrCyuoig0W) | 3:49 |
 | 77 | [UNTOUCHABLE](https://open.spotify.com/track/0NVDKNljMvGrJBTj7BoU4H) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:10 |
 | 78 | [JUST 4 U…](https://open.spotify.com/track/4wUJrcKgtHG6ya2DQuoGsk) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [JUST 4 U…](https://open.spotify.com/album/4GNHP9aikaKwjS11EiIBaD) | 4:12 |
-| 79 | [I'm Into You \(with Kirin/Dala/Jungu\)](https://open.spotify.com/track/4VfmEoIMHsRqdVc7eKeVuP) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [RaRa](https://open.spotify.com/artist/18rIUo74IV7M8bmZk9mEgv), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [I'm Into You](https://open.spotify.com/album/6qCu4JWMeHWx9c6xuszME9) | 4:33 |
+| 79 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
 | 80 | [SAY SOMETHING](https://open.spotify.com/track/2gagYYY4R8QimbnFqd96ST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 4:07 |
 | 81 | [Find Somebody Else](https://open.spotify.com/track/1t6ewrLUZ5RrhPKc9PkatT) | [KhaN](https://open.spotify.com/artist/2MvqBmsKl7mOXVWQQqbmNH) | [1987](https://open.spotify.com/album/4T4nrZWwcw0aJScpg2jzYQ) | 3:26 |
 | 82 | [오늘 밤](https://open.spotify.com/track/1x3n7gBG88GX5MRpKMfs9Y) | [이새봄](https://open.spotify.com/artist/1yGfj9yNeriR1yJO5c8nXU) | [오늘 밤 내게로 와](https://open.spotify.com/album/4s2vlriZ7PdhsE6VjQWP9T) | 3:35 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0C07QWzaEB5.md) - [plain]
 | 114 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 |
 | 115 | [On & On](https://open.spotify.com/track/4gphGdxKYkg5keaBePEet7) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Club 33](https://open.spotify.com/album/2GgEeiYUeDvspIUSdi8fdu) | 3:00 |
 
-Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDc1NzNlNzVmOTVkZDdhZDFkODlmM2RlZWY1M2RkYTQ5`
+Snapshot ID: `MTY2NjA5NzE5MiwwMDAwMDAwMDdjMGY4ZDEzM2Q1NWY3ZGNhZWY4NmI0MzhjZWJmMzNl`

@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-92 songs - 3 hr 38 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+94 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Cigarettes and Sex](https://open.spotify.com/track/20hpe9YNgbtggM66QipgWf) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:00 | 2022-09-09 |  |
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2022-09-09 |  |
 | [Dance with Me](https://open.spotify.com/track/55rn9bs7vZBsEK4Y4URraH) | [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [itssvd](https://open.spotify.com/artist/5yaF4LUw7ON1RmE4O8Q03C) | [Love Is the Same as Sadness](https://open.spotify.com/album/4JcORch57yBGLItxgest7E) | 1:27 | 2022-09-09 |  |
-| [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 | 2022-09-09 |  |
+| [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 | 2022-10-14 |  |
+| [Drifting Off](https://open.spotify.com/track/6zDFxF2Mxow4rU9pc7dn7V) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:33 | 2022-09-09 | 2022-11-03 |
 | [Ek Ladki Ko Dekha Toh Aisa Laga \- LoFi](https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Lofi Chill Mix](https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc) | 2:38 | 2022-09-09 |  |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2022-09-09 |  |
 | [Fairy Fountain](https://open.spotify.com/track/7fD72waADOZymEpuQfbiDE) | [Mikel](https://open.spotify.com/artist/5MboRLcEpLbsshOx64OdA6), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Zelda & Chill](https://open.spotify.com/album/3oNO1P0Qlr4oSlMA2MIj67) | 2:44 | 2022-09-09 |  |
@@ -54,7 +55,8 @@
 | [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 | 2022-09-09 |  |
 | [lofi rain](https://open.spotify.com/track/0NDUuWBh1ykEGtIBtD9tAm) | [a girl and a cat](https://open.spotify.com/artist/3uK7MCVwr7FSxnhNKso4Hi) | [lofi study 2021](https://open.spotify.com/album/260iH4R6MRNcDQ79106Icv) | 1:58 | 2022-09-09 |  |
 | [Lofi Rain](https://open.spotify.com/track/0bUYgpgrUaoFouvS0vf6qe) | [Chilled Cougar](https://open.spotify.com/artist/5mxwOjRqpFDSn6zXCqwqiH), [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Lofi Rain](https://open.spotify.com/album/57AgBWZUvxvtK48Iqf4S3F) | 2:00 | 2022-09-09 |  |
-| [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 |  |
+| [Long Walks](https://open.spotify.com/track/1lPsRTNOVRIACJug3VaZ1X) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/6EzlIIHKHZtnpdiTmDLZ9X) | 2:49 | 2022-09-09 | 2022-11-03 |
+| [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 | 2022-10-14 |  |
 | [love](https://open.spotify.com/track/7cZlFUJO4BjedIErzdP6iq) | [lofi.samurai](https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col) | [oldies](https://open.spotify.com/album/6Aq2NyYQkpTbFvr4oJKaEu) | 1:21 | 2022-09-09 |  |
 | [Love Is More Depressing Than Depression](https://open.spotify.com/track/6x2vJWVX5xaYvkISLVu7Kz) | [prxz](https://open.spotify.com/artist/40HzN0eLAMZk4nTHMk9sUA), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Love Wounds](https://open.spotify.com/album/1h6VRZSqs4FANrEbUCraZc) | 2:13 | 2022-09-09 |  |
 | [love within](https://open.spotify.com/track/6wv5lxSg3U9DSC5KvbQdfr) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [love within](https://open.spotify.com/album/4NYnzOZDYMcQvA3Ome46ej) | 1:37 | 2022-09-23 |  |

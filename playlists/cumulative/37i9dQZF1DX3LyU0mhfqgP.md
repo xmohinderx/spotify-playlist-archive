@@ -4,7 +4,7 @@
 
 > The newest songs from LGBTQIA+ artists\. Cover: Muna
 
-429 songs - 23 hr 15 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
+430 songs - 23 hr 19 min - [published](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Did You Settle Down Too Soon](https://open.spotify.com/track/5T7PoODCm2YYd5N4IbWUUr) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Did You Settle Down Too Soon](https://open.spotify.com/album/3h2xq62A7iX7XMix2Br0ss) | 2:59 | 2021-12-17 | 2022-01-09 |
 | [Dirty Laundry](https://open.spotify.com/track/3fpyiBLsUT22KK9p4EQTMp) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Dirty Laundry](https://open.spotify.com/album/6gSpF2OsSuwpp4z0qAmeVu) | 2:49 | 2021-12-17 | 2022-01-27 |
 | [Disco Heart](https://open.spotify.com/track/29upl5ytUcahfLE8q24SMd) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Heartbreak County, Vol\. 2](https://open.spotify.com/album/7x42x3GG9dviDYgX5HmHTM) | 3:15 | 2022-10-28 |  |
+| [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-10-28 |  |
 | [Doomsday](https://open.spotify.com/track/3o350spzXQYygiIQkXIQdU) | [JDM Global](https://open.spotify.com/artist/3wFZTYWrzLzOf8OICy9fBl) | [Go Easy](https://open.spotify.com/album/0UpZVkSpRyaaFiktj1Sj9x) | 2:22 | 2022-06-24 | 2022-06-27 |
 | [Dose](https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ) | [Trevi Moran](https://open.spotify.com/artist/2mMuXvJVBA9Ft34x9WYpP2) | [Dose](https://open.spotify.com/album/4Jfbqyz9pc5PvjGwjTuW3L) | 3:42 | 2022-01-28 | 2022-07-22 |
 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 | 2022-06-17 | 2022-07-26 |
@@ -232,7 +233,7 @@
 | [It's Okay to Cry](https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs) | [Sophie Blair](https://open.spotify.com/artist/66vUjZhH2eD9vWzWgQsYbT) | [It's Okay to Cry](https://open.spotify.com/album/2gcwXOGiD2el0GMxjIXl3K) | 4:10 | 2022-01-05 | 2022-07-19 |
 | [Je te vois enfin](https://open.spotify.com/track/1SseCRcG3sW0vrcOIy0XL6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Je te vois enfin](https://open.spotify.com/album/3wcX2bK9kNmKNVkEMKvioR) | 3:25 | 2022-06-24 |  |
 | [jenny](https://open.spotify.com/track/4c8vbW5fv8fIFdt7thpKRp) | [Marisa Maino](https://open.spotify.com/artist/1Yy2yWVOAmDAxY7gWgYghv) | [jenny](https://open.spotify.com/album/6TjzioridJQ6VztjqLkjP7) | 2:39 | 2022-03-25 | 2022-07-29 |
-| [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 | 2022-03-25 |  |
+| [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 | 2022-03-25 | 2022-11-03 |
 | [Jigga Who](https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Outside](https://open.spotify.com/album/5ec2VzJnxnvn4eh2vdJc1Q) | 2:32 | 2022-01-21 | 2022-02-07 |
 | [just another song](https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp) | [Kelechi](https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [just another song](https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj) | 2:48 | 2022-05-27 |  |
 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-10-08 |  |

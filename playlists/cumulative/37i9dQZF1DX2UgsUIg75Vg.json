@@ -997,10 +997,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-03",
       "duration_ms": 212155,
       "name": "bnb",
       "url": "https://open.spotify.com/track/3UGxNcFSS0t2MyQl8ClV9Q"
+    },
+    {
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212155,
+      "name": "bnb",
+      "url": "https://open.spotify.com/track/6wprPmHMxfXtb2BwywwdXE"
     },
     {
       "album": {

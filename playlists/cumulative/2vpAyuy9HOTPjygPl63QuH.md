@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-529 songs - 1 day 6 hr 42 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
+530 songs - 1 day 6 hr 45 min - [published](https://open.spotify.com/playlist/4pdLRyqq23R7zciMXjJDN6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Breakout](https://open.spotify.com/track/5qXqZcf5Ku7CqTuSmhqYCT) | [Darren After](https://open.spotify.com/artist/1dQQLtxrDxFxoT5jxVtnr5) | [Breakout](https://open.spotify.com/album/1XW7wwtZwL0JBOMCn3fItZ) | 3:28 | 2022-08-05 | 2022-09-03 |
 | [Bring It](https://open.spotify.com/track/7eZTgp1AsZ1n6C6cwXQJkZ) | [HYFINN](https://open.spotify.com/artist/06bf0xMF3VH6ewi6Z61wj2), [YÜTHE](https://open.spotify.com/artist/4Q3fXfc4YL8nmzpLbAvDsR) | [Bring It](https://open.spotify.com/album/7dN1JKTuqSONcym6PIu2nE) | 2:54 | 2022-04-29 | 2022-05-14 |
 | [Bring It](https://open.spotify.com/track/1fSvb5qQ4iL8LNbpnpLubr) | [KMAND](https://open.spotify.com/artist/03QDZTSnkVSpAOVDTrqRo1) | [Bring It](https://open.spotify.com/album/0XOd60MvC6AT6Zgtb4y6Fw) | 2:53 | 2022-07-01 | 2022-07-10 |
+| [Bring It Down](https://open.spotify.com/track/1MnocAMS5MnNBf1Crkgjz3) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Bring It Down](https://open.spotify.com/album/7HNdACEoJgHTjYDBc2XU1k) | 3:00 | 2022-11-02 |  |
 | [Bring the House](https://open.spotify.com/track/7Bko4vvm1aUdWZ54aQYDfx) | [Pocho](https://open.spotify.com/artist/3msil4wzL0HrW6O1HHV5F2) | [Bring the House](https://open.spotify.com/album/6trWlniWrPVr07sTbHuMe4) | 2:54 | 2022-05-29 | 2022-06-04 |
 | [Broken](https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Broken](https://open.spotify.com/album/2qL7ZWl2MKYenZG9kzpbL5) | 3:30 | 2022-06-03 | 2022-06-11 |
 | [Brujeria](https://open.spotify.com/track/4x0mCd7Z0MWn3tJ2QKWQSI) | [Gaba](https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I) | [Brujeria](https://open.spotify.com/album/3T7ERtTWQNik5QhwpNhoX6) | 3:38 | 2022-07-11 | 2022-07-30 |

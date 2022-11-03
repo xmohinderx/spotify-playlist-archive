@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Dom Corleo
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,755 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,856 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 8 | [Having Motion](https://open.spotify.com/track/6FjEFQVT9XPZeMrDtftNZA) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [Youngest IN Motion 3](https://open.spotify.com/album/3ybprcgjxU6gE91Todd5cs) | 2:04 |
 | 9 | [PERSUADE](https://open.spotify.com/track/20aAh478ePcIoEhTuBx4Th) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [MUG SEASON 1](https://open.spotify.com/album/6xi8py06ADngjcoPVBxpUa) | 2:51 |
 | 10 | [Dahmer Flow](https://open.spotify.com/track/0ENOeN6WwYsRm6463ZCi1h) | [RALAN STYLES](https://open.spotify.com/artist/5Vjj1sZw4lyTGfbJZ9epbY) | [Dahmer Flow](https://open.spotify.com/album/6Pcer5D3yU879AaVqdl9nr) | 2:07 |
-| 11 | [Told Me](https://open.spotify.com/track/0CLUTFC191s6Lc4WRrcPQz) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/3dKc1A0BvMdrbKr7N21Eas) | 3:15 |
+| 11 | [Told Me](https://open.spotify.com/track/1KlESdVNnEDy7xo0CWfV6o) | [Lokolil](https://open.spotify.com/artist/2TPEsOtvM9lRjO3CwMX2DY) | [Told Me](https://open.spotify.com/album/5rXK0jL7SyizDDe7om0Tqo) | 3:15 |
 | 12 | [Penthouse](https://open.spotify.com/track/1e3jS5O9vxsLiHiL5SBU71) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Penthouse](https://open.spotify.com/album/15M4bcl7Q4CSWkqIuX1ydt) | 2:24 |
 | 13 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 |
 | 14 | [Vanish](https://open.spotify.com/track/3WS7XmqLWy2CEXLLABVsDc) | [Legend Yae](https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ) | [Vanish](https://open.spotify.com/album/4TCv8hUT2EWButKeOC2jnC) | 2:30 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 48 | [Promise Lands](https://open.spotify.com/track/26TovmA8desBWW1xtojaKd) | [Jeida Woods](https://open.spotify.com/artist/647M05xOsIsWoDybMLp8iC) | [Promise Lands](https://open.spotify.com/album/5TDhZNIcIchBUvZTB3W7MS) | 3:31 |
 | 49 | [Heart Of Gold](https://open.spotify.com/track/66zbX8vwdDMHYn6kQ9xCf8) | [Tony Bontana](https://open.spotify.com/artist/65KD0ITHfxE6ix28iRAZdl) | [Kyesha](https://open.spotify.com/album/3f49SaBQU5TNoX1JeBEm8f) | 1:29 |
 
-Snapshot ID: `MTY2NjgwNjc2MiwwMDAwMDAwMDJiZDY0OTE2M2UxNmQzZjA0OTA5YTk0NjNjMDdhMWYx`
+Snapshot ID: `MTY2NjgwNjc2MiwwMDAwMDAwMDhhZDViODg4MjBiN2Y1ZDI4NWViY2E5OGNiMDA1NjYy`
