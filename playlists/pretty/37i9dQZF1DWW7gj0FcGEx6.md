@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,747 likes - 113 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,865 likes - 113 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 11 | [My Policeman \- From the Amazon Original Motion Picture Soundtrack "My Policeman"](https://open.spotify.com/track/2xTOwdq3ZUNX1WZiMW2VYC) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [My Policeman \(From the Amazon Original Motion Picture Soundtrack "My Policeman"\)](https://open.spotify.com/album/6YXkJcrqYmStToq7sa95M2) | 5:09 |
 | 12 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 |
 | 13 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
-| 14 | [Mane Title](https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4g03IkKXYEjG1vei9WB2Hx) | 3:01 |
+| 14 | [Mane Title](https://open.spotify.com/track/6bh3vf93ab2mBMpsJnj8BC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4TKivMxK8tgOYu4OOsSFqk) | 3:01 |
 | 15 | [Preparing The Trap](https://open.spotify.com/track/729porTW6i1cZ53nrNJmpN) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Nope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YD6YdZrQtTDjOFc9g3x8z) | 2:40 |
 | 16 | [Vengeance](https://open.spotify.com/track/2hj1c8CjQZVhz2xXp2FQ1a) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance](https://open.spotify.com/album/5VG8Za7HUfIlafQMYIDYf4) | 3:19 |
 | 17 | [Moon Knight](https://open.spotify.com/track/65ICJM6KqFWou1ntTAv0Qk) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:10 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 112 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 | 113 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDZiYThiNGEyYjVmZGU5ZDIxYmIxNzQ3NzIyYTM3ODU1`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGZhMTFmZDg2MjQ2MTU5YTQ4NzY2NjIzN2EyM2MwNWE0`

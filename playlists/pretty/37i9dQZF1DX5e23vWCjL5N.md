@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,057 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,077 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 23 | [Tutto bene](https://open.spotify.com/track/48bU70Alq9O3HHIBwiaFX3) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Tutto bene](https://open.spotify.com/album/2bzUMRxsqJ3cceZWFA71zB) | 3:02 |
 | 24 | [LORO](https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:18 |
 | 25 | [Top \(feat\. MadMan\)](https://open.spotify.com/track/2aH4Ec7vu87IeXFrtjtR17) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:11 |
-| 26 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/50XDQVGFH7wYnX7vSOChUu) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 3:36 |
+| 26 | [Addio \(feat\. Guè & Noyz Narcos\)](https://open.spotify.com/track/1AQLd5sLH95XEJbskcfROp) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 3:36 |
 | 27 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/4A7tYODnFfrS0mymGZOEMJ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:50 |
 | 28 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 |
 | 29 | [64 BARRE DI PAURA](https://open.spotify.com/track/6JPEGmxZ9pTBNDCyf4PMbf) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Marz](https://open.spotify.com/artist/2PmfTGENqjIKHRucbD5aJO) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 49 | [WELCOME BACK \(feat\. Raekwon\)](https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 3:23 |
 | 50 | [Amici O Nemici](https://open.spotify.com/track/6FQdZ2MywYwiXe2eKNeGXi) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:32 |
 
-Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMGRiNjg5NmVjNGQwOGVmODQxMTg0MDI5ZGFjZGFjZjAw`
+Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMDk0Yzk5OGU2ZmExMDAxZWEyZTUyMGE0N2NmZTk2MTQ5`

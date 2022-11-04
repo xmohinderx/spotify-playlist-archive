@@ -5865,7 +5865,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 83200,
       "name": "Poland",
       "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
@@ -7459,7 +7459,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 142400,
       "name": "TATU",
       "url": "https://open.spotify.com/track/6ZlZ3uBMRyM4cmj0AVcfwc"
@@ -8173,6 +8173,24 @@
       "duration_ms": 122538,
       "name": "WARLORD",
       "url": "https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP"
+    },
+    {
+      "album": {
+        "name": "DISORDER",
+        "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120428,
+      "name": "WASTE",
+      "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
     },
     {
       "album": {
@@ -9285,7 +9303,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 79354,
       "name": "\u0431\u043e\u0456 \u0441\u0442\u0443\u043b\u0438 \u043f\u0435\u043b\u044c\u043a\u0443",
       "url": "https://open.spotify.com/track/5ZNmRNEc0i3o8sP9NKqsvQ"

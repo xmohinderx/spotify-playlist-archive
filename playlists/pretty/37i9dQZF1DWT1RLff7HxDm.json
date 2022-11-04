@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 142638,
+  "num_followers": 142680,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMGQxNmFiMGY4Mzc1YTI4MDhlMmYxMTZmNzgwMThkN2My",
+  "snapshot_id": "MTY2NDUxMDQ2MCwwMDAwMDAwMDIxNzk1MzhjNDI3ZWY2MjNiNjM0ODgwNDQ5NTllNWE4",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
+        "name": "One More Car, One More Rider (Live)",
+        "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 539293,
+      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
         "name": "Texas Flood (Legacy Edition)",
         "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Touch My Blues Away",
-        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 544640,
-      "name": "Touch My Blues Away - Live",
-      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -311,18 +311,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Front And Center: Live From New York",
-        "url": "https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8"
+        "name": "Touch My Blues Away",
+        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
         }
       ],
-      "duration_ms": 396682,
-      "name": "Tell Her You Belong To Me - Live",
-      "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
+      "duration_ms": 544640,
+      "name": "Touch My Blues Away - Live",
+      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
     },
     {
       "added_at": "2020-10-30 17:47:12",
@@ -343,18 +343,18 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "One More Car, One More Rider (Live)",
-        "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
+        "name": "Front And Center: Live From New York",
+        "url": "https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
         }
       ],
-      "duration_ms": 539293,
-      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
-      "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
+      "duration_ms": 396682,
+      "name": "Tell Her You Belong To Me - Live",
+      "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
     },
     {
       "added_at": "2021-02-26 05:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-10-30 17:47:12",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
-      },
-      "artists": [
-        {
-          "name": "Dave Fields",
-          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
-        }
-      ],
-      "duration_ms": 497133,
-      "name": "Pocket Full of Dust (Live)",
-      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
         "name": "Big, Bad and Beautiful (Live)",
         "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 350573,
       "name": "Stoop Down Baby - Live",
       "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
+      },
+      "artists": [
+        {
+          "name": "Dave Fields",
+          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
+        }
+      ],
+      "duration_ms": 497133,
+      "name": "Pocket Full of Dust (Live)",
+      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
     },
     {
       "added_at": "2020-10-30 17:47:12",

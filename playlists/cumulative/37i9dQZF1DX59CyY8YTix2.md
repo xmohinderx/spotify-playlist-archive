@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. Cover: GLIM SPANKY
 
-654 songs - 1 day 18 hr 3 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
+656 songs - 1 day 18 hr 10 min - [published](https://open.spotify.com/playlist/5oLzS8mnacSvAW2zqgcbrN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,12 +194,13 @@
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
 | [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 |  |
 | [rainy rainy rainy blues](https://open.spotify.com/track/5VAwJOVU4TvBKOUFzDJSGR) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [KOE](https://open.spotify.com/album/0GaqQrJcL8TAPuOckmcPqs) | 5:20 | 2022-06-02 | 2022-07-28 |
+| [re:call](https://open.spotify.com/track/3z1jobirQVRmajrMRHClhj) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [re:call](https://open.spotify.com/album/0jn1VyhIkwDJq4sgttjgDO) | 3:35 | 2022-11-03 |  |
 | [Rebellion](https://open.spotify.com/track/7KJdus5lqrlOHasB6kwvf4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Rebellion](https://open.spotify.com/album/1RwGDS3qFOsT9mRJptyCEF) | 2:58 | 2022-10-04 |  |
 | [RED](https://open.spotify.com/track/1jWFyVDcJMsrJhOvSCZpLo) | [EOW](https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI) | [RED](https://open.spotify.com/album/6PqoriDdo4acuaWOEw6xgu) | 4:03 | 2022-06-07 | 2022-06-11 |
 | [rise](https://open.spotify.com/track/5qsfuw2YP4ZuoN3JLRafnY) | [yardlands](https://open.spotify.com/artist/7ebpEJGpj5bIAqlVylWOHf) | [rise](https://open.spotify.com/album/0000xgAyMIZGsrpj9zEbbp) | 4:20 | 2022-06-07 | 2022-07-15 |
 | [rock'n'roll wind](https://open.spotify.com/track/7MPFIm4QP2CtyOUdX4kjIS) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [rock'n'roll wind](https://open.spotify.com/album/3P4b4ewj4DmaGKzCDuf8p0) | 3:44 | 2022-06-16 | 2022-06-22 |
 | [RollerCoaster \(feat.GOUGOU from Naja Naja\)](https://open.spotify.com/track/7lZEjPqljLdtTeVotrF0RT) | [BimBamBoom feat\. GOUGOU from Naja Naja](https://open.spotify.com/artist/73U9Z9wN6fVYcc77n72LYX) | [RollerCoaster](https://open.spotify.com/album/2RuToiUWIkaPl9ayhtiSFP) | 4:11 | 2022-06-07 | 2022-06-30 |
-| [Sailing Day](https://open.spotify.com/track/5FcMcYQdFskcg6SR88V1NN) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:08 | 2022-09-13 |  |
+| [Sailing Day](https://open.spotify.com/track/5FcMcYQdFskcg6SR88V1NN) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:08 | 2022-09-13 | 2022-11-04 |
 | [Saint Anger](https://open.spotify.com/track/5TQPOFSG75V4emyF8fjJ5i) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [C toshiikerumono](https://open.spotify.com/album/0YMnwungrphEtyh8jkH4TE) | 4:21 | 2022-05-26 | 2022-07-20 |
 | [SAKURA BURST](https://open.spotify.com/track/7Bqj9jdgaxttbxVecvlZG3) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [SAKURA BURST](https://open.spotify.com/album/2xlpUnAnG5YBAOqbDPld0z) | 4:23 | 2022-06-30 | 2022-07-04 |
 | [SAKURAドロップス](https://open.spotify.com/track/3bI8jTYxZxSX8u1lYAYBnh) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [SAKURAドロップス / 面影](https://open.spotify.com/album/6WpFtYm4xhwalELWPeAmNx) | 4:41 | 2022-06-02 | 2022-07-27 |
@@ -453,6 +454,7 @@
 | [マーメイド](https://open.spotify.com/track/6OxwBDCNiLtdOSnOaK04po) | [CuBerry](https://open.spotify.com/artist/4Bzc9zZE7eFanFRzyDkOjq) | [マーメイド](https://open.spotify.com/album/5q77SBf9tTBdMORrkRXO45) | 3:09 | 2022-09-06 | 2022-09-15 |
 | [マーリー](https://open.spotify.com/track/6VGTKK0e9aEWCdgloRQLoH) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [マーリー](https://open.spotify.com/album/4jUKy53voLyneRk3hPFUkh) | 4:58 | 2022-05-26 | 2022-07-29 |
 | [ミゾのないところ](https://open.spotify.com/track/3Nu5vwCbrvY8jRux6ie0zB) | [Kurhaus](https://open.spotify.com/artist/2sF23ot1kT16locrM0fOgy) | [ミゾのないところ](https://open.spotify.com/album/65hvbSzuXJLEeLeSg9cuP3) | 4:11 | 2022-06-02 | 2022-06-04 |
+| [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2022-11-03 |  |
 | [ミッドナイトハイウェイ](https://open.spotify.com/track/3iWo7wRMXjUWFQPReQRa3O) | [goomiey](https://open.spotify.com/artist/1y7irH3IbpZNJ7ShGAH5Wx) | [ワンセンス](https://open.spotify.com/album/2GEdH3NZKf3U4aVFC0mTZV) | 3:17 | 2022-06-30 | 2022-07-05 |
 | [ミュージック](https://open.spotify.com/track/7cix8xx00wXIvuuWAoI08M) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ミュージック](https://open.spotify.com/album/0cgxBDktbUNcoCD94TX6pK) | 3:30 | 2022-05-31 | 2022-06-26 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-06-02 |  |
@@ -622,7 +624,7 @@
 | [良い男](https://open.spotify.com/track/2g74SClqazB7zd4td7LRcR) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [良い男](https://open.spotify.com/album/56UZYxV2Hcl1wQS0spUrHw) | 3:46 | 2022-06-23 | 2022-07-09 |
 | [花々](https://open.spotify.com/track/7DBUFvfmZY7D1ZYJUEWaq7) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [花々](https://open.spotify.com/album/6LM4knFXG12tbLqyfE6seU) | 3:09 | 2022-10-13 | 2022-10-19 |
 | [花咲く君の滑走路](https://open.spotify.com/track/4yEyxgbDM0S3J55ECcUXEz) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [花咲く君の滑走路](https://open.spotify.com/album/2Welq5m1RXmGjJNe6w47Lo) | 3:11 | 2022-05-31 | 2022-07-29 |
-| [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 |  |
+| [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 | 2022-06-16 | 2022-11-04 |
 | [蜃気楼](https://open.spotify.com/track/6CLXb5vecXnX64ZjXVFFgC) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:38 | 2022-06-23 | 2022-06-27 |
 | [蜃気楼](https://open.spotify.com/track/64mQXhe60mj1CtlLv5gJZU) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [蜃気楼](https://open.spotify.com/album/4LuWkiqBLxnCIFupdgJ7lZ) | 4:38 | 2022-06-02 | 2022-06-08 |
 | [蟻とリンゴスター](https://open.spotify.com/track/6IeXMHqRjlfAtrAboFrOSW) | [路地](https://open.spotify.com/artist/3oG3nGNqpuRlrqBKdigaXv) | [KOURO](https://open.spotify.com/album/5ST87BH4YQhksbzh5Xx62A) | 4:58 | 2022-10-18 | 2022-11-02 |

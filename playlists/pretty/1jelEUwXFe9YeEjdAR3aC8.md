@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Chill indie songs by Taylor Swift, charlie d'amelio, and more! Listen to this mellow and feels\-inducing playlist, and discover new favorites! Cover: Reneé Rapp
 
-[Digster](https://open.spotify.com/user/digster.fm) - 114,932 likes - 50 songs - 2 hr 49 min
+[Digster](https://open.spotify.com/user/digster.fm) - 114,931 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 49 | [rx](https://open.spotify.com/track/273h36reiuZ6Q92u4cmfID) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/0pzu94TJ8IufDvf416cdfO) | 3:20 |
 | 50 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 |
 
-Snapshot ID: `NzM0OCw5ZTY4OGU4MjQ3Mzk3MTU1ZTVmZDEzNWJhNzNlMTlhNjhmZWU4YWYz`
+Snapshot ID: `NzM2NywwYzdlNWQ1MDg0ZDI1NmY2M2MzYzNlMjE1ZDBjNjFkYzNlYjI3MzU2`

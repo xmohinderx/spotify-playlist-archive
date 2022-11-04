@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Tamara Kramar
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,277 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,279 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 |
+| 1 | [Down / House of Cards](https://open.spotify.com/track/72foKCqAhGyaeofqmQ2TL0) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Down / House of Cards](https://open.spotify.com/album/2ndm3i6NRcaR2EmUiuh7vo) | 4:01 |
 | 2 | [Another Life](https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Life](https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4) | 4:06 |
 | 3 | [Náš příběh \(feat\. Marek Lambora\)](https://open.spotify.com/track/6bM8lUJqOKk01onB5DfjKL) | [Tereza Mašková](https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC), [Marek Lambora](https://open.spotify.com/artist/307KJERDuX0AymnyTPiFLh) | [Svět je málo růžový](https://open.spotify.com/album/6cCn5zosowaY0BdOSDS0aQ) | 3:11 |
 | 4 | [Fénix](https://open.spotify.com/track/1Xa2Y5ZpDPrH0Laygi1mCZ) | [Lucie Bílá](https://open.spotify.com/artist/6pkv72pSnhPBKqqFzhDe6f) | [Fénix](https://open.spotify.com/album/7G4hxteCYnrF1ZDZy7GTrW) | 3:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 45 | [Riť](https://open.spotify.com/track/1OlhHf8zcmPfJan6RR2s7h) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH), [Tina](https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf) | [Riť](https://open.spotify.com/album/3obDmkHhQ1FJUzuAAeOV1y) | 2:59 |
 | 46 | [live\. laugh\. cry](https://open.spotify.com/track/6f7mhbSq9pW2jzoVWgphh5) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [live\. laugh\. cry](https://open.spotify.com/album/48qPWuZEfqbinvMRdfBKON) | 2:50 |
 | 47 | [stuck in the cloud](https://open.spotify.com/track/3bvzNtR80zFbbVCFjyXt7Y) | [Pam Rabbit](https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU) | [stuck in the cloud](https://open.spotify.com/album/2uT7r7OByzixVROAuDH6Ex) | 2:47 |
-| 48 | [Girls](https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv) | [Fejbs](https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm) | [Girls](https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO) | 2:24 |
-| 49 | [Private Poison](https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6) | [Arleta](https://open.spotify.com/artist/5fBvlOLDUZQ5vAntpqpZ3J) | [Private Poison](https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5) | 2:49 |
+| 48 | [Private Poison](https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6) | [Arleta](https://open.spotify.com/artist/5fBvlOLDUZQ5vAntpqpZ3J) | [Private Poison](https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5) | 2:49 |
+| 49 | [Girls](https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv) | [Fejbs](https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm) | [Girls](https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO) | 2:24 |
 | 50 | [Someone Else to Blame](https://open.spotify.com/track/5uz5fCKAkCZdv8eGcMNMIh) | [Kaya](https://open.spotify.com/artist/2zzGa3s9F0bQ7Tp4YDcweH) | [Someone Else to Blame](https://open.spotify.com/album/4wn7dbxKpYBq5SAjvgVStQ) | 3:03 |
 
-Snapshot ID: `MTY2NzM0MzYwMCwwMDAwMDAwMDAwYjkwMThlNjYzNDlmYmU4ZDY5Yzk1NzJiNDdhNWZl`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMGQ3ODU3ZmYxNTA4MWFhNTY3MDQzMGM2ZjVmYjc4YTU2`

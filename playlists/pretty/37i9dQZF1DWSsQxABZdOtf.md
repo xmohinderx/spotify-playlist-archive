@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,347 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 46 | [Cafe Racer](https://open.spotify.com/track/472kQwl5Q4dn19oHkUvGhb) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Cafe Racer](https://open.spotify.com/album/71pOhDRYyDDP0XQXduI6ce) | 2:39 |
 | 47 | [Hidden Land \(feat\. Raj Mahal\)](https://open.spotify.com/track/2t7xROriuoYRMFV4eEpfhR) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Raj Mahal](https://open.spotify.com/artist/7x10xDm8HzItrVOMaE6DGT) | [Petroleum / Hidden Land](https://open.spotify.com/album/4Acs10QsYqpRF7wDvVWcK5) | 3:24 |
 | 48 | [Dust](https://open.spotify.com/track/2P5k4HyETUJqYbMDXZdkp4) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Dust](https://open.spotify.com/album/31GMSYmGczriDXzpWt14Xm) | 5:05 |
-| 49 | [Hypnotic Suburbs \(feat\. Teether\)](https://open.spotify.com/track/6MKKrT3ySRHGedunW3TQNC) | [dj pgz](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [The Dance / Hypnotic Suburbs](https://open.spotify.com/album/1EEQf4TGhHDkJAGdJrS3D6) | 4:25 |
+| 49 | [Hypnotic Suburbs \(feat\. Teether\)](https://open.spotify.com/track/6MKKrT3ySRHGedunW3TQNC) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [The Dance / Hypnotic Suburbs](https://open.spotify.com/album/1EEQf4TGhHDkJAGdJrS3D6) | 4:25 |
 | 50 | [Still](https://open.spotify.com/track/7lBNPNIewZf6d1DJjRtlj8) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 4:07 |
 | 51 | [Horizons](https://open.spotify.com/track/6MqpjqgLcI1PZIPNCWfB6R) | [Chroma\-kei](https://open.spotify.com/artist/0yKOYMYO4tiNeMSvnzdoR0), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Outside](https://open.spotify.com/album/2ihZ9oVwroaFg1YJLeypYF) | 3:35 |
 | 52 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 |

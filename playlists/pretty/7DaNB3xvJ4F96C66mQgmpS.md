@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > The best workout playlist is here\. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 89,903 likes - 50 songs - 2 hr 34 min
+[Digster](https://open.spotify.com/user/digster.fm) - 89,900 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 49 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
 | 50 | [Ring The Alarm](https://open.spotify.com/track/6HeKrqik6GxcbdKsk7FRnt) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Ring The Alarm](https://open.spotify.com/album/0hEbycKgvdwFSUZFWocFcm) | 3:35 |
 
-Snapshot ID: `MTUyNSw1MGI4OTY3N2ViZjcxNDdhMWJiYWM1NWVlNTIwZDE0MjAwNTg0Nzc3`
+Snapshot ID: `MTUyOSw1MDkzYjJhMzQ2OWU0MTM5Zjc0MTk1NWZkMzRiYmM1MTc5YmIzYmNk`

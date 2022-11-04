@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 239321,
+  "num_followers": 239229,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDQxMDhkNGY3ZDcwNmU1Y2MzZTk3ODBhNjBiYTk1ZTA2",
+  "snapshot_id": "MTU3MDYzMzM3MCwwMDAwMDAwMDk1OTJkOTExNTk2YzdjNmRiMDg0ZGQzZGRiMmFiMjA5",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "The Best Of Edgar Winter",
-        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
-      },
-      "artists": [
-        {
-          "name": "The Edgar Winter Group",
-          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Fame Monster (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 249253,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1K9jK8EHkgOTjLokIbIxPq"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "The Best Of Edgar Winter",
+        "url": "https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY"
+      },
+      "artists": [
+        {
+          "name": "The Edgar Winter Group",
+          "url": "https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI"
+        }
+      ],
+      "duration_ms": 285600,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -867,6 +867,22 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
+        "name": "Ghosts (Remixes)",
+        "url": "https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Ghosts - Single Edit",
+      "url": "https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
         "name": "Just For The Record...",
         "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 114960,
       "name": "Ding-Dong! The Witch Is Dead (feat. Harold Arlen)",
       "url": "https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
-        "name": "Ghosts (Remixes)",
-        "url": "https://open.spotify.com/album/0hVxQVrEH3n2CmwGzntdFk"
-      },
-      "artists": [
-        {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Ghosts - Single Edit",
-      "url": "https://open.spotify.com/track/5CwU6ek98q7Xqnvoq2ojht"
     },
     {
       "added_at": "2019-10-09 15:02:50",

@@ -4,7 +4,7 @@
 
 > ¡Shirel y más mujeres a todo volumen!
 
-453 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
+454 songs - 1 day 1 hr 48 min - [published](https://open.spotify.com/playlist/5O6RaXdE1dTLivRrg9kWmW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Las Mafiosas \- Revolution](https://open.spotify.com/track/11TD45Bo0OCt1dvreTMyLi) | [Vivete La Music](https://open.spotify.com/artist/5vMKVyztww8zTjXIJZhxl9), [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Itsdee](https://open.spotify.com/artist/6Ug0x3zvAWHMuhZYxTT8Hn), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [S4vage 23](https://open.spotify.com/artist/6srOoh3o8UamTOxF1GjIGm) | [Las Mafiosas \- Revolution](https://open.spotify.com/album/5kz0JDJCVSq2KqNIZbBasp) | 3:57 | 2022-11-02 |  |
 | [Late](https://open.spotify.com/track/3rc71WMsCs3SCPfAf54JB2) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Late](https://open.spotify.com/album/25yp0K83osdBib4JIsRTh4) | 2:43 | 2022-07-06 | 2022-07-25 |
 | [Laurel](https://open.spotify.com/track/37YyT8i9em5eFScILi8Pcy) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [Laurel](https://open.spotify.com/album/5jxjVPBCWVqwnZI0keIMYG) | 5:13 | 2022-08-03 | 2022-09-09 |
+| [Libre Albedrío](https://open.spotify.com/track/5DovDrVCNh9qFp0GGnmJH7) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Libre Albedrío](https://open.spotify.com/album/6ywjX40yQQT3EVSuv0JcmV) | 3:04 | 2022-11-04 |  |
 | [Like Piña](https://open.spotify.com/track/267yOzYfVQZTjgLNGtDrmL) | [Maca Del Pilar](https://open.spotify.com/artist/42rQdqCJtlMTkiWjwwYevF) | [Like Piña](https://open.spotify.com/album/51OJexJI7KgeReYrioqdFQ) | 2:55 | 2021-12-17 | 2022-02-02 |
 | [Llegar al Ser](https://open.spotify.com/track/3V87kjiGlKSxYeUNnsQoH3) | [Sarazul](https://open.spotify.com/artist/3IUEajBsE3ojR2AY0uYMK0) | [Llegar al Ser](https://open.spotify.com/album/4Pqe9OHjZQ514PWIEiGHJg) | 3:25 | 2022-01-05 | 2022-01-30 |
 | [Lluvia Frenesí](https://open.spotify.com/track/5vSu69UhUucZjmwuz2lamC) | [Amanitas](https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR), [Ana Tijoux](https://open.spotify.com/artist/75myVgZbKQkWpyHAlLUCmG) | [Lluvia Frenesí](https://open.spotify.com/album/7xB7VS8Y687rjwhYI1jqS1) | 4:49 | 2022-05-04 | 2022-09-09 |
@@ -427,7 +428,7 @@
 | [Trascender](https://open.spotify.com/track/2h2Ffv9DGFRL3qHdTmSh4e) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML) | [Trascender](https://open.spotify.com/album/5z8swern7Agc4LXq0X4t8H) | 3:27 | 2021-12-17 | 2022-03-09 |
 | [Tu Movimiento](https://open.spotify.com/track/3LptDHH9yf2N9nVRS9pHuQ) | [Katitadhq](https://open.spotify.com/artist/2u4WQWfc3Aufs3m846fmvQ) | [Tu Movimiento](https://open.spotify.com/album/54nIVjLFm0OKC6PjSTWPKx) | 3:44 | 2021-12-17 | 2022-01-22 |
 | [Tus Mentiras](https://open.spotify.com/track/1bGLPKLEATC4VVVnaY79pG) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Tus Mentiras](https://open.spotify.com/album/3n0zk5N16hboEmqiR3peYJ) | 3:31 | 2022-04-06 | 2022-05-05 |
-| [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 | 2022-08-03 |  |
+| [TYF](https://open.spotify.com/track/3YGklnT5auf8CCLCbvAgFJ) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/09LrimhS4xCJCyqsz9CMhA) | 3:33 | 2022-08-03 | 2022-11-04 |
 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 | 2022-02-02 | 2022-08-31 |
 | [Tú crees que es normal?](https://open.spotify.com/track/0fvhVnXL3Nxc6UtjHSOReA) | [Dadalú](https://open.spotify.com/artist/1b8V4W56uUKVMcxeOVPtXt) | [El mapa de los días](https://open.spotify.com/album/63DY7CyV6Cl4UnoRn3IJnj) | 2:13 | 2022-03-08 | 2022-07-07 |
 | [Un Día](https://open.spotify.com/track/1OAETeovYFah9wXH9BieWm) | [Floresalegría](https://open.spotify.com/artist/6Dp3p3MdGF7dhhU8GzOfAt) | [Curá y Sola](https://open.spotify.com/album/3td2vnGbcKEWUxVZ1sqJ37) | 2:17 | 2022-05-04 | 2022-07-29 |

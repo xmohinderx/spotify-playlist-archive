@@ -1,38 +1,34 @@
 {
-  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
-  "num_followers": 1281414,
+  "description": "SCH au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "num_followers": 1281858,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkxMDg1MCwwMDAwMDAwMGUxMGE0Y2ZmZTU3MmIwODdjNTY3NTg3MGQ4NWVkNDdj",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDNhZDkzMTM4NDRlOGJhMjc1MjM3YmM3ZjQ1MGQ0NDgw",
   "tracks": [
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "M\u00e9lo",
-        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+        "name": "LIF",
+        "url": "https://open.spotify.com/album/5G40PCwbFMnEL1CyW0e5Rw"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Gasolina (feat. Rsko)",
-      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
+      "duration_ms": 195626,
+      "name": "LIF",
+      "url": "https://open.spotify.com/track/5L6inxcqOemJI2utN8lvBs"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "RAPPEL",
-        "url": "https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD"
+        "name": "KMT",
+        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
       },
       "artists": [
         {
@@ -40,28 +36,12 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 217948,
-      "name": "RAPPEL",
-      "url": "https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw"
+      "duration_ms": 240413,
+      "name": "DIE",
+      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "PETETE",
-        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 123846,
-      "name": "PETETE",
-      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Peur (feat. Ziak)",
         "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
@@ -81,7 +61,7 @@
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -97,10 +77,26 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "KMT",
-        "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
+        "name": "PETETE",
+        "url": "https://open.spotify.com/album/58vole57PvKhmHcY2JHBtk"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        }
+      ],
+      "duration_ms": 123846,
+      "name": "PETETE",
+      "url": "https://open.spotify.com/track/0z3bi63SNZ5ylyHOzb81Uq"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "RAPPEL",
+        "url": "https://open.spotify.com/album/3z01IFOidqCtkFb7mbgffD"
       },
       "artists": [
         {
@@ -108,32 +104,48 @@
           "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 240413,
-      "name": "DIE",
-      "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
+      "duration_ms": 217948,
+      "name": "RAPPEL",
+      "url": "https://open.spotify.com/track/7zgKUbJczQXGEICIwP6Diw"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Selfie",
-        "url": "https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI"
+        "name": "M\u00e9lo",
+        "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "Gasolina (feat. Rsko)",
+      "url": "https://open.spotify.com/track/6kwmp0U8M1tPvgPHqvbwsr"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
       },
       "artists": [
         {
           "name": "Werenoi",
           "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
         }
       ],
-      "duration_ms": 156862,
-      "name": "Selfie",
-      "url": "https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8"
+      "duration_ms": 146440,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Guapman",
         "url": "https://open.spotify.com/album/3DXG5GrBLszaSduaQ5y3De"
@@ -149,7 +161,7 @@
       "url": "https://open.spotify.com/track/3UizQJoEShTLDSUUByJLDr"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Allez dehors",
         "url": "https://open.spotify.com/album/6Us6AtFqQORq9wUpHdvbnf"
@@ -169,75 +181,7 @@
       "url": "https://open.spotify.com/track/2YGtFjsTpSrsGb2rQy4ARj"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Malpolis",
-        "url": "https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh"
-      },
-      "artists": [
-        {
-          "name": "Kalash",
-          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 200279,
-      "name": "Malpolis",
-      "url": "https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Si j'savais",
-        "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 223480,
-      "name": "Si j'savais",
-      "url": "https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "CELINE 3X",
-        "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 158223,
-      "name": "CELINE 3X",
-      "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Tout Droit",
         "url": "https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux"
@@ -257,7 +201,43 @@
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Si j'savais",
+        "url": "https://open.spotify.com/album/2Js5uKx7NHtCYqNTqk4LUC"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "Si j'savais",
+      "url": "https://open.spotify.com/track/5b0jPRxr4XEqIwWlkGrVq3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Selfie",
+        "url": "https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 156862,
+      "name": "Selfie",
+      "url": "https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW"
@@ -273,7 +253,55 @@
       "url": "https://open.spotify.com/track/15Cdh1RxOdlaFUm24ifnKH"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "CELINE 3X",
+        "url": "https://open.spotify.com/album/41kuLdSoezApusMB9AIZCT"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158223,
+      "name": "CELINE 3X",
+      "url": "https://open.spotify.com/track/2APwDsIavDeJRJFcz6s8Ow"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Urus",
+        "url": "https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Urus",
+      "url": "https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Chop (Nouvelle \u00c9cole)",
+        "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Chop (Nouvelle \u00c9cole)",
+      "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -297,23 +325,27 @@
       "url": "https://open.spotify.com/track/5b8HD1dJDuPawgS5FjSC2q"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Chop (Nouvelle \u00c9cole)",
-        "url": "https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U"
+        "name": "Malpolis",
+        "url": "https://open.spotify.com/album/1cieqTocQSlVT8W0f8sCDh"
       },
       "artists": [
         {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 195560,
-      "name": "Chop (Nouvelle \u00c9cole)",
-      "url": "https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW"
+      "duration_ms": 200279,
+      "name": "Malpolis",
+      "url": "https://open.spotify.com/track/4MHEsggGJNsgcK1zKD6W1D"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -329,7 +361,7 @@
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Toujours +",
         "url": "https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs"
@@ -349,23 +381,23 @@
       "url": "https://open.spotify.com/track/3BsYL1gVsiFpo0bM8oTbi0"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "KOA",
-        "url": "https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1"
+        "name": "M.A.N (Black Roses & Lost Feelings)",
+        "url": "https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE"
       },
       "artists": [
         {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 187790,
-      "name": "KOA",
-      "url": "https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0"
+      "duration_ms": 147720,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Mozart Capitaine Jackson (Episode 2)",
         "url": "https://open.spotify.com/album/25CWaYpI4ZIrJV3YbRaxfi"
@@ -381,7 +413,7 @@
       "url": "https://open.spotify.com/track/6C5GEPPhz7XyXPE2rYhu98"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Redescends (feat Tiakola)",
         "url": "https://open.spotify.com/album/4KaUWIjzjEyF5KZTKcHQCh"
@@ -401,23 +433,7 @@
       "url": "https://open.spotify.com/track/0hveTnaqO8nXDMwwsJGJI3"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Jefe",
-        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 177705,
-      "name": "Jefe",
-      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Le monde est m\u00e9chant",
         "url": "https://open.spotify.com/album/65EcukDOv2KFUXYVGWdqe2"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/1zmXVf6lCsdVRWRetxauFG"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Indiana",
         "url": "https://open.spotify.com/album/1oPS42gz0hOy0L3knvCjT5"
@@ -457,43 +473,23 @@
       "url": "https://open.spotify.com/track/38g82yE6pxULo8b1S6r4pb"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "On se reverra plus (feat. Gazo)",
-        "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
+        "name": "KOA",
+        "url": "https://open.spotify.com/album/7FBlDnQcJkmdxQ7MKO8zc1"
       },
       "artists": [
         {
-          "name": "DA Uzi",
-          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 179040,
-      "name": "On se reverra plus (feat. Gazo)",
-      "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
+      "duration_ms": 187790,
+      "name": "KOA",
+      "url": "https://open.spotify.com/track/0eo5HWCC0jd7z9YBKNmAy0"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "M.A.N (Black Roses & Lost Feelings)",
-        "url": "https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "OCHO (Deluxe)",
         "url": "https://open.spotify.com/album/2imuPzHO3KOIVKMSZugf2Y"
@@ -513,27 +509,43 @@
       "url": "https://open.spotify.com/track/5yHoANSze7sGzhn9MUarH3"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Reste-l\u00e0 (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U"
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
       "artists": [
         {
-          "name": "Gambino La MG",
-          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 164240,
-      "name": "Reste-l\u00e0 (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
+      "duration_ms": 177705,
+      "name": "Jefe",
+      "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "On se reverra plus (feat. Gazo)",
+        "url": "https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO"
+      },
+      "artists": [
+        {
+          "name": "DA Uzi",
+          "url": "https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 179040,
+      "name": "On se reverra plus (feat. Gazo)",
+      "url": "https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/3m7eqvX5vta22BqOYUDahn"
@@ -553,7 +565,27 @@
       "url": "https://open.spotify.com/track/4tzw8KHA0K4LEcrHejQBJu"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Reste-l\u00e0 (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U"
+      },
+      "artists": [
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Reste-l\u00e0 (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Papel",
         "url": "https://open.spotify.com/album/53aYXX2K3eHCN0016iGcF5"
@@ -569,143 +601,7 @@
       "url": "https://open.spotify.com/track/0QEZJGVv62OEzcurVhUNhk"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "94 bois, Vol. 2",
-        "url": "https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC"
-      },
-      "artists": [
-        {
-          "name": "L2B Gang",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Bitume",
-      "url": "https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx"
-      },
-      "artists": [
-        {
-          "name": "Doums",
-          "url": "https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK"
-        },
-        {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "COCO JOJO",
-        "url": "https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a"
-      },
-      "artists": [
-        {
-          "name": "Guy2bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Beretta",
-      "url": "https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "FRAUDE",
-        "url": "https://open.spotify.com/album/1ds595bn2azH1sYiG38A66"
-      },
-      "artists": [
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
-        },
-        {
-          "name": "Freeze corleone",
-          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "FRAUDE",
-      "url": "https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "NOSTALGIA+",
-        "url": "https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "NEYMAR JR",
-      "url": "https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Laisse tomber",
-        "url": "https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn"
-      },
-      "artists": [
-        {
-          "name": "ISK",
-          "url": "https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j"
-        },
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 191995,
-      "name": "Laisse tomber",
-      "url": "https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "VOL 169 ATTERRISSAGE",
-        "url": "https://open.spotify.com/album/7u3TOtAemTZ2eXT7JjNBCh"
-      },
-      "artists": [
-        {
-          "name": "Bol\u00e9mvn",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 191418,
-      "name": "Chic choc",
-      "url": "https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Fais de l'argent",
         "url": "https://open.spotify.com/album/12vTC7BH3Scluv2woieacw"
@@ -725,7 +621,103 @@
       "url": "https://open.spotify.com/track/5a96UhbVvqjmI4dEXr7wLb"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx"
+      },
+      "artists": [
+        {
+          "name": "Doums",
+          "url": "https://open.spotify.com/artist/4yLgYK2B5nZjZMBiaLyLyK"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "duration_ms": 189653,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/4prkPuGjkzgYvdREsNw27F"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "FRAUDE",
+        "url": "https://open.spotify.com/album/1ds595bn2azH1sYiG38A66"
+      },
+      "artists": [
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "FRAUDE",
+      "url": "https://open.spotify.com/track/5KuU8cuhCGJRmAUZsqUBRE"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "COCO JOJO",
+        "url": "https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a"
+      },
+      "artists": [
+        {
+          "name": "Guy2bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Beretta",
+      "url": "https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Laisse tomber",
+        "url": "https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn"
+      },
+      "artists": [
+        {
+          "name": "ISK",
+          "url": "https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j"
+        },
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 191995,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "NOSTALGIA+",
+        "url": "https://open.spotify.com/album/6ZINcIMQXxeGL6hvC7nG75"
+      },
+      "artists": [
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "NEYMAR JR",
+      "url": "https://open.spotify.com/track/3ejRaW9IZCWkr15JN2OpQO"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "SZR 2001",
         "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"

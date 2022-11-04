@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-237 songs - 18 hr 45 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+238 songs - 18 hr 48 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Misfit](https://open.spotify.com/track/4prllBcCDVY0CUDnbvnRZ3) | [Joe Jam Sumrell](https://open.spotify.com/artist/3d6KL8ojlbObgyImmZTpEm), [Day 7](https://open.spotify.com/artist/5bSQh428JevlpqlqHInzy6) | [Misfit](https://open.spotify.com/album/1SnBz7YabIvC7Ho1rmkdQg) | 3:41 | 2022-04-01 | 2022-10-15 |
 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 | 2020-10-09 |  |
 | [Mole's Pirouette](https://open.spotify.com/track/2YzKkL5iR8noOJwufVNFCy) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [House of Arches](https://open.spotify.com/album/7Grm8hG0UAFUngyrJjb5TC) | 5:56 | 2022-03-11 | 2022-07-29 |
-| [Money Music](https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Money Music](https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM) | 2:49 | 2022-08-05 |  |
+| [Money Music](https://open.spotify.com/track/5AJQebZSTWvdcMlHCmMNhg) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Money Music](https://open.spotify.com/album/77Ivo83GRiFoQckirVxPYM) | 2:49 | 2022-08-05 | 2022-11-04 |
+| [Money Music](https://open.spotify.com/track/5aJaL72YTZmsfEK1xWexyw) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:49 | 2022-08-05 |  |
 | [More Lemon Juice](https://open.spotify.com/track/28bpVbAlZBEYrkQmSaXhJ1) | [Rob Harris](https://open.spotify.com/artist/0Cp4MoP6nJuXraSptbcf2Z) | [More Lemon Juice](https://open.spotify.com/album/1lQxT13fZaLUrv4LTMoMU1) | 4:17 | 2022-02-11 | 2022-07-20 |
 | [Mountain Caravan](https://open.spotify.com/track/6HmO9pM8eJM3eJ1ergAHtn) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Linger Lane](https://open.spotify.com/album/1POpMvIm95B8CwnrxKXHT1) | 5:20 | 2020-10-09 | 2022-10-29 |
 | [Mr\. Funky samba](https://open.spotify.com/track/4SXWXupjFY49tbQWCG5rFf) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv) | [Maria Fumaça \(Remasterizado\)](https://open.spotify.com/album/7KoQPmHEfDU7Sf61BfkhgG) | 3:39 | 2020-10-09 |  |

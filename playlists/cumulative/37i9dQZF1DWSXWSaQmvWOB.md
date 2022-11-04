@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: Adi Oasis
 
-582 songs - 1 day 11 hr 41 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
+583 songs - 1 day 11 hr 44 min - [published](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Outside](https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Outside](https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO) | 3:09 | 2022-09-29 |  |
 | [Over](https://open.spotify.com/track/5hr67pD8cO73MfCpTJ3SbP) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Over](https://open.spotify.com/album/06iYh595ysL4oYy3pxjnYB) | 2:56 | 2020-03-25\* | 2020-04-12 |
 | [Over & Out](https://open.spotify.com/track/5osNYKCZ2KckJadZ6HgHFf) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Over & Out](https://open.spotify.com/album/4UYgvGLKVw7sE8zrzrEZW1) | 3:05 | 2020-10-30 | 2020-12-05 |
+| [OVER N OVER](https://open.spotify.com/track/1KwGaTYvjQCMRrRhwDmI56) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 2:59 | 2022-11-03 |  |
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2021-02-24 | 2022-07-30 |
 | [Overflowing](https://open.spotify.com/track/7euLcL9UPbxVvjlQNhCDJj) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Overflowing](https://open.spotify.com/album/0ilXUNsylR92wlv7dtQMzp) | 2:26 | 2022-07-28 | 2022-09-30 |
 | [Own Me](https://open.spotify.com/track/0NYd1Gbv9zXS3w1oSzzBA7) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Wonder / Own Me](https://open.spotify.com/album/0TVZKR5ERQr5GqKi8T1OJa) | 3:37 | 2021-09-24 | 2022-01-28 |
@@ -474,7 +475,7 @@
 | [Strawberry Blush \(feat\. Free Nationals\)](https://open.spotify.com/track/7wIZ3CXR08DPLR8G0uk210) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 | 2022-09-12 | 2022-09-30 |
 | [Sugar Man \- Spotify Singles](https://open.spotify.com/track/1CQNof97BOKANyheEifHiQ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Spotify Singles](https://open.spotify.com/album/0Fr890mJEfZ5hrOSNhZjKV) | 4:21 | 2021-01-23 | 2021-09-24 |
 | [Suitcase \(Add The Weight\)](https://open.spotify.com/track/0o4CTEYWY8yagcAb6bFLfH) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [OVERCOME](https://open.spotify.com/album/0b6qmHJhFRgStEf3rXSDmu) | 4:24 | 2020-04-24 | 2021-04-23 |
-| [Summer in Amsterdam](https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6), [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Summer in Amsterdam](https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1) | 3:30 | 2022-06-03 |  |
+| [Summer in Amsterdam](https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6), [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Summer in Amsterdam](https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1) | 3:30 | 2022-06-03 | 2022-11-04 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-12-01 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/1Mog4RV9ViEiPBErvSW1Rq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sunny Afternoon](https://open.spotify.com/album/7KaEMLb4nTDHMyvvN47Wkr) | 2:51 | 2020-05-01 | 2021-04-17 |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2021-04-17 | 2022-09-23 |

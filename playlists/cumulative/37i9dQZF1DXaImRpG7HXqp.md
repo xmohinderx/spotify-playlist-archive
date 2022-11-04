@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-363 songs - 16 hr 31 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
+367 songs - 16 hr 39 min - [published](https://open.spotify.com/playlist/5PZ770ouKzW8rBTHStmSLB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Anteayer](https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Anteayer](https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6) | 2:27 | 2021-12-08 | 2022-04-22 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2022-07-01 | 2022-09-03 |
 | [Armonía](https://open.spotify.com/track/4r8uTP28nmVINTIklzXG3s) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Armonía](https://open.spotify.com/album/3vZO7miIHbU4GZ1w7jkkKB) | 2:06 | 2022-05-27 | 2022-10-07 |
-| [Ashley](https://open.spotify.com/track/7BbbckFkys6pX1zldStAva) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/7llaS2eqQKC7S6iybznHMJ) | 2:10 | 2022-07-29 |  |
+| [Ashley](https://open.spotify.com/track/0S6RcRs940bTaQjED6YGM8) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/0gUIJmWnb5l5JObLqWVcZi) | 2:10 | 2022-10-28 |  |
+| [Ashley](https://open.spotify.com/track/7BbbckFkys6pX1zldStAva) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/7llaS2eqQKC7S6iybznHMJ) | 2:10 | 2022-07-29 | 2022-11-04 |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2021-12-08 | 2022-06-10 |
 | [At The Break Of Dawn](https://open.spotify.com/track/61uRecTYAbUpsepdzkbS4D) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [At The Break Of Dawn](https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q) | 3:52 | 2021-12-08 | 2022-09-23 |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2021-12-08 | 2022-04-22 |
@@ -214,7 +215,8 @@
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2021-12-08 |  |
 | [Natsunoyo](https://open.spotify.com/track/177z4X3Na4sE1Hgf9IWfOH) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Natsunoyo](https://open.spotify.com/album/6XwKddDQoFjI9dO7AHo2Ar) | 2:03 | 2022-07-01 | 2022-09-17 |
 | [Neverland](https://open.spotify.com/track/5dBfxNan60Il2DqEFYIcMQ) | [Tristan Wilson](https://open.spotify.com/artist/0Whtro6LqFditoj7nzIOMH) | [Neverland](https://open.spotify.com/album/6jJjT7skytiWDi4reLn9Gk) | 2:30 | 2021-12-08 | 2022-04-22 |
-| [New Season](https://open.spotify.com/track/00MR3lqcuALQH6JuJhzAcp) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/3fGMi62FQUhFEn8muqHqSj) | 2:00 | 2022-10-07 |  |
+| [New Season](https://open.spotify.com/track/00MR3lqcuALQH6JuJhzAcp) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/3fGMi62FQUhFEn8muqHqSj) | 2:00 | 2022-10-07 | 2022-11-04 |
+| [New Season](https://open.spotify.com/track/6EDhbMrFPSRamUaDotdn6v) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/0Oy5FpXNS4Uy9Gy3vqcT7o) | 2:00 | 2022-10-28 |  |
 | [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2022-09-09 |  |
 | [No es mi mente](https://open.spotify.com/track/7ni5mRayDGv27vipkVC1Gg) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [No es mi mente](https://open.spotify.com/album/1bus1UdLODz3yjXO1czJKt) | 2:30 | 2021-12-08 |  |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
@@ -239,7 +241,8 @@
 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 | 2021-12-08 | 2022-04-06 |
 | [Pescadores](https://open.spotify.com/track/1kUaMtCK9JFPHUqPY9vEWN) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 2:47 | 2022-05-27 | 2022-08-05 |
 | [Photos of the Sun](https://open.spotify.com/track/6pnuVKbhK0ROctyEzFpz5G) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Photos of the Sun](https://open.spotify.com/album/6rKBI95x3OvQyTnyuNYXeH) | 2:53 | 2021-12-08 |  |
-| [Pine Barrens](https://open.spotify.com/track/3K83TKlA6woUhq03vdliqz) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/0e1QAdLfpz2c0kXNVHF3vM) | 2:09 | 2022-10-28 |  |
+| [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 | 2022-10-28 |  |
+| [Pine Barrens](https://open.spotify.com/track/3K83TKlA6woUhq03vdliqz) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/0e1QAdLfpz2c0kXNVHF3vM) | 2:09 | 2022-10-28 | 2022-11-04 |
 | [Pinus Cembra](https://open.spotify.com/track/0KfgAX6tVB7J4fO72KHkBO) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Pinus Cembra](https://open.spotify.com/album/4NcSdFGsfLU8g1d5dMrz5X) | 3:03 | 2021-12-08 | 2022-09-23 |
 | [Place of Mind](https://open.spotify.com/track/1pgpQZQvJv2cMxYVvUjJTF) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Place of Mind](https://open.spotify.com/album/2kLih1mDxzTgcQNhWDnPBx) | 2:39 | 2022-06-10 | 2022-07-29 |
 | [Polmont](https://open.spotify.com/track/6Mz1pP2PVuRP74MmjSMK6z) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Polmont](https://open.spotify.com/album/4H2kxZ43dRQdOTuAL6mw5r) | 2:16 | 2021-12-08 | 2022-06-10 |
@@ -343,7 +346,8 @@
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2021-12-08 | 2022-08-05 |
 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 | 2021-12-08 | 2022-09-03 |
 | [Voladora](https://open.spotify.com/track/3BQ2mk5aLBRNUu03IB8Pbw) | [Original Key](https://open.spotify.com/artist/1DL4rbH7dFMN3C54AExD55) | [Voladora](https://open.spotify.com/album/2I9e8mbkv73wrVNw5RuJeg) | 2:11 | 2022-10-28 |  |
-| [Vos](https://open.spotify.com/track/61TDH0v8Yqn5iGhB5YGvin) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Vos](https://open.spotify.com/album/2K5DKWUYgBpgoELQkktX03) | 2:11 | 2022-10-07 |  |
+| [Vos](https://open.spotify.com/track/26jriTDN3zZdpwHiXNyM3Q) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Vos](https://open.spotify.com/album/6DPAoBHeYtw3aRknPL4MRe) | 2:11 | 2022-10-28 |  |
+| [Vos](https://open.spotify.com/track/61TDH0v8Yqn5iGhB5YGvin) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Vos](https://open.spotify.com/album/2K5DKWUYgBpgoELQkktX03) | 2:11 | 2022-10-07 | 2022-11-04 |
 | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/track/7nO3piY69zNMVDsYihaJX1) | [Daniel Westley](https://open.spotify.com/artist/34D309TQ5JMm3vgtJRWRl7) | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/album/6wgDm19rHIlnFcQ3BAxIVA) | 2:10 | 2021-12-08 | 2022-06-10 |
 | [Waialeale](https://open.spotify.com/track/7u7MQvmsGsn8r77faeriZj) | [Karl Vandu](https://open.spotify.com/artist/2fpxu9mnYrt7bX78dBS2R9) | [Waialeale](https://open.spotify.com/album/753L3VlKC545I9MkCJioRt) | 3:35 | 2021-12-08 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2021-12-08 | 2022-07-08 |

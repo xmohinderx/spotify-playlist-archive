@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261720,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
@@ -41,6 +41,28 @@
       "duration_ms": 208666,
       "name": "A Tu Vera",
       "url": "https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7"
+    },
+    {
+      "album": {
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
+      },
+      "artists": [
+        {
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "album": {
@@ -329,7 +351,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 282893,
       "name": "Dejandonos La Piel (with Lolita)",
       "url": "https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW"
@@ -376,6 +398,24 @@
     },
     {
       "album": {
+        "name": "El relicario (Remastered)",
+        "url": "https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228194,
+      "name": "El relicario - Remastered",
+      "url": "https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF"
+    },
+    {
+      "album": {
         "name": "Mujeres de M\u00fasica",
         "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
@@ -409,7 +449,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-25",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "En Un Mundo Raro",
       "url": "https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa"
@@ -685,10 +725,32 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 222125,
       "name": "La Violetera - Remastered",
       "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
+    },
+    {
+      "album": {
+        "name": "La Colecci\u00f3n Definitiva",
+        "url": "https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg"
+      },
+      "artists": [
+        {
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226506,
+      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
+      "url": "https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb"
     },
     {
       "album": {
@@ -725,7 +787,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 211746,
       "name": "Los Nardos",
       "url": "https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1"
@@ -913,7 +975,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-11",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Ponte la Mano en el Pecho",
       "url": "https://open.spotify.com/track/5R9D7LIue9bA2acd75Tfuv"
@@ -957,6 +1019,24 @@
       "duration_ms": 232000,
       "name": "Que seas feliz",
       "url": "https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+      },
+      "artists": [
+        {
+          "name": "Sara Montiel",
+          "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "album": {
@@ -1101,7 +1181,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 279026,
       "name": "Se Nos Rompio el Amor (with Mal\u00fa)",
       "url": "https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE"
@@ -1119,7 +1199,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271693,
       "name": "Se nos rompi\u00f3 el amor",
       "url": "https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li"
@@ -1279,7 +1359,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 188200,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ"
@@ -1315,7 +1395,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 184693,
       "name": "Te Quiero Te Quiero",
       "url": "https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH"

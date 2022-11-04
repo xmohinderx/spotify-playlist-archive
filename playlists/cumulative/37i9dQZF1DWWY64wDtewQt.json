@@ -881,10 +881,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 117434,
       "name": "Crazy Phonk - Remix",
       "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
+    },
+    {
+      "album": {
+        "name": "Crazy Phonk Remixes",
+        "url": "https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1"
+      },
+      "artists": [
+        {
+          "name": "Fxbii",
+          "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117480,
+      "name": "Crazy Phonk - Remix - Slowed",
+      "url": "https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8"
     },
     {
       "album": {
@@ -4886,6 +4904,24 @@
     },
     {
       "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI"
+      },
+      "artists": [
+        {
+          "name": "Phonk Killer",
+          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103070,
+      "name": "RITUAL",
+      "url": "https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg"
+    },
+    {
+      "album": {
         "name": "ROADKILL",
         "url": "https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM"
       },
@@ -6423,7 +6459,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 164839,
       "name": "WORTH NOTHING - Instrumental",
       "url": "https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq"

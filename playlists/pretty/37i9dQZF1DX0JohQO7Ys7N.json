@@ -1,28 +1,44 @@
 {
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu?si=x_imhGOWRm2ROv8cUeP2CQ\">Charisma</a> ",
-  "num_followers": 9417,
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=z7Ud_HllTD6UoZ1rkqR5tA\">Maya Amolo</a> ",
+  "num_followers": 9446,
   "original_name": "NairoBae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwNDM0MCwwMDAwMDAwMGNjOTk5OTA4ZTJkYjA0ODE1Njk4OWJlYmUxMDRhYzM2",
+  "snapshot_id": "MTY2NzUwOTE0MCwwMDAwMDAwMGVmOTI1OGIxZTBjYTdhMjI3ZGIzMDFhMzBhYzM3ZDc2",
   "tracks": [
     {
-      "added_at": "2022-10-27 20:59:00",
+      "added_at": "2022-11-03 20:59:00",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/577xM3upynKWhBEwnFBPZ2"
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
       },
       "artists": [
         {
-          "name": "Charisma",
-          "url": "https://open.spotify.com/artist/4sVIp9KBR3YULsXRpjjYzp"
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
         }
       ],
-      "duration_ms": 132892,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW"
+      "duration_ms": 176100,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Kesho Kutwa",
+        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Muziki",
+          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
+        }
+      ],
+      "duration_ms": 252623,
+      "name": "Kesho Kutwa",
+      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
       "added_at": "2022-10-13 20:59:00",
@@ -39,6 +55,22 @@
       "duration_ms": 180278,
       "name": "On Yah - Intro",
       "url": "https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ"
+    },
+    {
+      "added_at": "2021-12-28 14:30:06",
+      "album": {
+        "name": "Qwarantunes",
+        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
     },
     {
       "added_at": "2022-07-07 20:59:00",
@@ -59,22 +91,6 @@
       "duration_ms": 187000,
       "name": "Pen & Paper",
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Kesho Kutwa",
-        "url": "https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Muziki",
-          "url": "https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn"
-        }
-      ],
-      "duration_ms": 252623,
-      "name": "Kesho Kutwa",
-      "url": "https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly"
     },
     {
       "added_at": "2022-10-21 07:24:41",
@@ -99,22 +115,6 @@
       "duration_ms": 222545,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/1juwVlJ15TZZXFo4vIEexs"
-    },
-    {
-      "added_at": "2021-12-28 14:30:06",
-      "album": {
-        "name": "Qwarantunes",
-        "url": "https://open.spotify.com/album/3cg69VcGmpzSHxSV1OA1E5"
-      },
-      "artists": [
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/0xXSC3gjbYZUpOFsXVtp0Y"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -391,6 +391,22 @@
       "duration_ms": 227431,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh"
+    },
+    {
+      "added_at": "2022-11-03 20:59:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x"
     },
     {
       "added_at": "2022-06-10 07:43:58",
@@ -1059,26 +1075,6 @@
       "duration_ms": 188148,
       "name": "Sio Siri",
       "url": "https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6"
-    },
-    {
-      "added_at": "2022-02-04 03:03:06",
-      "album": {
-        "name": "Enjoy The Night",
-        "url": "https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn"
-      },
-      "artists": [
-        {
-          "name": "Wanja Wohoro",
-          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
-        },
-        {
-          "name": "Jinku",
-          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
-        }
-      ],
-      "duration_ms": 193894,
-      "name": "Enjoy The Night",
-      "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
     }
   ],
   "unique_name": "NairoBae",

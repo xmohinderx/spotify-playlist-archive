@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "By Die See",
+        "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167190,
+      "name": "By Die See",
+      "url": "https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI"
+    },
+    {
+      "album": {
         "name": "Bruin Brood",
         "url": "https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5"
       },
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 194146,
       "name": "Soldaat",
       "url": "https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : F430",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
   "name": "Cloud Rap",
   "published_playlist_ids": [
     "5hZd800bY7alcQHZCY6dmZ"
@@ -154,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Audrey Tautou",
+        "url": "https://open.spotify.com/album/49jnXKOUmeHnS4SZBm8IOU"
+      },
+      "artists": [
+        {
+          "name": "Jwles",
+          "url": "https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154758,
+      "name": "Audrey Tautou",
+      "url": "https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t"
+    },
+    {
+      "album": {
         "name": "EXGZ 3",
         "url": "https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3"
       },
@@ -235,6 +253,24 @@
       "duration_ms": 221992,
       "name": "Boyka",
       "url": "https://open.spotify.com/track/5sEaPVHq9bCxFaz0W2poeC"
+    },
+    {
+      "album": {
+        "name": "Br\u00fble avec",
+        "url": "https://open.spotify.com/album/1DJxIkQJ4suush17TdX6Om"
+      },
+      "artists": [
+        {
+          "name": "Ekoms",
+          "url": "https://open.spotify.com/artist/6bgeoMw6N8eRZWql5rWBql"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168437,
+      "name": "Br\u00fble avec",
+      "url": "https://open.spotify.com/track/5K1qIXNbh07XHaQbiZEZK3"
     },
     {
       "album": {
@@ -945,7 +981,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 203173,
       "name": "Le monde par ma fen\u00eatre",
       "url": "https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl"
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 175522,
       "name": "Love moi",
       "url": "https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs"
@@ -1101,6 +1137,24 @@
       "duration_ms": 194040,
       "name": "Mami (feat. Chily)",
       "url": "https://open.spotify.com/track/6WEz8nj3m2CfFUidjIKamm"
+    },
+    {
+      "album": {
+        "name": "Maudit",
+        "url": "https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229863,
+      "name": "Maudit",
+      "url": "https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi"
     },
     {
       "album": {
@@ -1423,7 +1477,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 245893,
       "name": "Piano Black",
       "url": "https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7"

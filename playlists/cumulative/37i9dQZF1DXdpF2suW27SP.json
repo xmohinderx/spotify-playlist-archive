@@ -1250,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Lado A Lado",
+        "url": "https://open.spotify.com/album/5RddEu4YAFOQJxkxmoQ6QX"
+      },
+      "artists": [
+        {
+          "name": "Uzzy",
+          "url": "https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130666,
+      "name": "Lado A Lado",
+      "url": "https://open.spotify.com/track/36Hc6xUmjU1GBGlToS52tm"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz"
       },
@@ -2137,6 +2155,28 @@
       "duration_ms": 263323,
       "name": "Pra\u00e7a Onze",
       "url": "https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr"
+    },
+    {
+      "album": {
+        "name": "Pre\u00e7o",
+        "url": "https://open.spotify.com/album/0ErHkdC4omVhUWM5syHNe9"
+      },
+      "artists": [
+        {
+          "name": "Londone",
+          "url": "https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2"
+        },
+        {
+          "name": "Barata",
+          "url": "https://open.spotify.com/artist/7a2Lv59T1gA2caRYvy11gW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195125,
+      "name": "Pre\u00e7o",
+      "url": "https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7"
     },
     {
       "album": {

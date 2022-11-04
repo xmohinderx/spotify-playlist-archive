@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:7zD0iVZyZo4stvwavuu7i0\">Misty</a>",
+  "description": "Nuove scoperte dalla scena indipendente italiana, senza etichette di genere. Cover: <a href=\"spotify:artist:0W4rRhGtsRNewRb2pNPsdp\">Cate</a>",
   "name": "Fresh Finds Italia",
   "published_playlist_ids": [
     "7DW4xNQc4jVEAVd25UPTmP"
@@ -821,6 +821,24 @@
       "duration_ms": 180284,
       "name": "astri",
       "url": "https://open.spotify.com/track/5bdmR2sCheqRudAID6ahVp"
+    },
+    {
+      "album": {
+        "name": "Atlantide",
+        "url": "https://open.spotify.com/album/14Wf6p6bxfsjTEskhANUqV"
+      },
+      "artists": [
+        {
+          "name": "Kursed Kalla",
+          "url": "https://open.spotify.com/artist/1nTZMsXbqCCS0Ibab9jqLd"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159184,
+      "name": "Atlantide",
+      "url": "https://open.spotify.com/track/0kZ2QqoMAU1lGppjtBeya6"
     },
     {
       "album": {
@@ -1899,6 +1917,24 @@
       "duration_ms": 253287,
       "name": "Dentro la mia pelle",
       "url": "https://open.spotify.com/track/3VLA9s4mWD4udmkdckgirS"
+    },
+    {
+      "album": {
+        "name": "Dentro lo scheletro della balena",
+        "url": "https://open.spotify.com/album/0Nka0ENCZQetwLItOBsceJ"
+      },
+      "artists": [
+        {
+          "name": "Tashi",
+          "url": "https://open.spotify.com/artist/6BHftRBxdUHhG0ByRT8N0f"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Dentro lo scheletro della balena",
+      "url": "https://open.spotify.com/track/0fqlS4EsNfEvoUYiYLuqjv"
     },
     {
       "album": {
@@ -3896,6 +3932,28 @@
     },
     {
       "album": {
+        "name": "Mai Fake",
+        "url": "https://open.spotify.com/album/32DjAB8vIZ616qDu0LvGwM"
+      },
+      "artists": [
+        {
+          "name": "Sono Isa",
+          "url": "https://open.spotify.com/artist/1fpDunFDS72TnBAad3A5nt"
+        },
+        {
+          "name": "Tuxxy",
+          "url": "https://open.spotify.com/artist/4ffyvJgR5OhjbMoG3TwuLn"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "Mai Fake",
+      "url": "https://open.spotify.com/track/5MEsS7xSpVTscYmmtsljUb"
+    },
+    {
+      "album": {
         "name": "Malemalemale",
         "url": "https://open.spotify.com/album/23NRskPb1PiTYLAv7fuH7h"
       },
@@ -5578,6 +5636,24 @@
     },
     {
       "album": {
+        "name": "Pollock",
+        "url": "https://open.spotify.com/album/0yGaLl4h8H4VWpAZLXiwYC"
+      },
+      "artists": [
+        {
+          "name": "Macadamia",
+          "url": "https://open.spotify.com/artist/4ctoRm4PSfS4v7YdoHgIen"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199983,
+      "name": "Pollock",
+      "url": "https://open.spotify.com/track/2j5pBhfttpnIHdq3I5wNpa"
+    },
+    {
+      "album": {
         "name": "Ponte",
         "url": "https://open.spotify.com/album/7Hu1zd5XYvUcMTd4GpIIu9"
       },
@@ -6842,6 +6918,24 @@
     },
     {
       "album": {
+        "name": "Sottosopra",
+        "url": "https://open.spotify.com/album/4WylLvChvhZPHz2hx8ZYrm"
+      },
+      "artists": [
+        {
+          "name": "Fioravantess",
+          "url": "https://open.spotify.com/artist/06Rz7AXvMRTyLHKihqajRO"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176179,
+      "name": "Sottosopra",
+      "url": "https://open.spotify.com/track/3U25JHpo6GRDP0pT78zL81"
+    },
+    {
+      "album": {
         "name": "sottosopra",
         "url": "https://open.spotify.com/album/6moVQ2cDgTKftRE7o4uzXM"
       },
@@ -6929,7 +7023,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 298241,
       "name": "Spirito della Domenica",
       "url": "https://open.spotify.com/track/49BcVeFV0VuU9v73JxQFL1"
@@ -7781,7 +7875,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 197142,
       "name": "UMMA - Arssalendo Remix",
       "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
@@ -8251,6 +8345,32 @@
       "duration_ms": 224122,
       "name": "Zucchero in Testa",
       "url": "https://open.spotify.com/track/1l6oGE5Ijw4TzSm1sxlfCV"
+    },
+    {
+      "album": {
+        "name": "\u00c8 SOLO FALSO",
+        "url": "https://open.spotify.com/album/5LoeM2fBvh2Y1N7xInJ8Vm"
+      },
+      "artists": [
+        {
+          "name": "azael",
+          "url": "https://open.spotify.com/artist/0ka5NilkDyElonlI22xaJk"
+        },
+        {
+          "name": "r o s so",
+          "url": "https://open.spotify.com/artist/1gpMfVmjQR8tj5k0LWZ6Qx"
+        },
+        {
+          "name": "Gaia Cecconi",
+          "url": "https://open.spotify.com/artist/6CCMT1BpojRZNbSEH2kDzp"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175834,
+      "name": "\u00c8 SOLO FALSO",
+      "url": "https://open.spotify.com/track/0Fha917lDyQgGQAJDy11QV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY"

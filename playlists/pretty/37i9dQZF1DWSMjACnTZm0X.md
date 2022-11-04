@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi?si=hX0ud9u5TMGZP\-zFPS5t6g">Yaba Buluku Boyz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,277 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,285 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 38 | [BADDEST](https://open.spotify.com/track/4xTwTDFRbBqfXCx5tMmadx) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [BADDEST](https://open.spotify.com/album/2RljvYXkDwwa9oREPizmGL) | 3:45 |
 | 39 | [Etema](https://open.spotify.com/track/6ziIY7sfJeEl2mDQoR8WUp) | [WaxFiend](https://open.spotify.com/artist/052544MnsA3CEiQtQHlx7r), [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [Dave Nunes](https://open.spotify.com/artist/1Jo0kVGvfYzeXGjMUvfmLR) | [Etema](https://open.spotify.com/album/15QxdFuEEcoN0j1RtRYGPb) | 4:30 |
 | 40 | [3ini](https://open.spotify.com/track/2M1Xc54nz93rStrYVA3lzU) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [3ini](https://open.spotify.com/album/7swsJlf5q3FSqn3MIQjQBa) | 2:57 |
-| 41 | [Wamuhle](https://open.spotify.com/track/7svsAHuA6hM4sKhkzpvlhS) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Tweezy](https://open.spotify.com/artist/25siXbZn4L4BKHPwZQmTI7), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Wamuhle](https://open.spotify.com/album/3m7471MGHb88t6xpzQWpQs) | 7:33 |
+| 41 | [Wamuhle](https://open.spotify.com/track/2QXy2Boct78JseFVlEnR7C) | [Slade](https://open.spotify.com/artist/3rz6XDJwU2d1gBY5bbcdtT), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [Tweezy](https://open.spotify.com/artist/25siXbZn4L4BKHPwZQmTI7), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [My Turn](https://open.spotify.com/album/258cdpLnvAW9YaxL8d0wNt) | 7:33 |
 | 42 | [All of This \- Major League Djz x Dlala Mlungu Remix](https://open.spotify.com/track/6WPLujVPQnO6KKiKeM55JD) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Dlala Mlungu](https://open.spotify.com/artist/0Z8ueK7EmNvhb6UQpET43Q) | [All of This Remixes, Vol\. 1](https://open.spotify.com/album/2C7i3ULo1L5InPW5uKGyF5) | 5:33 |
 | 43 | [Kunjani](https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Kunjani](https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S) | 4:21 |
 | 44 | [Hallelu](https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Hallelu](https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/track/7fu1rvKAKfb4vxYJzgA6Vo) | [Dj Obza](https://open.spotify.com/artist/3ciriYzsPraVHAuNLA1ylh), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [Mang' Dakiwe \(Remix\)](https://open.spotify.com/album/7LhPDGHwqdinqFXBQxAwcI) | 6:52 |
 | 50 | [Everything I Wanted \(DJ Maphorisa & Kabza De Small Mix\)](https://open.spotify.com/track/58C02H66DFbJGMlh6wkung) | [Mariechan](https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Everything I Wanted \(Amapiano Remixes\)](https://open.spotify.com/album/3B99jZUN7yZaC5EMk3mS09) | 7:39 |
 
-Snapshot ID: `MTY2NzM4Mjk2MSwwMDAwMDAwMDg1NDM0MjZmMWRiNzg0ZTljNjM3ZDFiZWEzYzA3Y2Uz`
+Snapshot ID: `MTY2NzM4Mjk2MSwwMDAwMDAwMDNiMzcwNjVlYzE2ZjA0NDAyMDY1NDdmZTM4M2I4MjZh`

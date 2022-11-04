@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 180000,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79"
@@ -569,7 +569,7 @@
           "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 174590,
@@ -1279,7 +1279,7 @@
           "url": "https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN"
         }
       ],
-      "date_added": "2022-10-29",
+      "date_added": "2022-10-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153077,
@@ -1423,6 +1423,24 @@
       "duration_ms": 205131,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH"
+    },
+    {
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/1yszAI0O53HKBjyrR8l2fi"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/6N45YY6tHC0DNeAdXS43fe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-908 songs - 2 day 7 hr 36 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
+909 songs - 2 day 7 hr 41 min - [published](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Barro](https://open.spotify.com/track/6Gves1KZvYZ4gSg0pKUgqm) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [OTRX II](https://open.spotify.com/album/7xpbbpRtVDDCKcnnqHGa4P) | 3:17 | 2022-04-08 | 2022-04-10 |
 | [Barro Tal Vez \(with Luis Alberto Spinetta\)](https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:45 | 2022-04-01 | 2022-04-17 |
 | [Basket Case](https://open.spotify.com/track/2WM7ZRdvK3YEMKzkLUtVwJ) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Basket Case](https://open.spotify.com/album/7CGhJlFFbyjsz7oRfvjOTp) | 2:49 | 2022-03-24 | 2022-04-13 |
-| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 |  |
+| [Bastará](https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:39 | 2021-12-24 | 2022-11-04 |
 | [Beautiful Girls](https://open.spotify.com/track/5IuV0YqQfVkzRQmvoDClV1) | [J\-Que Beenz](https://open.spotify.com/artist/0acIWCh2fgq3vfr2D1P1XS) | [Beautiful Girls](https://open.spotify.com/album/5N3aGKPcdxAViYFagexAEO) | 3:58 | 2022-04-01 | 2022-04-21 |
 | [Bendiciones](https://open.spotify.com/track/1MGO5YkUubhzJnHiqyZtQI) | [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Bendiciones](https://open.spotify.com/album/3Pb6traoS9aDEFhhpviZFl) | 3:30 | 2022-04-13 | 2022-04-19 |
 | [Beso](https://open.spotify.com/track/0dpoWGBWs8HZrCV7OsfxF4) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Beso](https://open.spotify.com/album/1UKdo71goXKpKnX09oZYIv) | 1:58 | 2022-04-01 | 2022-04-18 |
@@ -295,6 +295,7 @@
 | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/track/4S6xZnnSy1gdUI2sOKW6LH) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [El Regalo \(feat\. Natalie Perez\)](https://open.spotify.com/album/6EpbvpUGQhhapliINC24Vm) | 2:46 | 2022-01-28 | 2022-04-13 |
 | [El Surco](https://open.spotify.com/track/1B2MXrs8aZSWYnEjWIddeO) | [Hermano Hormiga](https://open.spotify.com/artist/60bawIS0g1l1tRMhT5dIO3) | [Hermano Hormiga](https://open.spotify.com/album/6aIdPjtFKCllGsb7Y00CkN) | 3:01 | 2022-03-24 | 2022-04-12 |
 | [El Tesoro](https://open.spotify.com/track/6eiNg8p7GYO7x0GXM4zplv) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/5YCFp2g2ZZUc0bKNAWyYHN) | 4:31 | 2022-03-24 | 2022-04-13 |
+| [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 | 2022-10-28 |  |
 | [El Tesoro \- Acústico](https://open.spotify.com/track/7epkxIjTKYvBwKhzkObyNX) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Ahora Imagino Cosas](https://open.spotify.com/album/0t84BNDwlpi8EghhfvRGML) | 5:20 | 2022-03-28 | 2022-04-01 |
 | [El Tesoro \- Picnic En el Piso Doce](https://open.spotify.com/track/32MBMGvoLp04yGrHnkNEh4) | [Picnic En el Piso Doce](https://open.spotify.com/artist/3d43bwt9N0fKfP5JRCzbO1), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [El Tesoro \- Picnic En el Piso Doce](https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj) | 4:02 | 2022-01-07 | 2022-07-29 |
 | [El Tiempo No Para \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 5:21 | 2022-03-24 | 2022-04-21 |

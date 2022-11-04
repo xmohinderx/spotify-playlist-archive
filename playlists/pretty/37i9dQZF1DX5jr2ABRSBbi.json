@@ -1,18 +1,18 @@
 {
   "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Tamara Kramar",
-  "num_followers": 3277,
+  "num_followers": 3279,
   "original_name": "EQUAL CZ&SK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM0MzYwMCwwMDAwMDAwMDAwYjkwMThlNjYzNDlmYmU4ZDY5Yzk1NzJiNDdhNWZl",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMGQ3ODU3ZmYxNTA4MWFhNTY3MDQzMGM2ZjVmYjc4YTU2",
   "tracks": [
     {
-      "added_at": "2022-11-01 23:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Oh my mind",
-        "url": "https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O"
+        "name": "Down / House of Cards",
+        "url": "https://open.spotify.com/album/2ndm3i6NRcaR2EmUiuh7vo"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
         }
       ],
-      "duration_ms": 171191,
-      "name": "Oh my mind",
-      "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"
+      "duration_ms": 241327,
+      "name": "Down / House of Cards",
+      "url": "https://open.spotify.com/track/72foKCqAhGyaeofqmQ2TL0"
     },
     {
       "added_at": "2022-11-01 23:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-11-01 23:00:00",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
-      },
-      "artists": [
-        {
-          "name": "Fejbs",
-          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
-    },
-    {
-      "added_at": "2022-11-01 23:00:00",
-      "album": {
         "name": "Private Poison",
         "url": "https://open.spotify.com/album/5c4WLdjVqpx67TwUQxB9V5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 169912,
       "name": "Private Poison",
       "url": "https://open.spotify.com/track/5rRL6bqYWSzAp3meHMxUl6"
+    },
+    {
+      "added_at": "2022-11-01 23:00:00",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/0Umz5EHGYbWocsZLwVx7TO"
+      },
+      "artists": [
+        {
+          "name": "Fejbs",
+          "url": "https://open.spotify.com/artist/0LviqijMvqJfXDI6xJFXxm"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Sm5jkH3G1FMKiLMa5QKwv"
     },
     {
       "added_at": "2022-11-01 23:00:00",

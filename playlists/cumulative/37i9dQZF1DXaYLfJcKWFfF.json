@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Lou Bess Dioudouna",
+        "url": "https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l"
+      },
+      "artists": [
+        {
+          "name": "Afro Begue",
+          "url": "https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306464,
+      "name": "Fallo Fall",
+      "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
+    },
+    {
+      "album": {
         "name": "Hamna aibu",
         "url": "https://open.spotify.com/album/5fWs62FSv3RsMhuhfYioa3"
       },
@@ -327,7 +345,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 188309,
       "name": "Luendu",
       "url": "https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 197760,
       "name": "Who No Know Go Know",
       "url": "https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 218160,
       "name": "Your Dream",
       "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"

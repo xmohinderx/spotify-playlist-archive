@@ -4,7 +4,7 @@
 
 > Generation defining music, one playlist.
 
-59 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
+60 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/5dxrgiDbd1PKMHmIO4juKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Anthem for the Year 2000](https://open.spotify.com/track/3J19l4hOfwFFIF715BwVcG) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:07 | 2021-09-16 |  |
 | [Blind](https://open.spotify.com/track/3OoZg5GIrewNd7kDTlgWPU) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:55 | 2021-09-16 |  |
 | [Cemetery](https://open.spotify.com/track/1Z9YYig7c8LudF17OVlLbH) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:01 | 2021-09-16 |  |
-| [Cicada](https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:10 | 2021-09-16 |  |
+| [Cicada](https://open.spotify.com/track/6mJdEWVOaCayMo8eaSl3Xw) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:10 | 2021-09-16 | 2022-11-04 |
 | [Dearest Helpless](https://open.spotify.com/track/03BpiU265TNopnUCVQLaMT) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 3:34 | 2021-09-16 |  |
 | [Do You Feel The Same](https://open.spotify.com/track/1ys0r7cSqkyrGVSAf152g7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 4:18 | 2021-09-16 |  |
 | [Emotion Sickness](https://open.spotify.com/track/3y7dENLRE8paSquq4LAW1e) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Neon Ballroom](https://open.spotify.com/album/10bobqzP8mtragmflBolOM) | 6:00 | 2021-09-16 |  |
@@ -51,7 +51,7 @@
 | [Stoned](https://open.spotify.com/track/33V0DuZAd72kC40DHNFBKZ) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Tomorrow \- EP](https://open.spotify.com/album/7v0I0ENVfc783mB4JlqhY8) | 2:48 | 2021-09-16 |  |
 | [Straight Lines](https://open.spotify.com/track/5uPO2eBKEdmBT3XtZ76VVa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 4:18 | 2021-09-16 |  |
 | [Suicidal Dream](https://open.spotify.com/track/3AZ5XoHdiFpiKMky6M1Gt9) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 3:12 | 2021-09-16 |  |
-| [Surfin' Bird](https://open.spotify.com/track/5HyAFzA2XJgeBc5UBJIpY1) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Door](https://open.spotify.com/album/6oHDWWu4q87WeULEQGoq84) | 2:22 | 2021-09-16 |  |
+| [Surfin' Bird](https://open.spotify.com/track/5HyAFzA2XJgeBc5UBJIpY1) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [The Door](https://open.spotify.com/album/6oHDWWu4q87WeULEQGoq84) | 2:22 | 2021-09-16 | 2022-11-04 |
 | [The Door](https://open.spotify.com/track/58nHFSWj5N5JxNtWgS85TL) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:33 | 2021-09-16 |  |
 | [The Greatest View](https://open.spotify.com/track/1I3ZtkoM19zN8cV62XpbwW) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:02 | 2021-09-16 |  |
 | [The Greatest View](https://open.spotify.com/track/1uNxBzCKlBH5NfACmZraRH) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 4:05 | 2021-09-16 | 2022-07-29 |
@@ -66,6 +66,7 @@
 | [Waiting All Day](https://open.spotify.com/track/0KzlYoT1b0yDxqcdAmKcfc) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 4:29 | 2021-09-16 |  |
 | [Without You](https://open.spotify.com/track/3BU1QSGVk2hUMJYpjTaULP) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama](https://open.spotify.com/album/6Bef401qUtLZTVGXByUycq) | 5:17 | 2021-09-16 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/6zCgvb5Js1s7C3kVERduKs) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 5:19 | 2021-09-16 |  |
+| [World Upon Your Shoulders](https://open.spotify.com/track/3tCvj7xraydixVUIYcNCtr) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Diorama \(U.S\. Version\)](https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN) | 4:36 | 2022-11-03 |  |
 | [Young Modern Station](https://open.spotify.com/track/1zBTP9Q32Qb11E8HnSa1j3) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Young Modern](https://open.spotify.com/album/7aTpmoysIfl5vhgAOJ0mp5) | 3:12 | 2021-09-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Dopein\)
 
-228 songs - 12 hr 37 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
+230 songs - 12 hr 43 min - [published](https://open.spotify.com/playlist/5Hrdjsp6aBkwAdiPnbMIoP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [I know the face](https://open.spotify.com/track/51SP5XjvqDJHTIRmBVLU82) | [KOREAN](https://open.spotify.com/artist/762fgqQ2gz5w7q1VkDOmja) | [DOom](https://open.spotify.com/album/1L4Lz36yZmhmhgpvxyI0p8) | 3:14 | 2022-05-27 | 2022-07-26 |
 | [I Like You \(Feat\. sogumm\)](https://open.spotify.com/track/3DjHWTgYwt15ELFn2YRkfV) | [L\-like](https://open.spotify.com/artist/6L639z5gxUZ0uvXFewX9E7), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Olive](https://open.spotify.com/album/6zFG2xmMmnDLr1MroJ3ue3) | 3:25 | 2022-06-09 | 2022-07-22 |
 | [I LOVE YOU](https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I LOVE YOU](https://open.spotify.com/album/76KAp3rsIGWC0FcoPjAHkT) | 1:38 | 2022-05-27 |  |
-| [I Sing My Blues Away](https://open.spotify.com/track/0Dsx7tOWOORkxJE8pf5oCF) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [I Sing My Blues Away](https://open.spotify.com/album/0ex0GkY8TCwTUWLQwnHD0A) | 3:27 | 2022-10-03 |  |
+| [I Sing My Blues Away](https://open.spotify.com/track/0Dsx7tOWOORkxJE8pf5oCF) | [Soseo](https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf) | [I Sing My Blues Away](https://open.spotify.com/album/0ex0GkY8TCwTUWLQwnHD0A) | 3:27 | 2022-10-03 | 2022-11-04 |
 | [I would](https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq) | 3:25 | 2022-07-08 |  |
 | [I'm not your son](https://open.spotify.com/track/5g9pOHaYg7JgCrzfxwPble) | [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [The Sandwich Artist](https://open.spotify.com/album/4qCXJvhE5llqnGPQAVIsxO) | 2:43 | 2022-05-27 | 2022-07-21 |
 | [IDEAL TYPE](https://open.spotify.com/track/20Z3LYKoYwLAZcrlyp35QY) | [besisi](https://open.spotify.com/artist/1ceX86LLepT24qw3CaXUJg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [IDEAL TYPE](https://open.spotify.com/album/69q6kLGOS6lZALtT0JPlet) | 2:27 | 2022-05-27 | 2022-07-27 |
@@ -136,6 +136,7 @@
 | [monochrome](https://open.spotify.com/track/1mRBrMhPTfzrLZExDaNU3k) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [monochrome](https://open.spotify.com/album/6mNAsURE9iDVUd5v1wqAjx) | 4:21 | 2022-09-05 |  |
 | [Monster](https://open.spotify.com/track/4lzOzwomlLCzI2fuITPsEs) | [MIXXXD BY](https://open.spotify.com/artist/5TrpyeMunSR0tMqzxdvFVU) | [Monster](https://open.spotify.com/album/5xAfHVVvl1wbolDNpEk5h7) | 2:57 | 2022-06-09 | 2022-07-28 |
 | [Moon](https://open.spotify.com/track/1Fi5OIs8sB3WABpWZAYbJG) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 2:46 | 2022-05-27 | 2022-07-29 |
+| [Muse](https://open.spotify.com/track/4mt7tW8sKu4Ns0yMIVsrIn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:55 | 2022-11-03 |  |
 | [MWAH](https://open.spotify.com/track/1mY0EZbeh4LB9XAoSgUklw) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [MWAH](https://open.spotify.com/album/51l27CHkRmZXBhIel6iCBz) | 3:06 | 2022-05-27 | 2022-07-29 |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2022-05-27 |  |
 | [New](https://open.spotify.com/track/3RbkzuLs2u9TprBTPnUp4W) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [CINEMA](https://open.spotify.com/album/3c12AipT5WBHnU6zz2yGzx) | 3:02 | 2022-07-08 |  |
@@ -179,6 +180,7 @@
 | [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 |  |
 | [SAYx3 ft\. Dbo](https://open.spotify.com/track/1dNmiMBjO9qt7X6e3AxVzb) | [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [XX,](https://open.spotify.com/album/7xYCdFkWmsGYBpWSLDUYNQ) | 3:17 | 2022-05-27 | 2022-07-28 |
 | [Sea of Love](https://open.spotify.com/track/5niSEAzP4pRaCBmzJ2slZd) | [cacophony](https://open.spotify.com/artist/5SZqfS7AE4YlbeoWm8hQZ9) | [Sea of Love](https://open.spotify.com/album/3Bhjt2W3ZfMTlGGM2qH7zF) | 4:35 | 2022-05-27 | 2022-07-28 |
+| [Seesaw](https://open.spotify.com/track/1ctd2EC8BDtHfQ6g690ipg) | [HWAJA](https://open.spotify.com/artist/40T75cQkB1HzvOpRhmcZa5) | [Playground](https://open.spotify.com/album/5u6RHBvmb2ODFVFNt1TNU4) | 3:47 | 2022-11-03 |  |
 | [Serenade for Mrs.Jeon](https://open.spotify.com/track/0p7bBO5ohB47GIpjI9a8BZ) | [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [Serenade for Mrs.Jeon](https://open.spotify.com/album/4gqXI5UTbc0wkNpjxn499t) | 3:05 | 2022-05-27 | 2022-07-28 |
 | [Shining Night](https://open.spotify.com/track/1aYPxP2uTgzb92syGXbE59) | [Yoo Yongho](https://open.spotify.com/artist/09KhASZtvdEFtvAjrBeS2Y) | [Shining Night](https://open.spotify.com/album/3o09VfEqsAqQhhMxJjFhPO) | 3:52 | 2022-06-13 | 2022-07-29 |
 | [Signs](https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Signs](https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6) | 2:25 | 2022-07-08 |  |
@@ -198,7 +200,7 @@
 | [Swim \- Virus Edit](https://open.spotify.com/track/6SgtEjK5R4DkUQS0jhqMLH) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Virus Mix](https://open.spotify.com/album/3A9cmVhxoyst19YbEsMvr0) | 3:27 | 2022-07-08 |  |
 | [Swimming](https://open.spotify.com/track/0jKJ9HkQz31JBoRBogpECS) | [Moony](https://open.spotify.com/artist/2WDJiiyZu2rkJtOVJGoVWY) | [Swimming](https://open.spotify.com/album/5aW41llKxMY0ebdLKN96GD) | 4:22 | 2022-05-27 | 2022-07-26 |
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-27 | 2022-08-13 |
-| [That's You](https://open.spotify.com/track/1RCsxisXuOGvK6NuVREhLb) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [That's You](https://open.spotify.com/album/4t7pK3U2UnT1cqPW7CYAp4) | 2:20 | 2022-10-08 |  |
+| [That's You](https://open.spotify.com/track/1RCsxisXuOGvK6NuVREhLb) | [Song Hee\-ran](https://open.spotify.com/artist/28gcQqqgp3H072b9NRkSOW) | [That's You](https://open.spotify.com/album/4t7pK3U2UnT1cqPW7CYAp4) | 2:20 | 2022-10-08 | 2022-11-04 |
 | [The Generation of Tribulation \(feat\. Unnie Choir\)](https://open.spotify.com/track/6iXHit5o9jDQiq8nV7bYMX) | [Lang Lee](https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH), [Unnie Choir](https://open.spotify.com/artist/1MmFelrQxR5LDTVj6mLKdX) | [The Generation of Tribulation](https://open.spotify.com/album/4paWDGzD2IIm59sqB81Tt6) | 5:15 | 2022-05-27 | 2022-07-29 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-08-09 |  |
 | [This Is the End](https://open.spotify.com/track/63uYZyMktT9ITcfzhMt4tQ) | [Lee Hayoun](https://open.spotify.com/artist/3OAnGQisTwghbfez2oHV6q) | [This Is the End](https://open.spotify.com/album/24TwtXPIScBoOresfu11g6) | 3:52 | 2022-05-27 | 2022-07-08 |

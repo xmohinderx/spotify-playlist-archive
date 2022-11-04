@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Dueto Eleval en portada.",
-  "num_followers": 77412,
+  "num_followers": 77446,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMDc0MjE0Njk4YzBlMmI1YTZjNjJlZWNjZjg5MTFkMGNk",
+  "snapshot_id": "MTY2MzkwOTIwMCwwMDAwMDAwMGE0YWUyMGEwOTBjNTcwNTZlNjNiMTA0NTBkYTM4ZjQ4",
   "tracks": [
     {
       "added_at": "2022-09-23 05:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
+        "name": "The Best Grupero Hits",
+        "url": "https://open.spotify.com/album/0VGioiuARfPS0edIkalNoD"
+      },
+      "artists": [
+        {
+          "name": "Pilar Montenegro",
+          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
+        }
+      ],
+      "duration_ms": 240480,
+      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/4aV078HVjd2S1KD15slT63"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "The Best Grupero Hits",
-        "url": "https://open.spotify.com/album/0VGioiuARfPS0edIkalNoD"
-      },
-      "artists": [
-        {
-          "name": "Pilar Montenegro",
-          "url": "https://open.spotify.com/artist/5CSbKdrAQne1Jaen7pMkPF"
-        }
-      ],
-      "duration_ms": 240480,
-      "name": "Qu\u00edtame Ese Hombre Del Coraz\u00f3n - Norte\u00f1a Version",
-      "url": "https://open.spotify.com/track/4aV078HVjd2S1KD15slT63"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "Ahora Que Te Vas",
         "url": "https://open.spotify.com/album/6Dmyw5ljilipCMu1rHo5Ua"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-09-23 05:00:00",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
-    },
-    {
-      "added_at": "2022-09-23 05:00:00",
-      "album": {
         "name": "+Mexicana",
         "url": "https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 228786,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/3PlkHEhFeVPH3IM1OY9N3Y"
+    },
+    {
+      "added_at": "2022-09-23 05:00:00",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
       "added_at": "2022-09-23 05:00:00",

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-780 songs - 1 day 22 hr 22 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+781 songs - 1 day 22 hr 26 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Heard \(draft\)](https://open.spotify.com/track/1HjsYsuh6TuPlELoEmPkpe) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Heard \(draft\)](https://open.spotify.com/album/7BgGPCkU5TgECmII1nPycR) | 2:54 | 2022-03-24 | 2022-04-21 |
 | [Heartbeat](https://open.spotify.com/track/5Q5fB9kPU1JCNutdLHzSfo) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heartbeat](https://open.spotify.com/album/5mul0rHAgZK7Rv8a2CYOWy) | 3:42 | 2022-03-24 | 2022-04-07 |
 | [Hearts \- Acoustic](https://open.spotify.com/track/45ntG5ZKZtVVeSIxMXxe4P) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse \(Deluxe Edition\)](https://open.spotify.com/album/3a32QdgcEGrEKhkSfJk8Tw) | 3:30 | 2021-12-21 | 2022-07-29 |
-| [Heaven Can Wait](https://open.spotify.com/track/6q8YtmvckE9yOtfQ9W6WUP) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ), [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [Heaven Can Wait](https://open.spotify.com/album/0aznVHfopBc9a6iVwIWvmx) | 4:20 | 2021-12-21 |  |
+| [Heaven Can Wait](https://open.spotify.com/track/6q8YtmvckE9yOtfQ9W6WUP) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ), [Robin Stjernberg](https://open.spotify.com/artist/126TYnp3S2nOpqyaeF2YBh) | [Heaven Can Wait](https://open.spotify.com/album/0aznVHfopBc9a6iVwIWvmx) | 4:20 | 2021-12-21 | 2022-11-04 |
 | [Hello My Old Heart](https://open.spotify.com/track/0WyYnDUMiFRPMd20qbg4D5) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [The Oh Hellos EP](https://open.spotify.com/album/6azrYHZKUQ78E6YlyXzy5k) | 4:16 | 2022-03-24 | 2022-04-11 |
 | [Her](https://open.spotify.com/track/2GjQ5KNXggsIRpx5ZUj2zX) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Her](https://open.spotify.com/album/2RewEjwnjhUnDlGpFnaBNx) | 2:57 | 2021-12-21 |  |
 | [Here Too Far](https://open.spotify.com/track/383MxeoXVw7bdeBKEz68Po) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 0:55 | 2022-03-24 | 2022-04-21 |
@@ -774,6 +774,7 @@
 | [Wrong Days](https://open.spotify.com/track/18fw7Gr4T7pysVqV5K0OMY) | [SUNDAYS](https://open.spotify.com/artist/7MjONNGSFluldBu4xa0gYy) | [Wrong Days](https://open.spotify.com/album/2gsQ0TqkTKWWyiy58kM4QE) | 4:42 | 2022-02-03 | 2022-07-08 |
 | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/track/2JerYQPEZWTiTEIFgfUEoV) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSGD \(with Alessia Cara\)](https://open.spotify.com/album/4VkgVNf0yIMLkwfls1J83u) | 4:04 | 2022-03-04 | 2022-04-10 |
 | [You & I](https://open.spotify.com/track/6Wzl4NBqft9IyyZ8GmjQTV) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [You & I](https://open.spotify.com/album/1q5XgAboGu9bWtqal9PZen) | 3:41 | 2021-12-21 | 2022-07-29 |
+| [You & I](https://open.spotify.com/track/70tN3I1odx55VIG7YmgKYx) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [You & I](https://open.spotify.com/album/1iYbAaQ8x92Q7edSJSiiJ6) | 3:41 | 2022-10-07 |  |
 | [You & Me \- Acoustic](https://open.spotify.com/track/31SSdofnn7DuFuWOslyvog) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [You & Me \(Acoustic\)](https://open.spotify.com/album/7paDd1K9DQon4Ugcsu2Jrs) | 3:49 | 2021-12-21 |  |
 | [You \(feat\. Emelie Hollow\)](https://open.spotify.com/track/3LUe3VcnrIvCkmAfuzM31Q) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Waiting](https://open.spotify.com/album/2XyiCujhKmb7ezXGUM4EuY) | 3:07 | 2021-12-21 |  |
 | [You Are](https://open.spotify.com/track/3ko2GsgvCSvblmrc5zpMT2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [You Are](https://open.spotify.com/album/6btDJLaqMnpbOHhzpln8Ad) | 3:30 | 2021-12-21 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Your favourite indie tracks in one place\.  Cover: Steve Lacy
 
-595 songs - 1 day 12 hr 10 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
+596 songs - 1 day 12 hr 13 min - [published](https://open.spotify.com/playlist/6qnKxviUrnCHtUvVMRpVlO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:09 | 2020-10-29\* | 2022-04-02 |
 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2020-12-07 | 2022-08-24 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 | 2022-08-23 | 2022-11-03 |
+| [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/5njwCYHUhRJbSg22rZ2lHy) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 2:49 | 2022-09-23 |  |
 | [iFeel](https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [iFeel](https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF) | 4:29 | 2021-05-04 | 2022-04-15 |
 | [In Blue](https://open.spotify.com/track/7oDxDvb7zJ9lhXvJ0hfiTp) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Willowbank](https://open.spotify.com/album/08j1qYuEXoHBN8mScVEmko) | 3:02 | 2021-02-22 | 2022-04-13 |
 | [In Our Bedroom After the War](https://open.spotify.com/track/2qIbRW0NXIDrnAqG5fpQkv) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [In Our Bedroom After The War](https://open.spotify.com/album/0BoyHV5CioUvvRpcZvr7Dy) | 6:46 | 2020-10-29\* | 2022-04-15 |
@@ -367,7 +368,7 @@
 | [No More](https://open.spotify.com/track/6K2t7lzlEqkTaP20K0I6KW) | [Steve Benjamins](https://open.spotify.com/artist/5nHEPNlQQ68cmxxvvF1CVl) | [No More](https://open.spotify.com/album/4sxoGSFT8Uq2ogtHPMfMTs) | 3:45 | 2020-10-29\* | 2022-04-13 |
 | [No Nightmares](https://open.spotify.com/track/09lzbPVfBU99ITkfQoizj0) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Midday Suite](https://open.spotify.com/album/6BNLL0JS1v4F4aLYFrOvYe) | 4:06 | 2021-03-19 | 2022-05-14 |
 | [Norton Commander \(All We Need\)](https://open.spotify.com/track/5KZiiK8dvTgXaVnegsvvBz) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Norton Commander \(All We Need\)](https://open.spotify.com/album/7Lc8WAp0aFlQyIvlHSBAJh) | 3:26 | 2021-02-22 | 2022-04-09 |
-| [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 | 2022-08-23 |  |
+| [Not Around](https://open.spotify.com/track/7dlzjco7oeJIbDAYXWDo22) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Sunny Boy](https://open.spotify.com/album/5m2dVboM31qQtwPVch8pFv) | 2:40 | 2022-08-23 | 2022-11-04 |
 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 | 2021-04-19 | 2022-07-29 |
 | [Note To Self](https://open.spotify.com/track/7xHap3EOHq2Qn8OQhCpfgW) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:17 | 2022-09-23 |  |
 | [Note To Self \(feat\. Empress Of\)](https://open.spotify.com/track/3dBgEBXZvYLshrZ0ATB7fT) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [EPHEMERA](https://open.spotify.com/album/0elpfsW5SObWj2BmXLpOwo) | 2:17 | 2022-08-23 | 2022-10-13 |

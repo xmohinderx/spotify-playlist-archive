@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-189 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+190 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,13 @@
 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 | 2022-06-20 | 2022-07-29 |
 | [Blurred](https://open.spotify.com/track/0H165WAu4RXTmfImjSss1l) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG) | [Blurred](https://open.spotify.com/album/4w1HNyFb86LwPEenptdChK) | 2:43 | 2022-06-29 | 2022-07-03 |
 | [broccoli](https://open.spotify.com/track/4yEVzCcmAnXteIXnxvJa2K) | [MC Sniper](https://open.spotify.com/artist/6XBntNN5Zh9iBg8adnaY74) | [broccoli](https://open.spotify.com/album/75YETlrUfCEA2CMyCaPfzZ) | 4:47 | 2022-06-20 | 2022-07-17 |
-| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-09 |  |
+| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 |  |
 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 | 2022-07-08 |  |
 | [CHU EOG SOG EUI GEU DAI](https://open.spotify.com/track/6agkU1MMsm2EUMBk4zWM3A) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [\[Vol.132\] You Hee yul's Sketchbook With you : 85th Voice 'Sketchbook X Whee In'](https://open.spotify.com/album/22zuZZ7OXmFjh2WE9beLz8) | 3:46 | 2022-06-29 | 2022-07-25 |
 | [Chumbung Chumbung Symphony 첨벙첨벙 심포니](https://open.spotify.com/track/6Kjo9igXXhXSDWVn8fEXPm) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 4:47 | 2022-07-04 | 2022-07-12 |
 | [circle](https://open.spotify.com/track/7H4C1tA0aKVrBtxMcoXfms) | [roomer](https://open.spotify.com/artist/20zFJZ21BJrOTytnwoNUgp), [OHNEW](https://open.spotify.com/artist/3AFpryWYkkYra12AlPXGCM) | [In My Room : Vol.5 \(Our Diary\)](https://open.spotify.com/album/3TVWdZ8J8g1ZW6NWx2aulz) | 2:46 | 2022-07-04 | 2022-07-09 |
 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 | 2022-07-13 | 2022-07-26 |
+| [Come To Me](https://open.spotify.com/track/05pbVnnOT6C2ZLgpYQQyoL) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Come To Me](https://open.spotify.com/album/2PVTXDLjxC8C4FoBC5DRY8) | 3:56 | 2022-11-04 |  |
 | [Daydream](https://open.spotify.com/track/7yYNkLrgGlWN4OnXNira9S) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Daydream](https://open.spotify.com/album/0wuCxwXVDmDh52qiBsGa9I) | 4:10 | 2022-06-20 | 2022-07-09 |
 | [Dding Ddong 띵똥](https://open.spotify.com/track/5MhaGNv86SKKEi0VcLzyHa) | [Adult Child](https://open.spotify.com/artist/3Mkyj27HpE3rIMDoYfRFCl) | [The 3rd Full Album 'Todak Todak' The 3rd Full Album '토닥토닥'](https://open.spotify.com/album/6Ch8yUEj27zS31qWjlm7SJ) | 5:53 | 2022-07-04 | 2022-07-07 |
 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 | 2022-06-20 |  |
@@ -110,7 +111,7 @@
 | [Nobody's Fault](https://open.spotify.com/track/0Eqj077XY6OCq1NQReUviZ) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:24 | 2022-06-20 | 2022-07-14 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-22 |  |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-20 | 2022-07-29 |
-| [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2022-06-20 |  |
+| [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2022-06-20 | 2022-11-04 |
 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 | 2022-08-13 |  |
 | [On A Rainy Night](https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [On A Rainy Night](https://open.spotify.com/album/5JtQzYZOacgK1jTrHI62Ou) | 4:09 | 2022-07-04 | 2022-07-26 |
 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 | 2022-08-13 |  |

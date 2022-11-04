@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Thiago Kelbert
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,266 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,273 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 17 | [Mina do Tiktok](https://open.spotify.com/track/6mYSeZSDGxyeaTKLzUqE2B) | [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8), [Os Hawaianos](https://open.spotify.com/artist/6f6ccYxDNgsPCMemKceSY4), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Mina do Tiktok](https://open.spotify.com/album/17IASDGrfwOvZdV1nYMDSx) | 3:09 |
 | 18 | [Na Onda](https://open.spotify.com/track/6QjBvNnhgFIl4JEqnDNV1V) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [Na Onda](https://open.spotify.com/album/3IyF3CLMVZ9zYYbTvZ3dP9) | 4:28 |
 | 19 | [Aventura](https://open.spotify.com/track/0L6qGURgn9HEojpJoSR276) | [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB), [Aguiar](https://open.spotify.com/artist/2V5XSRMcoCZTHAoN7ShqmS), [Crow](https://open.spotify.com/artist/44pAmp33rQVeeIcgkHt3bS), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Aventura](https://open.spotify.com/album/54H1arxQvGhWx0vUdzyrNK) | 3:01 |
-| 20 | [Do Jeito Que Ela Gosta](https://open.spotify.com/track/5oS4HknEFqsIc8l8E0xpmW) | [Jovem SANN](https://open.spotify.com/artist/46lv9XwXwqRtuMHLqs4XZ4), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Léo Dizero](https://open.spotify.com/artist/3cVDLVyfZhkUeS5QAx6UVm) | [Do Jeito Que Ela Gosta](https://open.spotify.com/album/3zZ0XBCXxqNA91IbouzecT) | 2:46 |
+| 20 | [Do Jeito Que Ela Gosta](https://open.spotify.com/track/5oS4HknEFqsIc8l8E0xpmW) | [Jovem SANN](https://open.spotify.com/artist/46lv9XwXwqRtuMHLqs4XZ4), [Léo Dizero](https://open.spotify.com/artist/3cVDLVyfZhkUeS5QAx6UVm), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [Do Jeito Que Ela Gosta](https://open.spotify.com/album/3zZ0XBCXxqNA91IbouzecT) | 2:46 |
 | 21 | [Vida de Chefe](https://open.spotify.com/track/2amEICbtj99qNjYsURU2dB) | [Jovem Lucy](https://open.spotify.com/artist/0hBRC3XcpaS7YnZyQCLw7Y), [BlakkClout](https://open.spotify.com/artist/4pZ2z5NE2z1vvdRqf7q0Gq) | [Vida de Chefe](https://open.spotify.com/album/62x21AmDCotLt8Ou7lLL02) | 3:18 |
 | 22 | [Marca de Batom](https://open.spotify.com/track/6xOW9fUzrIsGS3M0b52PEf) | [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Marca de Batom](https://open.spotify.com/album/101L31d4cOuJ58zGVhLjGJ) | 2:33 |
 | 23 | [Uzi E Abuse](https://open.spotify.com/track/2ExxuGFGjXMuwSYMfsP9Fy) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Uzi E Abuse](https://open.spotify.com/album/3TKnFeFxNE0vjpz0GYFfz3) | 2:28 |

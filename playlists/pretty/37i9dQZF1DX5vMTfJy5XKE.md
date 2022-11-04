@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,358 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,560 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 15 | [All I Want For Christmas Is You](https://open.spotify.com/track/4zIyVPoeA6E71Y0a4FpgbT) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [All I Want For Christmas Is You](https://open.spotify.com/album/6stDo8b4EYNFZCPn0vESRz) | 3:09 |
 | 16 | [Joy To The World](https://open.spotify.com/track/69RcXwRKDJdUtkZyF5D925) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:06 |
 | 17 | [Wrapped Up In A Bow](https://open.spotify.com/track/2rZPw3dfHEcCGGYanVJS4k) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [Wrapped Up In A Bow](https://open.spotify.com/album/2KvS6XY72ABMBWDaZykq4b) | 2:53 |
-| 18 | [O Tannenbaum \- 2022 Stereo Mix](https://open.spotify.com/track/0ujUgE6zoDX9mXqK05i6AJ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [O Tannenbaum \(2022 Stereo Mix\)](https://open.spotify.com/album/5GobFTHzbquLElhqIVvu45) | 5:09 |
+| 18 | [O Tannenbaum \- 2022 Mix](https://open.spotify.com/track/0ujUgE6zoDX9mXqK05i6AJ) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [O Tannenbaum \(2022 Stereo Mix\)](https://open.spotify.com/album/5GobFTHzbquLElhqIVvu45) | 5:09 |
 | 19 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 |
 | 20 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6kVmzSme4v5p1I2IgeOlWU) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Winterlicious](https://open.spotify.com/album/6ADILx1y6wM0CryTlqIKlv) | 3:10 |
 | 21 | [Mistletoe](https://open.spotify.com/track/6zThIqEnoqT7s1E6yWUX0l) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Mistletoe](https://open.spotify.com/album/3iElV1aXLlk9k26SHtzUco) | 3:51 |

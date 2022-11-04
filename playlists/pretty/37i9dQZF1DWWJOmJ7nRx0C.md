@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Fire From the Gods
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,754 likes - 151 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,035 likes - 151 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

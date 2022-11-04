@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 164250,
       "name": "Give Me Something (feat. Rowlene)",
       "url": "https://open.spotify.com/track/5cRuXf4RQjrNEGkTVNlBrv"
@@ -2712,6 +2712,24 @@
     },
     {
       "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "album": {
         "name": "My WorlD With U",
         "url": "https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm"
       },
@@ -2785,10 +2803,28 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 191778,
       "name": "Unpopular Opinion",
       "url": "https://open.spotify.com/track/2VMgrVGZQIomFhkzCpk7aY"
+    },
+    {
+      "album": {
+        "name": "Unrelatable",
+        "url": "https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160671,
+      "name": "Unrelatable",
+      "url": "https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu"
     },
     {
       "album": {

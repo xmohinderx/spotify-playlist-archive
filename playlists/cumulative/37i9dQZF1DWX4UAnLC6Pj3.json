@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Jes\u00fas Mendoza en portada.",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! El Fantasma en portada.",
   "name": "Banda 2022",
   "published_playlist_ids": [
     "029aY0bfQdNwToDmSRYzRr"
@@ -283,6 +283,24 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
+    },
+    {
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "album": {
@@ -664,6 +682,24 @@
     },
     {
       "album": {
+        "name": "El Bob Esponja (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/5GGqUzYxVT5IBwehc3V2GO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191685,
+      "name": "El Bob Esponja (Versi\u00f3n Banda)",
+      "url": "https://open.spotify.com/track/6k66FmM0fjoVkO3hYx3FhI"
+    },
+    {
+      "album": {
         "name": "Carteles",
         "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
       },
@@ -1013,7 +1049,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 201213,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 150527,
       "name": "La Patrona",
       "url": "https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T"
@@ -1395,6 +1431,28 @@
       "duration_ms": 177449,
       "name": "Los FECH (En Vivo)",
       "url": "https://open.spotify.com/track/2lYxE4DGv8ScNhRq98w1Z6"
+    },
+    {
+      "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
     },
     {
       "album": {
@@ -1607,7 +1665,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 128513,
       "name": "Modo Crudo",
       "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
@@ -1745,10 +1803,32 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 202160,
       "name": "No Es Lo Que Dices",
       "url": "https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW"
+    },
+    {
+      "album": {
+        "name": "No Le Digas",
+        "url": "https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205802,
+      "name": "No Le Digas",
+      "url": "https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY"
     },
     {
       "album": {
@@ -1883,7 +1963,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
@@ -2119,7 +2199,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
@@ -2159,6 +2239,24 @@
       "duration_ms": 198160,
       "name": "Psic\u00f3logo Privado",
       "url": "https://open.spotify.com/track/0mGNQ1AEqzeGARUkbUeGAK"
+    },
+    {
+      "album": {
+        "name": "Que Falta Me Hace Mi Padre",
+        "url": "https://open.spotify.com/album/29l9FsZD7XBhdEs15Pb9a7"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Que Falta Me Hace Mi Padre",
+      "url": "https://open.spotify.com/track/1aEicowaVDN82dt0U1r3og"
     },
     {
       "album": {
@@ -2308,6 +2406,28 @@
     },
     {
       "album": {
+        "name": "Serafin (En Vivo)",
+        "url": "https://open.spotify.com/album/1z6LJpFaTXx1C74tmzAsTg"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187141,
+      "name": "Serafin - En Vivo",
+      "url": "https://open.spotify.com/track/0HjK2cWbHy5CwWQXk6HEj8"
+    },
+    {
+      "album": {
         "name": "Si Te Mirara",
         "url": "https://open.spotify.com/album/692wEGizdxsHDys4lVmjxK"
       },
@@ -2337,7 +2457,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 197386,
       "name": "Si Te Vas A Ir",
       "url": "https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn"
@@ -2572,6 +2692,28 @@
     },
     {
       "album": {
+        "name": "Un Loco Enamorado",
+        "url": "https://open.spotify.com/album/5UioFILcdOsiSLItygxb7C"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201001,
+      "name": "Un Loco Enamorado",
+      "url": "https://open.spotify.com/track/7xSnRDIfclnEVMcz6KGuo4"
+    },
+    {
+      "album": {
         "name": "Un Rol\u00f3n",
         "url": "https://open.spotify.com/album/7GGcmh3llGtPXrwvzh35fd"
       },
@@ -2627,7 +2769,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 215106,
       "name": "Una Noche Cualquiera",
       "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
@@ -2649,6 +2791,24 @@
       "duration_ms": 200440,
       "name": "Vamos Bien",
       "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+    },
+    {
+      "album": {
+        "name": "Volver\u00e9",
+        "url": "https://open.spotify.com/album/0OegCeE6bu1HNDepUaUZKa"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/26Wuw2ugVQCZdXCNU0M95x"
     },
     {
       "album": {

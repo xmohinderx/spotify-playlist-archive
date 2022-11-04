@@ -1454,6 +1454,28 @@
     },
     {
       "album": {
+        "name": "Live at The Cafe Carpe",
+        "url": "https://open.spotify.com/album/17LG2iTmuVc1xacAu8a9gB"
+      },
+      "artists": [
+        {
+          "name": "Peter Mulvey",
+          "url": "https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h"
+        },
+        {
+          "name": "SistaStrings",
+          "url": "https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166914,
+      "name": "Don't You Ever Change",
+      "url": "https://open.spotify.com/track/51JX3y8j9ElKyKSP7FVvu7"
+    },
+    {
+      "album": {
         "name": "Don't You Ever Change",
         "url": "https://open.spotify.com/album/1iPi9KGq4x7oNH49tPoZC5"
       },
@@ -1491,7 +1513,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 166914,
       "name": "Don't You Ever Change",
       "url": "https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX"

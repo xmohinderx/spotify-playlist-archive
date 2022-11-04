@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1485877,
+  "num_followers": 1485899,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg5ODY0NCwwMDAwMDAwMDA1M2U1NDk2Y2FlZDFmMzg5ZTQwMjlkNjhlM2E4ZTcz",
+  "snapshot_id": "MTY2Njg5ODY0NCwwMDAwMDAwMGNkNTk4OGQzMGQ4NWFmMDY0OGVlNzUwODZmODJmMGY3",
   "tracks": [
     {
       "added_at": "2022-10-20 15:00:00",
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/5wo4xHKqCKHO7pdMVXGjRC"
     },
     {
-      "added_at": "2022-11-03 01:34:21",
+      "added_at": "2022-11-04 01:33:00",
       "album": {
         "name": "JUST KEEP IT",
         "url": "https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK"
     },
     {
-      "added_at": "2022-11-03 01:34:21",
+      "added_at": "2022-11-04 01:33:00",
       "album": {
         "name": "SPICA",
         "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
@@ -647,26 +647,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Bopatron",
-        "url": "https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO"
-      },
-      "artists": [
-        {
-          "name": "Cloudchord",
-          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Bopatron",
-      "url": "https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/0yRR6FavHThWUOlsGimzuG"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 74285,
       "name": "3rd Times a Charm",
       "url": "https://open.spotify.com/track/1IE1sTE0Lbpz63ZMGTqMiH"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Bopatron",
+        "url": "https://open.spotify.com/album/4ElIeFUepcchZx9vj6HCzO"
+      },
+      "artists": [
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Bopatron",
+      "url": "https://open.spotify.com/track/0nyKpt36pWK435Sa7LKk6P"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -731,22 +731,6 @@
       "duration_ms": 100465,
       "name": "winter in rio",
       "url": "https://open.spotify.com/track/2DteRLMODVzxYxT62LI5hB"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Tokyo spriff",
-        "url": "https://open.spotify.com/album/7HDVHww04LgGpTGYFEq9ly"
-      },
-      "artists": [
-        {
-          "name": "DJ FRIP a.k.a. BeatLab",
-          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
-        }
-      ],
-      "duration_ms": 167647,
-      "name": "Tokyo spriff",
-      "url": "https://open.spotify.com/track/7LpfH63D7PJvPnD69uleVj"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "Tokyo spriff",
+        "url": "https://open.spotify.com/album/7HDVHww04LgGpTGYFEq9ly"
+      },
+      "artists": [
+        {
+          "name": "DJ FRIP a.k.a. BeatLab",
+          "url": "https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7"
+        }
+      ],
+      "duration_ms": 167647,
+      "name": "Tokyo spriff",
+      "url": "https://open.spotify.com/track/7LpfH63D7PJvPnD69uleVj"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Zoning Out Vol. 2",
         "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 125474,
       "name": "Please Chill",
       "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/4vDCdhC1ue2saRJMSkuWho"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "Laguna Beach",
+      "url": "https://open.spotify.com/track/40ELRRvQ0pqUWJxGxUC6rE"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -867,22 +883,6 @@
       "duration_ms": 142677,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/4vDCdhC1ue2saRJMSkuWho"
-      },
-      "artists": [
-        {
-          "name": "Oilix",
-          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "Laguna Beach",
-      "url": "https://open.spotify.com/track/40ELRRvQ0pqUWJxGxUC6rE"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1059,6 +1059,38 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Breezin",
+        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "duration_ms": 155401,
+      "name": "Breezin",
+      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Far Out",
         "url": "https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux"
       },
@@ -1079,22 +1111,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Baby, It's Over",
         "url": "https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Breezin",
-        "url": "https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 155401,
-      "name": "Breezin",
-      "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Elevator (Remastered)",
-        "url": "https://open.spotify.com/album/2fMwOV34VCtm8LGAWUp9SF"
-      },
-      "artists": [
-        {
-          "name": "Marcus D",
-          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
-        }
-      ],
-      "duration_ms": 207291,
-      "name": "Elevator - Remastered",
-      "url": "https://open.spotify.com/track/2nfAMEk4Do1eVE1gs5Y246"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Bubble Beat",
         "url": "https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 207529,
       "name": "Bubble Beat",
       "url": "https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Elevator (Remastered)",
+        "url": "https://open.spotify.com/album/2fMwOV34VCtm8LGAWUp9SF"
+      },
+      "artists": [
+        {
+          "name": "Marcus D",
+          "url": "https://open.spotify.com/artist/5LrXI2SwrD9P30B6CqOjNV"
+        }
+      ],
+      "duration_ms": 207291,
+      "name": "Elevator - Remastered",
+      "url": "https://open.spotify.com/track/2nfAMEk4Do1eVE1gs5Y246"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
         "name": "Fantastic Farewell (2021 Remastered)",
         "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Power Jump",
         "url": "https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 142349,
       "name": "dreams",
       "url": "https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
+        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 243693,
+      "name": "Sometimes - Remix Instrumental",
+      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
-        "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 243693,
-      "name": "Sometimes - Remix Instrumental",
-      "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 88000,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB"
-    },
-    {
-      "added_at": "2022-10-20 15:00:00",
-      "album": {
-        "name": "Late Trains",
-        "url": "https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ"
-      },
-      "artists": [
-        {
-          "name": "7apes",
-          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
-        }
-      ],
-      "duration_ms": 199063,
-      "name": "Late Trains",
-      "url": "https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2022-10-20 15:00:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw"
+        "name": "Late Trains",
+        "url": "https://open.spotify.com/album/2RQtx9HPPtCPJPqUb1I3yJ"
       },
       "artists": [
         {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+          "name": "7apes",
+          "url": "https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv"
         }
       ],
-      "duration_ms": 154667,
-      "name": "More Life",
-      "url": "https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K"
+      "duration_ms": 199063,
+      "name": "Late Trains",
+      "url": "https://open.spotify.com/track/7JQt4KO35aSwLQSlaSRsdY"
     },
     {
       "added_at": "2022-10-20 15:00:00",
@@ -1439,6 +1419,26 @@
       "duration_ms": 141176,
       "name": "Dance of Love",
       "url": "https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr"
+    },
+    {
+      "added_at": "2022-10-20 15:00:00",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/5dCl9F9geisB78oPu9VDKw"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        }
+      ],
+      "duration_ms": 154667,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/0NO4KqTkg5f9NZ1vnOwT2K"
     }
   ],
   "unique_name": "Mellow Beats",

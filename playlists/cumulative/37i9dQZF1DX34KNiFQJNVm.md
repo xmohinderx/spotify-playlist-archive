@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Rihanna, Orochi, João Gomes e mais!
 
-3,795 songs - 8 day 4 hr 1 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
+3,796 songs - 8 day 4 hr 4 min - [published](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [Amor e Amor](https://open.spotify.com/track/7ipamaL0uwje5dSNejTwPb) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Amor e Amor](https://open.spotify.com/album/3BnaBNbNVXpRv6sO1lpQIe) | 4:21 | 2022-02-18 | 2022-02-26 |
 | [Amor Em Vão](https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Amor Em Vão](https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65) | 3:31 | 2022-07-01 | 2022-07-09 |
 | [Amor Eu Rebolo](https://open.spotify.com/track/4GlQbdkQdO4jePUU0xTdi6) | [Igor Sales](https://open.spotify.com/artist/2EviHZCzRfYkqh0yzn8GXw), [Tay Muniz](https://open.spotify.com/artist/3n8pTgEl0GfiE0jfZHsGFE), [Dj Juninho Mpc](https://open.spotify.com/artist/7jFRtAYHwvVsYWZnv8AyyZ) | [Amor Eu Rebolo](https://open.spotify.com/album/6UQpmM724c1xzOycdV2ECs) | 2:29 | 2022-07-08 | 2022-07-16 |
-| [Amor Ilegal \- Ao Vivo](https://open.spotify.com/track/5DfuePsX53O5FNUzkHAhep) | [Cleber & Alex](https://open.spotify.com/artist/5bJLO8OubckoRNcS6kyEtv) | [Ao Vivo Em Goiânia \(Vol\. 4\)](https://open.spotify.com/album/5d9KEhlpZNid1EKCD9UZry) | 2:57 | 2022-10-28 |  |
+| [Amor Ilegal \- Ao Vivo](https://open.spotify.com/track/5DfuePsX53O5FNUzkHAhep) | [Cleber & Alex](https://open.spotify.com/artist/5bJLO8OubckoRNcS6kyEtv) | [Ao Vivo Em Goiânia \(Vol\. 4\)](https://open.spotify.com/album/5d9KEhlpZNid1EKCD9UZry) | 2:57 | 2022-10-28 | 2022-11-04 |
+| [Amor Ilegal \- Ao Vivo](https://open.spotify.com/track/5w40pU5TiZmR6MTEtoaX7q) | [Cleber & Alex](https://open.spotify.com/artist/5bJLO8OubckoRNcS6kyEtv) | [Ao Vivo Em Goiânia \(Vol.4\)](https://open.spotify.com/album/2ml7Qb3IL2jkIfhLsiSDEb) | 2:57 | 2022-10-28 |  |
 | [Amor Indefinido](https://open.spotify.com/track/5mGdoYQsdHqHwV9AIbOM4w) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Tibi](https://open.spotify.com/artist/3jYij1korBd9U9832ztYIL), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Amor Indefinido](https://open.spotify.com/album/1ryZOT2brR6X57rSQmMAxl) | 3:03 | 2022-06-10 | 2022-06-18 |
 | [Amor ou Esquema](https://open.spotify.com/track/19RJnfs2PjkAooSGjUQqix) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Amor ou Esquema](https://open.spotify.com/album/7I7mi38g3dxLVRiiCpLqfp) | 2:26 | 2022-08-19 | 2022-08-27 |
 | [Amor Que Cura](https://open.spotify.com/track/3MxqvpKw0dK0JPUm1WLkPI) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Amor Que Cura](https://open.spotify.com/album/6FUBNz7B0UBbkGj1uN2zFx) | 3:33 | 2022-08-19 | 2022-08-27 |

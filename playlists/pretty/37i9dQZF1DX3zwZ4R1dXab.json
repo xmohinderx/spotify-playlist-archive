@@ -1,12 +1,12 @@
 {
   "description": "Songs and episodes to help calm your mind, co curated by Clinical psychologist 'Sonali Gupta'.",
-  "num_followers": 1001,
+  "num_followers": 1003,
   "original_name": "PAUSE: Anxiety",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDk4ZTc0NThiYjI1MTBiYmY3NzllZDI3MThhN2Y2ODNh",
+  "snapshot_id": "MTY2NDE3Mjg1NywwMDAwMDAwMDdlYWQ2ODQ3YTM1NWRhOTc3ZWMwMWYzODNkYmQ3Y2Ni",
   "tracks": [
     {
       "added_at": "2022-09-15 11:18:16",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Fields of gold",
-        "url": "https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv"
-      },
-      "artists": [
-        {
-          "name": "Mio Camara",
-          "url": "https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq"
-        }
-      ],
-      "duration_ms": 213492,
-      "name": "Fields of gold",
-      "url": "https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Growing Old",
         "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 126250,
       "name": "Growing Old",
       "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Fields of gold",
+        "url": "https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv"
+      },
+      "artists": [
+        {
+          "name": "Mio Camara",
+          "url": "https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq"
+        }
+      ],
+      "duration_ms": 213492,
+      "name": "Fields of gold",
+      "url": "https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka"
-      },
-      "artists": [
-        {
-          "name": "Marlon Guild",
-          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Suki Desu",
-      "url": "https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Ensamma n\u00e4tter",
         "url": "https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 148090,
       "name": "Ensamma n\u00e4tter",
       "url": "https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka"
+      },
+      "artists": [
+        {
+          "name": "Marlon Guild",
+          "url": "https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Suki Desu",
+      "url": "https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
-      },
-      "artists": [
-        {
-          "name": "Eva Slott",
-          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
-        }
-      ],
-      "duration_ms": 139593,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Hearts of Us",
         "url": "https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 136000,
       "name": "Hearts of Us",
       "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/2PYUwMpeSbEta2JsyMDySm"
+      },
+      "artists": [
+        {
+          "name": "Eva Slott",
+          "url": "https://open.spotify.com/artist/2DCE0YAxRxZ6u7zOmvZLpe"
+        }
+      ],
+      "duration_ms": 139593,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "The Grass",
-        "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
-      },
-      "artists": [
-        {
-          "name": "Brandon Cason",
-          "url": "https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "The Grass",
-      "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Comtemplating Still",
         "url": "https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 100472,
       "name": "Comtemplating Still",
       "url": "https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "The Grass",
+        "url": "https://open.spotify.com/album/135DspnDnLyzwCcPijPmjX"
+      },
+      "artists": [
+        {
+          "name": "Brandon Cason",
+          "url": "https://open.spotify.com/artist/2HOrmW7Jd402Exqju0Bttt"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "The Grass",
+      "url": "https://open.spotify.com/track/0CMcbkaWuxxnfyaqjZWWGv"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Story Time",
-        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
-      },
-      "artists": [
-        {
-          "name": "Jackson Love",
-          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
-        }
-      ],
-      "duration_ms": 129095,
-      "name": "Story Time",
-      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
-    },
-    {
-      "added_at": "2022-09-15 11:18:16",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/68XXJLCevHtMqzrnKPobT9"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2022-09-15 11:18:16",
       "album": {
-        "name": "Papperssvalan",
-        "url": "https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV"
+        "name": "Story Time",
+        "url": "https://open.spotify.com/album/0v547nlB4ydYCt26HXGxIl"
       },
       "artists": [
         {
-          "name": "Norr\u00f6ga",
-          "url": "https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw"
+          "name": "Jackson Love",
+          "url": "https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Papperssvalan",
-      "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
+      "duration_ms": 129095,
+      "name": "Story Time",
+      "url": "https://open.spotify.com/track/0cDZCWdR8bTlp7QRaBXBYD"
     },
     {
       "added_at": "2022-09-15 11:18:16",
@@ -1007,6 +991,22 @@
       "duration_ms": 76582,
       "name": "R\u00eaverie Lilas",
       "url": "https://open.spotify.com/track/5ZzpqPQsDM5MaVhEGFzTtD"
+    },
+    {
+      "added_at": "2022-09-15 11:18:16",
+      "album": {
+        "name": "Papperssvalan",
+        "url": "https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV"
+      },
+      "artists": [
+        {
+          "name": "Norr\u00f6ga",
+          "url": "https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Papperssvalan",
+      "url": "https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi"
     },
     {
       "added_at": "2022-09-15 11:18:16",

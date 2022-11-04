@@ -820,6 +820,24 @@
     },
     {
       "album": {
+        "name": "Manni Asef",
+        "url": "https://open.spotify.com/album/0fEh4DmXGE7SIT7RudtOwo"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Akkad",
+          "url": "https://open.spotify.com/artist/38KYoTxMDeNvGClVdMVc7q"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210821,
+      "name": "Manni Asef",
+      "url": "https://open.spotify.com/track/27Xo0Tkk9E8OftqyR98wXx"
+    },
+    {
+      "album": {
         "name": "Meen Fe Dol",
         "url": "https://open.spotify.com/album/2fxZ2DkwORuu1ZsolK4PiJ"
       },

@@ -4,7 +4,7 @@
 
 > The birth of the blues, as it happened...
 
-71 songs - 3 hr 32 min - [published](https://open.spotify.com/playlist/1JpjmChycgUy5LJL7mX0mN)
+72 songs - 3 hr 35 min - [published](https://open.spotify.com/playlist/1JpjmChycgUy5LJL7mX0mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [When the Levee Breaks](https://open.spotify.com/track/70MpR0jSVh7s01JSmRt8Mu) | [Kansas Joe McCoy & Memphis Minnie](https://open.spotify.com/artist/1QZUvdEu3lVvtFALqy5BXe) | [When the Levee Breaks \- Greatest Blues Masters](https://open.spotify.com/album/1AaewEHO7A87PJH3ykSHWY) | 3:10 | 2017-11-02 | 2022-07-29 |
 | [When the Levee Breaks \- Alternate Take](https://open.spotify.com/track/45TOuASHdVywkYXVd6CnEl) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Presenting Memphis Minnie](https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T) | 3:09 | 2017-11-02 |  |
 | [Where Did You Sleep Last Night](https://open.spotify.com/track/5vG3tamFBlafnmorXMEsot) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series: Lead Belly](https://open.spotify.com/album/2YiY4PkENsQzhJ7d5sISXh) | 3:01 | 2017-11-02 | 2022-07-29 |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2017-11-02 |  |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2017-11-02 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/0p5zJBYoJOzVLBiDeA0PvS) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [The Tradition Masters: Lead Belly](https://open.spotify.com/album/5T3n0RS8Xgq3yPoRpOailM) | 3:01 | 2017-11-02 | 2022-11-04 |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2017-11-02 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2017-11-02 | 2022-11-04 |
 | [Whoopee Blues](https://open.spotify.com/track/6ylESybqWnIu8Qtm0XyGos) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Presenting King Solomon Hill](https://open.spotify.com/album/1qtKb7yeGIGerPcGfJMAQY) | 3:11 | 2017-11-02 |  |
 | [Whoopee Blues](https://open.spotify.com/track/4RUCMtsSMsPQlt08nwmix8) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Mississippi Masters: Early American Blues Classics 1927 \- 35](https://open.spotify.com/album/27nWGgtAdORVcReR3ppmpZ) | 3:11 | 2017-11-02 | 2022-07-29 |
 | [Worried About My Baby](https://open.spotify.com/track/3e6iNiUs10CbGZCaQ5v2Zp) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [His Job Recordings 1951\-1954](https://open.spotify.com/album/4lGlBgINPeupbX5avlNedc) | 2:44 | 2017-11-02 |  |

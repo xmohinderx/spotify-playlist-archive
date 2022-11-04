@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Gabríel Ólafs
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,082 likes - 72 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,248 likes - 72 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

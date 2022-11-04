@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 
 > Warm instrumental guitar for a gentle start.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,748 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,810 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 37 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 |
 | 38 | [Coming Home](https://open.spotify.com/track/18fzuiKvZtQI9qOhi5j3Pv) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Coming Home](https://open.spotify.com/album/2KJcuMGYqkAKIbXa7KGBMF) | 3:25 |
 | 39 | [Headed to the Hillside](https://open.spotify.com/track/0SRfTC8lmnaVrmzrGxkmMN) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Brave New Promises](https://open.spotify.com/album/5wgqxwzeY7WL0BbAdMliHj) | 2:47 |
-| 40 | [Georgia](https://open.spotify.com/track/5WzMVccC8N5HRM0rKqXlx9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/7dUntBYdb3nf6KZCvFm2Md) | 2:21 |
+| 40 | [Georgia](https://open.spotify.com/track/5WuytpdrS1L3JFGxZsT4mi) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Georgia](https://open.spotify.com/album/73fRkeHZHcw2K7PhLEz67y) | 2:21 |
 | 41 | [Come Home to Me](https://open.spotify.com/track/5R5Z0RGinJTRjzi2sveD3g) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Come Home to Me](https://open.spotify.com/album/2BzuR4tIG3gvLKsrFXwoeI) | 2:56 |
 | 42 | [Primavera](https://open.spotify.com/track/3rcoy7zeug8RSQpkhIAaxy) | [Giuseppina Tolda](https://open.spotify.com/artist/6VAysUntvNkdLFWbH9Cf3D) | [Primavera](https://open.spotify.com/album/420EyG44UX8z6gH8OLEfa7) | 2:12 |
 | 43 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3gM3xdPT0c.md) - [plain]
 | 99 | [Celtic Lullaby](https://open.spotify.com/track/3ccE0ncPGjE2UlfCYEB73J) | [Will Moore](https://open.spotify.com/artist/6XnR821CI0nzD4XFQ2ZFDo) | [Celtic Lullaby](https://open.spotify.com/album/4Giy5asuIN7uNrYIRbEidB) | 2:41 |
 | 100 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 |
 
-Snapshot ID: `MTY2Njk2Mzk5MiwwMDAwMDAwMDQ5MjU1ZDVmYjhhYmFjMGNiNTUzNzAwZDAwMDI4MTQ5`
+Snapshot ID: `MTY2Njk2Mzk5MiwwMDAwMDAwMDgzMmRjNDdjYTFhYWZjMWQzMTZlMmU1YjI3NjAwZGNj`

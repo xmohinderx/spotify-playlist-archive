@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53229,
+  "num_followers": 53232,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDU4MjY5YTY3NWY3ZjYzNGVmMmU0NGRkOWZiOTczYTkw",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDNkZWM4MTg3NmI2ODRmYzBiMWMyYzk0ZDA4NTUwMjQz",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -187,22 +187,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 254205,
       "name": "White Blank Page",
       "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/696cNqpF2NwRLzC7KqCurz"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Hard Believer",
-        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 378239,
-      "name": "Shakespeare",
-      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 141680,
       "name": "Banana Co",
       "url": "https://open.spotify.com/track/0CiGamY7diH7yvzHsPtHtO"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Hard Believer",
+        "url": "https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 378239,
+      "name": "Shakespeare",
+      "url": "https://open.spotify.com/track/1Q9yJCrqDANqGMKai1gqBM"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -603,22 +603,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Literature Lovers",
-        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
-      },
-      "artists": [
-        {
-          "name": "Jose Vanders",
-          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "Literature Lovers",
-      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Underachievers Please Try Harder",
         "url": "https://open.spotify.com/album/5d9FNx7UMLgfiGQGXU19jh"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 313666,
       "name": "Books Written For Girls",
       "url": "https://open.spotify.com/track/1f9jTXNHEKHANrZoalrIlx"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Literature Lovers",
+        "url": "https://open.spotify.com/album/7kDalaLPgPlKfT3hsoN4KW"
+      },
+      "artists": [
+        {
+          "name": "Jose Vanders",
+          "url": "https://open.spotify.com/artist/6bf31gH9sSGPvs8t76Zxq7"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "Literature Lovers",
+      "url": "https://open.spotify.com/track/141Az9zU42lOieVEbOmPUV"
     },
     {
       "added_at": "2018-12-10 14:56:06",

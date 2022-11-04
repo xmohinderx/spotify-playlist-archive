@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,987 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,981 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 186 | [Explosions](https://open.spotify.com/track/1a0BdV0rApAOX1nGOCxeSa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon Days](https://open.spotify.com/album/3KVeczHxWg5YFKb0gS62f2) | 4:03 |
 | 187 | [Bad](https://open.spotify.com/track/6qHhzZBAs5hc67sEN2PvJA) | [Last Night Riot](https://open.spotify.com/artist/6XbBIaMHT8Np6Hc1upfWGJ) | [Bad](https://open.spotify.com/album/6uHfxxmsjlIuPAAcd2rvil) | 3:24 |
 | 188 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 |
-| 189 | [You're No Good \- Epic Trailer Version](https://open.spotify.com/track/11kUnSxbQQvXoZxVussoSw) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [Rånya](https://open.spotify.com/artist/3igI0aSNJI6ja6qwy4mv4e) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 2:52 |
+| 189 | [You're No Good \- Epic Trailer Version](https://open.spotify.com/track/11kUnSxbQQvXoZxVussoSw) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [Rånya](https://open.spotify.com/artist/06bnkBtdhuBFhXCDi50LX5) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 2:52 |
 | 190 | [Best Is Yet To Come](https://open.spotify.com/track/0te0lsvHWfBdYL4S99wbzg) | [Di Napoli](https://open.spotify.com/artist/0ztqBP31RGo3uJPFno3odf) | [Made For This](https://open.spotify.com/album/6sHhc2rZ31pLTCeLyLir04) | 3:27 |
 | 191 | [Hole Right Where My Heart Is](https://open.spotify.com/track/3HYZs5IHvtfeGx1EfNtflG) | [Yacht Money](https://open.spotify.com/artist/3p2tOUHPzDOVOW1hzSrgw8) | [Hole Right Where My Heart Is](https://open.spotify.com/album/2XMltzQDjVCRgHa44NFnrz) | 2:38 |
 | 192 | [I'm So Sexy](https://open.spotify.com/track/31K7pGlDd11TQsZhqI8Zlc) | [Kaya Ka$h](https://open.spotify.com/artist/6QuZkHjInozjNbXM2UwQSw) | [Push It](https://open.spotify.com/album/4XzL2CHy05G5jNXQjLqTA3) | 2:54 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=fAlwowv7TQyLa4UorwAhAw\">Danny Smoke</a>",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=spht4F3ISYGKUooLruXu_g\">Eloff</a>",
   "name": "Afrikaanse Hits",
   "published_playlist_ids": [
     "3e1GdHUgFT8NgWwl0UpVff"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
+    },
+    {
+      "album": {
         "name": "Beheer Verloor",
         "url": "https://open.spotify.com/album/3AO17da9Gz9djPWZf8XoJC"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 253757,
       "name": "Bella",
       "url": "https://open.spotify.com/track/2laH6IayV3wrHxjjsFawOK"
@@ -423,7 +441,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 194183,
       "name": "Hier Gaat Ons Alweer",
       "url": "https://open.spotify.com/track/1zkDzC92Zb1KUSTa2Rumqv"
@@ -1082,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk"
+      },
+      "artists": [
+        {
+          "name": "Jan Bloukaas",
+          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d"
+    },
+    {
+      "album": {
         "name": "Tekkies Brand",
         "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
       },
@@ -1154,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "Wanneer Laas",
+        "url": "https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL"
+      },
+      "artists": [
+        {
+          "name": "Tarryn Lamb",
+          "url": "https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "Wanneer Laas",
+      "url": "https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W"
+    },
+    {
+      "album": {
         "name": "Wat De Hel",
         "url": "https://open.spotify.com/album/2p7hgHHtMXSPZf3RezI3i4"
       },
@@ -1183,7 +1237,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 176749,
       "name": "Wat my Pa sou s\u00ea",
       "url": "https://open.spotify.com/track/05VXiNCJM3KMDekmOtquOq"

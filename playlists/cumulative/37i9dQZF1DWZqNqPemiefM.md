@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-439 songs - 1 day 11 hr 17 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
+440 songs - 1 day 11 hr 23 min - [published](https://open.spotify.com/playlist/4yRMmJhsvszYGvpMChx2d3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
 | [AIU](https://open.spotify.com/track/6SIxFak3dhN7rdGBdDrmg8) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [INOYAMALAND \(Remaster Edition\)](https://open.spotify.com/album/4HZhjkQkKnR9qGv9Bl2esq) | 3:48 | 2022-03-31 | 2022-07-13 |
 | [Ake](https://open.spotify.com/track/2Y72i9VmRw4Ncq7RMrNPTh) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/3GJ035mx6IyGLk2ppp0UU0) | 2:07 | 2022-09-03 | 2022-09-05 |
-| [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-03 |  |
+| [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 | 2022-09-03 | 2022-11-04 |
 | [Ama](https://open.spotify.com/track/0lbqQlv8N3kBczLqvevinm) | [7FO ‎](https://open.spotify.com/artist/0Ri0lZkdYY8gyCOC3hDq2r) | [Moment](https://open.spotify.com/album/3mhmI2zWMLBmsZHVvhrpeI) | 4:43 | 2022-03-31 | 2022-07-26 |
 | [AMBIENT MEDITATION \#3](https://open.spotify.com/track/2FRipc9UogCdwnWLvE74Uq) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MEDICINE COMPILATION from the Quiet Lodge](https://open.spotify.com/album/3qaEUrwOgFVPIfaIMuJVcS) | 4:03 | 2022-03-31 | 2022-05-13 |
 | [Ambient Music for Exhibition “Let’s Get Lost” 02](https://open.spotify.com/track/4Q0kae2L3an9NGHRBXuTMv) | [Inner Science](https://open.spotify.com/artist/3h2z9q9RhVXgX2c7QAZdO5) | [Ambient Variation 2](https://open.spotify.com/album/6M4O5UYE4ixEU0z3OElh5B) | 2:55 | 2022-06-23 | 2022-07-29 |
@@ -123,7 +123,7 @@
 | [f.o.o.3.](https://open.spotify.com/track/46wUZnVDkGtqPUJoFkHKDw) | [Team TENbient](https://open.spotify.com/artist/4jBPIW39WXjI8qA13u0lAt) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 9:00 | 2022-03-31 | 2022-04-20 |
 | [Fanfare](https://open.spotify.com/track/6zEkQ585AkgQP6F9nIuAio) | [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Awaawaa](https://open.spotify.com/album/0AC2qGNY9HR5BlC61Yikqq) | 0:45 | 2022-04-28 | 2022-06-19 |
 | [Faraway](https://open.spotify.com/track/5XyL1qKqfFWX27nA4YwkRI) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Faraway](https://open.spotify.com/album/40BOmaowFYSnkc3WlecoHD) | 2:30 | 2022-03-31 | 2022-07-27 |
-| [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-04-07 | 2022-11-02 |
+| [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-04-07 |  |
 | [FINALE=CALENDAR](https://open.spotify.com/track/3UVeASU3LJnY2PHCgHW3WK) | [YAS\-KAZ](https://open.spotify.com/artist/73PSRB59paCEuzf26Hs6jr) | [縄文頌 YASーKAZ](https://open.spotify.com/album/241Uv6kYG9L9xtR5C7R2yV) | 3:24 | 2022-03-31 | 2022-05-01 |
 | [Floating](https://open.spotify.com/track/4U8YAHXSNUHaqk7dzP6MJA) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Floating](https://open.spotify.com/album/5BdlwTChgmfLbryD73UXOp) | 2:16 | 2022-03-31 | 2022-07-27 |
 | [Floating People \(San Francisco\)](https://open.spotify.com/track/5h8l2tGCIzBPAGBV2eHHOs) | [UNKNOWN ME](https://open.spotify.com/artist/5tmYdSKm3f4o6oOFCuxgtR) | [Subtropics](https://open.spotify.com/album/3I0XvrPCUYXiCdEuVcSRH9) | 3:50 | 2022-03-31 | 2022-07-17 |
@@ -189,6 +189,7 @@
 | [Invisible Contact](https://open.spotify.com/track/0GYisiW8aXpv9fGTwIDafM) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/3L5kzUaeQ5pCMHRpAlN0Ej) | 4:04 | 2022-10-20 |  |
 | [Invisible Contact](https://open.spotify.com/track/5Vqf1k1WvHqV5B8XoZSPgY) | [coconoe](https://open.spotify.com/artist/70ekC9BOgSlEQFRcLImPe4) | [Invisible Contact](https://open.spotify.com/album/388UNVPQUypC1EiLCvp6gg) | 4:04 | 2022-10-20 | 2022-10-22 |
 | [Invitation](https://open.spotify.com/track/5GX3sk2Xex3998tQu8uaKH) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [Where the Sidewalk Ends](https://open.spotify.com/album/12kCNfVPb9lWg1jnTBwxvT) | 6:32 | 2022-03-30 | 2022-04-04 |
+| [Irie](https://open.spotify.com/track/2VokL9qQNd46ZETs2mZYq2) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Irie](https://open.spotify.com/album/4gJvJKL4K8GEGZqCNUbvUi) | 5:47 | 2022-11-03 |  |
 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 | 2022-08-04 |  |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
@@ -207,7 +208,7 @@
 | [Little Song at Little Time](https://open.spotify.com/track/42Syy15FClLY4OIb9EW6DV) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Light in August, Later](https://open.spotify.com/album/5DC0TO8peA6IGhux6OMyCz) | 4:41 | 2022-04-07 | 2022-04-19 |
 | [Little Sunset](https://open.spotify.com/track/5xeGCNSHuGl7u95P7dqsik) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Komorebi](https://open.spotify.com/album/4rgYDGA3VJLBZvFztCF6Vd) | 2:59 | 2022-03-31 | 2022-06-14 |
 | [Lo\-Pencil](https://open.spotify.com/track/6tQcOrULPM0aXoN8fzAlxU) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [paintings](https://open.spotify.com/album/69ONFD6PX42tebjAurVsPY) | 3:53 | 2022-03-31 | 2022-04-21 |
-| [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 |  |
+| [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 | 2022-11-04 |
 | [looped labyrinth, decayed voice](https://open.spotify.com/track/0s7xkkUwTu77Hffwnxesky) | [Sawako](https://open.spotify.com/artist/1nM5o7KAzBGkUiMjlPJ9wM) | [bitter sweet](https://open.spotify.com/album/0Of3uyJzRu8UZV8l3iN3k2) | 9:36 | 2022-04-16 | 2022-04-18 |
 | [Loran](https://open.spotify.com/track/7sn2MBviZ595Rrf2pghrPt) | [Jobanshi](https://open.spotify.com/artist/7ypQvTz0kWNG3WF2kSOlfp) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 4:44 | 2022-03-31 | 2022-04-13 |
 | [Love is a personal thing](https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:13 | 2022-03-31 |  |

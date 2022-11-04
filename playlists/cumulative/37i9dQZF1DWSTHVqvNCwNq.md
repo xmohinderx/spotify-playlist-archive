@@ -4,7 +4,7 @@
 
 > Born in the Mississippi Delta \- at the turn of the 20th century \- the Delta Blues is one of the earliest and most influential styles of blues.
 
-57 songs - 3 hr 2 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
+58 songs - 3 hr 5 min - [published](https://open.spotify.com/playlist/2YDfZExCT8Our9QwJXIQu7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [That's All Right, Pt\. 1](https://open.spotify.com/track/24wSfBAKhkkug1ru5ojpw6) | [John Henry Barbee](https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG) | [Blues Masters, Vol\. 3](https://open.spotify.com/album/5zadTf4irREd77rEq31PGY) | 3:40 | 2018-02-27 |  |
 | [Travellin' Highway Man](https://open.spotify.com/track/5zvRTgNEcNk6pTPJPLSOuw) | [Tommy McClennan](https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ) | [Tommy McClennan Vol\. 2 "Cross Cut Saw"](https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv) | 3:00 | 2018-02-27 |  |
 | [Travelling Back Home](https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd) | [Johnny Shines](https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko) | [Too Wet to Plow](https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp) | 3:58 | 2018-02-27 |  |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2016-03-22 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2016-03-22 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2016-03-22 | 2022-11-04 |
 | [Whoopee Blues](https://open.spotify.com/track/6ylESybqWnIu8Qtm0XyGos) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Presenting King Solomon Hill](https://open.spotify.com/album/1qtKb7yeGIGerPcGfJMAQY) | 3:11 | 2016-03-22 |  |
 | [Whoopee Blues](https://open.spotify.com/track/4RUCMtsSMsPQlt08nwmix8) | [King Solomon Hill](https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG) | [Mississippi Masters: Early American Blues Classics 1927 \- 35](https://open.spotify.com/album/27nWGgtAdORVcReR3ppmpZ) | 3:11 | 2016-03-22 | 2022-07-29 |
 | [You Can't Play Me Cheap](https://open.spotify.com/track/2BLNnKGGohCrCZJCYQkHhR) | [Papa Charlie's Boys](https://open.spotify.com/artist/3rASx4W8o44uXVrbv2DTD0) | [The McCoy Brothers \(Charlie & Joe McCoy\) Vol\. 2 \(1936\-1944\)](https://open.spotify.com/album/1Xrq4zowgBy55Lebz45rRc) | 2:52 | 2018-02-27 |  |

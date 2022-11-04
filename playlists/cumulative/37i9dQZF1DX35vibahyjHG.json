@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
@@ -2809,7 +2809,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 195431,
       "name": "Speedometer (Amapiano)",
       "url": "https://open.spotify.com/track/5d5SZVEn8rsEA7aOEUn4DU"
@@ -3116,6 +3116,24 @@
     },
     {
       "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
+    },
+    {
+      "album": {
         "name": "Too Late for Mama",
         "url": "https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y"
       },
@@ -3219,6 +3237,24 @@
       "duration_ms": 468000,
       "name": "Undenza Ntoni",
       "url": "https://open.spotify.com/track/15jFSmRCXoty810W72t7KX"
+    },
+    {
+      "album": {
+        "name": "Unrelatable",
+        "url": "https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160671,
+      "name": "Unrelatable",
+      "url": "https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu"
     },
     {
       "album": {

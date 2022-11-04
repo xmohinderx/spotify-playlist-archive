@@ -1240,6 +1240,24 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4UWHo2mn14UspvWYlMWMw5"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3digo Secreto",
+          "url": "https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240166,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/0hl0vf7MEJOm4aFUoxluJX"
+    },
+    {
+      "album": {
         "name": "Si Me Ven Tomar",
         "url": "https://open.spotify.com/album/6aOYYhHha8C74a19jItJrY"
       },

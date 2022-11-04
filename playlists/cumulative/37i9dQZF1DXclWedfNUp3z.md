@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-320 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
+321 songs - 22 hr 15 min - [published](https://open.spotify.com/playlist/6XhGj2DggqIecedL7YMJsq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Comfort Chain](https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Comfort Chain](https://open.spotify.com/album/7wkMsvkTZ6pq5GgSqDu9jK) | 3:04 | 2022-01-11 |  |
 | [conversations with grandma](https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [blue moon](https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ) | 1:26 | 2021-10-20 |  |
 | [COT2ON](https://open.spotify.com/track/6lMcrN9rMYh0AKMGQbE30j) | [Kampala Social Club](https://open.spotify.com/artist/1j2z4kWUO6QrYTqzQVxoZS) | [COT2ON](https://open.spotify.com/album/7hYw5hD2lfDGzIhpov4bI3) | 4:52 | 2021-10-20 | 2022-07-28 |
+| [Cuckoo](https://open.spotify.com/track/21nmBBjOkUxLbeU8lmxmxA) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake Up Calls](https://open.spotify.com/album/2bzUMXACWhOZnl7pyV8VWy) | 2:25 | 2021-10-20 |  |
 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 | 2021-10-20 | 2022-04-20 |
 | [Cutting Branches For A Temporary Shelter \- Remastered 2008](https://open.spotify.com/track/0Lm3loChnSsNS37nxvLYcN) | [Penguin Cafe Orchestra](https://open.spotify.com/artist/6rAZ6OYwAXqykSlPxqGy8E) | [Penguin Café Orchestra](https://open.spotify.com/album/2HDowU93etbL5ClDIRAyh8) | 3:08 | 2021-10-20 |  |
 | [Dawn of the Forest](https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Healing Collection: Quiet Comfort](https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b) | 16:04 | 2021-10-20 | 2022-07-29 |
@@ -189,7 +190,7 @@
 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 | 2022-01-14 | 2022-04-20 |
 | [Nutrition \- Single Edit](https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00) | [Tenka](https://open.spotify.com/artist/2B1vFfrtORGBQQdIKAckkw), [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Nutrition](https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi) | 4:39 | 2022-09-15 |  |
 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 | 2021-10-20 | 2022-07-27 |
-| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2021-10-20 |  |
+| [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 | 2021-10-20 | 2022-11-04 |
 | [Only Love From Now On \(with Johanna Scheie Orellana\)](https://open.spotify.com/track/3Woi4fIAiktL6UwEcDFPfo) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l), [Johanna Scheie Orellana](https://open.spotify.com/artist/2XZZ4suNvaBBsxrHcRa7pG) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 8:13 | 2022-03-03 | 2022-07-25 |
 | [P a r a l l a x](https://open.spotify.com/track/5cWpQKs9O72HG4cYYZyiv9) | [Maxy Dutcher](https://open.spotify.com/artist/2zUPf8Btzm9ro7vM35THTf) | [Parallax](https://open.spotify.com/album/40LaUfA7iILyLnjZOxnst0) | 4:16 | 2022-03-30 | 2022-07-03 |
 | [Pale Lavender](https://open.spotify.com/track/3FZqioWMlFemrJ1ZfElWDE) | [Phillip Norman Watson](https://open.spotify.com/artist/2l470mqKXM31vhpMnf3IGN) | [Mists](https://open.spotify.com/album/5jithCshUdK6yZd8oP4XMf) | 4:41 | 2021-10-20 | 2022-10-18 |

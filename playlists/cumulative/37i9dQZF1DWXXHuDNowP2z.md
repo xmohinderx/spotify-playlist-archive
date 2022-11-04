@@ -4,7 +4,7 @@
 
 > ¡A levantar polvadera!
 
-213 songs - 12 hr 6 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
+214 songs - 12 hr 10 min - [published](https://open.spotify.com/playlist/7AVTLss0jdvM2YQNxTY8ci)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Huapango el Pluma Blanca](https://open.spotify.com/track/5Oxd5qRiNAUFhXHHVrf0ly) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Durmiendo en el Lugar Equivocado](https://open.spotify.com/album/50F2Qk3NJDPsqXGP4SL3xQ) | 2:52 | 2022-04-08 |  |
 | [Huapango el Tenebroso](https://open.spotify.com/track/6mraZk1UIOzbj8a2h3Nkrd) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/4PDZDbLCOpmhn7n47Qulko) | 4:48 | 2022-04-08 | 2022-07-29 |
 | [Huapango el Tenebroso](https://open.spotify.com/track/7s4TyWVoaX2qXZeTdCRDXa) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Cortinas Guindas](https://open.spotify.com/album/5qZQV3V89D7DpMNIAliRlF) | 4:48 | 2022-04-08 | 2022-07-30 |
-| [Huapango el Toro Pinto](https://open.spotify.com/track/3irDz5lfA0Hz5aHQBmfoZs) | [Conjunto La Insignia](https://open.spotify.com/artist/1gGHmrOLzJgd8Gr6TvJpod) | [Conquistandote](https://open.spotify.com/album/5mFNOszGrYt2XCxhSkoZc9) | 3:11 | 2022-04-08 |  |
+| [Huapango el Toro Pinto](https://open.spotify.com/track/3irDz5lfA0Hz5aHQBmfoZs) | [Conjunto La Insignia](https://open.spotify.com/artist/1gGHmrOLzJgd8Gr6TvJpod) | [Conquistandote](https://open.spotify.com/album/5mFNOszGrYt2XCxhSkoZc9) | 3:11 | 2022-04-08 | 2022-11-04 |
 | [Huapango Flor de Piña](https://open.spotify.com/track/04h7bbC8bBngyEqJk8cEXB) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Viejón de Oro](https://open.spotify.com/album/0sipXp2UvnY3qJFcoexKea) | 2:52 | 2022-04-08 |  |
 | [Huapango Flor de Piña](https://open.spotify.com/track/4RVTmFYSCwaJOH3j9vou6Y) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Huapangos 2017](https://open.spotify.com/album/2RcKPrD7jq45BWmb96KdFq) | 2:52 | 2022-04-08 | 2022-07-29 |
 | [Huapangos De Barrio \- En Vivo](https://open.spotify.com/track/2TCBdixeX6MvqCxfvhslhE) | [Antidoto](https://open.spotify.com/artist/2DyXcyLK08q2b7UpBpKIyr) | [Huapangos De Barrio \(En Vivo\)](https://open.spotify.com/album/23v3ofFxa0A2gJZcwfOggx) | 4:20 | 2022-04-08 | 2022-07-29 |
@@ -207,6 +207,7 @@
 | [Tan Bonita](https://open.spotify.com/track/0AWQyrVXztj04u4DCECbGG) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Tan Bonita](https://open.spotify.com/album/2Y6AdUP44txJRiTizYo5nj) | 3:13 | 2022-04-08 |  |
 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 | 2022-04-08 |  |
 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 | 2022-04-08 | 2022-11-03 |
+| [Te Vez Buena](https://open.spotify.com/track/4fTFCw9sUnJFZNrVBecAUn) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/0IbYtGUcmCxEqOenGvcZRh) | 4:12 | 2022-04-08 |  |
 | [Todas Son Bonitas \( En Vivo \)](https://open.spotify.com/track/224vKp4BSlWWcO49BQsFLV) | [Grupo Zenzio](https://open.spotify.com/artist/0phhTEgdg0vxSb5G3dPVsC), [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [En Vivo Desde El Valle](https://open.spotify.com/album/4uyoaM5Cw7jerrCZNzFAs9) | 3:17 | 2022-08-01 |  |
 | [Tongoneaito](https://open.spotify.com/track/13nitMCnQQCcpvcI03KQrE) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:44 | 2022-04-08 |  |
 | [Un Angel No Debe Llorar](https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84) | [Banda Ola Azul de Zirahuen](https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR) | [Nuestra Historia Musical \(Volumen 1\)](https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r) | 3:13 | 2022-04-08 |  |

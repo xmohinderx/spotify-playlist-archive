@@ -1,31 +1,35 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : F430",
-  "num_followers": 340988,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "num_followers": 341048,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODAwMCwwMDAwMDAwMDc2YjQ2ZTM2OGJmNDRiY2VkOWE4MDQ2OTFmMTg5NWFl",
+  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDcyYTgwYmY5NmI2NmFhNzkzZTIzM2E2ZDRiZWMxNzlm",
   "tracks": [
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Warzone",
-        "url": "https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7"
+        "name": "Kenna",
+        "url": "https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4"
       },
       "artists": [
         {
-          "name": "F430",
-          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        },
+        {
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Warzone",
-      "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+      "duration_ms": 185968,
+      "name": "Si \u00e7a compte",
+      "url": "https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Nephtys",
         "url": "https://open.spotify.com/album/2jplcSiO6721Ep6E9usYyq"
@@ -41,7 +45,387 @@
       "url": "https://open.spotify.com/track/07mCQ6sRZzT5XoSqnA2fOW"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Enfant2LaRue Vol.3",
+        "url": "https://open.spotify.com/album/35rQ31nB2TM6sZLDvfIvtH"
+      },
+      "artists": [
+        {
+          "name": "Sasso",
+          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
+        }
+      ],
+      "duration_ms": 194086,
+      "name": "Nouveau chapitre",
+      "url": "https://open.spotify.com/track/03qW1EfTMxq4f3S2VUh6QV"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "duration_ms": 179962,
+      "name": "TARZAN",
+      "url": "https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Tout Droit",
+        "url": "https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux"
+      },
+      "artists": [
+        {
+          "name": "Yaro",
+          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Dernier Etage",
+      "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 146440,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Neurasthenie",
+        "url": "https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "duration_ms": 266747,
+      "name": "Neurasthenie",
+      "url": "https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Amis d'enfance",
+        "url": "https://open.spotify.com/album/3hV1vkAYnO7afQjE5j15V2"
+      },
+      "artists": [
+        {
+          "name": "L2B Gang",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 207094,
+      "name": "Amis d'enfance",
+      "url": "https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Maudit",
+        "url": "https://open.spotify.com/album/5VhQXyXXmdn7bPqODOkOmV"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "duration_ms": 229863,
+      "name": "Maudit",
+      "url": "https://open.spotify.com/track/0SDdToMgBtqdd7WJnT2iGi"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "LESSGUI",
+        "url": "https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU"
+      },
+      "artists": [
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "LESSGUI",
+      "url": "https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "AKUMA",
+        "url": "https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh"
+      },
+      "artists": [
+        {
+          "name": "HAKAI",
+          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+        }
+      ],
+      "duration_ms": 156026,
+      "name": "LUNE",
+      "url": "https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "EXGZ 3",
+        "url": "https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        },
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Avant la fin (feat. Zamdane)",
+      "url": "https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm"
+      },
+      "artists": [
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        }
+      ],
+      "duration_ms": 192120,
+      "name": "\u00c2mes perdues",
+      "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7sBsoD0q8ZCKwoH8wM8Qfy"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 209453,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Br\u00fble avec",
+        "url": "https://open.spotify.com/album/1DJxIkQJ4suush17TdX6Om"
+      },
+      "artists": [
+        {
+          "name": "Ekoms",
+          "url": "https://open.spotify.com/artist/6bgeoMw6N8eRZWql5rWBql"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "Br\u00fble avec",
+      "url": "https://open.spotify.com/track/5K1qIXNbh07XHaQbiZEZK3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Silver Haze",
+        "url": "https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq"
+      },
+      "artists": [
+        {
+          "name": "Bakari",
+          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
+        }
+      ],
+      "duration_ms": 233679,
+      "name": "Silver Haze",
+      "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "COUP\u00c9",
+        "url": "https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY"
+      },
+      "artists": [
+        {
+          "name": "TLZ Clan",
+          "url": "https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp"
+        }
+      ],
+      "duration_ms": 178290,
+      "name": "COUP\u00c9",
+      "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Audrey Tautou",
+        "url": "https://open.spotify.com/album/49jnXKOUmeHnS4SZBm8IOU"
+      },
+      "artists": [
+        {
+          "name": "Jwles",
+          "url": "https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8"
+        }
+      ],
+      "duration_ms": 154758,
+      "name": "Audrey Tautou",
+      "url": "https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "J'la connais, Pt. 1",
+        "url": "https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "J'la connais, Pt. 1",
+      "url": "https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Angelo",
+        "url": "https://open.spotify.com/album/5bsucbfbgWkkJkO01tSGD0"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "duration_ms": 155317,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Etoile Noire : N\u00e9buleuse",
+        "url": "https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw"
+      },
+      "artists": [
+        {
+          "name": "Luv Resval",
+          "url": "https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Black Pearl",
+      "url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Follow me",
+        "url": "https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Follow me",
+      "url": "https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "PARADIS",
+        "url": "https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2"
+      },
+      "artists": [
+        {
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "PARADIS",
+      "url": "https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "ERRR",
+        "url": "https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "L'APPEL",
+      "url": "https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Le soleil se l\u00e8vera \u00e0 l'Ouest",
         "url": "https://open.spotify.com/album/6Jtz2endgOr6QYkPhBulKt"
@@ -69,415 +453,7 @@
       "url": "https://open.spotify.com/track/4RV2l9VHEPYrUXZXdiusEy"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "AKUMA",
-        "url": "https://open.spotify.com/album/4BBlqKe6wXcS1pijTZ1zMh"
-      },
-      "artists": [
-        {
-          "name": "HAKAI",
-          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
-        }
-      ],
-      "duration_ms": 156026,
-      "name": "LUNE",
-      "url": "https://open.spotify.com/track/1k6EPZ5JuuNTOGhF7woAXz"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/5DUgKgqnqt4jWWP4DCx2NI"
-      },
-      "artists": [
-        {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
-        }
-      ],
-      "duration_ms": 179962,
-      "name": "TARZAN",
-      "url": "https://open.spotify.com/track/2weBFL1vsF2p92lgSlxzbo"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Kenna",
-        "url": "https://open.spotify.com/album/76pipx8axggIWa1sXWV7K4"
-      },
-      "artists": [
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        },
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 185968,
-      "name": "Si \u00e7a compte",
-      "url": "https://open.spotify.com/track/2KGyvpsnb8PXovZx4ecfUF"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Enfant2LaRue Vol.3",
-        "url": "https://open.spotify.com/album/35rQ31nB2TM6sZLDvfIvtH"
-      },
-      "artists": [
-        {
-          "name": "Sasso",
-          "url": "https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF"
-        }
-      ],
-      "duration_ms": 194086,
-      "name": "Nouveau chapitre",
-      "url": "https://open.spotify.com/track/03qW1EfTMxq4f3S2VUh6QV"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Neurasthenie",
-        "url": "https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS"
-      },
-      "artists": [
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
-        }
-      ],
-      "duration_ms": 266747,
-      "name": "Neurasthenie",
-      "url": "https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "PARADIS",
-        "url": "https://open.spotify.com/album/7a7QrRy6h0tsHctcmvtrW2"
-      },
-      "artists": [
-        {
-          "name": "Araujo",
-          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "PARADIS",
-      "url": "https://open.spotify.com/track/5CE5jQ1JFVUNjEufjx2b2U"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7sBsoD0q8ZCKwoH8wM8Qfy"
-      },
-      "artists": [
-        {
-          "name": "F430",
-          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4lpWpolbOCSrlEe9FN3G9F"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "LESSGUI",
-        "url": "https://open.spotify.com/album/0sW9FAedveHh5b62T0eIoU"
-      },
-      "artists": [
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "LESSGUI",
-      "url": "https://open.spotify.com/track/7tcsRVgsBvGGL8h9BHN1uA"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Angelo",
-        "url": "https://open.spotify.com/album/5bsucbfbgWkkJkO01tSGD0"
-      },
-      "artists": [
-        {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
-        }
-      ],
-      "duration_ms": 155317,
-      "name": "Angelo",
-      "url": "https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "J'la connais, Pt. 1",
-        "url": "https://open.spotify.com/album/6CodUHcAHp1KsNY2zPyDKA"
-      },
-      "artists": [
-        {
-          "name": "Emkal",
-          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "J'la connais, Pt. 1",
-      "url": "https://open.spotify.com/track/7qTRcNu0nqDyjM7cWofXqT"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": ".QUI.TU.VEUX.",
-        "url": "https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF"
-      },
-      "artists": [
-        {
-          "name": "Kobo",
-          "url": "https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft"
-        }
-      ],
-      "duration_ms": 212793,
-      "name": ".QUI.TU.VEUX.",
-      "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Tout Droit",
-        "url": "https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux"
-      },
-      "artists": [
-        {
-          "name": "Yaro",
-          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Dernier Etage",
-      "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Amis d'enfance",
-        "url": "https://open.spotify.com/album/3hV1vkAYnO7afQjE5j15V2"
-      },
-      "artists": [
-        {
-          "name": "L2B Gang",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        },
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 207094,
-      "name": "Amis d'enfance",
-      "url": "https://open.spotify.com/track/59XM6eXdRqsOo0q7e5I4dK"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "EXGZ 3",
-        "url": "https://open.spotify.com/album/30B5XqJZhEp7nJutaeqqU3"
-      },
-      "artists": [
-        {
-          "name": "Gianni",
-          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
-        },
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "Avant la fin (feat. Zamdane)",
-      "url": "https://open.spotify.com/track/19OckgD8qk3bmeT4xoJ3js"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Silver Haze",
-        "url": "https://open.spotify.com/album/12CHUcB1WTZPeB2KHGyRoq"
-      },
-      "artists": [
-        {
-          "name": "Bakari",
-          "url": "https://open.spotify.com/artist/6ENue1D9ypy32vI8BWQx33"
-        }
-      ],
-      "duration_ms": 233679,
-      "name": "Silver Haze",
-      "url": "https://open.spotify.com/track/03cm8VgdEvDM0rC7txjmpY"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Drip Music 2",
-        "url": "https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d"
-      },
-      "artists": [
-        {
-          "name": "Binks Beatz",
-          "url": "https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ"
-        },
-        {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
-        }
-      ],
-      "duration_ms": 237639,
-      "name": "Dennis Rodman (feat. Laylow)",
-      "url": "https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Transparent",
-        "url": "https://open.spotify.com/album/4C8YgxhvIVBVPN5RvUG3hm"
-      },
-      "artists": [
-        {
-          "name": "joysad",
-          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
-        }
-      ],
-      "duration_ms": 192120,
-      "name": "\u00c2mes perdues",
-      "url": "https://open.spotify.com/track/7zUgId6sQBSyaaBXbbiIf3"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "LES HUMAINS",
-        "url": "https://open.spotify.com/album/5bjoZWJkq94BDzg2ehm6SD"
-      },
-      "artists": [
-        {
-          "name": "Magnar",
-          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
-        },
-        {
-          "name": "Sheldon",
-          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "PUZZLE",
-      "url": "https://open.spotify.com/track/0yEnRdHmfVURCjohBb7WT3"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Follow me",
-        "url": "https://open.spotify.com/album/3xR9aS1Ofxxjvm4iNGT1s4"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Follow me",
-      "url": "https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "COUP\u00c9",
-        "url": "https://open.spotify.com/album/2LNG7f47uJJAZcgiVZlHEY"
-      },
-      "artists": [
-        {
-          "name": "TLZ Clan",
-          "url": "https://open.spotify.com/artist/6rl2UnIXbg1TcusvFlPzWp"
-        }
-      ],
-      "duration_ms": 178290,
-      "name": "COUP\u00c9",
-      "url": "https://open.spotify.com/track/6AbZfezde2hXaauuzMaO0i"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "EROSE",
-        "url": "https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl"
-      },
-      "artists": [
-        {
-          "name": "Araujo",
-          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
-        }
-      ],
-      "duration_ms": 121189,
-      "name": "SAC CHANEL",
-      "url": "https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w"
-      },
-      "artists": [
-        {
-          "name": "Moji x Sboy",
-          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
-        }
-      ],
-      "duration_ms": 140917,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Printemps (Live Spectre)",
-        "url": "https://open.spotify.com/album/4b0VShg4Tyz9NTKG6VGdWB"
-      },
-      "artists": [
-        {
-          "name": "Softo",
-          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
-        }
-      ],
-      "duration_ms": 142900,
-      "name": "Printemps - Live Spectre",
-      "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "PARADOXE",
         "url": "https://open.spotify.com/album/44ax71MweuP0tuXzV9mgfh"
@@ -497,71 +473,7 @@
       "url": "https://open.spotify.com/track/1xLddYF8AeGunDqEXr4YIO"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "ERRR",
-        "url": "https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7"
-      },
-      "artists": [
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "L'APPEL",
-      "url": "https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Restez Prince",
-        "url": "https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs"
-      },
-      "artists": [
-        {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "Plus jeune",
-      "url": "https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Fin heureuse",
-        "url": "https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12"
-      },
-      "artists": [
-        {
-          "name": "So La Lune",
-          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Fin heureuse",
-      "url": "https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "EROSE",
-        "url": "https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl"
-      },
-      "artists": [
-        {
-          "name": "Araujo",
-          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
-        }
-      ],
-      "duration_ms": 188989,
-      "name": "SANS TOI",
-      "url": "https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "GRENADE",
         "url": "https://open.spotify.com/album/2CW4ULev9mQurLEpFHdovg"
@@ -577,23 +489,207 @@
       "url": "https://open.spotify.com/track/0WZ7TQn8MJnzRxKdxWlpdN"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Etoile Noire : N\u00e9buleuse",
-        "url": "https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw"
+        "name": "ALCAN CITY",
+        "url": "https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm"
       },
       "artists": [
         {
-          "name": "Luv Resval",
-          "url": "https://open.spotify.com/artist/5l8WyvJ50fdSghK2ySNq1y"
+          "name": "Lycos",
+          "url": "https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Black Pearl",
-      "url": "https://open.spotify.com/track/1cNLTTuobJoTEQI4lhqZuS"
+      "duration_ms": 237783,
+      "name": "Temp\u00eate",
+      "url": "https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Drip Music 2",
+        "url": "https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d"
+      },
+      "artists": [
+        {
+          "name": "Binks Beatz",
+          "url": "https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "duration_ms": 237639,
+      "name": "Dennis Rodman (feat. Laylow)",
+      "url": "https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Fin heureuse",
+        "url": "https://open.spotify.com/album/5KcQvszp8wKRp1k9fHXR12"
+      },
+      "artists": [
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Fin heureuse",
+      "url": "https://open.spotify.com/track/2xIaxSN4uWp84jqXmk9DYn"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": ".QUI.TU.VEUX.",
+        "url": "https://open.spotify.com/album/4WKVTE8FvoBIfvI29lHRGF"
+      },
+      "artists": [
+        {
+          "name": "Kobo",
+          "url": "https://open.spotify.com/artist/5O5o8ORa6JnUInvOUmmvft"
+        }
+      ],
+      "duration_ms": 212793,
+      "name": ".QUI.TU.VEUX.",
+      "url": "https://open.spotify.com/track/04t1VtWunMLp3CvPFk0Axf"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "EROSE",
+        "url": "https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl"
+      },
+      "artists": [
+        {
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+        }
+      ],
+      "duration_ms": 188989,
+      "name": "SANS TOI",
+      "url": "https://open.spotify.com/track/447ZZY0MMCZcYcDVxWKwgn"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Restez Prince",
+        "url": "https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs"
+      },
+      "artists": [
+        {
+          "name": "sean",
+          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Plus jeune",
+      "url": "https://open.spotify.com/track/1ihbgjSg9n3LCXdHGOnjck"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/0nCjlr4JE2J1joj6D1S37w"
+      },
+      "artists": [
+        {
+          "name": "Moji x Sboy",
+          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
+        }
+      ],
+      "duration_ms": 140917,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/6tTDh7lYRhLKR7ICg0uzuf"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Regarde",
+        "url": "https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Regarde",
+      "url": "https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "SZR 2001",
+        "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
+      },
+      "artists": [
+        {
+          "name": "S-Crew",
+          "url": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/7dqUEX8cUv22oiK6UHFZMn"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Perdu d'avance",
+        "url": "https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik"
+      },
+      "artists": [
+        {
+          "name": "Ramses",
+          "url": "https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Perdu d'avance",
+      "url": "https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Clairobscur 2",
+        "url": "https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Gros mega",
+      "url": "https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "LES HUMAINS",
+        "url": "https://open.spotify.com/album/5bjoZWJkq94BDzg2ehm6SD"
+      },
+      "artists": [
+        {
+          "name": "Magnar",
+          "url": "https://open.spotify.com/artist/7I5n9ZSyE7tLoQusKJwyja"
+        },
+        {
+          "name": "Sheldon",
+          "url": "https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "PUZZLE",
+      "url": "https://open.spotify.com/track/0yEnRdHmfVURCjohBb7WT3"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Couleur de ma peine",
         "url": "https://open.spotify.com/album/2N9IozZraUsmwNPd4k69YB"
@@ -613,183 +709,39 @@
       "url": "https://open.spotify.com/track/5lyKwmMB1nuU3jUrrIFI3Q"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "SZR 2001",
-        "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
+        "name": "EROSE",
+        "url": "https://open.spotify.com/album/6KsyNUGlI8yH1u89W7XzKl"
       },
       "artists": [
         {
-          "name": "S-Crew",
-          "url": "https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc"
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
         }
       ],
-      "duration_ms": 181680,
-      "name": "Maintenant",
-      "url": "https://open.spotify.com/track/7dqUEX8cUv22oiK6UHFZMn"
+      "duration_ms": 121189,
+      "name": "SAC CHANEL",
+      "url": "https://open.spotify.com/track/6vhQy7hWPG2k0guaAxlTZT"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "Love moi",
-        "url": "https://open.spotify.com/album/7716TsCXcpGPPB4kwttjtN"
+        "name": "Printemps (Live Spectre)",
+        "url": "https://open.spotify.com/album/4b0VShg4Tyz9NTKG6VGdWB"
       },
       "artists": [
         {
-          "name": "Dibson",
-          "url": "https://open.spotify.com/artist/3I2ayKNkuX0gqKPZDBnxNk"
+          "name": "Softo",
+          "url": "https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp"
         }
       ],
-      "duration_ms": 175522,
-      "name": "Love moi",
-      "url": "https://open.spotify.com/track/3QOji8BDJZX4WphlxIpHMs"
+      "duration_ms": 142900,
+      "name": "Printemps - Live Spectre",
+      "url": "https://open.spotify.com/track/2OoO0L9cFKiR2shTXVsDZ6"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Clairobscur 2",
-        "url": "https://open.spotify.com/album/2JlgRagGV3G37C4Db5bPH1"
-      },
-      "artists": [
-        {
-          "name": "GR OMEGA",
-          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Gros mega",
-      "url": "https://open.spotify.com/track/1z1kLrnuYTLdXoSKWYE9Fy"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Regarde",
-        "url": "https://open.spotify.com/album/223Z3aR3oXho7do2t6IPeY"
-      },
-      "artists": [
-        {
-          "name": "Gianni",
-          "url": "https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Regarde",
-      "url": "https://open.spotify.com/track/3RXZRxhbPDL6B6gt59FO8m"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Restez Prince",
-        "url": "https://open.spotify.com/album/1lrB7nEyiuHZ5H94GIIXPs"
-      },
-      "artists": [
-        {
-          "name": "sean",
-          "url": "https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C"
-        }
-      ],
-      "duration_ms": 245893,
-      "name": "Piano Black",
-      "url": "https://open.spotify.com/track/5HUjQGeA8sTTCmmWC3hAg7"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "J'y pense encore",
-        "url": "https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz"
-      },
-      "artists": [
-        {
-          "name": "Lil Purpx",
-          "url": "https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28"
-        }
-      ],
-      "duration_ms": 209508,
-      "name": "J'y pense encore",
-      "url": "https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Perdu d'avance",
-        "url": "https://open.spotify.com/album/5gQLcjIumwemTPdbTv79ik"
-      },
-      "artists": [
-        {
-          "name": "Ramses",
-          "url": "https://open.spotify.com/artist/5v2PdLR4Jcs31CC1GJIA78"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Perdu d'avance",
-      "url": "https://open.spotify.com/track/1kXMucU97he5tcBgCR5o4v"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "prepa21",
-        "url": "https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw"
-      },
-      "artists": [
-        {
-          "name": "Simili Gum",
-          "url": "https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "1jour",
-      "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "ALCAN CITY",
-        "url": "https://open.spotify.com/album/4JKfBNGQOaXaMUTftt9Txm"
-      },
-      "artists": [
-        {
-          "name": "Lycos",
-          "url": "https://open.spotify.com/artist/6nxnoznWVrq1HXBbjl2cz3"
-        }
-      ],
-      "duration_ms": 237783,
-      "name": "Temp\u00eate",
-      "url": "https://open.spotify.com/track/2BrQwWQmdFASBPmjdI7qZa"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Exit #04 - Stamina",
-        "url": "https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk"
-      },
-      "artists": [
-        {
-          "name": "Max DLG",
-          "url": "https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw"
-        }
-      ],
-      "duration_ms": 203557,
-      "name": "Exit #04 - Stamina",
-      "url": "https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
-      "album": {
-        "name": "Le monde par ma fen\u00eatre",
-        "url": "https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z"
-      },
-      "artists": [
-        {
-          "name": "Zamdane",
-          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Le monde par ma fen\u00eatre",
-      "url": "https://open.spotify.com/track/34gqAsUuzda4ctvmjcv3Kl"
-    },
-    {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "DOPE & FLOW",
         "url": "https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz"
@@ -809,7 +761,55 @@
       "url": "https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "Exit #04 - Stamina",
+        "url": "https://open.spotify.com/album/6gvFCctC0yznRQk1EJGMbk"
+      },
+      "artists": [
+        {
+          "name": "Max DLG",
+          "url": "https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw"
+        }
+      ],
+      "duration_ms": 203557,
+      "name": "Exit #04 - Stamina",
+      "url": "https://open.spotify.com/track/12ToBtXfEzb2rynwmEF7qF"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "J'y pense encore",
+        "url": "https://open.spotify.com/album/0UzFkYv4X5yskUaB2QbjRz"
+      },
+      "artists": [
+        {
+          "name": "Lil Purpx",
+          "url": "https://open.spotify.com/artist/45gUSG3z1KARI7RfS1Bj28"
+        }
+      ],
+      "duration_ms": 209508,
+      "name": "J'y pense encore",
+      "url": "https://open.spotify.com/track/1dMDYQjrnhee5nmyKEydJd"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "L'AVANCE",
+        "url": "https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+        }
+      ],
+      "duration_ms": 125825,
+      "name": "L'AVANCE",
+      "url": "https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "Outrenoir",
         "url": "https://open.spotify.com/album/4zpwEmrb5Y50cXzDbYzo9Y"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/456DJS1um0455bLuepBH9J"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
         "name": "OTREMOND",
         "url": "https://open.spotify.com/album/3BXqdqLGMeVCEXKVOzir2e"
@@ -841,20 +841,20 @@
       "url": "https://open.spotify.com/track/2nXui3vCCRdX9Egbsn5Irx"
     },
     {
-      "added_at": "2022-10-27 22:00:00",
+      "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "L'AVANCE",
-        "url": "https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd"
+        "name": "prepa21",
+        "url": "https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+          "name": "Simili Gum",
+          "url": "https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS"
         }
       ],
-      "duration_ms": 125825,
-      "name": "L'AVANCE",
-      "url": "https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W"
+      "duration_ms": 169250,
+      "name": "1jour",
+      "url": "https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb"
     }
   ],
   "unique_name": "Cloud Rap",

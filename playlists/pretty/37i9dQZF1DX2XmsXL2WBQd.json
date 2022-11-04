@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 324905,
+  "num_followers": 324992,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTY2MDM3NCwwMDAwMDAwMGVmNGNlMzc0Njc4YWZkOGY2MjQ2NDUzY2UzYzVlZTgx",
+  "snapshot_id": "MTY2NTY2MDM3NCwwMDAwMDAwMDA1ZTM2MGI1ODM2NGZmNTU5YzE4NjQyMmQwYTNlNWE4",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:16",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-09-21 12:36:16",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz"
-      },
-      "artists": [
-        {
-          "name": "Whodini",
-          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
-        }
-      ],
-      "duration_ms": 282866,
-      "name": "Freaks Come Out at Night",
-      "url": "https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a"
-    },
-    {
-      "added_at": "2022-09-21 12:36:16",
-      "album": {
         "name": "It's A Big Daddy Thing",
         "url": "https://open.spotify.com/album/1cvyT4p26JXJicEBbHPzvX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+    },
+    {
+      "added_at": "2022-09-21 12:36:16",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3jfl2KnD4xXTDWXNNlg9Gz"
+      },
+      "artists": [
+        {
+          "name": "Whodini",
+          "url": "https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu"
+        }
+      ],
+      "duration_ms": 282866,
+      "name": "Freaks Come Out at Night",
+      "url": "https://open.spotify.com/track/7MaRvQWA6w7ZV2Cwbnvv2a"
     },
     {
       "added_at": "2022-09-21 12:36:16",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-09-21 12:36:16",
       "album": {
-        "name": "Hip Hop Be Bop",
-        "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
       },
       "artists": [
         {
-          "name": "Man Parrish",
-          "url": "https://open.spotify.com/artist/2HKVO06HXqGmQxZJ8xIqgr"
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
         }
       ],
-      "duration_ms": 318680,
-      "name": "Boogie Down Bronx",
-      "url": "https://open.spotify.com/track/2CbgPrMwa0UWUdppsOIoTR"
+      "duration_ms": 395626,
+      "name": "Jam On Revenge (The Wikki Wikki Song)",
+      "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

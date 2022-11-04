@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-632 songs - 1 day 18 hr 14 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
+633 songs - 1 day 18 hr 18 min - [published](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,7 +521,8 @@
 | [Synthetic Romance](https://open.spotify.com/track/6UkjGT40uDh1RrEzRSSIm9) | [Cullen Omori](https://open.spotify.com/artist/0P0xfWeg32j9iUTHCullrj) | [New Misery](https://open.spotify.com/album/4voLdwuVKjqm7JAi7GNh1k) | 3:22 | 2021-04-02 | 2022-04-18 |
 | [Taba](https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0), [Pilar Pascual](https://open.spotify.com/artist/2I9yXr9A6I4IMV6aywoQf7) | [Taba](https://open.spotify.com/album/0RihlpLdBDnr3T9LApYotO) | 3:13 | 2021-10-08 | 2022-04-14 |
 | [Table for Two](https://open.spotify.com/track/3LP1irSo3F7IgpiNN9h0GP) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/1YZRsQcKt5TLmXSxZ2ZHVa) | 3:22 | 2021-04-02 | 2022-10-14 |
-| [Take Me Avalon I'm Young](https://open.spotify.com/track/2rycr1itBCCD9cx3WTSWX6) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Live at the BBC](https://open.spotify.com/album/5LAlbeTcdTRkh3hmVIEjMf) | 3:27 | 2022-10-24 |  |
+| [Table for Two](https://open.spotify.com/track/6PHc04SfoPogi8OXDKv6XT) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Table for Two](https://open.spotify.com/album/4xRNJF0Ejx6FAqJDlmRlMD) | 3:22 | 2022-10-24 |  |
+| [Take Me Avalon I'm Young](https://open.spotify.com/track/2rycr1itBCCD9cx3WTSWX6) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Live at the BBC](https://open.spotify.com/album/5LAlbeTcdTRkh3hmVIEjMf) | 3:27 | 2022-10-24 | 2022-11-04 |
 | [Take Me Avalon I'm Young](https://open.spotify.com/track/01fdJQg7hkJZV0PgXidvDG) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [9](https://open.spotify.com/album/3flX72PpF0OuV53f5HrKoS) | 3:31 | 2021-10-08 | 2022-07-06 |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/62kHSw6wBh4c6UemJCb5p6) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Take Me Where Your Heart Is](https://open.spotify.com/album/6XkgiL7F2lC1pnZgioUyYd) | 3:12 | 2021-04-02 | 2022-04-16 |
 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 | 2021-04-02 | 2022-07-04 |

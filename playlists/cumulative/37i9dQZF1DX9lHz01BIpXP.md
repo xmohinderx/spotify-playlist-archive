@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop Cover: <a href="https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=w8EU1cUrSMGlI2MssXYRjA">Jack Parow</a>
 
-52 songs - 2 hr 55 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
+53 songs - 2 hr 58 min - [published](https://open.spotify.com/playlist/2L0hHi2CI7ZbUGqYTWQUQ1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Awe My Ma Se Kind](https://open.spotify.com/track/0Ht2LLaQovMRWaQSRdGD9t) | [Pret Kadet](https://open.spotify.com/artist/6HViHb4IhV0UAMVV1KMUIk), [Foksie Konyn](https://open.spotify.com/artist/12VZK2SvbJyoOw5OYKee5a) | [Awe My Ma Se Kind](https://open.spotify.com/album/40nAWEdpwiLQLdzqWTQB17) | 3:08 | 2022-09-08 | 2022-10-14 |
 | [Bons](https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Katinka Band](https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS) | [The Party Starter](https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD) | 3:06 | 2022-09-08 |  |
 | [Breinsuiker \- Remix](https://open.spotify.com/track/20CX51tTFlht4gXK1loswW) | [Jitsvinger](https://open.spotify.com/artist/0Mn0ce5OUNmCtxfiT3TmZr), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Zomer '17](https://open.spotify.com/album/1CP6a9AvPbfDL4FiK49ViT) | 4:23 | 2022-09-08 |  |
+| [By Die See](https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [By Die See](https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5) | 2:47 | 2022-11-03 |  |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 |  |
 | [Cerebellum](https://open.spotify.com/track/0RITqRIAaeqTkH69haD3SN) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Aangename Kennis](https://open.spotify.com/album/3rSgGMWq1S2Xipr0kKYfq4) | 3:07 | 2022-09-08 |  |
 | [Chy?s](https://open.spotify.com/track/5MFCBXjKecUCoHXu03Zfzu) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Jay Em](https://open.spotify.com/artist/0zIl4civXJUhG3jlhyrcOw) | [The Republic Of Ghamstad](https://open.spotify.com/album/4ClKDh5FGeE9trmJyQFw3i) | 3:54 | 2022-09-08 |  |
@@ -50,7 +51,7 @@
 | [Ricky Opi Beat](https://open.spotify.com/track/0ZDBZzm4srA2FEFx4V43PK) | [TDV Ricky Vani Frontline](https://open.spotify.com/artist/6CoWyB0XfRRCMB9iFuGzyL) | [Ricky Opi Beat](https://open.spotify.com/album/2mYHqDlpdBfRiC5Tw8qnHx) | 3:16 | 2022-09-08 |  |
 | [Sex in Afrikaans](https://open.spotify.com/track/4Wk2Ri6qRKrY6nq75HXw4z) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Sex in Afrikaans](https://open.spotify.com/album/7EtLrld4Bb8hjS6htzyB8e) | 3:06 | 2022-09-08 |  |
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 |  |
-| [Soldaat](https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Longjevity](https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8) | 3:14 | 2022-09-08 |  |
+| [Soldaat](https://open.spotify.com/track/6fXD6fswA7gxaxwwxb7lsY) | [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Longjevity](https://open.spotify.com/album/7gOn06YJr6NTt5cwHmC2Y8) | 3:14 | 2022-09-08 | 2022-11-04 |
 | [Syfers](https://open.spotify.com/track/0ZpttaASCFswJdD8sJprbJ) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Sien Jou Later](https://open.spotify.com/album/0AXcygm8jz0YWKvgZvVd0T) | 3:17 | 2022-09-08 |  |
 | [Sê Net](https://open.spotify.com/track/5j6SZZCXd6h1N1bb00eaOu) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Bliksemstraal](https://open.spotify.com/artist/0tZgg5DzLolw3cT7We6RQ0) | [Funky\-Kaans](https://open.spotify.com/album/4dCrzyFLnOoCrMCEfLZ6qa) | 3:21 | 2022-09-08 |  |
 | [T\. D\. K\. S](https://open.spotify.com/track/7qbLm0IBfu31Tpq6W45XfH) | [MJoyner](https://open.spotify.com/artist/5SvCMCMj7dkqVnylp7xEdv), [TY Mxjor](https://open.spotify.com/artist/6jRREpnzwzBkDjT6QPtlLv) | [T\. D\. K\. S](https://open.spotify.com/album/6fdkcLJyX2csmHE6byABjX) | 3:30 | 2022-09-08 |  |

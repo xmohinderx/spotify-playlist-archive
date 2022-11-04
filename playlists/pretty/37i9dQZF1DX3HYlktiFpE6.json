@@ -1,12 +1,12 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 94767,
+  "num_followers": 94795,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGZlYjkyMDI4YWIzZGU0YjVjMzNlNjJjNWFmZDY4ZDg4",
+  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDAwMGQ0NjI0NjYwMjMzYjVhZGY1MzRkZWE5ZjczOTdjNzgx",
   "tracks": [
     {
       "added_at": "2021-12-24 05:00:00",
@@ -551,22 +551,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
+        "name": "Right Round / Sweet Caroline - Single",
+        "url": "https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE"
       },
       "artists": [
         {
-          "name": "Rebel Wilson",
-          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
-        },
-        {
-          "name": "Adam Devine",
-          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
+          "name": "Tufts Beelzebubs",
+          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
         }
       ],
-      "duration_ms": 214746,
-      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
+      "duration_ms": 112360,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -587,18 +583,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Right Round / Sweet Caroline - Single",
-        "url": "https://open.spotify.com/album/4AH2qX9iAUGb0baGXSozaE"
+        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
       },
       "artists": [
         {
-          "name": "Tufts Beelzebubs",
-          "url": "https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq"
+          "name": "Rebel Wilson",
+          "url": "https://open.spotify.com/artist/2PBf6AHIDEgPtF2aJebmhq"
+        },
+        {
+          "name": "Adam Devine",
+          "url": "https://open.spotify.com/artist/44Z6QdihkJhFiGhyk1ISVI"
         }
       ],
-      "duration_ms": 112360,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/6d9F2YMOblua0s4DHc6h5X"
+      "duration_ms": 214746,
+      "name": "We Belong - From \"Pitch Perfect 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/2pnsJSwvm00f84JxPzHKUg"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Anthem Lights Covers",
-        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
+        "name": "Pitch Perfect (More Music From The Motion Picture) EP",
+        "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
       },
       "artists": [
         {
-          "name": "Anthem Lights",
-          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
+          "name": "The Sockapellas",
+          "url": "https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd"
         }
       ],
-      "duration_ms": 216087,
-      "name": "Give Your Heart a Break",
-      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
+      "duration_ms": 72906,
+      "name": "F**k You",
+      "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Pitch Perfect (More Music From The Motion Picture) EP",
-        "url": "https://open.spotify.com/album/7a2PTJIJdgJZPRoO1op0hS"
+        "name": "Anthem Lights Covers",
+        "url": "https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7"
       },
       "artists": [
         {
-          "name": "The Sockapellas",
-          "url": "https://open.spotify.com/artist/4iMeGfjSNJnmmg6yPKCzhd"
+          "name": "Anthem Lights",
+          "url": "https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ"
         }
       ],
-      "duration_ms": 72906,
-      "name": "F**k You",
-      "url": "https://open.spotify.com/track/2iSznonsMCSU95AHXFGVcH"
+      "duration_ms": 216087,
+      "name": "Give Your Heart a Break",
+      "url": "https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn"
     },
     {
       "added_at": "2021-12-24 05:00:00",

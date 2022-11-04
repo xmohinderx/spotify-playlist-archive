@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 503270,
+  "num_followers": 503297,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMGQwNjJjMmVlYzJhM2IzNjkyZDk3MDdlNjIxMThjNjE2",
+  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMDI3Y2MxZTYyNWFlZmE2Nzc2NGMyN2FhN2EwMDlkZWVk",
   "tracks": [
     {
       "added_at": "2022-10-27 13:43:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
-      },
-      "artists": [
-        {
-          "name": "Andres",
-          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
-        }
-      ],
-      "duration_ms": 161531,
-      "name": "Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
         "name": "Pesadilla",
         "url": "https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 174611,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3tIxBNnKOBFAVZuvaUQByf"
+      },
+      "artists": [
+        {
+          "name": "Andres",
+          "url": "https://open.spotify.com/artist/4eAz1Oum61CGHwMUl9CZ9f"
+        }
+      ],
+      "duration_ms": 161531,
+      "name": "Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/6Y6KYwYb1l5F0CgFtVG1sO"
     },
     {
       "added_at": "2022-10-27 13:43:16",

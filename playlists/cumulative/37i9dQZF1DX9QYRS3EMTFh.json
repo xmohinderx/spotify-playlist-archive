@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Jahyanai",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -650,6 +650,28 @@
     },
     {
       "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/3VihwCwktiRiqN8TuLJe6C"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Mafio House",
+          "url": "https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148340,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/1wE06ItQpK0wjAhCpwfsH4"
+    },
+    {
+      "album": {
         "name": "Condensed Milk",
         "url": "https://open.spotify.com/album/7lk8DbGwZWNkHcNPg9cFUQ"
       },
@@ -1165,6 +1187,24 @@
       "duration_ms": 181394,
       "name": "Govern",
       "url": "https://open.spotify.com/track/1Kmw6jCOBXFzJtZpELdNdd"
+    },
+    {
+      "album": {
+        "name": "GVNG (Gang)",
+        "url": "https://open.spotify.com/album/247PW2quTXFy2GFGUjL9Cq"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146468,
+      "name": "GVNG - Gang",
+      "url": "https://open.spotify.com/track/1kc8YZsa1BQ2OgrAKMsPfS"
     },
     {
       "album": {
@@ -2531,7 +2571,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 151836,
       "name": "Pumpum",
       "url": "https://open.spotify.com/track/6gsuZ3e7vnKJhvbHLmXQqA"
@@ -2787,7 +2827,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 121269,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/4dst3v9IrkOe59bywDmyNL"

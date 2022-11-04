@@ -1,13 +1,45 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: <a href=\"https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9?si=71IZoDndRoWuYhF1DS533w\"> Johnny Drille </a> ",
-  "num_followers": 67779,
+  "num_followers": 67816,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2MDMyNywwMDAwMDAwMDNhYzQyYzc0MzFmYmJiMzgwZDU0YWRhNDA3NjcxY2Ji",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDg1MDVkNTIyNWI2ZGU2YmE5MzVjOTEwNjg4NjZkMjRh",
   "tracks": [
+    {
+      "added_at": "2020-08-28 11:04:16",
+      "album": {
+        "name": "ROOTS",
+        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
+      },
+      "artists": [
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "duration_ms": 185759,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu"
+    },
+    {
+      "added_at": "2022-02-03 23:02:00",
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
+    },
     {
       "added_at": "2022-10-28 12:32:07",
       "album": {
@@ -45,24 +77,92 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2022-04-21 23:00:00",
+      "added_at": "2022-06-30 23:00:00",
       "album": {
-        "name": "Your Dream",
-        "url": "https://open.spotify.com/album/0Gpl5YL9YKbvGbDe3xuGks"
+        "name": "Silaha",
+        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
       },
       "artists": [
         {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+          "name": "Ukweli",
+          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
         },
         {
-          "name": "NGABO",
-          "url": "https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ"
+          "name": "KASHA",
+          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Your Dream",
-      "url": "https://open.spotify.com/track/5adGSGSECey89gMxhbm1tZ"
+      "duration_ms": 260668,
+      "name": "Silaha",
+      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Pusana",
+        "url": "https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "Tres",
+          "url": "https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l"
+        }
+      ],
+      "duration_ms": 205048,
+      "name": "Pusana",
+      "url": "https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E"
+    },
+    {
+      "added_at": "2020-09-10 21:59:00",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki"
+      },
+      "artists": [
+        {
+          "name": "SuperJazzClub",
+          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB"
+    },
+    {
+      "added_at": "2021-01-28 23:02:11",
+      "album": {
+        "name": "Alunamehlo",
+        "url": "https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4"
+      },
+      "artists": [
+        {
+          "name": "Digital Sangoma",
+          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
+        }
+      ],
+      "duration_ms": 262956,
+      "name": "Alunamehlo",
+      "url": "https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj"
+    },
+    {
+      "added_at": "2020-01-15 12:17:21",
+      "album": {
+        "name": "Dala",
+        "url": "https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p"
+      },
+      "artists": [
+        {
+          "name": "Nina Ogot",
+          "url": "https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu"
+        }
+      ],
+      "duration_ms": 411378,
+      "name": "Dala",
+      "url": "https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ"
     },
     {
       "added_at": "2022-09-23 05:54:14",
@@ -97,6 +197,26 @@
       "url": "https://open.spotify.com/track/4oCbEd2ub83mqyKQUhU3qN"
     },
     {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Some Nights I Dream of Doors",
+        "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        },
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Wrong for It",
+      "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
+    },
+    {
       "added_at": "2021-10-28 23:00:00",
       "album": {
         "name": "Love and Highlife",
@@ -129,24 +249,24 @@
       "url": "https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE"
     },
     {
-      "added_at": "2022-10-21 05:52:42",
+      "added_at": "2022-02-11 00:00:00",
       "album": {
-        "name": "Archeology",
-        "url": "https://open.spotify.com/album/3V4BPB1PiG4Uobib3AeRN3"
+        "name": "Soaring Wild Lands",
+        "url": "https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF"
       },
       "artists": [
         {
-          "name": "Montparnasse Musique",
-          "url": "https://open.spotify.com/artist/3BWH21B4XctwdGhDsmNlKG"
+          "name": "Dawda Jobarteh",
+          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
         },
         {
-          "name": "Mopero Mupemba",
-          "url": "https://open.spotify.com/artist/2WUJ6i3nedRAN5IycBqhBs"
+          "name": "Admeta String Quartet",
+          "url": "https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy"
         }
       ],
-      "duration_ms": 188309,
-      "name": "Luendu",
-      "url": "https://open.spotify.com/track/1anZTHDNZp9OlQtqFwkVON"
+      "duration_ms": 327613,
+      "name": "Sunset In Batumi",
+      "url": "https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU"
     },
     {
       "added_at": "2022-09-23 05:54:14",
@@ -183,6 +303,22 @@
       "duration_ms": 153750,
       "name": "Smile Before You Sleep",
       "url": "https://open.spotify.com/track/566lx0Fuz2OwQqmdr0PkIX"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
+        "name": "Lou Bess Dioudouna",
+        "url": "https://open.spotify.com/album/3whvMDSCMRddEOXqENyP7l"
+      },
+      "artists": [
+        {
+          "name": "Afro Begue",
+          "url": "https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA"
+        }
+      ],
+      "duration_ms": 306464,
+      "name": "Fallo Fall",
+      "url": "https://open.spotify.com/track/04BumdOBKWl5LcGkUAMZTU"
     },
     {
       "added_at": "2022-10-21 05:52:42",
@@ -251,22 +387,6 @@
       "duration_ms": 232500,
       "name": "Umcebo",
       "url": "https://open.spotify.com/track/35iJjKLP8l5RgOX88ZXCZd"
-    },
-    {
-      "added_at": "2020-12-10 22:59:00",
-      "album": {
-        "name": "Who No Know Go Know",
-        "url": "https://open.spotify.com/album/1leaqx7QytYKi4CSgWQBYH"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Who No Know Go Know",
-      "url": "https://open.spotify.com/track/06X209H8fcc5K70BrKWf1K"
     },
     {
       "added_at": "2022-10-21 05:52:42",
@@ -509,62 +629,6 @@
       "url": "https://open.spotify.com/track/2PFzW2TmpRuMkIRcwdb0hK"
     },
     {
-      "added_at": "2020-01-15 12:17:21",
-      "album": {
-        "name": "Dala",
-        "url": "https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p"
-      },
-      "artists": [
-        {
-          "name": "Nina Ogot",
-          "url": "https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu"
-        }
-      ],
-      "duration_ms": 411378,
-      "name": "Dala",
-      "url": "https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Some Nights I Dream of Doors",
-        "url": "https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Wrong for It",
-      "url": "https://open.spotify.com/track/4kntTTVtSIfsTl1dEak3X7"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Silaha",
-        "url": "https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu"
-      },
-      "artists": [
-        {
-          "name": "Ukweli",
-          "url": "https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ"
-        },
-        {
-          "name": "KASHA",
-          "url": "https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Silaha",
-      "url": "https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA"
-    },
-    {
       "added_at": "2020-12-10 22:59:00",
       "album": {
         "name": "Mali (feat. Nathi)",
@@ -585,22 +649,6 @@
       "url": "https://open.spotify.com/track/3UgjNSWv99ez4z2B5ARgZI"
     },
     {
-      "added_at": "2021-01-28 23:02:11",
-      "album": {
-        "name": "Alunamehlo",
-        "url": "https://open.spotify.com/album/5jqyrLKaD3oo0hP8M5mfY4"
-      },
-      "artists": [
-        {
-          "name": "Digital Sangoma",
-          "url": "https://open.spotify.com/artist/3RGdYB3ei152qqvKlkVRtN"
-        }
-      ],
-      "duration_ms": 262956,
-      "name": "Alunamehlo",
-      "url": "https://open.spotify.com/track/3m4vlH8tRa4JU3498Qzkkj"
-    },
-    {
       "added_at": "2022-09-30 06:06:10",
       "album": {
         "name": "Something New",
@@ -617,26 +665,6 @@
       "url": "https://open.spotify.com/track/2qIHmkIr2PfPM1RXs7OtZR"
     },
     {
-      "added_at": "2022-02-11 00:00:00",
-      "album": {
-        "name": "Soaring Wild Lands",
-        "url": "https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF"
-      },
-      "artists": [
-        {
-          "name": "Dawda Jobarteh",
-          "url": "https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh"
-        },
-        {
-          "name": "Admeta String Quartet",
-          "url": "https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy"
-        }
-      ],
-      "duration_ms": 327613,
-      "name": "Sunset In Batumi",
-      "url": "https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU"
-    },
-    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Dasein",
@@ -651,26 +679,6 @@
       "duration_ms": 456987,
       "name": "Aduro",
       "url": "https://open.spotify.com/track/6rIWBggXDvvVMID5Zv2Hy3"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Pusana",
-        "url": "https://open.spotify.com/album/6IpyTvQWOtShzCqnZ9ZoWD"
-      },
-      "artists": [
-        {
-          "name": "Crate Classics",
-          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
-        },
-        {
-          "name": "Tres",
-          "url": "https://open.spotify.com/artist/1xOdbBrnyBhqyWkOx1K32l"
-        }
-      ],
-      "duration_ms": 205048,
-      "name": "Pusana",
-      "url": "https://open.spotify.com/track/1tXSR1siT7TA16FY70Cy6E"
     },
     {
       "added_at": "2021-10-07 21:59:00",
@@ -691,38 +699,6 @@
       "duration_ms": 121500,
       "name": "Hamna aibu",
       "url": "https://open.spotify.com/track/1wc0SjXzsP5HmcgIJkBbEi"
-    },
-    {
-      "added_at": "2020-08-28 11:04:16",
-      "album": {
-        "name": "ROOTS",
-        "url": "https://open.spotify.com/album/2OU0uJWqRBeAokBzjvAiRF"
-      },
-      "artists": [
-        {
-          "name": "The Cavemen.",
-          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
-        }
-      ],
-      "duration_ms": 185759,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/2PE70oh4iy1VCSxG9H1vdu"
-    },
-    {
-      "added_at": "2022-02-03 23:02:00",
-      "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
     },
     {
       "added_at": "2021-12-09 23:00:00",
@@ -771,22 +747,6 @@
       "duration_ms": 254608,
       "name": "Magic In The Water",
       "url": "https://open.spotify.com/track/6MhEQCZBqWYbBDJzcHwJfX"
-    },
-    {
-      "added_at": "2020-09-10 21:59:00",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/6LNHDMFwWvS9LKJ0ArIVki"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/1faFaJQTmGg6CV39W2RvSB"
     },
     {
       "added_at": "2021-09-24 05:26:06",

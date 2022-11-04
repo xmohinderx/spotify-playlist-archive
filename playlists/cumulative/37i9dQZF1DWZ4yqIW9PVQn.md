@@ -4,7 +4,7 @@
 
 > 여러 색깔로 물드는 낙엽처럼 마음이 물들어 갑니다.
 
-106 songs - 6 hr 28 min - not published yet
+107 songs - 6 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,6 @@
 | [Looking Back](https://open.spotify.com/track/5taHEqSavn4BmdAPRjFGP3) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Signal \(Original Television Soundtrack\)](https://open.spotify.com/album/3XWPudsfSroRADDvNdWFei) | 4:28 | 2022-11-01 |  |
 | [LOVE STORY](https://open.spotify.com/track/1hV2SwB1pcFXZgYG9Sq2J7) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [WE'VE DONE SOMETHING WONDERFUL](https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu) | 3:56 | 2022-11-01 |  |
 | [love talk](https://open.spotify.com/track/5WS5YCbjqhjRAJKdaExiEC) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Kaution](https://open.spotify.com/artist/1mXj07DVCv5GprCk5Adca0) | [love talk](https://open.spotify.com/album/11nXCEJxH1lgp1rA9Uanyk) | 3:32 | 2022-07-04 |  |
-| [Memorize Our Night](https://open.spotify.com/track/4LYlWqZSPaLMk9FthWF0To) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Memorize Our Night](https://open.spotify.com/album/5f8PEOUNnkB5cj2W5fVgXy) | 4:02 | 2022-11-01 |  |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-11-01 |  |
 | [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 |  |
 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 | 2022-07-04 |  |
@@ -109,7 +108,9 @@
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2022-11-01 |  |
 | [그대는 어디로](https://open.spotify.com/track/6pqL0Px6WVM9zZz7sFbRsa) | [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [그대는 어디로](https://open.spotify.com/album/1GbYUhx7Qq1X4yQUNByr7u) | 3:26 | 2022-07-04 |  |
 | [난 혼자가 편해](https://open.spotify.com/track/7GygDFiaSTSo3dmcpfn4S6) | [이단미](https://open.spotify.com/artist/2XfNRc16ttr0NXwtSy9Qq3), [Ganaa](https://open.spotify.com/artist/2tKlFO8EyHBZaHwdjflNbL) | [난 혼자가 편해](https://open.spotify.com/album/1Amy0LfByq9gxvd9DUrs96) | 3:16 | 2022-07-04 |  |
+| [사계절이 지나 다시 가을이 와도](https://open.spotify.com/track/0LNFfjxX0BXK4aRJBOqvND) | [Sangmin Chu](https://open.spotify.com/artist/1h1MFg2X9xB9Gx32edDF2f) | [RAINBOW STATION Episode.4](https://open.spotify.com/album/2ebrszefspT0qZJkhQlgsm) | 3:33 | 2022-11-03 |  |
 | [쑥스러운 고백](https://open.spotify.com/track/3NupIPCFlmMnsgeByDIEBk) | [어반폴리](https://open.spotify.com/artist/2tCMP0VTIeW8iL7StLs5BH), [Honey Apple](https://open.spotify.com/artist/7h7sOqNmc6mzSQuDRHmyev) | [쑥스러운 고백](https://open.spotify.com/album/7vRr36ux7lcJzCwz045Jwh) | 3:12 | 2022-07-04 |  |
+| [우리의 밤을 외워요](https://open.spotify.com/track/4LYlWqZSPaLMk9FthWF0To) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [우리의 밤을 외워요](https://open.spotify.com/album/5f8PEOUNnkB5cj2W5fVgXy) | 4:02 | 2022-11-01 |  |
 | [우린 알고 있잖아](https://open.spotify.com/track/41ZWcnUBJnwvvqCeqIf8TA) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [스물아홉](https://open.spotify.com/album/7f2UlqqrxEscD2ffbGPBnd) | 3:42 | 2022-07-04 |  |
 | [일기예보](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 | 2022-07-04 |  |
 | [잊어줄 순 없을까](https://open.spotify.com/track/5A9T2kIskC3ei72QWs9lvz) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [forget it](https://open.spotify.com/album/2Ptu3GcNcF8v42IN733NTt) | 3:41 | 2022-07-04 |  |

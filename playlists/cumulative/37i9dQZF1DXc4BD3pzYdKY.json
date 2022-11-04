@@ -4465,7 +4465,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 149427,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5hgv7WVjHPUjPBxY4M9fHB"
@@ -5013,7 +5013,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 207840,
       "name": "GOOD TO ME",
       "url": "https://open.spotify.com/track/7neWN16iIGrzHsL2xa2plW"
@@ -6781,6 +6781,24 @@
       "duration_ms": 182666,
       "name": "Keep Me In Mind",
       "url": "https://open.spotify.com/track/7p3TkSvTIa9tMlT6awhVOW"
+    },
+    {
+      "album": {
+        "name": "keep that light on.",
+        "url": "https://open.spotify.com/album/4Zwr0KOOK38f4Jn16ZrRtL"
+      },
+      "artists": [
+        {
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186407,
+      "name": "keep that light on.",
+      "url": "https://open.spotify.com/track/1aU0zvTi5t7p7tJIlN1T75"
     },
     {
       "album": {
@@ -14607,7 +14625,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 155287,
       "name": "Wins",
       "url": "https://open.spotify.com/track/4vlHzPQvMeDi5ISpZpeF3x"

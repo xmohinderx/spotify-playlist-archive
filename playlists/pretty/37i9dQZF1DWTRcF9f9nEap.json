@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 52278,
+  "num_followers": 52346,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg4NjQ2OSwwMDAwMDAwMDZhZDU4YWMzYzU4OWI4MmEzMDZmNjRhMzBlZDk4NjFk",
+  "snapshot_id": "MTY2NDg4NjQ2OSwwMDAwMDAwMGMyZjE3NTVhMzcxZGYwYTk2Nzg3MzFmMTMwNmEzMzhh",
   "tracks": [
     {
       "added_at": "2022-10-04 12:27:49",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-04 12:27:49",
       "album": {
-        "name": "At The Crossroads: The Blues Of Robert Johnson",
-        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
-    },
-    {
-      "added_at": "2022-10-04 12:27:49",
-      "album": {
         "name": "Complete Clapton",
         "url": "https://open.spotify.com/album/28Cz12vvLOxYkqzXNwAbnl"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 371066,
       "name": "Running On Faith - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; Single Edit; 2007 Remaster",
       "url": "https://open.spotify.com/track/3hyJZDcrMJXikUdf3T45VS"
+    },
+    {
+      "added_at": "2022-10-04 12:27:49",
+      "album": {
+        "name": "At The Crossroads: The Blues Of Robert Johnson",
+        "url": "https://open.spotify.com/album/1KJCyy7UtWABdtntyoNhYc"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/3Ck0eraxaMeJTkCjh6ZqNu"
     },
     {
       "added_at": "2022-10-04 12:27:49",

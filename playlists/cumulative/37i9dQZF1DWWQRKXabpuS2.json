@@ -968,6 +968,24 @@
     },
     {
       "album": {
+        "name": "Fezt Bek",
+        "url": "https://open.spotify.com/album/0THNfhqYbC5H1ekDUU15y3"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267360,
+      "name": "Fezt Bek",
+      "url": "https://open.spotify.com/track/4YjO3kRm3RA7qKNgDSghBo"
+    },
+    {
+      "album": {
         "name": "Fi Bali",
         "url": "https://open.spotify.com/album/5NhcEhXwj3dMqIovtmkQg1"
       },

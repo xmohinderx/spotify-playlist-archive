@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 38902,
+  "num_followers": 38930,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDhiNmU3OTA2NDNmNTMwZGY1YjQ3ZGFmNTQ1YWJmZjIz",
+  "snapshot_id": "MTY2MjcyNjAxMSwwMDAwMDAwMDljODFjZDhhZWVmY2QyNWNhM2RmMjNkMTBjMzRkZGUz",
   "tracks": [
     {
       "added_at": "2022-09-09 12:20:11",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-09-09 12:20:11",
       "album": {
+        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
+        "url": "https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS"
+      },
+      "artists": [
+        {
+          "name": "Walla'at",
+          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
+        }
+      ],
+      "duration_ms": 226716,
+      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
+      "url": "https://open.spotify.com/track/5RJFhCCbiHx7GdaCiHIIYf"
+    },
+    {
+      "added_at": "2022-09-09 12:20:11",
+      "album": {
         "name": "Raka W Raka",
         "url": "https://open.spotify.com/album/1tbA2w4t6I4NCXhiAhT8ph"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 191018,
       "name": "Raka W Raka",
       "url": "https://open.spotify.com/track/18BVCyZrX6l8GjPxiA30pT"
-    },
-    {
-      "added_at": "2022-09-09 12:20:11",
-      "album": {
-        "name": "\u0639\u0646\u062f\u064a \u0634\u0648 \u0645\u0627 \u0628\u062f\u064a",
-        "url": "https://open.spotify.com/album/6ARv46xQRJZsE5C78g4mFS"
-      },
-      "artists": [
-        {
-          "name": "Walla'at",
-          "url": "https://open.spotify.com/artist/1s4nBceqZ8lEO9BaL5YZGe"
-        }
-      ],
-      "duration_ms": 226716,
-      "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
-      "url": "https://open.spotify.com/track/5RJFhCCbiHx7GdaCiHIIYf"
     },
     {
       "added_at": "2022-09-09 12:20:11",

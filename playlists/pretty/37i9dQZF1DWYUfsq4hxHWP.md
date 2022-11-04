@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Austin Snell, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,298 likes - 159 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,393 likes - 159 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 12 | [Trust Fund Cowboy](https://open.spotify.com/track/79DQDKpGhPaNsxRACsvEFH) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Trust Fund Cowboy](https://open.spotify.com/album/00VVpmKl1C0D0pxPSAFln6) | 3:03 |
 | 13 | [It All Started With Tequila](https://open.spotify.com/track/3QT7NVDOnlsaHDIbCblfOr) | [Isaiah Bennett](https://open.spotify.com/artist/7DFydMqaqDGdLW3ITfl69j) | [It All Started With Tequila](https://open.spotify.com/album/6qMRxlsIiQZaAgxzCIE7Ea) | 3:25 |
 | 14 | [Hometown Out Of Me](https://open.spotify.com/track/40LteWqGGHzXiTqlKKzUuJ) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hometown Out Of Me](https://open.spotify.com/album/1GiT7n1hoI4b94qTLUF4Nj) | 3:09 |
-| 15 | [Could Be](https://open.spotify.com/track/1edUbfLKsZtb3TyHEiMqGd) | [Mandi Sagal](https://open.spotify.com/artist/538fHE6Pullo3jTyNn5Mk1) | [Could Be](https://open.spotify.com/album/1E2JVExprzOyW242IFkyWQ) | 2:49 |
+| 15 | [Could Be](https://open.spotify.com/track/1edUbfLKsZtb3TyHEiMqGd) | [Mandi Sagal](https://open.spotify.com/artist/20rpj95oeUfbBkmtX70Ulb) | [Could Be](https://open.spotify.com/album/1E2JVExprzOyW242IFkyWQ) | 2:49 |
 | 16 | [Lost Track of Summer](https://open.spotify.com/track/4dRFrd5NG76JSrBJqnoToQ) | [Dusty Black](https://open.spotify.com/artist/3f1bjQS5unVeAeUFWrb5DO) | [South of Somewhere](https://open.spotify.com/album/7hOcK74nvPVgDUrlsWDUA1) | 3:28 |
 | 17 | [Wrangler](https://open.spotify.com/track/2d2tOL18KWxdihGY2xH3C3) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Wrangler](https://open.spotify.com/album/2cB4MSAOYKDjKfof2UCYNu) | 3:36 |
 | 18 | [Friends Like That](https://open.spotify.com/track/1WFgLLJKxJMRHQk9qnwxaZ) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Friends Like That](https://open.spotify.com/album/182KWLgpOndmV1VwYvUbAF) | 3:06 |

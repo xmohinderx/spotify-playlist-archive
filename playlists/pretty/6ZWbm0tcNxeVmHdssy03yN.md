@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,456 likes - 97 songs - 5 hr 14 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 33,492 likes - 97 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 72 | [Plaza Mafalda](https://open.spotify.com/track/2BJnYSXBjxMpFXNPPXwztS) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Plaza Mafalda](https://open.spotify.com/album/4DI9hNINzGd67XxEFytbiw) | 3:03 |
 | 73 | [Descolocado](https://open.spotify.com/track/1wjSfqHvFIev2LQ4djgJW9) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Descolocado](https://open.spotify.com/album/3WPYtigIAbiQMPqIEXF2Pw) | 3:11 |
 | 74 | [Tiempo](https://open.spotify.com/track/6TvnHW7BcIZJLElSW8yxIP) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Tiempo](https://open.spotify.com/album/2irtLs7xfyukVrm7fIr7MV) | 4:06 |
-| 75 | [Hacerse Rico](https://open.spotify.com/track/4JC58cp0KHUZtbTScU74Iq) | [Blunthed](https://open.spotify.com/artist/6jfREN1498fGfBUa0Wyjt5) | [Hacerse Rico](https://open.spotify.com/album/55MIrx3Em9qcO23kcPHSzR) | 3:08 |
+| 75 | [Hacerse Rico](https://open.spotify.com/track/4JC58cp0KHUZtbTScU74Iq) | [Blunthed](https://open.spotify.com/artist/5wp71SkTEn2AWke1MZZCqh) | [Hacerse Rico](https://open.spotify.com/album/55MIrx3Em9qcO23kcPHSzR) | 3:08 |
 | 76 | [El Amor y la Tarde](https://open.spotify.com/track/1HcfrUMkFaeqGFZPvU078b) | [Daniel Castillo](https://open.spotify.com/artist/5UQZYvo3g7Uw9kn9TGAPLJ), [Mayra Sanchez](https://open.spotify.com/artist/3jbEuW5z0wKT4qSijz4r9I) | [El Amor y la Tarde](https://open.spotify.com/album/3iIKB4xKIb5Kk9Cy3mmwLr) | 3:25 |
 | 77 | [Death of Me](https://open.spotify.com/track/7jn0Ot33PBhTaNPhPxAYj2) | [Mystic Peach](https://open.spotify.com/artist/71wc7LXKcIjoh2WCdOlZjn) | [Death of Me](https://open.spotify.com/album/3h0MR2i75nCtriATQ0PS3h) | 4:09 |
 | 78 | [No Regrets](https://open.spotify.com/track/70MGoKW5bliBAU9CYBsprl) | [700 Savage](https://open.spotify.com/artist/4IsSDG4PicRLvvXtryosvY) | [No Regrets](https://open.spotify.com/album/3VxltEP42yk9iOfAmu2y2o) | 2:24 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7ahoEOUbXDm3vYTvOHWXbe">Kathy Griffin</a> joins us to \#PressPlayForPride\. Discover more at <a href="https://open.spotify.com/genre/pride">spotify.com/pride.</a>
 
-28 songs - 1 hr 32 min - [published](https://open.spotify.com/playlist/06pXHEatbTWVilv8aFhK1X)
+29 songs - 1 hr 36 min - [published](https://open.spotify.com/playlist/06pXHEatbTWVilv8aFhK1X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Kathy Griffin: Love \- \#PressPlayForPride](https://open.spotify.com/track/2him9rtohTgrRWxXS992To) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:11 | 2016-06-09 |  |
 | [Kathy Griffin: Special Fun \- \#PressPlayForPride](https://open.spotify.com/track/3Om5CbQrsMF1UwC7dFVGA1) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:12 | 2016-06-09 |  |
 | [Kathy Griffin: Stonewall \- \#PressPlayForPride](https://open.spotify.com/track/369yG24WTUNnTG0mLtQrko) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:14 | 2016-06-09 |  |
-| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-07-29 |  |
+| [Rock With U](https://open.spotify.com/track/5dHdH9Zw6Z2TPbR1ggyj1B) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/7CkalyLeka8LiJvKBcmwkB) | 3:51 | 2022-07-29 | 2022-11-04 |
+| [Rock With U](https://open.spotify.com/track/5ZHwIIszkgLcVT3CicIylm) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Discipline](https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM) | 3:52 | 2022-11-04 |  |
 | [Rock With U](https://open.spotify.com/track/27AhogAIQ8fzUIygFYvPWh) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rock With U](https://open.spotify.com/album/70Z8p9PM8Mt5luawJmqV6J) | 3:57 | 2016-06-07 | 2022-07-29 |
 | [Stronger](https://open.spotify.com/track/5QhBKPqsnX1uY9fZNaAtZg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:23 | 2016-06-07 |  |
 | [Supermodel \(You Better Work\)](https://open.spotify.com/track/36Rpz4MZQhGknLEmTmHr8v) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Supermodel of the World](https://open.spotify.com/album/5dZF2rTcU8ZWmfk6NVI0hA) | 3:59 | 2022-07-29 |  |

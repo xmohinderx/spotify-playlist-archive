@@ -4,7 +4,7 @@
 
 > Early blues standards and classics
 
-64 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
+65 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/1s3RaW5fhxW7VeqvAIPMfc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [The Twelves \(The Dirty Dozens\)](https://open.spotify.com/track/5jtf7Po8DDZoHK3APUUWeu) | [Casey Bill Weldon](https://open.spotify.com/artist/65DrfMsqDV0FYVyuu372EA), [Kokomo Arnold](https://open.spotify.com/artist/1kSOv0QaraiHwnDs5ld2kr) | [Presenting Casey Bill Weldon](https://open.spotify.com/album/2XHBjUYyfCWEMABC4shhXT) | 3:11 | 2018-03-28 |  |
 | [Truckin' My Blues Away](https://open.spotify.com/track/6AgwNMztb3eIgNF1m2zi7h) | [Blind Boy Fuller](https://open.spotify.com/artist/7mPFWoDGjh7ArW1yr79EX8) | [Blind Boy Fuller Vol\. 1 1935 \- 1936](https://open.spotify.com/album/0OjJBBSeaNi7w8hf5SrL21) | 3:08 | 2018-03-28 |  |
 | [What's The Use Of Getting Sober \(When You're Gonna Get Drunk Again\)](https://open.spotify.com/track/0zt7Bb8seSANEPfcBCfDgv) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Jukebox Hits Volume 1 1942\-1947](https://open.spotify.com/album/5t2ETFvV5RZTwT8vhQiiqz) | 2:53 | 2018-03-28 |  |
-| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2018-03-28 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Tradition Masters Series](https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv) | 3:01 | 2018-03-28 |  |
+| [Where Did You Sleep Last Night](https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Absolutely The Best](https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq) | 3:01 | 2018-03-28 | 2022-11-04 |
 | [You Upset Me, Baby](https://open.spotify.com/track/589yTSHriuSIwARJqnmuMp) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 3:04 | 2018-03-28 |  |
 | [You Upset Me, Baby](https://open.spotify.com/track/5kv6BrEpfmf2F7CkOBtw1M) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/39rny02JtHyYWwGgdGcoe7) | 3:04 | 2018-03-28 | 2022-07-29 |
 | [You Was Born To Die](https://open.spotify.com/track/3Yt6mXwFK3GMQ3Jzzk0yIN) | [Curley Weaver](https://open.spotify.com/artist/6NkmPGz9etvaz1jn4QQWKS) | [Curley Weaver \(1933\-1935\)](https://open.spotify.com/album/5NAvEHRjGVYtRTtij0Y7ax) | 2:51 | 2018-03-28 |  |

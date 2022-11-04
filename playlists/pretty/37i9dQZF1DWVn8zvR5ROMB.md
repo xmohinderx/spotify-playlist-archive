@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Keith Urban, Lainey Wilson, Russell Dickerson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,074 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,205 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 48 | [Bad Luck](https://open.spotify.com/track/4yYd537uFn7kYzpwY0xVcl) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Bad Luck](https://open.spotify.com/album/3FgWL6OyhiJfI999QObYDl) | 3:16 |
 | 49 | [Right On Time](https://open.spotify.com/track/50GRLZsk7wy9GifmNnntUg) | [Cody Cozz](https://open.spotify.com/artist/2Q5BPc9QdFLehbO535TRHS) | [Right On Time](https://open.spotify.com/album/1GJPxpHV6DDmt7B6vudBIh) | 3:46 |
 | 50 | [All The Good Ones Do](https://open.spotify.com/track/7lmEYbp3Wydbi1VIMM5JCR) | [Johnny Day](https://open.spotify.com/artist/6ghe1ekLf6O0HUaKGBsNcA) | [All The Good Ones Do](https://open.spotify.com/album/3oq7s4XXQBhantfIQ5BbgG) | 3:12 |
-| 51 | [Could Be](https://open.spotify.com/track/1edUbfLKsZtb3TyHEiMqGd) | [Mandi Sagal](https://open.spotify.com/artist/538fHE6Pullo3jTyNn5Mk1) | [Could Be](https://open.spotify.com/album/1E2JVExprzOyW242IFkyWQ) | 2:49 |
+| 51 | [Could Be](https://open.spotify.com/track/1edUbfLKsZtb3TyHEiMqGd) | [Mandi Sagal](https://open.spotify.com/artist/20rpj95oeUfbBkmtX70Ulb) | [Could Be](https://open.spotify.com/album/1E2JVExprzOyW242IFkyWQ) | 2:49 |
 | 52 | [My Friend](https://open.spotify.com/track/4LmJrfiLJXzzXFxENZV60J) | [Aaron Carter](https://open.spotify.com/artist/2u4LEjb4nRFlIPNqR14MnR) | [My Friend](https://open.spotify.com/album/6SxOXpxrMD96bC46E0Gpoj) | 3:00 |
 | 53 | [Small Town Story](https://open.spotify.com/track/7qno7p651WKKTurXuUSaEe) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Small Town Story](https://open.spotify.com/album/50D19Tyeu5HuwyIZS1etr4) | 2:52 |
 | 54 | [Beer Ain't Gonna Drink Itself](https://open.spotify.com/track/4DqZgqdQ1LFum4HmDxH6Ux) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son of a \(Deluxe Edition\)](https://open.spotify.com/album/0e2HvSY4ODbhzzA1DJIKgz) | 3:33 |

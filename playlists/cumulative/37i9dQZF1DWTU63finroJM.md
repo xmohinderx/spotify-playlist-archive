@@ -4,7 +4,7 @@
 
 > From across the globe\. New artists on the horizon\. Cover: Cat Burns.
 
-861 songs - 2 day 0 hr 21 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
+862 songs - 2 day 0 hr 24 min - [published](https://open.spotify.com/playlist/5vCFU5jLGp753wsXFermer)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-03-24 | 2022-08-02 |
 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 | 2022-02-03 | 2022-06-30 |
 | [Neptune’s Tune](https://open.spotify.com/track/3cLWyiINvFm7N3RuE3hxcw) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B), [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Neptune’s Tune](https://open.spotify.com/album/4TJ4TMvfuo1boDhfO9uqJl) | 3:41 | 2022-03-24 | 2022-04-02 |
+| [Nerve](https://open.spotify.com/track/3jsYKVxT5ljGkexU531DpF) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nerve](https://open.spotify.com/album/0puJioCWJCRTm95h2DmOSl) | 2:58 | 2022-11-03 |  |
 | [NERVEs](https://open.spotify.com/track/0UfibtjJfsjOYpOIm5XcFW) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [ワンス・アポン・ア・リバイバル](https://open.spotify.com/album/3RueJOo83vwTyoKLKL6lT5) | 2:27 | 2022-02-03 | 2022-03-22 |
 | [Nevermore](https://open.spotify.com/track/25McpBGoKrqT8zRgBAoLwU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Nevermore](https://open.spotify.com/album/5ru7PBhCc7z2n9541AYPyz) | 5:03 | 2022-02-03 | 2022-08-02 |
 | [New Balance](https://open.spotify.com/track/57KiK5xAWGRLOsK33fGPkR) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [New Balance](https://open.spotify.com/album/3PPx3cQZL3yRuf9jXohfMM) | 2:23 | 2022-03-24 | 2022-08-02 |

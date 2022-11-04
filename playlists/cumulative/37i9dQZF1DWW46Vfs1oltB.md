@@ -4,7 +4,7 @@
 
 > The hottest & new Korean hip hop music is here\. OWN the crown with KR hip hop music\. \(Cover: Jvcki Wai\) \(전세계에서 사랑받는 한국 힙합 히트 & 신곡을 만나보세요\. \(커버: 재키와이\)
 
-654 songs - 1 day 12 hr 14 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
+655 songs - 1 day 12 hr 17 min - [published](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 | 2021-12-18 | 2022-07-08 |
 | [MBTI \(Feat\. Coogie & Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:08 | 2021-12-18 | 2022-07-08 |
 | [MEERAE 2](https://open.spotify.com/track/7BY65s3XY3w9Mk7nQ6x0Cg) | [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [J4 Prada](https://open.spotify.com/artist/0feVfuOqcXbUDg8Z4rSknq), [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [MEERAE 2](https://open.spotify.com/album/37OfCmyrteFvR7QSE1l4Fq) | 4:09 | 2021-12-18 | 2022-06-27 |
+| [Meet me at the London \(Feat\. Sik\-K\)](https://open.spotify.com/track/67LojJCuYg9v7CDWWcJf8J) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 2:48 | 2022-11-03 |  |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2021-12-18 | 2022-07-08 |
 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 | 2022-09-17 | 2022-10-30 |
 | [MELODY](https://open.spotify.com/track/259wZqRoiqkrRMosDDnnOX) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [MELODY](https://open.spotify.com/album/3W1z3nwXcFrxdY8mSwktGl) | 3:01 | 2021-12-18 | 2022-07-08 |

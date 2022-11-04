@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,751 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,759 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 30 | [Where Would We Be \- Nicky Romero Edit](https://open.spotify.com/track/2SvB51IGKJkEYBTglXdQiw) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Where Would We Be \(Remixes Vol\. 2\)](https://open.spotify.com/album/1LPAVRah84cEMrMhAeJbGx) | 3:46 |
 | 31 | [Midnight Sun](https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Midnight Sun](https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ) | 2:25 |
 | 32 | [Time](https://open.spotify.com/track/1uTqxBGvEiffBv41ih1nYB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Redefine EP](https://open.spotify.com/album/7tpXMYDfo95hIG6AAbCMrJ) | 2:52 |
-| 33 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 |
-| 34 | [I See](https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I See](https://open.spotify.com/album/7GbPBsYoV0tXFhnXThsVcQ) | 2:34 |
+| 33 | [I See](https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I See](https://open.spotify.com/album/7GbPBsYoV0tXFhnXThsVcQ) | 2:34 |
+| 34 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 |
 | 35 | [Legacy \- Radio Edit](https://open.spotify.com/track/3SGebd91gbpKanqQ2Yg9F1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Legacy \(Radio Edit\)](https://open.spotify.com/album/5LQcfsPc0lQMkXhvIPG94y) | 3:15 |
 | 36 | [Dynamite](https://open.spotify.com/track/2KtOOW1DN1D0AJTkJmfq3M) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Dynamite](https://open.spotify.com/album/1qxD0ls8NVOJrdHRrmInrR) | 3:22 |
 | 37 | [Drown \(feat\. Clinton Kane\) \- Nicky Romero Remix](https://open.spotify.com/track/5aRwLXpWjgXmwoJvXoYvCq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Drown \(feat\. Clinton Kane\) \[Nicky Romero Remix\]](https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 49 | [Be Somebody](https://open.spotify.com/track/2xsx8DRlmbGJlxY4msANSB) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Neon Future III](https://open.spotify.com/album/2XLdhcA2xQy2Iw74Cly9QL) | 3:18 |
 | 50 | [Iron](https://open.spotify.com/track/0uqMUcdMvQtNQLO4jVockW) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:39 |
 
-Snapshot ID: `Mjc3ODk5ODcsMDAwMDAwMDA4OWQzMDFjZjUxZWY0OTMwMjZiZmJlOTQyNDUzMTFmYw==`
+Snapshot ID: `Mjc3OTE0NjUsMDAwMDAwMDBhNjcxNzJhN2QwN2E0YjYzMjY5ZmM2Nzk2NjlhMTEwOA==`

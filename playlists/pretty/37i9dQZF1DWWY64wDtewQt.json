@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 2925968,
+  "num_followers": 2942348,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGYyYjY1OGY1YjIxMmI5OTc2ZDlmOGNjODJhNTZmYjQw",
+  "snapshot_id": "MTY2NzQ1NzkxMCwwMDAwMDAwMDYwODZjNThiMDlmYTI1NTgyZjBjMGFiYmE1ZTQ4ZDZj",
   "tracks": [
     {
       "added_at": "2022-05-13 04:02:00",
@@ -355,22 +355,6 @@
       "duration_ms": 145500,
       "name": "Poltergeist",
       "url": "https://open.spotify.com/track/61gGD55RS6Rje0t4GdaoAg"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "WORTH NOTHING (Instrumental)",
-        "url": "https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D"
-      },
-      "artists": [
-        {
-          "name": "TWISTED",
-          "url": "https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG"
-        }
-      ],
-      "duration_ms": 164839,
-      "name": "WORTH NOTHING - Instrumental",
-      "url": "https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq"
     },
     {
       "added_at": "2022-09-02 08:01:31",
@@ -801,6 +785,22 @@
       "url": "https://open.spotify.com/track/5L5p2rCrrqXKLdK4mTXpAt"
     },
     {
+      "added_at": "2022-11-03 06:45:10",
+      "album": {
+        "name": "RITUAL",
+        "url": "https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI"
+      },
+      "artists": [
+        {
+          "name": "Phonk Killer",
+          "url": "https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC"
+        }
+      ],
+      "duration_ms": 103070,
+      "name": "RITUAL",
+      "url": "https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg"
+    },
+    {
       "added_at": "2022-10-14 08:20:18",
       "album": {
         "name": "MISS ME?",
@@ -1071,8 +1071,8 @@
     {
       "added_at": "2022-09-30 07:31:37",
       "album": {
-        "name": "Phonk MixTape (Remix)",
-        "url": "https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u"
+        "name": "Crazy Phonk Remixes",
+        "url": "https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1"
       },
       "artists": [
         {
@@ -1080,9 +1080,9 @@
           "url": "https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR"
         }
       ],
-      "duration_ms": 117434,
-      "name": "Crazy Phonk - Remix",
-      "url": "https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY"
+      "duration_ms": 117480,
+      "name": "Crazy Phonk - Remix - Slowed",
+      "url": "https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8"
     },
     {
       "added_at": "2022-08-05 04:01:00",

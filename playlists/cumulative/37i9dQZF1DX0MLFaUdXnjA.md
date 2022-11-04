@@ -4,7 +4,7 @@
 
 > Keep it low\-key with all of today's chill pop\. Cover: Stephen Dawes
 
-1,107 songs - 2 day 10 hr 55 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
+1,108 songs - 2 day 10 hr 59 min - [published](https://open.spotify.com/playlist/6isU2kXFblpGeacMELfavp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [100,000 Flowers](https://open.spotify.com/track/0tdAKUdWvtOYg9O0KLIGf1) | [Peter Thomas](https://open.spotify.com/artist/2MhPVBzM72QjbQPhybKjyr) | [Let It All Happen](https://open.spotify.com/album/7aBTnxoY5tRRfitYJzfXCT) | 2:59 | 2021-03-14 | 2021-04-03 |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-06-26 | 2021-09-04 |
 | [2022](https://open.spotify.com/track/2Zc3DlVHtwqAVE4KcdajnN) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe), [Alex Cain](https://open.spotify.com/artist/0NwTAtq8aQEly8SEPqFokX) | [2022](https://open.spotify.com/album/1ulbeAv0gZQqzxyPzp6pst) | 3:12 | 2022-04-08 | 2022-07-16 |
-| [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 |  |
+| [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 | 2022-11-04 |
 | [24 Hours](https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:30 | 2020-12-04 | 2021-03-19 |
 | [25 in Barcelona](https://open.spotify.com/track/3T26BJ8XxWaxyxs8oGt8eR) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hold It Together](https://open.spotify.com/album/2gO1pyq1nVTs7PdIMlX0r9) | 3:13 | 2020-04-26\* | 2020-06-19 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-04-08 | 2022-07-30 |
@@ -163,6 +163,7 @@
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 |  |
 | [Caroline](https://open.spotify.com/track/7FTtz6C2lhpUHAZxMd1XcG) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Caroline](https://open.spotify.com/album/1VOogKF0JFYVcfDPcxoESS) | 4:30 | 2020-09-04 | 2020-10-16 |
 | [carpool](https://open.spotify.com/track/6fAfv4dn8FbcIsXhU0Jed7) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [carpool](https://open.spotify.com/album/6Qmh14clhZEPZEHfsRjZno) | 2:44 | 2021-03-14 | 2021-06-26 |
+| [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 |  |
 | [Cat Cafe](https://open.spotify.com/track/52rbDEiFCXi6QGA9K8Pk8B) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cat Cafe](https://open.spotify.com/album/2ZzLZXVjDLVrXGVQf6UlPP) | 2:30 | 2021-02-19 | 2021-06-05 |
 | [Catch](https://open.spotify.com/track/4XX9brmzggEvkJVRguJHHS) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Catch](https://open.spotify.com/album/23xqxGMKYz6nutMgVyU0Lj) | 2:51 | 2020-05-30 | 2020-08-14 |
 | [Cate’s Brother \- Matt's Version](https://open.spotify.com/track/7wRE8QWyuMHz21Lmb6yX70) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Cate’s Brother \(Matt's Version\)](https://open.spotify.com/album/1zvqo4UayFFuM6eUDPSJSR) | 3:16 | 2022-06-03 | 2022-07-02 |

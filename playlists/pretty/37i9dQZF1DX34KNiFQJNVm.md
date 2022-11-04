@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Rihanna, Orochi, João Gomes e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,788,622 likes - 85 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,788,825 likes - 85 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Canalha](https://open.spotify.com/track/5MketdujmZJZ0QfZ3gGGS9) | [Ya Malb](https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo), [Biel](https://open.spotify.com/artist/6SjLkpJ7cGqX5HWh23e74K), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL) | [Canalha](https://open.spotify.com/album/0ZgmFNbr3pIwDUZgAeCfvJ) | 2:50 |
 | 37 | [Proibido Revoada \(feat\. Mc Morena\)](https://open.spotify.com/track/1dommcJiETvkcdelVWmYOQ) | [Lucca e Mateus](https://open.spotify.com/artist/0410LsuDnINVvVPRBE7pOo), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [Proibido Revoada \(feat\. Mc Morena\)](https://open.spotify.com/album/54dJizAqjWXKazbUyduvBF) | 3:00 |
 | 38 | [Monumento](https://open.spotify.com/track/0yg0NeuDRodgNUOB1UukKI) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [O mesmo que rimava na roda](https://open.spotify.com/album/0hAiRHgK81qTe9vEA62ciW) | 3:46 |
-| 39 | [Amor Ilegal \- Ao Vivo](https://open.spotify.com/track/5DfuePsX53O5FNUzkHAhep) | [Cleber & Alex](https://open.spotify.com/artist/5bJLO8OubckoRNcS6kyEtv) | [Ao Vivo Em Goiânia \(Vol\. 4\)](https://open.spotify.com/album/5d9KEhlpZNid1EKCD9UZry) | 2:57 |
+| 39 | [Amor Ilegal \- Ao Vivo](https://open.spotify.com/track/5w40pU5TiZmR6MTEtoaX7q) | [Cleber & Alex](https://open.spotify.com/artist/5bJLO8OubckoRNcS6kyEtv) | [Ao Vivo Em Goiânia \(Vol.4\)](https://open.spotify.com/album/2ml7Qb3IL2jkIfhLsiSDEb) | 2:57 |
 | 40 | [Você E Ela](https://open.spotify.com/track/1xDncRoHQHDwcEStiZbfjr) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Você E Ela](https://open.spotify.com/album/7KtoLJ4WF3RcdgVZAKDCHv) | 2:41 |
 | 41 | [Contra a Maré \- Ao Vivo](https://open.spotify.com/track/2DdR8lQQy2TzKrU5WTdECH) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Acústico de Primeira 2, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1ymET9cTPPyMu41w3HEOaZ) | 3:38 |
 | 42 | [My Love \- Ao Vivo](https://open.spotify.com/track/1uUdSlVVDVBFzL38azb9Bc) | [Gabriel Sabadim](https://open.spotify.com/artist/5ZlaCodkOdskKncDhRXQqY), [Alemão Do Forró](https://open.spotify.com/artist/223PR0orrzCMOBC7b5YAzF) | [My Love \(Ao Vivo\)](https://open.spotify.com/album/4ySHJaPav8F29rkmaioTBe) | 2:58 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 84 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 |
 | 85 | [Tudo que puder jurar](https://open.spotify.com/track/0BkhFLIfseJwBFuma6hGtY) | [LUE](https://open.spotify.com/artist/50VHfozsQsmTf1R18RcuEN), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Tudo que puder jurar](https://open.spotify.com/album/5kntbIxaCsXhGXShoVb3UI) | 3:34 |
 
-Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDI4YjBlODQxNzA5ODZhNDM5NzcwYThkNjIxNGQzZTBk`
+Snapshot ID: `MTY2NjkyOTYwMCwwMDAwMDAwMDc3ZDlkZjhkNzI3OGQ3OWE5NTIwOTdjMTUwZmU4OGM0`

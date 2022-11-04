@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,257 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,282 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00RdhV73Dbe.md) - [plain]
 | 32 | [LB Steaua](https://open.spotify.com/track/3Xq4IKHyDrXcuKhKicuud1) | [Metrist](https://open.spotify.com/artist/2EaMCfkZ07OvRk0w2UOEwg) | [ANSIA005](https://open.spotify.com/album/4fud2q3QbJvdDVnbg6p4ab) | 5:30 |
 | 33 | [Death \- Crystal Castles Remix](https://open.spotify.com/track/1UbcuHH23bXMoPmv6xCjXo) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910), [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [To Lose My Life ..\. \(10th Anniversary Edition\)](https://open.spotify.com/album/2o8f42XEJoZqoPTCrgzSXS) | 4:58 |
 | 34 | [Tree Song](https://open.spotify.com/track/2lYCfrY6K50MyzBDruQsWE) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Cherry Drops II](https://open.spotify.com/album/0Mkzv9nvRSfEXd8IrlzzGQ) | 9:43 |
-| 35 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [dj pgz](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 |
+| 35 | [Unknown At Night](https://open.spotify.com/track/6SqqiAyIewLLvoQiZaLMs6) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [Unknown At Night](https://open.spotify.com/album/0n9IBgZECMy8Bq2c6kwqgG) | 4:27 |
 | 36 | [Singin' in the Rain](https://open.spotify.com/track/0lju7TCZwpvslleR7OgY9h) | [Mint Royale](https://open.spotify.com/artist/69NjLU6rit8q9XEjL50BOj) | [See You in the Morning](https://open.spotify.com/album/5NlNNBvhqaqdXRFflrNkx1) | 3:28 |
 | 37 | [Reach](https://open.spotify.com/track/5gDNXpsEXyq7P95jU3xUwM) | [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [FWM003](https://open.spotify.com/album/75Rv1yZhnL1PRuP13yOd86) | 5:21 |
 | 38 | [$iTTIN](https://open.spotify.com/track/3wZLmGJV2hpACYcOsdU5M4) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [$iTTIN](https://open.spotify.com/album/46N9zgTpTMOJzhett7MWKv) | 5:28 |

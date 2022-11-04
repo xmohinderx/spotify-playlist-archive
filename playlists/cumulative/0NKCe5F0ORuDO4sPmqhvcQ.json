@@ -388,6 +388,24 @@
     },
     {
       "album": {
+        "name": "3034",
+        "url": "https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231551,
+      "name": "ANSWERS",
+      "url": "https://open.spotify.com/track/6giF69se8doTga9JDiGAGp"
+    },
+    {
+      "album": {
         "name": "Ascend (Reload)",
         "url": "https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm"
       },
@@ -1269,6 +1287,32 @@
       "duration_ms": 355093,
       "name": "Dark Places - Promnite Remix",
       "url": "https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg"
+    },
+    {
+      "album": {
+        "name": "Dark Places (Shadient Remix)",
+        "url": "https://open.spotify.com/album/4TrORdXsvq6MLrKfI6e4e0"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        },
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265750,
+      "name": "Dark Places - Shadient Remix",
+      "url": "https://open.spotify.com/track/2HFNl3R6uuV20q6BTCnELY"
     },
     {
       "album": {
@@ -3233,6 +3277,24 @@
       "duration_ms": 272973,
       "name": "Lest I Forget",
       "url": "https://open.spotify.com/track/36TSK3QjHHJOcjMEFdtTqw"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126043,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
     },
     {
       "album": {

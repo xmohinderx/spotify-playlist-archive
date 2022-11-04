@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Hannah Laing",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Phil The Beat",
   "name": "Spinnin' Records Brand New",
   "published_playlist_ids": [
     "5y4MrJJ7gKnIUTSID8FBc6"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
     {
       "album": {
         "name": "4Ever",
@@ -655,7 +677,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 158104,
       "name": "Better Safe Than Sorry",
       "url": "https://open.spotify.com/track/4afdW2RH5IO4zTX1CWjRIZ"
@@ -1200,6 +1222,28 @@
     },
     {
       "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/5OrReIeEENSRv1yv1e8Otr"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "rrotik",
+          "url": "https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230243,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/4CDn8zSzY7loktyALeKGpk"
+    },
+    {
+      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/4hI3kscPtceCObYHJex3gC"
       },
@@ -1215,6 +1259,28 @@
       "duration_ms": 187826,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/7Muw9O0ZRg8jf2JkomWG1P"
+    },
+    {
+      "album": {
+        "name": "Danger (feat. KARRA)",
+        "url": "https://open.spotify.com/album/4CHTPX2v9CWNPIr0xsCWRf"
+      },
+      "artists": [
+        {
+          "name": "The MVI",
+          "url": "https://open.spotify.com/artist/3lNndpXHpx4oVT4rEt5MB4"
+        },
+        {
+          "name": "Karra",
+          "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "Danger (feat. KARRA)",
+      "url": "https://open.spotify.com/track/4bGaXaCUu8Jho3VJgqH9Xm"
     },
     {
       "album": {
@@ -1325,6 +1391,32 @@
       "duration_ms": 190320,
       "name": "Deep Inside Your Love (feat. Siera)",
       "url": "https://open.spotify.com/track/6K8O96a1Q7NEwkop7IKPJ9"
+    },
+    {
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/66NeLcENv1kKrHw7lU18ze"
+      },
+      "artists": [
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "KENNY MUSIK",
+          "url": "https://open.spotify.com/artist/5UzwQIj5Z1CfQrsVhpp57z"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "DESPERADO",
+      "url": "https://open.spotify.com/track/353uz5NorsHukIiCYrISJy"
     },
     {
       "album": {
@@ -1621,7 +1713,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 120000,
       "name": "Element",
       "url": "https://open.spotify.com/track/4fr0TUNlNMjORHGnZX9DQs"
@@ -1923,6 +2015,28 @@
       "duration_ms": 192944,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1OHDrloZphdqOuX7hYQ3oP"
+    },
+    {
+      "album": {
+        "name": "Feel & Forget",
+        "url": "https://open.spotify.com/album/2V4cVJK1gLlwGtb6TH0URT"
+      },
+      "artists": [
+        {
+          "name": "Liam Cole",
+          "url": "https://open.spotify.com/artist/1s24mDwm1EP4p1fo25dQgy"
+        },
+        {
+          "name": "Bryan V",
+          "url": "https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Feel & Forget",
+      "url": "https://open.spotify.com/track/56oXT2MqvEaiQX0ccg6AO3"
     },
     {
       "album": {
@@ -2757,7 +2871,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 226500,
       "name": "I Can't Be - Volkan Uca Remix",
       "url": "https://open.spotify.com/track/0iaSDE44Xpw0nO6xExKuMF"
@@ -3304,6 +3418,28 @@
     },
     {
       "album": {
+        "name": "Episode 2",
+        "url": "https://open.spotify.com/album/0LPqLp6YPN21OQ3M6lfi6j"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186774,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/2o3SdgwbZ1pVRza1KYLk6J"
+    },
+    {
+      "album": {
         "name": "Kaisha",
         "url": "https://open.spotify.com/album/3WA21A0UE4mfJJqxGxjIsA"
       },
@@ -3341,7 +3477,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 198110,
       "name": "Keep Me Around (feat. RIELL)",
       "url": "https://open.spotify.com/track/4IgA4JiXJlfov90xt3omVo"
@@ -3543,6 +3679,24 @@
       "duration_ms": 226265,
       "name": "Lele",
       "url": "https://open.spotify.com/track/6XuwwtSoPzEsQQQpwIsUpD"
+    },
+    {
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/59E5auyalnMpowD5pbf7IU"
+      },
+      "artists": [
+        {
+          "name": "Todd Stucky",
+          "url": "https://open.spotify.com/artist/2ESTFvdYPDHBC4cdf5CTl4"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/5BSPI1F6BngQRKEO7etZJR"
     },
     {
       "album": {
@@ -3861,6 +4015,32 @@
       "duration_ms": 159600,
       "name": "Love You More (feat. Josh Bogert)",
       "url": "https://open.spotify.com/track/2tLjVKbDtABADEREofCPG4"
+    },
+    {
+      "album": {
+        "name": "Low (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/0ZDlbRhsIMedIxxmqOXU0H"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Low (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4MUMWxe9088SuTFKpprQ57"
     },
     {
       "album": {
@@ -4392,6 +4572,24 @@
     },
     {
       "album": {
+        "name": "Muy Fuente (ESH Edit)",
+        "url": "https://open.spotify.com/album/61bjTFwE6SArzlKfrFtfdt"
+      },
+      "artists": [
+        {
+          "name": "MelyJones",
+          "url": "https://open.spotify.com/artist/3vsmaQBqqp770E9fi4hQqG"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Muy Fuente (ESH Edit)",
+      "url": "https://open.spotify.com/track/5hXBlkIQc9Dx802ZIoxWxJ"
+    },
+    {
+      "album": {
         "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
       },
@@ -4459,7 +4657,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 148837,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7Lk7d7nbtmqyT6GFJ4gnia"
@@ -5173,7 +5371,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 191112,
       "name": "Pop Like",
       "url": "https://open.spotify.com/track/6wMFggsnndSZepd6zXVRuz"
@@ -5587,7 +5785,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 152500,
       "name": "Same Man",
       "url": "https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM"
@@ -5770,6 +5968,24 @@
     },
     {
       "album": {
+        "name": "Shake Milk",
+        "url": "https://open.spotify.com/album/05ulxay6kncbrHFiAHHvnP"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132539,
+      "name": "Shake Milk",
+      "url": "https://open.spotify.com/track/09Ey0Bc5MIvfKfGPtg7BH6"
+    },
+    {
+      "album": {
         "name": "She Movin'",
         "url": "https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl"
       },
@@ -5906,6 +6122,28 @@
     },
     {
       "album": {
+        "name": "Episode 2",
+        "url": "https://open.spotify.com/album/0LPqLp6YPN21OQ3M6lfi6j"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/66jq8nhahv1FDsFuXScI1P"
+    },
+    {
+      "album": {
         "name": "Somebody To Love",
         "url": "https://open.spotify.com/album/4nTaBQgE0Qy3vEQCvZL8cJ"
       },
@@ -5983,7 +6221,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 140992,
       "name": "Soul Power",
       "url": "https://open.spotify.com/track/2kCTL8MvQirdDltXqzBuv5"
@@ -6031,6 +6269,28 @@
       "duration_ms": 190161,
       "name": "Speed Of Light (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6xuaSF0FsAQcztKM1lq2aq"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/59mTY6nuDJT3GfeAbwIS8J"
+      },
+      "artists": [
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Orange INC",
+          "url": "https://open.spotify.com/artist/0k9vcRDtl7YbZ0ZYcprdhi"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185917,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/1ZTZF1JRSGshdsPxIOMuvU"
     },
     {
       "album": {
@@ -6579,7 +6839,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 198500,
       "name": "The Devil You Know (feat. Micky Blue)",
       "url": "https://open.spotify.com/track/4APRlSlJJC1iHdTwHHEc8a"
@@ -7018,6 +7278,28 @@
     },
     {
       "album": {
+        "name": "Episode 2",
+        "url": "https://open.spotify.com/album/0LPqLp6YPN21OQ3M6lfi6j"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/72RR2wlzXKiTr1gJxl2QWW"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3tDwmINo0qkz8yruVZmi1F"
       },
@@ -7179,7 +7461,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 143571,
       "name": "Wahran - DJ Yo! Amapiano Mix",
       "url": "https://open.spotify.com/track/1pReow33rQQUwuZBdCw4TS"
@@ -7427,7 +7709,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 138616,
       "name": "What Happens Here",
       "url": "https://open.spotify.com/track/5Phj9hxscqPRvHRlty5EOS"
@@ -7467,7 +7749,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 178124,
       "name": "When The Sun Is Gone (feat. RYVM)",
       "url": "https://open.spotify.com/track/6yTEcTUxWnY8RvUqR87Kpm"
@@ -7541,6 +7823,24 @@
       "duration_ms": 196222,
       "name": "Where Do We Go (feat. Logan Martin)",
       "url": "https://open.spotify.com/track/0L8WOAeD2f9rFW2O8QnmgD"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/0WnWW0THJOiyS8gV36oMcy"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201259,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N4oYn99JACDd6qZt6x1lp"
     },
     {
       "album": {
@@ -7690,6 +7990,32 @@
     },
     {
       "album": {
+        "name": "YOU (Remix)",
+        "url": "https://open.spotify.com/album/4HKeYtrdKrNGP11feqUCOZ"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        },
+        {
+          "name": "Arem Ozguc",
+          "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+        },
+        {
+          "name": "Arman Aydin",
+          "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162872,
+      "name": "YOU - Remix",
+      "url": "https://open.spotify.com/track/0R9CSoQix3XaF5bI3LBzww"
+    },
+    {
+      "album": {
         "name": "You And Me",
         "url": "https://open.spotify.com/album/7qHQRUBuyy6BDDsvCXld3D"
       },
@@ -7705,6 +8031,32 @@
       "duration_ms": 223907,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/16DVBIrhbbmFi5Mj56sLIe"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     }
   ],
   "url": "https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI"

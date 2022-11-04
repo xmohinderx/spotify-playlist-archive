@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,372 likes - 109 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,425 likes - 109 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 2 | [The Imperial March \(Darth Vader's Theme\)](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 2:59 |
 | 3 | [Andor \(Main Title Theme\) \- Episode 1](https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 1:17 |
-| 4 | [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/4SxT40S7bBdHg8iSTYUpTq) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:49 |
-| 5 | [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:39 |
+| 4 | [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:51 |
+| 5 | [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/38SyCdeH9rPBzsAwnrqDW1) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:39 |
 | 6 | [Obi\-Wan](https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 4:06 |
 | 7 | [Order 66](https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 1:40 |
 | 8 | [Inquisitors' Hunt](https://open.spotify.com/track/2vFMaqgyFB3PZMnC3AI3vZ) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Obi\-Wan Kenobi \(Original Soundtrack\)](https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma) | 3:09 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 | 108 | [Star Wars: Galaxy's Edge Symphonic Suite \- Music Inspired by the Disney Themed Land](https://open.spotify.com/track/0ETHUHGV4QrIQ3iGIUQZbd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: Galaxy's Edge Symphonic Suite \(Music Inspired by the Disney Themed Land\)](https://open.spotify.com/album/53V20nN6s91x3ey4grFvwY) | 4:57 |
 | 109 | [Ewok Celebration and Finale](https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Return of the Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx) | 8:01 |
 
-Snapshot ID: `MTY2NjgxNDkxNywwMDAwMDAwMDFiZDhjOTZjYTlhMDlhYWNjNmU1ZGJhMWZhMzgwODFj`
+Snapshot ID: `MTY2NjgxNDkxNywwMDAwMDAwMDdjYjAyZmIxZmI0MDUxZWY5MzdmYzdkODY1YTUzZTBk`

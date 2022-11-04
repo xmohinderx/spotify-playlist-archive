@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 839135,
+  "num_followers": 839343,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMGFiZGMwM2RkZWU4MGFjYjU4MGEyZjlmNmYxYTVmN2Vi",
+  "snapshot_id": "MTY2Mzg0MTg2MiwwMDAwMDAwMDAzZThjOWFlNmQxZjM5YTg4NDMxNzM4YjVkMzRlY2Y1",
   "tracks": [
     {
       "added_at": "2022-09-22 10:17:42",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-22 10:17:42",
       "album": {
-        "name": "In Bloom: Versions",
-        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 212534,
-      "name": "In Bloom (Acoustic)",
-      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
-    },
-    {
-      "added_at": "2022-09-22 10:17:42",
-      "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 235800,
       "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
       "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
+    },
+    {
+      "added_at": "2022-09-22 10:17:42",
+      "album": {
+        "name": "In Bloom: Versions",
+        "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 212534,
+      "name": "In Bloom (Acoustic)",
+      "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
     },
     {
       "added_at": "2022-09-22 10:17:42",

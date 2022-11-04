@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-202 songs - 11 hr 7 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
+204 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6gtl26s3KlictDYYFa2Et6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Change \(feat\. sogumm\)](https://open.spotify.com/track/5SVyk4OuhHUPg7uCAOB37f) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 4:36 | 2022-10-04 | 2022-11-02 |
 | [Chit Chat Ting](https://open.spotify.com/track/3fLFTJnncqbljGsBiF9iSY) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Naeezy Herr](https://open.spotify.com/artist/2pK2yChZB3TQmkuBuMt12v) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/2JrPacJGxrV45GEiB9hgEv) | 3:33 | 2022-05-03 | 2022-07-25 |
 | [Choppy](https://open.spotify.com/track/6aCZBRe2y8fdKGehzthtzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Herr Nayne](https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse) | [TRAPART](https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4) | 3:51 | 2022-05-03 | 2022-06-12 |
+| [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 |  |
 | [city orgasm](https://open.spotify.com/track/03XFURik8cjLvlvc2W0gVP) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:44 | 2022-05-03 | 2022-06-27 |
 | [COLD VIEW](https://open.spotify.com/track/0czXUP9ndZayiozj8jH0X1) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [COLD VIEW](https://open.spotify.com/album/0yOD2vxIRCtL83xjS9bUZT) | 3:50 | 2022-05-03 | 2022-07-26 |
 | [Come \(feat\. Dbo\)](https://open.spotify.com/track/6FKIVwqfkELrhOtFh2ozVt) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 3:56 | 2022-06-18 | 2022-06-20 |
@@ -48,11 +49,12 @@
 | [Dank](https://open.spotify.com/track/11r7IfsMb8jT8AMFaGvsh4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [V](https://open.spotify.com/album/09agRqLawn8DRSVYlKsJJo) | 3:18 | 2022-07-08 |  |
 | [DATE NiTE \(feat\. Yoonmirae\)](https://open.spotify.com/track/53rzmLk7JlZazvvZuVf04d) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:37 | 2022-05-03 | 2022-07-28 |
 | [Dawn](https://open.spotify.com/track/1iUHDuJ3ZL6HrrgxQNVWF7) | [yey](https://open.spotify.com/artist/502fuIaKBgR51zNneCKFGj) | [Dawn](https://open.spotify.com/album/4r3f6kbozqZ1daPFEvmd0N) | 2:41 | 2022-05-03 | 2022-07-29 |
-| [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 |  |
+| [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 | 2022-06-09 | 2022-11-04 |
 | [Daydreaming](https://open.spotify.com/track/6bWpJP0DGtSO5r9aWFCYMh) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [House of Lies \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0NWeQSWJaihEyBVjvdns8A) | 3:53 | 2022-06-13 | 2022-07-29 |
 | [Dejavu \(Song by SIM2\) \(Feat\. JUNNY\)](https://open.spotify.com/track/5ER4mtPENIKPNxmYCUNxIJ) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [PALETTE C\#505.](https://open.spotify.com/album/6I2eTUSibn3Y8uJZj1pTS8) | 3:36 | 2022-06-20 | 2022-06-28 |
 | [Don't pretend](https://open.spotify.com/track/3yvjU1X8MziKtJP0QzqKbe) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Malitabu](https://open.spotify.com/artist/1t1pVSzMxm5JAfsdvl4SWb) | [Don't pretend](https://open.spotify.com/album/7AVQj5RTLOTvoKMPZMBUEi) | 3:06 | 2022-05-03 | 2022-07-29 |
 | [Door To The Room](https://open.spotify.com/track/4xaMA6LgSXSJyJv4q5odqy) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48) | [Room Stuff](https://open.spotify.com/album/7Mw6HPaPoDNDRjiTzxEIjL) | 2:03 | 2022-05-03 | 2022-07-29 |
+| [Down \(Feat\. DUT2\)](https://open.spotify.com/track/37pJVBNb9B6LknUHU0Gh9K) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:33 | 2022-11-03 |  |
 | [Downy](https://open.spotify.com/track/662jfaBSLrpa5UUKkbxURF) | [Jay Moon](https://open.spotify.com/artist/7AndKWSFHKgM4NExxp2dTn) | [Downy](https://open.spotify.com/album/5BJ0wrvqRCT6CaczWJiaWw) | 3:30 | 2022-05-03 | 2022-07-28 |
 | [DRiNK 2 4GET \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 3:57 | 2022-05-03 | 2022-09-29 |
 | [Drowning](https://open.spotify.com/track/0K4VO0YFQjz846cR1PwawT) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [S.O.S \(Sink or Swim\)](https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel) | 3:03 | 2022-05-03 | 2022-07-11 |
@@ -75,7 +77,7 @@
 | [free](https://open.spotify.com/track/3FnIchDsti3r9sRyYOOiRt) | [h3re](https://open.spotify.com/artist/0smznozh1LvtEPKuUunm6c) | [myworld](https://open.spotify.com/album/3TCvBEad5CTLvGNDQQIyo4) | 2:52 | 2022-05-03 | 2022-07-28 |
 | [Future Love](https://open.spotify.com/track/5QUg1vCGUJUtbcsACtxo4O) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:00 | 2022-05-03 |  |
 | [Get That Money](https://open.spotify.com/track/0XKt6hs31iuVNuQi7YtaWI) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/5ymwUauRI4kY2omHdBkGUt) | 3:13 | 2022-05-03 | 2022-07-27 |
-| [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 | 2022-07-08 |  |
+| [Get That Money](https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [BOYCOLD](https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS) | 3:13 | 2022-07-08 | 2022-11-04 |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-03 |  |
 | [Goddamn](https://open.spotify.com/track/607eyydbnlF3XKaMKpbmBh) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [K.I.S.S](https://open.spotify.com/album/3NWSMArT2uajdVjViCnWe1) | 3:05 | 2022-05-03 | 2022-07-19 |
 | [Golden Time](https://open.spotify.com/track/6RYMQoaFCfmgZPOZbMiEYM) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Five Senses](https://open.spotify.com/album/6TtP8DR6ISaBIRZSy6QdIo) | 3:39 | 2022-05-03 | 2022-07-22 |

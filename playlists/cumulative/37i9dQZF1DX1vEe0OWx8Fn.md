@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-149 songs - 7 hr 38 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
+150 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [hangar](https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:45 | 2021-11-19 |  |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-11-19 |  |
 | [HARDCORE HAPPY](https://open.spotify.com/track/6Usn1wYt0LOjLPWwvIvl6k) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [97 BLOSSOM](https://open.spotify.com/album/1PjpcapSfVsBXZ9zyN7Tql) | 2:49 | 2021-11-19 | 2022-07-06 |
-| [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-11-19 |  |
+| [Hate Me](https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [Hate Me](https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c) | 2:48 | 2021-11-19 | 2022-11-04 |
 | [Hate Me \(Sometimes\)](https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 3:53 | 2021-11-19 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-11-19 | 2022-07-20 |
 | [Heavy](https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA) | [Blonder](https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9) | [Heavy](https://open.spotify.com/album/7uXrBLU63hlBn4LS13mMf8) | 3:05 | 2021-11-19 | 2022-07-18 |
@@ -87,6 +87,7 @@
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 | 2021-11-19 | 2022-07-08 |
 | [i want to be by your side \(feat\. herhexx\)](https://open.spotify.com/track/1Ao41SEp170gHWhGS4m0tM) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [herhexx](https://open.spotify.com/artist/7AI9yB4mqXc2h9fONnHgqA) | [i want to be by your side \(feat\. herhexx\)](https://open.spotify.com/album/28Ui19BdTEtZlGSC4Yqvlj) | 2:37 | 2021-11-19 | 2022-05-01 |
 | [I'd Rather Die](https://open.spotify.com/track/3SGh7q0XBepaclCgzlC97M) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [I'd Rather Die](https://open.spotify.com/album/5UUVtZ1eiN1aXTWNk2sJOW) | 2:12 | 2021-11-19 | 2022-10-13 |
+| [I'd Rather Die](https://open.spotify.com/track/5f8v9LU1xMnkYRCRuepklb) | [TRAMP STAMPS](https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W) | [I'd Rather Die](https://open.spotify.com/album/6ILcBWgSSwWJaD6kBkjvRW) | 2:12 | 2022-08-16 |  |
 | [i'm gonna tell my therapist on you](https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [i'm gonna tell my therapist on you](https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz) | 2:41 | 2021-11-19 |  |
 | [idk where my mind is](https://open.spotify.com/track/2cdb9Y3UY3jNnv1lAt0MYr) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [idk where my mind is](https://open.spotify.com/album/2ftgcNqzOhgEIm2jIIbULi) | 1:55 | 2022-03-04 | 2022-05-21 |
 | [idk why i try](https://open.spotify.com/track/3wNJ2XMvz1DznBf5CVZbsj) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 3:07 | 2021-11-19 | 2022-07-17 |

@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve! Foto: Ludmilla
+> Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc
 
-179 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+180 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Não Vou Mais Ceder](https://open.spotify.com/track/4iV9n0PFuhKaFYHv0FHUoM) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM) | [Não Vou Mais Ceder](https://open.spotify.com/album/1EYEen74TH7ONTnfLKYBaf) | 3:00 | 2022-10-14 | 2022-10-29 |
 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 | 2022-05-13 |  |
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-09-24 |
-| [O Pássaro e o Diamante](https://open.spotify.com/track/6HTH0CTtSz0qzAmXKMFYIZ) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [O Pássaro e o Diamante](https://open.spotify.com/album/6k8CfbckxXsinhYMDIhOks) | 2:29 | 2022-10-26 |  |
+| [O Pássaro e o Diamante](https://open.spotify.com/track/6HTH0CTtSz0qzAmXKMFYIZ) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [O Pássaro e o Diamante](https://open.spotify.com/album/6k8CfbckxXsinhYMDIhOks) | 2:29 | 2022-10-26 | 2022-11-04 |
 | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/track/6Rt0yn8luPG73Yp7yiESyc) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [O quanto eu gosto de você\. \(feat\. Clarissa\)](https://open.spotify.com/album/12PaS2qZIHeuwWbL6owjQl) | 2:45 | 2022-05-13 | 2022-06-04 |
 | [O Velho e a Flor](https://open.spotify.com/track/2oKVyl56KtxaO05okhItx5) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [O Velho e a Flor](https://open.spotify.com/album/0UTyRrnBF6udLySAWfLBDL) | 2:41 | 2022-09-30 |  |
 | [Oceana](https://open.spotify.com/track/41F3OUGWKcsdIn1ujcx5hN) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Oceana](https://open.spotify.com/album/0Keuh6VaVM7GNPET0kkSnN) | 2:28 | 2022-05-13 |  |
@@ -152,6 +152,7 @@
 | [Que Fase](https://open.spotify.com/track/5pANifhuNQKbBK7KNvJ509) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/2IIbtH3HSK9ZySaSApVyZR) | 2:14 | 2022-07-01 | 2022-08-02 |
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 |  |
+| [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 |  |
 | [Sem Filtro](https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Sem Filtro](https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1) | 3:49 | 2022-08-01 |  |
 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 | 2022-06-03 | 2022-08-06 |
 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 | 2022-06-14 | 2022-08-06 |
@@ -170,7 +171,7 @@
 | [Tudo Pah \- Casa Filtr](https://open.spotify.com/track/5QPj2GvEMAsca12RmRiMoX) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Pah \(Casa Filtr\)](https://open.spotify.com/album/4UKtzqwGYpn2miqMvpDfhO) | 2:43 | 2022-09-02 |  |
 | [Tudo Teu](https://open.spotify.com/track/21bbR1glUbV7Vvo8hIMC2W) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tudo Teu](https://open.spotify.com/album/2ARdu9IuLvWhy0c6eQPSYS) | 3:33 | 2022-08-26 |  |
 | [Tá Difícil Entender](https://open.spotify.com/track/7ykfm9VGxKAjdqFh9yh4Od) | [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj), [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m) | [Tá Difícil Entender](https://open.spotify.com/album/4BO1RnFXPHscnuoLtcp5Vq) | 2:30 | 2022-06-14 |  |
-| [Tá Tudo Bem](https://open.spotify.com/track/55rCBBXLThMY2lqpDxX6XL) | [Naiara Terra](https://open.spotify.com/artist/1Tck18rJG2l4W47yBj9WfT) | [Tá Tudo Bem](https://open.spotify.com/album/534ZaDkN71lI78x5ctCsuI) | 2:09 | 2022-10-28 |  |
+| [Tá Tudo Bem](https://open.spotify.com/track/55rCBBXLThMY2lqpDxX6XL) | [Naiara Terra](https://open.spotify.com/artist/1Tck18rJG2l4W47yBj9WfT) | [Tá Tudo Bem](https://open.spotify.com/album/534ZaDkN71lI78x5ctCsuI) | 2:09 | 2022-10-28 | 2022-11-04 |
 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 | 2022-05-13 | 2022-06-04 |
 | [Tão Leve](https://open.spotify.com/track/2i2SzU9jZd6nNew4CJEKqw) | [Kaike](https://open.spotify.com/artist/1HKqpxQ9sAJ5FXmiDWOA1V) | [Tão Leve](https://open.spotify.com/album/63Q5H9JaYhTxlDMFcX4rNx) | 2:18 | 2022-10-10 |  |
 | [Um Pouco Mais](https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Bruna Magalhães](https://open.spotify.com/album/4EgPhNp6NjZ7Q7Wt8tvvPf) | 3:01 | 2022-05-13 | 2022-10-11 |

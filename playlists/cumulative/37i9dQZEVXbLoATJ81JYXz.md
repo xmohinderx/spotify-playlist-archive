@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,058 songs - 2 day 7 hr 47 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
+1,059 songs - 2 day 7 hr 49 min - [published](https://open.spotify.com/playlist/5P2yiuo1XuPDWVYvCs1X7X)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Låt mig gå](https://open.spotify.com/track/0NXqhf7bDVLz8fGUVyzajw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:06 | 2022-05-22 | 2022-06-05 |
 | [Låtsasvärlden](https://open.spotify.com/track/6hCXkT6H6DX6HBoOKw9la1) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:56 | 2022-05-28 | 2022-06-03 |
 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 | 2022-01-08 | 2022-03-06 |
+| [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-11-03 |  |
 | [MAGAZINE](https://open.spotify.com/track/41up0oLKR7aV5FWJcB0Z3F) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [MAGAZINE](https://open.spotify.com/album/6BRicQSOjuznb15diXZ2wD) | 2:37 | 2022-09-10 | 2022-09-18 |
 | [Malaika](https://open.spotify.com/track/6IgMLWNcxP1vONuQSIDEpk) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Leylas World](https://open.spotify.com/album/5WC5WvmybgtCEuFdr0kQMW) | 3:09 | 2021-03-27\* | 2021-04-29 |
 | [MALI](https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MALI](https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK) | 2:34 | 2021-11-14 | 2021-11-28 |
@@ -611,7 +612,7 @@
 | [Marbella](https://open.spotify.com/track/5pWQeWrsXX4JYYihgoxUNN) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wow 2](https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW) | 2:50 | 2021-10-17 | 2021-11-07 |
 | [Marbella](https://open.spotify.com/track/6PWTqk0c1L5ehd3tG3Zpf2) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Marbella](https://open.spotify.com/album/4UN3LjhJSTQWHqEKUTPd7Y) | 2:50 | 2021-06-20 | 2021-10-17 |
 | [MARIA](https://open.spotify.com/track/5D1UkQaChtBhqt3rpeV2DI) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:59 | 2022-06-11 | 2022-07-17 |
-| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 |  |
+| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-04 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-23 | 2022-09-15 |
 | [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-09-14 | 2022-10-16 |
 | [Mata Hari](https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P) | [Efendi](https://open.spotify.com/artist/4oe1qp9xGSFxMYH4X9AXtl) | [Mata Hari](https://open.spotify.com/album/2qAJL1ffzMUKu3quKRoMwi) | 2:40 | 2021-05-25 | 2021-05-29 |

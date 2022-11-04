@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > The best dance hits of 2022, featuring Gryffin and Elley Duhé, Surf Mesa and Nat Dunn, and more! Find all the best dance tracks here, and discover new favorites! Cover: Gryffin
 
-[Digster](https://open.spotify.com/user/digster.fm) - 117,319 likes - 50 songs - 2 hr 32 min
+[Digster](https://open.spotify.com/user/digster.fm) - 117,315 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 49 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 | 50 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 |
 
-Snapshot ID: `NDIxMSxlNTQ3NGUwN2UwZmIzYTdkYmRlNDNlMmNiODEzOTk3ODgxY2M0ZjFl`
+Snapshot ID: `NDIyOCxmZDczOTU5ZmMwOTc2YzkwZTZlM2M3NzBiZTNlZGEzMjM4YTVjN2U1`

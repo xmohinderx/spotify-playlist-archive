@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,828 likes - 192 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,987 likes - 192 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 74 | [Andromeda](https://open.spotify.com/track/4rTOkpkDmJzDHLDjxX6Q5p) | [Ruby Lucern](https://open.spotify.com/artist/6pnPGq4LfbeTMuVyciSPjP) | [Firenze](https://open.spotify.com/album/6epHnZWyD4jXrrx5Lei9eo) | 3:30 |
 | 75 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 |
 | 76 | [Peace](https://open.spotify.com/track/6F0EP7RuYpUsIvppMg4NvY) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Peace](https://open.spotify.com/album/6mwJ5ErXnK8ylr8AidBzsR) | 2:45 |
-| 77 | [New Season](https://open.spotify.com/track/00MR3lqcuALQH6JuJhzAcp) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/3fGMi62FQUhFEn8muqHqSj) | 2:00 |
+| 77 | [New Season](https://open.spotify.com/track/6EDhbMrFPSRamUaDotdn6v) | [The Cabin Tapes](https://open.spotify.com/artist/7iWDCqhLWP7tGRvYpOzj4J) | [New Season](https://open.spotify.com/album/0Oy5FpXNS4Uy9Gy3vqcT7o) | 2:00 |
 | 78 | [Blue Nights](https://open.spotify.com/track/4nQkcnKRluoyu2UfanfqWX) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [Blue Nights](https://open.spotify.com/album/0vhl5DqH30xs6lj7V1QzNO) | 2:38 |
 | 79 | [Bastion](https://open.spotify.com/track/0HJFbLyIfJMTEH0xE8bLgf) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Bastion](https://open.spotify.com/album/6WdCGrY7unWua2OgO8w7Es) | 2:24 |
 | 80 | [Colors Of Spirit](https://open.spotify.com/track/0usXBNEX4RoDTQODT1ZJEO) | [Iron Ore](https://open.spotify.com/artist/4kgygMrQyq2ABMHuhm07fZ) | [Colors Of Spirit](https://open.spotify.com/album/75y49kivSa0YKGV050ODBr) | 4:03 |
 | 81 | [Come With Me](https://open.spotify.com/track/0RafPtjiIYR2VcS9JortFA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Used To Be You](https://open.spotify.com/album/2lcIAj5uXylIb7Lz8QRIdW) | 2:56 |
 | 82 | [Mar Abierto](https://open.spotify.com/track/3iJPvAuAfJVWWnin355Tmk) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Mar Abierto](https://open.spotify.com/album/3djqu4voBcHRSQOLgnfeW2) | 2:09 |
-| 83 | [Vos](https://open.spotify.com/track/61TDH0v8Yqn5iGhB5YGvin) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Vos](https://open.spotify.com/album/2K5DKWUYgBpgoELQkktX03) | 2:11 |
+| 83 | [Vos](https://open.spotify.com/track/26jriTDN3zZdpwHiXNyM3Q) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Vos](https://open.spotify.com/album/6DPAoBHeYtw3aRknPL4MRe) | 2:11 |
 | 84 | [Lowlight \(Duet\)](https://open.spotify.com/track/5GQw0xJFMXme3lsU2zbOC7) | [Thomas Kessler](https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ), [Ulli Boegershausen](https://open.spotify.com/artist/7cfu1JFXiRLxUGdGdNt64V) | [Lowlight \(Duet\)](https://open.spotify.com/album/7CJZBVIvmNyX6WJNN9jKc0) | 2:21 |
 | 85 | [While You Dream](https://open.spotify.com/track/64JfbQmVniAnDa0ulwkNDx) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [While You Dream](https://open.spotify.com/album/377iurKSfWPriVKdTisxYQ) | 2:09 |
 | 86 | [The Knowing Of Being](https://open.spotify.com/track/2TxTHFS6q7R8FyiWyTtocs) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [The Knowing Of Being](https://open.spotify.com/album/05rR4u0vaHUJoBIw3tq8Nq) | 3:12 |
-| 87 | [Pine Barrens](https://open.spotify.com/track/3K83TKlA6woUhq03vdliqz) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/0e1QAdLfpz2c0kXNVHF3vM) | 2:09 |
+| 87 | [Pine Barrens](https://open.spotify.com/track/1moLhzV03IwcCSlbyq0q0I) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Pine Barrens](https://open.spotify.com/album/3tXbPp7iD9LQJ2dV4RR1W7) | 2:09 |
 | 88 | [Surface of the Sun](https://open.spotify.com/track/2IUkpsHo1AnuzROkH97dUc) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Surface of the Sun](https://open.spotify.com/album/6FHwTA1LpLYx2IDVDMNYes) | 2:00 |
 | 89 | [Morning sun](https://open.spotify.com/track/2G9SMURRZs6xKqDMqy9fI0) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Morning sun](https://open.spotify.com/album/1tYYGZm6XXe9cJS4BX0Zda) | 3:20 |
 | 90 | [Say it First](https://open.spotify.com/track/629DN0qMDPVhEyQnQ3LxHy) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Say it First](https://open.spotify.com/album/6YdeDCvJraTDzS5F7BPXrQ) | 2:56 |
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 161 | [Elysian](https://open.spotify.com/track/5ymSjtKAJNx0n2cpSz5k6p) | [Luca Tudela](https://open.spotify.com/artist/2gy6cul8rT4vjPjhSlbuo3) | [Elysian](https://open.spotify.com/album/0DJp7TMkGeE5X1hOrDiBaU) | 1:57 |
 | 162 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 |
 | 163 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 |
-| 164 | [Ashley](https://open.spotify.com/track/7BbbckFkys6pX1zldStAva) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/7llaS2eqQKC7S6iybznHMJ) | 2:10 |
+| 164 | [Ashley](https://open.spotify.com/track/0S6RcRs940bTaQjED6YGM8) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Ashley](https://open.spotify.com/album/0gUIJmWnb5l5JObLqWVcZi) | 2:10 |
 | 165 | [Am Soiernsee](https://open.spotify.com/track/1omB6aDhZpkZttTTNhQ1tN) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Mond Farben](https://open.spotify.com/album/5eNszXHl0p0GhAOMYEnRtN) | 3:48 |
 | 166 | [Mino Madrid](https://open.spotify.com/track/039lCWzjPxX289MSTfim74) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [Mino Madrid](https://open.spotify.com/album/2i1BOMeyUaOPrhCYZdHxAU) | 1:48 |
 | 167 | [Danny Boy](https://open.spotify.com/track/5iX5XoYIjAtD4oLlfQlSuw) | [Charlie Miller](https://open.spotify.com/artist/4gedU51ks1jf6BRwzCWosG) | [Danny Boy](https://open.spotify.com/album/6WUgyBKlfD2KGBwWgv3NWM) | 4:17 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 191 | [Drømmefanger](https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Drømmefanger](https://open.spotify.com/album/4tWm0QSK75J3iiXBALU7zF) | 2:18 |
 | 192 | [Carmel by the Sea](https://open.spotify.com/track/0cMFYGlDdLfCvrqQhx4ESk) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Carmel by the Sea](https://open.spotify.com/album/5fYNY8XJ9eKPFLcrhBvLCl) | 1:42 |
 
-Snapshot ID: `MTY2Njk2Mzg0MCwwMDAwMDAwMDE5MGJjYTA0NDVlZjFkMDBhY2JiYWQ0NGZmYWRhMjBi`
+Snapshot ID: `MTY2Njk2Mzg0MCwwMDAwMDAwMGU0NWFlNjZkNThmNTlhNTIxNGFkNGFjYmU0ZDZiYmEx`

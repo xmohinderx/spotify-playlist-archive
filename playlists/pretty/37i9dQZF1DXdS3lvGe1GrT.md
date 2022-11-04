@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Junaco \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,128 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,228 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 |
 | 2 | [Shower Song](https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Shower Song](https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke) | 2:47 |
-| 3 | [Wherever You Aren't](https://open.spotify.com/track/1eruAYp8GViJ0iTGVbeqER) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N), [Scott McDowell](https://open.spotify.com/artist/3jerzwsSM84Vawh3lKBqWC) | [Wherever You Aren't](https://open.spotify.com/album/4OdjnV68EopFTxah0WbdRB) | 4:12 |
+| 3 | [Wherever You Aren't](https://open.spotify.com/track/1eruAYp8GViJ0iTGVbeqER) | [Elizabeth Moen](https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N) | [Wherever You Aren't](https://open.spotify.com/album/4OdjnV68EopFTxah0WbdRB) | 4:12 |
 | 4 | [Joy](https://open.spotify.com/track/5LBDwYixyKIc1GVnhgYDNy) | [Annie Stela](https://open.spotify.com/artist/6L2LACunZv5Bk1pyQdYCU0) | [Joy](https://open.spotify.com/album/42v75RcvfsCVtlYrzXR3RF) | 3:10 |
 | 5 | [Cowboy Gangster Politician](https://open.spotify.com/track/7lX3csi0tMtyj1n3gtx9x7) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [K\-Town](https://open.spotify.com/album/7vBPzS2nKBQotLlnHBdRpf) | 3:52 |
 | 6 | [Weightless](https://open.spotify.com/track/1RmZ9Oh6qfidVbzukot42i) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Weightless](https://open.spotify.com/album/3nPwr6dVAbMPDkS9JvzbN2) | 3:27 |

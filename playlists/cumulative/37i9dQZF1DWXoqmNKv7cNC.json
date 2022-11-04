@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 172200,
       "name": "Aquel Bolero",
       "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 172386,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/6MBestQzTJ5XPvDM1afJid"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 221167,
       "name": "Azotea (feat. The Tbd)",
       "url": "https://open.spotify.com/track/65Z39XSu1aoH1nS7AcJk1g"
@@ -2193,6 +2193,24 @@
       "duration_ms": 197853,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "album": {
+        "name": "Dime Que Me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/0VyxSvAzrTUUExk3zYeqz0"
+      },
+      "artists": [
+        {
+          "name": "Melted Ice Cream",
+          "url": "https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229940,
+      "name": "Dime Que Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/6nrwvCT762gUStb7l8Q8Ee"
     },
     {
       "album": {
@@ -5374,6 +5392,24 @@
     },
     {
       "album": {
+        "name": "No Quiero ser Madre",
+        "url": "https://open.spotify.com/album/21bQi55CkV4IkGCv7hBxQd"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95533,
+      "name": "No Quiero ser Madre",
+      "url": "https://open.spotify.com/track/74tuTsVNQJ1h5Y9MGNQVYY"
+    },
+    {
+      "album": {
         "name": "No Soy Criminal",
         "url": "https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno"
       },
@@ -7012,6 +7048,24 @@
     },
     {
       "album": {
+        "name": "S\u00edgueme",
+        "url": "https://open.spotify.com/album/7GV1ORzkEy5eFSSzAVApMz"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "S\u00edgueme",
+      "url": "https://open.spotify.com/track/4gHnxt4lthSjV6JIj1XdyM"
+    },
+    {
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/7G6hPoPT8NqwLc6cmz6UiY"
       },
@@ -7027,6 +7081,24 @@
       "duration_ms": 200816,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/00d1uVbCV95FV3RwpFWaTJ"
+    },
+    {
+      "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/0hP9EQGKeMKyvJgMfM17W0"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160051,
+      "name": "Tarde O Temprano",
+      "url": "https://open.spotify.com/track/71PERzblkfEH2c6W2xWWqc"
     },
     {
       "album": {
@@ -7341,7 +7413,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-07",
+      "date_removed": null,
       "duration_ms": 255200,
       "name": "Todo Se Est\u00e1 Cayendo",
       "url": "https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV"

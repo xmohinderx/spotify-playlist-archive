@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,449 likes - 92 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,754 likes - 92 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 69 | [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 |
 | 70 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 | 71 | [French Inhale](https://open.spotify.com/track/4JLI9AgtAXutJvjlXgZBoR) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [444](https://open.spotify.com/album/5A2924LaWCYkWpug5N583R) | 1:48 |
-| 72 | [You're from Delhi](https://open.spotify.com/track/1tEgMBCOycJ4ASpTpOsRdU) | [Radha Mandal](https://open.spotify.com/artist/79WdxNsSF0WXOiCEryUAyB) | [Our Dreams](https://open.spotify.com/album/3qlSOExbRywIGbnyRNPKfu) | 2:34 |
+| 72 | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/track/18mtdSxEPm52HXsl0LbVFN) | [Arnab Maity](https://open.spotify.com/artist/5EISGLKYtFDJzae6rtMhKU) | [Kya Mujhe Pyaar Hai \- Lofi KK](https://open.spotify.com/album/3nQe8Zke0H0KSO8iCQAn9c) | 2:33 |
 | 73 | [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 |
 | 74 | [lovesick](https://open.spotify.com/track/3A2jJaOKYhmKEy9IyyEJF6) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/3l7m9a8tkGbZPZ44Bd1QoA) | 2:30 |
 | 75 | [i'm tired of feeling this way](https://open.spotify.com/track/0A6dTlWYD2magT5bqUyZLM) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/2H51wbj4LoKu3MS1enfhFd) | 2:28 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 86 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
 | 87 | [late nights](https://open.spotify.com/track/48iQKnYSE8eQUXuBqF7eQ2) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [late nights](https://open.spotify.com/album/3D5cqKAqlXUtVnX4hATADb) | 2:08 |
 | 88 | [Perspective](https://open.spotify.com/track/14ckoOlSTdYVDURRxlpHrW) | [CaliCronk](https://open.spotify.com/artist/7IWTF2SJ9kPwh5YH92KF9q), [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Perspective](https://open.spotify.com/album/3O4tupQbNSUo0w7XZNsR34) | 1:49 |
-| 89 | [Saiyyan \- Lofi Version](https://open.spotify.com/track/7pX9MwOH187D85GK84kPX0) | [Jay Kashyap](https://open.spotify.com/artist/0OOLyvWfJyRc6UgmHWitwu) | [Saiyyan \(Lofi Version\)](https://open.spotify.com/album/7sUhuHa8FYel3V6H4Ao8tC) | 2:48 |
+| 89 | [Saiyyan \- Lofi Version](https://open.spotify.com/track/7pX9MwOH187D85GK84kPX0) | [Jay Kashyap](https://open.spotify.com/artist/6IbczMOO9RjanCFkXOlEQq) | [Saiyyan \(Lofi Version\)](https://open.spotify.com/album/7sUhuHa8FYel3V6H4Ao8tC) | 2:48 |
 | 90 | [Sex for Breakfast](https://open.spotify.com/track/4Xj6PMlVsJQvGg1sGHGaNR) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61), [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Sex for Breakfast](https://open.spotify.com/album/11aYGJ7EZ0B5uPJihRu1hE) | 1:39 |
 | 91 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 92 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY2NTcwNTYwMCwwMDAwMDAwMDNkNWEyZTY3NTcyN2U3MmM3M2FjNDc2N2VjYmQyZTI3`
+Snapshot ID: `MTY2NTcwNTYwMCwwMDAwMDAwMDhiMDIzMWNhYTA5NDQyYzUyMzNkZmNmMTdhNTdhNGIw`

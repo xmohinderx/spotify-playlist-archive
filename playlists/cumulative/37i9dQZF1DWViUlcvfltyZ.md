@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: Elephant Brain
+> Chitarre, più o meno distorte\. Aggiornata ogni venerdì\. Cover: clauscalmo
 
-209 songs - 11 hr 40 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
+211 songs - 11 hr 46 min - [published](https://open.spotify.com/playlist/1ygHfNTT8YmP8RXH0ojm4P)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Canzone 7](https://open.spotify.com/track/71rPnASxvCbdfVyw7H7GZf) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Canzone 7](https://open.spotify.com/album/2AEHn0g8fL5e5ZzHzdZOtq) | 3:10 | 2022-09-01 | 2022-09-16 |
 | [Canzone 9](https://open.spotify.com/track/3Lkbk6U4UUyxdseqGmip1b) | [Little Pieces of Marmelade](https://open.spotify.com/artist/6ap5FlXui4P9SWOKz98o9Z) | [Ologenesi](https://open.spotify.com/album/37CdwSrQ0Rexb7EVLfQppx) | 3:22 | 2022-10-06 | 2022-10-21 |
 | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/track/6XNyqB9SGce6cWFlR8wMVP) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Caro fottutissimo amico \(feat\. Motta\)](https://open.spotify.com/album/4dBHrJUJ6tBAe8pzNWfDRW) | 11:54 | 2022-05-09 | 2022-05-13 |
-| [Casanova](https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea) | [Francie](https://open.spotify.com/artist/0yWTeuyotX6gZzD2pbe8ip) | [Casanova](https://open.spotify.com/album/48Kseq11LU065k91UeV3c3) | 3:56 | 2022-09-22 |  |
+| [Casanova](https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea) | [Francie](https://open.spotify.com/artist/0yWTeuyotX6gZzD2pbe8ip) | [Casanova](https://open.spotify.com/album/48Kseq11LU065k91UeV3c3) | 3:56 | 2022-09-22 | 2022-11-04 |
 | [Chaise Longue](https://open.spotify.com/track/2oXs1w3ISiVPkz32vXJCCg) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Chaise Longue](https://open.spotify.com/album/2HtuyQa8ttY6Fn433FIs0s) | 3:40 | 2022-09-19 |  |
 | [Charlie Sheen](https://open.spotify.com/track/73DtLKoCK2gVwaXyU8JRuG) | [Nobody Cried For Dinosaurs](https://open.spotify.com/artist/2RQE2lqMvFUFA5u0znpkvo) | [Charlie Sheen](https://open.spotify.com/album/6cNcGxEFYkNCoMI4x2P2QX) | 4:09 | 2022-05-19 | 2022-07-01 |
 | [Che Bella è](https://open.spotify.com/track/25hud035fkibY2xzOuMLWY) | [CACTUS](https://open.spotify.com/artist/0aAbF9XRGmASY77Z9MHtRK) | [Made in Cina](https://open.spotify.com/album/7zWOLZSOXOVfSRTVCOWP4X) | 2:59 | 2022-10-27 |  |
@@ -51,7 +51,7 @@
 | [Corny](https://open.spotify.com/track/0p9GTFfCSDseFiCEuH4GlJ) | [Grigio Scarlatto](https://open.spotify.com/artist/1tck0JaVzfb6UtiriTB6zJ) | [Corny](https://open.spotify.com/album/1RwrTlkQ5u3EE5CrnlH6yi) | 2:05 | 2022-09-15 | 2022-10-14 |
 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |
 | [Crystal Ball](https://open.spotify.com/track/4rJZeYt6ArHcnPova0Hgtw) | [Verdena](https://open.spotify.com/artist/058thnz6odaxoAN4n3cMBN) | [Volevo Magia](https://open.spotify.com/album/0ISl1KHwbmQIJBe0TOWqGk) | 2:54 | 2022-09-22 |  |
-| [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-05-09 |  |
+| [Cuore semplice](https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cuore semplice](https://open.spotify.com/album/3vtlBpilYG12I4gHDfbBZf) | 3:14 | 2022-05-09 | 2022-11-04 |
 | [Da quando è morta pietà](https://open.spotify.com/track/0np00bUKuDmRqUYqhJyuh8) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [Da quando è morta pietà](https://open.spotify.com/album/1PZokscxUN9KUbuxklf42V) | 3:24 | 2022-06-23 | 2022-09-02 |
 | [Dance](https://open.spotify.com/track/2VCZ29O95ltUrj6Cyck1aX) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Dance](https://open.spotify.com/album/4c6XL53P0lkKXyA1KPWg91) | 3:06 | 2022-07-29 | 2022-09-02 |
 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-05-12 | 2022-06-10 |
@@ -98,6 +98,7 @@
 | [Il Mare e le Farfalle](https://open.spotify.com/track/4qayUwKDrCKiHprgzny8Md) | [Balvin Boys](https://open.spotify.com/artist/1z15QbpnJdMFmYoGKIRq48), [Riel](https://open.spotify.com/artist/5uinZNQ4QAnLvhLyzVR8hj) | [Internet](https://open.spotify.com/album/1W1ogLJ6TxHp2yKmCblCBR) | 2:20 | 2022-06-16 | 2022-09-20 |
 | [il mondo va veloce](https://open.spotify.com/track/3LKlwc0UPC2t627WKrpciU) | [nicedays](https://open.spotify.com/artist/15dR4o87QRubGtpERgNPLB) | [il mondo va veloce](https://open.spotify.com/album/5BNaMQRSia5tod8TxQS4mZ) | 3:31 | 2022-05-12 | 2022-06-24 |
 | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Il tempo è una bugia \(feat\. Ligabue\)](https://open.spotify.com/album/7oM4l6zPvDNo9WgT7J9pxq) | 3:58 | 2022-09-15 |  |
+| [Il vento](https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Sale \(Elas\)](https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0) | 2:46 | 2022-11-03 |  |
 | [Imma Stunt](https://open.spotify.com/track/3vZmC8oq2B3mp9kVfIcXr1) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [Imma Stunt](https://open.spotify.com/album/2JRIfmjUa8aU6MLLlahL52) | 2:11 | 2022-05-12 | 2022-07-08 |
 | [In ciabatte](https://open.spotify.com/track/1cL1wwfU1LvhGTUmUe5wsc) | [Pino!](https://open.spotify.com/artist/052Bs1XHJXqz4X1KS3ao1O) | [Servito Freddo](https://open.spotify.com/album/3XJL5WJKxgMqozmITOPrFR) | 3:42 | 2022-09-22 | 2022-10-07 |
 | [It's Not Fair to Die](https://open.spotify.com/track/0vy20oIYnWXCdeJHXVpKre) | [R.Y.F.](https://open.spotify.com/artist/6KvSMX9OVVJxn6mfCXbAOe) | [Tutto Brucia OST](https://open.spotify.com/album/7i7wwzcmPlO5W0ahY7AFDS) | 3:55 | 2022-10-06 | 2022-10-28 |
@@ -145,7 +146,7 @@
 | [Particles](https://open.spotify.com/track/3X6EsP4cCYwjtJjEGUrtiA) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Particles](https://open.spotify.com/album/6dXLAeNNrUzFC8GxZvLeih) | 3:14 | 2022-05-09 | 2022-05-13 |
 | [Pensiero magico](https://open.spotify.com/track/2Kann8MkDiYwDutctlgxyX) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Entropia Padrepio](https://open.spotify.com/album/1fs6tfBsU6HOl9Oa6IKnEN) | 3:12 | 2022-05-19 | 2022-07-01 |
 | [Più mi odi più mi amo](https://open.spotify.com/track/0EWtLGf9X5zrVSfBDhsymi) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Più mi odi più mi amo](https://open.spotify.com/album/61YoRhVptt77M5XZigQOOT) | 4:14 | 2022-05-12 | 2022-08-26 |
-| [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 | 2022-10-13 |  |
+| [Porn Magazines](https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Porn Magazines](https://open.spotify.com/album/32F9nzCzR2vhhm5XMW4yiM) | 2:56 | 2022-10-13 | 2022-11-04 |
 | [Pornolesbo](https://open.spotify.com/track/5RmgabbGvfVIr2Wtl3r75e) | [Baobab!](https://open.spotify.com/artist/0P9V5EdqoioSs6GYNliMTt) | [Pornolesbo](https://open.spotify.com/album/4YpQqDBJkMlpTPWBExpk03) | 2:24 | 2022-07-21 |  |
 | [POVERI DIAVOLI](https://open.spotify.com/track/7Kr5XGDiO1jytPSyVxb1yv) | [Marrano](https://open.spotify.com/artist/0eH00KPe73zxJhguRiJRwY) | [POVERI DIAVOLI](https://open.spotify.com/album/0wUUrD6LCzo2bYz7uwgm5q) | 3:16 | 2022-05-09 | 2022-06-03 |
 | [Prigionia](https://open.spotify.com/track/1zAim4kAlqGntjUw6P6Sov) | [Breathe Me In](https://open.spotify.com/artist/78XpnnstgBFWLIG2ZiDKY7) | [Prigionia](https://open.spotify.com/album/1txqMh7EDjj3V1yJwHmafr) | 3:32 | 2022-09-01 | 2022-10-28 |
@@ -158,6 +159,7 @@
 | [Requiem for TP](https://open.spotify.com/track/2tKkwGSScN2lXKPt4WnZ8r) | [Marnero](https://open.spotify.com/artist/1x22C5vb3nBm1GAmQxwz8N) | [Requiem for TP](https://open.spotify.com/album/3G2XhOuo98pWcII855p9ub) | 4:11 | 2022-10-10 |  |
 | [Respiro](https://open.spotify.com/track/0bL0U4dxXlSNKgtJfVEgDL) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Respiro](https://open.spotify.com/album/1LykpuCRBeWXB9KnFYcYL8) | 3:33 | 2022-06-02 | 2022-09-30 |
 | [Resto solo io](https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY), [Omar Pedrini](https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb) | [Fulmini](https://open.spotify.com/album/0b7cQnE7oNuoB1NKWPNI0t) | 2:51 | 2022-09-15 | 2022-10-07 |
+| [RGRD](https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy) | [Tramontana](https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy) | [RGRD](https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s) | 3:53 | 2022-11-03 |  |
 | [Rincorretevi](https://open.spotify.com/track/5cZHjGtsw6vsu5DVOrDBRP) | [Androgy̆nus](https://open.spotify.com/artist/4vOuZX3Pw0gO295lAdpDZT) | [Rincorretevi](https://open.spotify.com/album/6mPLQCRlvvFyWFW8A3Rd8K) | 5:05 | 2022-05-19 | 2022-07-01 |
 | [rotten](https://open.spotify.com/track/4nU6o0IqVjUFjoqODuJBQl) | [grungelo](https://open.spotify.com/artist/6P6GEHeCnE88477yIshOMy), [The Steiner](https://open.spotify.com/artist/0E0656VNBS8nCeuLyjRFjp) | [rotten](https://open.spotify.com/album/04Jz6N7SeKqALkWIkVXCSL) | 2:40 | 2022-06-02 | 2022-07-08 |
 | [SANTAMARIA](https://open.spotify.com/track/2JDmo9jCFLN1FOmHECNT3B) | [ULTIMA HAINE](https://open.spotify.com/artist/1MzzYW4rW9deiCRPS7Pjf9) | [SANTAMARIA](https://open.spotify.com/album/7CxULThaopyXFO8vfyn9oH) | 2:53 | 2022-05-09 | 2022-06-03 |

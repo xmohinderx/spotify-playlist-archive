@@ -4,7 +4,7 @@
 
 > Mizzy Miles, Sippinpurpp e Greg Ferreira entram na zona.
 
-137 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+139 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [JOGADOR CARO](https://open.spotify.com/track/3AmAlwNKaJyExmvN6EOSb2) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Greg Ferreira](https://open.spotify.com/artist/2e8RAcYXYt5IStoaaQWcG8), [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [JOGADOR CARO](https://open.spotify.com/album/5CZiBICShN5FDPhQtUsCbC) | 3:06 | 2022-10-20 |  |
 | [Juvena](https://open.spotify.com/track/6vbFZuziJPaFPRCWyQxOxP) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Juvena](https://open.spotify.com/album/0C3QVzznGSXSAw9QmNVpbc) | 2:39 | 2022-07-16 | 2022-10-28 |
 | [Kala Boka \(Freestyle\)](https://open.spotify.com/track/55XDPmIcLcO79LvrD2BVVM) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS) | [Kala Boka \(Freestyle\)](https://open.spotify.com/album/4FqGp6VMERncBlCWHovVUB) | 2:49 | 2022-07-16 | 2022-07-22 |
+| [Lado A Lado](https://open.spotify.com/track/36Hc6xUmjU1GBGlToS52tm) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Lado A Lado](https://open.spotify.com/album/5RddEu4YAFOQJxkxmoQ6QX) | 2:10 | 2022-11-04 |  |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-16 |  |
 | [Lingerie](https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Lingerie](https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0) | 3:34 | 2022-09-30 |  |
 | [Louco](https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Louco](https://open.spotify.com/album/7CjbtK4vbyv8yS78DXMtQF) | 3:33 | 2022-09-08 |  |
@@ -112,6 +113,7 @@
 | [Por Enquanto](https://open.spotify.com/track/5fjD0vHh9XRL6b657FWe9C) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Por Enquanto](https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n) | 2:22 | 2022-07-16 |  |
 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 | 2022-07-16 |  |
 | [Praça Onze](https://open.spotify.com/track/30WnHkBkq3vE8jJcNZ3RKr) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Praça Onze](https://open.spotify.com/album/3jPS6pgoJ4adGHImcNxETl) | 4:23 | 2022-07-16 |  |
+| [Preço](https://open.spotify.com/track/2diz4fN2yJw067uTfUyGJ7) | [Londone](https://open.spotify.com/artist/1rCRiVBfLiDomUEUNGykT2), [Barata](https://open.spotify.com/artist/7a2Lv59T1gA2caRYvy11gW) | [Preço](https://open.spotify.com/album/0ErHkdC4omVhUWM5syHNe9) | 3:15 | 2022-11-04 |  |
 | [Primeira Vez](https://open.spotify.com/track/2cnVJ20GRo3kYKoCihOtUz) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Primeira Vez](https://open.spotify.com/album/1KzJPjeJFsYU8wIorfioPE) | 2:35 | 2022-07-16 | 2022-09-09 |
 | [Pull Up na C](https://open.spotify.com/track/6g6UypqyS4f1mNmf8lVZfE) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Pull Up na C](https://open.spotify.com/album/75VR8gQAwNvKRKTWTSYnyv) | 2:58 | 2022-09-22 | 2022-10-14 |
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/295wfiB7UTuXo4ijuwyCgt) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/album/0TExxh5ZuuPjZG596GkoiH) | 3:39 | 2022-07-16 | 2022-07-29 |

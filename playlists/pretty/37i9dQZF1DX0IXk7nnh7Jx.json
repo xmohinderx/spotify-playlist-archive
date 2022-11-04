@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42837,
+  "num_followers": 42854,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDVhZGUzZjA2MzAyNmEyNmI4NmQ4OTBkZDc0OGUyYmJk",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDc0YWJmZjQ4M2I2ZmQyZjg5ZWNiM2M4NmVmNjQwNzcw",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -799,22 +799,6 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Take All of Me",
-        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Marcus",
-          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Take All of Me",
-      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
         "name": "The Road, The Rocks, and The Weeds",
         "url": "https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
+        "name": "Take All of Me",
+        "url": "https://open.spotify.com/album/5HQj9QFkG10YJWHU70N2jr"
       },
       "artists": [
         {
-          "name": "The Bookouts",
-          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
+          "name": "Andrew Marcus",
+          "url": "https://open.spotify.com/artist/2tVAwkz1ElBIuRY3jk86yT"
         }
       ],
-      "duration_ms": 320003,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
+      "duration_ms": 232506,
+      "name": "Take All of Me",
+      "url": "https://open.spotify.com/track/7iiGzIvHSPmf1dAuRoKJ5J"
     },
     {
       "added_at": "2020-12-18 06:02:14",
@@ -859,6 +843,22 @@
       "duration_ms": 299333,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/61PYfqEJI4JxUhr7uwBkjN"
+      },
+      "artists": [
+        {
+          "name": "The Bookouts",
+          "url": "https://open.spotify.com/artist/4mJUqOlgsaXtBDn3TjaaTF"
+        }
+      ],
+      "duration_ms": 320003,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6lv4AXg9dFv4su7MOX73tD"
     },
     {
       "added_at": "2020-12-18 06:02:14",

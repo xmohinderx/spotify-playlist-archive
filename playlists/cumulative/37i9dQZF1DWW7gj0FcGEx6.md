@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-190 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+191 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Make History](https://open.spotify.com/track/3cs78hXzKzrsx2xexZZYHr) | [Danny Bensi and Saunder Jurriaans](https://open.spotify.com/artist/7fO0iCzJh7IvVEFiFYfOC2) | [Night Sky \(Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2nmesQ2rKBppaPu8kcKf62) | 1:13 | 2022-05-20 |  |
 | [Mama's Got a Brand New Hammer \- From "Thor: Love and Thunder"](https://open.spotify.com/track/4SIfcQHmeKQ7F3K6Tbz5gK) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mama's Got a Brand New Hammer \(From "Thor: Love and Thunder"\)](https://open.spotify.com/album/5aO8YZeagny83StfnND4jG) | 6:08 | 2022-07-08 |  |
 | [Mando Is Back](https://open.spotify.com/track/7utTE8XHVCpQXC8PdtBjIL) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Season 2 \- Vol\. 1 \(Chapters 9\-12\) \[Original Score\]](https://open.spotify.com/album/2NxNzw1ohPc2Hhjaq2j3tW) | 4:04 | 2021-12-20 | 2022-08-20 |
-| [Mane Title](https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4g03IkKXYEjG1vei9WB2Hx) | 3:01 | 2022-10-07 |  |
+| [Mane Title](https://open.spotify.com/track/1MmTr1ahz7VuHhsCKYONz4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4g03IkKXYEjG1vei9WB2Hx) | 3:01 | 2022-10-07 | 2022-11-04 |
+| [Mane Title](https://open.spotify.com/track/6bh3vf93ab2mBMpsJnj8BC) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Marvel Studios' Werewolf By Night \(Original Soundtrack\)](https://open.spotify.com/album/4TKivMxK8tgOYu4OOsSFqk) | 3:01 | 2022-10-28 |  |
 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 | 2022-05-27 |  |
 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 | 2021-12-20 | 2022-07-09 |
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |

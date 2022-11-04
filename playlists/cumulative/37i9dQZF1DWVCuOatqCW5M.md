@@ -2,9 +2,9 @@
 
 ### [New Music Friday Hindi ](https://open.spotify.com/playlist/37i9dQZF1DWVCuOatqCW5M)
 
-> New music from popular Hindi artists\. Cover\- Ananya Birla & Ankur Tewari
+> New music from popular Hindi artists\. Cover\- Amit Trivedi
 
-289 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
+290 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/0VW1oqwEBCO9XMfaGKderP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Jaane De](https://open.spotify.com/track/6BFBH6s2N4fMA4Huwq88mB) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Jaane De](https://open.spotify.com/album/4Exxf3P4vKBpbJsyZEBj6c) | 3:00 | 2022-07-29 | 2022-09-16 |
 | [Jaane Kaise](https://open.spotify.com/track/3kfq4RYXDjt2lS0004Uz0s) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI), [ANA](https://open.spotify.com/artist/4tqpVHY6GZqYwhNMFrhnkA) | [Jaane Kaise](https://open.spotify.com/album/2bLlrBEKtutYSzPi1DCvjO) | 3:09 | 2022-06-17 | 2022-07-30 |
 | [JAANIYA](https://open.spotify.com/track/171BpfIunw4saFc0pPJfDO) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE) | [JAANIYA](https://open.spotify.com/album/5D0XVqRiZGBTqjoy3SF1xQ) | 3:04 | 2022-08-12 | 2022-09-23 |
+| [Jadu Salona](https://open.spotify.com/track/6Eq3E0eekWhb56ZPGCmE0L) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Jadu Salona](https://open.spotify.com/album/53wnbGpczje778Zz4wBpV0) | 3:29 | 2022-11-03 |  |
 | [JADU TONA REH](https://open.spotify.com/track/3o7wfwiSBHxrUIYqhy0aMi) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w), [VIDIT SHARMA](https://open.spotify.com/artist/6r8fa3fmm7fY6mp7TcPQ4L) | [JADU TONA REH](https://open.spotify.com/album/5mnsUYMqcgy7Tp77hxATRH) | 3:04 | 2022-09-30 |  |
 | [Jhootha](https://open.spotify.com/track/1IOPDC8MVzSncKYyNaqEUS) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Jhootha](https://open.spotify.com/album/6CfPxegjXJ540ABIQDT4Y5) | 2:09 | 2022-07-01 | 2022-09-02 |
 | [Jhooti Si](https://open.spotify.com/track/622d1Z8ToHDwFLlcM03qSG) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [Jhooti Si](https://open.spotify.com/album/4Ub1jx5nfoC9iZIPge9J09) | 2:45 | 2022-07-15 | 2022-09-09 |

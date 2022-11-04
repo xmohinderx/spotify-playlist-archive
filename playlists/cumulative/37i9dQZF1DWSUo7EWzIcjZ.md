@@ -4,7 +4,7 @@
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-349 songs - 1 day 1 hr 45 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
+351 songs - 1 day 1 hr 54 min - [published](https://open.spotify.com/playlist/183mhwZXE4Kk3Wza9Sli0B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Cometa Blanca](https://open.spotify.com/track/2oZ1qKVTkE7oGgkWXiYmFy) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3kFLjfTZAl87oog3QwiHFc) | 4:11 | 2021-02-02 |  |
 | [Cometa Blanca](https://open.spotify.com/track/6pRGEhJG6X2rn1CDKvMAs3) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Indetenibles](https://open.spotify.com/album/3GZNzx7s4rnSySH0QEQsDL) | 4:11 | 2021-02-02 | 2022-07-28 |
 | [Como Duele \- En Vivo](https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [En Vivo](https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56) | 4:33 | 2021-02-02 |  |
-| [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 | 2021-02-02 |  |
+| [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 | 2021-02-02 | 2022-11-04 |
 | [Como Tu](https://open.spotify.com/track/7c2amBoetVl3MdPuVbnIZO) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:04 | 2021-02-02 |  |
 | [Como una Loba](https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Chicán](https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF) | 4:22 | 2021-02-02 | 2022-07-29 |
 | [Con las Manos en la Masa](https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:02 | 2021-02-02 |  |
@@ -91,7 +91,7 @@
 | [Devorame Otra Vez](https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:56 | 2021-02-02 |  |
 | [Dile](https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 5:02 | 2021-02-02 |  |
 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 | 2021-02-02 |  |
-| [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 | 2021-02-02 |  |
+| [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 | 2021-02-02 | 2022-11-04 |
 | [El Africano](https://open.spotify.com/track/2L9fXUABVjV0DJX6EMIWnF) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/53Rot2HgYDSmHDMFlZ8C52) | 4:32 | 2021-02-02 | 2022-07-29 |
 | [El Africano](https://open.spotify.com/track/1F7EGYVJiBusFa9AYML6j9) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/2CC43bAaJtJpDpbIr2fqZ8) | 4:33 | 2021-02-02 | 2022-10-14 |
 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 | 2021-02-02 |  |
@@ -206,6 +206,7 @@
 | [Me Mata La Pena](https://open.spotify.com/track/5PcCjMn4lzglO9snfB4d46) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Duro](https://open.spotify.com/album/4qxrLBXemtIN9pUphKSCfb) | 4:07 | 2021-02-02 | 2022-07-27 |
 | [Me Muero por Ella](https://open.spotify.com/track/6DOrwB5ioj8VkWtSXVl87x) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Alex](https://open.spotify.com/album/40Za9vSKJEoLu4pC4qzby5) | 4:46 | 2021-02-02 | 2022-07-29 |
 | [Me Muero por Ella](https://open.spotify.com/track/1NmbnQvsKdJO0tq8yj72UH) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Los Grandes de Alex Bueno](https://open.spotify.com/album/09BCb97HwkwDhDjwpFHRjH) | 4:45 | 2021-02-02 | 2022-10-15 |
+| [Me Muero por Ella](https://open.spotify.com/track/3CahlEpTwbJrpXVi4J1LbC) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Orquesta Liberacion](https://open.spotify.com/artist/6AiIFo4TiG53Z1Tt3WMrJz) | [Los Grandes de Alex Bueno](https://open.spotify.com/album/5Q8vbmNVa4vvk9StCDArO0) | 4:45 | 2021-02-02 |  |
 | [Me Olvide De Vivir](https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:51 | 2021-02-02 |  |
 | [Me Tiene Amarrao](https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:26 | 2021-02-02 | 2022-07-27 |
 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 | 2021-02-02 | 2022-07-29 |
@@ -340,6 +341,7 @@
 | [Vete y Dile](https://open.spotify.com/track/2qlsW9JoDmXNyM7odbFxmn) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/2EQqKxpUQUnqFXgcavxRap) | 4:51 | 2021-02-02 | 2022-07-27 |
 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 | 2021-02-02 |  |
 | [Vete Y Dile](https://open.spotify.com/track/1iLUBSgZa6UpvxMMnwn4AP) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete Y Dile](https://open.spotify.com/album/2YCyR7ThO9WYIrQVGVPWex) | 4:56 | 2021-02-02 | 2022-07-22 |
+| [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2021-02-02 |  |
 | [Volveré](https://open.spotify.com/track/1nx8LYdtn1P2in90MGnTNv) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/2CC43bAaJtJpDpbIr2fqZ8) | 4:19 | 2021-02-02 | 2022-10-15 |
 | [Volveré](https://open.spotify.com/track/3nJNHRkN1trYcu4qbYAP42) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Los Años Dorados](https://open.spotify.com/album/54w4Eq513twhgfb62Jb7W3) | 4:21 | 2021-02-02 | 2022-07-29 |
 | [Volvio Juanita](https://open.spotify.com/track/2lsID1nDbyiP1NEd5zntlh) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Lo Mejor de Milly y los Vecinos](https://open.spotify.com/album/4uHYjoKQaSFTYlClgkpHgj) | 4:29 | 2021-02-02 | 2022-07-29 |

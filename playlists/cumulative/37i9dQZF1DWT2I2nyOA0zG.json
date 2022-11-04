@@ -249,7 +249,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 171764,
       "name": "Bad Man Wicked",
       "url": "https://open.spotify.com/track/7FMQObjJyy8iEOnhgrjRyb"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 169549,
       "name": "Ina Jin",
       "url": "https://open.spotify.com/track/5sMl6iTfwS97ZxsuZNpwro"
@@ -1986,6 +1986,32 @@
     },
     {
       "album": {
+        "name": "Olorun Maje",
+        "url": "https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161262,
+      "name": "Olorun Maje",
+      "url": "https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/4RGIttt0mc1TFsYSvigowx"
       },
@@ -2668,6 +2694,24 @@
     },
     {
       "album": {
+        "name": "Things I Know",
+        "url": "https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170457,
+      "name": "Things I Know",
+      "url": "https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb"
+    },
+    {
+      "album": {
         "name": "Tugela Fairy",
         "url": "https://open.spotify.com/album/3MlcN8FdjM15IID3d9Jxqk"
       },
@@ -2741,7 +2785,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 207029,
       "name": "Waxtu",
       "url": "https://open.spotify.com/track/0rVGeHX2i6H5Entk7tUiiH"

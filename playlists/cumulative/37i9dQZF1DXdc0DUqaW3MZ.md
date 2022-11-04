@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-300 songs - 18 hr 7 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
+301 songs - 18 hr 11 min - [published](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ain't Got Time](https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Ain't Got Time](https://open.spotify.com/album/7mp9bymNyNtAlbLLVezPMi) | 4:49 | 2021-12-07 | 2022-07-29 |
 | [Alcoholics](https://open.spotify.com/track/4GZEdwnAiQ96UmhiPetw33) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Alcoholics](https://open.spotify.com/album/0J0mRYqZxDuqLsylq1mVuE) | 4:13 | 2021-12-07 | 2022-07-26 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-07 | 2022-07-29 |
-| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 |  |
+| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 | 2022-11-04 |
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
 | [Alright](https://open.spotify.com/track/6lOgdgJ7fdTmvQuUV3JrEH) | [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Real](https://open.spotify.com/album/5fZ4UkwUPHAgEtSvaKBOmT) | 2:59 | 2022-04-11 | 2022-04-21 |
@@ -44,6 +44,7 @@
 | [Blessa \(Instrumental\)](https://open.spotify.com/track/6D6HuWcYLPzlseIYMMWFJj) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Causers of This \(Instrumentals\)](https://open.spotify.com/album/290ghiRHbiFBPKj7I2lyyZ) | 2:33 | 2021-12-07 | 2022-07-19 |
 | [Blind Spot](https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6) | [404 Guild](https://open.spotify.com/artist/3mgH0hO1O28tYKhsucv0PG) | [Blind Spot](https://open.spotify.com/album/51uCOdwePGPzgZod5rLejM) | 5:26 | 2021-12-07 | 2022-07-20 |
 | [Blossoming](https://open.spotify.com/track/14KUweApw0Plx1eDyGvmHz) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Getting Late](https://open.spotify.com/album/5E2d2k56eIryNPIK9Emndj) | 5:03 | 2021-12-07 | 2022-04-18 |
+| [Boy Blue](https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Pleasure \(Now & Forever\)](https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn) | 4:06 | 2022-06-20 |  |
 | [Boy Blue](https://open.spotify.com/track/3YJJSXwimdwUQCwp6VJ1wG) | [Buddy Love](https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf) | [Boy Blue](https://open.spotify.com/album/3RzSH56kLtQC7Eqb2uM5K2) | 4:06 | 2021-12-07 | 2022-07-29 |
 | [Brave](https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Brave](https://open.spotify.com/album/2GhCFi94vVW8aS85gLUDs0) | 2:36 | 2021-12-07 | 2022-07-29 |
 | [Breathe In](https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Breathe In](https://open.spotify.com/album/0hYKGS3p35SyociDHoyczQ) | 3:57 | 2021-12-07 |  |

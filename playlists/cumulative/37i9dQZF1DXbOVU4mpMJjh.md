@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-426 songs - 1 day 11 hr 5 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
+427 songs - 1 day 11 hr 9 min - [published](https://open.spotify.com/playlist/29i7snURyHbowNmRmTZEnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-06 |  |
 | [Not Too Hot](https://open.spotify.com/track/0FoNYyoLC8Jj12GQggux8T) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Not Too Hot](https://open.spotify.com/album/4qOxXHChJ2JsAkT3Id2zQf) | 4:47 | 2022-06-28 | 2022-10-08 |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-30 |  |
-| [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-05-31 |  |
+| [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 | 2022-05-31 | 2022-11-04 |
 | [Nutty](https://open.spotify.com/track/4QJjZTmlH1uRASWDToRqIH) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Mønk](https://open.spotify.com/album/58DTuFhzbm89Ad9S4ybQXQ) | 9:29 | 2022-08-29 | 2022-09-16 |
 | [Nutty](https://open.spotify.com/track/59SSp2gvGhJAOpjrP9GxvU) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Mønk](https://open.spotify.com/album/39iofgNbJqHFHeWS1vIcj4) | 9:29 | 2022-04-14 | 2022-07-29 |
 | [O Ephraim](https://open.spotify.com/track/44RqZJPfSALL7TqrjsR7BP) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [O Ephraim](https://open.spotify.com/album/2CoUa0vNdoOs05aDBuLOyE) | 5:21 | 2022-04-14 | 2022-07-29 |
@@ -354,6 +354,7 @@
 | [Sweetness](https://open.spotify.com/track/3MU1qPFFyJQy1RbmpLH0mb) | [Roger Kellaway](https://open.spotify.com/artist/1NueKSreiFLxEJ1ml6nT8Q), [Jay Leonhart](https://open.spotify.com/artist/5qIlfIzgiSefp5rj8CtYK1), [Peter Erskine](https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi) | [New Jazz Standards Vol 3](https://open.spotify.com/album/7gUF7bwjWoEvG8ycUOxPxz) | 6:59 | 2022-04-14 | 2022-10-08 |
 | [Take it Easy](https://open.spotify.com/track/1OtbM7rrVYpgXnMVkCCAcx) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Take It Easy](https://open.spotify.com/album/54n66QMZgLNyu9stND0PgQ) | 5:48 | 2022-04-14 | 2022-09-23 |
 | [Taking a Chance on Love](https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF) | [V\. Duke](https://open.spotify.com/artist/28wBiD1oyqCarVwYuTJVv9), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Taking A Chance On Love](https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W) | 3:18 | 2022-04-14 | 2022-05-03 |
+| [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 |  |
 | [Taplow](https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [Return to Mind](https://open.spotify.com/album/6sLdkFvDQyNLhpHkhWMNEr) | 4:44 | 2022-04-14 | 2022-09-23 |
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-06-28 | 2022-09-30 |
 | [Tenderly](https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [An Introduction To Sarah Vaughan](https://open.spotify.com/album/6luprPJCSNzTR0qGQOSlWE) | 2:31 | 2022-04-14 | 2022-10-08 |

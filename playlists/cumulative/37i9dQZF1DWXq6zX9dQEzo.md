@@ -4,7 +4,7 @@
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-375 songs - 19 hr 2 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
+376 songs - 19 hr 6 min - [published](https://open.spotify.com/playlist/2BcyUtPNa5ofBEse5V2Mjq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Azusa](https://open.spotify.com/track/4K7SaRHg1R95srP3qkuIMc) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [KidViz](https://open.spotify.com/artist/0zdB6fxQincSsBOLaTmpEe), [NK4](https://open.spotify.com/artist/1GRzvJv7AcvEnLnJYvpUgc) | [Azusa](https://open.spotify.com/album/1rZSR3Wyyk7ZhCJLGbvjY9) | 3:16 | 2022-10-01 |  |
 | [Bacha Drill](https://open.spotify.com/track/5ClmUS0EX91calScR72J1Y) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Bacha Drill](https://open.spotify.com/album/51v88qgd9pBDcreNctPsjr) | 3:22 | 2022-02-04 | 2022-05-11 |
 | [Back Then](https://open.spotify.com/track/4vSOPcWRHOxoXHfHZTUVLi) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 4:26 | 2022-04-30 |  |
+| [BackFromTheDEAD](https://open.spotify.com/track/0371OjQuEOBPvWpIb57CId) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:35 | 2022-10-01 |  |
 | [BackFromTheDEAD](https://open.spotify.com/track/78C9EoGlquveRwSxGTMYWz) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [BackFromTheDEAD](https://open.spotify.com/album/1QLo8FSmf3uw0krewhQ4TU) | 4:35 | 2022-02-04 | 2022-10-04 |
 | [BackFromTheDEAD](https://open.spotify.com/track/7x9BU4heU6sRyxSOsqWlVB) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [BackFromTheDEAD](https://open.spotify.com/album/70KmscuOxB2bTBpdKwfsYD) | 4:35 | 2022-10-01 | 2022-10-31 |
 | [BADMAN](https://open.spotify.com/track/4TIg48icSzqwThnahl0tR1) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [BADMAN](https://open.spotify.com/album/2eHRubiT5zlBfrr2Mz5CVQ) | 2:38 | 2022-03-23 | 2022-07-28 |
@@ -309,7 +310,7 @@
 | [Stop](https://open.spotify.com/track/25zS8gq7dkaXieDRMuj5vS) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Stop](https://open.spotify.com/album/4OvPeGJUu03SZ6ocHlxs5W) | 2:42 | 2022-04-30 | 2022-08-15 |
 | [Stop Me](https://open.spotify.com/track/5t3Lsr5pfGYWsEfAnZUfEa) | [Christon Gray](https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2) | [The Glory Album](https://open.spotify.com/album/5soj2uolyYOjlt5y6N2N7j) | 3:30 | 2022-02-04 | 2022-04-30 |
 | [Story of Our Love \(Remix\)](https://open.spotify.com/track/0oDvkijT0QEPvHRUx9cedz) | [ZOE Music](https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q) | [Story of Our Love \(Remix\)](https://open.spotify.com/album/0SJ8xAyevSx07cmaF4mHfI) | 3:05 | 2022-02-04 | 2022-07-18 |
-| [Stratosphere](https://open.spotify.com/track/5buWQydDqMzxBL6P3yKoPX) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Barely Finished 2](https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO) | 1:57 | 2022-02-04 |  |
+| [Stratosphere](https://open.spotify.com/track/5buWQydDqMzxBL6P3yKoPX) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Barely Finished 2](https://open.spotify.com/album/6HZMhMlwFMxwDsfhYV6FYO) | 1:57 | 2022-02-04 | 2022-11-04 |
 | [Striking Matches \(feat\. 1K Phew & TNED\)](https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5) | [theBeatbreaker](https://open.spotify.com/artist/6QJCYAKI6fPSDmXHeliNNu), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [TNED](https://open.spotify.com/artist/1wG3mhMC241gq1jwwRsBHT) | [Heard Not Seen III](https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk) | 3:15 | 2022-02-04 | 2022-09-03 |
 | [Stuck Inside My Head \- Single Mix](https://open.spotify.com/track/4G4IZFfD1gyUCYDt8MKccy) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Stuck Inside My Head](https://open.spotify.com/album/4YOdEJwb4cA5iR7drggxud) | 3:17 | 2022-02-04 |  |
 | [Stuff Back](https://open.spotify.com/track/0WaH16I2aMeqSszLizdWBC) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7), [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [Church](https://open.spotify.com/artist/7u7GeFTkX2dqwUkwDhMOJW) | [Stuff Back](https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC) | 3:13 | 2022-10-01 |  |

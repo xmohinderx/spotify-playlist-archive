@@ -1,12 +1,12 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 523996,
+  "num_followers": 524065,
   "original_name": "Sexy As Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDA2MzlmMWNmMjcwODY4NDVmY2YwNmE0MDczOWJiNTM3",
+  "snapshot_id": "MTYxNjEyNjUyMCwwMDAwMDAwMDY5ZGM4MTE4NTc2YzQ2NWRkNTBiODQzN2QxMzgwOGIw",
   "tracks": [
     {
       "added_at": "2021-03-19 04:02:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Ashkelon",
-        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 313867,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Theatrics",
         "url": "https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 218332,
       "name": "By Night",
       "url": "https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Ashkelon",
+        "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 313867,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
     },
     {
       "added_at": "2021-03-19 04:02:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2021-03-19 04:02:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 171640,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
-    },
-    {
-      "added_at": "2021-03-19 04:02:00",
-      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 190093,
       "name": "Slow Mover",
       "url": "https://open.spotify.com/track/2lfr66vjbblfcA12mv0O9P"
+    },
+    {
+      "added_at": "2021-03-19 04:02:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3ESjXFvI5GUNFoCCg30u5s"
     },
     {
       "added_at": "2021-03-19 04:02:00",

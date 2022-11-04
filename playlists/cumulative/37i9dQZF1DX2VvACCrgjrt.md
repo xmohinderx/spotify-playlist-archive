@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Malaa
 
-354 songs - 18 hr 57 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+355 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Deja Vu](https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI) | [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Confession](https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1) | [Deja Vu](https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX) | 3:05 | 2022-04-01 |  |
 | [Diamonds](https://open.spotify.com/track/3lP4T0m8KHEiHP4DnbL8My) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Diamonds](https://open.spotify.com/album/5hUSbbJj0G26FMHIzsnNTU) | 3:23 | 2022-03-18 | 2022-09-11 |
 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 | 2022-03-18 | 2022-07-30 |
-| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 |  |
+| [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 | 2022-11-04 |
 | [Dipped In $ugar](https://open.spotify.com/track/37IKuXFdoYsfL4RyoxhO6k) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Dipped In $ugar](https://open.spotify.com/album/0NBWcDaIvs1YxDeuLkqA5Y) | 3:50 | 2022-09-09 |  |
 | [Direct Me](https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Direct Me](https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy) | 3:52 | 2022-07-22 |  |
 | [Discipline \(with Tchami\)](https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 4:00 | 2022-09-30 |  |
@@ -303,6 +303,7 @@
 | [Sunglasses At Night](https://open.spotify.com/track/0Zst3tJ1WhBLfmISlV9JKZ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Sunglasses At Night](https://open.spotify.com/album/4dTRTGMiV1kR5v4LJMyz8m) | 2:35 | 2021-10-29 | 2022-07-30 |
 | [Supah Fly](https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Supah Fly](https://open.spotify.com/album/2wmk33OnnDzrrPPydJcpsd) | 3:01 | 2022-10-07 |  |
 | [Surdose](https://open.spotify.com/track/4LC69zHD4ErGxZZBzHpThq) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu) | [Surdose](https://open.spotify.com/album/6ky2LQD22BcQtCeqyxRmfr) | 4:00 | 2022-04-29 | 2022-10-13 |
+| [Surdose](https://open.spotify.com/track/117bHhXQMRhZPpAQ9JF7PY) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Surdose](https://open.spotify.com/album/5QrtzLtFshW96oO7VGVRiB) | 4:00 | 2022-07-22 |  |
 | [T.T.Y.N.](https://open.spotify.com/track/6qhrjDnGgfSsVOLaRBWn3v) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Diede](https://open.spotify.com/artist/2sNBakZRs72upiLJFzAQLZ) | [T.T.Y.N.](https://open.spotify.com/album/3uulBOCnvOz8ZhYyvx2cis) | 3:06 | 2022-02-04 | 2022-07-30 |
 | [Take A Step Back](https://open.spotify.com/track/7tQcHPmcQ22XiCW9Qz0nfT) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Take A Step Back](https://open.spotify.com/album/1DQqtdDaW18tieKVVV1CoK) | 2:40 | 2021-10-29 | 2022-05-28 |
 | [Take It Off](https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Take It Off](https://open.spotify.com/album/3SBO8m8bECaZIod2JiIzse) | 3:40 | 2021-10-29 | 2022-01-21 |

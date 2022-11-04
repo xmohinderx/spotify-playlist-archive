@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 1990s.",
-  "num_followers": 397146,
+  "num_followers": 397802,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMGU1YTliMzY0MGJlOGQ2NDgyMzg2NmNkYTlmNWUxMDMx",
+  "snapshot_id": "MTY2NDI1ODU0NSwwMDAwMDAwMDE5M2I5Mzc0OTExMTc4MzBiODA5MzE3NWI4OTI4OTM5",
   "tracks": [
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "White On Blonde",
-        "url": "https://open.spotify.com/album/7KTPTo8TwG1firY7MAUJDl"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 233866,
-      "name": "Say What You Want",
-      "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "White On Blonde",
+        "url": "https://open.spotify.com/album/7KTPTo8TwG1firY7MAUJDl"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
         }
       ],
-      "duration_ms": 241026,
-      "name": "2 Become 1",
-      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+      "duration_ms": 233866,
+      "name": "Say What You Want",
+      "url": "https://open.spotify.com/track/0oSS8NUmfgaX52yTuQWnen"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 253093,
       "name": "That's Why You Go Away",
       "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "2 Become 1",
+      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Vagabond Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Have I Told You Lately - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 249520,
       "name": "Baby, I Love Your Way",
       "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Vagabond Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Have I Told You Lately - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 218504,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Chant Down Babylon",
         "url": "https://open.spotify.com/album/4hV6TxaUkzEi4wUN6Fd0s7"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 346333,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/7I1fHMDNlHobS8SBUJAUDt"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 218504,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Gold Experience",
-        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "The Most Beautiful Girl In the World",
-      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Brian McKnight",
         "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 295357,
       "name": "One Last Cry",
       "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
-        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "Can You Feel the Love Tonight",
-      "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Colours (2014 Remaster)",
         "url": "https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 264000,
       "name": "25 Minutes - 2014 Remaster",
       "url": "https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
+        "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Unplugged (Deluxe Edition) [Live]",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Westlife",
         "url": "https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN"
       },
@@ -2655,22 +2671,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Come On Over (International Version)",
-        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "You've Got A Way",
-      "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Said And Done",
         "url": "https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4"
       },
@@ -2683,6 +2683,22 @@
       "duration_ms": 166760,
       "name": "Father And Son",
       "url": "https://open.spotify.com/track/0zyHakmAg2HQaFjCyMgiOZ"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Come On Over (International Version)",
+        "url": "https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "You've Got A Way",
+      "url": "https://open.spotify.com/track/3E714D9pZURRdgJ6iGhc8E"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2791,22 +2807,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Unplugged (Deluxe Edition) [Live]",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
-      "url": "https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -2855,22 +2855,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Whaler",
-        "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
-      },
-      "artists": [
-        {
-          "name": "Sophie B. Hawkins",
-          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "As I Lay Me Down",
-      "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/4bdoso638zheKxQLBJxn2i"
       },
@@ -2887,18 +2871,18 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+        "name": "Whaler",
+        "url": "https://open.spotify.com/album/2oKbwv9ClTQKWHHTKCqN59"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Sophie B. Hawkins",
+          "url": "https://open.spotify.com/artist/3gdIwZY6Q3RXhDteYr4ZvC"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Four Seasons In One Day",
-      "url": "https://open.spotify.com/track/7sDHD9tCtnPqGNTRHy0kSR"
+      "duration_ms": 248893,
+      "name": "As I Lay Me Down",
+      "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2919,6 +2903,22 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Four Seasons In One Day",
+      "url": "https://open.spotify.com/track/7sDHD9tCtnPqGNTRHy0kSR"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
         "name": "Black Gold: The Best Of Soul Asylum",
         "url": "https://open.spotify.com/album/6RARuzN6pIZZnQKwPeY7xQ"
       },
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Size Isn't Everything",
-        "url": "https://open.spotify.com/album/7JOsP4Thh20VLmsGqy7pDQ"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 306533,
-      "name": "For Whom The Bell Tolls",
-      "url": "https://open.spotify.com/track/4jVu0QPK9BVeNgAmfvkocn"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Crash! Boom! Bang! (Extended Version)",
         "url": "https://open.spotify.com/album/3f5WapBpTtNqVF079EhUhV"
       },
@@ -2963,6 +2947,22 @@
       "duration_ms": 300973,
       "name": "Vulnerable",
       "url": "https://open.spotify.com/track/4JAi20NP5hkUpaKvwtX1nO"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Size Isn't Everything",
+        "url": "https://open.spotify.com/album/7JOsP4Thh20VLmsGqy7pDQ"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 306533,
+      "name": "For Whom The Bell Tolls",
+      "url": "https://open.spotify.com/track/4jVu0QPK9BVeNgAmfvkocn"
     },
     {
       "added_at": "2022-03-21 23:00:00",
@@ -2999,22 +2999,6 @@
     {
       "added_at": "2022-03-21 23:00:00",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "I Will Come To You",
-      "url": "https://open.spotify.com/track/6ZIuoDs3i1KjKurJf9miSs"
-    },
-    {
-      "added_at": "2022-03-21 23:00:00",
-      "album": {
         "name": "Steam",
         "url": "https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd"
       },
@@ -3027,6 +3011,22 @@
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+    },
+    {
+      "added_at": "2022-03-21 23:00:00",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "I Will Come To You",
+      "url": "https://open.spotify.com/track/6ZIuoDs3i1KjKurJf9miSs"
     },
     {
       "added_at": "2022-03-21 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 26374,
+  "num_followers": 26387,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGQwOTEzOTkxYzcyMTBlMzM2MjM3MTU4NjMwZmYxOWFi",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDc0NmYzZWNiZjVlZGIxNTA3NWRlYTZmOWQ4NDM5MTA3",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -595,6 +595,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Businessman",
+        "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
+      },
+      "artists": [
+        {
+          "name": "Rahul Nambiar",
+          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        }
+      ],
+      "duration_ms": 253700,
+      "name": "Pilla Chao",
+      "url": "https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Daang Daang (From \"Sarileru Neekevvaru\")",
         "url": "https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh"
       },
@@ -619,18 +635,22 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Businessman",
-        "url": "https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz"
+        "name": "Savyasachi",
+        "url": "https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3"
       },
       "artists": [
         {
-          "name": "Rahul Nambiar",
-          "url": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+          "name": "Prudhvi Chandra",
+          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
+        },
+        {
+          "name": "Mounima C.H.",
+          "url": "https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd"
         }
       ],
-      "duration_ms": 253700,
-      "name": "Pilla Chao",
-      "url": "https://open.spotify.com/track/0AEoopl9xD5DDfs0R3Aqqs"
+      "duration_ms": 219858,
+      "name": "Ninnu Road Meedha",
+      "url": "https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -651,26 +671,6 @@
       "duration_ms": 264823,
       "name": "Mind Block",
       "url": "https://open.spotify.com/track/4q4PNCWRo90nUTILn6Y048"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Savyasachi",
-        "url": "https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3"
-      },
-      "artists": [
-        {
-          "name": "Prudhvi Chandra",
-          "url": "https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR"
-        },
-        {
-          "name": "Mounima C.H.",
-          "url": "https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd"
-        }
-      ],
-      "duration_ms": 219858,
-      "name": "Ninnu Road Meedha",
-      "url": "https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -711,26 +711,6 @@
       "duration_ms": 176476,
       "name": "Muqabla (From \"Street Dancer 3D\") [Telugu]",
       "url": "https://open.spotify.com/track/5LWtYEKVLEpk4FBdGhZKxy"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
-        "name": "Khaidi No 150",
-        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "Ratthaalu",
-      "url": "https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -791,6 +771,26 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
+        "name": "Khaidi No 150",
+        "url": "https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "Ratthaalu",
+      "url": "https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
         "name": "Kumari 21 F",
         "url": "https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Jaspreet Jasz",
-          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Family Party",
-      "url": "https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Tholi Prema",
         "url": "https://open.spotify.com/album/2wRphkgnlcGKkJIjZpxNvb"
       },
@@ -879,22 +863,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "MCA",
-        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        }
-      ],
-      "duration_ms": 197321,
-      "name": "MCA",
-      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Chintakayala Ravi",
         "url": "https://open.spotify.com/album/1nHiBkB9AwH5ULXkdBrXEl"
       },
@@ -907,6 +875,22 @@
       "duration_ms": 317339,
       "name": "Valla Valla",
       "url": "https://open.spotify.com/track/5rUFCgDTt4jARMNuLj5xgF"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Family Party",
+      "url": "https://open.spotify.com/track/2cOBMRGCQ3Qi7gHrTELdHn"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -939,6 +923,22 @@
       "duration_ms": 288891,
       "name": "Aadathanama",
       "url": "https://open.spotify.com/track/0MU4LT5akvYfbRKXBfBlPY"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "MCA",
+        "url": "https://open.spotify.com/album/5sy3FZiEsKg1Kp4NaoJYuN"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 197321,
+      "name": "MCA",
+      "url": "https://open.spotify.com/track/7h5QJLJ1KtgChdKnj8kXqG"
     },
     {
       "added_at": "2021-06-24 14:44:57",

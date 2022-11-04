@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Good Doctor\(굿닥터\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-90 songs - 5 hr 31 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
+92 songs - 5 hr 39 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2022-05-09 |  |
 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 | 2022-05-09 |  |
 | [breath](https://open.spotify.com/track/2Jj5O7jDSKkgsSTTuGuQc4) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [A Kiss at Tiffany's \(Original Soundtrack\), Part.1](https://open.spotify.com/album/4MAj4sqXeEyqtzEeWnOUGs) | 3:15 | 2022-05-09 |  |
+| [Cinderella's Love \(Daily JoJo\)](https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Daily JoJo \(Original Webtoon Soundtrack\) Pt.2](https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW) | 2:56 | 2022-11-03 |  |
 | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG) | 3:27 | 2022-05-09 |  |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-05-09 |  |
 | [Cry Baby](https://open.spotify.com/track/7vBX6cVsCPFSx2C58hpZ4f) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Cry Baby](https://open.spotify.com/album/0OWATchDPifiDyvGEf2ddO) | 4:00 | 2022-05-09 | 2022-07-29 |
@@ -56,6 +57,7 @@
 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 | 2022-05-09 |  |
 | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/track/3AxlCZSy0Yk9vQfAW6l4rI) | [Lee Hae Ri](https://open.spotify.com/artist/7JE09i08qDhfHKd0rgFeEe) | [Love is always thisty \(Nth Romance X Lee Hae Ri\)](https://open.spotify.com/album/1hYLPYFP9kprWeymUwGIN1) | 4:36 | 2022-05-09 |  |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 |  |
+| [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-03 |  |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-06-20 |  |
 | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/track/5VMzbtKYJUMwE358F4aa9Z) | [Minhyun](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Moonlight \(From ''Love Revolution'' Original Webtoon Soundtrack\)](https://open.spotify.com/album/3NyfTWpWxCZD0kI0zmBITJ) | 3:14 | 2022-05-09 |  |
 | [My Love is Pain](https://open.spotify.com/track/4de2K1NmgYTYiuCp1EioYs) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Love is Pain \(Marriage Or Death X Mad Clown, Sondia\)](https://open.spotify.com/album/7glE3yJAC0V371XkEJYVqf) | 3:42 | 2022-05-09 |  |

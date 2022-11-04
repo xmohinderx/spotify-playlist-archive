@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,600 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,610 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 34 | [Boowhal\(부활\) \- Stage Comment 6](https://open.spotify.com/track/4KD74zcYQGc4cm1bn2Gm6Q) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 3:19 |
 | 35 | [Never Ending Story](https://open.spotify.com/track/31wYm3i0uTz0GF94DohUME) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [20th Anniversary Live In 2005](https://open.spotify.com/album/4INEvHrcuER5r0znFZ7fW0) | 4:11 |
 | 36 | [Boowhal\(부활\) \- Stage Comment 7](https://open.spotify.com/track/2MGdJKGEN9mireV7hudDDP) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:58 |
-| 37 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [부활](https://open.spotify.com/artist/1aQ0ylOjvfZSuvUjTRGfha) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
+| 37 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 |
 | 38 | [Boowhal\(부활\) \- Stage Comment 8](https://open.spotify.com/track/66c3C1YCJgma9P4DoengeQ) | [Boowhal](https://open.spotify.com/artist/3FhvgB7cIvT7kMV6ON5USS) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:07 |
 | 39 | [Crying Nut\(크라잉넛\) \- Stage Comment 1](https://open.spotify.com/track/6YPf8MeNsKxqyuStlII7Vz) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [BUSAN INTERNATIONAL ROCK FESTIVAL](https://open.spotify.com/album/67dY021WnfITvMc4ba8eSa) | 0:11 |
 | 40 | [Luxembourg \- 25th Anniversary Version](https://open.spotify.com/track/14gxdvmpmIn00fik2aJZJM) | [Crying Nut](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [CRYING NUT 25th Anniversary Best Album](https://open.spotify.com/album/3LCvmUeoynudUbGfTCPkko) | 2:51 |

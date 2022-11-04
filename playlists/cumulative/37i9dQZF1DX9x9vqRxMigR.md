@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-334 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
+335 songs - 22 hr 6 min - [published](https://open.spotify.com/playlist/77WoQGjdtAfs1yp2VHvlry)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Dinossauros](https://open.spotify.com/track/6g0o3FK5GqsjPV488bBtDj) | [Dingo Bells](https://open.spotify.com/artist/3pnpaEYzaDj5zJluhXbVrG) | [Maravilhas da Vida Moderna](https://open.spotify.com/album/5x6uNZEzkJ78HK4Tg5UvKU) | 4:26 | 2021-02-23 | 2022-04-26 |
 | [Dirty Blues](https://open.spotify.com/track/2DlEnRwz2rcXaM5w3sZyCC) | [Heather Newman](https://open.spotify.com/artist/6dILx9IGvPcmvB1ZRkCyZv) | [Burn Me Alive](https://open.spotify.com/album/0oFD0u2SEMkASy4SMSA2ZF) | 4:11 | 2021-02-23 | 2022-04-26 |
 | [Dois Ali Se Amando Mesmo](https://open.spotify.com/track/1eH7t8r7vhJ57MJc4mpeVn) | [François Muleka](https://open.spotify.com/artist/5KZmSICYyJfFS1lqcF771A) | [Feijão e Sonho](https://open.spotify.com/album/5oEi9HsVuXu4WsqCXkGQWF) | 4:51 | 2021-02-23 | 2022-04-26 |
+| [Don't You Ever Change](https://open.spotify.com/track/51JX3y8j9ElKyKSP7FVvu7) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/17LG2iTmuVc1xacAu8a9gB) | 2:46 | 2022-04-25 |  |
 | [Don't You Ever Change](https://open.spotify.com/track/5c6hEWwdVsJuRFzTQMERYF) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/4XCzC4PAZ8KyL7wzqU6z8g) | [Don't You Ever Change](https://open.spotify.com/album/1iPi9KGq4x7oNH49tPoZC5) | 2:46 | 2021-02-23 | 2022-04-26 |
-| [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 | 2022-04-25 |  |
+| [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 | 2022-04-25 | 2022-11-04 |
 | [Earthquake](https://open.spotify.com/track/1GFpX3PE5atI0ZWrS2GBPe) | [LÓN](https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i) | [Earthquake](https://open.spotify.com/album/6EukX6qgoP2vDJ1kvjGsK6) | 2:49 | 2022-04-25 | 2022-07-29 |
 | [Earthquake](https://open.spotify.com/track/6k0GwkSMQfvjwOOpyD7joi) | [LÓN](https://open.spotify.com/artist/2vBlRBcTmCYA9wwF6maE3i) | [Thankfully Distracted](https://open.spotify.com/album/4hnK0PL8CRX0aWpABDp5NG) | 2:49 | 2022-04-25 |  |
 | [East Tennessee Blues \(Live\)](https://open.spotify.com/track/7lqZCwKGwdxhThFjU1vepC) | [Mike Compton](https://open.spotify.com/artist/6LZ6w8r6v69UrAhYklRG74) | [Live](https://open.spotify.com/album/1jifrKqcA2svvFRphUkBah) | 2:22 | 2022-04-25 |  |

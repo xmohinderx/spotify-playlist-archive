@@ -1,12 +1,12 @@
 {
   "description": "Son los 90 y prendes la radio.",
-  "num_followers": 12449,
+  "num_followers": 12448,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMGQwNTYzZGVjMDdmMzZkOWY4MGNiNzA1NDI4MzJmZDgx",
+  "snapshot_id": "MTY0MDU0ODQzNCwwMDAwMDAwMDc2MjJiOGEwOWIzZjIwMzAyNDhlYTQ3MzU4NGY5OWI2",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Pies Descalzos",
         "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 254240,
       "name": "Antologia",
       "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "\u00d6l\u00fcr\u00fcm Sana",
-        "url": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 235218,
-      "name": "\u015e\u0131mar\u0131k",
-      "url": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "\u00d6l\u00fcr\u00fcm Sana",
+        "url": "https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 235218,
+      "name": "\u015e\u0131mar\u0131k",
+      "url": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL"
     },
     {
       "added_at": "2021-12-26 17:51:11",

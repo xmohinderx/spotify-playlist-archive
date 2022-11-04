@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew?si=esJ5G9xcSJGjYCgmUPDCzA\"> Amerado </a> ",
+  "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=-AL74FKhRRmrcve4i1U40Q\"> Yaw TOG </a> ",
   "name": "+233 Bars ",
   "published_playlist_ids": [
     "1DNOYlQCXHEP1xefjAcAjP"
@@ -127,6 +127,24 @@
       "duration_ms": 163862,
       "name": "ANADWO",
       "url": "https://open.spotify.com/track/5w7jfLrHkTNPT0X8WqvD39"
+    },
+    {
+      "album": {
+        "name": "Aso)den",
+        "url": "https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK"
+      },
+      "artists": [
+        {
+          "name": "Yaw Tog",
+          "url": "https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Aso)den",
+      "url": "https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky"
     },
     {
       "album": {
@@ -623,7 +641,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 151846,
       "name": "Fall",
       "url": "https://open.spotify.com/track/1uCi9k8sclPF2fuYUibvC7"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 188186,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn"
@@ -1879,6 +1897,24 @@
       "duration_ms": 256782,
       "name": "Streets Ayeshi",
       "url": "https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165848,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x"
     },
     {
       "album": {

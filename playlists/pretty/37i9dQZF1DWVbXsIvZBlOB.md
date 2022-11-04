@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > Listen to Israeli women at full volume\. Cover: Nunu
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,190 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,211 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 23 | [Lay](https://open.spotify.com/track/4kg4gvKONZ1PjsWSAoJ1fS) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Lovebird](https://open.spotify.com/album/3YYuEmHBs6EiyQkDYrT4nK) | 2:50 |
 | 24 | [סוכר](https://open.spotify.com/track/6MppVuQjxN9rV4jnI2nypy) | [Eden Derso](https://open.spotify.com/artist/7sG6GYc2AsX0HNOkVdGCO4) | [משולש קדוש](https://open.spotify.com/album/5hk5va1tbx2mlGNsc9EYrJ) | 2:37 |
 | 25 | [כָּבוֹד](https://open.spotify.com/track/50MKWXRphRZPAWHm1o9Dn7) | [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [כָּבוֹד](https://open.spotify.com/album/4uhBSCwAjVHz2Bl7uwVQrE) | 3:15 |
-| 26 | [תן לי קצת זמן](https://open.spotify.com/track/5L3XWHzsFgEo9fiNZUy8qf) | [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp), [Jenny Penkinn](https://open.spotify.com/artist/0OLoCLjFUQDz5LTHulXdQo) | [תן לי קצת זמן](https://open.spotify.com/album/4ZSRMtMx3b3uEx0qhA9QZi) | 3:46 |
+| 26 | [תן לי קצת זמן](https://open.spotify.com/track/5L3XWHzsFgEo9fiNZUy8qf) | [Sabbo](https://open.spotify.com/artist/1Le4RKC0GO8sD4cRxmqlgp), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [תן לי קצת זמן](https://open.spotify.com/album/4ZSRMtMx3b3uEx0qhA9QZi) | 3:46 |
 | 27 | [קדם](https://open.spotify.com/track/39MGd1DWkfjbsywhal4Hhh) | [Maayan Linik](https://open.spotify.com/artist/6RzuwCbcn7Lxkg32uUcHLR) | [קדם](https://open.spotify.com/album/1yStdlqzam9jBtPpAPmUgW) | 3:27 |
 | 28 | [Fly \- You're Mine](https://open.spotify.com/track/4fYluChkI4HFZWBvbBTUmm) | [ECHO](https://open.spotify.com/artist/5Ezb2z7gSLMpXaG0oyacpW) | [Fly \(You're Mine\)](https://open.spotify.com/album/5fQo0BWnHHwDTTAKuD80RM) | 2:58 |
 | 29 | [I Love My Nails](https://open.spotify.com/track/2k82Sd9BFxoWlraYIjuyjM) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [I Love My Nails](https://open.spotify.com/album/5nGPsA2CATVAgLAqgKtG0I) | 3:22 |

@@ -4,11 +4,11 @@
 
 > The wave of Latinos in Hip\-Hop in the U.S\. Cover: MoneySign Suede
 
-227 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/1zMXtcZg2CxRNKT4ViRg0A)
+228 songs - 10 hr 46 min - [published](https://open.spotify.com/playlist/1zMXtcZg2CxRNKT4ViRg0A)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 |  |
+| [100 bars](https://open.spotify.com/track/71r7LCCewLhjx9eCNol4UB) | [Doeboi909](https://open.spotify.com/artist/1fEMhYVIObipE7MEYEoZvG) | [100 bars](https://open.spotify.com/album/4mZtzr9g4MZYOb9ZlzuKDz) | 5:21 | 2022-02-25 | 2022-11-04 |
 | [3D](https://open.spotify.com/track/6LiyOWO4jQa7NoRbn6QjkU) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo), [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [3D](https://open.spotify.com/album/3ORNsOzHhyeoCuYoT0lJrr) | 3:04 | 2022-09-11 |  |
 | [4 the Streets](https://open.spotify.com/track/6RFKghJxTPFzY79UvzgYC4) | [Anna Mvze](https://open.spotify.com/artist/3MbUJ6sIRDDAclLuqDfRCw) | [TTYL](https://open.spotify.com/album/4vZda19GMLK4jyaBzxOqUk) | 2:45 | 2022-03-21 | 2022-07-07 |
 | [4K](https://open.spotify.com/track/5TSGACpIB1nU7JWQt0rOOd) | [Briii](https://open.spotify.com/artist/34VzRIQKCinOPKAtCh7rPG), [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH) | [4K](https://open.spotify.com/album/1rqgi0je1KqAeM08Apkkin) | 2:15 | 2022-01-10 | 2022-02-26 |
@@ -78,6 +78,7 @@
 | [Fuck Wit A Mexican](https://open.spotify.com/track/0V6RlWK1KW32zKkH7H78id) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Bunz](https://open.spotify.com/artist/2QTbXi7ZExG92bExim8yvT), [Coast](https://open.spotify.com/artist/4g4GyrhcJS7i4iWwKEFFc0) | [Fuck Wit A Mexican](https://open.spotify.com/album/3Sr3XnToSrkCTFVQjMe8na) | 3:41 | 2022-01-10 | 2022-02-26 |
 | [Fuck Wit A Mexican](https://open.spotify.com/track/2yHCEou5cKjIQHRkmBNcLN) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Fuck Wit A Mexican](https://open.spotify.com/album/0oQ4yygV9JN2ujxxBvUmmn) | 3:41 | 2022-01-10 | 2022-06-08 |
 | [Fuck Wit A Mexican](https://open.spotify.com/track/2pDvnGWNhU8LLXzCLC56cd) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Omar Cruz](https://open.spotify.com/artist/1OoRzxfkofbsRByf8Ov6mp), [Yung Gritty](https://open.spotify.com/artist/2x1PTck7ZZ1CCQHozOji96) | [Fuck Wit A Mexican](https://open.spotify.com/album/5x2WCxHERxSeKUrCJR38bq) | 3:17 | 2022-01-31 | 2022-02-20 |
+| [Gahdamn](https://open.spotify.com/track/3y1zka5AZI6PWmuSdfr681) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Gahdamn](https://open.spotify.com/album/5TH8rOxyKftcEGSsUXTxA0) | 2:33 | 2022-11-04 |  |
 | [Gang Business](https://open.spotify.com/track/3UoaNzTBPeS7kvohi0zzQK) | [3res](https://open.spotify.com/artist/34PcmRe3AF0bKQk2SHFkjw) | [3ress](https://open.spotify.com/album/67kW7yYGTAQP9e6cnMHbLh) | 2:37 | 2022-01-10 | 2022-02-24 |
 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 | 2022-01-10 | 2022-09-12 |
 | [Get It Poppin](https://open.spotify.com/track/7Cy5wzn1s8ByyPQJNd0HgL) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Gangsta Movie](https://open.spotify.com/album/6vcgchG3L9ZrE3RZaXrcHX) | 2:26 | 2022-01-10 | 2022-07-07 |

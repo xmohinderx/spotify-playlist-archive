@@ -1,12 +1,12 @@
 {
   "description": "Classic rock favorites. Cover: Bruce Springsteen",
-  "num_followers": 212739,
+  "num_followers": 213687,
   "original_name": "Dad Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMGE3ODgyNmU0MjcwOTcxMmZjNWRkZjZkNThiYWI5NmM1",
+  "snapshot_id": "MTY2NTcyMDA2MCwwMDAwMDAwMDVmZDJlMDMxY2IxZWU2ODU5ZDg2N2IxZTMzMTk0N2Zj",
   "tracks": [
     {
       "added_at": "2022-06-15 19:50:25",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-03-04 19:00:59",
       "album": {
-        "name": "Running on Empty / Nothing but Time (Digital 45)",
-        "url": "https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL"
+        "name": "Escape (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 291893,
-      "name": "Running on Empty",
-      "url": "https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY"
+      "duration_ms": 265560,
+      "name": "Stone in Love",
+      "url": "https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI"
     }
   ],
   "unique_name": "Dad Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: Kyshona Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,208 likes - 153 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,221 likes - 153 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 10 | [Walk Me to the River](https://open.spotify.com/track/0b5qt9fdr0XsbfbPvgV1CL) | [Misty River](https://open.spotify.com/artist/4lXGbu3TUiwos5jtggGtDw) | [Walk Me to the River](https://open.spotify.com/album/1Iba00W7fjl158welETZNf) | 3:32 |
 | 11 | [I Want to See the Bright Lights Tonight](https://open.spotify.com/track/5yzXmGleWUhbSAossEPScG) | [BettySoo](https://open.spotify.com/artist/1zyOUBRKVnM6VbtzYE4piR) | [I Want to See the Bright Lights Tonight](https://open.spotify.com/album/6FakylEaAdGj0Cfrn6et0C) | 4:31 |
 | 12 | [HISTORY](https://open.spotify.com/track/12TLBNeRIhUPgGIkacXrVO) | [Beatrice Deer](https://open.spotify.com/artist/3YEhsztAtjqpC0JikHMmYe) | [HISTORY](https://open.spotify.com/album/4GQP3AyTjmTd9e8CmuYzWP) | 3:31 |
-| 13 | [Don't You Ever Change](https://open.spotify.com/track/5dRCfWzZPSKfmoDwGGrilX) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/6PxVagudUXGBHXN7KEp2Dv) | 2:46 |
+| 13 | [Don't You Ever Change](https://open.spotify.com/track/51JX3y8j9ElKyKSP7FVvu7) | [Peter Mulvey](https://open.spotify.com/artist/0HPmghHJKFdMOxSkXzsm0h), [SistaStrings](https://open.spotify.com/artist/6fDOr1LBuzVBZ2l9C4nynf) | [Live at The Cafe Carpe](https://open.spotify.com/album/17LG2iTmuVc1xacAu8a9gB) | 2:46 |
 | 14 | [All I Wanna Do](https://open.spotify.com/track/3bxgOIJoj1TrNmMy88T18J) | [Suzie Vinnick](https://open.spotify.com/artist/2sMmcyVPI1JbcagQFS4dZg) | [Shake the Love Around](https://open.spotify.com/album/2F9zizZgyeVpYnjh3MXFsA) | 3:46 |
 | 15 | [Kites](https://open.spotify.com/track/7xwNdMaP5A8fxaTAwARJ3X) | [House of Waters](https://open.spotify.com/artist/4a8MGNthjVGNBU6AdBQT7x) | [Rising](https://open.spotify.com/album/2tfVDWZlGOrAEz4M7tpZfn) | 8:07 |
 | 16 | [Falling](https://open.spotify.com/track/7m82lmVonbpwu4TSfsTHba) | [Sophie Lukacs](https://open.spotify.com/artist/2ers7RpOI531W5Zvg9hnsk) | [Falling](https://open.spotify.com/album/4WWH7qknS7sXWfRdgGlCuw) | 3:47 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 152 | [Colorblind](https://open.spotify.com/track/1XdZWeMVsFrzso8pd77g7E) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj), [Peter Groenwald](https://open.spotify.com/artist/2wqqNArnu0CDW5rZFHVAYK) | [Colorblind](https://open.spotify.com/album/5Ptnky6pcPheTjCPrBsR1t) | 2:58 |
 | 153 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 |
 
-Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMDRjZGI3YzE5MmFmOGM5ZjA3MzNjODk5MzZhZDNkNzA5`
+Snapshot ID: `MTY1MDkwOTUzMSwwMDAwMDAwMGJjMWZmMzkwMWU5YzQxYjRmZmRiYTAxZDEyNTFkZTg1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu?si=x_imhGOWRm2ROv8cUeP2CQ\">Charisma</a> ",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: <a href=\"https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=z7Ud_HllTD6UoZ1rkqR5tA\">Maya Amolo</a> ",
   "name": "NairoBae",
   "published_playlist_ids": [
     "05RBXY2jPO9XncKwkUOGKt"
@@ -99,6 +99,24 @@
       "duration_ms": 185567,
       "name": "Amua",
       "url": "https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc"
+    },
+    {
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214200,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x"
     },
     {
       "album": {
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 193894,
       "name": "Enjoy The Night",
       "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
@@ -955,6 +973,24 @@
       "duration_ms": 198000,
       "name": "Lie To Me (Tell Me a Fairy Tale)",
       "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
+    },
+    {
+      "album": {
+        "name": "Asali",
+        "url": "https://open.spotify.com/album/0fe0T3nNaWpMcdOr4ss9bw"
+      },
+      "artists": [
+        {
+          "name": "Maya Amolo",
+          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176100,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/13m6zDeYjp1lwMlyo0xsUR"
     },
     {
       "album": {
@@ -1485,7 +1521,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 132892,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW"

@@ -1760,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/5EJ1I1OTpQT3Ipjj9rDD2M"
+      },
+      "artists": [
+        {
+          "name": "Noah-Jazz",
+          "url": "https://open.spotify.com/artist/6c133VGM0x6c5kJO5k2sLN"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192121,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/7tJNVStBtyz0kIqMx1sofO"
+    },
+    {
+      "album": {
         "name": "October, Halfway July",
         "url": "https://open.spotify.com/album/2zQmazQRssxqwdUe198gqn"
       },
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 213314,
       "name": "Right Through Me",
       "url": "https://open.spotify.com/track/7HQ0kkdIswgLxz2X9Qm4ci"

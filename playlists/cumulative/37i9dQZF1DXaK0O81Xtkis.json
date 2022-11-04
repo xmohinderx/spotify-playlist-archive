@@ -2482,6 +2482,28 @@
     },
     {
       "album": {
+        "name": "If Not Now",
+        "url": "https://open.spotify.com/album/3bnUQXYTmyk3b3JerLWmza"
+      },
+      "artists": [
+        {
+          "name": "Jesse Gold",
+          "url": "https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "Go Go Gadget Feat. Marc E. Bassy",
+      "url": "https://open.spotify.com/track/5MJn7PREQVxQV0zzDEAUw3"
+    },
+    {
+      "album": {
         "name": "god of the sunsets",
         "url": "https://open.spotify.com/album/5ZrAjc3ME3ghkUikJiYrms"
       },
@@ -4697,6 +4719,24 @@
       "duration_ms": 167710,
       "name": "Living It Up",
       "url": "https://open.spotify.com/track/5xj1VcAPmfKQwxPVOPdV11"
+    },
+    {
+      "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/73j3szStTnau2muNhow0Vz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "Living Life Right",
+      "url": "https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq"
     },
     {
       "album": {

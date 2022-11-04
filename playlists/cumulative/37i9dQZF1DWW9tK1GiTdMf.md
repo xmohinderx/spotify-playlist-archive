@@ -4,7 +4,7 @@
 
 > "prendete il mio cuore e lanciatelo sulle stelle" ❤️‍🩹
 
-292 songs - 13 hr 31 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
+294 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/2BZ03rNM0vrjFSXCBigadZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Anime Lady](https://open.spotify.com/track/2hjSYkVfpDQz0mbTa29TO0) | [b0nd](https://open.spotify.com/artist/1wEV0uFQT41Ur0GgbOMRyD) | [Anime Lady](https://open.spotify.com/album/6grvdZizkXcb7rGDaoOG7n) | 3:31 | 2022-05-19 | 2022-05-27 |
 | [ASAP!](https://open.spotify.com/track/3cR8Pdmm1chaWiO0BZTA3m) | [ReVersa](https://open.spotify.com/artist/73j6qmBgbP3pra3REEEqas) | [ASAP!](https://open.spotify.com/album/0CD4oYjzga6ixLoUxMMuyo) | 3:05 | 2022-06-23 | 2022-06-28 |
 | [Ascolta](https://open.spotify.com/track/2tX4EAq6MsQcncVfrNE1EP) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Ascolta](https://open.spotify.com/album/2TXXhzyuerk6eXLn4CR4y4) | 2:34 | 2022-05-06 | 2022-06-10 |
+| [Atlantide](https://open.spotify.com/track/0kZ2QqoMAU1lGppjtBeya6) | [Kursed Kalla](https://open.spotify.com/artist/1nTZMsXbqCCS0Ibab9jqLd) | [Atlantide](https://open.spotify.com/album/14Wf6p6bxfsjTEskhANUqV) | 2:39 | 2022-11-03 |  |
 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 | 2022-06-27 |  |
 | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/track/374EllG6WyKdKvklfanNZT) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [ay! \(feat\. Lil Wayne\)](https://open.spotify.com/album/1e9CbSWMgie8riYCSvqNs3) | 2:04 | 2022-05-06 | 2022-06-03 |
 | [BABY GODDAMN](https://open.spotify.com/track/3yWHQ4n4ARLDfYTuT2NhnN) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BABY GODDAMN](https://open.spotify.com/album/6bOKRuocPC83OuQDrRIklj) | 2:29 | 2022-05-06 | 2022-10-14 |
@@ -53,6 +54,7 @@
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-19 |  |
 | [Canzone d'amore](https://open.spotify.com/track/1gCKZvQnUvuyURWo8iJfbS) | [Lost](https://open.spotify.com/artist/2eUAT3EZcrLTorvfc38Opo) | [Canzone d'amore](https://open.spotify.com/album/6in0ilspKm2XlNj6IQ8Y7n) | 3:28 | 2022-06-02 | 2022-08-12 |
 | [Carrello di SHEIN](https://open.spotify.com/track/1T0Tdb0AfVIzbDfnuyJpGC) | [Hydra Shinigami](https://open.spotify.com/artist/3GyMWEA5C0XEa7CxhaO7jY) | [Carrello di SHEIN](https://open.spotify.com/album/3kg8uZIHCjGWZw0XHi0URV) | 2:09 | 2022-10-13 |  |
+| [Cazzo vuoi?!](https://open.spotify.com/track/47fWFRXXsKLiRU9tiZod01) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Cazzo vuoi?!](https://open.spotify.com/album/4i3MJHgOwvndM23ew1NKHO) | 2:32 | 2022-11-03 |  |
 | [Che ce ne fotte](https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [Che ce ne fotte](https://open.spotify.com/album/513N1be9b9WpVgTT9crAet) | 2:40 | 2022-07-14 | 2022-09-30 |
 | [Che pace // Che palle](https://open.spotify.com/track/2Z4jER1WEKoy0tcmJCVb0X) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/3FUUCdMCilMdLeXPKoIAaR) | 2:37 | 2022-05-06 | 2022-07-29 |
 | [Che pace // Che palle](https://open.spotify.com/track/6hjyCxuLCpBtCITorSDUTY) | [empty](https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d), [MATA](https://open.spotify.com/artist/4jh2kCacRBgKhCGF1Vcx5L) | [Che pace // Che palle](https://open.spotify.com/album/0Sq7QD3WdudEhy0y22MAZz) | 2:37 | 2022-07-28 |  |

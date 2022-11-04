@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu?si=yD7sYHXxQSGNVFsSNxTbrw\">Jazzuelle</a>",
-  "num_followers": 53922,
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg\">DJ Kent</a>",
+  "num_followers": 53945,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzIyMDEwMCwwMDAwMDAwMDAwOTUzNDVmYmE2NTJlMzNmMjdlZmEzMWZlYzkzZTI2",
+  "snapshot_id": "MTY2NzUxMjc0MCwwMDAwMDAwMGNiZTVlZTQ2NjlhYTgzNWFjOWI3MjgzODg1N2YxMTJh",
   "tracks": [
+    {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "All (I Want)",
+        "url": "https://open.spotify.com/album/3aqlsIdm469ixCwTLWZlxT"
+      },
+      "artists": [
+        {
+          "name": "Lady Zamar",
+          "url": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
+        }
+      ],
+      "duration_ms": 286500,
+      "name": "All (I Want)",
+      "url": "https://open.spotify.com/track/4KxZCGWBClYaV4cNdovmL1"
+    },
     {
       "added_at": "2022-10-31 12:41:40",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 535862,
       "name": "Something From Nothing",
       "url": "https://open.spotify.com/track/4OI6eFJ0OWtX6JaUwWF6yq"
-    },
-    {
-      "added_at": "2022-10-20 21:59:00",
-      "album": {
-        "name": "All (I Want)",
-        "url": "https://open.spotify.com/album/3aqlsIdm469ixCwTLWZlxT"
-      },
-      "artists": [
-        {
-          "name": "Lady Zamar",
-          "url": "https://open.spotify.com/artist/5BWiwrFskTQRxKUjPMh8kI"
-        }
-      ],
-      "duration_ms": 286500,
-      "name": "All (I Want)",
-      "url": "https://open.spotify.com/track/4KxZCGWBClYaV4cNdovmL1"
     },
     {
       "added_at": "2022-09-09 02:17:06",
@@ -123,6 +123,26 @@
       "duration_ms": 359014,
       "name": "Crazy Vibez",
       "url": "https://open.spotify.com/track/2nwXM9eHzj8eQBsuK9osbL"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Horns In the Sun",
+        "url": "https://open.spotify.com/album/0c6GQc9Q3h5MiDco7V8z0I"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "duration_ms": 199416,
+      "name": "Horns in the Sun",
+      "url": "https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp"
     },
     {
       "added_at": "2022-09-22 21:59:00",
@@ -389,6 +409,26 @@
       "url": "https://open.spotify.com/track/1CRYG96CwRWvOjM4Vd6cBm"
     },
     {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Sunrise Music",
+        "url": "https://open.spotify.com/album/0aKRQm4iXhtj5bE9Q8gvuV"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        },
+        {
+          "name": "LuckyKeyz",
+          "url": "https://open.spotify.com/artist/5nOVG0B4alLpEzRUf0lDYK"
+        }
+      ],
+      "duration_ms": 430471,
+      "name": "Afro Brotherz (Emhlabeni)",
+      "url": "https://open.spotify.com/track/2xB4MkD3D4o4ByIjt7Bn5I"
+    },
+    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
@@ -641,6 +681,26 @@
       "url": "https://open.spotify.com/track/027f4IovyxzazHUnCWUoO9"
     },
     {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Wanalia",
+        "url": "https://open.spotify.com/album/0J7saRGE9G5jmRHQzPezkR"
+      },
+      "artists": [
+        {
+          "name": "Gazzille_Z.A",
+          "url": "https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB"
+        },
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Wanalia",
+      "url": "https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq"
+    },
+    {
       "added_at": "2022-10-20 21:59:00",
       "album": {
         "name": "All About You",
@@ -725,6 +785,30 @@
       "url": "https://open.spotify.com/track/0zL7I0zTANptsTUnai3lQJ"
     },
     {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/3xuuzTuo9IWAwXQ0NyCHdn"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo",
+          "url": "https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "duration_ms": 189943,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/0BX8McdXCfHgHrKizHIJRE"
+    },
+    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Back to You",
@@ -757,6 +841,30 @@
       "url": "https://open.spotify.com/track/5Z9d6pGOaoChFuoDWpsxpi"
     },
     {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Suiss",
+          "url": "https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA"
+        },
+        {
+          "name": "Mark Valsecchi",
+          "url": "https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5eeASeJYFLKl3XD62MWAef"
+        }
+      ],
+      "duration_ms": 392195,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv"
+    },
+    {
       "added_at": "2022-10-31 12:41:40",
       "album": {
         "name": "The Reason",
@@ -771,6 +879,22 @@
       "duration_ms": 204761,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "Black Heirs",
+        "url": "https://open.spotify.com/album/4EiKw9ZjnOhc97TqjG94aE"
+      },
+      "artists": [
+        {
+          "name": "Double Drop",
+          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
+        }
+      ],
+      "duration_ms": 423000,
+      "name": "Black Heirs",
+      "url": "https://open.spotify.com/track/0gmfpk6bZKowpKyBkcbPZL"
     },
     {
       "added_at": "2022-10-20 21:59:00",
@@ -823,6 +947,30 @@
       "duration_ms": 368977,
       "name": "Isizathu - Original Mix",
       "url": "https://open.spotify.com/track/0ZreUkE9FLVc4l9wNDFlZX"
+    },
+    {
+      "added_at": "2022-11-03 21:59:00",
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/5ZsYlXfn8yy0IycyX2uwSA"
+      },
+      "artists": [
+        {
+          "name": "DAN:ROS",
+          "url": "https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa"
+        },
+        {
+          "name": "Mark Coppi",
+          "url": "https://open.spotify.com/artist/4tWCWkqqqOlgb7PynFD5XU"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "No Other - Radio Edit",
+      "url": "https://open.spotify.com/track/688IKgy9bLKYUdiKpYB9Tv"
     },
     {
       "added_at": "2022-10-13 21:59:00",
@@ -889,6 +1037,22 @@
       "url": "https://open.spotify.com/track/0XMWqGPQnf58vRTPl41VFa"
     },
     {
+      "added_at": "2022-10-20 21:59:00",
+      "album": {
+        "name": "Eames",
+        "url": "https://open.spotify.com/album/5HrwWZhLh9g51Nlz3cwf1J"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 227875,
+      "name": "Eames",
+      "url": "https://open.spotify.com/track/3r5yQFuuIk3upZiZPWbqH7"
+    },
+    {
       "added_at": "2022-10-13 21:59:00",
       "album": {
         "name": "Never Good Enough (feat. Scarlett)",
@@ -911,146 +1075,6 @@
       "duration_ms": 186983,
       "name": "Never Good Enough (feat. Scarlett)",
       "url": "https://open.spotify.com/track/4m1DYlYA9srxNsVHVjE9Zv"
-    },
-    {
-      "added_at": "2022-09-09 02:17:06",
-      "album": {
-        "name": "House Of Hits Vol. 7",
-        "url": "https://open.spotify.com/album/3TyqbSVCJFWTJObSklgWkz"
-      },
-      "artists": [
-        {
-          "name": "Tumisho",
-          "url": "https://open.spotify.com/artist/6tLcgMwr78kA4SrokL6F0d"
-        },
-        {
-          "name": "DJ Manzo Sa",
-          "url": "https://open.spotify.com/artist/5jwzoDqBYZUEVromkGWvio"
-        },
-        {
-          "name": "Themba Mbokazi",
-          "url": "https://open.spotify.com/artist/2QLdKPtekBDnmNtnl4ysZZ"
-        }
-      ],
-      "duration_ms": 422778,
-      "name": "Phumelela",
-      "url": "https://open.spotify.com/track/5N0s1lJaBw61jslmMeU3RB"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "Ke Kero",
-        "url": "https://open.spotify.com/album/2BJQ2Mpj17IgaJDMqrJtQM"
-      },
-      "artists": [
-        {
-          "name": "Dr Moruti",
-          "url": "https://open.spotify.com/artist/6WAHtGMWHB0gss7ohbkvp9"
-        },
-        {
-          "name": "Dee Cee",
-          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
-        }
-      ],
-      "duration_ms": 346028,
-      "name": "Ke Kero",
-      "url": "https://open.spotify.com/track/1o8WmQ62tcptHOOdULAV63"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Nguwe",
-        "url": "https://open.spotify.com/album/1fixiruQsuyEO42qHUFDvP"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/5Vw8Dnt7L4inNi9TgbLfBC"
-        },
-        {
-          "name": "HyperSOUL-X",
-          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
-        }
-      ],
-      "duration_ms": 328972,
-      "name": "Nguwe",
-      "url": "https://open.spotify.com/track/0nxHVyDtOvJJPG7RDslfxg"
-    },
-    {
-      "added_at": "2022-10-20 21:59:00",
-      "album": {
-        "name": "Eames",
-        "url": "https://open.spotify.com/album/5HrwWZhLh9g51Nlz3cwf1J"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 227875,
-      "name": "Eames",
-      "url": "https://open.spotify.com/track/3r5yQFuuIk3upZiZPWbqH7"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Beat To Soul",
-        "url": "https://open.spotify.com/album/6hccPklZs994eX6PeO11XP"
-      },
-      "artists": [
-        {
-          "name": "60 Hertz Project",
-          "url": "https://open.spotify.com/artist/2tVgKjKqa1Pka9BdHPklxW"
-        },
-        {
-          "name": "Mr. Romeo",
-          "url": "https://open.spotify.com/artist/5SexJgW9R8cpjOB9O2csMI"
-        }
-      ],
-      "duration_ms": 470595,
-      "name": "Nako Yaka",
-      "url": "https://open.spotify.com/track/39yCWpQPO1daiYQXS3cDt3"
-    },
-    {
-      "added_at": "2022-09-09 02:17:06",
-      "album": {
-        "name": "Banike",
-        "url": "https://open.spotify.com/album/6US9oSxNBX1O1sMyH7lnBn"
-      },
-      "artists": [
-        {
-          "name": "Mobi Dixon",
-          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
-        },
-        {
-          "name": "Mafikizolo",
-          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Banike",
-      "url": "https://open.spotify.com/track/0jN4e5DNTym9lA8tW8RsKy"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/7vmQaVuwkGJiuAsXv1bguM"
-      },
-      "artists": [
-        {
-          "name": "Black Circle",
-          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
-        },
-        {
-          "name": "Bobbi Fallon",
-          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
-        }
-      ],
-      "duration_ms": 222757,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/7LTUI8G6BcvY8dHZTniYd5"
     }
   ],
   "unique_name": "mint South Africa",

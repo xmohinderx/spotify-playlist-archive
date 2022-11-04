@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,363 songs - 3 day 22 hr 26 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,364 songs - 3 day 22 hr 29 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [cloudy](https://open.spotify.com/track/13ogVSkKK2zmNGDOaaiBc9) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/0Z3FEnCOZaLw0YVnAClBfu) | 2:45 | 2022-09-09 |  |
 | [cloudy](https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/5b3lit9cjrFHrBytPJBppS) | 2:45 | 2021-02-19 | 2022-10-14 |
 | [Coastin'](https://open.spotify.com/track/5AUyPXjDQ0m2BdFDWrhpPz) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Coastin'](https://open.spotify.com/album/6cEJyUi9menuL1sZTOnRdh) | 3:15 | 2021-04-03 | 2022-10-15 |
+| [Coastin'](https://open.spotify.com/track/5zE3NKP8zmGcX2Bq9d2UXR) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 3:15 | 2022-09-09 |  |
 | [Cola \- Simon Mills Full Sugar Mix](https://open.spotify.com/track/3kwltGVsg2y5QsM9RDF8Zw) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Simon Mills](https://open.spotify.com/artist/5XRbLABLIWCBjIw8B7Ia7p) | [Cola \(Chilled Mixes\)](https://open.spotify.com/album/2khrxHBtX155GwOT5tGDDY) | 4:23 | 2020-05-18 | 2022-04-13 |
 | [Cold Blooded](https://open.spotify.com/track/1HvOkMQua2nC7CQpKNGLNE) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 4:18 | 2020-05-18 | 2020-07-03 |
 | [Cold Light](https://open.spotify.com/track/6jRwkbiqOfkNGty2fGTXzd) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Cold Light](https://open.spotify.com/album/73mEzcDcvZImZ0nAn52VSB) | 2:59 | 2021-03-06 | 2022-01-13 |
@@ -1200,7 +1201,7 @@
 | [The Pace](https://open.spotify.com/track/5KdnkKcfkKMTY3QxUyihQP) | [MYNGA](https://open.spotify.com/artist/08U9qk0KByTwtgdfKr7195), [Scheinizzl](https://open.spotify.com/artist/1V7BhnZpY3khae9xpS1LfV) | [The Pace](https://open.spotify.com/album/0hxCQwXIVM8NSy49UWfBhK) | 4:30 | 2020-03-16 | 2021-12-21 |
 | [The Rapture Pt.II](https://open.spotify.com/track/126B1mu0tb4gEqyjufUjms) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [The Rapture Pt.II](https://open.spotify.com/album/4qqWRxaKBAVM1hyFbjKK7c) | 8:32 | 2020-03-16 | 2020-07-18 |
 | [The Rest of My Days](https://open.spotify.com/track/4ABiRDaBGg0hHeAWeAEcNq) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [The Rest of My Days](https://open.spotify.com/album/3mW3G4u6bGp4TMRLzhHjFW) | 3:13 | 2020-07-18 | 2020-10-09 |
-| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 |  |
+| [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-11-04 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |

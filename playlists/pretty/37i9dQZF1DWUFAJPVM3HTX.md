@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Nelccia
+> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Giift
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,254 likes - 132 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,399 likes - 132 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 5 | [Cayendo](https://open.spotify.com/track/5tkMNy22O7sLjDOJkr5jRq) | [solace](https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9) | [Cayendo](https://open.spotify.com/album/2NApMA4aPyo3KGl6lYh3qC) | 3:21 |
 | 6 | [Love Songz](https://open.spotify.com/track/0Ypj1zPzSDiy80kjRSFZf3) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Love Songz](https://open.spotify.com/album/5FkfJeD1DvqKXXJFTvEjoH) | 3:20 |
 | 7 | [best](https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:16 |
-| 8 | [Triggers](https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Triggers](https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu) | 2:35 |
-| 9 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 |
-| 10 | [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 |
+| 8 | [If You Leave](https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [If You Leave](https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m) | 3:09 |
+| 9 | [Triggers](https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk) | [Triggers](https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu) | 2:35 |
+| 10 | [We Can Go Again](https://open.spotify.com/track/7eepRUI31ki6mOiOSvIlzn) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [We Can Go Again](https://open.spotify.com/album/6dzlZcFmAnV6TZMDhbuMNb) | 2:41 |
 | 11 | [MAZE](https://open.spotify.com/track/1G9mjCLFENyXPUIKORx93a) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX), [Jay Wilcox](https://open.spotify.com/artist/4gaaEK1N5YwOcP3mjJAsjw) | [MAZE](https://open.spotify.com/album/0zfRGBt0QIosUPkIkMADxL) | 4:32 |
 | 12 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 |
 | 13 | [Westwood Village](https://open.spotify.com/track/2cHolA4zLWwMsTwHQDWd70) | [Hiddenhillsforever](https://open.spotify.com/artist/5mnayWI8SChstkGK5BvMsp) | [Westwood Village](https://open.spotify.com/album/1BLbiwlIkhwhtJL0Nl0j6M) | 3:46 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 131 | [Teleport](https://open.spotify.com/track/3TB0WBeZxBeiMRI8KRLUUj) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/3cLpcQmxLPSwkcJxQtTKlu) | 3:45 |
 | 132 | [without you](https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV) | [Secily](https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2) | [without you](https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z) | 2:56 |
 
-Snapshot ID: `MTY2NzQwNDgwMCwwMDAwMDAwMDVlOTYxNDViYjM0MTg3MDcxZWVhNmU1NjhlOWFhZTI2`
+Snapshot ID: `MTY2NzQ4NzgwMiwwMDAwMDAwMGY1ZjU4Yzk0MTIxODc0NWU3Y2RlZjQ4YTJhYTZjYzUx`

@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Gaidaa
 
-265 songs - 15 hr 36 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
+266 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Too Good](https://open.spotify.com/track/2MTe95GoaN9QjuWiud4uVx) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/5HVN2gkgSGbY91XQ1sNKab) | 3:42 | 2021-12-16 | 2022-07-07 |
 | [Try](https://open.spotify.com/track/7lrSbO4LW1fMowfi9qOPXa) | [Shishani](https://open.spotify.com/artist/255ZPAkvfPjmKwPj4mC48B) | [Try](https://open.spotify.com/album/3NN7eksmncj1JwB2SzwbV7) | 4:22 | 2022-03-10 |  |
 | [Turn Me On \(Live From London\)](https://open.spotify.com/track/1MBeQV0la3466Kr2tFQfTY) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [LIVE From London: Old Vinyl Factory](https://open.spotify.com/album/1WSiEKxyHeQh9gwJgzdRdJ) | 3:28 | 2021-12-16 | 2022-01-26 |
+| [U MOVE ME](https://open.spotify.com/track/0hEfncfojHOofdZdJCoHgk) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 4:42 | 2022-11-03 |  |
 | [Uncomplicated](https://open.spotify.com/track/0X9mvqR44xcw6oLo89kn92) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Uncomplicated](https://open.spotify.com/album/4TjOZMU3Npr6rAiqAy5UW0) | 3:36 | 2022-07-06 |  |
 | [Unworthy](https://open.spotify.com/track/2t7Z807r7BiXvLgrxCHr3f) | [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Unworthy](https://open.spotify.com/album/3jUjxnKQtQrcD3GllQN0e2) | 2:32 | 2021-12-16 | 2022-01-14 |
 | [Velvet \(Remix\) \[feat\. Lucky Daye\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/track/2YZqTZTT2SCB3CYcO3AZ7c) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Velvet \(Remix\) \[feat\. Lucky Daye\] \[from Insecure: Music From The HBO Original Series, Season 4\]](https://open.spotify.com/album/41y3rH15XKJJYwjhd9Rj9X) | 3:38 | 2021-12-16 | 2022-01-14 |

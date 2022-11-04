@@ -7574,6 +7574,28 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/37GSUYEcuIuQ7x8hRvGNXr"
+      },
+      "artists": [
+        {
+          "name": "FREAKY",
+          "url": "https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT"
+        },
+        {
+          "name": "Stryer",
+          "url": "https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4cYwEZHldKTQOvnpMdKn6d"
+    },
+    {
+      "album": {
         "name": "Pharaoh",
         "url": "https://open.spotify.com/album/1GBh4jjqyzmaUmpS452TWG"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 11765,
+  "num_followers": 11768,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMGQ4MTIyNTAyMGQ1NTJkMjdkZDFkMDU2YmIzYTVhMTQ3",
+  "snapshot_id": "MTYwNjI3NDE1NSwwMDAwMDAwMDU1ZTE4ZDAzZTY4MTRmMjcyY2JjYmU5NGFkYTMyZTE0",
   "tracks": [
     {
       "added_at": "2020-11-25 03:15:55",
@@ -575,22 +575,18 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
+        "name": "Sometimes I",
+        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
       },
       "artists": [
         {
           "name": "Rising Appalachia",
           "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        },
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 262174,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
+      "duration_ms": 377258,
+      "name": "Sometimes I",
+      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
     },
     {
       "added_at": "2020-11-25 03:15:55",
@@ -663,18 +659,22 @@
     {
       "added_at": "2020-11-25 03:15:55",
       "album": {
-        "name": "Sometimes I",
-        "url": "https://open.spotify.com/album/3acnEcu23lZXhYda51Nzpp"
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/0WAZe6WbSTiuFbjeCHVhqx"
       },
       "artists": [
         {
           "name": "Rising Appalachia",
           "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        },
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
         }
       ],
-      "duration_ms": 377258,
-      "name": "Sometimes I",
-      "url": "https://open.spotify.com/track/4lS9Ni8jEjk5ffXDTSYkSp"
+      "duration_ms": 262174,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/2bhRFDxU6hNWoqLmHkGNS8"
     },
     {
       "added_at": "2020-11-25 03:15:55",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu?si=yD7sYHXxQSGNVFsSNxTbrw\">Jazzuelle</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg\">DJ Kent</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -460,6 +460,28 @@
     },
     {
       "album": {
+        "name": "Sunrise Music",
+        "url": "https://open.spotify.com/album/0aKRQm4iXhtj5bE9Q8gvuV"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        },
+        {
+          "name": "LuckyKeyz",
+          "url": "https://open.spotify.com/artist/5nOVG0B4alLpEzRUf0lDYK"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430471,
+      "name": "Afro Brotherz (Emhlabeni)",
+      "url": "https://open.spotify.com/track/2xB4MkD3D4o4ByIjt7Bn5I"
+    },
+    {
+      "album": {
         "name": "Afro Brotherz (Gezi Man)",
         "url": "https://open.spotify.com/album/2wS3siHKB3T2C1jE6AxIf5"
       },
@@ -759,6 +781,32 @@
       "duration_ms": 439166,
       "name": "All of This - Lemon & Herb Remix",
       "url": "https://open.spotify.com/track/0DOtmC7j40TKOu8V7VaCkN"
+    },
+    {
+      "album": {
+        "name": "All We Need",
+        "url": "https://open.spotify.com/album/3xuuzTuo9IWAwXQ0NyCHdn"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo",
+          "url": "https://open.spotify.com/artist/4aNbVHYo8CVwkN4UUt44C3"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189943,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/0BX8McdXCfHgHrKizHIJRE"
     },
     {
       "album": {
@@ -1469,7 +1517,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 377000,
       "name": "Banike",
       "url": "https://open.spotify.com/track/0jN4e5DNTym9lA8tW8RsKy"
@@ -1761,6 +1809,24 @@
       "duration_ms": 162680,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6LVTAJEYLUXdXHV9USZP8O"
+    },
+    {
+      "album": {
+        "name": "Black Heirs",
+        "url": "https://open.spotify.com/album/4EiKw9ZjnOhc97TqjG94aE"
+      },
+      "artists": [
+        {
+          "name": "Double Drop",
+          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423000,
+      "name": "Black Heirs",
+      "url": "https://open.spotify.com/track/0gmfpk6bZKowpKyBkcbPZL"
     },
     {
       "album": {
@@ -3606,6 +3672,32 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5Q9wkkuSwwmjBYS0l71xuy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Suiss",
+          "url": "https://open.spotify.com/artist/5Jl4yj7KU7jneqJ2KIepZA"
+        },
+        {
+          "name": "Mark Valsecchi",
+          "url": "https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ"
+        },
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/5eeASeJYFLKl3XD62MWAef"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392195,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/3QYlfmOYcG8ZhkvzU63Riv"
+    },
+    {
+      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/3FrP8iocoWiT6C0yU8P6jW"
       },
@@ -4497,6 +4589,28 @@
       "duration_ms": 410847,
       "name": "Horn of Africa",
       "url": "https://open.spotify.com/track/43Ix0CzBrJrcx7XXj68O74"
+    },
+    {
+      "album": {
+        "name": "Horns In the Sun",
+        "url": "https://open.spotify.com/album/0c6GQc9Q3h5MiDco7V8z0I"
+      },
+      "artists": [
+        {
+          "name": "DJ Kent",
+          "url": "https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN"
+        },
+        {
+          "name": "Mo-T",
+          "url": "https://open.spotify.com/artist/0fMnpjfqmm7KCtlB0izVOg"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199416,
+      "name": "Horns in the Sun",
+      "url": "https://open.spotify.com/track/6a6D34Zl60ClugkltmryYp"
     },
     {
       "album": {
@@ -5743,7 +5857,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 346028,
       "name": "Ke Kero",
       "url": "https://open.spotify.com/track/1o8WmQ62tcptHOOdULAV63"
@@ -7731,7 +7845,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 470595,
       "name": "Nako Yaka",
       "url": "https://open.spotify.com/track/39yCWpQPO1daiYQXS3cDt3"
@@ -7967,7 +8081,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 328972,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/0nxHVyDtOvJJPG7RDslfxg"
@@ -8041,6 +8155,32 @@
       "duration_ms": 304766,
       "name": "Nkanyezi",
       "url": "https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5"
+    },
+    {
+      "album": {
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/5ZsYlXfn8yy0IycyX2uwSA"
+      },
+      "artists": [
+        {
+          "name": "DAN:ROS",
+          "url": "https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa"
+        },
+        {
+          "name": "Mark Coppi",
+          "url": "https://open.spotify.com/artist/4tWCWkqqqOlgb7PynFD5XU"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188709,
+      "name": "No Other - Radio Edit",
+      "url": "https://open.spotify.com/track/688IKgy9bLKYUdiKpYB9Tv"
     },
     {
       "album": {
@@ -8605,7 +8745,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 422778,
       "name": "Phumelela",
       "url": "https://open.spotify.com/track/5N0s1lJaBw61jslmMeU3RB"
@@ -8839,7 +8979,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 222757,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/7LTUI8G6BcvY8dHZTniYd5"
@@ -12095,6 +12235,28 @@
       "duration_ms": 238374,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6iO5RXMuBM4CsLJwrzvt0r"
+    },
+    {
+      "album": {
+        "name": "Wanalia",
+        "url": "https://open.spotify.com/album/0J7saRGE9G5jmRHQzPezkR"
+      },
+      "artists": [
+        {
+          "name": "Gazzille_Z.A",
+          "url": "https://open.spotify.com/artist/6pxLXiRwqTibmbIQPwjDnB"
+        },
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Wanalia",
+      "url": "https://open.spotify.com/track/1NVyVOjrTFhtAbr1siZ3bq"
     },
     {
       "album": {

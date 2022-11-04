@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Saint Harison",
-  "num_followers": 1139523,
+  "num_followers": 1139492,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMDliYzEwNTYxMmE3NWJiNzcxZmYzYTJhYjdjZWQ3YTY1",
+  "snapshot_id": "MTY2NzM5MDcwMCwwMDAwMDAwMDY3NzhlNWU5ZGQ0M2I0MzFhNTFiZjViM2I1ZjI1ODEw",
   "tracks": [
     {
       "added_at": "2022-11-02 12:05:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "No Blood, No Needles, Nothing",
-        "url": "https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR"
-      },
-      "artists": [
-        {
-          "name": "ash tuesday",
-          "url": "https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "No Blood, No Needles, Nothing",
-      "url": "https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Triggers",
         "url": "https://open.spotify.com/album/2YQgcSNJvjtwLVxI307rwu"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 155314,
       "name": "Triggers",
       "url": "https://open.spotify.com/track/2RefF7OuOYVMNNGfgLWVa3"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "No Blood, No Needles, Nothing",
+        "url": "https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR"
+      },
+      "artists": [
+        {
+          "name": "ash tuesday",
+          "url": "https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "No Blood, No Needles, Nothing",
+      "url": "https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "fvcked up lullaby",
-        "url": "https://open.spotify.com/album/4SR38hThbFln7NLagFLIk8"
-      },
-      "artists": [
-        {
-          "name": "davvn",
-          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
-        }
-      ],
-      "duration_ms": 145935,
-      "name": "fvcked up lullaby",
-      "url": "https://open.spotify.com/track/7pGwWkymWnATjyrsOfJeNm"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Hopeless Romantic",
         "url": "https://open.spotify.com/album/7CmfAlV0BPcIH4EhyIA3aO"
       },
@@ -207,18 +191,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "lexapro",
-        "url": "https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh"
+        "name": "fvcked up lullaby",
+        "url": "https://open.spotify.com/album/4SR38hThbFln7NLagFLIk8"
       },
       "artists": [
         {
-          "name": "Jack Price",
-          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
         }
       ],
-      "duration_ms": 163138,
-      "name": "lexapro",
-      "url": "https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG"
+      "duration_ms": 145935,
+      "name": "fvcked up lullaby",
+      "url": "https://open.spotify.com/track/7pGwWkymWnATjyrsOfJeNm"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -235,6 +219,22 @@
       "duration_ms": 282401,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "lexapro",
+        "url": "https://open.spotify.com/album/0ftQ4DSqbNkIUrKM7uc0Kh"
+      },
+      "artists": [
+        {
+          "name": "Jack Price",
+          "url": "https://open.spotify.com/artist/3LX53Q6Lfgpr309q3yiHMh"
+        }
+      ],
+      "duration_ms": 163138,
+      "name": "lexapro",
+      "url": "https://open.spotify.com/track/61KFAZbfP6fnb8lEZU20yG"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Tracer",
-        "url": "https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL"
-      },
-      "artists": [
-        {
-          "name": "Jeen",
-          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "Chemical Emotion",
-      "url": "https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/3GZ4zjIs4s20QTTfv3VkTM"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 167944,
       "name": "Julia",
       "url": "https://open.spotify.com/track/04lmWOI5oqXensMTRiKUYy"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Tracer",
+        "url": "https://open.spotify.com/album/539CALjKRdYU8sKcwFogqL"
+      },
+      "artists": [
+        {
+          "name": "Jeen",
+          "url": "https://open.spotify.com/artist/3lEWoA7lwwybODn5K0v2Bz"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "Chemical Emotion",
+      "url": "https://open.spotify.com/track/1CKcGabeLVfIuAWNBbhGDL"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Afterworld",
+        "url": "https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y"
+      },
+      "artists": [
+        {
+          "name": "Phantom Youth",
+          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
+        }
+      ],
+      "duration_ms": 217914,
+      "name": "Afterworld",
+      "url": "https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Afterworld",
-        "url": "https://open.spotify.com/album/1L0x1iCP1Uk2pMcKHtwW7Y"
-      },
-      "artists": [
-        {
-          "name": "Phantom Youth",
-          "url": "https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd"
-        }
-      ],
-      "duration_ms": 217914,
-      "name": "Afterworld",
-      "url": "https://open.spotify.com/track/4ILnzWMNQzZVN0WbJuM6Bg"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Joan",
         "url": "https://open.spotify.com/album/6j8J7woocVNSo52ASBg2b3"
       },
@@ -423,26 +423,6 @@
       "duration_ms": 318560,
       "name": "Joan",
       "url": "https://open.spotify.com/track/25UCzxQLJSCJZ4b4DJhmmz"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/2xZ3xXZrw9fdBiIYorJXVw"
-      },
-      "artists": [
-        {
-          "name": "Eva Gadd",
-          "url": "https://open.spotify.com/artist/3P0VkEuicITtHCxwQeYaMJ"
-        },
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/1PloZcN6tfeJFFUanqbrgh"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -479,6 +459,78 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/2xZ3xXZrw9fdBiIYorJXVw"
+      },
+      "artists": [
+        {
+          "name": "Eva Gadd",
+          "url": "https://open.spotify.com/artist/3P0VkEuicITtHCxwQeYaMJ"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1PloZcN6tfeJFFUanqbrgh"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0Oye1y7ZdpsvOfYs93XH3Q"
+      },
+      "artists": [
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        }
+      ],
+      "duration_ms": 141813,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/7hYj1SSQACeWWr1QzNxQd0"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "walkin'",
+        "url": "https://open.spotify.com/album/5dWRgcv6C12uB8iuNE1UsS"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "duration_ms": 173445,
+      "name": "walkin'",
+      "url": "https://open.spotify.com/track/1MFaK9LHLoh7zKaW5D1zYg"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Bicycle",
+        "url": "https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC"
+      },
+      "artists": [
+        {
+          "name": "pijama land",
+          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Patchouli",
         "url": "https://open.spotify.com/album/2TSyEyxSs1gtLBN7Uprdfg"
       },
@@ -511,42 +563,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "walkin'",
-        "url": "https://open.spotify.com/album/5dWRgcv6C12uB8iuNE1UsS"
-      },
-      "artists": [
-        {
-          "name": "Destin Laurel",
-          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "walkin'",
-      "url": "https://open.spotify.com/track/1MFaK9LHLoh7zKaW5D1zYg"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/0Oye1y7ZdpsvOfYs93XH3Q"
-      },
-      "artists": [
-        {
-          "name": "grouptherapy.",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        },
-        {
-          "name": "Jadagrace",
-          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
-        }
-      ],
-      "duration_ms": 141813,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/7hYj1SSQACeWWr1QzNxQd0"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/5pOt2aPHSirpOt9voInHZv"
       },
@@ -563,38 +579,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Will it be worth it",
-        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
-      },
-      "artists": [
-        {
-          "name": "Heriti\u00e9r",
-          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
-        }
-      ],
-      "duration_ms": 148783,
-      "name": "Will it be worth it",
-      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Bicycle",
-        "url": "https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC"
-      },
-      "artists": [
-        {
-          "name": "pijama land",
-          "url": "https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "Bicycle",
-      "url": "https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Better in My Bed",
         "url": "https://open.spotify.com/album/6NqTWeRCZNHX8Qt12SYyU4"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 120789,
       "name": "Better in My Bed",
       "url": "https://open.spotify.com/track/1OHQMTnq6xp44ScQQlM4Ts"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Will it be worth it",
+        "url": "https://open.spotify.com/album/7Le37oYpZm1tJkh5HFd92I"
+      },
+      "artists": [
+        {
+          "name": "Heriti\u00e9r",
+          "url": "https://open.spotify.com/artist/6ruC0tY4s55IWpTmCO9COD"
+        }
+      ],
+      "duration_ms": 148783,
+      "name": "Will it be worth it",
+      "url": "https://open.spotify.com/track/2vOpxGjvmdp3CzjfKOBY8J"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "happy less",
-        "url": "https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk"
-      },
-      "artists": [
-        {
-          "name": "Hundaes",
-          "url": "https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "happy less",
-      "url": "https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/6QsBDIZ6CRltVA7wTpjdoU"
       },
@@ -663,18 +647,34 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+        "name": "happy less",
+        "url": "https://open.spotify.com/album/2hoICeafKOzNcH65BoTbxk"
       },
       "artists": [
         {
-          "name": "Volaris",
-          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+          "name": "Hundaes",
+          "url": "https://open.spotify.com/artist/2O4wIpuUgy3A2JvIYdDuGt"
         }
       ],
-      "duration_ms": 178165,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
+      "duration_ms": 195173,
+      "name": "happy less",
+      "url": "https://open.spotify.com/track/50HOSiUaxkH5yZPqTkBuqE"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 196056,
+      "name": "best",
+      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/0Gpt7EN8k5NY7qwk0fXHbn"
+      },
+      "artists": [
+        {
+          "name": "Volaris",
+          "url": "https://open.spotify.com/artist/1gitvozvRIt6HisVREf3Hy"
+        }
+      ],
+      "duration_ms": 178165,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/4DmtkAs0rigHeNhVCR2OGr"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Henrietta\u2019s",
         "url": "https://open.spotify.com/album/3fDVyQ1UFd15mD10T4jDGy"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 133714,
       "name": "Henrietta\u2019s",
       "url": "https://open.spotify.com/track/6GRsmpkN66rvxNSKsHYi7E"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "Merged",
-        "url": "https://open.spotify.com/album/3IrHQ6wzT9PYY2YiNFUbbp"
-      },
-      "artists": [
-        {
-          "name": "Hunter/Game",
-          "url": "https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt"
-        }
-      ],
-      "duration_ms": 386378,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/4wqfSuppsgqhLbAW1Vpu8E"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "Merged",
+        "url": "https://open.spotify.com/album/3IrHQ6wzT9PYY2YiNFUbbp"
+      },
+      "artists": [
+        {
+          "name": "Hunter/Game",
+          "url": "https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt"
+        }
+      ],
+      "duration_ms": 386378,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/4wqfSuppsgqhLbAW1Vpu8E"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Zoo Shaker",
         "url": "https://open.spotify.com/album/5qXVacMX4D6FbrWNF8J88V"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Freaktopia",
-        "url": "https://open.spotify.com/album/3Tp2nlDubpyfueG8VcJJK1"
-      },
-      "artists": [
-        {
-          "name": "Little Fritter",
-          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
-        }
-      ],
-      "duration_ms": 305794,
-      "name": "Freaktopia",
-      "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Nightshade",
         "url": "https://open.spotify.com/album/08GKug36f7WyoVZVW5wAc5"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 211142,
       "name": "Nightshade",
       "url": "https://open.spotify.com/track/3sivx4DwnH31JwTw1iHsnX"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "Freaktopia",
+        "url": "https://open.spotify.com/album/3Tp2nlDubpyfueG8VcJJK1"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        }
+      ],
+      "duration_ms": 305794,
+      "name": "Freaktopia",
+      "url": "https://open.spotify.com/track/7Dv5UuERhdpYIgQ8RUx1Ty"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Dance Like You",
-        "url": "https://open.spotify.com/album/5JC0yvulg2b6jmqnZWh2n3"
-      },
-      "artists": [
-        {
-          "name": "LewRaz",
-          "url": "https://open.spotify.com/artist/0DVmpGjL5wcDKpkRFmsvhA"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Dance Like You",
-      "url": "https://open.spotify.com/track/2TAHGGbmtwtlH47hZLYWzu"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
         "name": "Unwanted",
         "url": "https://open.spotify.com/album/4xQvSaSUKfzQJVf5CES4gl"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "MUD",
-        "url": "https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui"
+        "name": "Dance Like You",
+        "url": "https://open.spotify.com/album/5JC0yvulg2b6jmqnZWh2n3"
       },
       "artists": [
         {
-          "name": "Maddy Davis",
-          "url": "https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ"
+          "name": "LewRaz",
+          "url": "https://open.spotify.com/artist/0DVmpGjL5wcDKpkRFmsvhA"
         }
       ],
-      "duration_ms": 212504,
-      "name": "You Still Send Me Beats Though",
-      "url": "https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3"
+      "duration_ms": 181133,
+      "name": "Dance Like You",
+      "url": "https://open.spotify.com/track/2TAHGGbmtwtlH47hZLYWzu"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -891,18 +891,34 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "Let's Stay in Love",
-        "url": "https://open.spotify.com/album/3yesQR4F7V8GselWYvHHRV"
+        "name": "blood moon",
+        "url": "https://open.spotify.com/album/7s8NmuQASuHTKRjpUDeoxv"
       },
       "artists": [
         {
-          "name": "Juliet",
-          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+          "name": "Fantasy Camp",
+          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Let's Stay in Love",
-      "url": "https://open.spotify.com/track/0oPkFCHGHtJsDlbNV6XkqW"
+      "duration_ms": 165802,
+      "name": "blood moon",
+      "url": "https://open.spotify.com/track/5X2SBiyCzGiCZCsQQkpaPI"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "MUD",
+        "url": "https://open.spotify.com/album/0N1rPf3sOqmaxq863fl9ui"
+      },
+      "artists": [
+        {
+          "name": "Maddy Davis",
+          "url": "https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "You Still Send Me Beats Though",
+      "url": "https://open.spotify.com/track/4rVSnHzgMq1gm7z66Nk9o3"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -923,34 +939,18 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
-        "name": "blood moon",
-        "url": "https://open.spotify.com/album/7s8NmuQASuHTKRjpUDeoxv"
+        "name": "Let's Stay in Love",
+        "url": "https://open.spotify.com/album/3yesQR4F7V8GselWYvHHRV"
       },
       "artists": [
         {
-          "name": "Fantasy Camp",
-          "url": "https://open.spotify.com/artist/5EOdFuP5qy3DOB7EQKyo2j"
+          "name": "Juliet",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
         }
       ],
-      "duration_ms": 165802,
-      "name": "blood moon",
-      "url": "https://open.spotify.com/track/5X2SBiyCzGiCZCsQQkpaPI"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "I Love Yo",
-        "url": "https://open.spotify.com/album/4mZGlPbfTXw8G2OQiOTmfJ"
-      },
-      "artists": [
-        {
-          "name": "Byron the Aquarius",
-          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
-        }
-      ],
-      "duration_ms": 339700,
-      "name": "I Love Yo",
-      "url": "https://open.spotify.com/track/4XLC6alPJZnwfOHKeac7yr"
+      "duration_ms": 248000,
+      "name": "Let's Stay in Love",
+      "url": "https://open.spotify.com/track/0oPkFCHGHtJsDlbNV6XkqW"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -987,6 +987,50 @@
     {
       "added_at": "2022-11-02 12:05:00",
       "album": {
+        "name": "BEETGOZON",
+        "url": "https://open.spotify.com/album/6jpw55D1UlAS2WODETLTg9"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        },
+        {
+          "name": "Prince African Child",
+          "url": "https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X"
+        }
+      ],
+      "duration_ms": 268961,
+      "name": "BEETGOZON",
+      "url": "https://open.spotify.com/track/7mRv0BMqcUihPgEeXSDO3z"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
+        "name": "I Love Yo",
+        "url": "https://open.spotify.com/album/4mZGlPbfTXw8G2OQiOTmfJ"
+      },
+      "artists": [
+        {
+          "name": "Byron the Aquarius",
+          "url": "https://open.spotify.com/artist/6kOYTwdWQF73PXP7WyRsNJ"
+        }
+      ],
+      "duration_ms": 339700,
+      "name": "I Love Yo",
+      "url": "https://open.spotify.com/track/4XLC6alPJZnwfOHKeac7yr"
+    },
+    {
+      "added_at": "2022-11-02 12:05:00",
+      "album": {
         "name": "Loosey",
         "url": "https://open.spotify.com/album/2nCJxgGHGeRUZz8HzhIvJd"
       },
@@ -1015,34 +1059,6 @@
       "duration_ms": 209826,
       "name": "She",
       "url": "https://open.spotify.com/track/7GEZKIuRhpIwNg3nAyg1br"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "BEETGOZON",
-        "url": "https://open.spotify.com/album/6jpw55D1UlAS2WODETLTg9"
-      },
-      "artists": [
-        {
-          "name": "RM47",
-          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
-        },
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        },
-        {
-          "name": "Raleigh",
-          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
-        },
-        {
-          "name": "Prince African Child",
-          "url": "https://open.spotify.com/artist/3nNV5KJxjANcM8IIFIi39X"
-        }
-      ],
-      "duration_ms": 268961,
-      "name": "BEETGOZON",
-      "url": "https://open.spotify.com/track/7mRv0BMqcUihPgEeXSDO3z"
     },
     {
       "added_at": "2022-11-02 12:05:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 161330,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/0PNqLl3M7EfhMHXKodY8PM"
-    },
-    {
-      "added_at": "2022-11-02 12:05:00",
-      "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 196056,
-      "name": "best",
-      "url": "https://open.spotify.com/track/1vNWrV9seAb6MaE0kOUWnI"
     }
   ],
   "unique_name": "Fresh Finds",

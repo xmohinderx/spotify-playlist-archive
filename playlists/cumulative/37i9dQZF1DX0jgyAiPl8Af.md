@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-446 songs - 19 hr 56 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+451 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2021-12-08 | 2022-07-08 |
 | [Before The Tide](https://open.spotify.com/track/2EA0USkLuQoDCZhOl73g25) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Before The Tide](https://open.spotify.com/album/7bHzqhTmGGfDNvYHEFQQGi) | 2:37 | 2022-10-28 |  |
 | [Bela Vista](https://open.spotify.com/track/4VbvFhMlAijXeY8fV9uhZa) | [Oliver Fowles](https://open.spotify.com/artist/1YSnhg3LTTtSqMNUOyauIP) | [Bela Vista](https://open.spotify.com/album/2onZ4M2kSJuPEFZ5HlQu6f) | 2:20 | 2021-12-08 |  |
-| [Believer](https://open.spotify.com/track/0c4eF0PfUDAB4UL3PT9e8b) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/0gRJgi1WqpfPhgPx9DOWHd) | 2:11 | 2022-09-02 |  |
+| [Believer](https://open.spotify.com/track/0c4eF0PfUDAB4UL3PT9e8b) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/0gRJgi1WqpfPhgPx9DOWHd) | 2:11 | 2022-09-02 | 2022-11-04 |
+| [Believer](https://open.spotify.com/track/39TkpMiAw9ys6ZWUDCatNf) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/2rTeVhHQD3ItGp8bpHvBZK) | 2:11 | 2022-10-28 |  |
 | [Bella Serata](https://open.spotify.com/track/3sJDlb5i2nbIACTqohBpNM) | [Ryze & Pea](https://open.spotify.com/artist/5hB3PiXau0Jw2qgtEABxXu) | [Bella Serata](https://open.spotify.com/album/7hRmiGwIcd8PqbGBiH1lRQ) | 2:49 | 2022-10-28 |  |
 | [Bilbao](https://open.spotify.com/track/7DDKbHVAJqh0AjBUDs2nvu) | [Márcia Sanz](https://open.spotify.com/artist/27OhafNGYrZXUPoBt4TNq8) | [Bilbao](https://open.spotify.com/album/3aVPFj2cpivc3pMcpqhKHq) | 2:51 | 2021-12-08 | 2022-09-23 |
 | [Bistro Giardino](https://open.spotify.com/track/1mCs31gM8QicTlUA8dlVCp) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Bistro Giardino](https://open.spotify.com/album/6xGMmuGK2uivCTjJ7n6a2s) | 2:51 | 2022-07-22 |  |
@@ -248,7 +249,8 @@
 | [Lovers](https://open.spotify.com/track/4KYoSAttyUqmzYisjrK8WR) | [Marc Holland](https://open.spotify.com/artist/4DxiFVzQ4xv4YqS7eow6Mn) | [Lovers](https://open.spotify.com/album/2NKE6ENQqre2SzfA4NAy8E) | 2:36 | 2021-12-08 |  |
 | [luminous](https://open.spotify.com/track/0jR7590uCLfEK8pe8bZAMC) | [Zé Barreto](https://open.spotify.com/artist/2O6o9mCeoLTDmsYBamVWBl) | [luminous](https://open.spotify.com/album/02BK5YS4DVi2adBR0grygQ) | 3:14 | 2021-12-08 | 2022-05-11 |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2022-09-02 |  |
-| [Madeline](https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2uQ9zlH6Ti2wUgPIydEaL7) | 2:10 | 2022-08-19 |  |
+| [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 |  |
+| [Madeline](https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2uQ9zlH6Ti2wUgPIydEaL7) | 2:10 | 2022-08-19 | 2022-11-04 |
 | [Magnolia](https://open.spotify.com/track/5PpiRTT6BA1XXDE9lSXmG9) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Magnolia](https://open.spotify.com/album/6fFlxjUIMESz9VejXNmHYD) | 2:22 | 2021-12-08 | 2022-07-08 |
 | [Make Believe](https://open.spotify.com/track/3PBroeekLgQrZShp9mnR4S) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Make Believe](https://open.spotify.com/album/2mPBIOqwG4I9uMQFstaEO9) | 3:03 | 2022-06-10 | 2022-07-22 |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-01-19 |  |
@@ -293,7 +295,8 @@
 | [Noorderpark](https://open.spotify.com/track/3RH9QlGintwquOHu54I3ch) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [The Woodlands](https://open.spotify.com/album/2mI9agJ2sMuPJqyVXMBS4K) | 2:14 | 2021-12-08 |  |
 | [Norske Danser](https://open.spotify.com/track/6xXLnSFpf5WViZrDbLr7n2) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Norske Danser](https://open.spotify.com/album/2YpOK5hE3INrNHYZwMpWW3) | 3:12 | 2021-12-08 | 2022-04-06 |
 | [North](https://open.spotify.com/track/7jBD4QWbUZdr5LHjvMSsMm) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [North](https://open.spotify.com/album/7aK3SFbPLVvrsL62GGOjxF) | 2:52 | 2022-04-05 |  |
-| [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 | 2022-09-16 |  |
+| [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2022-10-28 |  |
+| [Nostalgia](https://open.spotify.com/track/7mqFhE493l53bq0XNiccgk) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/56KoK3U87kpNUP1CXeDlmC) | 2:28 | 2022-09-16 | 2022-11-04 |
 | [Nuages](https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ) | [Alain Levet](https://open.spotify.com/artist/6P8zq55n2r1dlVgQuIRZcM) | [Nuages](https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ) | 2:05 | 2021-12-08 | 2022-09-09 |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2022-10-07 |  |
 | [Ode](https://open.spotify.com/track/2Hoxt6py7gP6fmV8Mh9OOm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Ode](https://open.spotify.com/album/7hAG7HHYB00bdiz4T2C6TO) | 2:40 | 2022-06-10 | 2022-10-29 |
@@ -330,7 +333,8 @@
 | [Raphaela](https://open.spotify.com/track/09eAG4nD5njEFBEhm2aQy9) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:00 | 2021-12-08 |  |
 | [Red Lava](https://open.spotify.com/track/5WXMiX0oO7fOya8WTWlXda) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Red Lava](https://open.spotify.com/album/3hv5Apc4dgS9cVVKmmDqQH) | 2:54 | 2021-12-08 | 2022-07-22 |
 | [Regenbogen](https://open.spotify.com/track/5vxJG9LhA0Og1hUrXYLkV7) | [Marc Neuer](https://open.spotify.com/artist/78g28CYicu3HUg0nsmh9FV) | [Regenbogen](https://open.spotify.com/album/6PBEKfVOxMDYBO9pxD3daL) | 3:03 | 2021-12-08 | 2022-07-08 |
-| [Relief](https://open.spotify.com/track/4zzSrHPsAPbQyPiGYvQKLB) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Relief](https://open.spotify.com/album/1RryC4T3T7ELYzuQyChUvz) | 2:23 | 2022-10-28 |  |
+| [Relief](https://open.spotify.com/track/4zzSrHPsAPbQyPiGYvQKLB) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Relief](https://open.spotify.com/album/1RryC4T3T7ELYzuQyChUvz) | 2:23 | 2022-10-28 | 2022-11-04 |
+| [Relief](https://open.spotify.com/track/64jQvDKwEQZEaoFVbeCLq1) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Relief](https://open.spotify.com/album/5Fpta2MS8KOIXKdQIIehPk) | 2:23 | 2022-10-28 |  |
 | [Remember Me \- Acoustic Guitar Fingerstyle](https://open.spotify.com/track/4PJKrajpXGcWDKgloksMxl) | [Liu Musix](https://open.spotify.com/artist/32P70mYx8VgEtP4byzEjiI) | [Remember Me \(Acoustic Guitar Fingerstyle\)](https://open.spotify.com/album/7kx9txBwz5cAYn4ZzD5cF8) | 1:14 | 2022-06-10 |  |
 | [Reminiscent Of Us](https://open.spotify.com/track/1CyUDJ44PxxDxKyNcS9n9H) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Reminiscent Of Us](https://open.spotify.com/album/7GZ9cChnV0Z267BDz8n4sg) | 2:33 | 2022-10-07 |  |
 | [Rest Sea](https://open.spotify.com/track/5UcoxNaxIuTV1WQ4eOzvYm) | [Glen Beasley](https://open.spotify.com/artist/46Xi2XceJCdHvaqnh55jyP) | [Rest Sea](https://open.spotify.com/album/1TXSpQbz2TlYhGxfh5eowq) | 2:13 | 2022-02-25 |  |
@@ -415,7 +419,8 @@
 | [The Sun Terrace](https://open.spotify.com/track/03DifiRgvdRwUsGhcuCtAG) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [The Sun Terrace](https://open.spotify.com/album/0nxokw3k5JfIzilT83AeN3) | 2:21 | 2022-09-23 |  |
 | [The Winner Takes It All](https://open.spotify.com/track/6zCX29J9qStbarE1cR2JWz) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [The Winner Takes It All](https://open.spotify.com/album/6Mw05nN1MkQlIYxAH8Mmub) | 3:02 | 2022-09-16 |  |
 | [Then We Danced](https://open.spotify.com/track/41uRtSlha7KeRzZK6F5iVT) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [Then We Danced](https://open.spotify.com/album/1piXCFSbSz9qXMu1uoAEG1) | 1:46 | 2021-12-08 | 2022-08-06 |
-| [This Time Tomorrow](https://open.spotify.com/track/6OpC8QfhcsesgXzZvm8gqX) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/1YtMptZExJhRBXGaHic3Mh) | 2:09 | 2022-10-28 |  |
+| [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2022-10-28 |  |
+| [This Time Tomorrow](https://open.spotify.com/track/6OpC8QfhcsesgXzZvm8gqX) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/1YtMptZExJhRBXGaHic3Mh) | 2:09 | 2022-10-28 | 2022-11-04 |
 | [Through the canyon](https://open.spotify.com/track/7IfuYpqyqgoXHEoaQOmzZg) | [Feran Ali](https://open.spotify.com/artist/2Gpe2ttb0vi4UU3fT5h92j) | [through the canyon](https://open.spotify.com/album/3dbAktoedWmlxLDXffMk0O) | 3:36 | 2021-12-08 | 2022-07-08 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2021-12-08 | 2022-02-16 |
 | [ti manchi](https://open.spotify.com/track/0WATdTqiw0R4OqBhw8T8aR) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [ti manchi](https://open.spotify.com/album/1eeGzLVpAtr0SOS3g1bOA7) | 2:11 | 2022-04-05 |  |

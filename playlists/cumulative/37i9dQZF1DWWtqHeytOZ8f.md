@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-533 songs - 1 day 22 hr 44 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
+534 songs - 1 day 22 hr 48 min - [published](https://open.spotify.com/playlist/4e7iEbtUvKT5kUZr66KUI3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Eyes of the Moon](https://open.spotify.com/track/6nAimkCH16w8PFtFxD1tj8) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Eyes of the Moon](https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs) | 5:13 | 2021-10-20 |  |
 | [Eyes of the Wind](https://open.spotify.com/track/7vnrZqseiH7uEAXEYYHwmm) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB) | [Draw Me a Silence \(Extended Version\)](https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu) | 6:26 | 2021-10-20 | 2022-07-28 |
 | [Fading In](https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6) | [Soular Child](https://open.spotify.com/artist/0UUiNe399XY6xl116DbUOn), [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [Fading In And Out](https://open.spotify.com/album/6j1FkmIUkgTADDADZUNnHh) | 3:01 | 2022-03-11 | 2022-09-21 |
+| [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 3:51 | 2021-11-12 |  |
 | [Fairy Creek Alder in the Evening \(Raag Kafi\)](https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 3:51 | 2021-11-12 | 2022-08-14 |
 | [False Angel Lullaby](https://open.spotify.com/track/5Q9QWEZCmxTMTC25HrUaEf) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Labyrinth](https://open.spotify.com/album/2uXc2ajokBOxI2FX27icQ9) | 7:24 | 2021-10-20 |  |
 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 | 2021-10-20 |  |
@@ -386,7 +387,7 @@
 | [Santosha](https://open.spotify.com/track/1Lx2eaXNUdvqgO1f70LSrQ) | [Van Sandano](https://open.spotify.com/artist/1ncrVuDd5AG12G0rwAJP8z) | [Yuma](https://open.spotify.com/album/6BIPb7wIRPrkPar5cMawk2) | 2:40 | 2021-10-20 |  |
 | [Say Something](https://open.spotify.com/track/43rqUnNFGNGZdRXjskdj5Z) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Riven](https://open.spotify.com/album/350aCIe1s5yP9XOoO1ZTZg) | 2:38 | 2021-10-20 |  |
 | [See](https://open.spotify.com/track/7KRmNCnkr1h0UnfmHdFaFD) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [Spiritual 2](https://open.spotify.com/album/1GRF6wjrtvSGqPiUgdvuyM) | 5:47 | 2021-10-20 | 2022-07-29 |
-| [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [Verdandi](https://open.spotify.com/artist/1OCPf5fgDsnkOa7ybQlcTQ) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 |  |
+| [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [Verdandi](https://open.spotify.com/artist/1OCPf5fgDsnkOa7ybQlcTQ) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 | 2021-10-20 | 2022-11-04 |
 | [September Remember](https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 5:09 | 2021-10-20 |  |
 | [Sequenza](https://open.spotify.com/track/6jDj0HDUVYnM4USdMc3uMZ) | [Grosskopof & Amezcua](https://open.spotify.com/artist/3C2S50mhsAz2PknUWUxMlf) | [Quetzalkrautl](https://open.spotify.com/album/5icq9aVdOKj7HQRU71jW6O) | 9:56 | 2021-10-20 | 2022-07-29 |
 | [Seti](https://open.spotify.com/track/5UtM8BN4TW6DtZzaF9G3UF) | [The Black Dog](https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq) | [Music For Adverts \(And Short Films\)](https://open.spotify.com/album/6wEKsOnGwXOOlotDoAakIX) | 1:03 | 2021-10-20 | 2022-05-24 |

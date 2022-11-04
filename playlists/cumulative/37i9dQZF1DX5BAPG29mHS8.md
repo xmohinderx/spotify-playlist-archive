@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México, con Yuridia & Ángela Aguilar.
+> Los hits de ahora en la playlist más grande de México, con Shakira.
 
 226 songs - 12 hr 40 min - [published](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 

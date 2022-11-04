@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-4,191 songs - 6 day 15 hr 42 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
+4,192 songs - 6 day 15 hr 44 min - [published](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3276,7 +3276,8 @@
 | [Slushies](https://open.spotify.com/track/69HmwjbEslTDyPvHK1RucH) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f), [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ) | [Slushies](https://open.spotify.com/album/4lpwYPMZWGNNn82YRw624V) | 2:06 | 2020-04-05 | 2021-06-18 |
 | [Smear](https://open.spotify.com/track/5d5MGTGygirIvYMCC6IxUs) | [Alan Peach](https://open.spotify.com/artist/3p9DUgWUfQNduHS1FiffTX) | [3X](https://open.spotify.com/album/5SeTh6wHnrEFboMoQ4oGo5) | 2:05 | 2021-01-13 | 2021-11-21 |
 | [smet](https://open.spotify.com/track/7EW0u8DM1elNsehpykrhcu) | [ding m](https://open.spotify.com/artist/3YpyfRGmyOjU5Sdx6xMwBn) | [smet](https://open.spotify.com/album/5f8UFfSgkJ6PN8ClaqnNvb) | 2:32 | 2021-07-17 | 2022-03-12 |
-| [Smile](https://open.spotify.com/track/2YcBkmfewCAvWyvEse10VP) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Smile](https://open.spotify.com/album/6Pfd1UQRSIwL1cETISL9aK) | 2:00 | 2022-10-28 |  |
+| [Smile](https://open.spotify.com/track/2YcBkmfewCAvWyvEse10VP) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [Smile](https://open.spotify.com/album/6Pfd1UQRSIwL1cETISL9aK) | 2:00 | 2022-10-28 | 2022-11-04 |
+| [Smile](https://open.spotify.com/track/6wCOjkSpI545KqIKaJythk) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Smile](https://open.spotify.com/album/2Apvu3ugAERbp6jk9kcxrV) | 2:00 | 2022-10-28 |  |
 | [smiles & sunsets](https://open.spotify.com/track/0usA9kIhNhU87kHVl8Gc0G) | [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [i'm coming home](https://open.spotify.com/album/6OFWEuzgTHXMkeVkvdZxPh) | 2:17 | 2022-07-29 | 2022-08-05 |
 | [smiles & sunsets](https://open.spotify.com/track/1yJk914zsvgHV15l1WaI3z) | [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j) | [i'm coming home](https://open.spotify.com/album/5nI5O54LI6yTsw9N6R3xEq) | 2:17 | 2022-03-11 | 2022-07-29 |
 | [Smiley](https://open.spotify.com/track/2tXjkhsUKUfxP7VyQV5Bod) | [Ghost Leopards](https://open.spotify.com/artist/2soXv4BgWAAmMaGrAqBgyX) | [Smiley](https://open.spotify.com/album/3j1P4RhfK15dStKz0z9iI1) | 2:09 | 2022-10-07 |  |

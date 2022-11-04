@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile! Foto: Mc Jacar\u00e9",
-  "num_followers": 789453,
+  "num_followers": 789478,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDBiZjE2YzMyNDk2MjIzMTM3ZjQ3OGRhYzNiZjQ0MGIx",
+  "snapshot_id": "MTY2NTc2OTI0MCwwMDAwMDAwMDc2ODUzYzFkYzcxZGNmNjc3YjRiODI5NzExNDQ5NDAz",
   "tracks": [
     {
       "added_at": "2022-10-07 03:03:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/2VwdSlB0N5SyiGREdLyo2Q"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/41RtcX3L4Ee6AzgZEBkMFC"
     },
     {
       "added_at": "2022-10-07 03:03:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-10-07 03:03:00",
       "album": {
+        "name": "Kikadinha",
+        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
+      },
+      "artists": [
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 146158,
+      "name": "Kikadinha",
+      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
+    },
+    {
+      "added_at": "2022-10-07 03:03:00",
+      "album": {
         "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
         "url": "https://open.spotify.com/album/0FkHrCD8RzALIgBvzsqvXR"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 186363,
       "name": "S\u00f3 Tap\u00e3o Nervoso Vs Toma Catucada Violenta",
       "url": "https://open.spotify.com/track/2BEGTomoM88uGMOzRmZirl"
-    },
-    {
-      "added_at": "2022-10-07 03:03:00",
-      "album": {
-        "name": "Kikadinha",
-        "url": "https://open.spotify.com/album/1SFRgpdcJKaTeGQmU1Pq6E"
-      },
-      "artists": [
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 146158,
-      "name": "Kikadinha",
-      "url": "https://open.spotify.com/track/4cVhsNXSwSLIZJjwexEoYe"
     },
     {
       "added_at": "2022-10-07 03:03:00",

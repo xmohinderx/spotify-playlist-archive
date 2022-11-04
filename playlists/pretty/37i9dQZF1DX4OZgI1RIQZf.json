@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 12854,
+  "num_followers": 12967,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQyNTQ1MSwwMDAwMDAwMGQ5MWU2ZjA1NmJjNGYzODc1Y2Q3YmJiYmFmOThiYzVh",
+  "snapshot_id": "MTY2NzQyNTQ1MSwwMDAwMDAwMGJkNDZmYzMyNDFlNTdiNGNiY2ZkYzgwZTk2Y2I1N2M1",
   "tracks": [
     {
       "added_at": "2022-11-02 21:44:11",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Dead Man's Bones",
-        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
-      },
-      "artists": [
-        {
-          "name": "Dead Man's Bones",
-          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Dead Man's Bones",
-      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Dead Man's Bones",
+        "url": "https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr"
+      },
+      "artists": [
+        {
+          "name": "Dead Man's Bones",
+          "url": "https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Dead Man's Bones",
+      "url": "https://open.spotify.com/track/6vLgqz7K77h0kRraU31R5x"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 307453,
-      "name": "Skeleton Song",
-      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 168936,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 307453,
+      "name": "Skeleton Song",
+      "url": "https://open.spotify.com/track/6gYzY4CIR667rZxQ6bfYTz"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "I Feel Better",
-        "url": "https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Halloween",
-      "url": "https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Zombie Prom (Hallowe'en At Home Edition)",
         "url": "https://open.spotify.com/album/6PQJubA12Yap1KhrUruMfW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 218693,
       "name": "Zombie Prom",
       "url": "https://open.spotify.com/track/7yMbT5HHdk8NpuchXIL18b"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "I Feel Better",
+        "url": "https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 154773,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK"
     },
     {
       "added_at": "2022-11-02 21:44:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-02 21:44:11",
       "album": {
-        "name": "A Girl Like You",
-        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
-      },
-      "artists": [
-        {
-          "name": "Anna B Savage",
-          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "A Girl Like You",
-      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
-    },
-    {
-      "added_at": "2022-11-02 21:44:11",
-      "album": {
         "name": "Evil Urges",
         "url": "https://open.spotify.com/album/4IqeW3hG9973Yd6ajqiNl1"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2022-11-02 21:44:11",
+      "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"
     },
     {
       "added_at": "2022-11-02 21:44:11",

@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-198 songs - 16 hr 24 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
+199 songs - 16 hr 26 min - [published](https://open.spotify.com/playlist/1CBal6MWGHQHhJpI3e8YnM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Stranger Than Fiction](https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 4:54 | 2021-10-06 |  |
 | [Street Fighter Mas](https://open.spotify.com/track/3ZaCCDIIXC2NmcT1CHI5MP) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/6f3h8jHeXY6I6qduBrK3eK) | 5:58 | 2021-10-06 |  |
 | [Street Fighter Mas](https://open.spotify.com/track/42HCaQAAihJZBY12wIZvyR) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Heaven and Earth](https://open.spotify.com/album/4gqOopeAEc1uZ392BBAWEd) | 5:58 | 2021-10-06 | 2022-07-27 |
-| [Suburban Breeze](https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Suburban Breeze](https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9) | 2:07 | 2022-08-31 |  |
+| [Suburban Breeze](https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Suburban Breeze](https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9) | 2:07 | 2022-08-31 | 2022-11-04 |
+| [Suburban Breeze](https://open.spotify.com/track/6xgskwtbWpagoXEIeAHHK3) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 2:07 | 2022-08-31 |  |
 | [Swampland](https://open.spotify.com/track/2Zq3fBk4B3hZTnEzdF9nXf) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA) | [Swampland / Cava](https://open.spotify.com/album/2I7YD99ufqdOt0bh4IFywE) | 1:15 | 2022-08-03 |  |
 | [Taina](https://open.spotify.com/track/1ZW0uQWkcZsqdh1wkVk0uL) | [Schepetkov](https://open.spotify.com/artist/0MRze6X3tOV76bQXUupBtK), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Taina](https://open.spotify.com/album/5zjwRiG6UwUqKtBnJCaTlY) | 3:20 | 2022-04-23 | 2022-10-14 |
 | [Taina](https://open.spotify.com/track/7lPECtUbhmG1I5JsDtDBqi) | [Schepetkov](https://open.spotify.com/artist/0MRze6X3tOV76bQXUupBtK), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Taina](https://open.spotify.com/album/03JN38q1O89mmiDOPPzJqv) | 3:20 | 2022-04-23 |  |

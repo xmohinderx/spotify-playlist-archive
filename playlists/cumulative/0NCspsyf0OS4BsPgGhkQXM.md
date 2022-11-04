@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs \- cover featuring NGHTMRE.
 
-529 songs - 1 day 4 hr 30 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+530 songs - 1 day 4 hr 33 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-14 | 2022-03-05 |
 | [Pariseo](https://open.spotify.com/track/4xtZX2sfj6BtWtP69Hs3SV) | [Reggio](https://open.spotify.com/artist/1Q6CDBTFFKnanZ20DS2QnQ), [Bonavita](https://open.spotify.com/artist/4e4QDiHynCIDhrNa6b7aSu) | [Pariseo](https://open.spotify.com/album/5KOp4m9QBrWAAs0PIGdz5I) | 2:45 | 2022-08-12 | 2022-09-10 |
 | [Pass U By \- Kaiya Remix](https://open.spotify.com/track/3naGretUMIoXAGe3SKiHsE) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Kaiya](https://open.spotify.com/artist/3o9Izl3cucB4KySDX6m6W8) | [Pass U By \(Kaiya Remix\)](https://open.spotify.com/album/5JnbnkdsLoFS731Ia17bat) | 2:47 | 2022-06-23 |  |
+| [Perfect](https://open.spotify.com/track/4cYwEZHldKTQOvnpMdKn6d) | [FREAKY](https://open.spotify.com/artist/6sYyA68IIlFTfDlHzDFlGT), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac) | [Perfect](https://open.spotify.com/album/37GSUYEcuIuQ7x8hRvGNXr) | 3:31 | 2022-11-03 |  |
 | [Pharaoh](https://open.spotify.com/track/5diYHmzYz39n8d6b1z06A6) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU) | [Pharaoh](https://open.spotify.com/album/1GBh4jjqyzmaUmpS452TWG) | 2:19 | 2022-08-05 |  |
 | [Phonky Halloween](https://open.spotify.com/track/5i1FsUcq7pATeyHJiU1yTZ) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Phonky Halloween](https://open.spotify.com/album/71e4Jhf7DBdO6FLcQzCwrA) | 2:16 | 2022-10-28 |  |
 | [Pieces](https://open.spotify.com/track/1rjh0sy4w8xmWopEhG1h0P) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Pieces](https://open.spotify.com/album/3erPBryAjGLFaPoSX94WXL) | 3:45 | 2022-01-14 | 2022-09-15 |

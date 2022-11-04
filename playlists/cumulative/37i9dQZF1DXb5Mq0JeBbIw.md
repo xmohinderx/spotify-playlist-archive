@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-184 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+185 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Fill Me Up](https://open.spotify.com/track/1d17pl7cIypQY8CABIJpWb) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Summer 3000](https://open.spotify.com/album/7BAhm5zjEzoHlfC3cIZaKf) | 2:34 | 2022-05-30 | 2022-07-28 |
 | [Fill Me Up](https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Fill Me Up](https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14) | 2:34 | 2022-06-24 |  |
 | [find me wrong](https://open.spotify.com/track/51Ah5WLGqFapuowJaxKMQg) | [Coral](https://open.spotify.com/artist/6OrtrrYAjzBNILMrtty09i) | [find me wrong](https://open.spotify.com/album/59wwhZPCWFcCJo7S7EUx4F) | 3:16 | 2022-05-30 | 2022-07-29 |
-| [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 | 2022-05-30 |  |
+| [Find You \- Acoustic](https://open.spotify.com/track/7xN977RNEqdvirU4OqBa10) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Find You \(Acoustic\)](https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ) | 3:15 | 2022-05-30 | 2022-11-04 |
 | [First Time](https://open.spotify.com/track/39gE6tDHRL072PInfAabLi) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [First Time](https://open.spotify.com/album/5E11xWC5Sm1XQBwcVDmcqz) | 3:13 | 2022-06-24 |  |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2022-05-30 |  |
 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 | 2022-05-30 | 2022-07-29 |
@@ -83,6 +83,7 @@
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3OujlPpq73NTAsy1JFFIRN) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/1k7LEZPI6qI1ZDYfXMgpDv) | 2:43 | 2022-05-30 | 2022-07-29 |
 | [I Will Wait](https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [I Will Wait](https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX) | 3:36 | 2022-05-30 |  |
 | [I'll Buy a House \- Acoustic](https://open.spotify.com/track/0DUYYLUzQNVNRMtr2vk1lh) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy a House \(Acoustic\)](https://open.spotify.com/album/6BtWRmzFx7OInkYziWbPJF) | 3:06 | 2022-05-30 | 2022-10-18 |
+| [I'll Buy A House \- Acoustic](https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN) | [I'll Buy A House \(Acoustic\)](https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO) | 3:06 | 2022-10-07 |  |
 | [I'll Follow You into the Dark](https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10) | [King Leer](https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah) | [I'll Follow You into the Dark](https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ) | 2:27 | 2022-05-30 | 2022-07-28 |
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 |  |

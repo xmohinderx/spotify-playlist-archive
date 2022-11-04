@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-178 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+179 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Pärt: Für Alina \- 1\. Für Alina](https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Alexander Malter](https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH) | [Contemporary Piano](https://open.spotify.com/album/3rc04zjug6LVTSqefi5v5A) | 10:42 | 2022-01-21 | 2022-07-21 |
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
+| [Retrato](https://open.spotify.com/track/4i3zoVPfErzbpCtqplEDPL) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 2:26 | 2022-10-14 |  |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 | 2022-07-24 |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
 | [Sacro Bosco](https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Sacro Bosco](https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc) | 6:23 | 2022-01-21 | 2022-08-18 |
@@ -149,7 +150,7 @@
 | [Supreme Monuments](https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 1:48 | 2022-01-21 |  |
 | [Ten Days Of Silence](https://open.spotify.com/track/7MKDDopU4Sc64SORGL3qY5) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Ten Days of Silence](https://open.spotify.com/album/1gqCn9PPhEg5FCx0luN0uu) | 4:01 | 2022-03-25 | 2022-04-20 |
 | [Thaw](https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir) | [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Evighet](https://open.spotify.com/album/7Cd5dCtulmThozmYAv1I9s) | 7:54 | 2022-01-21 | 2022-07-28 |
-| [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 |  |
+| [The Aurae Loops](https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 5:42 | 2022-01-21 | 2022-11-04 |
 | [The Church \- From The "Men" Original Motion Picture Soundtrack](https://open.spotify.com/track/0fQkf9YaBHEzdT0SpsdCVx) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [The Church \(From The "Men" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2GnIduqIk7FJKEDgKLfLmr) | 4:25 | 2022-05-06 | 2022-07-28 |
 | [the distance between us](https://open.spotify.com/track/2QN2myMPxIyn2rsqU3FpFR) | [monosleep](https://open.spotify.com/artist/2rHHKIugCALDXcAaYryNCt) | [a world of possibility](https://open.spotify.com/album/6w6EdQV1km9T25x209Q4sx) | 2:30 | 2022-08-17 |  |
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2022-01-21 |  |

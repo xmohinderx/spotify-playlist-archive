@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 58922,
+  "num_followers": 59052,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMGQ1ZDI5YWIzMGRkZmU5ZTE3Y2JlYzQzZWZjZTFkYmQ5",
+  "snapshot_id": "MTYzNTI1NjAyOSwwMDAwMDAwMDc5MWUzNmU5ZDJjYmIwYjUwZGExYWVhOWVhOWNlMTA5",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Rip It Up",
+        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
+      },
+      "artists": [
+        {
+          "name": "Orange Juice",
+          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
+        }
+      ],
+      "duration_ms": 320413,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "At Night (Remixes)",
         "url": "https://open.spotify.com/album/4F5OnBWfJa7YfjRZ86bZc8"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 431281,
       "name": "At Night - Peggy Gou's Acid Journey Remix",
       "url": "https://open.spotify.com/track/2S07r08uP4VjkbEkHgt3ot"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Rip It Up",
-        "url": "https://open.spotify.com/album/0kyKdRPKFDn8cATzWkFAsO"
-      },
-      "artists": [
-        {
-          "name": "Orange Juice",
-          "url": "https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu"
-        }
-      ],
-      "duration_ms": 320413,
-      "name": "Rip It Up",
-      "url": "https://open.spotify.com/track/7y4CtoXHFbs8VgcqbaYb9P"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -399,22 +399,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "White Light",
-        "url": "https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
-        }
-      ],
-      "duration_ms": 345520,
-      "name": "Warsaw - White Light Version",
-      "url": "https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/04SaOzCUwkyGVkCsw1sYFH"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 432217,
       "name": "Patchwork Jazz",
       "url": "https://open.spotify.com/track/62b32TAMVvNNOEjw806SyQ"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/1EVEmfVskivH7bbA6OVS45"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "Warsaw - White Light Version",
+      "url": "https://open.spotify.com/track/4SzoQuDQIEm8saHC85w8CT"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Sector II: Acid",
-        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
-      },
-      "artists": [
-        {
-          "name": "MATRiXXMAN",
-          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
-        }
-      ],
-      "duration_ms": 465312,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "I Have a Question",
         "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 361402,
       "name": "Sound 6",
       "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Sector II: Acid",
+        "url": "https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U"
+      },
+      "artists": [
+        {
+          "name": "MATRiXXMAN",
+          "url": "https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y"
+        }
+      ],
+      "duration_ms": 465312,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ"
     },
     {
       "added_at": "2021-10-22 11:07:27",

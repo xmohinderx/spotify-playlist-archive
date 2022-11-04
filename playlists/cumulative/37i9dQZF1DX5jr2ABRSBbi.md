@@ -4,7 +4,7 @@
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Tamara Kramar
 
-173 songs - 9 hr 29 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
+174 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/0SBZE5WqIPIEhAB3YQXr14)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Champ](https://open.spotify.com/track/3mor9gkLB2b6fGo9ckK89V) | [Fourtuna](https://open.spotify.com/artist/3rQv0qMuHpgSiiGRLDHkyb) | [Champ](https://open.spotify.com/album/6SioqIGyuxCANDwoMEF91I) | 4:24 | 2021-12-07 | 2022-04-06 |
 | [Dark](https://open.spotify.com/track/6tH84i4TyWzWUJGS54A7jM) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Dark](https://open.spotify.com/album/6k6JIL8EdqPvGLS9oFrjH7) | 3:27 | 2022-03-07 | 2022-04-06 |
 | [Different Kind](https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr) | [Nikita Kingston](https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ) | [Different Kind](https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh) | 3:12 | 2022-05-31 | 2022-11-02 |
+| [Down / House of Cards](https://open.spotify.com/track/72foKCqAhGyaeofqmQ2TL0) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Down / House of Cards](https://open.spotify.com/album/2ndm3i6NRcaR2EmUiuh7vo) | 4:01 | 2022-11-03 |  |
 | [Dw About Me](https://open.spotify.com/track/0YegRkJ8GuJHMsyY0KOpKw) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [Dw About Me](https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD) | 2:57 | 2021-12-07 | 2022-01-05 |
 | [Dáždnik \(Sama\)](https://open.spotify.com/track/1JQvmONdxM4MoIktSYmqfk) | [JANA A JA](https://open.spotify.com/artist/5FecktDzLZJ73dHCG5MNWc) | [Dáždnik \(Sama\)](https://open.spotify.com/album/5FU0bDw4QXwq82fhRkdQV7) | 4:13 | 2021-12-07 | 2022-05-04 |
 | [Dívej se na mě](https://open.spotify.com/track/6OKl82jaG9474QrMrcyKJ4) | [Tereza Mašková](https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC) | [Dívej se na mě](https://open.spotify.com/album/00jRIMoRhtotG3VXTUyKxy) | 2:53 | 2022-05-31 | 2022-11-02 |
@@ -99,7 +100,7 @@
 | [Náš příběh \(feat\. Marek Lambora\)](https://open.spotify.com/track/6bM8lUJqOKk01onB5DfjKL) | [Tereza Mašková](https://open.spotify.com/artist/4m4vkJiLg3nbmwdxySeIVC), [Marek Lambora](https://open.spotify.com/artist/307KJERDuX0AymnyTPiFLh) | [Svět je málo růžový](https://open.spotify.com/album/6cCn5zosowaY0BdOSDS0aQ) | 3:11 | 2022-11-01 |  |
 | [Někde tam](https://open.spotify.com/track/0CNycyUlxVGH26YwhqsZba) | [Vladivojna La Chia](https://open.spotify.com/artist/1tCZPIH2JszVz5PuTRWEzy), [David Pomahač](https://open.spotify.com/artist/3OKWvddDfUzluXdXhkBFKI) | [Někde tam](https://open.spotify.com/album/3Sdb81ReGcQON5kuHwETlR) | 4:21 | 2022-11-01 |  |
 | [O Tobě i o mně](https://open.spotify.com/track/3MZNFHa1USLh0XKQmKvsEN) | [Anna K.](https://open.spotify.com/artist/5OCpdoaMu02P7pJABqhsfS) | [O Tobě i o mně](https://open.spotify.com/album/3UhMueV8N3EVKqYVw9fOG4) | 3:45 | 2022-06-30 | 2022-11-02 |
-| [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 | 2022-10-04 |  |
+| [Oh my mind](https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Oh my mind](https://open.spotify.com/album/2glevWrlWJ7Qy0P3yy1P9O) | 2:51 | 2022-10-04 | 2022-11-04 |
 | [Old Photos](https://open.spotify.com/track/478YiimS1qz1cw9uCBy92c) | [Evah](https://open.spotify.com/artist/1t9G8Ol2BuSJnbTAEOJYZh) | [Old Photos](https://open.spotify.com/album/4HndRERHQDTlpwbSksfChN) | 3:49 | 2021-12-07 | 2022-04-06 |
 | [One and Only](https://open.spotify.com/track/3lsBhGXCLlNaoN4j1addpV) | [Tea Sofia](https://open.spotify.com/artist/29VjAXbeZqPa8PSNxF8Q5W) | [One and Only](https://open.spotify.com/album/4YcBmYAW8XgkLjN2seCSny) | 3:31 | 2022-04-05 | 2022-10-05 |
 | [Oči](https://open.spotify.com/track/3Mqmll2zjEj2vArurOtewp) | [Kateřina Göttlichová](https://open.spotify.com/artist/2nK6ZgrTbHqR0hvLeCaddq) | [Zimnice](https://open.spotify.com/album/4fSjQwZr5pHDDuWvoSgS7a) | 3:25 | 2021-12-07 | 2022-06-01 |

@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste super artiste italiane! Cover: la musicista, produttrice e DJ <a href="spotify:artist:2fB3iExnBIP2AA713JAqIM">PLASTICA</a>
 
-379 songs - 19 hr 32 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
+381 songs - 19 hr 37 min - [published](https://open.spotify.com/playlist/0Bc0t88jmiMKkV4jRykwOc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Chiro](https://open.spotify.com/track/5Kzd1sHqx6iWuteThnMLlO) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:00 | 2022-04-05 | 2022-06-03 |
 | [Chéri](https://open.spotify.com/track/5jz9BiuSp78MAoDrg4fbDU) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Chéri](https://open.spotify.com/album/3jZQ18MgHtm8RFHRAJ4Fo7) | 2:50 | 2022-07-05 | 2022-08-03 |
 | [CHÉRI](https://open.spotify.com/track/1uvIMehY88CCZlIAMLrLKv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ) | [CHÉRI](https://open.spotify.com/album/5YnhlANP5pVjGBGxhMreyV) | 2:50 | 2021-12-07 | 2022-01-05 |
+| [Ciao](https://open.spotify.com/track/2WQma2feYNw6CiU1DaWNlL) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR) | [Ciao](https://open.spotify.com/album/4WEvLkxsWfbVTFgqxbHGeb) | 2:35 | 2022-11-01 |  |
 | [CICATRICI \(feat\. Madame\)](https://open.spotify.com/track/7FSEYn1LL9UemeYeuXCHRm) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 2:53 | 2022-03-07 | 2022-05-04 |
 | [Cimitero acattolico](https://open.spotify.com/track/3CZi9dtAQ6GocbpkrEqAIh) | [PRISCILLA](https://open.spotify.com/artist/0eVN4q9aIBkLZe4FtETm5D) | [Cimitero acattolico](https://open.spotify.com/album/1aWLaXgW70zYGNMtgeSIYZ) | 2:54 | 2022-06-02 | 2022-07-06 |
 | [Circe](https://open.spotify.com/track/6G2WFzmbeD4IRjxDTiWP1t) | [Agape](https://open.spotify.com/artist/2YmlkT3anMu3cZRZhu1wxn) | [Circe](https://open.spotify.com/album/6nxo8m2AnTlwFO6hYJb07Y) | 2:58 | 2022-07-05 | 2022-08-03 |
@@ -358,6 +359,7 @@
 | [Tempesta](https://open.spotify.com/track/2LzBjz9iIO71DCfpL5JwRe) | [Margherita Grechi](https://open.spotify.com/artist/1sP5097vTVkcIjAxK7i4aM) | [Sad Movida](https://open.spotify.com/album/43BrIRZMc1w3faA5PGrlzo) | 2:49 | 2022-02-02 | 2022-04-06 |
 | [Ti amo non lo so dire](https://open.spotify.com/track/0ghwEektHMemDGqmOzsNnc) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Ti amo non lo so dire](https://open.spotify.com/album/4xdh3qnIp6cwjHUzq27svz) | 3:37 | 2022-02-02 | 2022-04-06 |
 | [ti dirò](https://open.spotify.com/track/5vlA0S3wArEk2g3rusAjAB) | [mich<3](https://open.spotify.com/artist/60TrKa4pL7M9VGcFqa1n9F) | [ti dirò](https://open.spotify.com/album/3gshscBfAVlzXIbrjiWe95) | 2:45 | 2022-08-02 | 2022-10-07 |
+| [TIKTOK](https://open.spotify.com/track/6yTYFMBzO6zvFJJh9Qvglk) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [TIKTOK](https://open.spotify.com/album/0UEVX5fnteCLNsiJ91ukUi) | 2:17 | 2022-11-01 |  |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-07-05 | 2022-09-07 |
 | [TORINO](https://open.spotify.com/track/25VVlIryCNQU06FHaj9ypw) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [TORINO](https://open.spotify.com/album/0s620TbmAkzcqUOpgKHIXh) | 2:56 | 2022-10-06 |  |
 | [Tornerai](https://open.spotify.com/track/1trQzP600JNFcrPzD30OVX) | [Tamì](https://open.spotify.com/artist/3DPniGk3KehPU6Z3dOy34Y) | [Tornerai](https://open.spotify.com/album/7gyjTOcAKEP7PRbuLDl57y) | 3:09 | 2022-10-06 | 2022-11-02 |

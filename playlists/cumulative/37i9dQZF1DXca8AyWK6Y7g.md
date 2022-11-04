@@ -4,7 +4,7 @@
 
 > living life in your 250sq ft micro apartment Cover: UPSAHL
 
-1,376 songs - 2 day 22 hr 38 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,377 songs - 2 day 22 hr 40 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Do You Think About Us?](https://open.spotify.com/track/6s5o5mxQbXEa2hW2SM5NBn) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Do You Think About Us?](https://open.spotify.com/album/6Rltb5R38rbvChgQyWlvQW) | 4:05 | 2019-05-26\* | 2019-08-13 |
 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 | 2021-11-19 | 2022-03-12 |
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/6LbtLmUbt5MCydSpovIJAw) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/65bVXONatvnkNP5Jy8u3BN) | 4:54 | 2021-07-16 | 2022-01-12 |
-| [Don't Have the Heart](https://open.spotify.com/track/6sTy9DMAYghQnFFUhfpTx7) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Don't Have the Heart](https://open.spotify.com/album/7yRqeDeCpGeDF9le9SEAAX) | 3:18 | 2022-09-30 |  |
+| [Don't Have the Heart](https://open.spotify.com/track/6sTy9DMAYghQnFFUhfpTx7) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Don't Have the Heart](https://open.spotify.com/album/7yRqeDeCpGeDF9le9SEAAX) | 3:18 | 2022-09-30 | 2022-11-04 |
 | [Don't Let Me Down](https://open.spotify.com/track/36fHADliwp4ColP0Gypg5W) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Don't Let Me Down](https://open.spotify.com/album/3e2btgBFWY3kzpobOTRCN2) | 3:20 | 2020-05-06 | 2021-10-13 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2021-11-26 |  |
 | [Don't Need You \- Remix](https://open.spotify.com/track/2q417j6tLiesXGaLg3moek) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Don't Need You \(Remix\)](https://open.spotify.com/album/54idTn2jECfHYnDnNpf8Sx) | 3:29 | 2021-04-21 | 2021-10-13 |
@@ -344,6 +344,7 @@
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-09-03 |
 | [DOWN](https://open.spotify.com/track/09zhjKEQwsJnJul6yZefyM) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Akurei](https://open.spotify.com/artist/63H0n4HapCWFaX42LIfY37) | [DOWN](https://open.spotify.com/album/1y8E6aLMD5HA2XgyJVg9Fe) | 3:14 | 2020-02-19 | 2021-11-09 |
 | [Down for You](https://open.spotify.com/track/5Y6KVqFrsZDIkKBC6K7QQ4) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:13 | 2021-01-23 | 2022-01-08 |
+| [Dracula](https://open.spotify.com/track/5JTO8WoZfswTfgiCmmwFg5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Dracula](https://open.spotify.com/album/4TBYF9lw88IP8fIjehrVxG) | 2:33 | 2022-10-28 |  |
 | [Dream Dream Dream](https://open.spotify.com/track/1oUbYmF4SYYHorKY1wKo0K) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Dream Dream Dream](https://open.spotify.com/album/5pvCGCeutZQhMsLOiGvZSK) | 3:54 | 2019-07-27 | 2021-03-20 |
 | [Dreaming](https://open.spotify.com/track/21JbwuOaYB6uAXp3iISVLk) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Dreaming](https://open.spotify.com/album/2DSYAM4Rzqf86gs5apt1hq) | 3:51 | 2019-05-26\* | 2019-09-14 |
 | [Drinks](https://open.spotify.com/track/7c2ag2Q4vhJyjDANataJj2) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Drinks](https://open.spotify.com/album/6JOAYeMZPAV5liS4RlUA0b) | 2:30 | 2020-05-22 | 2021-03-23 |

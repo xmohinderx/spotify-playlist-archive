@@ -1,13 +1,53 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21207,
+  "num_followers": 21208,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwMzEsNzJhMjJkNmE0NGFhZDI3MjlkNTBlZTAxMjYwZjc5OTY3MmQwYzFlZg==",
+  "snapshot_id": "MTAwNDMsMDZjZTMwZGE4NmJkYTNlNWJkMmU2ODMwYjA4Njk3YWZjNmIyNTFmNw==",
   "tracks": [
+    {
+      "added_at": "2022-11-03 15:32:45",
+      "album": {
+        "name": "Dark Places (Shadient Remix)",
+        "url": "https://open.spotify.com/album/4TrORdXsvq6MLrKfI6e4e0"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        },
+        {
+          "name": "Shadient",
+          "url": "https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "Dark Places - Shadient Remix",
+      "url": "https://open.spotify.com/track/2HFNl3R6uuV20q6BTCnELY"
+    },
+    {
+      "added_at": "2022-11-03 18:34:26",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/2itVxfPOWQrHr2X27J4ZhG"
+      },
+      "artists": [
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        }
+      ],
+      "duration_ms": 126043,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4oZnV1W54b1TIn96i0KIwV"
+    },
     {
       "added_at": "2022-10-14 16:55:26",
       "album": {
@@ -33,44 +73,36 @@
       "url": "https://open.spotify.com/track/0U2kKdAIqSD83fnFnUqd2Y"
     },
     {
-      "added_at": "2022-10-14 16:54:51",
+      "added_at": "2022-10-26 15:41:00",
       "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx"
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz"
       },
       "artists": [
         {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Make U Mine",
-      "url": "https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73"
+      "duration_ms": 147555,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18"
     },
     {
-      "added_at": "2022-09-22 15:02:05",
+      "added_at": "2022-11-03 15:31:53",
       "album": {
-        "name": "Dark Places (Promnite Remix)",
-        "url": "https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam"
+        "name": "3034",
+        "url": "https://open.spotify.com/album/6CFlWOb4YqJxHjj09r6UOx"
       },
       "artists": [
         {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Kwesi",
-          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
-        },
-        {
-          "name": "Promnite",
-          "url": "https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5"
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
         }
       ],
-      "duration_ms": 355093,
-      "name": "Dark Places - Promnite Remix",
-      "url": "https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg"
+      "duration_ms": 231551,
+      "name": "ANSWERS",
+      "url": "https://open.spotify.com/track/6giF69se8doTga9JDiGAGp"
     },
     {
       "added_at": "2022-10-22 18:14:09",
@@ -157,6 +189,22 @@
       "url": "https://open.spotify.com/track/4wjk41EIeEwam4t2dyFD1F"
     },
     {
+      "added_at": "2022-10-14 16:54:51",
+      "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/5Fglro72AZhq61yRE9pVCx"
+      },
+      "artists": [
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Make U Mine",
+      "url": "https://open.spotify.com/track/4DkYzXzqNYXzFnHiqMQo73"
+    },
+    {
       "added_at": "2022-10-10 17:12:33",
       "album": {
         "name": "TEAR ME UP",
@@ -171,6 +219,30 @@
       "duration_ms": 177391,
       "name": "TEAR ME UP",
       "url": "https://open.spotify.com/track/5Jsc4Z9MkLB6tfjpByhQzR"
+    },
+    {
+      "added_at": "2022-09-22 15:02:05",
+      "album": {
+        "name": "Dark Places (Promnite Remix)",
+        "url": "https://open.spotify.com/album/3mP38vYlIEwpsGJ1sR2Jam"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        },
+        {
+          "name": "Promnite",
+          "url": "https://open.spotify.com/artist/5nhrH1JLtBXqhhliwceEI5"
+        }
+      ],
+      "duration_ms": 355093,
+      "name": "Dark Places - Promnite Remix",
+      "url": "https://open.spotify.com/track/3fG0CSPqKqBYmv9JUdHzvg"
     },
     {
       "added_at": "2022-09-20 15:42:20",
@@ -2211,22 +2283,6 @@
       "duration_ms": 164042,
       "name": "Edge of Seventeen",
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
-    },
-    {
-      "added_at": "2022-10-26 15:41:00",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz"
-      },
-      "artists": [
-        {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18"
     },
     {
       "added_at": "2022-10-27 15:59:03",

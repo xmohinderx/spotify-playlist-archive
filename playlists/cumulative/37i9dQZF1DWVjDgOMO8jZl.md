@@ -4,7 +4,7 @@
 
 > Scopri i tuoi nuovi artisti italiani preferiti! Cover: Sans Soucis
 
-74 songs - 3 hr 41 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
+75 songs - 3 hr 44 min - [published](https://open.spotify.com/playlist/4DfmxbBDAJRVZ9vLByCzL3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [TIRA E MOLLA](https://open.spotify.com/track/57dc9zSqLocF0MjIAv6Yjx) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 2:48 | 2022-08-31 |  |
 | [TooMuch](https://open.spotify.com/track/4xNJDgvIlMjFIVTr7Fz72j) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [TooMuch](https://open.spotify.com/album/5W1SrEyT5psrYtuyqkOyCi) | 2:23 | 2022-08-31 |  |
 | [Tout va bien](https://open.spotify.com/track/4iuWGd3OWbHzzA8dCWoXTn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tout va bien](https://open.spotify.com/album/1Mixzi6JgQWY5499xR8ohL) | 2:34 | 2022-08-31 |  |
+| [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 |  |
 | [TSO](https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [TSO](https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan) | 3:09 | 2022-08-31 |  |
 | [Vento](https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Vento](https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ) | 2:33 | 2022-08-31 |  |
 

@@ -4,7 +4,7 @@
 
 > Chill\. The best indie tracks for just hanging out.
 
-543 songs - 1 day 9 hr 18 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
+545 songs - 1 day 9 hr 26 min - [published](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [9](https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Nine](https://open.spotify.com/album/7Kpv6XWZhGCwX6PSR4vWaX) | 5:14 | 2021-06-25 | 2022-04-21 |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2020-10-16 | 2022-09-30 |
 | [97 Avalon](https://open.spotify.com/track/37f1s7mlrRXKoHmFn53wmY) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [97 Avalon](https://open.spotify.com/album/1J7dujPQV4tAQpObLon2hb) | 6:04 | 2022-03-29 | 2022-07-19 |
-| [A Dream of You](https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [A Dream of You](https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz) | 4:18 | 2020-10-05\* |  |
+| [A Dream of You](https://open.spotify.com/track/0LqZuRAroDVnV6LjDUGap1) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [A Dream of You](https://open.spotify.com/album/3waAzK2NOo6v0RD8kgc2Bz) | 4:18 | 2020-10-05\* | 2022-11-04 |
 | [A Place Like This](https://open.spotify.com/track/1jRHh8JcdUV9zTiAmyzhU9) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS) | 4:21 | 2021-03-22 | 2021-05-28 |
 | [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2020-12-31 | 2022-04-19 |
 | [ACOUSCOUS](https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [ACOUSCOUS](https://open.spotify.com/album/03OuqhFoYm9Odja6riHELI) | 3:57 | 2021-03-14 | 2022-07-29 |
@@ -64,6 +64,7 @@
 | [Basic Instinct](https://open.spotify.com/track/5E0pS3sXgWdQZMKChqYXHE) | [The Acid](https://open.spotify.com/artist/0bRtSoJSpQdnbB3dWrWprR) | [Liminal](https://open.spotify.com/album/1cMYjuN71NCON0vlQyTgJM) | 4:49 | 2020-10-16 | 2022-04-18 |
 | [Beautiful Time](https://open.spotify.com/track/3qdb9PbihUEMX6nJJmlDfr) | [ONUR](https://open.spotify.com/artist/5KFv770m4wjhl6DAUqKskw) | [Beautiful Time](https://open.spotify.com/album/0yHBBkMvtm61C9uX6a8XAq) | 2:46 | 2020-10-05\* | 2020-10-06 |
 | [Beauty Rains](https://open.spotify.com/track/5SEiOGFQsL6fJAwD0AWHBJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Beauty Rains](https://open.spotify.com/album/24z9o5rVLMHLmrMyH7WUJv) | 3:31 | 2021-08-27 | 2022-04-20 |
+| [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 | 2022-10-07 |  |
 | [Bedroom](https://open.spotify.com/track/3LH6EfPCeySeuymuK2gWAO) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/64NBfuKfE49atmxBp4H3ZZ) | 3:06 | 2020-10-16 | 2022-10-22 |
 | [Beggin For Thread](https://open.spotify.com/track/4PvD06Pmbm2rHG2JjSlElF) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:09 | 2021-03-14 |  |
 | [Belong Together](https://open.spotify.com/track/4upp8vxVnw35RhuZTZKMgT) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Belong Together](https://open.spotify.com/album/1D5ri0WdyU1nNOBvftkXfP) | 4:17 | 2021-10-08 | 2022-07-29 |
@@ -417,7 +418,7 @@
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-05 | 2022-04-19 |
 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 | 2021-06-04 |  |
 | [Run Away](https://open.spotify.com/track/2BvqUci2WyM2peHOCimt95) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [Run Away](https://open.spotify.com/album/009DKE4MpIhgk3coS71bb1) | 3:23 | 2020-10-05\* | 2021-05-28 |
-| [Running Around](https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Running Around](https://open.spotify.com/album/3SZkoZ1AS0DAW8jyMQUQ0q) | 4:28 | 2022-03-07 |  |
+| [Running Around](https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Running Around](https://open.spotify.com/album/3SZkoZ1AS0DAW8jyMQUQ0q) | 4:28 | 2022-03-07 | 2022-11-04 |
 | [Saltshack's Signature](https://open.spotify.com/track/2P9WsORxb3ZQ3JCTyaJL3L) | [Alfariizi](https://open.spotify.com/artist/3wwrcxReRFc2KndpFRWWKi) | [Brutalisme di Bandung Barat](https://open.spotify.com/album/7JNbE5gU83t1xYBdebvc8T) | 2:40 | 2021-05-26 | 2022-04-09 |
 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 | 2022-10-07 |  |
 | [Saltwater](https://open.spotify.com/track/4mC5Bp4nDFI6yht9XrO7VA) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/73b3NhgAXQiC6fmbR0Y2CA) | 4:07 | 2020-10-20 | 2022-04-21 |
@@ -437,6 +438,7 @@
 | [Show Me](https://open.spotify.com/track/7iFlBjOuNfp8oFozovA777) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Show Me](https://open.spotify.com/album/7ygZx5l28pLHiIffziqRnf) | 3:47 | 2022-10-07 |  |
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2020-11-17 |  |
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2021-05-10 | 2022-05-29 |
+| [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 |  |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Someone To Spend Time With](https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv) | 2:53 | 2020-10-05\* | 2022-04-21 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-07-25 | 2022-09-30 |

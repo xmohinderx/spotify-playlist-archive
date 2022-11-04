@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "SCH au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 192421,
       "name": "Bitume",
       "url": "https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 191418,
       "name": "Chic choc",
       "url": "https://open.spotify.com/track/1mPommdCgPxwWW1pkoUkes"
@@ -1139,6 +1139,24 @@
       "duration_ms": 220920,
       "name": "Les gentils bandits",
       "url": "https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD"
+    },
+    {
+      "album": {
+        "name": "LIF",
+        "url": "https://open.spotify.com/album/5G40PCwbFMnEL1CyW0e5Rw"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "LIF",
+      "url": "https://open.spotify.com/track/5L6inxcqOemJI2utN8lvBs"
     },
     {
       "album": {
@@ -2039,6 +2057,24 @@
       "duration_ms": 188320,
       "name": "T\u00e9l\u00e9phone - Extrait de CRCLR MVT SAISON II",
       "url": "https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb"
+    },
+    {
+      "album": {
+        "name": "Urus",
+        "url": "https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ"
+      },
+      "artists": [
+        {
+          "name": "Fav\u00e9",
+          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148015,
+      "name": "Urus",
+      "url": "https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Broederliefde check je in La Vida Loca! Hier alleen maar good vibes en motion.
 
-256 songs - 11 hr 33 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
+259 songs - 11 hr 41 min - [published](https://open.spotify.com/playlist/5EIhsbDAXsYMVcvdmXGuEa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-22 | 2022-10-28 |
 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 | 2022-07-14 | 2022-08-26 |
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-10-27 |  |
+| [Monogram](https://open.spotify.com/track/0PNnvtiejtjLXoEM5D5Vgv) | [Quatro Vision](https://open.spotify.com/artist/6uRCP6vPABt2mY7ZGHr7nJ), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Elliven](https://open.spotify.com/artist/5RuNabPFwXm2ClPWsZdJqu), [Seek](https://open.spotify.com/artist/6MXEJwFpBlBNxM0IcgeQYj) | [Monogram](https://open.spotify.com/album/1EFWH0ql51hoYtJmvxRnXj) | 2:45 | 2022-11-03 |  |
 | [Mood](https://open.spotify.com/track/2q5b453xA0WCxrpX20vBcU) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/7fC3YfVjYjYRaxIuOLlkEA) | 2:31 | 2022-08-24 | 2022-08-28 |
 | [Mood](https://open.spotify.com/track/4k6yZRw7M04gZE2uW12Cw6) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN) | [Mood](https://open.spotify.com/album/0of66YXURMrVzhAVkYNDeO) | 2:31 | 2022-08-25 |  |
 | [Mysterious](https://open.spotify.com/track/3X5X93xYL8Qwd6l0DuajPT) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Mysterious](https://open.spotify.com/album/0wCfJvi08X1dBz01JbFEIY) | 2:44 | 2022-10-13 |  |
@@ -190,6 +191,7 @@
 | [Pampanana](https://open.spotify.com/track/4uMVTZnalYg4JwX5vDmFTB) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Pampanana](https://open.spotify.com/album/0cInOxATodfivQvMbYug37) | 2:25 | 2022-07-14 | 2022-07-28 |
 | [PANORAMA](https://open.spotify.com/track/0sjB8JBUqX8Scr5Jns31FK) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [TURBULENTIE](https://open.spotify.com/album/1LyxYL6FtgF4p1DTiazSjw) | 2:42 | 2022-07-14 | 2022-07-29 |
 | [Panterprint](https://open.spotify.com/track/2ERJbIroPn0whwY7twFrcF) | [Masquraid](https://open.spotify.com/artist/6FUddiIO2kIjYz2yvNfz6q), [Guydo](https://open.spotify.com/artist/0FxNyLAP2TbgtZWATbTBLe), [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Panterprint](https://open.spotify.com/album/32q8iyasYLCwy9nuCF5k2T) | 2:12 | 2022-09-01 | 2022-09-16 |
+| [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-11-03 |  |
 | [Plat](https://open.spotify.com/track/4znoxaYS782I5sJdGIjF4x) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [VIER](https://open.spotify.com/album/04o2PWclezMMSkd77VdwUy) | 2:50 | 2022-07-14 | 2022-08-26 |
 | [Poison](https://open.spotify.com/track/6zhLjblsWutMYiqosATQVS) | [Bollebof](https://open.spotify.com/artist/6efCQuDQBuyuv2Mx3OExdV) | [Poison](https://open.spotify.com/album/1WsnJyGDEzgvHoT7ggzOnP) | 2:12 | 2022-07-28 | 2022-08-26 |
 | [Por De Tra](https://open.spotify.com/track/1mTnMaj9PPE9t0t5rlcYlY) | [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX), [Godwonder](https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv) | [Por De Tra](https://open.spotify.com/album/0yPlrQTMB1EOhTkV5R6fhI) | 2:22 | 2022-07-28 | 2022-09-02 |
@@ -264,5 +266,6 @@
 | [Zet Het](https://open.spotify.com/track/4pTZ8gF1xuGObYn96WXK1a) | [Ta Joela](https://open.spotify.com/artist/6sCttVBqXoWYIXC1w6IsU1), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Zet Het](https://open.spotify.com/album/7ty1ahSMTnaaYOng1VyZoU) | 2:59 | 2022-07-14 | 2022-07-28 |
 | [Zet Je Goed](https://open.spotify.com/track/2KEZIZyGqQPWGwy3Smg4ax) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Zet Je Goed](https://open.spotify.com/album/5j7eL60BT8KMN8TyAuRhBh) | 2:53 | 2022-08-04 | 2022-08-26 |
 | [Zina](https://open.spotify.com/track/4au4kpL2zRTnMkn97ayL55) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Zina](https://open.spotify.com/album/01Z9lEhwFVxDkPwWwQYlSV) | 2:36 | 2022-07-14 | 2022-08-26 |
+| [Zo Fly \(Met Je Naar De Club\)](https://open.spotify.com/track/5mQjW9iPWCQYhtRXAh7uYB) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zo Fly \(Met Je Naar De Club\)](https://open.spotify.com/album/6QtXBDNKqqUh6lm5MAxfJh) | 2:16 | 2022-11-03 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -226,6 +226,32 @@
     },
     {
       "album": {
+        "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191422,
+      "name": "BLUE CHEESE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4OAExi3KMGS19m7p0FxOoz"
+    },
+    {
+      "album": {
         "name": "Pensando a te Rap Italiano Game Over",
         "url": "https://open.spotify.com/album/23KDlmJHZGCeM8G6LUhsRm"
       },
@@ -1229,6 +1255,24 @@
     {
       "album": {
         "name": "Dove Volano Le Aquile",
+        "url": "https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165721,
+      "name": "Password",
+      "url": "https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf"
+    },
+    {
+      "album": {
+        "name": "Dove Volano Le Aquile",
         "url": "https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc"
       },
       "artists": [
@@ -1239,7 +1283,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil"
@@ -1783,6 +1827,28 @@
       "duration_ms": 185426,
       "name": "Vogl Sul A Te",
       "url": "https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG"
+    },
+    {
+      "album": {
+        "name": "TRENCHES BABY",
+        "url": "https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187941,
+      "name": "YAMAHA",
+      "url": "https://open.spotify.com/track/3z2P3UbxsrQI9LVDFi7dfk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r"

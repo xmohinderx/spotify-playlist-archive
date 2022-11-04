@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Major Lazer.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,447 likes - 187 songs - 9 hr 58 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,444 likes - 187 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 4 | [Original Sin \- James Patterson Remix](https://open.spotify.com/track/7knx44caWzuPuLBuibBQEv) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [James Patterson](https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW) | [Original Sin \(James Patterson Remix\)](https://open.spotify.com/album/4N6GK8i3mnkXN5FbxX4D82) | 4:09 |
 | 5 | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Alive \(feat\. The Moth & The Flame\)](https://open.spotify.com/album/5nTSB1dEcWtAtkWnHgOcMR) | 5:08 |
 | 6 | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/track/5n4tX6qxC8giXU7IUmDSuI) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Kings & Queens \(feat\. Shibui\)](https://open.spotify.com/album/1hyL0GzOo3xtHAyhUQ5mjV) | 2:24 |
-| 7 | [Forever in Your Arms](https://open.spotify.com/track/4fytEaLJpb67c6iq1xUG8e) | [Aviga](https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5), [BRØWNS](https://open.spotify.com/artist/3R7Y3zN4MT8MQMbyZLDjYx) | [Forever in Your Arms](https://open.spotify.com/album/7hiVweoZuW8LMh8sfH9fHV) | 2:45 |
+| 7 | [Forever in Your Arms](https://open.spotify.com/track/4fytEaLJpb67c6iq1xUG8e) | [AVIGA](https://open.spotify.com/artist/1JZsObLDi3gwXhcjxpvrr5), [BRØWNS](https://open.spotify.com/artist/3R7Y3zN4MT8MQMbyZLDjYx) | [Forever in Your Arms](https://open.spotify.com/album/7hiVweoZuW8LMh8sfH9fHV) | 2:45 |
 | 8 | [Call My Name](https://open.spotify.com/track/4mPAGivO0Ndwf7y3xH1ng2) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Call My Name](https://open.spotify.com/album/4Cr1RKZYQVSzm8w2N2WMxt) | 2:16 |
 | 9 | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [DIRT \(feat\. JPEGMAFIA\)](https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF) | 3:58 |
 | 10 | [Diva \- Ninajirachi Remix](https://open.spotify.com/track/4NfXNOil3k5Foo948cVNqF) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Diva \(Ninajirachi Remix\)](https://open.spotify.com/album/1V4tD6UwnvWMyponaetidr) | 3:00 |

@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 54586,
+  "num_followers": 54629,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMGE1MTgxZTFiMGI4YTNjODlkZWFlNjZmNGJkNjU2N2Jj",
+  "snapshot_id": "MTY2NDMwNDg2NywwMDAwMDAwMDdkN2MyMGQ1OTJmODJkN2RiNzkyYjMxM2Q3ZTg2Mjhh",
   "tracks": [
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
+        "name": "F*ck",
+        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
+      },
+      "artists": [
+        {
+          "name": "Mari Ferrari",
+          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
+        }
+      ],
+      "duration_ms": 174677,
+      "name": "F*ck",
+      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 312466,
       "name": "Romance Noire",
       "url": "https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
-        "name": "F*ck",
-        "url": "https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe"
-      },
-      "artists": [
-        {
-          "name": "Mari Ferrari",
-          "url": "https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "F*ck",
-      "url": "https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Club Eat",
-        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
-      },
-      "artists": [
-        {
-          "name": "Club Eat",
-          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Club Eat",
+        "url": "https://open.spotify.com/album/3gP8Uueu9UuhRIFrwKEcWR"
+      },
+      "artists": [
+        {
+          "name": "Club Eat",
+          "url": "https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5Msk5Zka4UHzKqajJg5y5a"
     },
     {
       "added_at": "2022-09-27 18:54:27",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-09-27 18:54:27",
       "album": {
-        "name": "Price of Highest Consciousness",
-        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 368404,
-      "name": "Price of Highest Consciousness",
-      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
-    },
-    {
-      "added_at": "2022-09-27 18:54:27",
-      "album": {
         "name": "Scacco Matto",
         "url": "https://open.spotify.com/album/31DdFqt8J1AMFXBzrMf1Hb"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 452853,
       "name": "Dance Tonight Revolution Tomorrow",
       "url": "https://open.spotify.com/track/5nhCNDNbudIii09s8L6aFs"
+    },
+    {
+      "added_at": "2022-09-27 18:54:27",
+      "album": {
+        "name": "Price of Highest Consciousness",
+        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 368404,
+      "name": "Price of Highest Consciousness",
+      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
     },
     {
       "added_at": "2022-09-27 18:54:27",

@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Manal
 
-824 songs - 1 day 21 hr 26 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
+825 songs - 1 day 21 hr 29 min - [published](https://open.spotify.com/playlist/2KqE5Y6PQZZOES0o7dmfHu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [La Morena](https://open.spotify.com/track/5yGsnApNZji7tedwFr70f2) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [La Morena](https://open.spotify.com/album/6DAhQlyt2I8twILzPoGgin) | 3:13 | 2022-02-02 | 2022-03-09 |
 | [La Puteria](https://open.spotify.com/track/2WRvcn9pk7bYB0G4mPPwLp) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [La Puteria](https://open.spotify.com/album/5gROPnEVSnEv0pYUyaqTI1) | 3:34 | 2021-12-11 | 2022-01-06 |
 | [La Quería](https://open.spotify.com/track/1nk5MsUS4yGK1peQAFaJc3) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq), [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [La Folcrónica](https://open.spotify.com/album/3cAE3TZQGJELs8gxtFd1eL) | 3:53 | 2022-11-02 |  |
+| [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-02 |  |
 | [La Última Vez](https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [La Última Vez](https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2) | 3:47 | 2021-12-11 | 2022-01-06 |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2022-09-07 | 2022-10-05 |
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2022-11-02 |  |

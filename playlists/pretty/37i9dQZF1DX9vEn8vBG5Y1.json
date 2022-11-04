@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 115327,
+  "num_followers": 115468,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMDY4N2Y2YzkzMTA1NmE5ZDRmNmIzZGVkMzgxZTU4OGNm",
+  "snapshot_id": "MTY1MzQyMjEzNywwMDAwMDAwMDNmMWYzZjVkZTE3YTFmMTc3YTAzYzMwZDBjZTZkMGI2",
   "tracks": [
     {
       "added_at": "2020-10-28 09:50:29",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2020-10-28 09:50:29",
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Behind These Hazel Eyes",
+      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+    },
+    {
+      "added_at": "2020-10-28 09:50:29",
+      "album": {
         "name": "Shaman",
         "url": "https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 254466,
       "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
       "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
-    },
-    {
-      "added_at": "2020-10-28 09:50:29",
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Behind These Hazel Eyes",
-      "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
     },
     {
       "added_at": "2020-10-28 09:50:29",

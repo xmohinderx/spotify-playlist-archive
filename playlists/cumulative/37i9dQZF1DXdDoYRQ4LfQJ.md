@@ -2,7 +2,7 @@
 
 ### [Al Tiro](https://open.spotify.com/playlist/37i9dQZF1DXdDoYRQ4LfQJ)
 
-> The hottest corridos in the US! Bien Al Tiro con Fuerza Regida, Los Gemelos de Sinaloa & Calle 24
+> The hottest corridos in the US! Bien Al Tiro con Marca Registrada & Luis R Conriquez
 
 189 songs - 9 hr 42 min - [published](https://open.spotify.com/playlist/4NUSWCdJAi5DEcSry3A1Ae)
 

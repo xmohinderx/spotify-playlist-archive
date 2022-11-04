@@ -1416,6 +1416,28 @@
     },
     {
       "album": {
+        "name": "Traumi",
+        "url": "https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184629,
+      "name": "Traumi",
+      "url": "https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc"
+    },
+    {
+      "album": {
         "name": "TSO",
         "url": "https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan"
       },

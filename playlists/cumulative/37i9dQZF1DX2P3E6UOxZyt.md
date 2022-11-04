@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 張若凡 \(RuoFan Chang\)
+> 2022 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: Marz23
 
-242 songs - 14 hr 18 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
+244 songs - 14 hr 25 min - [published](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dreaming With You](https://open.spotify.com/track/0hoiu4phiHzoJwhl5kutX3) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Lemonade](https://open.spotify.com/album/3PnXCpHaHzGVm3viOLUKPO) | 3:50 | 2021-12-30 | 2022-10-21 |
 | [Everybody Fake Feat\. 婁峻碩](https://open.spotify.com/track/16s4RWlKrk5USU9iF81CuQ) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:51 | 2022-02-03 | 2022-03-11 |
 | [Everything \(feat\. W.LIN\)](https://open.spotify.com/track/6tdPhOn7PqctCLzpb0zknp) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [W.LIN](https://open.spotify.com/artist/3sLmLEHzXUuPzz9SvVrstl) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:48 | 2021-12-30 | 2022-03-25 |
+| [Eyes On Me](https://open.spotify.com/track/4CI0V2833EyyvOBl9kdu09) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [Eyes On Me](https://open.spotify.com/album/58EuCFknK8fYw3NpUCuXzt) | 2:38 | 2022-11-03 |  |
 | [Face it](https://open.spotify.com/track/73g9BMuFvW58YBuHXAqSqf) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Face it](https://open.spotify.com/album/1eYJkeYUil7BCp162Llhbr) | 3:16 | 2022-03-24 |  |
 | [Fake](https://open.spotify.com/track/64ZhoHFCA4xEdhuaqdwlGF) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Fake](https://open.spotify.com/album/0BMKIpy6FCzDqFTwQldV5z) | 2:46 | 2022-03-31 | 2022-10-21 |
 | [Fake \- Acoustic Version](https://open.spotify.com/track/0hagkIZQFKujNEPWguCCVq) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H) | [Fake \(Acoustic Version\)](https://open.spotify.com/album/6O96dweXNTNUp2rFZJmQJ6) | 2:32 | 2022-09-29 |  |
@@ -90,7 +91,8 @@
 | [You Say Goodbye Easily](https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:09 | 2022-02-10 | 2022-03-17 |
 | [一日](https://open.spotify.com/track/7w2w3bLo37unLedpgOTXyr) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:45 | 2021-12-30 | 2022-03-25 |
 | [一派輕鬆](https://open.spotify.com/track/36JeQiNJvvpnCTZCDDgKuB) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:30 | 2021-12-30 |  |
-| [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 | 2022-03-24 |  |
+| [三天之內暈了你](https://open.spotify.com/track/2sTgpjvhk5NYKtGO6LWogR) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [三天之內暈了你](https://open.spotify.com/album/5DsNlpKAXLgQJUh2M8xcRP) | 3:08 | 2022-03-24 | 2022-11-04 |
+| [下一个天亮](https://open.spotify.com/track/6MMwcJetDUs9J9eUB9dRTL) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [月光、背影與海](https://open.spotify.com/album/7wIIfgNInlvDFtWVE0QD9e) | 4:10 | 2022-11-03 |  |
 | [下一個生日](https://open.spotify.com/track/4Rh6Db9yDSr0RLquKzuIXI) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [失戀派對](https://open.spotify.com/album/6lKlJpAoWW8VPhbNkuQRGf) | 3:04 | 2022-01-20 | 2022-05-20 |
 | [不搖就滾](https://open.spotify.com/track/2FyxwNkn5XCtuGniro1IqE) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [不搖就滾](https://open.spotify.com/album/6JyYqodvDfNbgqm8T44dde) | 3:55 | 2022-07-07 | 2022-09-16 |
 | [也許是你拯救了我](https://open.spotify.com/track/6ZA2UiI5G71MRjmLLeedL5) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [也許是你拯救了我](https://open.spotify.com/album/3S6julQkPoIutwzonlMkzw) | 3:56 | 2022-06-16 | 2022-07-08 |
@@ -105,7 +107,7 @@
 | [你殘忍可愛的傲慢](https://open.spotify.com/track/5okftR42QX111uKscZgrEv) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv), [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 4:02 | 2021-12-30 | 2022-01-14 |
 | [你為了我撐把傘](https://open.spotify.com/track/4EaJwA6CPIV30CX6mpHwbP) | [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [你為了我撐把傘](https://open.spotify.com/album/1QArFdN4JJzfqEAlxovWGg) | 4:13 | 2022-02-03 | 2022-10-28 |
 | [來不及的告白 \- 東森電視自製戲劇《額外旅程》片頭曲](https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [來不及的告白 \(東森電視自製戲劇《額外旅程》片頭曲\)](https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb) | 3:35 | 2022-04-14 | 2022-10-14 |
-| [假裝沒變過](https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 4:21 | 2022-03-10 |  |
+| [假裝沒變過](https://open.spotify.com/track/0kWUppVLq3IIvXjq36v8EU) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [失眠症候群](https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN) | 4:21 | 2022-03-10 | 2022-11-04 |
 | [偷走青春的歲月](https://open.spotify.com/track/4NEt76oRzbOeJeGFmmG4nn) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [偷走青春的歲月](https://open.spotify.com/album/2tJ659pRFGkbC9ibRswD8D) | 4:19 | 2022-02-10 | 2022-07-01 |
 | [偽裝](https://open.spotify.com/track/4ys0CGJFqvaTONcGaOUST3) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh), [吳霏](https://open.spotify.com/artist/2q5HrJWKwU4iHaTTSKGZC4), [楊碧琪](https://open.spotify.com/artist/1q7gF9bMzxg1o1zpBrUEVV) | [偽裝](https://open.spotify.com/album/4I2LrNm0E4uctkNF3p4Orc) | 2:46 | 2022-03-24 | 2022-07-29 |
 | [億萬顆星的距離《戲劇:隔離後見個面,好嗎?》插曲](https://open.spotify.com/track/23vbTs75Garxaki9D6EvXy) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [億萬顆星的距離《戲劇:隔離後見個面,好嗎?》插曲](https://open.spotify.com/album/4il2LU9UF9kMFP4KDWO9Ta) | 3:31 | 2021-12-30 | 2022-03-25 |

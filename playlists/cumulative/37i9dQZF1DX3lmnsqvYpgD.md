@@ -4,7 +4,7 @@
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-89 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
+93 songs - 5 hr 47 min - [published](https://open.spotify.com/playlist/40APne10sJapUUxupUCyA9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Simple Love Song](https://open.spotify.com/track/2kTzTs8tbJgkYAKzHG8szb) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [Connected](https://open.spotify.com/album/6JWjPJ5XMlH9YBAFHx5ajY) | 5:04 | 2022-04-11 |  |
 | [The Best Is Yet to Come](https://open.spotify.com/track/04Wqlpuu7SasLagDEwyzi2) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [床頭歌 \(Pillow Songs\)](https://open.spotify.com/album/4x2tdyPUkI06utAAB3ZtWh) | 2:50 | 2022-04-11 | 2022-07-29 |
 | [The Best Is Yet To Come](https://open.spotify.com/track/4DlfkJQyRHdEUztBA64vqf) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [林一峰的床頭歌](https://open.spotify.com/album/6kERODjoPQKk2KyRrbillA) | 2:50 | 2022-04-11 |  |
+| [《加油!小店》](https://open.spotify.com/track/58bJYZdxDN8RVN682LSD8h) | [Oscar Tao](https://open.spotify.com/artist/08UYMBN9bJDi2wdZNWEVAL) | [《加油!小店》](https://open.spotify.com/album/5YRJWDx152edM4mtev4dP0) | 3:45 | 2022-11-03 |  |
 | [一人之境 in C major](https://open.spotify.com/track/32QnXosZq7A11knnBAEqk7) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MAJOR IN MINOR](https://open.spotify.com/album/43QviVcqV7nKDFn00PiXiZ) | 3:15 | 2022-04-11 |  |
 | [上次坐飛機](https://open.spotify.com/track/2FjHXXLeTrPMTwnOxFDK9q) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [Ten Most Wanted](https://open.spotify.com/album/4Cr4UCSJJz19vPDssJzfTs) | 4:04 | 2022-04-11 |  |
 | [下亞厘畢道](https://open.spotify.com/track/1iIFrkPdNSvYz8XIXmSJoY) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [火炭麗琪](https://open.spotify.com/album/6O74fDJk2FR8hZUplTPYjF) | 2:46 | 2022-04-11 |  |
@@ -40,6 +41,7 @@
 | [出走](https://open.spotify.com/track/30ZDOmEwAfijYVCHiNXhxU) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [出走](https://open.spotify.com/album/3zrNfBfkmLxrOgNktr70em) | 5:18 | 2022-04-11 |  |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:19 | 2022-04-11 |  |
 | [及時行樂](https://open.spotify.com/track/4co81zh3xm4y6ZcyLj4eTz) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:54 | 2022-09-20 |  |
+| [只想和你吃漢堡](https://open.spotify.com/track/69AyM1yWZbQQc5FbWyrqXo) | [Dark Wong 黃明德](https://open.spotify.com/artist/5NFCpODrhS1kuk6LHqrqSq) | [只想和你吃漢堡](https://open.spotify.com/album/4DeeAR6j5oFYfBqGAqknwr) | 3:58 | 2022-11-03 |  |
 | [向孩子說愛情](https://open.spotify.com/track/3kupd39uh2YL7uAVsCIwXP) | [Supper Moment](https://open.spotify.com/artist/29Ukw6Kx8IyOABZFklKpaX) | [再次心跳](https://open.spotify.com/album/1aU3bXT5CzYZzQcN9Fjxo5) | 3:47 | 2022-04-11 |  |
 | [告解](https://open.spotify.com/track/3PwDqry55vGgX2XTM1eCH0) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [全身暑假](https://open.spotify.com/album/5M9LDQg2aGqBqoMenSmcXO) | 4:31 | 2022-04-11 |  |
 | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/track/3Y0kbp5xGJMk08m3lkOpYL) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [嗰一晚 \(feat.OJ\)](https://open.spotify.com/album/1BsPa137X76tHyPl4dt3kU) | 3:26 | 2022-09-20 |  |
@@ -62,6 +64,7 @@
 | [我在流浮山滴眼水.jpg](https://open.spotify.com/track/5x9Clj56YLmklm3Zikx2iF) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [我在流浮山滴眼水.jpg](https://open.spotify.com/album/4O5Xl1fqOvpIfahlYWWndA) | 4:15 | 2022-04-11 |  |
 | [我歌...故我在](https://open.spotify.com/track/3pruLLJGqp1kptGJkpy4U4) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Kay One](https://open.spotify.com/album/1LDyfgkBcAMRIzKGUfiDoF) | 4:15 | 2022-04-11 |  |
 | [我的日記](https://open.spotify.com/track/2h16JePtYmFmTFHpecFS7F) | [野仔](https://open.spotify.com/artist/6Nt2UPCCDXsFlY3lEZ3zpx) | [Rock 'n' Wild Never Die](https://open.spotify.com/album/6XGM6IxoqeErG8w0rUH69V) | 4:30 | 2022-04-11 |  |
+| [扭擰雪糕屋](https://open.spotify.com/track/2SUceujK5Dbt7YV5DTAqP6) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [扭擰雪糕屋](https://open.spotify.com/album/4ThopgD9mOzGmWMVek31hV) | 3:18 | 2022-11-03 |  |
 | [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/7wEPNiTuG6LrNwBByWTNxx) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [Eric Kot](https://open.spotify.com/artist/7IbWEU61yGFiosm9FHPOfZ) | [亞水](https://open.spotify.com/album/3Tq4VEvtEoMpG3qh8fR145) | 4:07 | 2022-09-20 |  |
 | [早晨 \(feat\. Eric Kot\)](https://open.spotify.com/track/27sNF04M9kZJ5hO9b6aSws) | [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy), [葛民輝](https://open.spotify.com/artist/11lwiMBYOFjrom9mwWNK1K) | [亞水](https://open.spotify.com/album/5BIynFkSbcq2esNGgH4YwO) | 4:07 | 2022-04-11 | 2022-10-09 |
 | [明年見 \- Duet Version](https://open.spotify.com/track/1SvgBClOuipapA4pPgToDW) | [ONE PROMISE](https://open.spotify.com/artist/3GwQM8FuFMkdHSPu4qvKli), [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [明年見 \(Duet Version\)](https://open.spotify.com/album/5P1ROMSpZ92Y5l19RrIv9g) | 3:45 | 2022-04-11 |  |
@@ -71,6 +74,7 @@
 | [柴灣角街](https://open.spotify.com/track/7l7wDs93UypiYGOd4tdfs0) | [TomFatKi Billy Choi](https://open.spotify.com/artist/2QSxO12sc6RrTQSwiDKfrV), [AKIKO](https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ), [East City](https://open.spotify.com/artist/4h6dvXIVMq6JdWWfcHT1kw) | [柴灣角街](https://open.spotify.com/album/666epeXOJkJ4M6hx7DBj9O) | 4:13 | 2022-09-20 |  |
 | [森林](https://open.spotify.com/track/6Zl8uPNEcnHpHC0sVZhScU) | [Mr.](https://open.spotify.com/artist/5yocZHV4puj9QHb4xAXAtL) | [We R Mr\. \(Vol\. 1\)](https://open.spotify.com/album/3FOHPQNGCZDQnrDdZdCPB7) | 5:08 | 2022-04-11 |  |
 | [每次你走的時分](https://open.spotify.com/track/6i8z0tElGO6Ye3Bk7nW496) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:03 | 2022-04-11 |  |
+| [海邊的呀豪](https://open.spotify.com/track/3nKF5Wp0RTdD3tJEia0pgq) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [海邊的呀豪](https://open.spotify.com/album/23Isl77qYMyntBEPCkyAz2) | 3:21 | 2022-11-03 |  |
 | [深夜之後](https://open.spotify.com/track/4KPVvdXUECWemNy0GB40NR) | [Rosy Sea](https://open.spotify.com/artist/0YST7KLN9Qt4qxBTXQM6c2) | [深夜之後](https://open.spotify.com/album/2eWm1O3MyfAk2NB4T4gQsQ) | 3:30 | 2022-09-20 |  |
 | [深夜告別練習](https://open.spotify.com/track/4FMwwmXVBycsaVxCK85rzq) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [深夜告別練習](https://open.spotify.com/album/1H7MG0QmCKhbfubBBZjYZi) | 3:35 | 2022-04-11 |  |
 | [港女的幸福星期日](https://open.spotify.com/track/3wqYAd3KE8pUpeVuEcba55) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [Binary](https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC) | 3:14 | 2022-04-11 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is a takeover playlist of Lim Jae Beum, the representative vocalist of Korea. Meet Lim's 10 representative vocal songs at the top of the playlist. (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec \uc784\uc7ac\ubc94\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 \ud14c\uc774\ud06c\uc624\ubc84\uc785\ub2c8\ub2e4. \uc784\uc7ac\ubc94\uc758 \ub300\ud45c \ubcf4\uceec\uace1 10\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8 \ucd5c\uc0c1\ub2e8\uc5d0\uc11c \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 306871,
+  "num_followers": 306957,
   "original_name": "v o K a l : Lim Jae Beum Takeover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzIwNzAzNywwMDAwMDAwMDlkNWVmNjE4NDc2MmRkYmQxZTQ2OWUxMDhlN2M2ZTFk",
+  "snapshot_id": "MTY2NzIwNzAzNywwMDAwMDAwMDVhMDg0YzUzMzEyNmM3NTMwMmQ5MGJhNWE1MGU0Zjg3",
   "tracks": [
     {
       "added_at": "2022-10-26 09:29:01",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 238071,
       "name": "haeyo (2022)",
       "url": "https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -971,26 +971,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "#tb",
-        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Hongbi",
-          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "#tb",
-      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "#tb",
+        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "#tb",
+      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy"
-      },
-      "artists": [
-        {
-          "name": "HYNN",
-          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "The Story of Us",
-      "url": "https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/7LcIGYNw1hu9bUYqChopBy"
+      },
+      "artists": [
+        {
+          "name": "HYNN",
+          "url": "https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "The Story of Us",
+      "url": "https://open.spotify.com/track/6cctzaLrogzkESYTZeA01k"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "Drunken confession at night",
-        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
       "artists": [
         {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         }
       ],
-      "duration_ms": 246491,
-      "name": "Drunken confession at night (Prod. 2soo)",
-      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -1287,6 +1271,22 @@
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "Drunken confession at night",
+        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "duration_ms": 246491,
+      "name": "Drunken confession at night (Prod. 2soo)",
+      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
     },
     {
       "added_at": "2022-10-26 09:29:01",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "I Can't Help It",
-        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 224480,
-      "name": "I Can't Help It (Prod. Jungkey)",
-      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
-    },
-    {
-      "added_at": "2022-10-26 09:29:01",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1667,18 +1651,38 @@
     {
       "added_at": "2022-10-26 09:29:01",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 208649,
-      "name": "come as you are",
-      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
+    },
+    {
+      "added_at": "2022-10-26 09:29:01",
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/1oWFYxp5k7nPlsdwNpmtxa"
+      },
+      "artists": [
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        },
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Flower (With Kim Minseok of Melomance)",
+      "url": "https://open.spotify.com/track/0XPoeyS0UQWK24qajGTaBy"
     }
   ],
   "unique_name": "v o K a l : Lim Jae Beum Takeover",

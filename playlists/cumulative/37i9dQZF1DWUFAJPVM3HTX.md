@@ -2,7 +2,7 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Nelccia
+> New R&B/Soul from independent artists & labels every Wednesday\. Cover: Giift
 
 843 songs - 1 day 19 hr 52 min - [published](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 

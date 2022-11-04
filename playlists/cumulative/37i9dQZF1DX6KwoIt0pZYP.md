@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-397 songs - 22 hr 9 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+398 songs - 22 hr 12 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Lose](https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [MOONCHILD](https://open.spotify.com/album/59Y3t7Q4Vf8pw8STJ6fogW) | 4:16 | 2022-01-28 |  |
 | [LOSING YOU](https://open.spotify.com/track/7N1rvVKzzmAYQQc7fzIqpx) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [LOSING YOU](https://open.spotify.com/album/6O8R7in03ZL2J2x8z0fcEX) | 3:03 | 2022-03-29 | 2022-04-21 |
 | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/3sheUbqssFt6H7JGWfZFK5) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/1TgswMNuhpRfmO411liq1R) | 3:25 | 2022-01-28 | 2022-10-13 |
+| [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/track/7BAhSCJrL3JTdVGFK9hEgh) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Lost At Sea \(Illa Illa 2\)](https://open.spotify.com/album/4bXCVyrR6VXm1XUx4Ux6Pb) | 3:25 | 2022-10-27 |  |
 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 | 2022-01-28 |  |
 | [Love Again](https://open.spotify.com/track/0OG97KzIh6nZ3Onu16qfly) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Ocean](https://open.spotify.com/album/7Ku4TJBcSkmixGcODe1xhu) | 2:45 | 2022-09-26 | 2022-10-28 |
 | [Love Language](https://open.spotify.com/track/79CfEqbxzo1o2c95iQD0cM) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Love Language](https://open.spotify.com/album/0upRlUoRXemqNUXTi6lkTQ) | 3:47 | 2022-02-25 | 2022-07-14 |
@@ -218,7 +219,7 @@
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-03-29 | 2022-04-21 |
 | [Love When You Love](https://open.spotify.com/track/3eDngrH9wKzUCeROZLTxGu) | [Primprao](https://open.spotify.com/artist/2evaVvfO7NoA2HoVnKke7n) | [Love When You Love](https://open.spotify.com/album/7rZvrDMwXNDQF7iLCxAC1D) | 2:52 | 2022-09-16 | 2022-09-27 |
 | [Lovely Holiday](https://open.spotify.com/track/7nUAvcjkOYEoFR5yQkuQXv) | [DUNK](https://open.spotify.com/artist/2MAFUSScUrgDSBlR9TRrKq) | [Lovely Holiday](https://open.spotify.com/album/5RtipDkl4gud0lqJycYNJQ) | 3:42 | 2022-03-29 | 2022-04-19 |
-| [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-27 |  |
+| [Lovesong](https://open.spotify.com/track/06T3xyN0Gx1U4FyifkwLsk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lovesong](https://open.spotify.com/album/6grV1LAfe5fUZ04vSexZtb) | 4:05 | 2022-05-27 | 2022-11-04 |
 | [loveyoubuthateyou](https://open.spotify.com/track/5Iq43R1ks3YGAEKPmpUrWG) | [Nathania](https://open.spotify.com/artist/3GGFoDJb13etkq2DgQ4cMw) | [loveyoubuthateyou](https://open.spotify.com/album/75g1MbKycLkLMo9dd379Ec) | 3:56 | 2022-03-29 | 2022-06-01 |
 | [Make A Move](https://open.spotify.com/track/6OP5wEM3P6mFoDGmjM7EId) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y2](https://open.spotify.com/album/1o1Jc1rX5e2OVDZKcl6ukX) | 3:13 | 2022-05-09 | 2022-06-27 |
 | [Make It Up As We Go](https://open.spotify.com/track/02EQk4VQUbvOR7ZHboTpkM) | [DIRA](https://open.spotify.com/artist/6fnPyJRgk3blx9O4Iskiti) | [Make It Up As We Go](https://open.spotify.com/album/107HAeZVYMq3ixTOwtyxAS) | 3:45 | 2022-05-27 | 2022-06-30 |

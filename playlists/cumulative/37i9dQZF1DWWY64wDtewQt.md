@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-333 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
+335 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/6fzpM1WKSBsd9hRYXVIwxm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [COURAGE](https://open.spotify.com/track/6Yh78OTsqdERLpivX8hcN5) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [COURAGE](https://open.spotify.com/album/07Q4VYf7jvAftXoj2jcYHj) | 1:56 | 2022-10-21 |  |
 | [COURAGE](https://open.spotify.com/track/56kfvPwk9KARklFwz5jwjJ) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [COURAGE](https://open.spotify.com/album/7GRSvHSXrLcOqw4SlUVqFz) | 2:09 | 2022-07-01 | 2022-10-22 |
 | [COWBELL WARRIOR!](https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK) | [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [COWBELL WARRIOR!](https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt) | 2:29 | 2022-06-17 |  |
-| [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-09-30 |  |
+| [Crazy Phonk \- Remix](https://open.spotify.com/track/2REq597W1UwW66BWqMRfJY) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Phonk MixTape \(Remix\)](https://open.spotify.com/album/6CPevPVAkExLmMzVu1EO5u) | 1:57 | 2022-09-30 | 2022-11-04 |
+| [Crazy Phonk \- Remix \- Slowed](https://open.spotify.com/track/6DOKigFVtRVWdOsRyGa0v8) | [Fxbii](https://open.spotify.com/artist/1oYKkRi4r2vlOuIjBj85FR) | [Crazy Phonk Remixes](https://open.spotify.com/album/2F77wWryBSjn3EBIGdSvf1) | 1:57 | 2022-09-30 |  |
 | [CRIME](https://open.spotify.com/track/0KW7l7XcacPju6pKCk8rsm) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp) | [CRIME](https://open.spotify.com/album/313nbcS7A2PH1z4cUGqV6Q) | 1:42 | 2022-07-22 |  |
 | [CRIMINAL MANE](https://open.spotify.com/track/3W5AJtjwTqzYJWhF2iBKAE) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [CRIMINAL MANE](https://open.spotify.com/album/0jxiVbN7Wpdwppd7f5vIhK) | 2:33 | 2021-11-12 | 2022-09-03 |
 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 | 2022-09-02 |  |
@@ -255,6 +256,7 @@
 | [REASON TO LIVE](https://open.spotify.com/track/4ct6fY3UwHrY4IJIasEDfl) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [REASON TO LIVE](https://open.spotify.com/album/4nmSaKjoJkZH1Agf5brNku) | 3:12 | 2022-02-04 | 2022-06-04 |
 | [REQUIEM](https://open.spotify.com/track/6D12YCcbjYJIDYU3kixJTE) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [REQUIEM](https://open.spotify.com/album/7xq5hex2Zri3mIelZAWA15) | 1:54 | 2022-07-01 | 2022-08-27 |
 | [REVENGE](https://open.spotify.com/track/0MAZBh1x1lJY3ZnbtecLef) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [Leftoz](https://open.spotify.com/artist/0AfUrEBaxct6x60P0UoKtq) | [REVENGE](https://open.spotify.com/album/51P4mQgj2hhFf3MBQYEsRa) | 2:18 | 2021-10-25 | 2022-06-11 |
+| [RITUAL](https://open.spotify.com/track/1VvldVWHEtvwzKlGx8ahOg) | [Phonk Killer](https://open.spotify.com/artist/4Xpfcr6PHXIPeoCBlXNwtC) | [RITUAL](https://open.spotify.com/album/43nEXegWvPFJ1xDk2toTnI) | 1:43 | 2022-11-03 |  |
 | [ROADKILL](https://open.spotify.com/track/2WqPiS79q9a5PXQhA3tun7) | [SAOTOMAMORE](https://open.spotify.com/artist/4MxJYU17fdqZ9tzK1d7aeM), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [ROADKILL](https://open.spotify.com/album/6v6nePEhOnTXq7Zfk7EHmM) | 2:04 | 2022-09-02 | 2022-10-29 |
 | [RUNWAY](https://open.spotify.com/track/1YV1mdDQny0j3q1x7GZ6H6) | [HXVRMXN](https://open.spotify.com/artist/2kxLXJ17WUKNIwyIfeDigH) | [RUNWAY](https://open.spotify.com/album/4cuC8GYSNhztfeZC75DzzN) | 2:57 | 2022-02-18 | 2022-08-13 |
 | [Russia Vip](https://open.spotify.com/track/5d8MfJPpikbG256a32qRy7) | [SXGXVX](https://open.spotify.com/artist/1lL48GuJjbIQZYdn2ELknJ) | [Russia Vip](https://open.spotify.com/album/0llItE2PsqtYWvj8UsNgi2) | 2:00 | 2021-10-01 | 2022-06-04 |
@@ -332,7 +334,7 @@
 | [WITHOUT A HEAD](https://open.spotify.com/track/4EMHwQzXsVW3wvGjvVICcQ) | [SPURIA](https://open.spotify.com/artist/3oeB6ng7JxpjHhE42GGRil) | [WITHOUT A HEAD](https://open.spotify.com/album/4G3FWN8MVKRy2CguLCuGA1) | 2:00 | 2022-07-15 | 2022-08-27 |
 | [WORLD DOMINATION](https://open.spotify.com/track/52qc54pAnhzEEoha8RziQ8) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [WORLD DOMINATION](https://open.spotify.com/album/0EwZh84BsSaWxG8H4alInK) | 1:37 | 2022-06-10 | 2022-07-16 |
 | [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-10-28 |  |
-| [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-14 |  |
+| [WORTH NOTHING \- Instrumental](https://open.spotify.com/track/2nvFfiJKe7u9CPnDkumbsq) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [WORTH NOTHING \(Instrumental\)](https://open.spotify.com/album/5ba7KbgbcCI9Z2yk5oxq5D) | 2:44 | 2022-10-14 | 2022-11-04 |
 | [WRAITH KING](https://open.spotify.com/track/2tC9rHGt3hmOxcGAQ7ic4m) | [D4C](https://open.spotify.com/artist/03dgMbqosvNOQzxyfqALkq), [HRXSTAL](https://open.spotify.com/artist/3TU2ypJAzSbPvuyH54Y8Xu) | [WRAITH KING](https://open.spotify.com/album/2wbbNCb0SoHCS34PFcfbys) | 2:03 | 2022-10-21 |  |
 | [Wtf U Mean](https://open.spotify.com/track/3PHt7AdVhjIMS5Yw5RIZKU) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wtf U Mean](https://open.spotify.com/album/4uVFNuPonAm2Y6NxvvLuNs) | 1:58 | 2021-05-12 | 2022-04-14 |
 | [XEBU, PT\. 2](https://open.spotify.com/track/5P0OhLUoR6YiY4shxqEj4E) | [Cree+](https://open.spotify.com/artist/5zyatk5rWWeCj7Lcn5RV3u) | [XEBU, PT\. 2](https://open.spotify.com/album/3x8eiVRvamtYsnjfOcL3LN) | 2:42 | 2022-02-18 | 2022-04-05 |

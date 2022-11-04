@@ -1,12 +1,12 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 76815,
+  "num_followers": 76960,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQwOTUwOCwwMDAwMDAwMDEyNGI1NTlmZDFjM2RkMWI4ZGQzZjIzYmEyNTM2ZTBi",
+  "snapshot_id": "MTY2NzQwOTUwOCwwMDAwMDAwMGFkYmUyOWQ3MThhYWU3YWUwNzZkM2M1ZWU1NmE1ZWM5",
   "tracks": [
     {
       "added_at": "2022-11-02 15:40:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
-      },
-      "artists": [
-        {
-          "name": "The Getaway Plan",
-          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "Where the City Meets the Sea",
-      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Home, Like Noplace Is There",
         "url": "https://open.spotify.com/album/37ohOvaKOQIEkFjTWfg9Q4"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/5wwbe5wtc4pd9RDlFNXeFg"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/5HXLYD2Iu9rKlpTDMFyNWI"
+      },
+      "artists": [
+        {
+          "name": "The Getaway Plan",
+          "url": "https://open.spotify.com/artist/5JmeloS88DjYXJulG7qgwF"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Where the City Meets the Sea",
+      "url": "https://open.spotify.com/track/0uX6Y7mRIJjswGAcLg1oz9"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "RARE",
-        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
-      },
-      "artists": [
-        {
-          "name": "Hundredth",
-          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Neurotic",
-      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/0m3hGU2BkS3t3zBdavqmNg"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 185640,
       "name": "Cool in Motion",
       "url": "https://open.spotify.com/track/21yuHrj83KWSLRsCvDN7Ul"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "RARE",
+        "url": "https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp"
+      },
+      "artists": [
+        {
+          "name": "Hundredth",
+          "url": "https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Neurotic",
+      "url": "https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Abstract Figures in the Dark",
         "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
+        "name": "Infinite Pleasure",
+        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 247360,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
         "name": "Dark World",
         "url": "https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
-        "name": "Infinite Pleasure",
-        "url": "https://open.spotify.com/album/4EMCM4unQso8HGyy3N19FY"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2D8oZGGpHtSiJLYMKdM5Ao"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1807,8 +1807,8 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Fools and Worthless Liars (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I"
+        "name": "Smiles All Round - Single",
+        "url": "https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq"
       },
       "artists": [
         {
@@ -1816,9 +1816,9 @@
           "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 289733,
-      "name": "Hunstanton Pier",
-      "url": "https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q"
+      "duration_ms": 167931,
+      "name": "Smiles All Round - Single",
+      "url": "https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Effloresce",
-        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
-      },
-      "artists": [
-        {
-          "name": "Oceansize",
-          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
-        }
-      ],
-      "duration_ms": 400680,
-      "name": "Catalyst - Remastered",
-      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Diorama (U.S. Version)",
         "url": "https://open.spotify.com/album/0Zq85Us1Vyb4BhbjvIx9VN"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 254440,
       "name": "One Way Mule",
       "url": "https://open.spotify.com/track/6WfuJb0HmIzA45sBFZ9j3F"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Effloresce",
+        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
+      },
+      "artists": [
+        {
+          "name": "Oceansize",
+          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+        }
+      ],
+      "duration_ms": 400680,
+      "name": "Catalyst - Remastered",
+      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1919,8 +1919,8 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Smiles All Round - Single",
-        "url": "https://open.spotify.com/album/7bbe8uw300uJdVznrKZGPq"
+        "name": "Fools and Worthless Liars (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I"
       },
       "artists": [
         {
@@ -1928,9 +1928,9 @@
           "url": "https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M"
         }
       ],
-      "duration_ms": 167931,
-      "name": "Smiles All Round - Single",
-      "url": "https://open.spotify.com/track/4gzgTuZBM2kJPsBUwAopRE"
+      "duration_ms": 289733,
+      "name": "Hunstanton Pier",
+      "url": "https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Pull a Little Closer",
-        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
-      },
-      "artists": [
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
-        }
-      ],
-      "duration_ms": 242480,
-      "name": "Pull a Little Closer",
-      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Dear Seattle",
         "url": "https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 260750,
       "name": "Afterthought",
       "url": "https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Pull a Little Closer",
+        "url": "https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW"
+        }
+      ],
+      "duration_ms": 242480,
+      "name": "Pull a Little Closer",
+      "url": "https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "You And Me",
-        "url": "https://open.spotify.com/album/6xepPkXwLDvgP52GmsPaKu"
-      },
-      "artists": [
-        {
-          "name": "Open Hand",
-          "url": "https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9"
-        }
-      ],
-      "duration_ms": 174346,
-      "name": "Tough Girl",
-      "url": "https://open.spotify.com/track/2XBOugZ298NJ92hNwNOMES"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "Drenge",
         "url": "https://open.spotify.com/album/0Wrn6T6l8C2zPtnuOUQtmB"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 152106,
       "name": "Bloodsports",
       "url": "https://open.spotify.com/track/2zn3hrsi0nrTe42JJxMgC8"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/6xepPkXwLDvgP52GmsPaKu"
+      },
+      "artists": [
+        {
+          "name": "Open Hand",
+          "url": "https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9"
+        }
+      ],
+      "duration_ms": 174346,
+      "name": "Tough Girl",
+      "url": "https://open.spotify.com/track/2XBOugZ298NJ92hNwNOMES"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Amusement Parks On Fire",
-        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+        "name": "The Haze",
+        "url": "https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO"
       },
       "artists": [
         {
-          "name": "Amusement Parks On Fire",
-          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+          "name": "Pulled Apart By Horses",
+          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
         }
       ],
-      "duration_ms": 251293,
-      "name": "Smokescreen",
-      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+      "duration_ms": 195079,
+      "name": "The Big What If",
+      "url": "https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2095,38 +2095,6 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
-        "name": "Airplane",
-        "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
-      },
-      "artists": [
-        {
-          "name": "Liotta Seoul",
-          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
-        "name": "The Haze",
-        "url": "https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO"
-      },
-      "artists": [
-        {
-          "name": "Pulled Apart By Horses",
-          "url": "https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy"
-        }
-      ],
-      "duration_ms": 195079,
-      "name": "The Big What If",
-      "url": "https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
       },
@@ -2139,6 +2107,38 @@
       "duration_ms": 175648,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Amusement Parks On Fire",
+        "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
+      },
+      "artists": [
+        {
+          "name": "Amusement Parks On Fire",
+          "url": "https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Smokescreen",
+      "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
+        "name": "Airplane",
+        "url": "https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo"
     },
     {
       "added_at": "2022-11-02 15:40:45",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2022-11-02 15:40:45",
       "album": {
+        "name": "Keep The Lights On Me",
+        "url": "https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ"
+      },
+      "artists": [
+        {
+          "name": "Big Spring",
+          "url": "https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma"
+        }
+      ],
+      "duration_ms": 227261,
+      "name": "Keep The Lights On Me",
+      "url": "https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5"
+    },
+    {
+      "added_at": "2022-11-02 15:40:45",
+      "album": {
         "name": "Year Of The Rabbit",
         "url": "https://open.spotify.com/album/5OoDVRouHLJ1CzyV2mzaQc"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 175920,
       "name": "Shot Down",
       "url": "https://open.spotify.com/track/1TVtlM7zD2UDTPku94klR8"
-    },
-    {
-      "added_at": "2022-11-02 15:40:45",
-      "album": {
-        "name": "Keep The Lights On Me",
-        "url": "https://open.spotify.com/album/3P3Mj0umfWfMMkwdfPVxCQ"
-      },
-      "artists": [
-        {
-          "name": "Big Spring",
-          "url": "https://open.spotify.com/artist/5mGGqrCotZt5NvTxb6nsma"
-        }
-      ],
-      "duration_ms": 227261,
-      "name": "Keep The Lights On Me",
-      "url": "https://open.spotify.com/track/190yVCaCcBHxXIxF00gaw5"
     },
     {
       "added_at": "2022-11-02 15:40:45",

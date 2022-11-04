@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Down / House of Cards",
+        "url": "https://open.spotify.com/album/2ndm3i6NRcaR2EmUiuh7vo"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241327,
+      "name": "Down / House of Cards",
+      "url": "https://open.spotify.com/track/72foKCqAhGyaeofqmQ2TL0"
+    },
+    {
+      "album": {
         "name": "Dw About Me",
         "url": "https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD"
       },
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 171191,
       "name": "Oh my mind",
       "url": "https://open.spotify.com/track/11xhklamG0Y8fOwufeugtK"

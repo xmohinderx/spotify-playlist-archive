@@ -4,7 +4,7 @@
 
 > Let your mind float away with these down\-tempo easy listening tracks\. Cover: Genevieve Stokes
 
-643 songs - 1 day 10 hr 44 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
+645 songs - 1 day 10 hr 51 min - [published](https://open.spotify.com/playlist/131I5jMqZujDbJb8JAE5m8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Demons](https://open.spotify.com/track/0Y5nfKx3OnZWPIO0vHbinL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/2aH7vOX17njaGz6Th2e8kK) | 2:59 | 2019-10-11 | 2021-05-12 |
 | [Didn't Break It Enough](https://open.spotify.com/track/7zAPuRyZGRLPSGNnaj1H7X) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Didn't Break It Enough](https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v) | 3:01 | 2019-08-31 | 2020-04-06 |
 | [Didn't Mean to Kill a Man](https://open.spotify.com/track/1wbd3pC2wOXt83GxyUBa9k) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Paul Couture](https://open.spotify.com/artist/3mnV8nHkDFtgj44qwt4rVt) | [Charly](https://open.spotify.com/album/4GosWvtTy9cLfJIFbF2Pow) | 3:09 | 2022-10-21 |  |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |
 | [Different Skies](https://open.spotify.com/track/479UpDSxutdMNk46g0rsiB) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Different Skies](https://open.spotify.com/album/70Cn1qd89bB9fGGFOoRSXj) | 2:53 | 2022-02-10 |  |
 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 | 2020-07-31 | 2021-05-12 |
 | [Dim the Lights](https://open.spotify.com/track/2oSPA8AyyluxOU7fnabHB0) | [Ricky Rosen](https://open.spotify.com/artist/5pkaRScaZtRzYedQavygpZ) | [Dim the Lights](https://open.spotify.com/album/39cH4vg1AmAXEWpJu32Cqv) | 3:20 | 2020-12-11 | 2021-06-23 |
@@ -371,6 +372,7 @@
 | [Medicine](https://open.spotify.com/track/3OH5hqxxjvDLTu04jxRvL2) | [MA RATED](https://open.spotify.com/artist/30rb4ntsbRjqjlPquWtskg) | [Medicine](https://open.spotify.com/album/538WTSicIPlXTeNzcraF7X) | 3:32 | 2020-06-19 | 2021-05-12 |
 | [Meet U Again](https://open.spotify.com/track/5olHyFqKwYuX4UNE1bHeBO) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Meet U Again](https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP) | 2:35 | 2022-02-28 |  |
 | [Melancholy](https://open.spotify.com/track/1TvbMS0nNRFfG7x0SpOHqe) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Melancholy](https://open.spotify.com/album/4zbDad6JvhsqzrbvUtkKJN) | 2:44 | 2020-04-03 | 2020-05-19 |
+| [Memories of You](https://open.spotify.com/track/180yjcIvKU1Vx6KifwaTU9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Memories of You](https://open.spotify.com/album/1ddVg2hiXNHyNZHCkZ1NFh) | 3:21 | 2022-11-04 |  |
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-13 | 2020-05-19 |
 | [Mine](https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:11 | 2019-08-27\* | 2019-11-11 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2020-11-06 |  |

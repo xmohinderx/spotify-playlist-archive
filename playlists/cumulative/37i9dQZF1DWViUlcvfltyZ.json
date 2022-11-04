@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: Elephant Brain",
+  "description": "Chitarre, pi\u00f9 o meno distorte. Aggiornata ogni venerd\u00ec. Cover: clauscalmo",
   "name": "Rock Italia",
   "published_playlist_ids": [
     "1ygHfNTT8YmP8RXH0ojm4P"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 236000,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/4fImlKONfekd1g8CNPnOea"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 194425,
       "name": "Cuore semplice",
       "url": "https://open.spotify.com/track/2SKyzBp3873FWQUvjncE7X"
@@ -1673,6 +1673,24 @@
       "duration_ms": 238740,
       "name": "Il tempo \u00e8 una bugia (feat. Ligabue)",
       "url": "https://open.spotify.com/track/7tl8kzo4DM62We5mgJRYNx"
+    },
+    {
+      "album": {
+        "name": "Sale (Elas)",
+        "url": "https://open.spotify.com/album/1mZdqKhXnngN363k2kXdA0"
+      },
+      "artists": [
+        {
+          "name": "C+C=Maxigross",
+          "url": "https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "Il vento",
+      "url": "https://open.spotify.com/track/6vO8miBm2egYQXiDcsJshV"
     },
     {
       "album": {
@@ -2577,7 +2595,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-04",
       "duration_ms": 176314,
       "name": "Porn Magazines",
       "url": "https://open.spotify.com/track/4f3tMrw56Kl9HUrrqhgHza"
@@ -2809,6 +2827,24 @@
       "duration_ms": 171487,
       "name": "Resto solo io",
       "url": "https://open.spotify.com/track/0uLcIYwzGnHKxG395CCzu1"
+    },
+    {
+      "album": {
+        "name": "RGRD",
+        "url": "https://open.spotify.com/album/1EirmUuEp1El24sVa7Xf6s"
+      },
+      "artists": [
+        {
+          "name": "Tramontana",
+          "url": "https://open.spotify.com/artist/2StHxIShAbfP5rp1uf2smy"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "RGRD",
+      "url": "https://open.spotify.com/track/4gmxEVlGmX2brjJBEm4Fqy"
     },
     {
       "album": {

@@ -786,6 +786,28 @@
     },
     {
       "album": {
+        "name": "Demnuhbad",
+        "url": "https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH"
+      },
+      "artists": [
+        {
+          "name": "Vosai",
+          "url": "https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw"
+        },
+        {
+          "name": "VinDon",
+          "url": "https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186264,
+      "name": "Demnuhbad",
+      "url": "https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv"
+    },
+    {
+      "album": {
         "name": "die 4 u",
         "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },

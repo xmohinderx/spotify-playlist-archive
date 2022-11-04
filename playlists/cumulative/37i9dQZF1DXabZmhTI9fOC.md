@@ -303,6 +303,6 @@
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2022-08-29 |  |
 | [You Don't Have To Be Alone](https://open.spotify.com/track/5Bl60xe1GByMVQ612UaXzr) | [Friends At The Falls](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [You Don't Have To Be Alone](https://open.spotify.com/album/3ztZIbYLvWNjn2rAPgWtoU) | 3:48 | 2022-08-19 |  |
 | [You Mean The World To Me](https://open.spotify.com/track/1bC7e6WRkuFEeGSRAcsZwy) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:12 | 2022-08-19 |  |
-| [You're No Good \- Epic Trailer Version](https://open.spotify.com/track/11kUnSxbQQvXoZxVussoSw) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [Rånya](https://open.spotify.com/artist/3igI0aSNJI6ja6qwy4mv4e) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 2:52 | 2022-08-01 |  |
+| [You're No Good \- Epic Trailer Version](https://open.spotify.com/track/11kUnSxbQQvXoZxVussoSw) | [Hidden Citizens](https://open.spotify.com/artist/707cnVfI3ISM4j5uzfTc7J), [Rånya](https://open.spotify.com/artist/06bnkBtdhuBFhXCDi50LX5) | [Reawakenings Vol\. 2](https://open.spotify.com/album/2LrTI8TmMtjlAfGFvvMLoD) | 2:52 | 2022-08-01 |  |
 
 \*This playlist was first scraped on 2022-07-25. Prior content cannot be recovered.
