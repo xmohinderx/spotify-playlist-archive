@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-451 songs - 20 hr 8 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
+453 songs - 20 hr 12 min - [published](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Heimweh](https://open.spotify.com/track/3cAAUD4tggStdAti1TDQNE) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Heimweh](https://open.spotify.com/album/0NwnK3pUidy0E7dGTmnvR9) | 2:16 | 2022-09-02 |  |
 | [Hemma är vid havet](https://open.spotify.com/track/5U3u4NXauUXzsnki4PbjPC) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Hemma är vid havet](https://open.spotify.com/album/6J0FxxEmI1YFvtEKPfInUH) | 2:52 | 2022-04-22 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-04-22 | 2022-05-11 |
-| [Hidden](https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/3uFB8d62V6muqEN5XTeV25) | 2:24 | 2022-08-12 |  |
+| [Hidden](https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/3uFB8d62V6muqEN5XTeV25) | 2:24 | 2022-08-12 | 2022-11-05 |
+| [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 | 2022-10-28 |  |
 | [High Hopes](https://open.spotify.com/track/53ARH2FEbhj5Fyqa0f77t5) | [Sara Gadshill](https://open.spotify.com/artist/22RQ7nqf0fvL5ThmEP0cyD) | [High Hopes](https://open.spotify.com/album/3TxGQnoRo3X3gsRtNjF8ob) | 2:58 | 2022-05-10 | 2022-07-15 |
 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 | 2022-09-09 |  |
 | [Hitchhiking](https://open.spotify.com/track/2P6Opus7hGyXkC6Pd7k1Gk) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Hitchhiking](https://open.spotify.com/album/6QfINtClurYc2Tmkcv0O8G) | 2:58 | 2022-09-16 |  |
@@ -205,7 +206,8 @@
 | [Julieta](https://open.spotify.com/track/2INWzibx7vOzJzI7117HXq) | [Almudena Senza](https://open.spotify.com/artist/6tVnjpRX2xCJzaLr7XID1v) | [Julieta](https://open.spotify.com/album/5QZhzlKhVTJ1rIsjRSaWKb) | 2:23 | 2022-10-07 |  |
 | [Just Dipping My Toe](https://open.spotify.com/track/3Q97tyLwBoqT3hgpXC9h42) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Just Dipping My Toe](https://open.spotify.com/album/5bexksdhIDIVk8vDVaHpgq) | 3:47 | 2022-09-09 |  |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2021-12-08 | 2022-04-06 |
-| [Kaelyn](https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/6Q8TmOw56qUXF8bnTwRhCm) | 2:09 | 2022-09-02 |  |
+| [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 | 2022-10-28 |  |
+| [Kaelyn](https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/6Q8TmOw56qUXF8bnTwRhCm) | 2:09 | 2022-09-02 | 2022-11-05 |
 | [Kalon](https://open.spotify.com/track/3kVLbsa0LduXAdna4E8VI6) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Kalon](https://open.spotify.com/album/3lfOzzTyavf27SUAy3zyss) | 2:22 | 2022-09-16 |  |
 | [Kenopsia](https://open.spotify.com/track/7eUW8Gu9S1RbPJvTAvz2g8) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Kenopsia](https://open.spotify.com/album/3ZoaDy4bxmkqMl1xScyShd) | 1:29 | 2022-09-02 |  |
 | [Kékes](https://open.spotify.com/track/1Y95ZqpRL9fDfPylinDvtS) | [Victor Manu](https://open.spotify.com/artist/2faFzPAZ0UYeY6TlerQmGK) | [Raphaela](https://open.spotify.com/album/2rHXOxttBdWZ45jSuMKgXv) | 3:17 | 2021-12-08 | 2022-10-29 |

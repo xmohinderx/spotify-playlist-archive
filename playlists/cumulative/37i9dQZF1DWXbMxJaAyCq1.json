@@ -2667,7 +2667,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 436298,
       "name": "Hay Amores Que Matan - Remix",
       "url": "https://open.spotify.com/track/4938heiCnr3uLMh5GxXRVx"
@@ -3223,7 +3223,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
@@ -6252,6 +6252,28 @@
     },
     {
       "album": {
+        "name": "Tu Gato Bellaco (Remix)",
+        "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
+      },
+      "artists": [
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        },
+        {
+          "name": "Kevin Roldan",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Tu Gato Bellaco - Remix",
+      "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
+    },
+    {
+      "album": {
         "name": "Tu No Metes Cabra Remix",
         "url": "https://open.spotify.com/album/1iBPzt9tw4KVZ8yVSe4FfD"
       },
@@ -6309,6 +6331,32 @@
       "duration_ms": 331431,
       "name": "Tu No Metes Cabra Remix (feat. Daddy Yankee, Anuel AA & Cosculluela)",
       "url": "https://open.spotify.com/track/0QQNA8bZqefrGfsShzlZkb"
+    },
+    {
+      "album": {
+        "name": "Tu Si Kiere (Remix)",
+        "url": "https://open.spotify.com/album/7lHyC5uKiIr1nEUIb63mNi"
+      },
+      "artists": [
+        {
+          "name": "Soto Asa",
+          "url": "https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239769,
+      "name": "Tu Si Kiere - Remix",
+      "url": "https://open.spotify.com/track/1X0veQLrMzlgz5LZsVLCUN"
     },
     {
       "album": {
@@ -6377,12 +6425,12 @@
           "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         },
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         },
         {
           "name": "Paloma Mami",
@@ -6571,10 +6619,40 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 235746,
       "name": "X (feat. Maluma & Ozuna) - Remix",
       "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
+    },
+    {
+      "album": {
+        "name": "XANAX (REMIX)",
+        "url": "https://open.spotify.com/album/4FmN1jKknqSCXdNBmuc73n"
+      },
+      "artists": [
+        {
+          "name": "El High",
+          "url": "https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Jory Boy",
+          "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205789,
+      "name": "XANAX - REMIX",
+      "url": "https://open.spotify.com/track/3IGZqhFP424WoS41afdjBp"
     },
     {
       "album": {

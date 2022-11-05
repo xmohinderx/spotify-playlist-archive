@@ -1,12 +1,12 @@
 {
   "description": "The perfect uptempo tracks for your Party.\nCover : Nithiin",
-  "num_followers": 26387,
+  "num_followers": 26413,
   "original_name": "EDM Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMDc0NmYzZWNiZjVlZGIxNTA3NWRlYTZmOWQ4NDM5MTA3",
+  "snapshot_id": "MTY1ODQ5Mzc2NywwMDAwMDAwMGI3OWI5Mzc3Mzk0YjBkOTYwZWYxZDBkNGQ2NWFkYzg5",
   "tracks": [
     {
       "added_at": "2022-06-03 13:02:58",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Ranarangam",
-        "url": "https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg"
-      },
-      "artists": [
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "Pilla Picture Perfect",
-      "url": "https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "MLA",
         "url": "https://open.spotify.com/album/4qg8GlsYmuxeY7B9ZWfAC7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 274347,
       "name": "Most Wanted Abbayi",
       "url": "https://open.spotify.com/track/7oFzQzGEQaXFSTjnBWpgVI"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Ranarangam",
+        "url": "https://open.spotify.com/album/2QTbh3cSBuKbw821yvcPRg"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "Pilla Picture Perfect",
+      "url": "https://open.spotify.com/track/3na6VGHw5UrfEUHeHdAN6m"
     },
     {
       "added_at": "2021-06-24 14:44:57",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2021-06-24 14:44:57",
       "album": {
-        "name": "Jawaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
-      },
-      "artists": [
-        {
-          "name": "Saketh",
-          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
-        },
-        {
-          "name": "Mohana Bhogaraju",
-          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
-        }
-      ],
-      "duration_ms": 212822,
-      "name": "Bomma Adirindhi",
-      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
-    },
-    {
-      "added_at": "2021-06-24 14:44:57",
-      "album": {
         "name": "Lovers Day (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4gUIECPXhyYSekLbAexlHK"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 198379,
       "name": "Listen to Story - Freak Pilla",
       "url": "https://open.spotify.com/track/3FslWKeri9zykXECz92NlL"
+    },
+    {
+      "added_at": "2021-06-24 14:44:57",
+      "album": {
+        "name": "Jawaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DfsGKVbm4zYOnEiGmJMW0"
+      },
+      "artists": [
+        {
+          "name": "Saketh",
+          "url": "https://open.spotify.com/artist/2Z4Ts7fIjfQ78Nh7EEy1bQ"
+        },
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        }
+      ],
+      "duration_ms": 212822,
+      "name": "Bomma Adirindhi",
+      "url": "https://open.spotify.com/track/6C973InqBs20JEt5n71BY6"
     },
     {
       "added_at": "2021-06-24 14:44:57",

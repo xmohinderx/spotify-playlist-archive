@@ -1,12 +1,12 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: Puro Sentimiento",
-  "num_followers": 83053,
+  "num_followers": 83116,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMGQ4ZDc3YWVkNGNlZjI1ZDJmYmY5NzllOThjNmJjMjZi",
+  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMDg4YjdkNTQ1NzY3NGM0MjhkMmZhNDJjNTg0NGJlMDMy",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2022-08-05 05:00:00",
-      "album": {
         "name": "El Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 247986,
       "name": "J\u00farame",
       "url": "https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0"
+    },
+    {
+      "added_at": "2022-08-05 05:00:00",
+      "album": {
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Sin Fronteras!",
-        "url": "https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx"
+        "name": "Goza Tu Cumbia: Peruvian Cumbia",
+        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
       },
       "artists": [
         {
-          "name": "Orquesta La \u00danica Tropical",
-          "url": "https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK"
+          "name": "Orquesta Caribe\u00f1os de Guadalupe",
+          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
         }
       ],
-      "duration_ms": 224104,
-      "name": "Si Esta Casa Hablara",
-      "url": "https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3"
+      "duration_ms": 261600,
+      "name": "El Solitario",
+      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Goza Tu Cumbia: Peruvian Cumbia",
-        "url": "https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi"
+        "name": "Sin Fronteras!",
+        "url": "https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx"
       },
       "artists": [
         {
-          "name": "Orquesta Caribe\u00f1os de Guadalupe",
-          "url": "https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C"
+          "name": "Orquesta La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK"
         }
       ],
-      "duration_ms": 261600,
-      "name": "El Solitario",
-      "url": "https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh"
+      "duration_ms": 224104,
+      "name": "Si Esta Casa Hablara",
+      "url": "https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Tu Amor Fue una Mentira, Vol. 11",
-        "url": "https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26"
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/5gMSQc4bvPERTvrOQXc543"
       },
       "artists": [
         {
-          "name": "Agua Marina",
-          "url": "https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ"
+          "name": "Deyvis Orosco",
+          "url": "https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd"
+      "duration_ms": 234880,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/4QeJ9ICMlwED0XfR5o2FRs"
     }
   ],
   "unique_name": "Cumbias de Oro",

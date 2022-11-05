@@ -4,7 +4,7 @@
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-196 songs - 13 hr 29 min - [published](https://open.spotify.com/playlist/73bheCpyPrjxP58pmAp2Qf)
+197 songs - 13 hr 33 min - [published](https://open.spotify.com/playlist/73bheCpyPrjxP58pmAp2Qf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,10 +111,11 @@
 | [Lágrimas e chuva](https://open.spotify.com/track/6TI4299mWjx2h9yE7Cikm7) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [Educação Sentimental](https://open.spotify.com/album/6A2Obljp59egehWDpxxX8C) | 4:33 | 2020-06-24 | 2022-07-29 |
 | [Maior Abandonado](https://open.spotify.com/track/30VpfIcLiuLYN3HHjrpWJ7) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Maior Abandonado](https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR) | 2:43 | 2020-06-24 | 2022-07-29 |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2020-06-24 | 2022-10-30 |
+| [Maniac \- From "Flashdance"](https://open.spotify.com/track/2Vlq5dQMswHihOv7HnjlOt) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Cleaning Music](https://open.spotify.com/album/1msQFQuEJqUQCTzy98V2oI) | 4:06 | 2020-06-24 |  |
 | [Marvin \- Ao vivo](https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Go Back \(Ao vivo\)](https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm) | 4:21 | 2020-06-24 | 2022-07-29 |
 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 | 2020-06-24 |  |
 | [Me Chama](https://open.spotify.com/track/7GNJgRUNRACGYH8ySNyqgj) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 3:50 | 2020-06-24 | 2022-07-29 |
-| [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 | 2020-06-24 |  |
+| [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 | 2020-06-24 | 2022-11-05 |
 | [Meninos E Meninas](https://open.spotify.com/track/22LN0RwHqTUJcIN4dzzB6N) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [As Quatro Estações](https://open.spotify.com/album/7AMgXBVw9ViHswkQ71wyju) | 3:23 | 2020-06-24 | 2022-07-29 |
 | [Meu Erro](https://open.spotify.com/track/7pn5QXr2LTeGsgHyCaJxDo) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [O Passo Do Lui](https://open.spotify.com/album/4C70kCh7SQW3XFQIsMrQTQ) | 3:28 | 2020-06-24 | 2022-07-29 |
 | [Modern Love \- 1999 Remaster](https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 4:48 | 2020-06-24 | 2022-07-24 |

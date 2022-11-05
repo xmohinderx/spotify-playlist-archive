@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,754 likes - 255 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,973 likes - 255 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 13 | [Brookline](https://open.spotify.com/track/4jXvLe7ERO8yIYETDZGU0m) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Farewell Summer](https://open.spotify.com/album/3S24lJTMp9qizsxmVHBdKW) | 3:11 |
 | 14 | [História De Vida](https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [História De Vida](https://open.spotify.com/album/1sDwjitrRLeu4jTK3Wl5RI) | 2:25 |
 | 15 | [Come Join Me For A Coffee](https://open.spotify.com/track/6VnnTqt2OpuS0UtAJnBPcU) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Come Join Me For A Coffee](https://open.spotify.com/album/4nGG1PsFoQrDM1qR5x0md4) | 3:04 |
-| 16 | [Hidden](https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/3uFB8d62V6muqEN5XTeV25) | 2:24 |
+| 16 | [Hidden](https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Hidden](https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp) | 2:24 |
 | 17 | [Guarisci il mio Cuore](https://open.spotify.com/track/7EaZOfcQgKj53K2FPKWpIk) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Savoca](https://open.spotify.com/album/2slTVldYU5nAHltkYsEyS0) | 3:09 |
 | 18 | [Lovelight](https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N) | [Geoff Henzel](https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5) | [Lovelight](https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB) | 1:53 |
 | 19 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 |
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 102 | [Salut Sandro](https://open.spotify.com/track/2amfLm3CsTQT3OBlqpXh0M) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Salut Sandro](https://open.spotify.com/album/4LxIkpbfjtgmw3Sle1ffAg) | 2:49 |
 | 103 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 |
 | 104 | [Believer](https://open.spotify.com/track/39TkpMiAw9ys6ZWUDCatNf) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Believer](https://open.spotify.com/album/2rTeVhHQD3ItGp8bpHvBZK) | 2:11 |
-| 105 | [Kaelyn](https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/6Q8TmOw56qUXF8bnTwRhCm) | 2:09 |
+| 105 | [Kaelyn](https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Kaelyn](https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T) | 2:09 |
 | 106 | [Solitude](https://open.spotify.com/track/3qjAhULWLrlXGZBiJaJZ08) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Solitude](https://open.spotify.com/album/73i6pLX4oLi8wIkNMn57p5) | 2:11 |
 | 107 | [Origins](https://open.spotify.com/track/69D9LtJfcaMnY7S47ZjiPd) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Origins](https://open.spotify.com/album/4j0GD89RIFQGPphIKm9StA) | 2:03 |
 | 108 | [Kenopsia](https://open.spotify.com/track/7eUW8Gu9S1RbPJvTAvz2g8) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Kenopsia](https://open.spotify.com/album/3ZoaDy4bxmkqMl1xScyShd) | 1:29 |
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 254 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 |
 | 255 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 |
 
-Snapshot ID: `MTY2Njk2MzY0NCwwMDAwMDAwMDllMzgwNzA3MDU2MWUyOTNhZTc1MjI4NGMwYjc5YjNm`
+Snapshot ID: `MTY2Njk2MzY0NCwwMDAwMDAwMDg4MmUxNzQ1OWRmNzRiYWZhMjM5ZWEzOWExNzg1NmM1`

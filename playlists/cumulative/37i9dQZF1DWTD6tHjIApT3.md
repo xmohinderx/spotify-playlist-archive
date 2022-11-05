@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: YUKI
 
-844 songs - 2 day 7 hr 32 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
+846 songs - 2 day 7 hr 38 min - [published](https://open.spotify.com/playlist/0SZUWy0MOvj9UVdaGWsuiR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Barefaced](https://open.spotify.com/track/7mWCqUDS93ZKHqy6vxRiFt) | [Charlotte is Mine](https://open.spotify.com/artist/4qjYirCZfhEHkaixuexPTV) | [Barefaced](https://open.spotify.com/album/1z8GvHcj1jKn6TGrJLMgtw) | 2:59 | 2022-06-14 | 2022-06-22 |
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-06-28 |  |
 | [be true?](https://open.spotify.com/track/0a2dtih5moLbfrboYBmN47) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [be true?](https://open.spotify.com/album/2f90wCAHNIPW4syPU1DuUo) | 4:26 | 2022-06-14 | 2022-06-22 |
-| [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-03 |  |
+| [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Ai Furihata](https://open.spotify.com/artist/1FlASHjqkSDUcJK85EJbsj) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is) | 3:27 | 2022-11-03 |  |
+| [Be With You feat\. Ai Furihata](https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [降幡愛](https://open.spotify.com/artist/7svLWJb6OOknGzexOOwNNY) | [Be With You feat\. Ai Furihata](https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch) | 3:27 | 2022-11-03 | 2022-11-05 |
 | [Beautiful Boy](https://open.spotify.com/track/0WQlJVW3hHqOza1u0x7rBW) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(Side B\)](https://open.spotify.com/album/773qBysW6pX1LthAGbGNk0) | 3:11 | 2022-07-19 | 2022-07-27 |
 | [Beautiful Boy \- 日本語バージョン](https://open.spotify.com/track/0JRFHIb7KNnWoYoa9QOZnO) | [Rie fu](https://open.spotify.com/artist/4dP04Y2d6esI6cwOiAozgg) | [Beautiful Boy \(日本語バージョン\)](https://open.spotify.com/album/0rBE2HbXqPwLLbRdhNvvZs) | 3:15 | 2022-06-14 | 2022-06-22 |
 | [Before the Dawn](https://open.spotify.com/track/5WuuJoZCw7HTHGcp0jpGn0) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/1jWRsactv8G8RGne0ukMtk) | 3:53 | 2022-05-29 | 2022-07-27 |
@@ -105,7 +106,8 @@
 | [CRYPT \- \[Vocal : PORIN \(Awesome City Club\)\]](https://open.spotify.com/track/4AiCDarTpgt3ARE8v9d3mk) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [PORIN](https://open.spotify.com/artist/6hCK9NcgTUOj70hc5JjE8v) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 4:10 | 2022-06-25 | 2022-06-28 |
 | [cycle](https://open.spotify.com/track/0gpSNOdoWHlRCaGp4iIjC5) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH) | [cycle](https://open.spotify.com/album/0XfYpMjkFoyexPrP41X0l9) | 3:16 | 2022-10-04 | 2022-10-12 |
 | [Dancing Womer](https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Dancing Womer](https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w) | 4:03 | 2022-09-27 | 2022-10-19 |
-| [Darling](https://open.spotify.com/track/1LvpK2WDM3UDBMSROQ5h6E) | [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB), [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00) | [Darling](https://open.spotify.com/album/3q3B8EKPL7UhPI3YXW8Gg3) | 2:55 | 2022-11-01 |  |
+| [Darling](https://open.spotify.com/track/1gSmvXIqIezK3KpIc6tn37) | [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Time to Love](https://open.spotify.com/album/4KBSCpxhgK3MvUBVvkYqmg) | 2:55 | 2022-11-03 |  |
+| [Darling](https://open.spotify.com/track/1LvpK2WDM3UDBMSROQ5h6E) | [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB), [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00) | [Darling](https://open.spotify.com/album/3q3B8EKPL7UhPI3YXW8Gg3) | 2:55 | 2022-11-01 | 2022-11-05 |
 | [Day N Night](https://open.spotify.com/track/2bS0bzrGfnbnGiZhyRqpAt) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Day N Night](https://open.spotify.com/album/2E3Drk037gBwve6OJOIlau) | 2:24 | 2022-10-25 |  |
 | [Dear My Boo \(She said\)](https://open.spotify.com/track/1a9buU76UQDqEkRuulkeA9) | [He & She](https://open.spotify.com/artist/2gtMOy05gUFnzqlJZea47U), [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [Dear My Boo \(She said\)](https://open.spotify.com/album/7IZOXruHpIbPqBFQDJ52Nt) | 3:54 | 2022-06-21 | 2022-07-17 |
 | [debbie](https://open.spotify.com/track/4Nz3rcsMoe7SVKZ98Frt5E) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 3:43 | 2022-07-28 | 2022-08-03 |

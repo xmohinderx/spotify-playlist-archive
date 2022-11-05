@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,952 likes - 419 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,005 likes - 419 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 120 | [Anana](https://open.spotify.com/track/4TY0F64NzsNguy8p0I2Nge) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Awaken](https://open.spotify.com/album/00TkOdiVZHMhk7HCPkTVJI) | 3:21 |
 | 121 | [flat disc \- Coffe Shop](https://open.spotify.com/track/3dwL80oiNV7KBbihAgcmRZ) | [wet by water](https://open.spotify.com/artist/3r2OmZNHijxZSUSUGaFFES) | [flat disc](https://open.spotify.com/album/6BUybCnu96pymfwetnSms2) | 2:20 |
 | 122 | [Lost](https://open.spotify.com/track/30sDH0JNvR7SuLCzV1eLnr) | [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Lost](https://open.spotify.com/album/3S3JJK28AcSL2BpJu9Caym) | 2:27 |
-| 123 | [Settle Down](https://open.spotify.com/track/5E0UCofV3u4xyjeG6C1VEV) | [Wander Sky](https://open.spotify.com/artist/17xlXpr4XlWjdh6J2h6AlM) | [settle down](https://open.spotify.com/album/1IjHFuZbG9ohUVdBplxlfi) | 2:08 |
+| 123 | [Settle Down](https://open.spotify.com/track/5E0UCofV3u4xyjeG6C1VEV) | [Wander Sky](https://open.spotify.com/artist/17xlXpr4XlWjdh6J2h6AlM) | [Settle Down](https://open.spotify.com/album/1IjHFuZbG9ohUVdBplxlfi) | 2:08 |
 | 124 | [warm nights](https://open.spotify.com/track/5m8EKrdHcavp3BqVkXsEkb) | [leen one](https://open.spotify.com/artist/5lSzpJCuIliYUiRNRcV9PS) | [warm nights](https://open.spotify.com/album/1zAwXsbHYB5v7R1032Dl2V) | 2:13 |
 | 125 | [fresh rain](https://open.spotify.com/track/5ernJjUjgHAEBghcGitmm9) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [fresh rain](https://open.spotify.com/album/5QfyUbUbhSV4gFoeM2c5hM) | 2:12 |
 | 126 | [Alamar](https://open.spotify.com/track/7vJ9CkayWPnvHfqBaMdng6) | [Chau Sara](https://open.spotify.com/artist/4VjWi8luQOkJ3hLEW7UMhl) | [Alamar](https://open.spotify.com/album/4ve3VrJq6UZEqGspPDUsp5) | 2:14 |

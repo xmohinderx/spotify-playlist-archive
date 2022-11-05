@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-192 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
+195 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/4J4yOBmgih5feZicGBWAgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Dreams We Have](https://open.spotify.com/track/6sbuFkKEqcMAtCAZQDpbZv) | [Darcy Burke](https://open.spotify.com/artist/317AmUS3g0hGGM7bNCNXYw) | [Dreams We Have](https://open.spotify.com/album/3jimBHft9L9TiC4A4ib28Z) | 2:54 | 2022-03-04 |  |
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-03-04 | 2022-07-08 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-03-04 |  |
-| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 |  |
+| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 | 2022-11-05 |
+| [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 | 2022-10-28 |  |
 | [Early Morning Dream](https://open.spotify.com/track/2KUeoLhXvZqN5079fo0Xls) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [Early Morning Dream](https://open.spotify.com/album/2gQxSh8wGNqv4iGo5GlzYO) | 2:13 | 2022-05-13 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-03-04 | 2022-07-08 |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 | 2022-07-22 |
@@ -81,7 +82,8 @@
 | [Graceful Moment](https://open.spotify.com/track/202NHDBh9snqk5bUo1qZmD) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Graceful Moment & Open Fields](https://open.spotify.com/album/4ozWLRqVgvL3CJivu2Idzf) | 2:12 | 2022-03-04 |  |
 | [Great Moments](https://open.spotify.com/track/6VQ4N5ybijwCc6ugRlFztv) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Great Moments](https://open.spotify.com/album/5omrW0RAtTjG9JIvvPpUW4) | 3:03 | 2022-03-04 | 2022-03-19 |
 | [Green Grass](https://open.spotify.com/track/3sh5zwu0r6FQWLtuhJciXv) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Under The Oak](https://open.spotify.com/album/2kzu9YIymsuwYuTz8QFLgS) | 2:00 | 2022-03-04 | 2022-09-17 |
-| [Green Grove](https://open.spotify.com/track/254HGk3wJX7S8YgGaB6zWK) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/53RGo4pZgU1DslHViFKJ8N) | 2:17 | 2022-10-07 |  |
+| [Green Grove](https://open.spotify.com/track/254HGk3wJX7S8YgGaB6zWK) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/53RGo4pZgU1DslHViFKJ8N) | 2:17 | 2022-10-07 | 2022-11-05 |
+| [Green Grove](https://open.spotify.com/track/73bTH63konIKl1kFuZ26oI) | [A.J\. Meadow](https://open.spotify.com/artist/6hqhZGNThHWF0vmysPbPAo) | [Green Grove](https://open.spotify.com/album/5Sv7JHCWTANTxR8DzZA2GE) | 2:17 | 2022-10-28 |  |
 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 | 2022-03-04 | 2022-07-01 |
 | [Guarnieri](https://open.spotify.com/track/0rWUcQHJNWLZ4tkCJGhfpg) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Foi Assim](https://open.spotify.com/album/0tA8gFpl3KiocUkvLWAtQH) | 2:57 | 2022-09-02 |  |
 | [Hanna\`s Waltz](https://open.spotify.com/track/3qnrlBE2EdCb0lbVm7jjWQ) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Hanna\`s Waltz](https://open.spotify.com/album/11hzf8FQ7RhyLBKC5C2tsT) | 2:22 | 2022-03-04 | 2022-05-27 |
@@ -90,7 +92,8 @@
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-03-04 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-03-04 |  |
 | [Home](https://open.spotify.com/track/6xidiG4MYukn4scIc8z9ya) | [Pacecamp](https://open.spotify.com/artist/1k3YN6p4gb48dCrbLgwbht) | [Pacecamp](https://open.spotify.com/album/6Zqz556VwtsGihABRGb30i) | 2:16 | 2022-03-04 | 2022-04-22 |
-| [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 |  |
+| [Hometown](https://open.spotify.com/track/5lvCd2cod6ehTI6rCXgW9x) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA) | 2:02 | 2022-10-28 |  |
+| [Hometown](https://open.spotify.com/track/6CB44WdB5DhGtzMiaQ11Rr) | [Inner Trails](https://open.spotify.com/artist/2PL4J2dLCPQfClzz1x7Z2j) | [Hometown](https://open.spotify.com/album/6ooTLhKe5yD5LC4bL4fI7f) | 2:02 | 2022-09-02 | 2022-11-05 |
 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 | 2022-03-04 | 2022-05-27 |
 | [Hügel des Nordens](https://open.spotify.com/track/5TZZrFfHQQBFPOgFeTMl9v) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Hügel des Nordens](https://open.spotify.com/album/01C4mq3tGQZVG5kUMUHVhn) | 2:03 | 2022-03-04 | 2022-07-22 |
 | [I come in peace](https://open.spotify.com/track/6vzJpiB46qngBEYfoHnvKE) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [I come in peace](https://open.spotify.com/album/7pPCXg7hJKAKPaWJCPmcwj) | 1:58 | 2022-03-04 |  |

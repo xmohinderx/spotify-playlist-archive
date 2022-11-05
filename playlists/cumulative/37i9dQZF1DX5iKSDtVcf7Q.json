@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Music paying tribute to the Heartland of America.",
+  "description": "Luke Bryan is taking over Heartland Country with some of his favorite tracks, kicking off with his reflective new song \"Prayin' in a Deer Stand\".",
   "name": "Heartland Country",
   "published_playlist_ids": [
     "1dqdBVTT7GBYojXQcIUfos"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 196520,
       "name": "American Rust",
       "url": "https://open.spotify.com/track/2XkT5kbEEWPBJ99y7AadzM"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 236826,
       "name": "Back Where I Come From",
       "url": "https://open.spotify.com/track/4BbwjVS27IuC7bvN7qzAvS"
@@ -422,6 +422,36 @@
     },
     {
       "album": {
+        "name": "Ashley McBryde Presents: Lindeville",
+        "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        },
+        {
+          "name": "Pillbox Patti",
+          "url": "https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220796,
+      "name": "Bonfire At Tina's",
+      "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
+    },
+    {
+      "album": {
         "name": "The Road To Here",
         "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
       },
@@ -509,10 +539,28 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 236426,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2RnEMVSTAG2BQh3LHXS9te"
+    },
+    {
+      "album": {
+        "name": "Buy A Girl A Drink",
+        "url": "https://open.spotify.com/album/36tVeUCmIWva4RKFBN0OG8"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196415,
+      "name": "Buy A Girl A Drink",
+      "url": "https://open.spotify.com/track/3WXWxyUcD9HQBQcNaFN6xd"
     },
     {
       "album": {
@@ -553,6 +601,24 @@
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
+    },
+    {
+      "album": {
+        "name": "Livin' My Best Life",
+        "url": "https://open.spotify.com/album/5UkfLfGyiREHCmzM1kEUV0"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183087,
+      "name": "Can't Have Mine (Find You A Girl)",
+      "url": "https://open.spotify.com/track/3jfywRZH6cB2iLyKqo4EZd"
     },
     {
       "album": {
@@ -830,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -841,7 +925,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 245333,
       "name": "Famous In a Small Town",
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
@@ -1028,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Give You My All",
+        "url": "https://open.spotify.com/album/0gas9wev1EQn8BZ2Hb2vHj"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/1wbGNtxz7WcTpXxmsdMdpn"
+    },
+    {
+      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -1075,7 +1177,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"
@@ -1093,7 +1195,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 172066,
       "name": "Grew Up On That",
       "url": "https://open.spotify.com/track/1dwYdVvxMwMllDgwQuXMGs"
@@ -1155,6 +1257,24 @@
       "duration_ms": 209760,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+    },
+    {
+      "album": {
+        "name": "Heart Like A Truck",
+        "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Heart Like A Truck",
+      "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
     },
     {
       "album": {
@@ -1317,10 +1437,28 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 204066,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL"
+    },
+    {
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "How Is She",
+      "url": "https://open.spotify.com/track/1b7hvspxByqbuzW9N2gTOB"
     },
     {
       "album": {
@@ -1335,7 +1473,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
@@ -1447,7 +1585,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 212146,
       "name": "I Called Mama",
       "url": "https://open.spotify.com/track/2oWuBmQtYMx3LEgahIsJvs"
@@ -1627,7 +1765,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 273000,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2ZXsvL9DO2MPv43Ay1IxgR"
@@ -1747,7 +1885,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 272986,
       "name": "Mayberry",
       "url": "https://open.spotify.com/track/04rZkq3ihHmGNfKPgBiTX1"
@@ -1769,7 +1907,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 228106,
       "name": "Meanwhile Back At Mama's",
       "url": "https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz"
@@ -1859,7 +1997,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 285586,
       "name": "My Town",
       "url": "https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD"
@@ -1968,6 +2106,24 @@
     },
     {
       "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/0AFaIppKjr2lO1pCjx1wK5"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
+    },
+    {
+      "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
       },
@@ -1983,10 +2139,28 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-18",
+      "date_removed": null,
       "duration_ms": 207064,
       "name": "Play Ball",
       "url": "https://open.spotify.com/track/5CTDvtk1JHrGEygDfx5Dml"
+    },
+    {
+      "album": {
+        "name": "Prayin' In A Deer Stand",
+        "url": "https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Prayin' In A Deer Stand",
+      "url": "https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF"
     },
     {
       "album": {
@@ -2066,6 +2240,24 @@
     },
     {
       "album": {
+        "name": "I'm About To Come Alive",
+        "url": "https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246333,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6"
+    },
+    {
+      "album": {
         "name": "Moonshine in the Trunk",
         "url": "https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP"
       },
@@ -2131,7 +2323,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 164958,
       "name": "Rub A Little Dirt On It",
       "url": "https://open.spotify.com/track/5bY9b9fpvjI0qxFaBbY59Q"
@@ -2185,7 +2377,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 246453,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d"
@@ -2455,7 +2647,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 206226,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj"
@@ -2509,7 +2701,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 268560,
       "name": "Temporary Home",
       "url": "https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM"
@@ -2642,6 +2834,24 @@
     },
     {
       "album": {
+        "name": "Things That Matter",
+        "url": "https://open.spotify.com/album/4wc9lCB0OlOhcIxkQZdN4R"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Things That Matter",
+      "url": "https://open.spotify.com/track/6CZN0bIk5Ij3s4BsZCJZG8"
+    },
+    {
+      "album": {
         "name": "6-Pack",
         "url": "https://open.spotify.com/album/3C5JkDI9fDqS9BZd0lNsma"
       },
@@ -2697,6 +2907,24 @@
       "duration_ms": 298373,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
+    },
+    {
+      "album": {
+        "name": "Living Hard",
+        "url": "https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242946,
+      "name": "Watching Airplanes",
+      "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
     },
     {
       "album": {
@@ -2765,7 +2993,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 219920,
       "name": "We Were Cowboys",
       "url": "https://open.spotify.com/track/5Nbq6BNkf5gedpzWeNIH8e"
@@ -2790,6 +3018,24 @@
     },
     {
       "album": {
+        "name": "What My World Spins Around",
+        "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186790,
+      "name": "What My World Spins Around",
+      "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
+    },
+    {
+      "album": {
         "name": "The Restless Kind",
         "url": "https://open.spotify.com/album/4DAKrRaNrLQvATy0UO4SUJ"
       },
@@ -2801,7 +3047,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 208866,
       "name": "Where Corn Don't Grow",
       "url": "https://open.spotify.com/track/6KFGzQWTcemjtFgjN9yCBf"
@@ -3021,6 +3267,24 @@
       "duration_ms": 182160,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/6EJvSCTAgtRbqgBS1gAHGO"
+    },
+    {
+      "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5iKSDtVcf7Q"

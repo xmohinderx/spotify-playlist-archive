@@ -1,13 +1,229 @@
 {
-  "description": "All new, all jazz. Cover: Emmet Cohen",
-  "num_followers": 144419,
+  "description": "All new, all jazz. Cover: Ezra Collective",
+  "num_followers": 144506,
   "original_name": "All New Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDM1YjAzYjY0YmJlNTc2YzZlZmE5YmFlMjA4ZTlmNjky",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBhZGQ2ZGNmZTM3YWU3ZWZjMTExMjQwYTc2Y2IxNDk4",
   "tracks": [
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "No Confusion (feat. Kojey Radical)",
+        "url": "https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 170287,
+      "name": "No Confusion (feat. Kojey Radical) [Alternate Take]",
+      "url": "https://open.spotify.com/track/6WHI0ZI3wAjxJrx4GQAAQF"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Massimo Fara\u00f2 Plays Pino Daniele's Ballads",
+        "url": "https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "Quanno chiove",
+      "url": "https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Brazilian Moods",
+        "url": "https://open.spotify.com/album/2ziQ6aTPa4e99ZRJJUkO62"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 252971,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/2cQUpeNPocwLzbybZzm0Gi"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Over Tage",
+        "url": "https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "duration_ms": 234422,
+      "name": "Orkaner",
+      "url": "https://open.spotify.com/track/0EDOoCCjGsj3BscXv1S5Xf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "\u79d1\u5b66",
+        "url": "https://open.spotify.com/album/5K0JtbKBfcXl9xpthjLf9b"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u79d1\u5b66",
+      "url": "https://open.spotify.com/track/0fUxG11k3Oajkh5QvkBZxH"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Sunday Brunch",
+        "url": "https://open.spotify.com/album/72PVK2wHvkRpYygKKiUKme"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 121851,
+      "name": "Sunday Brunch",
+      "url": "https://open.spotify.com/track/0yn5ghpJaaPd4eLSEyVpjp"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ondes of chakras",
+        "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        }
+      ],
+      "duration_ms": 377231,
+      "name": "Ondes of Chakras",
+      "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "We Gettin' Down / Nautical Table",
+        "url": "https://open.spotify.com/album/3eOTsQqf3meYH8xlv9PYgH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 248295,
+      "name": "We Gettin' Down",
+      "url": "https://open.spotify.com/track/4bJtIjDIOlY5z7GweNcGq3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Let's hope for the best",
+        "url": "https://open.spotify.com/album/4HO1riDvREUnAWXn7h6Up6"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 263621,
+      "name": "Let's hope for the best",
+      "url": "https://open.spotify.com/track/7zXBQmEujl16jxVwGjn2tG"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Nu Jump",
+        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Nu Jump",
+      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Voices of Bishara",
+        "url": "https://open.spotify.com/album/0zPEYIOStlPrrgvZGlCrBR"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        }
+      ],
+      "duration_ms": 243585,
+      "name": "Quiet as It's Kept",
+      "url": "https://open.spotify.com/track/4ATFNWs31uk1dHTu5BnOx7"
+    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {

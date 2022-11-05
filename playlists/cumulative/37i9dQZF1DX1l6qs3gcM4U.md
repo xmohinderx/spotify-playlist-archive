@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Dream Boyz
 
-274 songs - 16 hr 38 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+275 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \- Acoustic Session 1](https://open.spotify.com/track/6Nq3psIgjMvHfSN26gVKtK) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Apaixonado / Magico / Dam bo amor / Cada vez mais / So 1 momento \(Acoustic Session 1\)](https://open.spotify.com/album/6ZZ5iSN6iPO6PtlV6E1q1W) | 3:51 | 2022-04-29 | 2022-07-27 |
 | [Aperta](https://open.spotify.com/track/101bSnuKjwls52XChDbfvg) | [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Mirror](https://open.spotify.com/album/77BKN39eVEPX2baKEJwqtN) | 3:59 | 2021-12-10 | 2022-04-24 |
 | [Ar que eu Respiro](https://open.spotify.com/track/5VNEmowzM1mq3aDXBHt0K8) | [The Nitrox](https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj) | [Ar que eu Respiro](https://open.spotify.com/album/3JL8oqCrugYHWSw72nSkOX) | 3:08 | 2022-07-07 | 2022-07-25 |
-| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 |  |
+| [Arrepios](https://open.spotify.com/track/7KBOMXpAmxO7kmPpyj43vb) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Arrepios](https://open.spotify.com/album/430jQV4UrweqvoV5osODxI) | 3:24 | 2022-05-26 | 2022-11-05 |
 | [Au revoir](https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Au revoir](https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2) | 3:54 | 2021-12-10 |  |
 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 | 2021-12-10 |  |
 | [Baile](https://open.spotify.com/track/20pd0IMbN7KC9y0FNOVQK0) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Baile](https://open.spotify.com/album/0aVJrJFseq4WFmCqAEWhZo) | 3:47 | 2022-03-25 | 2022-04-21 |
@@ -217,6 +217,7 @@
 | [S'apitou](https://open.spotify.com/track/6DBpfXVlshm41vlnUIc0RL) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DJ Nilson](https://open.spotify.com/artist/71pH8gMX4QzfxUfY1MMmoN) | [S'apitou](https://open.spotify.com/album/2G20nv24mp39VjRtegQ0GT) | 3:04 | 2022-06-24 | 2022-07-05 |
 | [Santiago](https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Newborn](https://open.spotify.com/album/2e4NJhy245HEz7npStshbg) | 2:56 | 2021-12-10 | 2022-07-28 |
 | [Saudades](https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27) | [Érica Boaventura](https://open.spotify.com/artist/1iCTkpYE0TcjFrlpX8LPYg) | [Saudades](https://open.spotify.com/album/0FwrB6QGCHO4KBkgJFfinO) | 4:09 | 2021-12-10 |  |
+| [Se Eu Pudesse](https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5) | 3:16 | 2022-11-04 |  |
 | [Se Eu Pudesse](https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Se Eu Pudesse](https://open.spotify.com/album/1LvNFjKKFeCHlHkvB6Tdte) | 3:17 | 2021-12-10 | 2022-07-28 |
 | [Segredo](https://open.spotify.com/track/034IlOlEs16xC7Pl4j9RTk) | [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Segredo](https://open.spotify.com/album/3uUtzU3MSm7NSLlDCSEyNi) | 3:27 | 2021-12-10 |  |
 | [Segredo](https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Segredo](https://open.spotify.com/album/0da7PRnY1SCzqWPJt5dtjv) | 3:50 | 2021-12-10 | 2022-07-28 |

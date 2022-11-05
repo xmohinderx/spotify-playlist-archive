@@ -1,12 +1,12 @@
 {
   "description": "Taking it way back! Cover: Jay-Z",
-  "num_followers": 3033860,
+  "num_followers": 3035323,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxMDk3MCwwMDAwMDAwMDRjNTAzNDdhYmJhNDlhN2JiZTlmMmM4OTg5MGY3YzVm",
+  "snapshot_id": "MTY2NzU5NzkxMiwwMDAwMDAwMDRmZWY0OGUzNTQ5NzJhN2VlZTBhMTJkODg5NWRjZWUy",
   "tracks": [
     {
       "added_at": "2022-05-10 01:42:26",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
+      "added_at": "2022-11-04 21:38:32",
+      "album": {
+        "name": "In My Lifetime, Vol.1",
+        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC"
+    },
+    {
       "added_at": "2022-10-07 00:44:59",
       "album": {
         "name": "Man On The Moon: The End Of Day (Deluxe)",
@@ -287,22 +303,6 @@
       "duration_ms": 295293,
       "name": "Pursuit Of Happiness (Nightmare)",
       "url": "https://open.spotify.com/track/6MtKObWYda2qnNIpJI21uD"
-    },
-    {
-      "added_at": "2022-11-03 21:06:02",
-      "album": {
-        "name": "American Gangster",
-        "url": "https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/6B6xRGiXeEBRDGjrC7cfx4"
     },
     {
       "added_at": "2022-09-29 23:49:54",

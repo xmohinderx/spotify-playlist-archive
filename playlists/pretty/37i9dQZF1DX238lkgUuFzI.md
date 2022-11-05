@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,815 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,887 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 36 | [Scumbag Anthem](https://open.spotify.com/track/3CF49CM9UV0ZNNJdwZ7Xoc) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Flower Ghoul](https://open.spotify.com/album/0RqHblTAIH8QJlNi3LapPw) | 3:27 |
 | 37 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 |
 | 38 | [Love & Venom Too](https://open.spotify.com/track/0Y8wzq8cjtSi9VY6UVOy0a) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr), [paqrat](https://open.spotify.com/artist/7Fc4WsZwaDRqbtHISPBFM5) | [Love & Venom Too](https://open.spotify.com/album/2t5kV5m8bUui32j3FghJEf) | 1:44 |
-| 39 | [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 |
+| 39 | [Fear of Dying](https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z) | 2:43 |
 | 40 | [boys wanna txt \(feat\. ericdoa\)](https://open.spotify.com/track/2xcu5xxg1eTtxuclknYYUN) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [boys wanna txt \(feat\. ericdoa\)](https://open.spotify.com/album/0p72ARimFcBGZshjCzfuFS) | 2:09 |
 | 41 | [HEY NEIGHBOR!](https://open.spotify.com/track/4NoM07yO0Luyv3OpeTwlyW) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [POUTY PACK 1.0](https://open.spotify.com/album/65LLY7w9onclS0LDO6uxc7) | 2:25 |
 | 42 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 |
 | 50 | [White Lie](https://open.spotify.com/track/7B1Lenkjs00lgpFhiaw1fd) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [White Lie](https://open.spotify.com/album/3AOMfjc6UEQRS29dzlLltv) | 3:33 |
 
-Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDhhNTEwYjNmN2ZlN2M3ZDMwMTMzYmQzNzIyNDg2ODBh`
+Snapshot ID: `MTYzODM2NjQ4MCwwMDAwMDAwMDZmY2I2NzBiMmQ4N2JkMThlNDM2MzFkY2Q3YWY2YTNh`

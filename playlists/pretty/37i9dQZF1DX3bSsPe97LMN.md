@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,163 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,196 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 22 | [Se Me Quedan Viendo Raro](https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Se Me Quedan Viendo Raro](https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR) | 3:17 |
 | 23 | [Fuimos Un Fracaso](https://open.spotify.com/track/0QKF6xXTTPkeKqZBxtkjWh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Fuimos Un Fracaso](https://open.spotify.com/album/3cqvXVdDagVXznbwa4eY3D) | 3:18 |
 | 24 | [Cuando Te Acuerdes De Mí](https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cuando Te Acuerdes De Mí](https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD) | 3:18 |
-| 25 | [Ya No](https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ya No](https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD) | 3:19 |
-| 26 | [Ando Bien Ü](https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Ando Bien Ü](https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST) | 2:44 |
+| 25 | [Ando Bien Ü](https://open.spotify.com/track/1x6o9oZPUhniTVaSsqPtX8) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Ando Bien Ü](https://open.spotify.com/album/0HdJEOLEX1nw0XEaFNsmST) | 2:44 |
+| 26 | [Ya No](https://open.spotify.com/track/2ioxOvyD2OAB1FvuE6Whef) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Ya No](https://open.spotify.com/album/5lsYMgRDUN8OJ2kOtnt8XD) | 3:19 |
 | 27 | [El Sereno](https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Sereno](https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz) | 2:43 |
 | 28 | [Pa Que Ordene y Manden](https://open.spotify.com/track/2kOmfljLl2uz74gGpeZKBM) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [Pa Que Ordene y Mande](https://open.spotify.com/album/7aRQCuOu5zMNi2Y1AphjPY) | 3:09 |
 | 29 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 35 | [Soy Infante](https://open.spotify.com/track/7vvOhEZm7aYvzU1DZimkpO) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Soy Infante](https://open.spotify.com/album/1gzsVCNz62qMySRSTpMHk1) | 2:34 |
 | 36 | [Se Chambiar](https://open.spotify.com/track/0DhsymswrtrrXT35LM0NEV) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Se Chambiar](https://open.spotify.com/album/37TUkJIOuGtrFMtfX6nMfF) | 2:37 |
 | 37 | [Quiero Contarte](https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Quiero Contarte](https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC) | 2:40 |
-| 38 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
-| 39 | [la del rencoroso](https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la del rencoroso](https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX) | 2:12 |
+| 38 | [la del rencoroso](https://open.spotify.com/track/7rGR1C1xvHzZ4D0wRPnJm5) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [la del rencoroso](https://open.spotify.com/album/0lonH1EHVMwAJghZUHxnxX) | 2:12 |
+| 39 | [2 vidas](https://open.spotify.com/track/08JZ13k4VQOqq14HIb58vk) | [Compa Missa](https://open.spotify.com/artist/7KPllVCBl8xZ1OSjHfMuSF), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [2 vidas](https://open.spotify.com/album/5XCxOvIc7sl0UhPvQsMnc4) | 3:31 |
 | 40 | [Dices Que Me Quieres](https://open.spotify.com/track/6YjnTgoNTiRKIcSGcFRZwE) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente \(Vol 2\)](https://open.spotify.com/album/23uvyq2VGIf4l5uUt9OgHN) | 3:36 |
 | 41 | [Yo No Me Rajo](https://open.spotify.com/track/4yGw2GFi5MohpMKTDq7qhz) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Yo No Me Rajo](https://open.spotify.com/album/6KvRJthG8uP4lYGsMjZEzU) | 2:30 |
 | 42 | [Viaje Verde](https://open.spotify.com/track/1NGMDgJEwjB8Ej7aJiy9Cs) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Brian Landa](https://open.spotify.com/artist/13rNe1uErXx4bz9OnRUKdI) | [Viaje Verde](https://open.spotify.com/album/1w9P57VAIyWlTqQWQ43P88) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 74 | [Bella Mujer](https://open.spotify.com/track/4UdElq0dpUVS6fNyhLYwYM) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Bella Mujer](https://open.spotify.com/album/7AyFGqdzc3zqoW68XI8SA3) | 2:26 |
 | 75 | [Nuestras Noches](https://open.spotify.com/track/05np5qqF0I9dukvYweal2A) | [Shia Aldair](https://open.spotify.com/artist/07Fa79I3tdHSTFwNQhi0uX) | [Desventura](https://open.spotify.com/album/1Fp1Oy7agN1VYfy4clJiDi) | 3:32 |
 
-Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMDFjMzFjM2U2NDQ0YjAwZDUyOTk1MjNjMjQxNGNkMWRk`
+Snapshot ID: `MTY2NTcyMzYwMCwwMDAwMDAwMGI0ODZhMmE0OGU3NWUyMTlkMTY1ZDRmNmQyN2UxN2Ux`

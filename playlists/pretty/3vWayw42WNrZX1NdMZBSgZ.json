@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Rauw Alejandro",
-  "num_followers": 56734,
+  "num_followers": 56733,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzUxOCw2OWNkNzQ5YTM5Mzk4MmUwYTNkOTI4OTBjYTFmYjBlNDk0ODA3ODhi",
+  "snapshot_id": "MzUyMyw3NmUyODBlN2IxYmU2NjEyNzIwZTU1MDA2NjA5YzEyZjE0NzEzYTQ0",
   "tracks": [
     {
       "added_at": "2022-10-28 04:04:58",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/2X8AGLwb9F0JzJ9zT27a22"
     },
     {
+      "added_at": "2022-11-04 04:08:39",
+      "album": {
+        "name": "Psycho B**ch",
+        "url": "https://open.spotify.com/album/1QLjJQvFwXCIbfOvJVez4u"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "Psycho B**ch",
+      "url": "https://open.spotify.com/track/1aRcazIFzvRrybZXVdFT1M"
+    },
+    {
       "added_at": "2022-11-03 21:11:32",
       "album": {
         "name": "Los del Vacile",
@@ -59,6 +75,38 @@
       "duration_ms": 213285,
       "name": "Los del Vacile",
       "url": "https://open.spotify.com/track/6zRfU66M8zO2pzXAo30cS9"
+    },
+    {
+      "added_at": "2022-11-04 20:37:31",
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/6aliVhXmEKLUNe6SzwSJac"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 211162,
+      "name": "Confieso",
+      "url": "https://open.spotify.com/track/2ydzr3NKng0u0JZUm0DpKK"
+    },
+    {
+      "added_at": "2022-11-04 17:40:37",
+      "album": {
+        "name": "Misi\u00f3n Cumplida",
+        "url": "https://open.spotify.com/album/0uQRZ1SvseWfRuu5kl14hc"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "Misi\u00f3n Cumplida",
+      "url": "https://open.spotify.com/track/4LMQxOMgUPlugjBlfp2ZK6"
     },
     {
       "added_at": "2022-10-20 22:13:44",
@@ -1880,12 +1928,12 @@
           "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
         },
         {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         },
         {
           "name": "Paloma Mami",

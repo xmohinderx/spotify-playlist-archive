@@ -4,7 +4,7 @@
 
 > Suffering from writer's block? This collection of writerly and literature\-inspired songs might help!.
 
-119 songs - 8 hr 23 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
+120 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/64uVzxAuR4KY2bjkr5Sgtk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Death Of The Author](https://open.spotify.com/track/4mcDWFiTDWIPJmXytF38UQ) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Innocence Is Kinky](https://open.spotify.com/album/73qshwiwldg5avb8ox1BQT) | 3:35 | 2018-12-10 | 2022-07-26 |
 | [Denouncing November Blue \(Uneasy Writer\)](https://open.spotify.com/track/2CF9CtzCB2mEALrVH9lgxV) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Four Thieves Gone \- The Robbinsville Sessions](https://open.spotify.com/album/1Mf5tvDUyNn1709ovebdBq) | 3:37 | 2018-12-10 | 2022-07-29 |
 | [Disturbance At The Heron House \- Remastered](https://open.spotify.com/track/3kL3FV7NPNfzgVeiG753r6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:33 | 2018-12-10 | 2022-07-28 |
+| [Doublespeak](https://open.spotify.com/track/4oE6WttjRSXWViKaiNcz37) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Beggars](https://open.spotify.com/album/6ityCVIaAyndO2sKryuy2M) | 4:50 | 2018-12-10 |  |
 | [Doublespeak](https://open.spotify.com/track/5A3LfRNlvin0EtYj6mQbn4) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Beggars](https://open.spotify.com/album/7nw8OznIFKVqaJcGCT35Lc) | 4:50 | 2018-12-10 | 2022-07-16 |
 | [Eveline](https://open.spotify.com/track/5rbB234M0EaapxiDqOUyby) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Why Should The Fire Die?](https://open.spotify.com/album/6l61p7zbizBUjQWY10LWmb) | 3:11 | 2018-12-10 | 2022-07-29 |
 | [Everyday I Write The Book](https://open.spotify.com/track/36F8DzJ1IP1m8C1h0CpIaz) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:54 | 2018-12-10 |  |
@@ -71,7 +72,7 @@
 | [Paperback Writer \- Live At Citi Field, NYC, 2009](https://open.spotify.com/track/66JNz0BxRKrno33Jha7i7R) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Good Evening New York City](https://open.spotify.com/album/6k1uheGE4dRXkcRcpbfRg2) | 3:28 | 2018-12-10 | 2022-07-28 |
 | [Paperbag Writer](https://open.spotify.com/track/0l8kx5UM3p8DxaEYZ2YzN9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail to the Thief \(Collector's Edition\)](https://open.spotify.com/album/5GcgkRjhWDxrOTDk0TJQK8) | 3:58 | 2018-12-10 | 2022-06-16 |
 | [Paperbag Writer](https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Com Lag: 2+2=5](https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l) | 3:58 | 2018-12-10 |  |
-| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 |  |
+| [Pattern Recognition](https://open.spotify.com/track/1uWk8vnCYaoZQvCW8KYepP) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/7gA7xctF7tq62T2YooL6wS) | 6:32 | 2018-12-10 | 2022-11-05 |
 | [Pattern Recognition](https://open.spotify.com/track/5UaqCqloqMJN0tmHlnMpMy) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sonic Nurse](https://open.spotify.com/album/360WG1hup7svzIcIqWQ4CE) | 6:32 | 2018-12-10 | 2022-07-28 |
 | [Postdoc Blues](https://open.spotify.com/track/5l1AMUJEA43GYqxpfTyhoT) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Winter Wheat](https://open.spotify.com/album/28vCM0a4MYPwcTervwP7Ia) | 3:23 | 2018-12-10 |  |
 | [Postdoc Blues](https://open.spotify.com/track/7EwsFukgOtMzcXjL6BZVJD) | [John K\. Samson](https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ) | [Postdoc Blues](https://open.spotify.com/album/6gohVbR0EIu7cQ4joT4ELg) | 3:23 | 2018-12-10 | 2022-07-25 |

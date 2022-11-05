@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 305877,
+  "num_followers": 305917,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGY3ODYxODU5NTYxNmQ4OGFlZDY5ZjRhMGY5NmUzOGNl",
+  "snapshot_id": "MTY0MDgyMTEwNSwwMDAwMDAwMGY3Y2M5ZTY3ZjYzZDg1MDY0MjMzOTI5MGI0MTE0MjRm",
   "tracks": [
     {
       "added_at": "2021-12-29 23:38:25",
@@ -291,6 +291,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 408506,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 230800,
       "name": "He Venido a Pedirte Perd\u00f3n (with HA-ASH)",
       "url": "https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 408506,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "No Discutamos",
-        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "No Discutamos",
-      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "No Hay Mujeres Feas",
         "url": "https://open.spotify.com/album/16MRHu1XrPSBuoZ7f0wxeC"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 172826,
       "name": "No Me Vuelvo A Enamorar",
       "url": "https://open.spotify.com/track/2KgbsDLZt3TllBRtFCwrx2"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "No Discutamos",
+        "url": "https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "No Discutamos",
+      "url": "https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Te Lo Pido por Favor",
-      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "La Vargas Ritual Chavela",
         "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 193733,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+      "duration_ms": 179400,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/2S7OHGloZFKDo034vN3tVi"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 154706,
       "name": "No Se Ha Dado Cuenta",
       "url": "https://open.spotify.com/track/2eMkbfrDfi9cQB7TTZvlsI"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/2SiqNX6CoQ2l8nwmxVJtzV"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Juan Gabriel y Lo Mas Romantico De",
-        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 150100,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Amor Eterno al Divo / Tributo de Rock",
         "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 244626,
       "name": "Siempre en Mi Mente",
       "url": "https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
+        "name": "Juan Gabriel y Lo Mas Romantico De",
+        "url": "https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 150100,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+    },
+    {
+      "added_at": "2021-12-29 23:38:25",
+      "album": {
         "name": "El Noa Noa",
         "url": "https://open.spotify.com/album/5s0gfLof0X7EZcRGCmKOVp"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
       "artists": [
         {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 193670,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2021-12-29 23:38:25",
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
-    },
-    {
-      "added_at": "2021-12-29 23:38:25",
-      "album": {
         "name": "Canciones Que Recuerdo",
         "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
       },
@@ -1486,15 +1486,11 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        },
-        {
-          "name": "Emily Bautista",
-          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 179013,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
+      "duration_ms": 175359,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
     },
     {
       "added_at": "2021-12-29 23:38:25",
@@ -1570,11 +1566,15 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        },
+        {
+          "name": "Emily Bautista",
+          "url": "https://open.spotify.com/artist/6kw6B6Enh4eYTH8yGtLrwn"
         }
       ],
-      "duration_ms": 175359,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/3ewwhDxhjCag4tJxQY5T6E"
+      "duration_ms": 179013,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
     },
     {
       "added_at": "2021-12-29 23:38:25",

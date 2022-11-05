@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin Indie. Cover: Selene",
-  "num_followers": 503297,
+  "num_followers": 503338,
   "original_name": "el nuevo indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMDI3Y2MxZTYyNWFlZmE2Nzc2NGMyN2FhN2EwMDlkZWVk",
+  "snapshot_id": "MTY2Njg3ODIzMCwwMDAwMDAwMGMyZmFlNTliMmQzNDAyZDRhZmU4YzdiM2VhYjc3NTBj",
   "tracks": [
     {
       "added_at": "2022-10-27 13:43:16",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
+        "name": "La Cantera",
+        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 269730,
+      "name": "A carta cabal",
+      "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
         "name": "Las Manos (feat. Leo Rizzi)",
         "url": "https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 233680,
       "name": "Las Manos (feat. Leo Rizzi)",
       "url": "https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
-        "name": "La Cantera",
-        "url": "https://open.spotify.com/album/3BDwyojdwMAmBEsXZlyQjW"
-      },
-      "artists": [
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 269730,
-      "name": "A carta cabal",
-      "url": "https://open.spotify.com/track/3asOJIkC0NT24zR2S20azY"
     },
     {
       "added_at": "2022-10-27 13:43:16",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
-        "name": "Repetici\u00f3n",
-        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
-      },
-      "artists": [
-        {
-          "name": "Jass Reyes",
-          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Repetici\u00f3n",
-      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
         "name": "Tm\u00ed",
         "url": "https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 224240,
       "name": "Amor Extra\u00f1o",
       "url": "https://open.spotify.com/track/1SK3gmwqNCx7WezSCV3F1W"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
+        "name": "Repetici\u00f3n",
+        "url": "https://open.spotify.com/album/4ml39ShearVXanY2dd7HQ0"
+      },
+      "artists": [
+        {
+          "name": "Jass Reyes",
+          "url": "https://open.spotify.com/artist/3iFcLV27WtmxR8CemVQRoF"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Repetici\u00f3n",
+      "url": "https://open.spotify.com/track/7EoJTbmhC0DopqfGhk7VPE"
     },
     {
       "added_at": "2022-10-27 13:43:16",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-10-27 13:43:16",
       "album": {
-        "name": "Me cans\u00e9 de hacer canciones (que no salgan si no estoy llorando)",
-        "url": "https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 199052,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
-    },
-    {
-      "added_at": "2022-10-27 13:43:16",
-      "album": {
         "name": "Iridiscente",
         "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
+    },
+    {
+      "added_at": "2022-10-27 13:43:16",
+      "album": {
+        "name": "Me cans\u00e9 de hacer canciones (que no salgan si no estoy llorando)",
+        "url": "https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 199052,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71"
     }
   ],
   "unique_name": "el nuevo indie",

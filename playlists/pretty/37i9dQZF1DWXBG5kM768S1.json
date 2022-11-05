@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 63751,
+  "num_followers": 63762,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwMjAwMCwwMDAwMDAwMGY2NDRkZWU1MDViOWU5OTU3ZWU0MTA4ODBjZGQ4ODBj",
+  "snapshot_id": "MTY2NzUwMjAwMCwwMDAwMDAwMGVlZGI0OGMxNDUxMjNmODFkMzE3Y2E0MjVkOTgxYTAx",
   "tracks": [
     {
       "added_at": "2022-11-03 19:00:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
-    },
-    {
-      "added_at": "2022-11-03 19:00:00",
-      "album": {
         "name": "Mosaikk (16 Biter)",
         "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2022-11-03 19:00:00",
@@ -327,6 +311,22 @@
       "duration_ms": 195680,
       "name": "Vi M\u00f8ttes I En Soloppgang",
       "url": "https://open.spotify.com/track/1nCIRz2gS5f5QA6Qnm0wBs"
+    },
+    {
+      "added_at": "2022-11-03 19:00:00",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2022-11-03 19:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+    },
+    {
+      "added_at": "2022-11-03 19:00:00",
+      "album": {
         "name": "Inn i skogen",
         "url": "https://open.spotify.com/album/6IMNPChZ6uTdewFHcbv9Wq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 236640,
       "name": "Godt nok",
       "url": "https://open.spotify.com/track/534GzSVJHfkIWPNkwobLAi"
-    },
-    {
-      "added_at": "2022-11-03 19:00:00",
-      "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2022-11-03 19:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
-    },
-    {
-      "added_at": "2022-11-03 19:00:00",
-      "album": {
         "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
         "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
+    },
+    {
+      "added_at": "2022-11-03 19:00:00",
+      "album": {
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+      },
+      "artists": [
+        {
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2022-11-03 19:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
-        "name": "I g\u00e5r",
-        "url": "https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 338866,
-      "name": "I g\u00e5r",
-      "url": "https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1"
-    },
-    {
-      "added_at": "2022-11-03 19:00:00",
-      "album": {
         "name": "Hjarteskjell",
         "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 195906,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS"
+    },
+    {
+      "added_at": "2022-11-03 19:00:00",
+      "album": {
+        "name": "I g\u00e5r",
+        "url": "https://open.spotify.com/album/0gFxGgdtrkaPVZ3DzyJGaN"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 338866,
+      "name": "I g\u00e5r",
+      "url": "https://open.spotify.com/track/6U9GnMuoiUJnsw1JIMrTi1"
     },
     {
       "added_at": "2022-11-03 19:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-11-03 19:00:00",
       "album": {
-        "name": "S\u00e5 lett som ingenting",
-        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 229209,
-      "name": "S\u00e5 lett som ingenting",
-      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
-    },
-    {
-      "added_at": "2022-11-03 19:00:00",
-      "album": {
         "name": "3 sanger",
         "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+    },
+    {
+      "added_at": "2022-11-03 19:00:00",
+      "album": {
+        "name": "S\u00e5 lett som ingenting",
+        "url": "https://open.spotify.com/album/4Llt3WbptcCMt6NjBUEge3"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 229209,
+      "name": "S\u00e5 lett som ingenting",
+      "url": "https://open.spotify.com/track/0yscIkhw37rF1gDK0LfwJ9"
     }
   ],
   "unique_name": "Norske viser",

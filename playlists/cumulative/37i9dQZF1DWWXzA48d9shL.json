@@ -3639,6 +3639,24 @@
     {
       "album": {
         "name": "Corrupted",
+        "url": "https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134451,
+      "name": "LED",
+      "url": "https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF"
+    },
+    {
+      "album": {
+        "name": "Corrupted",
         "url": "https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil"
       },
       "artists": [
@@ -3649,7 +3667,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 134451,
       "name": "LED",
       "url": "https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6"

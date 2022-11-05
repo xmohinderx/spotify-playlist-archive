@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-191 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
+192 songs - 10 hr 9 min - [published](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Kua](https://open.spotify.com/track/6KR64uO0j7ucTVNqmqfsZC) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Finding ‘Ohana \(Music from the Netflix Film\)](https://open.spotify.com/album/7cOPcga6J1sN9IOvQEiZ83) | 3:32 | 2021-12-20 | 2022-07-09 |
 | [La Familia Vega](https://open.spotify.com/track/3A1EjAr98NjIwYQcIqE2ef) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Penny Dreadful: City of Angels \(Original Score\)](https://open.spotify.com/album/4R8nHfbIBKm2KuXJiZm7pn) | 3:25 | 2021-12-20 | 2022-07-09 |
 | [Le secret](https://open.spotify.com/track/1yEPMwd5y36JpZcETVWVYI) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 2 of the Netflix Original Series\)](https://open.spotify.com/album/7DCTZcn2Jr9FnThjRWJMIa) | 3:51 | 2021-12-20 |  |
+| [Leah and Bex Sleep](https://open.spotify.com/track/4WyjmaYIeJd2P7ySunGETm) | [Anne Müller](https://open.spotify.com/artist/5sn5Gi5tH5ozpL8C3Y1uWl) | [Martyrs Lane \(Original Score\)](https://open.spotify.com/album/4s5SkiabIOjVDLoHWZlbH0) | 2:03 | 2022-11-04 |  |
 | [Leave Someday](https://open.spotify.com/track/7L0kDthsWe72iFJLoQrBy0) | [Andrew Lockington](https://open.spotify.com/artist/0sK0i9UQeU4aPaxgGTFTcC) | [Mayor of Kingstown: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/4ySSi9E1zuHn2B6Ho23w7j) | 2:18 | 2022-01-07 |  |
 | [Leaving Sri Lanka](https://open.spotify.com/track/2g60osV8ASRCYHmFgQdIEF) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Funny Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6IcKD7iOViugsBt9IQxkyA) | 4:15 | 2021-12-20 | 2022-07-09 |
 | [Leaving the Farm](https://open.spotify.com/track/22P2FBXPVENSfJp9rQUpAt) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i) | [A Quiet Place Part II \(Music from the Motion Picture\)](https://open.spotify.com/album/62LYN8SfBNzlYP3Q7Tntya) | 1:34 | 2021-12-20 | 2022-07-09 |

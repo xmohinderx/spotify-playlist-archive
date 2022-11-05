@@ -4,7 +4,7 @@
 
 > The bass you need for riding low and high.
 
-161 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
+162 songs - 7 hr 34 min - [published](https://open.spotify.com/playlist/0obXPUtgNG5CB9BFpywdST)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,10 +158,11 @@
 | [The Motto](https://open.spotify.com/track/5r6axyEqpdxog8T8u6gm5D) | [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd), [Newroad](https://open.spotify.com/artist/7fMVmvW8MFpSAeJBHAbyf9), [DVNAIR](https://open.spotify.com/artist/61A7lqEfBx8ghvKGtzWqWU), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [The Motto](https://open.spotify.com/album/4HoTfH5ggbjjTSH8rP7eHQ) | 2:54 | 2022-07-15 |  |
 | [The Walls](https://open.spotify.com/track/7gfvtlkYb4NQhkLzagOez4) | [Mondorro](https://open.spotify.com/artist/3TWVC1HPfghgGufoJTPk4h), [HAYASA G](https://open.spotify.com/artist/6L5WgMUzw10WPxDk0o8ghs) | [The Walls](https://open.spotify.com/album/6GC9OjIjwwzOzzVkWQ8hIL) | 2:54 | 2022-10-06 |  |
 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2022-10-06 |  |
+| [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/4SbfECqQtDGpJrcjv4Iwlr) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 | 2022-11-04 |  |
 | [V4](https://open.spotify.com/track/0cSCkxH7TkHpw4koHa5yIT) | [Tunahan Turhan](https://open.spotify.com/artist/63P7e8ftWqGLOOmaGhrOEz), [Şevket Öndaş](https://open.spotify.com/artist/5acooQjRlNtjcI4cHSOlki) | [V4](https://open.spotify.com/album/6MSXlJQySfAZ22fxKDNeBC) | 2:40 | 2022-09-30 | 2022-10-07 |
 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 | 2022-09-30 |  |
 | [Vibe](https://open.spotify.com/track/7ChxPWUiP5wVMkjzX0l4Hv) | [FILV](https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0) | [Vibe](https://open.spotify.com/album/7GcBLauj50UqyZbBSN5vxz) | 2:30 | 2022-08-05 | 2022-10-07 |
-| [Want You Back](https://open.spotify.com/track/11Pl9OLQwA5nzKEPXxhz1E) | [WIB3X](https://open.spotify.com/artist/0ZWALBQXq4HZWbxgVmUcWQ) | [Want You Back](https://open.spotify.com/album/5RrtbkSB1ZBjUpZGD34cEb) | 3:55 | 2022-09-09 |  |
+| [Want You Back](https://open.spotify.com/track/11Pl9OLQwA5nzKEPXxhz1E) | [WIB3X](https://open.spotify.com/artist/0ZWALBQXq4HZWbxgVmUcWQ) | [Want You Back](https://open.spotify.com/album/5RrtbkSB1ZBjUpZGD34cEb) | 3:55 | 2022-09-09 | 2022-11-05 |
 | [Wanted More](https://open.spotify.com/track/13PNaphT12bcpme9dX3nyT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Wanted More](https://open.spotify.com/album/4Cqsrn6xAlfg0Nh9MbIrLO) | 3:17 | 2022-04-21 | 2022-05-13 |
 | [Woah](https://open.spotify.com/track/3jWkWcmESJG9fmhZOpZYsW) | [BENO](https://open.spotify.com/artist/2Lkxnlhbsvg4lAIckgEPVP) | [Woah](https://open.spotify.com/album/62kVMk94iQkaxSyly4l6GM) | 2:19 | 2022-04-21 | 2022-08-19 |
 | [XO Tour Llif3](https://open.spotify.com/track/7FRWxs3AS1mStD74em4Ixv) | [Gang Speed](https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv) | [XO Tour Llif3](https://open.spotify.com/album/1I7leMbBry30zajbQ4SgPf) | 2:26 | 2022-09-09 |  |

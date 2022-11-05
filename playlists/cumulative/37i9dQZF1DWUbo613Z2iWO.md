@@ -2,9 +2,9 @@
 
 ### [The Newness](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> Our favorite R&B artists on the rise! Cover: Eli Derby
+> Our favorite R&B artists on the rise! Cover: Dylan Sinclair
 
-404 songs - 20 hr 49 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
+409 songs - 21 hr 3 min - [published](https://open.spotify.com/playlist/4ueLTB3jzF1gxFZXFoisSk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2022-08-05 |  |
 | [bend you](https://open.spotify.com/track/3G2MG6jQJ1tC42NwAjRsxy) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-15 |  |
+| [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-04 |  |
 | [Bittersweet](https://open.spotify.com/track/6YIXb5R1nJ6DbSucyvAXYg) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Bittersweet](https://open.spotify.com/album/3YPSBfBdzyeOoQU72r1RH8) | 3:20 | 2022-04-08 | 2022-05-21 |
 | [Bittersweet Goodbyes](https://open.spotify.com/track/1otiDJ357ZDfyaJpK4IvNQ) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 3:07 | 2022-10-07 |  |
 | [Black Heart Emoji](https://open.spotify.com/track/3hjNGfXk2O3LQI0954F320) | [The WRLDFMS Tony Williams](https://open.spotify.com/artist/6TTVdg5UOUHsyiYPHgxLaq), [Cure for Paranoia](https://open.spotify.com/artist/4YRwYMJHtjOnfqkDd8EJbk) | [Black Heart Emoji](https://open.spotify.com/album/0mGYrk3E3q9TLbczQHvOgt) | 3:52 | 2022-03-25 | 2022-04-16 |
@@ -66,6 +67,7 @@
 | [Call On Me](https://open.spotify.com/track/1m8aLC8QjGPK4ZZPraw7BE) | [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb) | [Call On Me](https://open.spotify.com/album/0lBeSg0kqvdbMpEgVhjI83) | 2:15 | 2022-05-06 | 2022-07-10 |
 | [Can We Talk?](https://open.spotify.com/track/0kIfgyxCSBueXYMLpS8j0I) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Devvon Terrell](https://open.spotify.com/artist/4WcJL1x8azi1Qkv4jc6fhH) | [Can We Talk?](https://open.spotify.com/album/4kFnBcn3BoAH98AgkoNTdf) | 2:25 | 2022-07-22 | 2022-08-13 |
 | [Can You](https://open.spotify.com/track/4cZBV2Iae0BjHF0muCjMK6) | [Swavie](https://open.spotify.com/artist/0BMO9ZRBkHEyBelg4kjqvb), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Can You](https://open.spotify.com/album/4sIhnygQxVG4waqA65B2xk) | 2:46 | 2022-02-04 | 2022-03-18 |
+| [Can't Deny](https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj) | [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Can't Deny](https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO) | 2:14 | 2022-11-04 |  |
 | [Can't Swim](https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Can't Swim](https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS) | 3:31 | 2022-08-05 | 2022-09-03 |
 | [CaNdY LiEs](https://open.spotify.com/track/0PiC0y8AxORbmVTxufAPdb) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Rendezvous \- EP](https://open.spotify.com/album/6dCmUQ1L9sbPhIoup8ACyo) | 2:29 | 2022-09-09 | 2022-09-17 |
 | [CAUGHT IN THE MIDDLE](https://open.spotify.com/track/6GmficOc27L6sOU77yehvW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO \(DEEPER\)](https://open.spotify.com/album/1jjRcl74wjmB132Sr5T9YT) | 2:56 | 2022-07-22 | 2022-09-17 |
@@ -101,6 +103,7 @@
 | [Don't Stop](https://open.spotify.com/track/6stmHwlMLQbE8Z2N831ri6) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO) | [Ready](https://open.spotify.com/album/4iqAFxy3MJKXwo1E0aYoQ7) | 2:31 | 2022-10-28 |  |
 | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/track/7lTp8ScQlND1bNaO0ejh3r) | [Autumn Marini](https://open.spotify.com/artist/0Afau9cQ62igjVSDkkkG19), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Don't Stop \(feat\. Kodak Black\)](https://open.spotify.com/album/2D8PhtJcBp4rJx6l5BTRjZ) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Dopamine \(with NBDY\)](https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Dopamine \(with NBDY\)](https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe) | 3:42 | 2022-09-30 |  |
+| [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 |  |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 |  |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-02 |
 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 | 2022-10-07 |  |
@@ -261,6 +264,7 @@
 | [Mugwort](https://open.spotify.com/track/465wSmbFtFriPiJBvm6Qc5) | [V.C.R](https://open.spotify.com/artist/3kCN1Q6YPXCtKflf3NPXKw) | [The Chronicles of a Caterpillar: The Egg](https://open.spotify.com/album/0FloeQdkj6meqVv3Hkncu8) | 3:56 | 2022-04-29 | 2022-06-18 |
 | [My, My, My](https://open.spotify.com/track/6i4HcGUwlfdiamDN8TJi8h) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [My, My, My](https://open.spotify.com/album/4tTpotB7s3xrsTSu1QPo66) | 3:16 | 2022-03-25 | 2022-04-16 |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-18 | 2022-03-26 |
+| [Never](https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [No Longer in the Suburbs \(Deluxe\)](https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi) | 3:54 | 2022-11-04 |  |
 | [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 |  |
 | [No Lie](https://open.spotify.com/track/02BBBmB5NZUrsjrm7Janc5) | [Naisha](https://open.spotify.com/artist/4t4tIl2hE43qSpYeYnUxuI) | [Back & Forth](https://open.spotify.com/album/0oJzHZMh9yO3PaDRgD23G4) | 3:17 | 2022-05-13 | 2022-07-10 |
 | [No R&B](https://open.spotify.com/track/4to9r81T8XZH2H4VPwxBZj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [No R&B](https://open.spotify.com/album/3EzKwOcet7cQm3UnJdsCVH) | 3:34 | 2021-12-15 | 2022-03-12 |
@@ -322,6 +326,7 @@
 | [Rollin](https://open.spotify.com/track/6dGxIEg9Cw0F8ayAarlX43) | [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [Catching Red Lights \(EP\)](https://open.spotify.com/album/3GBJK7iG5XoASRgXnPIe3k) | 2:30 | 2022-08-26 | 2022-10-08 |
 | [Rose \- Stripped](https://open.spotify.com/track/6v7VKACk6oVhfX7vw4kVLo) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [Gregory Edwards](https://open.spotify.com/artist/6DZH1JLOEFPPxXUu5Gj1fD) | [Rose \(Stripped\)](https://open.spotify.com/album/5J7uK1xTiq5Osg6nNXOzwz) | 3:47 | 2022-07-29 | 2022-08-13 |
 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 | 2022-03-11 | 2022-04-02 |
+| [Satisfied](https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [Satisfied](https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn) | 2:38 | 2022-11-04 |  |
 | [Say Less \(with Tiana Major9\)](https://open.spotify.com/track/6tEHDchyWDsI7vRlcNTWVY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:56 | 2022-10-21 |  |
 | [Scene 1](https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [PHILEO](https://open.spotify.com/album/1k08S4CCMYNidsBgPD0J5I) | 2:48 | 2022-10-14 |  |
 | [Selfish](https://open.spotify.com/track/4eRLolZhYKKKPN2zTHKGK1) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Selfish](https://open.spotify.com/album/3nAxtpFfQR8GoBJ9Ic4Mqz) | 3:52 | 2022-10-14 |  |

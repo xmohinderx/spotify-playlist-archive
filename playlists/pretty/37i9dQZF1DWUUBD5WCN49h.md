@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m\_n13WKeQA"> Dami Oniru</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,801 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,820 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 18 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 |
 | 19 | [Damaged](https://open.spotify.com/track/54wYnj7FIU0JFIhy0gYZSH) | [Whoisakin](https://open.spotify.com/artist/6ZbeHoJ4RZnyjkHfIWS6Wp) | [Damaged](https://open.spotify.com/album/3c91kFCZ0kjdcnofzgqxj2) | 2:30 |
 | 20 | [Bad Girl](https://open.spotify.com/track/6nF87DDkdHKIIOM5Qu4SoL) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Girl](https://open.spotify.com/album/77zGPXkrQ8NnXLMPtWYtnM) | 3:14 |
-| 21 | [R\-, Pt\. 2](https://open.spotify.com/track/0PjiYBQk9Q96ZKGWedkvbW) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-](https://open.spotify.com/album/1agqNObDp49ordF3HmYAqw) | 3:12 |
+| 21 | [R\-, Pt\. 2](https://open.spotify.com/track/6riYRZyy2Fgf11GuK2tfXK) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:12 |
 | 22 | [Combo](https://open.spotify.com/track/4ZxIvn68usPSQi8qGUmiey) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Jer](https://open.spotify.com/artist/0xMMzZfYoteEUM0vnJLjgt) | [This Is Lovn](https://open.spotify.com/album/3rBhsljGGbsFt2Z5W7x6Yj) | 2:16 |
 | 23 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 |
 | 24 | [Circus](https://open.spotify.com/track/7lgrLAXxW1frMbdO5h2wUZ) | [Adomaa](https://open.spotify.com/artist/4D29Hq7QjKomhnDDvyb99e) | [Circus](https://open.spotify.com/album/7fCYNOf16YBpZ3XwByoUmd) | 4:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 |
 | 80 | [Butter](https://open.spotify.com/track/0xsXd6WI6JX2PsW6rbYjcW) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7), [SUTRA](https://open.spotify.com/artist/1IwePsGHiNhUNBrUuUcguM) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 3:08 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDc2MDBkYmEyODE2ZDlkYzYzZDYyZGMxMDgwNzFjYjQ5`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDI0Yjk1OTZkZTMzZmY5ODhmMTQ2YmU0ZjExZmViY2Fm`

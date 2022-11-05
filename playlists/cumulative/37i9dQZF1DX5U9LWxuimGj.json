@@ -1738,6 +1738,24 @@
     },
     {
       "album": {
+        "name": "That Kinda Night",
+        "url": "https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5"
+      },
+      "artists": [
+        {
+          "name": "Angie K",
+          "url": "https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170152,
+      "name": "That Kinda Night",
+      "url": "https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn"
+    },
+    {
+      "album": {
         "name": "The Unforgiven",
         "url": "https://open.spotify.com/album/4fKKWNlAQjOY8zG8pY4ZmW"
       },

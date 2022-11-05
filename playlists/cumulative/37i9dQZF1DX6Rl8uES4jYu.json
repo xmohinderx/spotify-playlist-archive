@@ -3584,6 +3584,28 @@
     },
     {
       "album": {
+        "name": "Motion (with Yot Club)",
+        "url": "https://open.spotify.com/album/5qyXiUhjL3q4sVPtWHm6TR"
+      },
+      "artists": [
+        {
+          "name": "Smallpools",
+          "url": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+        },
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179695,
+      "name": "Motion (with Yot Club)",
+      "url": "https://open.spotify.com/track/1X0EgBQrXoMlOyWNjBWs2U"
+    },
+    {
+      "album": {
         "name": "Move Along",
         "url": "https://open.spotify.com/album/3Ufb6V4uYXB6HG7wmIVSMT"
       },
@@ -3725,6 +3747,24 @@
       "duration_ms": 167973,
       "name": "N.U.T.S",
       "url": "https://open.spotify.com/track/6T7sYe6XUjynzSamUDHaGm"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "album": {
@@ -4023,7 +4063,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 243506,
       "name": "ODORO!(feat.MIHO FUKUHARA)",
       "url": "https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J"
@@ -4219,7 +4259,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 236448,
       "name": "People People",
       "url": "https://open.spotify.com/track/4xOOBxljutpqUOfWxbmIR6"

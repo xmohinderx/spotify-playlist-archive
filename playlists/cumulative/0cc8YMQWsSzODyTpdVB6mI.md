@@ -4,13 +4,13 @@
 
 > The best NEW Music right now, curated by Kitsuné Musique and added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday.
 
-96 songs - 5 hr 26 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
+97 songs - 5 hr 30 min - [published](https://open.spotify.com/playlist/6gxGlcxed4RBnU8Hz4XDes)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 | 2022-07-26 |
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 | 2022-08-06 |
-| [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 |  |
+| [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 | 2022-11-05 |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 | 2022-10-11 |
 | [Azibi](https://open.spotify.com/track/5cTlfi5VG3ziOXtAh3CV4c) | [Record Club](https://open.spotify.com/artist/4cArYfwQ0BrfSEhaDwhVYQ) | [Azibi](https://open.spotify.com/album/2Bq9G72vRZozfbTIQljekL) | 3:52 | 2022-09-09 |  |
 | [Be Grateful](https://open.spotify.com/track/1wzmKX0ppikXpAdA7O5BRp) | [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Be Grateful](https://open.spotify.com/album/1rX527XeBVn4tkNwVgUXu9) | 2:47 | 2022-07-06 | 2022-10-04 |
@@ -52,6 +52,7 @@
 | [I'll Give You Dedication](https://open.spotify.com/track/5V6zXDdVD7l87y5AxtvUoR) | [Lemonade Baby](https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs) | [I'll Give You Dedication](https://open.spotify.com/album/4vrGADeX4iagpCw2MnOORv) | 2:47 | 2022-10-14 |  |
 | [Icy](https://open.spotify.com/track/1I7e4AyVqSBOoh6GHttqws) | [LN](https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ) | [Icy](https://open.spotify.com/album/4ZAkDbkETjOwhUAt6f0fV5) | 2:44 | 2022-09-05 |  |
 | [IDHAGF](https://open.spotify.com/track/6prn5rtliYnT0BntPBErk3) | [KIIKO BLAK](https://open.spotify.com/artist/12fzO7xcyUgAdJyua4yXte) | [IDHAGF](https://open.spotify.com/album/6bL79psgIxSRmjRfCORDq4) | 3:00 | 2022-05-02 | 2022-07-09 |
+| [Inside Times](https://open.spotify.com/track/5yiXsIhgEhouvwNsNc6XIE) | [Josh Dives](https://open.spotify.com/artist/0D5RZwiNLoTfvvV1JoySmS) | [Inside Times](https://open.spotify.com/album/5KMl2yl1vBZmheg5NtLqKN) | 3:46 | 2022-11-04 |  |
 | [IPANEMA](https://open.spotify.com/track/6vz5lQoqxfgDt3bXNsC4sq) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [TALES\_FOR\_NIGHTCLUBS\_II](https://open.spotify.com/album/2xFGlGQ5iUH8s1IcluUDaZ) | 2:58 | 2022-07-20 | 2022-10-15 |
 | [IPANEMA \- slow](https://open.spotify.com/track/44z0xS4YJxrsHt3oTvS2ei) | [TALES\_FOR\_NIGHTCLUBS](https://open.spotify.com/artist/1bQcDCkr8KkJBbHtjqAXps) | [IPANEMA \(slow\)](https://open.spotify.com/album/6yTtOrQDLrPodakOvqssbn) | 3:16 | 2022-08-24 |  |
 | [Kutamba](https://open.spotify.com/track/59VcIlXBZyNLLezqfuD1DI) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Kutamba](https://open.spotify.com/album/0LGKkarWcOJnv6d4Lnh6Om) | 2:56 | 2022-09-26 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Stormzy, DJ Khaled, Megan Thee Stallion and more",
-  "num_followers": 25905,
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Drake, Stormzy, DJ Khaled, and more",
+  "num_followers": 26045,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwOTE0MCwwMDAwMDAwMDRmMWUwYmY1MjY1MWFiNTJkMTcxZjhhYWUyODMxYWNi",
+  "snapshot_id": "MTY2NzU0MzA2MSwwMDAwMDAwMGU5MjYzYzM3YjMyZDk4YTU2NDM4ZWUwMGNmYzQ3MWJi",
   "tracks": [
     {
       "added_at": "2022-09-01 20:59:00",
@@ -43,6 +43,30 @@
       "duration_ms": 501648,
       "name": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
       "url": "https://open.spotify.com/track/2sOj9vyd6yiss9W1IK6chU"
+    },
+    {
+      "added_at": "2022-11-04 06:24:21",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "added_at": "2022-09-22 20:59:00",
@@ -575,22 +599,6 @@
       "duration_ms": 197565,
       "name": "Pree",
       "url": "https://open.spotify.com/track/2YEu77cQVAPT51V4dWSyAb"
-    },
-    {
-      "added_at": "2022-09-22 20:59:00",
-      "album": {
-        "name": "Baby On Baby 2",
-        "url": "https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 171123,
-      "name": "SOCKS",
-      "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
     },
     {
       "added_at": "2022-08-26 05:54:31",

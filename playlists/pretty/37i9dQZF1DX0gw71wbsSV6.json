@@ -1,12 +1,12 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 41466,
+  "num_followers": 41478,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMGRmZWVkM2EzNjEzMzUwMzc0Mjg3ZDUwZDliMWQ4Y2Rm",
+  "snapshot_id": "MTY2Njg4MjgwMCwwMDAwMDAwMDVjYWJjYzBiM2M4NDZlOGE0ZjVlMWIzN2YzNTFkZTRm",
   "tracks": [
     {
       "added_at": "2022-10-27 15:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2022-10-27 15:00:00",
-      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/61PhrZ1QgJCsQSYxlh87RZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 176974,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/3zjw3EZfvgjuR4AQhVlNq7"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2022-10-27 15:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-10-27 15:00:00",
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt"
+    },
+    {
+      "added_at": "2022-10-27 15:00:00",
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 180000,
       "name": "Throwaway (with Clairo)",
       "url": "https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM"
-    },
-    {
-      "added_at": "2022-10-27 15:00:00",
-      "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt"
     },
     {
       "added_at": "2022-10-27 15:00:00",

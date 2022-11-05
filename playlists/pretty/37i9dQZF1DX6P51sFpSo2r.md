@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
+> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,423 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,910 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
-| 2 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
-| 3 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
-| 4 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
+| 1 | [Chelsea Smile](https://open.spotify.com/track/3eSnqrgqm1R0mkgz80Cpzq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/1prhMiPHHEEzK5ueEx2vWB) | 5:02 |
+| 2 | [Carrion](https://open.spotify.com/track/0xfWKcNu13xxXQ2GT0P09M) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:07 |
+| 3 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
+| 4 | [Unholy Confessions](https://open.spotify.com/track/78XFPcFYN8YFOHjtVwnPsl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 4:43 |
 | 5 | [The End of Heartache](https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [The End of Heartache \(Special Edition\)](https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V) | 4:58 |
-| 6 | [Not The American Average](https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:39 |
+| 6 | [Not The American Average](https://open.spotify.com/track/76LGCP0g9nVknR7HD2Jjyp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/5TCwGgyw8ZXXyKIcUFCj47) | 4:39 |
 | 7 | [Two Weeks](https://open.spotify.com/track/0XT70Wk9pP8JZkmJhfntuL) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Overcome](https://open.spotify.com/album/5Idfe5SehEAZ9uyv9fSKu1) | 4:17 |
 | 8 | [SECOND & SEBRING](https://open.spotify.com/track/3bdqdxoWXP3z0KuDt0o4Cn) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Of Mice & Men](https://open.spotify.com/album/2YOIrzi5u5xuiGCA7GhCMS) | 3:49 |
 | 9 | [Hey Baby, Here's That Song You Wanted](https://open.spotify.com/track/6RbeLGGRcELEeKjMAplpap) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Witness](https://open.spotify.com/album/2bSOI1YTq852i0kxRe0xqd) | 3:14 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 | 59 | [Concubine](https://open.spotify.com/track/1ui9EPnCqTurWbYICi9Gld) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Jane Doe](https://open.spotify.com/album/2gtM4m6sglJDrX3toJWZO6) | 1:19 |
 | 60 | [Mordecai](https://open.spotify.com/track/2Fui3xJLasH473qnBa2T6C) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [The Silent Circus](https://open.spotify.com/album/1rmiMSKXg6o8F1UVBdhQpN) | 5:47 |
 
-Snapshot ID: `MTY2NjcyNjY1MSwwMDAwMDAwMDIzNmZiMzVjNjNkZDc4Y2RiNDhjNjA2MGFhNzUzMjYy`
+Snapshot ID: `MTY2NzU1MjEyNywwMDAwMDAwMGVjYzhmNjgxOGY1MmNhYmIwYWVlMzJlYTkwNjcwMDc3`

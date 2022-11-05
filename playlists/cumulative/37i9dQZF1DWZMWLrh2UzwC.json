@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "The best newly released songs of the week.",
+  "description": "The best newly released songs of the week. Cover: Drake, 21 Savage",
   "name": "New Music Friday Malaysia",
   "published_playlist_ids": [
     "0N7RJ8Z6HROviqzRpgPKEn"
@@ -1105,6 +1105,24 @@
       "duration_ms": 305133,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/03IkbWWtLydmBuo9jQYC2Z"
+    },
+    {
+      "album": {
+        "name": "7\u53433\u767e\u591a\u5929 (JJ\u6797\u4fca\u5091\u300aJJ20\u4e16\u754c\u5de1\u8ff4\u6f14\u5531\u6703\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/2etLBq4ucnE8b7Gd8Y2yfB"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "7\u53433\u767e\u591a\u5929 (JJ\u6797\u4fca\u5091\u300aJJ20\u4e16\u754c\u5de1\u8ff4\u6f14\u5531\u6703\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/314jk2ZnMknf8Oa3wD4Pgo"
     },
     {
       "album": {
@@ -11663,6 +11681,28 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
     },
     {
       "album": {
@@ -27192,6 +27232,24 @@
     },
     {
       "album": {
+        "name": "Holiday Party",
+        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
+    },
+    {
+      "album": {
         "name": "blood lotus diary",
         "url": "https://open.spotify.com/album/4T5JLOW9gRpehumgIQfzRK"
       },
@@ -36437,10 +36495,28 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 192186,
       "name": "Living Life Right",
       "url": "https://open.spotify.com/track/3UqQmQJIfTMGV4kNJgarOF"
+    },
+    {
+      "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/73j3szStTnau2muNhow0Vz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "Living Life Right",
+      "url": "https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq"
     },
     {
       "album": {
@@ -38953,6 +39029,28 @@
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "album": {
@@ -49469,6 +49567,32 @@
       "duration_ms": 202546,
       "name": "Pushing Up Daisies",
       "url": "https://open.spotify.com/track/5vvONJcOR0OUEPSfpYwIaP"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
     },
     {
       "album": {
@@ -71184,6 +71308,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u9b5a",
+        "url": "https://open.spotify.com/album/0fVBIBwktx5cOMh209acAj"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303537,
+      "name": "\u4eba\u9b5a",
+      "url": "https://open.spotify.com/track/3P9LSXWdIOI1ctFpIy6av1"
+    },
+    {
+      "album": {
         "name": "\u4eca\u5929\u967d\u5149\u5c31\u662f\u7279\u5225\u8000\u773c\u7279\u5225\u548c\u8ae7",
         "url": "https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT"
       },
@@ -71315,6 +71457,24 @@
       "duration_ms": 277272,
       "name": "\u4f60\u662f\u4e0d\u662f\u6709\u9ede\u52d5\u5fc3 - 2ession",
       "url": "https://open.spotify.com/track/689JQzzmvwupjKXJ7lHXXV"
+    },
+    {
+      "album": {
+        "name": "\u4f60\u7684\u795e\u66f2",
+        "url": "https://open.spotify.com/album/3sDy8v5fg2XHVBdtzs42fa"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210222,
+      "name": "\u4f60\u7684\u795e\u66f2",
+      "url": "https://open.spotify.com/track/0YgeOKbm6RmVoqjnzR8u3J"
     },
     {
       "album": {

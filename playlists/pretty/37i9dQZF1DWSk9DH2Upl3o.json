@@ -1,12 +1,12 @@
 {
   "description": "The jam scene is alive and well. Cover: Papadosio",
-  "num_followers": 9098,
+  "num_followers": 9144,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGZjMjcxMGJlMmIwODY4MmIwNWQxZjM1NmJkMzA4Yjg0",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDA3ZTUzYjk2YzQxZGU5N2I3MTIzOGE2ZGQ5NDRlYTQ2",
   "tracks": [
     {
       "added_at": "2022-10-21 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
-      },
-      "artists": [
-        {
-          "name": "Lotus ",
-          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Tracking Buffalo Through the Bathtub",
         "url": "https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Best Kept Secrets",
-        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh"
       },
       "artists": [
         {
-          "name": "Ghost Light",
-          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+          "name": "Lotus ",
+          "url": "https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk"
         }
       ],
-      "duration_ms": 259826,
-      "name": "Keep Your Hands to Yourself",
-      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
+      "duration_ms": 306840,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -315,6 +299,22 @@
       "duration_ms": 250335,
       "name": "Playing With My Emotions",
       "url": "https://open.spotify.com/track/4zEFa1VjwShQ70oiiELHMf"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Best Kept Secrets",
+        "url": "https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s"
+      },
+      "artists": [
+        {
+          "name": "Ghost Light",
+          "url": "https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe"
+        }
+      ],
+      "duration_ms": 259826,
+      "name": "Keep Your Hands to Yourself",
+      "url": "https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/31prZotiPV46jh06xCTop4"
     },
     {
-      "added_at": "2022-08-26 04:01:00",
-      "album": {
-        "name": "Not Just a Word",
-        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
-      },
-      "artists": [
-        {
-          "name": "Papadosio",
-          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
-        }
-      ],
-      "duration_ms": 338011,
-      "name": "Not Just a Word",
-      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
-    },
-    {
       "added_at": "2022-06-23 13:45:43",
       "album": {
         "name": "Phone.Keys.Wallet",
@@ -527,6 +511,22 @@
       "duration_ms": 139773,
       "name": "Stacy's on the Lake",
       "url": "https://open.spotify.com/track/5aM41a1nAdLaYMj2roH4vu"
+    },
+    {
+      "added_at": "2022-08-26 04:01:00",
+      "album": {
+        "name": "Not Just a Word",
+        "url": "https://open.spotify.com/album/7bt6AjNv93TydZQbb6mqW1"
+      },
+      "artists": [
+        {
+          "name": "Papadosio",
+          "url": "https://open.spotify.com/artist/22nCgEikczPLtGfDdpRroh"
+        }
+      ],
+      "duration_ms": 338011,
+      "name": "Not Just a Word",
+      "url": "https://open.spotify.com/track/0h0VOIqGeMkGsho6OS9nkh"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -591,6 +591,22 @@
       "duration_ms": 448385,
       "name": "Mr. Scientist",
       "url": "https://open.spotify.com/track/4873MdwrLRw2FuAddS0h3F"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Out of Line",
+        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
+      },
+      "artists": [
+        {
+          "name": "Cbdb",
+          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
+        }
+      ],
+      "duration_ms": 339120,
+      "name": "Opelika Yella",
+      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
     },
     {
       "added_at": "2022-06-23 13:45:43",
@@ -671,22 +687,6 @@
       "duration_ms": 532666,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/6GeA7HIChjhFR5JsRHVTdV"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
-        "name": "Out of Line",
-        "url": "https://open.spotify.com/album/0L8s86CwVUyPR1wF2HiTRg"
-      },
-      "artists": [
-        {
-          "name": "Cbdb",
-          "url": "https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "Opelika Yella",
-      "url": "https://open.spotify.com/track/0lNcPLNpygKPwn4rh07yHQ"
     },
     {
       "added_at": "2022-09-09 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-06-23 13:45:43",
       "album": {
-        "name": "Dopapod",
-        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
-      },
-      "artists": [
-        {
-          "name": "Dopapod",
-          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
-        }
-      ],
-      "duration_ms": 304826,
-      "name": "Nuff",
-      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
-    },
-    {
-      "added_at": "2022-06-23 13:45:43",
-      "album": {
         "name": "Off Leash",
         "url": "https://open.spotify.com/album/5DDz8IrNkVcyMVdSFdgODU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 321688,
       "name": "Time Dilates",
       "url": "https://open.spotify.com/track/2rGANn1EnbCGUC0oftuwW9"
+    },
+    {
+      "added_at": "2022-06-23 13:45:43",
+      "album": {
+        "name": "Dopapod",
+        "url": "https://open.spotify.com/album/2LrH4Sm8KxA10mnUy3IcFA"
+      },
+      "artists": [
+        {
+          "name": "Dopapod",
+          "url": "https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX"
+        }
+      ],
+      "duration_ms": 304826,
+      "name": "Nuff",
+      "url": "https://open.spotify.com/track/0rkhQA2GnItdPJxgb0PKN7"
     },
     {
       "added_at": "2022-06-23 13:45:43",

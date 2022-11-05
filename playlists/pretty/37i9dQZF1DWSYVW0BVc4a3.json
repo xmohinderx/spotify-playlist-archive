@@ -1,12 +1,12 @@
 {
   "description": "Rave season is upon us. Cover: Anyma",
-  "num_followers": 19455,
+  "num_followers": 19714,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxMjgwMCwwMDAwMDAwMDQ4OTU2ZmU3ZWE1MmQ2ZWRhYzdmZDk0YmZlZThjNzAz",
+  "snapshot_id": "MTY2NzUxMjgwMCwwMDAwMDAwMDZkOWE5Y2U1Yjg0MjM1ZmM3NmU3MWQyZGI1OGQyNDBj",
   "tracks": [
     {
       "added_at": "2022-11-03 22:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
+        "name": "Dancing In The Shadows",
+        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 277432,
+      "name": "Dancing In The Shadows",
+      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
         "name": "beachin",
         "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 194568,
       "name": "beachin",
       "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
-        "name": "Dancing In The Shadows",
-        "url": "https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 277432,
-      "name": "Dancing In The Shadows",
-      "url": "https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -951,26 +951,22 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "The Last Goodbye Remixes N\u00b0.1",
-        "url": "https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ"
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
         },
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        },
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
         }
       ],
-      "duration_ms": 236936,
-      "name": "The Last Goodbye (feat. Bettye LaVette) - DJ Seinfeld Remix",
-      "url": "https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p"
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -995,22 +991,26 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+        "name": "The Last Goodbye Remixes N\u00b0.1",
+        "url": "https://open.spotify.com/album/0vt9IqflcQqkTa6ExJoccQ"
       },
       "artists": [
         {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        },
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+      "duration_ms": 236936,
+      "name": "The Last Goodbye (feat. Bettye LaVette) - DJ Seinfeld Remix",
+      "url": "https://open.spotify.com/track/4DmUdGg9eXpOb48eDjOi1p"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5JvuO0pxsGOtqxg62mfvsU"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "duration_ms": 169354,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1704XhUx9ZXSXmRQxUfQ3X"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/37abhSU412bkiwXr3ShshM"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 236000,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5JvuO0pxsGOtqxg62mfvsU"
-      },
-      "artists": [
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1704XhUx9ZXSXmRQxUfQ3X"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1323,6 +1323,26 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
+        "name": "Hotel Koko",
+        "url": "https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW"
+      },
+      "artists": [
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
+        },
+        {
+          "name": "Kamohelo",
+          "url": "https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu"
+        }
+      ],
+      "duration_ms": 258967,
+      "name": "Castles",
+      "url": "https://open.spotify.com/track/2kts9CqkgeHyJLIN22WAwb"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1395,26 +1415,6 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "Hotel Koko",
-        "url": "https://open.spotify.com/album/0K5N4Inr14bXYElF0RsJBW"
-      },
-      "artists": [
-        {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        },
-        {
-          "name": "Kamohelo",
-          "url": "https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu"
-        }
-      ],
-      "duration_ms": 258967,
-      "name": "Castles",
-      "url": "https://open.spotify.com/track/2kts9CqkgeHyJLIN22WAwb"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
         "name": "Standing There",
         "url": "https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH"
       },
@@ -1467,6 +1467,26 @@
       "duration_ms": 240000,
       "name": "Discipline (with Tchami)",
       "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1539,26 +1559,6 @@
       "duration_ms": 359785,
       "name": "Run",
       "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1743,22 +1743,18 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "Tetema",
-        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
       },
       "artists": [
         {
-          "name": "The Gabe Concept",
-          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 202622,
-      "name": "Tetema",
-      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
+      "duration_ms": 426058,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1779,18 +1775,38 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "Papillon",
-        "url": "https://open.spotify.com/album/2ExOArPbBauMUMJsfxFRaT"
+        "name": "Tetema",
+        "url": "https://open.spotify.com/album/5XMlPh4QACA389AplduJ2w"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "The Gabe Concept",
+          "url": "https://open.spotify.com/artist/3EMVE8FNrFISPFosi3Oevr"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         }
       ],
-      "duration_ms": 426058,
-      "name": "Papillon",
-      "url": "https://open.spotify.com/track/1vpOY0slxNwm6EO7ykjsfZ"
+      "duration_ms": 202622,
+      "name": "Tetema",
+      "url": "https://open.spotify.com/track/3f9vaq5dOpkvzLMWsarDFF"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
+        "name": "Dedication To House Music",
+        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 210576,
+      "name": "Dedication To House Music",
+      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1823,22 +1839,6 @@
     {
       "added_at": "2022-11-03 22:00:00",
       "album": {
-        "name": "Dedication To House Music",
-        "url": "https://open.spotify.com/album/1FV1kXqforekpg0HlDZOWl"
-      },
-      "artists": [
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 210576,
-      "name": "Dedication To House Music",
-      "url": "https://open.spotify.com/track/6eIY3ybQkIOddP1dxDLB3W"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
         "name": "On Call",
         "url": "https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX"
       },
@@ -1851,22 +1851,6 @@
       "duration_ms": 267750,
       "name": "On Call",
       "url": "https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H"
-    },
-    {
-      "added_at": "2022-11-03 22:00:00",
-      "album": {
-        "name": "Hours and Hours",
-        "url": "https://open.spotify.com/album/4doUhaVPZ5BbnemJ5Pp4Df"
-      },
-      "artists": [
-        {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Hours and Hours",
-      "url": "https://open.spotify.com/track/1aMvOZXicxEV0dzlYveyKG"
     },
     {
       "added_at": "2022-11-03 22:00:00",
@@ -1887,6 +1871,22 @@
       "duration_ms": 377612,
       "name": "Home - Boys Noize Remix",
       "url": "https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm"
+    },
+    {
+      "added_at": "2022-11-03 22:00:00",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT"
+      },
+      "artists": [
+        {
+          "name": "Miyagi",
+          "url": "https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9"
+        }
+      ],
+      "duration_ms": 378425,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a"
     }
   ],
   "unique_name": "Open Air",

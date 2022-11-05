@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,876 likes - 500 songs - 19 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,112 likes - 500 songs - 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 131 | [Drive Thru](https://open.spotify.com/track/6dmo8FpWhleJYdiPwpKo4E) | [Loose Cannonz](https://open.spotify.com/artist/1PICAJuUPRwLbI77aAAtOV) | [Sea Breeze](https://open.spotify.com/album/700wmoRRp6z56TUym4tUPL) | 3:27 |
 | 132 | [Crab Cake](https://open.spotify.com/track/0AoHfH1gDhbpqVaVRQnnu4) | [Moon Boi Beats](https://open.spotify.com/artist/7kZ195AkdNG4enyC5QQ5E1) | [Sunrise](https://open.spotify.com/album/7IegiQLGEaX6v1ICmYtZGg) | 1:57 |
 | 133 | [Jazzy Spring Latte](https://open.spotify.com/track/04C2LgeOlMKZjkstPaEOf1) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Jazzy Spring Latte](https://open.spotify.com/album/1xqHFDVB5c7FHbHyLtGmzO) | 2:30 |
-| 134 | [Colors of the Sky](https://open.spotify.com/track/1bFyCsovM08mc6UjBhrOAX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/4pNpdOW1qXoVbRMxHTiNCu) | 2:08 |
+| 134 | [Colors of the Sky](https://open.spotify.com/track/3CUBpil1eMw2K0HPlik9yg) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/3mEs23uIMwl4dwCnlUtrYY) | 2:08 |
 | 135 | [windowsill.](https://open.spotify.com/track/6g8WlgW1divhDIY4arP8t3) | [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [windowsill.](https://open.spotify.com/album/6GGkqL4vnSG0qJIHSpxfrM) | 2:14 |
 | 136 | [Speed Of Tomorrow](https://open.spotify.com/track/7wIr7S0dD59uhCsspA2y7K) | [Inovalin Trem](https://open.spotify.com/artist/7EflRmV80Cnj9PmQZvpiUg) | [Speed Of Tomorrow](https://open.spotify.com/album/0OO47hC9O9Y9OkuK9y95d6) | 2:04 |
 | 137 | [gravel trap](https://open.spotify.com/track/66yzKiMDLw08z8Oa9JlgrS) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd) | [gravel trap](https://open.spotify.com/album/3W8lioV1UYFdp7x5ioe82s) | 1:33 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 499 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 |
 | 500 | [Sunburn](https://open.spotify.com/track/5YZOHVXgS3khDYFARvAUzh) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Zephyr](https://open.spotify.com/album/3o1AjNSUqYbysJbeinEb7c) | 2:14 |
 
-Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMDVkYzg1M2RkNzdhYTk2ZGI2Nzc1M2Q5ZmQwYjEyNTUy`
+Snapshot ID: `MTY2Njk1NzA4MSwwMDAwMDAwMDc0ZTZmZTBjZDNlZWY4NWEzMDQ1MDZjNWY5ZjBhMzIy`

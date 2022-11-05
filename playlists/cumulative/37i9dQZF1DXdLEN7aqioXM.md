@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-359 songs - 1 day 1 hr 56 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
+360 songs - 1 day 1 hr 59 min - [published](https://open.spotify.com/playlist/24oMtAVzB5ucnLKOOsTNft)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Drive\-by Stalking](https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Drive\-by Stalking](https://open.spotify.com/album/2uM7nC8LLABOWiami4Ipw9) | 5:20 | 2022-07-22 |  |
 | [Droid Rage](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC) | 1:51 | 2021-10-15 |  |
 | [Dust](https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Particles](https://open.spotify.com/album/3RxVWDJQBliYc65AFr9IIq) | 5:02 | 2021-10-15 | 2022-04-02 |
+| [E.P.R.O.M.](https://open.spotify.com/track/7k1ULNLWrAyRJy0ZRbBILq) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM), [Oscillian](https://open.spotify.com/artist/6bNpZ2lr2qhlpEtDrimoI7) | [E.P.R.O.M.](https://open.spotify.com/album/5keuEvutmfqj8DNbcnoiZS) | 3:52 | 2022-11-04 |  |
 | [Electricity](https://open.spotify.com/track/1TWff8ZiKIf6cD52hxTwM7) | [World Complete](https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq) | [Electricity](https://open.spotify.com/album/0PCg9PBozjRXfNkCyqT6Yx) | 4:44 | 2022-02-04 | 2022-07-27 |
 | [Emerald](https://open.spotify.com/track/3j0R8oOFx3tW8owV1ezt0s) | [System96](https://open.spotify.com/artist/5NgUA4FZtrzQPgSdbAkoXn), [Lucy In Disguise](https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg) | [Emerald](https://open.spotify.com/album/2daD1BDrdh6yK9evj3jm8q) | 3:01 | 2021-10-15 | 2022-07-30 |
 | [Emerald Rising](https://open.spotify.com/track/7lUNro5GwphA1CIq620wlc) | [Lueur Verte](https://open.spotify.com/artist/236Oy3MFNzz5zbBwowuxlW) | [Crystalica \- EP](https://open.spotify.com/album/3uSmnYqAXeS13BFvkQbG0w) | 5:36 | 2022-04-01 |  |
@@ -339,7 +340,7 @@
 | [Time Lapse](https://open.spotify.com/track/2e89lDHEhoebqkT7eHdHRj) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/6bgFThml9TuZ5KywB6mRCr) | 4:19 | 2021-10-15 | 2022-07-29 |
 | [Time Lapse](https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS) | 4:19 | 2022-07-22 |  |
 | [Timewarp](https://open.spotify.com/track/5pLEtE1TftgsWoDsY99ThL) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Timewarp](https://open.spotify.com/album/46yAHb7Pxl8S1jJh2m3r7C) | 4:07 | 2022-04-15 | 2022-07-29 |
-| [Timmy Goes To Space](https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw) | [Mr\. Maen](https://open.spotify.com/artist/0d5tUTjMd6EFBWNeRMKpb3) | [Slow Love](https://open.spotify.com/album/07x3cBPHSNxNA5MUQw2HKk) | 3:32 | 2022-04-01 |  |
+| [Timmy Goes To Space](https://open.spotify.com/track/3ygygDgeSK98dfOknKRLUw) | [Mr\. Maen](https://open.spotify.com/artist/0d5tUTjMd6EFBWNeRMKpb3) | [Slow Love](https://open.spotify.com/album/07x3cBPHSNxNA5MUQw2HKk) | 3:32 | 2022-04-01 | 2022-11-05 |
 | [Too Far Gone](https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine](https://open.spotify.com/album/0GeQGXS8uLRnqNKIgnOxSd) | 3:06 | 2021-10-15 | 2022-07-27 |
 | [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 | 2021-10-15 |  |
 | [True Love](https://open.spotify.com/track/3OHmWRelVqwo2OxNdLbA4d) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [True Love](https://open.spotify.com/album/0iqNuyAe1rOwBVrSrVAT2D) | 4:30 | 2022-05-13 | 2022-05-20 |

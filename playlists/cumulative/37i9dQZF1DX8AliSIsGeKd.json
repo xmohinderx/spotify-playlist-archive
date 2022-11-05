@@ -13119,7 +13119,7 @@
     {
       "album": {
         "name": "Poison",
-        "url": "https://open.spotify.com/album/4cfkKCS3SAy9YdfIHWyOf5"
+        "url": "https://open.spotify.com/album/51TtzHlZRMD7Vxky2YUOPW"
       },
       "artists": [
         {
@@ -13134,6 +13134,28 @@
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 152381,
+      "name": "Poison - Miane Remix",
+      "url": "https://open.spotify.com/track/1d3Eb4PWk24woAfg2YaDsd"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/4cfkKCS3SAy9YdfIHWyOf5"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
       "duration_ms": 152381,
       "name": "Poison - Miane Remix",
       "url": "https://open.spotify.com/track/4UcSPBCaBihVGQTPF8hvet"

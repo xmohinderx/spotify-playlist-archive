@@ -4,7 +4,7 @@
 
 > We hear you.
 
-497 songs - 1 day 0 hr 38 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
+498 songs - 1 day 0 hr 42 min - [published](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [did you?](https://open.spotify.com/track/2AdOnjGkvA9w87SHnrlRGC) | [tøm hughes](https://open.spotify.com/artist/336D2sdfb7SeACYYG8TNWf) | [did you?](https://open.spotify.com/album/66opJaPhhdXdBmzpnsZTDY) | 1:46 | 2021-04-02 | 2022-04-21 |
 | [Die Alone](https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq) | 4:21 | 2022-10-14 |  |
 | [Die Alone](https://open.spotify.com/track/6tc1gT93ZpMKx3N5AgVljV) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony](https://open.spotify.com/album/51V8Fme8o9GthQ3O1RNMtE) | 4:21 | 2021-04-02 | 2022-07-27 |
+| [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-21 | 2022-07-22 |
 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 | 2021-04-02 | 2022-04-18 |
 | [Do You Ever Think of Me?](https://open.spotify.com/track/3UsCeel9NuKKmpls5B4osK) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:05 | 2021-04-02 | 2022-07-20 |
@@ -189,7 +190,7 @@
 | [i don't care anymore](https://open.spotify.com/track/6u52uM7tKVZ7I4cLcYFNJr) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [i don't care anymore](https://open.spotify.com/album/7LnEcQaGiZbDAjpnoU9NlU) | 2:17 | 2021-04-02 | 2022-07-16 |
 | [i don't wanna die alone](https://open.spotify.com/track/1UfDwb7EyvtEXvFZrm7ABQ) | [RNAQ](https://open.spotify.com/artist/3juSp5raLqxGiyimUYB5Rk), [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [i don't wanna die alone](https://open.spotify.com/album/5Boolgafpn3z03X6POfQn8) | 2:48 | 2021-04-02 | 2022-04-15 |
 | [i don't wanna fall in love](https://open.spotify.com/track/2hkrK4tbCWGhUlF0rtQzBs) | [XINCLAIR](https://open.spotify.com/artist/3b71MgFOkWOk0P0SN9t8Db), [Mada](https://open.spotify.com/artist/4FpLPGEsFlGesZo9ov3eNd) | [i don't wanna fall in love](https://open.spotify.com/album/77qeFaiCEw2DOP6TAF2042) | 2:09 | 2021-04-02 | 2022-04-18 |
-| [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-09-10 |  |
+| [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2021-09-10 | 2022-11-05 |
 | [I h8 ur mom/ i h8 myself](https://open.spotify.com/track/4EVJGoZ9SQdo7txULNdkOw) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I h8 ur mom/ i h8 myself](https://open.spotify.com/album/1AEd6FhHjlPjO9uM1KB7wh) | 2:52 | 2022-07-19 | 2022-08-25 |
 | [i hate myself tbh](https://open.spotify.com/track/3yGNEaRrxNCpOYndu3jTUA) | [Aidan](https://open.spotify.com/artist/2p9YQq5YvvPaD4fj8aOCyk), [Kaxi](https://open.spotify.com/artist/2Aaz4mQGMr0iuyBE2lcfxn) | [i hate myself tbh](https://open.spotify.com/album/1jRre5scscTvNhnNJFPY3U) | 2:54 | 2021-04-02 | 2022-04-18 |
 | [i hate the weather](https://open.spotify.com/track/2EMeWXGkIpAyHRJ7sw88wO) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [i hate the weather](https://open.spotify.com/album/50w3WngAW1k49gG9KLLD1Z) | 2:34 | 2022-05-25 | 2022-07-15 |

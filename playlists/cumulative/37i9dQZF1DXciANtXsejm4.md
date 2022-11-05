@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-177 songs - 10 hr 38 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
+178 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/6VpP8JPY2B7vhKnzWlgYHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Distancia](https://open.spotify.com/track/7sV1a3hPpytFTrPBstLtEv) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Volvió el Parrandero!!!](https://open.spotify.com/album/2FjIpsiAXEn3NY8kbEsaW7) | 4:09 | 2022-04-15 | 2022-07-29 |
 | [Donde Estará Mi Primavera](https://open.spotify.com/track/737mILAFtVz8j8nt6578Ex) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Leo Matioli](https://open.spotify.com/artist/7wpQO9kv6Y4zNpHiRMc9gR) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 4:27 | 2022-04-15 | 2022-07-29 |
 | [Donde Estará Mi Primavera](https://open.spotify.com/track/1h2SiT6nwYHtXqps0hrot7) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [25 Años](https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua) | 4:21 | 2022-07-15 |  |
-| [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 | 2022-07-15 |  |
+| [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 | 2022-07-15 | 2022-11-05 |
 | [Dos Hombres y un Destino](https://open.spotify.com/track/7soeaS12AHoVO44S9Lys5l) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/1Sj1HLlaB8QCsAJeRxqufW) | 3:09 | 2022-06-03 | 2022-07-29 |
 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 | 2022-06-17 | 2022-07-12 |
 | [Dos Veces](https://open.spotify.com/track/0UG7McSo7BCbyWiAqeggFD) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dos Veces](https://open.spotify.com/album/1r06JQ4uRLVdKcTwpTlNgc) | 3:29 | 2022-09-23 |  |
@@ -128,6 +128,7 @@
 | [Otro Día Más Sin Verte](https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Hay Contra para Rato](https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf) | 4:05 | 2022-07-15 |  |
 | [Paloma](https://open.spotify.com/track/25JRvUTvdnLwxdog75mJSY) | [Los Lirios](https://open.spotify.com/artist/2ReWmmj0OAP89u8ff3oN8A), [Claudio Benitez](https://open.spotify.com/artist/3xj9078sS7agJpcsdQGjuo) | [25 Años Clásicos Con Clásicos](https://open.spotify.com/album/3yRkYWmRNloQ3t2zAjx5sY) | 3:47 | 2022-06-10 | 2022-07-29 |
 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 | 2022-04-15 |  |
+| [Perdido por Ti](https://open.spotify.com/track/5nYFh4mbCDGDVHse3PuCKy) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Perdido por Ti](https://open.spotify.com/album/1RZsKu4AKUB1iMnLWNNhzk) | 3:35 | 2022-11-04 |  |
 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 | 2022-04-15 | 2022-07-29 |
 | [Piropo](https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz) | 3:08 | 2022-07-15 |  |
 | [Piropo](https://open.spotify.com/track/70i8ZsGgXVBelUmsHXddDJ) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Marca Registrada](https://open.spotify.com/album/5dYAPQdnmtlneTu9U468sx) | 3:08 | 2022-06-03 | 2022-07-29 |

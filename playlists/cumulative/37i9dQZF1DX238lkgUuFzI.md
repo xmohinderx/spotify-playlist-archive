@@ -4,7 +4,7 @@
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-57 songs - 2 hr 37 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
+58 songs - 2 hr 40 min - [published](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Dear Goth](https://open.spotify.com/track/1pSQLQAj7xy6CybmqUnHax) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dear Goth](https://open.spotify.com/album/7mWd8LS3zZWlFMPvuMNpIb) | 3:29 | 2021-12-01 |  |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-12-01 |  |
 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 | 2021-12-01 |  |
-| [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 | 2021-12-01 |  |
+| [Fear of Dying](https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt) | 2:43 | 2021-12-01 | 2022-11-05 |
+| [Fear of Dying](https://open.spotify.com/track/30NCaDbTGyUJKTMrQwgXQG) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Fear of Dying](https://open.spotify.com/album/56Dlp0JgocLaF8r6HYZe0Z) | 2:43 | 2021-12-01 |  |
 | [flowers](https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [flowers](https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN) | 2:41 | 2021-12-01 |  |
 | [Fuck the Hollywood Cult](https://open.spotify.com/track/5SoxOODF9bvcb7vEBkG6dz) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Fuck the Hollywood Cult](https://open.spotify.com/album/36CVtGbnMvnZphHX7IiRPJ) | 3:10 | 2021-12-01 |  |
 | [GO F\*CK URSELF](https://open.spotify.com/track/21Q89OzFYAcYSNurWhz3Rk) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [GO F\*CK URSELF](https://open.spotify.com/album/4lLjJ7EIgNmk7VxoKgiLHa) | 2:26 | 2021-12-01 |  |

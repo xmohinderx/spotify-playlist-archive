@@ -1,13 +1,33 @@
 {
-  "description": "The best newly released songs of the week.",
-  "num_followers": 59746,
+  "description": "The best newly released songs of the week. Cover: Drake, 21 Savage",
+  "num_followers": 59762,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MTIwMCwwMDAwMDAwMDk1N2E3MTA3Mjg5NjlmOGNiNDBkNjJmZGIyNzhjYzIx",
+  "snapshot_id": "MTY2NzU1MjQ1OCwwMDAwMDAwMGI4NTUxZWE5OWEzZTBjMDMwMmI3YWVlNWUwYmM4OTg4",
   "tracks": [
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
     {
       "added_at": "2022-11-03 16:00:00",
       "album": {
@@ -209,6 +229,22 @@
       "url": "https://open.spotify.com/track/37pkHQGx0kEvFCOocQe9H1"
     },
     {
+      "added_at": "2022-11-04 09:00:58",
+      "album": {
+        "name": "7\u53433\u767e\u591a\u5929 (JJ\u6797\u4fca\u5091\u300aJJ20\u4e16\u754c\u5de1\u8ff4\u6f14\u5531\u6703\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/2etLBq4ucnE8b7Gd8Y2yfB"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "7\u53433\u767e\u591a\u5929 (JJ\u6797\u4fca\u5091\u300aJJ20\u4e16\u754c\u5de1\u8ff4\u6f14\u5531\u6703\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/314jk2ZnMknf8Oa3wD4Pgo"
+    },
+    {
       "added_at": "2022-11-03 16:00:00",
       "album": {
         "name": "BUD",
@@ -263,6 +299,22 @@
       "duration_ms": 235810,
       "name": "Missing You (with Ashe)",
       "url": "https://open.spotify.com/track/7xtsuU7WlDNmTzUQ32oQ7r"
+    },
+    {
+      "added_at": "2022-11-04 09:00:58",
+      "album": {
+        "name": "\u4f60\u7684\u795e\u66f2",
+        "url": "https://open.spotify.com/album/3sDy8v5fg2XHVBdtzs42fa"
+      },
+      "artists": [
+        {
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
+        }
+      ],
+      "duration_ms": 210222,
+      "name": "\u4f60\u7684\u795e\u66f2",
+      "url": "https://open.spotify.com/track/0YgeOKbm6RmVoqjnzR8u3J"
     },
     {
       "added_at": "2022-11-03 16:00:00",
@@ -343,6 +395,22 @@
       "duration_ms": 165361,
       "name": "Penny",
       "url": "https://open.spotify.com/track/24wiwgyKLZ36y1HwL5M5Yw"
+    },
+    {
+      "added_at": "2022-11-04 09:00:58",
+      "album": {
+        "name": "\u4eba\u9b5a",
+        "url": "https://open.spotify.com/album/0fVBIBwktx5cOMh209acAj"
+      },
+      "artists": [
+        {
+          "name": "Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
+        }
+      ],
+      "duration_ms": 303537,
+      "name": "\u4eba\u9b5a",
+      "url": "https://open.spotify.com/track/3P9LSXWdIOI1ctFpIy6av1"
     },
     {
       "added_at": "2022-11-03 16:00:00",
@@ -541,6 +609,26 @@
       "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
       "added_at": "2022-11-03 16:00:00",
       "album": {
         "name": "Big Pussy",
@@ -673,6 +761,30 @@
       "url": "https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
       "added_at": "2022-11-03 16:00:00",
       "album": {
         "name": "I'll Be Home For Christmas",
@@ -703,6 +815,22 @@
       "duration_ms": 177127,
       "name": "Cheer",
       "url": "https://open.spotify.com/track/4pK7lH8K4GrsRIWcJ9DTFk"
+    },
+    {
+      "added_at": "2022-11-03 16:00:00",
+      "album": {
+        "name": "Holiday Party",
+        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
     },
     {
       "added_at": "2022-11-03 16:00:00",
@@ -996,7 +1124,7 @@
       "added_at": "2022-11-03 16:00:00",
       "album": {
         "name": "Crazy Life",
-        "url": "https://open.spotify.com/album/5K7HdvImqQwhePnWOJsAmM"
+        "url": "https://open.spotify.com/album/73j3szStTnau2muNhow0Vz"
       },
       "artists": [
         {
@@ -1006,7 +1134,7 @@
       ],
       "duration_ms": 192186,
       "name": "Living Life Right",
-      "url": "https://open.spotify.com/track/3UqQmQJIfTMGV4kNJgarOF"
+      "url": "https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq"
     },
     {
       "added_at": "2022-11-03 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 1034985,
+  "num_followers": 1035588,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDcxNDIyYjRmYTc1ZTcwN2FmZTllNTcwM2NiNDVlYzBh",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMGMyZmI2ZDNkMzAwOGE1ZDQ5MjQxNmQ0MTVjNjk4OTFk",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Ocean Avenue",
-        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 220200,
       "name": "My Friends Over You",
       "url": "https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Ocean Avenue",
+        "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Where You Want To Be",
-        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "A Decade Under The Influence",
-      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Box Car Racer",
         "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196600,
       "name": "There Is",
       "url": "https://open.spotify.com/track/3oQggzwBp8hqUwgoUcb3wJ"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Where You Want To Be",
+        "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "A Decade Under The Influence",
+      "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Like We Used To",
-      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 143080,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
+      },
+      "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
     },
     {
       "added_at": "2022-06-16 15:49:01",

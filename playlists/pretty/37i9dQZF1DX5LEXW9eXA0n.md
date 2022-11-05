@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: Roy Kim\(로이킴\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,821 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,871 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 72 | [zero gravity](https://open.spotify.com/track/4tKkpWGoNZJXN7tAXV9aI6) | [The Stray](https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6) | [zero gravity](https://open.spotify.com/album/5tXoOQpaHKgNRYobPq6w71) | 4:25 |
 | 73 | [In my Room](https://open.spotify.com/track/5UHQql79LIcoZytAEWdIOq) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [In my Room](https://open.spotify.com/album/6Yom5swCi5Yk88GWjlGK6h) | 3:38 |
 | 74 | [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 |
-| 75 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [규리](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 |
+| 75 | [Memory of You](https://open.spotify.com/track/2Hy6Ajz4Unt8tlBdB8rkk1) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Memory of You](https://open.spotify.com/album/6gkiegeVbHqFstUNj4jwJV) | 3:36 |
 | 76 | [I still can't believe it](https://open.spotify.com/track/74GRNRNGzmV6v9PC7nCCDR) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Bravo, My Life \(Original Soundtrack\), Pt.34](https://open.spotify.com/album/4C9xyKM41a9DLqCWqewSSJ) | 4:16 |
 | 77 | [The night in silence](https://open.spotify.com/track/32LDCA5ph30ulI089AzC0y) | [Banni](https://open.spotify.com/artist/6VkW1NgNpHTQF5mSfUz0RE) | [The night in silence](https://open.spotify.com/album/4h9BrRMz2VyiPRoNAiSGeS) | 4:02 |
 | 78 | [It's all my fault](https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [It's all my fault](https://open.spotify.com/album/26d67oV1i2jC3LX1PWOHHP) | 3:59 |

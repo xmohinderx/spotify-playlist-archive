@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by Indian Indie artists, updated every Wednesday\. Cover: Shrinidhi Ghatate, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,496 likes - 105 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,545 likes - 105 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 34 | [ecstasy](https://open.spotify.com/track/2tIpTQjjwfKvmyW6UbBq9v) | [shae](https://open.spotify.com/artist/20yaj5X7bXqTr7QY1q5VlB) | [ecstasy](https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf) | 3:43 |
 | 35 | [Tu Chahe](https://open.spotify.com/track/3xLhkRS8LZoWMDs6n3LDhe) | [SidB](https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG) | [Tu Chahe](https://open.spotify.com/album/1SO03RxDtHUyrot4yjMJrp) | 2:29 |
 | 36 | [Chai](https://open.spotify.com/track/5mwyz9v3FkTp80xmReZ8Aj) | [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Chai](https://open.spotify.com/album/2FYDaochbkyrnmRLLWtZNc) | 2:23 |
-| 37 | [Tumse Pyaar Hai](https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY), [Vaibhav Sharma](https://open.spotify.com/artist/0NodMMnhAa0idBBJjEahzT) | [Tumse Pyaar Hai](https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y) | 5:17 |
+| 37 | [Tumse Pyaar Hai](https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ) | [Madmast](https://open.spotify.com/artist/33hUZqYtLAw9aOqExpKSOY) | [Tumse Pyaar Hai](https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y) | 5:17 |
 | 38 | [Dil Patang](https://open.spotify.com/track/1RbTj7XTHJ8K4AHjUwcR2h) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dil Patang](https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj) | 3:03 |
 | 39 | [Chale Bhi Jao](https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1) | [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Chale Bhi Jao](https://open.spotify.com/album/6FdPMK1pnbYpAIXFPDI84f) | 3:30 |
 | 40 | [Usne Kaha Tha](https://open.spotify.com/track/0CQqvd7bTiiRTDZzNmjifI) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Usne Kaha Tha](https://open.spotify.com/album/0WGDaag3axxDy7awsxpRq0) | 4:20 |

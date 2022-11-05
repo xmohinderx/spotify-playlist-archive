@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer. Cover: <a href=\"https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ?si=0OWx2PBgRkOGhZ-vZNiOsQ\">beatsbyhand</a>",
-  "num_followers": 2221,
+  "num_followers": 2246,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMDA1YWNmMWZlZTEyYjcwZjdmZThhMzkxNDUxODk5M2Qy",
+  "snapshot_id": "MTY2NDQ4ODc0MCwwMDAwMDAwMGZkMzQ2ZmYwMzM3MDhlODRkYzUzYzY5NjMwODhkNTRi",
   "tracks": [
     {
       "added_at": "2022-09-29 21:59:00",
@@ -105,6 +105,26 @@
       "url": "https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza"
     },
     {
+      "added_at": "2022-09-29 21:59:00",
+      "album": {
+        "name": "Back To Front EP",
+        "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J"
+        }
+      ],
+      "duration_ms": 494359,
+      "name": "Lesedi",
+      "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
+    },
+    {
       "added_at": "2022-09-14 09:57:38",
       "album": {
         "name": "Sweet Nothings",
@@ -127,26 +147,6 @@
       "duration_ms": 273684,
       "name": "Sweet Nothings - Original Mix",
       "url": "https://open.spotify.com/track/1kwnjlPHIkwfFUFXUJcmj3"
-    },
-    {
-      "added_at": "2022-09-29 21:59:00",
-      "album": {
-        "name": "Back To Front EP",
-        "url": "https://open.spotify.com/album/1Lofpeh8jkquMGNs6xZyi0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/4kRL8AsEKtSm09IPyM501J"
-        }
-      ],
-      "duration_ms": 494359,
-      "name": "Lesedi",
-      "url": "https://open.spotify.com/track/41OIxpy4toVR6sDhYwANB8"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-09-14 09:57:38",
       "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
         "name": "To The World",
         "url": "https://open.spotify.com/album/4pQzAwYAdmIKo7xDoKQ35v"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 387494,
       "name": "To The World",
       "url": "https://open.spotify.com/track/6xR2ZU8JUPrSZIKspHYH7A"
-    },
-    {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
     },
     {
       "added_at": "2022-09-14 09:57:38",
@@ -497,26 +497,6 @@
       "url": "https://open.spotify.com/track/79P7XdjZNDLBlbx8GmJcPf"
     },
     {
-      "added_at": "2022-09-14 09:57:38",
-      "album": {
-        "name": "She's On Fire",
-        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Fako",
-          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "She's On Fire",
-      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
-    },
-    {
       "added_at": "2022-09-29 21:59:00",
       "album": {
         "name": "Foniklab Records, Vol. 2 (Compiled By DysFonik)",
@@ -539,6 +519,26 @@
       "duration_ms": 400103,
       "name": "Winter Nights - BlaQ Afro-Kay Remix",
       "url": "https://open.spotify.com/track/0hOOaM11kAyfUnJgDGaD3T"
+    },
+    {
+      "added_at": "2022-09-14 09:57:38",
+      "album": {
+        "name": "She's On Fire",
+        "url": "https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        },
+        {
+          "name": "Fako",
+          "url": "https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1"
+        }
+      ],
+      "duration_ms": 402000,
+      "name": "She's On Fire",
+      "url": "https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn"
     },
     {
       "added_at": "2022-09-14 09:57:38",

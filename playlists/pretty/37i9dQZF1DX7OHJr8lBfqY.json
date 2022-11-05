@@ -1,12 +1,12 @@
 {
   "description": "Add some sabor to your summer! ",
-  "num_followers": 23404,
+  "num_followers": 23419,
   "original_name": "Verano Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDg5ZDM1MzIzYTBhYzZmYTYwMmEwYzQwZDcwNjQ4MDE1",
+  "snapshot_id": "MTY2MTkzMTQ1NywwMDAwMDAwMDM2OTZmZWFjNmFjNDgwZDY2Y2Y0NGRhNWVhMDUzYzk4",
   "tracks": [
     {
       "added_at": "2022-08-31 07:37:37",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
-        "name": "La Serpiente",
-        "url": "https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv"
-      },
-      "artists": [
-        {
-          "name": "Ralphy Dreamz",
-          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 255572,
-      "name": "La Serpiente",
-      "url": "https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
         "name": "Cumbiana",
         "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 250497,
       "name": "Canci\u00f3n para Rub\u00e9n",
       "url": "https://open.spotify.com/track/7dTyStawUmXzQmyUCVFl4p"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
+        "name": "La Serpiente",
+        "url": "https://open.spotify.com/album/6DzpfNjxShOGaJeXrJyipv"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        },
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 255572,
+      "name": "La Serpiente",
+      "url": "https://open.spotify.com/track/4BRG6SROw2Oza2fGZfds6l"
     },
     {
       "added_at": "2022-08-31 07:37:37",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2022-08-31 07:37:37",
       "album": {
+        "name": "Cobarde",
+        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
+    },
+    {
+      "added_at": "2022-08-31 07:37:37",
+      "album": {
         "name": "Pa' Que Te Duela",
         "url": "https://open.spotify.com/album/6TU8wHPVsx9a4byLoZllb7"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 343626,
       "name": "A G\u00fciro - Remix",
       "url": "https://open.spotify.com/track/1oldTqOAlhNaEf58HnyEra"
-    },
-    {
-      "added_at": "2022-08-31 07:37:37",
-      "album": {
-        "name": "Cobarde",
-        "url": "https://open.spotify.com/album/0lT8AZVarqGUEgnLvafwtJ"
-      },
-      "artists": [
-        {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Cobarde",
-      "url": "https://open.spotify.com/track/1alpDKsk2N9ulxPhp3YbyG"
     },
     {
       "added_at": "2022-08-31 07:37:37",

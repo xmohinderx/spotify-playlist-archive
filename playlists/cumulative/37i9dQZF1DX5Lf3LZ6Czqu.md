@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-105 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
+106 songs - 8 hr 6 min - [published](https://open.spotify.com/playlist/0bu5PNgzpzDIKLJOSeiugj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Sahara](https://open.spotify.com/track/1IyZMP5uZjbk8sbGOC98CG) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [The Elephants of Mars](https://open.spotify.com/album/5H7fMVvjyesjzHqRM5GujF) | 4:36 | 2022-10-11 |  |
 | [Same Sun Shines](https://open.spotify.com/track/3PcM0Wc601FYPjLNhbfUme) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Soul Shifter](https://open.spotify.com/album/2kkD4GgJc9OxQ0vheXnCNL) | 4:44 | 2021-05-04 |  |
 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 | 2021-05-04 |  |
-| [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 | 2021-05-04 |  |
+| [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 | 2021-05-04 | 2022-11-05 |
+| [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 | 2021-05-04 |  |
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |
 | [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 |  |
 | [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 | 2021-05-04 |  |

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Tiago Iorc
 
-180 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
+181 songs - 9 hr 1 min - [published](https://open.spotify.com/playlist/5tkcffSh1F75PZZSEVmuv8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 |  |
 | [saudade boa](https://open.spotify.com/track/1Mta8Wl8SCnOv9C6MdTrnr) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:56 | 2022-11-04 |  |
+| [Segredo](https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:26 | 2022-11-04 |  |
 | [Sem Filtro](https://open.spotify.com/track/1UEUzTALPqCT2oDJ3LoQfC) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Sem Filtro](https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1) | 3:49 | 2022-08-01 |  |
 | [SEM MALDADE](https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [SEM MALDADE](https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ) | 2:50 | 2022-06-03 | 2022-08-06 |
 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 | 2022-06-14 | 2022-08-06 |

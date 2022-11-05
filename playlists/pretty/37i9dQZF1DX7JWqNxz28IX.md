@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 🩹 \(in cover, chiello\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,693 likes - 131 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,700 likes - 131 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marylin M.](https://open.spotify.com/track/6uw8FVNAFNNpdXtd0AZl6m) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Moriresti per vivere con me?](https://open.spotify.com/album/61eM5wzEw3GQyN1X1yV4ut) | 2:00 |
-| 2 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/4GYQvU9WiBi4NkA0ZpPpsp) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 |
+| 2 | [Lulu \- Acoustic Version](https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Un bacio \(Deluxe Edition\)](https://open.spotify.com/album/6yrXXxGeHilQRiiNPXuPYh) | 3:26 |
 | 3 | [FIORI MORTI](https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [FIORI MORTI](https://open.spotify.com/album/6OLP8hovLK4ZJSQRkP0g8O) | 2:16 |
 | 4 | [Tornerò](https://open.spotify.com/track/7v6mjoYALPYFqlYQxbsRdj) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Tornerò](https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz) | 2:26 |
 | 5 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 |

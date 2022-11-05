@@ -4,10 +4,11 @@
 
 > Hypnotic bliss.
 
-214 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
+215 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/6Ws09DHou6mC9CFElu0TC9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [432 Hz Peace](https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3) | [Solfeggio Wellness Frequencies](https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x) | [432 Hz Healing Frequencies](https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy) | 3:16 | 2022-10-15 |  |
 | [432hz Manara \(Lighthouse\)](https://open.spotify.com/track/4Q3jMkeCcW0HQlDIAzQYBN) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Manara \(Lighthouse\)](https://open.spotify.com/album/44Bv426Wz9k6NjE9Boh5cG) | 3:01 | 2022-01-12 | 2022-05-06 |
 | [528 Hz Chakra](https://open.spotify.com/track/2ltJWrTVi01JEV0b4ClKLN) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 3](https://open.spotify.com/album/3dbNlAIfcmieBOZrhoI2Ll) | 2:57 | 2022-04-13 | 2022-04-21 |
 | [A Freedom to Be Found Downriver](https://open.spotify.com/track/4mCzvTMB3zYJeRP3G9h1qz) | [X Time](https://open.spotify.com/artist/2shoLmCdBvqoudbh0mv7Cg) | [Ornamental](https://open.spotify.com/album/1R4G0pzQKv4SEK2r0tLQ1W) | 3:32 | 2022-01-12 |  |
@@ -66,7 +67,7 @@
 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 | 2022-10-29 |  |
 | [Double Star](https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod) | [Sophie Jordan](https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K) | [Calm Constellation](https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz) | 4:00 | 2022-01-12 |  |
 | [Dreaming Away](https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Dreaming Away](https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS) | 1:57 | 2022-01-12 | 2022-02-19 |
-| [Drifting Away](https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 3:21 | 2022-01-12 |  |
+| [Drifting Away](https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv) | [Still Dreams](https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR) | [Close To Sleep](https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK) | 3:21 | 2022-01-12 | 2022-11-05 |
 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 | 2022-05-05 |  |
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2022-02-01 |  |

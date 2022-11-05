@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > ft\. angelus
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,558 likes - 113 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,696 likes - 113 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [jm'en bas les couilles](https://open.spotify.com/track/4liOxDRHynaU7pAREKkH0A) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [jm'en bas les couilles](https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7) | 2:22 |
-| 2 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
+| 2 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
 | 3 | [Bad Vibes](https://open.spotify.com/track/1F2E1UQbtiycMmOzOM5YIF) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:43 |
 | 4 | [THERAPY](https://open.spotify.com/track/3t55Jn2LRmQxNxC0q12uwE) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [THERAPY](https://open.spotify.com/album/2C3cFLc3glI5iLjdZWPsHI) | 3:13 |
 | 5 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |

@@ -2,9 +2,9 @@
 
 ### [Nasty Bits](https://open.spotify.com/playlist/37i9dQZF1DX2VvACCrgjrt)
 
-> Real nasty house\. Cover: Malaa
+> Real nasty house\. Cover: DJ Snake
 
-355 songs - 19 hr 1 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
+356 songs - 19 hr 3 min - [published](https://open.spotify.com/playlist/2H083FLJ5ZhYNqx83NgdpT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Gang](https://open.spotify.com/track/5qgVNZ0HnvTu7EK2ycD4vU) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Nogun](https://open.spotify.com/artist/5pRtinjGliVYMsnN5M8smL) | [Gang](https://open.spotify.com/album/4PPoiXbpD281VlZw9qvowK) | 2:21 | 2022-03-18 | 2022-04-21 |
 | [Gang Gang](https://open.spotify.com/track/7ftiw2BSQHx7snbX0llu6a) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA) | [Gang Gang](https://open.spotify.com/album/2UoDlleSyih3WgzHZYBElH) | 3:33 | 2022-10-28 |  |
 | [Get Back](https://open.spotify.com/track/1wb3vmzdosCuTwmbe5MYyC) | [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt) | [Get Back](https://open.spotify.com/album/2SvCL6QsVaFiRiEKwwLAas) | 2:24 | 2022-03-04 |  |
-| [Get Crunk](https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Get Crunk](https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1) | 3:08 | 2022-03-18 |  |
+| [Get Crunk](https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX) | [The Galaxy](https://open.spotify.com/artist/1a7aOqigZ5aWIaagMLlHC4), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [Get Crunk](https://open.spotify.com/album/0VLd7OnvNoJOdYPOPFzfC1) | 3:08 | 2022-03-18 | 2022-11-05 |
 | [Get Down](https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Night Bass](https://open.spotify.com/artist/5r8uFFa8SgWYY9otnRmLlw) | [Night Bass Freshmen Vol 7](https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9) | 3:33 | 2022-05-06 | 2022-09-10 |
 | [Get In](https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy) | [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2) | [Get In](https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu) | 3:56 | 2021-10-29 | 2022-04-21 |
 | [Get It](https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [Get It](https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT) | 3:38 | 2022-03-25 |  |
@@ -227,6 +227,7 @@
 | [Need You](https://open.spotify.com/track/242Vk1BeoFnD508Nax7hij) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Phlegmatic Dogs](https://open.spotify.com/artist/3g5Lhsq7cSJEK39BzKgIUe) | [Need You](https://open.spotify.com/album/3BBduSXaJ66GdlH47TkUZw) | 4:11 | 2021-10-29 | 2022-05-28 |
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2021-10-29 |  |
 | [Night Rider](https://open.spotify.com/track/5odJuVd3QpK7A96wfdf421) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Night Rider](https://open.spotify.com/album/1QBP98nDDITKAHGapftlBj) | 3:06 | 2021-10-29 | 2022-03-23 |
+| [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-04 |  |
 | [No Competition](https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [No Competition](https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE) | 3:24 | 2022-09-02 |  |
 | [No Stoppin](https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V) | [No Stoppin](https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS) | 3:05 | 2022-03-18 | 2022-10-30 |
 | [No Time](https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [No Time](https://open.spotify.com/album/0GwrfKSTdg8sICTbdhwXrN) | 3:20 | 2021-10-29 | 2022-03-26 |

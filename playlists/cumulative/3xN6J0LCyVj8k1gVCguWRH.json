@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 156416,
       "name": "12:21",
       "url": "https://open.spotify.com/track/3BV086gHae7xZbHiO3G5TB"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 160754,
       "name": "90s Sitcom",
       "url": "https://open.spotify.com/track/1zz6COVIJyrzmYXLdJxlTl"
@@ -3939,7 +3939,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 179882,
       "name": "BlueByrd",
       "url": "https://open.spotify.com/track/7wo71YSb8vfhyoEN5iSKSp"
@@ -5885,7 +5885,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 265186,
       "name": "Closer to Myself",
       "url": "https://open.spotify.com/track/1Om1oe5CW2Kkzd3LFIfJ2b"
@@ -5965,7 +5965,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 169537,
       "name": "Coincide",
       "url": "https://open.spotify.com/track/0HOGA0XMC5E33f3SdybLba"
@@ -6023,7 +6023,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 171500,
       "name": "Cold Shoulders",
       "url": "https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R"
@@ -7315,7 +7315,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 167573,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/7mgGg0qqHRyksMsl8BC3ok"
@@ -8537,7 +8537,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 185345,
       "name": "Drift",
       "url": "https://open.spotify.com/track/3ilHYf43OdRBv3HD90mbAy"
@@ -9345,7 +9345,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 152436,
       "name": "Fairy Tales",
       "url": "https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu"
@@ -19616,6 +19616,24 @@
     },
     {
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2Y4NkvjZDlb0YqscCmdyvd"
+      },
+      "artists": [
+        {
+          "name": "Stasi",
+          "url": "https://open.spotify.com/artist/3wLTDOZ4engaaky0x6s8tR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178888,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3mYikPpav7ZbeT3Pel0s6K"
+    },
+    {
+      "album": {
         "name": "Minus Nine",
         "url": "https://open.spotify.com/album/2K6xyilbeXDJVcbkAK5SMe"
       },
@@ -24855,7 +24873,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 197988,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1F4Q7cYodZhXfNYZkbI5O1"
@@ -30007,7 +30025,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 198750,
       "name": "There For You",
       "url": "https://open.spotify.com/track/0FGmQsqCgNEQsj7QS4GZJl"
@@ -30155,7 +30173,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 139428,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/41AOkJlfivoqLJkRB24gSg"
@@ -31821,7 +31839,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 157700,
       "name": "Versus",
       "url": "https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD"
@@ -32813,7 +32831,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 174160,
       "name": "what if you break my heart again",
       "url": "https://open.spotify.com/track/7Fr2RRp9HBqfXdC6n3mMhB"
@@ -34271,7 +34289,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 185801,
       "name": "You're Not Sorry",
       "url": "https://open.spotify.com/track/3qmwT1uepU0RWqRYHpLOOb"

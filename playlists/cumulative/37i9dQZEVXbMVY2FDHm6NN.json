@@ -6,6 +6,24 @@
   "tracks": [
     {
       "album": {
+        "name": "0321",
+        "url": "https://open.spotify.com/album/1BoE1TWkVoegvrUClT0YcB"
+      },
+      "artists": [
+        {
+          "name": "space x",
+          "url": "https://open.spotify.com/artist/5MfPm7ai5Y5vRePZ4MC9XL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194743,
+      "name": "0321",
+      "url": "https://open.spotify.com/track/1pbb71pOKB5iqfkju4NmPj"
+    },
+    {
+      "album": {
         "name": "After LIKE",
         "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
       },
@@ -419,7 +437,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
@@ -560,6 +578,24 @@
     },
     {
       "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "album": {
         "name": "BORN PINK",
         "url": "https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM"
       },
@@ -669,7 +705,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 194206,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
@@ -691,10 +727,32 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 239307,
       "name": "\u4e0d\u5c0f\u5fc3\u611b\u4e0a\u4f60 Accidentally in Love ft. \u9b4f\u5982\u8431 waa wei",
       "url": "https://open.spotify.com/track/0Gw3VYIA5RbpZVnOYUiLsP"
+    },
+    {
+      "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/2tU8bZsg1ZnPRZO1gfGdpZ"
+      },
+      "artists": [
+        {
+          "name": "Sweet John",
+          "url": "https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "\u4e0d\u5c0f\u5fc3\u611b\u4e0a\u4f60 ft. \u9b4f\u5982\u8431 waa wei",
+      "url": "https://open.spotify.com/track/49vNlEFxO7Uv95ZNC9stIP"
     },
     {
       "album": {
@@ -853,7 +911,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 279704,
       "name": "\u5929\u7a7a\u6c92\u6709\u6975\u9650",
       "url": "https://open.spotify.com/track/4nivAUgvOrWdkv44kjAlxs"
@@ -1015,7 +1073,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 250941,
       "name": "\u611b\u4e0a\u4f60\u7b97\u6211\u8ce4",
       "url": "https://open.spotify.com/track/3jdy4aOla1dwYIqwp69JJN"
@@ -1163,6 +1221,24 @@
       "duration_ms": 278914,
       "name": "\u6700\u5f8c\u4e00\u5802\u8ab2 - \u300a\u5abd,\u5225\u9b27\u4e86!\u300b\u5f71\u96c6\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW"
+    },
+    {
+      "album": {
+        "name": "\u5931\u7720\u75c7\u5019\u7fa4",
+        "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229523,
+      "name": "\u6709\u4e9b",
+      "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
     },
     {
       "album": {

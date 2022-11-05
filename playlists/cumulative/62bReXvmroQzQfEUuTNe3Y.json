@@ -6088,6 +6088,28 @@
     },
     {
       "album": {
+        "name": "What You Say",
+        "url": "https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Polari",
+          "url": "https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9"
+        },
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158563,
+      "name": "What You Say",
+      "url": "https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt"
+    },
+    {
+      "album": {
         "name": "What's in My Head",
         "url": "https://open.spotify.com/album/3qgnUK6AeZsrwwgGTyMACQ"
       },

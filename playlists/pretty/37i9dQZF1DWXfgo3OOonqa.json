@@ -1,6 +1,6 @@
 {
   "description": "spooky season \ud83c\udf83",
-  "num_followers": 266077,
+  "num_followers": 266094,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "MTY2NzUyMDA1NywwMDAwMDAwMGUyOGRkYzBiOGM3ODBkNzUzYjU5ZGJiMWUyMDU5MDMx",
   "tracks": [
+    {
+      "added_at": "2022-11-04 00:00:57",
+      "album": {
+        "name": "DAY ONE",
+        "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "DAY ONE",
+      "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
+    },
     {
       "added_at": "2022-11-04 00:00:57",
       "album": {
@@ -143,7 +159,7 @@
     {
       "added_at": "2022-11-04 00:00:57",
       "album": {
-        "name": "Var \u00e4r du",
+        "name": "Var \u00c4r Du",
         "url": "https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4"
       },
       "artists": [
@@ -153,7 +169,7 @@
         }
       ],
       "duration_ms": 145777,
-      "name": "Var \u00e4r du",
+      "name": "Var \u00c4r Du",
       "url": "https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED"
     },
     {
@@ -505,7 +521,7 @@
         },
         {
           "name": "Luwapp",
-          "url": "https://open.spotify.com/artist/5GzNgix4Ps9dlIYBqnSQGp"
+          "url": "https://open.spotify.com/artist/3RHR0RmiXBuc3BBJOrHBj8"
         }
       ],
       "duration_ms": 137209,

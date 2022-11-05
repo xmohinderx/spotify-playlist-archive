@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-201 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
+202 songs - 9 hr 21 min - [published](https://open.spotify.com/playlist/7okZyc3inRIRHWsMfSeJko)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 | 2022-05-13 |  |
 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 | 2022-05-13 | 2022-06-10 |
 | [Silver City](https://open.spotify.com/track/3xTZpkPtRwNZ4XSyx53cuo) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Silver City](https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE) | 2:59 | 2022-05-13 | 2022-06-10 |
-| [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 |  |
+| [Sky](https://open.spotify.com/track/3TemtSpYdgJcDU6SotuNXV) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/3B4PBBGRzwgC7rEvljwBZ0) | 1:53 | 2022-10-28 |  |
+| [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-11-05 |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
 | [Square One](https://open.spotify.com/track/0sI1V9eHnuebwAxmGqZ31d) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Break of Day](https://open.spotify.com/album/1k6gJNxCkFgHbdWu8C00HR) | 2:16 | 2022-05-13 |  |

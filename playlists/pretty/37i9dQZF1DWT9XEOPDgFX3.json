@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Field Medic",
-  "num_followers": 52425,
+  "num_followers": 52501,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMGMyYjA2ZDIzMzk0NzRhNTc5MTA0NjMxYjAwYTk5MDY0",
+  "snapshot_id": "MTY2NjkyOTYwMCwwMDAwMDAwMDJkYzEzMmJjNGZkYjkzZGVmMmE2MTQ5ZmU3N2RjZjgy",
   "tracks": [
     {
       "added_at": "2022-10-14 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Cool Dry Place",
-      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
+      },
+      "artists": [
+        {
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Cool Dry Place",
+      "url": "https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 166033,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Air Forces",
         "url": "https://open.spotify.com/album/7aRQJlM2xsWAvVJPxIcnxn"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 186509,
       "name": "Wind On Tin",
       "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 166033,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Nobody Lives Here Anymore",
-        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Every Once In A While",
-      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Dr. Johann Averies",
         "url": "https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 233984,
       "name": "Dr. Johann Averies",
       "url": "https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Nobody Lives Here Anymore",
+        "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Every Once In A While",
+      "url": "https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+        "name": "Serpentine Prison (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Serpentine Prison (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
       },
       "artists": [
         {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
       },
       "artists": [
         {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+          "name": "j solomon",
+          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
         }
       ],
-      "duration_ms": 215793,
-      "name": "Pick Apart",
-      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+      "duration_ms": 235587,
+      "name": "Gossamer",
+      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 215793,
+      "name": "Pick Apart",
+      "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z"
-      },
-      "artists": [
-        {
-          "name": "j solomon",
-          "url": "https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4"
-        }
-      ],
-      "duration_ms": 235587,
-      "name": "Gossamer",
-      "url": "https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "By Myself",
-        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "By Myself",
-      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Less Ready to Go",
         "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
       },
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Kings & Queens",
-        "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
-      },
-      "artists": [
-        {
-          "name": "Harmony Byrne",
-          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
-        }
-      ],
-      "duration_ms": 278753,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Let The Radio Play",
         "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
       },
@@ -1583,6 +1551,38 @@
       "duration_ms": 209634,
       "name": "Let The Radio Play",
       "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "By Myself",
+        "url": "https://open.spotify.com/album/5qU1thgxuqz31SYLlNvULO"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/369SUEQN8ghsXx46OfRITf"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "Kings & Queens",
+        "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
+      },
+      "artists": [
+        {
+          "name": "Harmony Byrne",
+          "url": "https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx"
+        }
+      ],
+      "duration_ms": 278753,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "To Enjoy Is the Only Thing",
-        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
-      },
-      "artists": [
-        {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
         "name": "Memory of a Cut off Head",
         "url": "https://open.spotify.com/album/0kxeP3unSnuW8GTRzL4MsS"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 287280,
       "name": "Memory of a Cut off Head",
       "url": "https://open.spotify.com/track/6x2WOYH0DgXdTi8vg0WivN"
+    },
+    {
+      "added_at": "2022-10-14 04:00:00",
+      "album": {
+        "name": "To Enjoy Is the Only Thing",
+        "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Spitting Image",
-        "url": "https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb"
+        "name": "Try Harder",
+        "url": "https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg"
       },
       "artists": [
         {
-          "name": "Sharon Silva",
-          "url": "https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S"
+          "name": "Aerial East",
+          "url": "https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi"
         }
       ],
-      "duration_ms": 259674,
-      "name": "Spitting Image",
-      "url": "https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O"
+      "duration_ms": 206703,
+      "name": "The Things We Build",
+      "url": "https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ"
     },
     {
       "added_at": "2022-10-14 04:00:00",
@@ -1999,18 +1999,18 @@
     {
       "added_at": "2022-10-14 04:00:00",
       "album": {
-        "name": "Try Harder",
-        "url": "https://open.spotify.com/album/01H9OXsnnSzhNhYEgGtqFg"
+        "name": "Spitting Image",
+        "url": "https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb"
       },
       "artists": [
         {
-          "name": "Aerial East",
-          "url": "https://open.spotify.com/artist/7ivkYuFP3YZtNylAbefMgi"
+          "name": "Sharon Silva",
+          "url": "https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S"
         }
       ],
-      "duration_ms": 206703,
-      "name": "The Things We Build",
-      "url": "https://open.spotify.com/track/4qAMGjxNpkBYcGQ2Y1qLPJ"
+      "duration_ms": 259674,
+      "name": "Spitting Image",
+      "url": "https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O"
     },
     {
       "added_at": "2022-10-14 04:00:00",

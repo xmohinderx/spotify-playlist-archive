@@ -756,6 +756,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4tb0hEqZZIGZjlqXT5UtAT"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211752,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/56s8ABk1WrAOHqkCjHpOlK"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/7c8BQ8VwHYGks8qo0sCIAW"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.   Get your fill of Afrobeats and Bible right here!  Cover: Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,012 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,131 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 23 | [Power](https://open.spotify.com/track/1gt1miK4EskoPfMppc5pNt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Power](https://open.spotify.com/album/1YtO5NUhasMNMJW6tiwJqY) | 3:17 |
 | 24 | [Circles](https://open.spotify.com/track/5u4wkxDhlMSugV5fCV3uHP) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Circles](https://open.spotify.com/album/2IPjoxviHjiux5CSiOiH6x) | 2:25 |
 | 25 | [Relying](https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Relying](https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL) | 3:44 |
-| 26 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 |
-| 27 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 |
+| 26 | [Satisfy](https://open.spotify.com/track/4asSIgSVXvZejEJ9B3yvIg) | [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Satisfy](https://open.spotify.com/album/6drp9uGaG3IygzSir4EKpr) | 3:04 |
+| 27 | [Lay Low](https://open.spotify.com/track/0ysuf6je8hskFtsHob6KQI) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Lay Low](https://open.spotify.com/album/45lbj08eBm9ZOnlGzBToEd) | 2:54 |
 | 28 | [Unguilty Pleasure](https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Unguilty Pleasure](https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0) | 3:13 |
 | 29 | [Siyahamba](https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc) | [Tay Collier](https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk), [Sy\-1](https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [Siyahamba](https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6) | 2:59 |
 | 30 | [Akorede](https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG), [Kelly Lyon](https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Akorede](https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE) | 4:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 54 | [Yakpa](https://open.spotify.com/track/6vojGMaqWIWN18K1yE5oLG) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Yakpa](https://open.spotify.com/album/2fe6rgi33vQX1X4Zoesebh) | 2:43 |
 | 55 | [Light](https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0) | [Light](https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC) | 2:18 |
 
-Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMDcxZmI5ZjNhZTRlODU5ZjExNTY4Nzk4ZTgwZTVmNjky`
+Snapshot ID: `MTY2NDYwMTQxNCwwMDAwMDAwMDFlZWM0NDZhNGZmZjM3YWVhY2Y1MTliMmYzNGEwZmEy`

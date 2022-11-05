@@ -2920,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "DAY ONE",
+        "url": "https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj"
+      },
+      "artists": [
+        {
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "DAY ONE",
+      "url": "https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo"
+    },
+    {
+      "album": {
         "name": "DE GHETTO",
         "url": "https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H"
       },
@@ -8476,7 +8494,7 @@
         },
         {
           "name": "Luwapp",
-          "url": "https://open.spotify.com/artist/5GzNgix4Ps9dlIYBqnSQGp"
+          "url": "https://open.spotify.com/artist/3RHR0RmiXBuc3BBJOrHBj8"
         }
       ],
       "date_added": "2022-10-20",
@@ -12368,7 +12386,7 @@
     },
     {
       "album": {
-        "name": "Var \u00e4r du",
+        "name": "Var \u00c4r Du",
         "url": "https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4"
       },
       "artists": [
@@ -12381,7 +12399,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 145777,
-      "name": "Var \u00e4r du",
+      "name": "Var \u00c4r Du",
       "url": "https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED"
     },
     {

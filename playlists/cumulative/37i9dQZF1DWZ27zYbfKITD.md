@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-61 songs - 3 hr 11 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
+62 songs - 3 hr 15 min - [published](https://open.spotify.com/playlist/11XWwRk7eQQIfj4KpfiOmZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn) | 1:46 | 2022-08-05 |  |
 | [Not Alone](https://open.spotify.com/track/00L9p3dKK3ufNyua3pzVeC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \- The Final Chapter \(Music From The Original TV Series\)](https://open.spotify.com/album/18Jd3iAcykSIDGTA0vanR3) | 3:16 | 2022-10-24 |  |
 | [Ocarina of Time](https://open.spotify.com/track/7jgu0nvuW4Xp7e0zQqUKeW) | [Super Piano 64](https://open.spotify.com/artist/7M1OtLgGeX29Ivo1llzubY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Unplugged](https://open.spotify.com/artist/3ifS6o130ZA25mztvyRq4M) | [Zelda & Piano – Ocarina of Time](https://open.spotify.com/album/7s7EhzRQESMrsIrq7nJLDI) | 2:27 | 2022-09-09 |  |
+| [One Day: Piano Suite](https://open.spotify.com/track/7yjawyAnSGGV6ScksB6v0g) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [One Day: Piano Suite](https://open.spotify.com/album/7F2phIIa9WNbzL9Iy4MYuC) | 3:53 | 2022-11-04 |  |
 | [Prince Phillip](https://open.spotify.com/track/6pGHTRfuXLZjta0Kdc9wNG) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Maleficent \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NCaxImo95pQKUonZwKtRA) | 2:29 | 2022-08-05 |  |
 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 | 2022-08-05 |  |
 | [Romance Suite \(From the Motion Picture "Promising Young Woman"\)](https://open.spotify.com/track/7HYsIVxaKJtbCfaPDj8hMy) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Score\)](https://open.spotify.com/album/5tw3WvlmNGNBACzwUSPbJd) | 3:32 | 2022-08-05 |  |

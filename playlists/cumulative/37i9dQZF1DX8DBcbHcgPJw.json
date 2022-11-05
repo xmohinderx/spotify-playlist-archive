@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 182952,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/6acWfDtGAr6bGzVFqmRozj"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 132936,
       "name": "Canci\u00f3n para una Amiga",
       "url": "https://open.spotify.com/track/1VTg97n1ntojItZCkm9KEO"
@@ -1755,7 +1755,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1985,6 +1985,28 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "album": {
+        "name": "Extasis",
+        "url": "https://open.spotify.com/album/6KQVY8bbb2VjdSbFE3KPtA"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        },
+        {
+          "name": "Kamila",
+          "url": "https://open.spotify.com/artist/1CJsbK8kNvbR9tKPHwTDn6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Extasis",
+      "url": "https://open.spotify.com/track/4wKKzfa2DZKIc5UWi4jacj"
     },
     {
       "album": {
@@ -4040,6 +4062,28 @@
     },
     {
       "album": {
+        "name": "Pegadito",
+        "url": "https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165028,
+      "name": "Pegadito",
+      "url": "https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd"
+    },
+    {
+      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
       },
@@ -5937,7 +5981,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-01",
+      "date_removed": null,
       "duration_ms": 123361,
       "name": "Una Cumbia",
       "url": "https://open.spotify.com/track/5yQMJ4KDVaTlTQ7lVq14aO"

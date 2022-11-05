@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Pentatonix",
+  "description": "'Tis the season! All new holiday releases. Cover: Dan & Shay",
   "name": "New Music Holiday",
   "published_playlist_ids": [
     "5LfWH4HC2jeu9j5xLz96yV"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 171386,
       "name": "(Everybody\u2019s Waitin\u2019 For) The Man With The Bag",
       "url": "https://open.spotify.com/track/4erjTiN8cQOBt7vSk7xP1k"
@@ -142,6 +142,28 @@
     },
     {
       "album": {
+        "name": "Almost Too Early For Christmas",
+        "url": "https://open.spotify.com/album/6L73BGZiFb0G5bhAQGy9Mf"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183406,
+      "name": "Almost Too Early For Christmas (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/68FoOz11KDYaK2MITDwHkG"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD"
       },
@@ -232,6 +254,24 @@
     },
     {
       "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/4RC2Li1E4Z7w2N8BpnCAAr"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133725,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/10BOzxObaY3OigrOWW6aiO"
+    },
+    {
+      "album": {
         "name": "Bring on Christmas Day",
         "url": "https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK"
       },
@@ -283,6 +323,24 @@
       "duration_ms": 200502,
       "name": "Christmas",
       "url": "https://open.spotify.com/track/3UGqwSBKsqP5SqJIFnDSzy"
+    },
+    {
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/0pZykWJQyWBjOY8c2RSRv2"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/54H84HFq1hUDEOcYxbTjrL"
     },
     {
       "album": {
@@ -724,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/2jURLzMPgGdJYJh0WZqGT8"
       },
@@ -793,6 +869,24 @@
       "duration_ms": 237135,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/1cKKOUekhGu2JblwwUiOJS"
+    },
+    {
+      "album": {
+        "name": "dear santa",
+        "url": "https://open.spotify.com/album/5895JDGi3kkWEvkBf8LE7z"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197778,
+      "name": "dear santa",
+      "url": "https://open.spotify.com/track/0kAllljYVZIuntRxyw9KOF"
     },
     {
       "album": {
@@ -949,7 +1043,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-28",
+      "date_removed": null,
       "duration_ms": 158724,
       "name": "Favorite Time of the Year",
       "url": "https://open.spotify.com/track/3lGUPm3V9xk8748Ooh4qGN"
@@ -1167,7 +1261,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 265546,
       "name": "Happiness (Is Christmas) / Christmas Time Is Here - Medley",
       "url": "https://open.spotify.com/track/6KkaVflH2WXEa6m4lweJ1q"
@@ -1501,6 +1595,24 @@
       "duration_ms": 175000,
       "name": "Hell of a Holiday",
       "url": "https://open.spotify.com/track/04ljVdZAfCyB0REJQ9fcmk"
+    },
+    {
+      "album": {
+        "name": "Holiday Party",
+        "url": "https://open.spotify.com/album/6KqZkIWf9uZAPTgH46kYx1"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Holiday Party",
+      "url": "https://open.spotify.com/track/2ZiKXOsDvx9TfXIJT5cZGN"
     },
     {
       "album": {
@@ -1982,6 +2094,28 @@
     },
     {
       "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/3dVgFCk9L9iGQmKDT0e3jG"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Katharine McPhee",
+          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140765,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/6kuAR8NorIkZ2q7bSAvk8i"
+    },
+    {
+      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -1997,6 +2131,28 @@
       "duration_ms": 116677,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0tTwVivY5U4GxlnTT5vxNb"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
+        "url": "https://open.spotify.com/album/1xbhKHimtN8dGTqOqf1EUe"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+          "name": "Ali Tomineek",
+          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176279,
+      "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
+      "url": "https://open.spotify.com/track/7qn4ODYsNqM60NuCp3FbXy"
     },
     {
       "album": {
@@ -2218,6 +2374,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/7iFQc0QyPxE8ZCvTJqmCXH"
+      },
+      "artists": [
+        {
+          "name": "Alexa Cappelli",
+          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200070,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/1t1jP68mqJzqnjU7RtkoIo"
+    },
+    {
+      "album": {
         "name": "A Very Backstreet Christmas",
         "url": "https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T"
       },
@@ -2269,6 +2443,24 @@
       "duration_ms": 248066,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/5heNmoqcn6AO5aIf4lvfgp"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo"
+      },
+      "artists": [
+        {
+          "name": "Sophia Scott",
+          "url": "https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168363,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk"
     },
     {
       "album": {
@@ -2663,7 +2855,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 216042,
       "name": "Mr. Christmas",
       "url": "https://open.spotify.com/track/20JGzStdmjMwqOZw4w7Grt"
@@ -2988,6 +3180,42 @@
     },
     {
       "album": {
+        "name": "santa baby",
+        "url": "https://open.spotify.com/album/1fqQ3f6kH5mvh6mK1XWGVt"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205304,
+      "name": "santa baby",
+      "url": "https://open.spotify.com/track/4RAVnFrYEAsI0C3blilR1Z"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Back In Town",
+        "url": "https://open.spotify.com/album/0EEfg4RCyu9GS4yIjY1KPw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138797,
+      "name": "Santa Claus Is Back In Town",
+      "url": "https://open.spotify.com/track/7DULSpZJEnYQEE2wD6Z5T9"
+    },
+    {
+      "album": {
         "name": "Home for the Holidays with DCappella",
         "url": "https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ"
       },
@@ -3007,6 +3235,24 @@
       "duration_ms": 149573,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/03yVoDvmEN4eWzJjI2SqlJ"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Coming To Town (Fireside Version)",
+        "url": "https://open.spotify.com/album/3PsuS5HhHPJ8FRqID7q0Yx"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212957,
+      "name": "Santa Claus Is Coming To Town (Fireside Version)",
+      "url": "https://open.spotify.com/track/007cHCs8dPQmtrrb4bygGJ"
     },
     {
       "album": {
@@ -3167,6 +3413,24 @@
       "duration_ms": 141009,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7d5mB4fn8vIM5qGVr5FDy2"
+    },
+    {
+      "album": {
+        "name": "Christmas Morning",
+        "url": "https://open.spotify.com/album/6RSTNJJCS89yRGNTSfTHrq"
+      },
+      "artists": [
+        {
+          "name": "Megan Nicole",
+          "url": "https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126169,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/5JRolBxDKXhuRyltWSxsp9"
     },
     {
       "album": {

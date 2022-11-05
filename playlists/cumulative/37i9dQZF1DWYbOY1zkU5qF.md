@@ -4,7 +4,7 @@
 
 > Versiones acústicas de tus canciones favoritas.
 
-112 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/51QoCsvUCPIdFTHJouvKC6)
+113 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/51QoCsvUCPIdFTHJouvKC6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 | 2022-02-18 |  |
 | [Me Vas a Extrañar](https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:59 | 2022-02-18 |  |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV) | 5:48 | 2022-02-18 |  |
-| [Mi Razón de Ser \- Acústico Desde Casa](https://open.spotify.com/track/3I2MSXyC7Czx4CKNNf0YeZ) | [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Mi Razón de Ser \(Acústico Desde Casa\)](https://open.spotify.com/album/6RNg9L9fNZhDphr25ZgUBH) | 3:47 | 2022-02-18 |  |
+| [Mi Razón de Ser](https://open.spotify.com/track/1GbzftEGfmPUFQn6LVqfIL) | [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Desde Casa](https://open.spotify.com/album/2Akt2X5h1J97VH41Xyi4WJ) | 3:47 | 2022-02-18 |  |
+| [Mi Razón de Ser \- Acústico Desde Casa](https://open.spotify.com/track/3I2MSXyC7Czx4CKNNf0YeZ) | [Mane de la Parra](https://open.spotify.com/artist/0HADOzU8NWOajMtJvwG4Ck) | [Mi Razón de Ser \(Acústico Desde Casa\)](https://open.spotify.com/album/6RNg9L9fNZhDphr25ZgUBH) | 3:47 | 2022-02-18 | 2022-11-05 |
 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 | 2022-02-18 |  |
 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 | 2022-02-18 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2022-02-18 |  |

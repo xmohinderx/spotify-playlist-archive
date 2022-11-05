@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Newsboys
 
-254 songs - 15 hr 50 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
+255 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/4vhwseXb2IJBghYVawMgmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Old Church Basement \(feat\. Dante Bowe\)](https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 6:42 | 2022-02-25 | 2022-04-29 |
 | [On And On \- Radio](https://open.spotify.com/track/1FbtX9rEUVAanT7FcbIjA6) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [On And On](https://open.spotify.com/album/6peZop0t6Zm3unhWtyqEoO) | 3:26 | 2022-06-24 |  |
 | [On Our Way \(feat\. Sam Wesley\)](https://open.spotify.com/track/0DSV7Ce0wbQrj85N3sNmnd) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Sam Wesley](https://open.spotify.com/artist/4vqMBTfYzKa1c5TOTim9mO) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 3:26 | 2022-02-25 | 2022-06-11 |
-| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-01 |  |
+| [One Heart at a Time](https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [One Heart at a Time](https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG) | 4:22 | 2022-10-01 | 2022-11-05 |
 | [Only Ever Always](https://open.spotify.com/track/2XwqIUqh74AJYwdE6t8NnR) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 2:59 | 2022-04-22 | 2022-04-29 |
 | [Our Eyes Are on You \(feat\. Elle Limebear\) \- Radio Edit](https://open.spotify.com/track/0oZhJWU3KrgOMIMulgQauu) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are on You \(feat\. Elle Limebear\) \[Radio Edit\]](https://open.spotify.com/album/5NRfD3h5nnigXlXZRojIeH) | 4:24 | 2022-07-08 | 2022-10-04 |
 | [Our Eyes Are On You \- Radio Edit](https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Our Eyes Are On You](https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw) | 4:24 | 2022-02-25 | 2022-07-29 |
@@ -246,6 +246,7 @@
 | [What I'm Waiting For](https://open.spotify.com/track/6WJ8948zRpfEmUMgxGrAoK) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:48 | 2022-02-25 |  |
 | [When I Say Yes](https://open.spotify.com/track/09wek0QXMM5ZjZ2B3JAcp4) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [When I Say Yes](https://open.spotify.com/album/4zZYF6eOE6JAdox1MQJUCp) | 3:17 | 2022-08-26 |  |
 | [Where The Glory Is](https://open.spotify.com/track/6eAXObWWakFMaTGU9AKhtB) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/5cot0YnDeFz0VyuLcquuP9) | 4:30 | 2022-10-01 | 2022-10-22 |
+| [Where The Glory Is](https://open.spotify.com/track/6q3EbtWexNnSwFMnN3ieuO) | [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Where The Glory Is](https://open.spotify.com/album/2aCqdPVHym6UbK4p1eHAtm) | 4:30 | 2022-10-01 |  |
 | [While We Wait](https://open.spotify.com/track/6uDRIgUlYCYub2pfDuE0dl) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [While We Wait](https://open.spotify.com/album/3OjfM80cjDGpXnw0okEmLI) | 3:19 | 2022-03-19 |  |
 | [Who I Am](https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO) | 3:28 | 2022-10-01 |  |
 | [Who I Am](https://open.spotify.com/track/7p1QBR2jcSDDrknfkuxkYE) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Who I Am](https://open.spotify.com/album/71PBwQLNUhuc6keb5RDwoh) | 3:28 | 2022-03-19 | 2022-04-29 |

@@ -1040,6 +1040,28 @@
     },
     {
       "album": {
+        "name": "No Man's Land",
+        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Krishna Bhatt",
+          "url": "https://open.spotify.com/artist/3x6qJB8eMJybBLKmqKKVtl"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Medusa's Refrain - part 1",
+      "url": "https://open.spotify.com/track/5q9AFuVIZnqwpfVUo5daET"
+    },
+    {
+      "album": {
         "name": "Music for the Gift",
         "url": "https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su"
       },
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 520293,
       "name": "Mongolian Winds",
       "url": "https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1"
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 458436,
       "name": "Part III - Live 1974",
       "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
@@ -1361,7 +1383,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 336810,
       "name": "Part VIII - Live 1974",
       "url": "https://open.spotify.com/track/15scPBj0oF0GvorNBhPn93"
@@ -1529,7 +1551,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 404000,
       "name": "Remember This, O Mind; II. Only A Day",
       "url": "https://open.spotify.com/track/029dkxx7jlgbuDw17qmYtD"
@@ -1737,6 +1759,28 @@
       "duration_ms": 150213,
       "name": "Summer Fling",
       "url": "https://open.spotify.com/track/3aJIumuPZqaew8jF6Fy3vu"
+    },
+    {
+      "album": {
+        "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
+        "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613746,
+      "name": "Sunrise Of The Planetary Dream Collector - 1985 Version",
+      "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
     },
     {
       "album": {

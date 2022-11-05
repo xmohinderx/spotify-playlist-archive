@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Planet Hemp
 
-239 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
+240 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Meu Funeral](https://open.spotify.com/track/0nwbEO0x8BsTOytFMHiEwk) | [Meu Funeral](https://open.spotify.com/artist/6GEXLxhbbkxEeYkL9sl64X) | [Tropicore Hardcal](https://open.spotify.com/album/2ZoeMMRAmtpvfJBj7ieso6) | 2:28 | 2022-05-13 | 2022-05-28 |
 | [Mina](https://open.spotify.com/track/4YeJk4DpwDJmUIblg5uIMf) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Mina](https://open.spotify.com/album/3b37659m8j3fvRca3zrjAX) | 2:57 | 2022-01-14 |  |
 | [Minha Essência é Essa](https://open.spotify.com/track/1nfY3lPdBRWKpcUD0IIes8) | [The Kira Justice](https://open.spotify.com/artist/0h00Bh6AN0E9SOnMVInpcN) | [Minha Essência é Essa](https://open.spotify.com/album/7BhRjF9uhRpzx6qgpXVeRm) | 3:49 | 2022-01-14 | 2022-10-01 |
+| [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 | 2022-11-04 |  |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [Na Hora Do Almoço / A Palo Seco](https://open.spotify.com/track/4Bvvp40pmZiwJjLrcNAqby) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Paulo Netto](https://open.spotify.com/artist/6ebH5jdXkPZICrWB9Tq5gm) | [Paulo Netto Canta Belchior](https://open.spotify.com/album/6kzqkPyiNU1pejNpCLfMPp) | 5:59 | 2022-09-02 |  |
 | [Namorade](https://open.spotify.com/track/41kJiYsXVP6po4yrkfbc3K) | [Velhas Virgens](https://open.spotify.com/artist/1NG0y4OWAFilBtNB2Ey9jK) | [Namorade](https://open.spotify.com/album/0bm7sKgv6UxeAoYGlS3LtS) | 2:12 | 2022-06-03 | 2022-06-11 |
@@ -217,7 +218,7 @@
 | [Surreal Virou Normal](https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4) | [Brothers Of Brazil](https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6), [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR), [João Suplicy](https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq) | [Surreal Virou Normal](https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58) | 2:35 | 2022-01-21 |  |
 | [sussurro](https://open.spotify.com/track/2duAOylqzXoGG7jCoiAQAE) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [sussurro](https://open.spotify.com/album/7z64AGT9ArbmI8VCwSMoG2) | 2:40 | 2022-10-28 |  |
 | [Só Chamar](https://open.spotify.com/track/67XJR4zyKkmq79mqgiPaBP) | [Dibob](https://open.spotify.com/artist/5unSnRQbVY6bEHkfNfgX5R) | [Só Chamar](https://open.spotify.com/album/5muZEDqjv0fVSY3e2ZeV96) | 2:58 | 2022-07-01 |  |
-| [Só Sei Sonhar](https://open.spotify.com/track/5g8k48PEvMoSuDhBeFfZIL) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor de Nossas Vidas](https://open.spotify.com/album/0VDKaNLpM3e71xTQHFX2rO) | 2:54 | 2022-10-14 |  |
+| [Só Sei Sonhar](https://open.spotify.com/track/5g8k48PEvMoSuDhBeFfZIL) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor de Nossas Vidas](https://open.spotify.com/album/0VDKaNLpM3e71xTQHFX2rO) | 2:54 | 2022-10-14 | 2022-11-05 |
 | [Só Sei Sonhar](https://open.spotify.com/track/7BXnoQfWd5o1r9FpR2CWFJ) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/1fH5R79UA8H7gSGHko4ayZ) | 2:54 | 2022-07-15 | 2022-10-15 |
 | [Só Sei Sonhar](https://open.spotify.com/track/7rvqdkHOXdSqZXaMHctNly) | [Choraz](https://open.spotify.com/artist/2DRAfmuc82dxMgHmkKaBGg) | [O Melhor De Nossas Vidas](https://open.spotify.com/album/05SpB7CONVVtt0VosXk0nh) | 2:54 | 2022-01-14 | 2022-07-29 |
 | [Tempo de Brincar](https://open.spotify.com/track/6cLVxeHljKgjD1mQ75QKhp) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Tempo de Brincar](https://open.spotify.com/album/6Mx3z11ITwsYgfCRdYFo0b) | 2:46 | 2022-01-14 | 2022-07-02 |
@@ -233,7 +234,7 @@
 | [Tudo Vale A Pena?](https://open.spotify.com/track/7z2BlOn5mRJiRaXQb6e8Ef) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP), [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI) | [Tudo Vale A Pena?](https://open.spotify.com/album/5MTUG2PWhhgLcN22r6Y4kV) | 3:26 | 2022-07-15 | 2022-08-06 |
 | [UM BRINDE](https://open.spotify.com/track/31QQG8R4qmLQjIDoguBCzZ) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Badauí](https://open.spotify.com/artist/0LrCKlBX9FiDmCjs3epwCb) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 2:47 | 2022-08-01 | 2022-10-15 |
 | [UM CUPIDO ME FLECHOU](https://open.spotify.com/track/2oebIxdd8SZpGmdRsU90Bd) | [EMERSSON RAMONE](https://open.spotify.com/artist/2A1JVXoWmLbwZektToFz5V) | [UM CUPIDO ME FLECHOU](https://open.spotify.com/album/3MqwDkJ5JdvYrKNzaTINia) | 2:22 | 2022-07-01 | 2022-09-03 |
-| [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 |  |
+| [Um Segundo a +](https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q) | [Estação 77](https://open.spotify.com/artist/3upWS8cr9YTI656ZTuwUem) | [Um Segundo a +](https://open.spotify.com/album/6eNgn576a5qQmsMMGXssL2) | 2:42 | 2022-01-14 | 2022-11-05 |
 | [Um Tempo](https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO) | [Maria do Relento](https://open.spotify.com/artist/2ZJAUr36IZp6pSiegYWRJP) | [Um Tempo](https://open.spotify.com/album/05aOvLoWx7xOIrnomiqCeV) | 3:30 | 2022-01-14 | 2022-04-02 |
 | [UMA BAD UMA FARRA](https://open.spotify.com/track/4xTuJuYX6eoypL09xTxvIM) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [: \( UMA BAD UMA FARRA : \)](https://open.spotify.com/album/4LOdX7PgbZyzNRq7uRolv6) | 3:05 | 2022-05-06 | 2022-08-06 |
 | [Vagabundo](https://open.spotify.com/track/0E7v3buDNbZrb5oZiDYjnB) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Vacinado No Bum Bum](https://open.spotify.com/album/74fPxZjhefQfJJf4xod91T) | 3:25 | 2022-04-01 | 2022-05-07 |

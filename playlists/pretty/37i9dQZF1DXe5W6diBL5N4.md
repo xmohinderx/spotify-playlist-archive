@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover:Triple S\(트리플에스\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,324 likes - 544 songs - 1 day 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,045 likes - 544 songs - 1 day 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 116 | [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 |
 | 117 | [Timing \(feat\. HYUN SEO, ONEMiryo & Wav Rain\)](https://open.spotify.com/track/43ecuwUjaEXZg7aIxCCezn) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl), [ONEMiryo](https://open.spotify.com/artist/4iyzzlF7BH2uvt2Pb1YApx), [Wav Rain](https://open.spotify.com/artist/4SIiy0YGoSgWg2E7nbav21) | [SEOULVIBES, CART](https://open.spotify.com/album/105nLIfJ6wp9Hin5A7g2oP) | 3:00 |
 | 118 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 |
-| 119 | [Wave goodbye](https://open.spotify.com/track/5KkBzXOaMasJ6yEDDFODGa) | [규리](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Wave goodbye](https://open.spotify.com/album/4LUsgEBCduxawKsy7bXeMJ) | 3:21 |
+| 119 | [Wave goodbye](https://open.spotify.com/track/5KkBzXOaMasJ6yEDDFODGa) | [gyuri](https://open.spotify.com/artist/75zSvIw1eMx70OqNk89sCb) | [Wave goodbye](https://open.spotify.com/album/4LUsgEBCduxawKsy7bXeMJ) | 3:21 |
 | 120 | [I Still Miss You](https://open.spotify.com/track/7mSnpktbVTwtCAiJTlSJN9) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [I Still Miss You](https://open.spotify.com/album/1uYtRlk8QH2pFmvTW8g2CA) | 3:00 |
 | 121 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 |
 | 122 | [Today is the day \(Good Day\)](https://open.spotify.com/track/2Iio7YzWcoCLLWConHTfIc) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Cheer Up \(Original Soundtrack Part.5\)](https://open.spotify.com/album/7pJZcHrJnIMNnb1QF7zvE7) | 3:51 |

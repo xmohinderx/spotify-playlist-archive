@@ -4,12 +4,12 @@
 
 > Gotta catch 'em all.
 
-289 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
+290 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/4PqfAnZqku8Zl2uq9Q1NkX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [17](https://open.spotify.com/track/0poYizJ4mnXIG3Rnrc8USh) | [YOURCODENAMEIS:MILO](https://open.spotify.com/artist/4NxevFKr3yFvhjmHzx9LiC) | [Ignoto](https://open.spotify.com/album/34UIoBrgmO1KXzxM8ZZu7P) | 3:16 | 2021-12-15 | 2022-01-04 |
-| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 |  |
+| [17 Years](https://open.spotify.com/track/01SLU6jHM9uzY6upyP4DnB) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/0r6EoPFFRcsVjQWsqmBSwC) | 3:03 | 2022-11-02 | 2022-11-05 |
 | [17 Years](https://open.spotify.com/track/0CMEuj4U1A5hvZWhVwwEOR) | [Muskets](https://open.spotify.com/artist/16S7RJmaP2kw8xpYFvRIQH) | [Chew](https://open.spotify.com/album/572ZIrqiAkorfgaZQ0Y78e) | 3:03 | 2021-12-15 | 2022-07-29 |
 | [57](https://open.spotify.com/track/3ywDupHAH1dCdL5J6UZmWX) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Blackened Sky](https://open.spotify.com/album/3gZ42Qs2uth6ZayrsV6LyW) | 3:21 | 2022-11-02 |  |
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
@@ -48,6 +48,7 @@
 | [Catalyst \- Remastered](https://open.spotify.com/track/6XXVfbTesfnkhnX3MO80cX) | [Oceansize](https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm) | [Effloresce](https://open.spotify.com/album/5HeMzB3lNUuYJGjfHYYlml) | 6:40 | 2021-12-15 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/2DyhBbEIaPX1neN47yLJkk) | [Curtiss](https://open.spotify.com/artist/1JaFPRzVdBkoUq5K16U8ly) | [Simplicity](https://open.spotify.com/album/4cgXduilLVjNuIMBIbUUIN) | 4:00 | 2022-10-11 | 2022-11-03 |
 | [Cheap Magic](https://open.spotify.com/track/7kamSwUo2vWKVjTnK21Xtm) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH) | [The Free Life](https://open.spotify.com/album/2AZizPumqjqVyEapFaNnQH) | 2:56 | 2021-12-15 | 2022-07-29 |
+| [Cheap Magic](https://open.spotify.com/track/2r7Oz1JMGmEa6ZNvywxCnU) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/3MVLO1W0Vm3Y3BeEZmE1Nf) | 2:56 | 2022-11-02 |  |
 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 | 2022-11-02 |  |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2021-12-15 |  |
 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 | 2021-12-15 |  |

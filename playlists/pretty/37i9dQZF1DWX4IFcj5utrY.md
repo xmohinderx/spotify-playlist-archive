@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7eNwLlauwL6tZwbFzJHWAN?si=llxtqtQnSmuH2BLEFC3qYg">DJ Kent</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,945 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,001 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 44 | [Isizathu \- Original Mix](https://open.spotify.com/track/0ZreUkE9FLVc4l9wNDFlZX) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Isizathu \(Remixes\)](https://open.spotify.com/album/0ZESl1KKb1kCbYEc9N1lB4) | 6:08 |
 | 45 | [No Other \- Radio Edit](https://open.spotify.com/track/688IKgy9bLKYUdiKpYB9Tv) | [DAN:ROS](https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa), [Mark Coppi](https://open.spotify.com/artist/4tWCWkqqqOlgb7PynFD5XU), [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy) | [No Other](https://open.spotify.com/album/5ZsYlXfn8yy0IycyX2uwSA) | 3:08 |
 | 46 | [Feelings](https://open.spotify.com/track/6K87itLS0K3aUYLVIlxQdX) | [ADJUMA](https://open.spotify.com/artist/5BDQAVSa4c1UsvXlmufpio), [Laise Sanches](https://open.spotify.com/artist/2Me0AHsFcxnAbhQngtK621) | [Feelings](https://open.spotify.com/album/3puyriMFd361JmJR7PnaVh) | 6:38 |
-| 47 | [Gino Brown Dance Ritual Radio Edit \- Radio](https://open.spotify.com/track/6O8Wjd9P6GBJzgqxjerwkS) | [Gino Brown](https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [Zandii J](https://open.spotify.com/artist/2zTLn9lWKoh8Mu0L2ezrkp), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [Dance Ritual](https://open.spotify.com/album/2dAD48CxR68kurQZztIQ46) | 4:14 |
+| 47 | [Gino Brown Dance Ritual Radio Edit \- Radio](https://open.spotify.com/track/6O8Wjd9P6GBJzgqxjerwkS) | [Gino Brown](https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1), [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB), [Zandii J](https://open.spotify.com/artist/2zTLn9lWKoh8Mu0L2ezrkp) | [Dance Ritual](https://open.spotify.com/album/2dAD48CxR68kurQZztIQ46) | 4:14 |
 | 48 | [Cha Cha](https://open.spotify.com/track/0XMWqGPQnf58vRTPl41VFa) | [Jst Sako](https://open.spotify.com/artist/7bAt7MYd2N3dRMrXVMvOug) | [Cha Cha](https://open.spotify.com/album/5pBkJGXpmw47rVO9E7yL4G) | 4:16 |
 | 49 | [Eames](https://open.spotify.com/track/3r5yQFuuIk3upZiZPWbqH7) | [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI) | [Eames](https://open.spotify.com/album/5HrwWZhLh9g51Nlz3cwf1J) | 3:47 |
 | 50 | [Never Good Enough \(feat\. Scarlett\)](https://open.spotify.com/track/4m1DYlYA9srxNsVHVjE9Zv) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP), [Sledge](https://open.spotify.com/artist/0QVVlLSw9zbtD8GcsntS4h), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Never Good Enough \(feat\. Scarlett\)](https://open.spotify.com/album/30n5m4guLxS5MHAMaCTT2a) | 3:06 |

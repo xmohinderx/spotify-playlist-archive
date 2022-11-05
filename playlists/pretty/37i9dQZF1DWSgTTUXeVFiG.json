@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 9536,
+  "num_followers": 9576,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDExODgxN2VlN2MyYzhkZTdiMDhmNzliODdhZjU3ZDJm",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMGY0YTE0YzRmODE4MDgzYzQ1M2RlYmEyZDAxMTA0Njc2",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Rey Ruiz Envivo (15 A\u00d1OS)",
-        "url": "https://open.spotify.com/album/548hHvN86B2e2PGNatWj48"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 440895,
-      "name": "Medley (Amiga, Mi Media Mitad,luna Negra)",
-      "url": "https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
         "name": "20 A\u00f1os (La Historia) [En Vivo]",
         "url": "https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 272214,
       "name": "Clase Social - En Vivo",
       "url": "https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Rey Ruiz Envivo (15 A\u00d1OS)",
+        "url": "https://open.spotify.com/album/548hHvN86B2e2PGNatWj48"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 440895,
+      "name": "Medley (Amiga, Mi Media Mitad,luna Negra)",
+      "url": "https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN"
     },
     {
       "added_at": "2022-03-18 05:00:00",

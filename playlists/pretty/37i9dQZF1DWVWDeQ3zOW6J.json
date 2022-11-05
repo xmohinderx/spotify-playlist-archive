@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 27669,
+  "num_followers": 27699,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMGMzOTVmMTk0N2M1NTJiMzc4N2EwMThlZjUwYTI1NzAw",
+  "snapshot_id": "MTU5MjM0MjMwMiwwMDAwMDAwMDQ5ODVlZTRiMDZlMmVjZDhjNjAxNjdlODc3ZTNiYWE1",
   "tracks": [
     {
       "added_at": "2020-06-16 21:18:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Lo Mejor de Ray Perez - Salsa",
-        "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
-      },
-      "artists": [
-        {
-          "name": "Ray Perez",
-          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
-        }
-      ],
-      "duration_ms": 193440,
-      "name": "Pa'l 23",
-      "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Apollo Sound 5",
         "url": "https://open.spotify.com/album/2wI2dJforjcPADfSye1yhS"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 287586,
       "name": "Cui Cui",
       "url": "https://open.spotify.com/track/6o221EsS11nmxMMPJRIN4N"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Lo Mejor de Ray Perez - Salsa",
+        "url": "https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF"
+      },
+      "artists": [
+        {
+          "name": "Ray Perez",
+          "url": "https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK"
+        }
+      ],
+      "duration_ms": 193440,
+      "name": "Pa'l 23",
+      "url": "https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ"
     },
     {
       "added_at": "2020-06-16 21:18:22",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-06-16 21:18:22",
       "album": {
-        "name": "Apollo Sound 9",
-        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 442622,
-      "name": "Marejada Feliz",
-      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
-    },
-    {
-      "added_at": "2020-06-16 21:18:22",
-      "album": {
         "name": "Salsa De La Mata, Vol. 2",
         "url": "https://open.spotify.com/album/4szcF2VzqktkY6LMSVuMbk"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2020-06-16 21:18:22",
+      "album": {
+        "name": "Apollo Sound 9",
+        "url": "https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Marejada Feliz",
+      "url": "https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm"
     },
     {
       "added_at": "2020-06-16 21:18:22",

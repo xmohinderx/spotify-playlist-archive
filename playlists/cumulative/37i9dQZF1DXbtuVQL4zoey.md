@@ -4,7 +4,7 @@
 
 > Chill, tropical vibes only.
 
-402 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
+403 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/5KsXZyXu940MWPi3YXqZP6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [restart](https://open.spotify.com/track/6QIipk6lLbSDVfkSCr2Gfp) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW), [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [restart](https://open.spotify.com/album/0cKiK46dFhwPmOf2btXc5D) | 1:42 | 2022-06-24 |  |
 | [Retrospective](https://open.spotify.com/track/5BYOPUidJX9Hx0T6tv3lWA) | [Zach Jordan](https://open.spotify.com/artist/7wI6FVPuBFU5KcTSddrzK2) | [Retrospective](https://open.spotify.com/album/1hdYL4Gu453c6Ve4lGsUH1) | 2:11 | 2022-05-20 | 2022-07-01 |
 | [Rich and Thick](https://open.spotify.com/track/479ml65kpUENyze9msPNGX) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Rich and Thick](https://open.spotify.com/album/6E2ywpUylcc7WtMzVZbqYl) | 3:19 | 2022-05-20 |  |
-| [Riptide](https://open.spotify.com/track/79Wiq8K0Ffom6OVYXHSrAb) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/4XTVisA6QosX0cdUYqqmZH) | 1:46 | 2022-05-20 |  |
+| [Riptide](https://open.spotify.com/track/5epIUCDbbOxNw24rB0YgrC) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/30u0mn0Il5ychQrKZdnwUL) | 1:46 | 2022-10-28 |  |
+| [Riptide](https://open.spotify.com/track/79Wiq8K0Ffom6OVYXHSrAb) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/4XTVisA6QosX0cdUYqqmZH) | 1:46 | 2022-05-20 | 2022-11-05 |
 | [Royal Highness](https://open.spotify.com/track/7uJKZCjiHRAde6xQm2Kx0Q) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Kid Tested & Mother Approved](https://open.spotify.com/album/2wz6cO6pnQb0qGfRYkMWVc) | 2:08 | 2022-05-20 |  |
 | [Rugged Soul](https://open.spotify.com/track/32j4lUE7CpoTIGUVM2ZN9n) | [Skeleton Panda](https://open.spotify.com/artist/0PuasH1K6rjltXwNAl06wQ) | [Rugged Soul](https://open.spotify.com/album/0JL0uJmED5AQeBfgmqDDwP) | 1:39 | 2022-05-20 |  |
 | [Run Boy](https://open.spotify.com/track/57kn96jwh3J2BzIeYrHURr) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Dissolve](https://open.spotify.com/album/1FMSLJ1NVRYzqu3LkIKlWS) | 2:32 | 2022-05-20 | 2022-07-01 |

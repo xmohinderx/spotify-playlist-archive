@@ -2660,6 +2660,24 @@
     },
     {
       "album": {
+        "name": "Hobbak Rebeh",
+        "url": "https://open.spotify.com/album/71w9WsH8G9kygpUVSNDhUr"
+      },
+      "artists": [
+        {
+          "name": "Natasha",
+          "url": "https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "\u062d\u0628\u0643 \u0631\u0628\u062d",
+      "url": "https://open.spotify.com/track/5YK8T173I1KLGE2GC1IvLL"
+    },
+    {
+      "album": {
         "name": "\u062d\u0646\u064a\u062a",
         "url": "https://open.spotify.com/album/2iAFWITELlig4HQfHQmq3G"
       },

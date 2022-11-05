@@ -4,12 +4,13 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-183 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
+185 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/6TRgNbMRFQsRi7cwbkVPjA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Today](https://open.spotify.com/track/0lyY1EBW263LxVMtzrtp1o) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [A New Today](https://open.spotify.com/album/5Upe7WjVHgDtGZC6gDdJuR) | 3:10 | 2022-05-13 |  |
-| [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 | 2022-07-15 |  |
+| [Abby](https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd) | 2:17 | 2022-10-28 |  |
+| [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 | 2022-07-15 | 2022-11-05 |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-05-13 |  |
 | [Afterglow](https://open.spotify.com/track/4ZliE8PtQ1qgnPkFdOeqQ8) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [Afterglow](https://open.spotify.com/album/4HGCzPumUHchGQpJJYHsPl) | 3:05 | 2022-05-13 |  |
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 |  |
@@ -58,7 +59,8 @@
 | [Dublin](https://open.spotify.com/track/7t82AQOD8JSHkLOZRSC0BM) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Dublin](https://open.spotify.com/album/5PMaZ9o8XkTqg9TyYC6YpE) | 1:42 | 2022-05-13 |  |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 |  |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-05-13 |  |
-| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 |  |
+| [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 | 2022-06-17 | 2022-11-05 |
+| [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 | 2022-10-28 |  |
 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 | 2022-05-13 |  |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-05-13 |  |
 | [Embrace](https://open.spotify.com/track/5DNyRrFMH6DrO3nCaeqGxi) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Embrace](https://open.spotify.com/album/6y6nzQKdmJCqLRmhGB2BtV) | 3:14 | 2022-05-13 |  |

@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: hirsk
 
-298 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
+299 songs - 17 hr 14 min - [published](https://open.spotify.com/playlist/3cSFMATQHJw7Fzc2uC3LB1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 |  |
 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 |  |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
+| [Heart to Heart, Me to You](https://open.spotify.com/track/3zmYT04KnfzjpjLiSg16KI) | [Elphie K](https://open.spotify.com/artist/6w609XuNif6TAHJ9DILzjQ) | [Heart to Heart, Me to You](https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB) | 2:34 | 2022-11-03 |  |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 |  |
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 | 2022-09-09 |
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRcvdDwEl3O.md) - [plain]
 
 > Music that makes you relax and escape the world around you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,910 likes - 89 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,917 likes - 89 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

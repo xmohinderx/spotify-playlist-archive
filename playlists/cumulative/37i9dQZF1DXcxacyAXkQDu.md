@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-781 songs - 1 day 22 hr 26 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+782 songs - 1 day 22 hr 29 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Girl \- Acoustic](https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl \(Acoustic\)](https://open.spotify.com/album/7fdAAXgcc7E5F9XE0ZFDQs) | 3:31 | 2021-12-21 | 2022-07-29 |
 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 | 2022-07-08 |  |
 | [Girl in Calico](https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Grey Fidelity](https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV) | 4:43 | 2022-01-07 |  |
-| [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2021-12-21 |  |
+| [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2021-12-21 | 2022-11-05 |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2022-02-24 |  |
 | [Gone](https://open.spotify.com/track/0epiqMIMIoRpgIEryIU63G) | [Training Season](https://open.spotify.com/artist/0nsTvhODP9ZYbxC0KePYSQ) | [Gone](https://open.spotify.com/album/16RO08TDCJFIoOTU3zIjdw) | 2:43 | 2022-04-08 | 2022-04-12 |
 | [Good Stuff](https://open.spotify.com/track/1tUdd0dSQ5ij2XiqlWhlHX) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Good Stuff](https://open.spotify.com/album/10iO7id4oEejkm4jqKwTXc) | 3:13 | 2021-12-21 |  |
@@ -631,6 +631,7 @@
 | [Sunscreen](https://open.spotify.com/track/0j7W0n2R5CfrLsUazKcIvW) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Sunscreen](https://open.spotify.com/album/7G7qhm9LVPD0qo3V5ed1OR) | 2:49 | 2022-03-24 | 2022-04-01 |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-08-26 | 2022-10-08 |
 | [Superhero](https://open.spotify.com/track/1Fo4OvzP9PThFKMeMIAEYu) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/1Xf5RZ7zQjF2WEkk7KpZVi) | 2:59 | 2022-01-07 | 2022-11-02 |
+| [Superhero](https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Superhero](https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW) | 2:59 | 2022-10-07 |  |
 | [Superposition \(Reflection\)](https://open.spotify.com/track/4AIXupzdmKbJAZ3JrfQOfr) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Superposition](https://open.spotify.com/album/5At8QTL1UoVfkMbK1QyN5N) | 3:30 | 2022-03-24 | 2022-04-01 |
 | [Sweat](https://open.spotify.com/track/2YP9QAFvoFQ9vn9DopfQOW) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Sweat](https://open.spotify.com/album/2XACouMaoTaHBVXGF3MVIl) | 3:57 | 2022-03-24 | 2022-04-16 |
 | [Sweet Baby](https://open.spotify.com/track/5ZHjjyuxyAy93zs0XvVUcv) | [Bothnia](https://open.spotify.com/artist/6I1IQQD3XEEL7kiV2tYJv5), [Cody Francis](https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32) | [Sweet Baby](https://open.spotify.com/album/2NnrecYBvlBXG1DLpSPorn) | 3:04 | 2021-12-21 |  |

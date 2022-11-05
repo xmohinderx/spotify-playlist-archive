@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation \\m/ ft\. 44phantom
+> it's a generation ⛓ cover: avril lavigne & yungblud
 
-403 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
+407 songs - 20 hr 33 min - [published](https://open.spotify.com/playlist/5ubuUW1jSmEDdBzkF6foxW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Crybaby \(On the Phone\)](https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Crybaby \(On the Phone\)](https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn) | 2:23 | 2022-01-07 | 2022-11-01 |
 | [curious/furious](https://open.spotify.com/track/27dTFzAAiUrJ2C2hxRcCd5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [curious/furious](https://open.spotify.com/album/5hlxPdHRPznZIxBna01A9Z) | 3:04 | 2022-09-08 | 2022-10-07 |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2022-10-20 | 2022-11-01 |
+| [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Pete Wentz](https://open.spotify.com/artist/6eNCYcluBDxyf0kkn4j7rD) | [CYAN1DE \(feat\. Pete Wentz\)](https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR) | 3:51 | 2022-11-04 |  |
 | [DADDY ISSUES](https://open.spotify.com/track/2CuZa66yQSugnSois0olvc) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [DADDY ISSUES](https://open.spotify.com/album/5F5rHnb4EcEaNsED77jMt0) | 2:25 | 2022-04-28 | 2022-09-30 |
 | [Dammit](https://open.spotify.com/track/6HvUYS1xDfTCGWoeVrv3XS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 2:45 | 2021-12-31 | 2022-01-08 |
 | [Damned If I Do Ya \(Damned If I Don't\)](https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal \(Deluxe Version\)](https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I) | 3:07 | 2022-01-07 | 2022-03-25 |
@@ -196,6 +197,7 @@
 | [If You Can't Hang](https://open.spotify.com/track/3ouugfdFz6exFXUxu7wRvD) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 4:10 | 2022-10-20 | 2022-11-01 |
 | [In Over My Head](https://open.spotify.com/track/3r0mb1tzAcCNoA8YRXuIhZ) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:18 | 2022-03-31 |  |
 | [In The End](https://open.spotify.com/track/1RTYixE1DD3g3upEpmCJpa) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Wretched and Divine: The Story Of The Wild Ones](https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO) | 3:48 | 2022-10-20 | 2022-11-01 |
+| [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2022-11-04 |  |
 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 | 2022-10-20 | 2022-11-01 |
 | [Jealousy](https://open.spotify.com/track/6d0v3O81urNRzxLWkXVLD3) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Jealousy](https://open.spotify.com/album/4Tf9NrvgB10OtQgUAFyeav) | 3:12 | 2022-08-11 |  |
 | [Jump](https://open.spotify.com/track/3wGVgIe8CvDxGEJEdrAKfh) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/3kT0vXJqRNILDVVUX5LhkQ) | 2:49 | 2022-01-07 | 2022-01-14 |
@@ -325,6 +327,7 @@
 | [Such Small Hands](https://open.spotify.com/track/0tksWgMFUovmWxDAnkebtO) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan) | 1:35 | 2022-10-20 | 2022-11-01 |
 | [Sucks to Be Yuh](https://open.spotify.com/track/09t8P8t232bmdvkasH15XO) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Sucks to Be Yuh](https://open.spotify.com/album/532dq0vUb2NzPPOqIkxg83) | 2:20 | 2022-01-07 | 2022-03-25 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2021-12-31 | 2022-01-08 |
+| [Sunlight On Your Skin](https://open.spotify.com/track/30Q0qdSvz35LkIErmO4r2Z) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sunlight On Your Skin](https://open.spotify.com/album/7dcmY66YdaZB99fItAaLxG) | 3:18 | 2022-11-04 |  |
 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 | 2021-12-31 | 2022-01-08 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-06-02 |  |
 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 | 2022-01-07 | 2022-03-25 |
@@ -364,6 +367,7 @@
 | [Time Machine](https://open.spotify.com/track/0tYfi7vl6FbspcxyGHCDCu) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [Time Machine](https://open.spotify.com/album/30w21xul3TETE8LNZGLE5l) | 2:33 | 2022-01-07 | 2022-03-25 |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-01 |  |
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 |  |
+| [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 | 2022-11-04 |  |
 | [TOOTHPASTE](https://open.spotify.com/track/0cMii2XXSNRl7bS2sFJMle) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [GOODGRIEF](https://open.spotify.com/album/0iHirYdH4xyeJrdVtXmhUQ) | 2:54 | 2022-07-29 | 2022-09-09 |
 | [Toxic](https://open.spotify.com/track/1X6Hw2IJSdgIqwrhwZ84cZ) | [Boy Bleach](https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V) | [Toxic](https://open.spotify.com/album/6nMAMG5O1iNCQlyBEUeDM8) | 3:15 | 2022-09-29 |  |
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 |  |

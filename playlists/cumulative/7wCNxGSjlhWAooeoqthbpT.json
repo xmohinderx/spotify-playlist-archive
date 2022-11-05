@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 161344,
       "name": "Good Times (feat. Offset)",
       "url": "https://open.spotify.com/track/3j3Pdp9PvAhdJQ1asYh6hS"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 177089,
       "name": "Hi-Lo",
       "url": "https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr"
@@ -1443,6 +1443,28 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "album": {
+        "name": "Link in the Ends",
+        "url": "https://open.spotify.com/album/13OEJkAAM0iIfcKJTaP0up"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Link in the Ends",
+      "url": "https://open.spotify.com/track/6LaiBYDgJ0nTGAldMQeg9Y"
     },
     {
       "album": {
@@ -1713,6 +1735,28 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "album": {
+        "name": "No Love For You",
+        "url": "https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Drop - G",
+          "url": "https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178414,
+      "name": "No Love For You",
+      "url": "https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW"
     },
     {
       "album": {
@@ -2009,7 +2053,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 201495,
       "name": "psychofreak (feat. WILLOW)",
       "url": "https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm"
@@ -2057,6 +2101,42 @@
       "duration_ms": 172570,
       "name": "Richer Than I Ever Been",
       "url": "https://open.spotify.com/track/6APhSotnV8vcCFG87XiYfo"
+    },
+    {
+      "album": {
+        "name": "Robbin Season",
+        "url": "https://open.spotify.com/album/0V05mnCOmigJqCV2b2s4FV"
+      },
+      "artists": [
+        {
+          "name": "21 Lil Harold",
+          "url": "https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115776,
+      "name": "Robbin Season",
+      "url": "https://open.spotify.com/track/4OCpoiyhEEU3OKqEbK8I9w"
+    },
+    {
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+      },
+      "artists": [
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
     },
     {
       "album": {
@@ -2413,6 +2493,24 @@
       "duration_ms": 222199,
       "name": "Time - From the Motion Picture \"Amsterdam\"",
       "url": "https://open.spotify.com/track/7nV3HScm7VfvyGdN5u6GNS"
+    },
+    {
+      "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "album": {

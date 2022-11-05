@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Luis R Conriquez, Jessie Uribe.",
-  "num_followers": 62235,
+  "num_followers": 62251,
   "original_name": "Mariachi 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGFhZGI5MGE1YzUxYWY4MGVlNTQ0OGRkMzhiYWY3NjQx",
+  "snapshot_id": "MTY1OTA2NzIwMCwwMDAwMDAwMGYxZmYxZjllMzI1NDM4YmQ4OGFhM2JmMzc5MzAyZGRh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
+        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
+      },
+      "artists": [
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
         "name": "Invasi\u00f3n De \u00c9xitos",
         "url": "https://open.spotify.com/album/6qsI958YYa8aS6KY8E7MEe"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 176200,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/3iFlXPKEoIKgQJtryXvL28"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
-        "name": "Te Seguir\u00e9 Queriendo (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/759ulanI2o4y3cNpAx68ZX"
-      },
-      "artists": [
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Te Seguir\u00e9 Queriendo - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/3ktWblC2HHYMU0Ny2eqplb"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "El Diluvio",
-        "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 148565,
-      "name": "El Diluvio",
-      "url": "https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum"
-    },
-    {
-      "added_at": "2022-07-29 04:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
         "url": "https://open.spotify.com/album/4znXFsawbU18ZIxAw2EsS2"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 162916,
       "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
       "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
+    },
+    {
+      "added_at": "2022-07-29 04:00:00",
+      "album": {
+        "name": "El Diluvio",
+        "url": "https://open.spotify.com/album/5Hguxb2ACNitInOSyruLVP"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 148565,
+      "name": "El Diluvio",
+      "url": "https://open.spotify.com/track/7raQ5dg6Mpbbkf0fqm7Vum"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Siempre Te Voy A Recordar",
-        "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
+        "name": "Porqu\u00e9 Como T\u00fa",
+        "url": "https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU"
       },
       "artists": [
         {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
         }
       ],
-      "duration_ms": 187960,
-      "name": "Siempre Te Voy A Recordar",
-      "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
+      "duration_ms": 239520,
+      "name": "Porqu\u00e9 Como T\u00fa",
+      "url": "https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf"
     },
     {
       "added_at": "2022-07-29 04:00:00",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2022-07-29 04:00:00",
       "album": {
-        "name": "Porqu\u00e9 Como T\u00fa",
-        "url": "https://open.spotify.com/album/38mjeIx9MryT6uUTHXcHNU"
+        "name": "Siempre Te Voy A Recordar",
+        "url": "https://open.spotify.com/album/0uEVN2fgECxF04lRe8IiJh"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
         }
       ],
-      "duration_ms": 239520,
-      "name": "Porqu\u00e9 Como T\u00fa",
-      "url": "https://open.spotify.com/track/0RuwQiOJAqcDqnnMMzkcYf"
+      "duration_ms": 187960,
+      "name": "Siempre Te Voy A Recordar",
+      "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
     },
     {
       "added_at": "2022-07-29 04:00:00",

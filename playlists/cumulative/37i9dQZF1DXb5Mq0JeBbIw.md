@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-185 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
+186 songs - 10 hr 43 min - [published](https://open.spotify.com/playlist/411MJYit8QvJGZThN4BLvH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Malibu Nights](https://open.spotify.com/track/5MowXhrwxi1Imfo8WT2OiZ) | [Cole Norton](https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy) | [Malibu Nights](https://open.spotify.com/album/4XR0dijl0N381YWVdw0xHW) | 3:36 | 2022-05-30 | 2022-07-29 |
 | [Mama \- Acoustic](https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl) | 3:12 | 2022-06-24 |  |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/49rkYEtnlibPEbs4U9Utxw) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4LHnPUfu5s8zcIorVvSfFD) | 3:11 | 2022-06-24 | 2022-10-16 |
+| [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-07 |  |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/7gvVZifvmtzK2UkW3Ez0Gm) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/6QsjK5YQbJ6uT2GIHnCId5) | 3:11 | 2022-05-30 | 2022-07-29 |
 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 | 2022-05-30 |  |
 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 | 2022-06-24 |  |
@@ -165,7 +166,7 @@
 | [Survivors \- Acoustic](https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Survivors \(Acoustic\)](https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW) | 4:29 | 2022-05-30 | 2022-07-29 |
 | [Sweet Dream](https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao) | [Greg Laswell](https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC) | [Three Flights From Alto Nido](https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH) | 1:07 | 2022-06-24 |  |
 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 | 2022-05-30 |  |
-| [The Book Of Love \(Acoustic\)](https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [The Book Of Love \(Acoustic\)](https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX) | 3:36 | 2022-05-30 |  |
+| [The Book Of Love \(Acoustic\)](https://open.spotify.com/track/0PDcChQq3nr8MQ9tQV7jib) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [The Book Of Love \(Acoustic\)](https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX) | 3:36 | 2022-05-30 | 2022-11-05 |
 | [The One I Love](https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [The One I Love](https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol) | 3:11 | 2022-05-30 |  |
 | [Think It Over](https://open.spotify.com/track/7u3rJLxEp9ZsQpSq5Pun79) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [Where the Roses Bloom](https://open.spotify.com/album/1MOwfsFWRW2suEzEnbo19Q) | 3:14 | 2022-05-30 | 2022-07-29 |
 | [This Is What It Takes](https://open.spotify.com/track/0vW819CC45qQzi1lM9PaAg) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:50 | 2022-06-24 |  |

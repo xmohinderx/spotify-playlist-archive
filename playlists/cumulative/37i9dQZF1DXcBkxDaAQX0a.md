@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-252 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+253 songs - 15 hr 2 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Buried Without a Name](https://open.spotify.com/track/3Sz5n8f7rSVFAeGSa4FwOX) | [Single Wound](https://open.spotify.com/artist/45NdlnaWFaG6bGqjFNvRde) | [Buried Without a Name](https://open.spotify.com/album/1ODU3FiH4JBuhrmGqAun04) | 3:52 | 2022-04-04 | 2022-04-13 |
 | [California \(Acoustic\)](https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [California \(Acoustic\)](https://open.spotify.com/album/4yx7hj2FSxSit2mBktlrZL) | 4:18 | 2021-02-08 | 2022-07-27 |
 | [Catching Fire \(Acoustic\)](https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline B\-Sides](https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko) | 4:00 | 2021-02-08 |  |
+| [Cement](https://open.spotify.com/track/2NLUz9yivz34Omzme8bQUY) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:05 | 2022-04-04 |  |
 | [Cement](https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/1euaS5eK34iGgsrG6fBiwd) | 3:05 | 2021-02-08 | 2022-07-29 |
 | [Clairvoyant](https://open.spotify.com/track/0nMOZnZA4GnipZXswSmCS6) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story so Far / Stick to Your Guns Split \- EP](https://open.spotify.com/album/712n8qxqHUs6yw84Y1NY6M) | 3:01 | 2021-02-08 |  |
 | [Cold in the City \(Acoustic\)](https://open.spotify.com/track/3IZMgZIbzIb73Ly3ObfvxJ) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City \(Acoustic\)](https://open.spotify.com/album/52cYagyGndWByJ8fNyNcQh) | 3:17 | 2022-04-04 | 2022-07-27 |
@@ -142,7 +143,7 @@
 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/021zb89IodxPOcPZheUwVl) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3bd1MdHvtWscI301qFWQlH) | 2:59 | 2021-02-08 | 2022-10-17 |
 | [Light On](https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S) | [Last Night Saved My Life](https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH) | [Light On](https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2) | 3:45 | 2021-02-08 | 2022-07-17 |
 | [Lights Out](https://open.spotify.com/track/0BoNR72JDBcH7b9v1WpD3D) | [Mike Herrera](https://open.spotify.com/artist/6CoS5eAPJErSSTyEsWcJOp) | [Lights Out](https://open.spotify.com/album/1iu23Ehsxrift5PGUtrPt8) | 3:16 | 2022-04-04 | 2022-04-19 |
-| [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 | 2021-02-08 |  |
+| [Limits \- Unplugged](https://open.spotify.com/track/3Z06DUeSPpGqqVKoOa9Czi) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5) | 3:16 | 2021-02-08 | 2022-11-05 |
 | [Little Dove](https://open.spotify.com/track/0UQmlGUd4u1v9QxiiBbQtV) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:04 | 2021-02-08 |  |
 | [Little One \(Acoustic\)](https://open.spotify.com/track/2B8p1NMeBV5jEXKVANgrDo) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Little One \(Acoustic\)](https://open.spotify.com/album/1jAxMo9plS1NExM4onc2VQ) | 3:16 | 2021-02-08 | 2022-07-27 |
 | [Long Night](https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Better Weather](https://open.spotify.com/album/73yzCXeZAtNFC7YoIroAPD) | 3:33 | 2021-02-08 | 2022-07-28 |

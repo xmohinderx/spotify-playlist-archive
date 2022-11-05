@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,123 likes - 69 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,147 likes - 69 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Situation \(&ME Remix\)](https://open.spotify.com/track/3yYGuKdw55woyHYfgnsCJd) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Play With The Changes \(Remixed\)](https://open.spotify.com/album/3fMIqhERSssKur9QOqa5X1) | 5:28 |
 | 2 | [Heat Waves \- Logic1000 Remix](https://open.spotify.com/track/0BzTTI21m2LuYusiy0TOTr) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Heat Waves \(Logic1000 Remix\)](https://open.spotify.com/album/2yWZRt7NiE5QgrRpqviLx8) | 3:58 |
-| 3 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:14 |
+| 3 | [Vertigo](https://open.spotify.com/track/1doFagKIgn2FOATKzUkbyi) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Vertigo](https://open.spotify.com/album/6PLiavXQv8JeNW2HBIl18X) | 4:16 |
 | 4 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 |
 | 5 | [Kunitamale](https://open.spotify.com/track/446T86UmUBOvGnzYYCCttb) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN) | [Kunitamale](https://open.spotify.com/album/5df09cDBAMKQ7rMKzZ1b0S) | 7:24 |
 | 6 | [Mi Alma](https://open.spotify.com/track/6EjoH5rmbTr2jNm1S0IW4k) | [Teison](https://open.spotify.com/artist/7fd9Cb5382mcEQwTvXzdor) | [Mi Alma](https://open.spotify.com/album/75WDaLy5oIqM3l8AipjHQ2) | 4:01 |

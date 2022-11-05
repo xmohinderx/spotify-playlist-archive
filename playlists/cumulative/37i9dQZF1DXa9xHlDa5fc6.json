@@ -462,6 +462,24 @@
     },
     {
       "album": {
+        "name": "Ocean by Ocean",
+        "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
+      },
+      "artists": [
+        {
+          "name": "The Boxer Rebellion",
+          "url": "https://open.spotify.com/artist/7DEseTqRODmSu3C7jxCHl5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
+    },
+    {
+      "album": {
         "name": "Big Ideas",
         "url": "https://open.spotify.com/album/1S2ryIhicWRq8XE1e3rv6j"
       },
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 260293,
       "name": "Coincidental",
       "url": "https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe"

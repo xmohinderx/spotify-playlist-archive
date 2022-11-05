@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,543 likes - 64 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,585 likes - 64 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 4 | [Bussifame](https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 4:33 |
 | 5 | [He](https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO) | 4:28 |
 | 6 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
-| 7 | [Losing You](https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 4:20 |
+| 7 | [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 |
 | 8 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 |
 | 9 | [Good 2 Yourself](https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Good 2 Yourself](https://open.spotify.com/album/3Crx0tSFjXYhJVERZJ5hXl) | 3:50 |
 | 10 | [Essentially](https://open.spotify.com/track/7MI12qNsacindN65MWoMYR) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s) | 3:16 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 50 | [Rose Quartz](https://open.spotify.com/track/0u1yF7JbPlDjqWUKZk4FaR) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything in Return](https://open.spotify.com/album/6x1wyRPGlqGJ1b8uQ9UQdX) | 4:13 |
 | 51 | [Wildfire \- OVO Remix](https://open.spotify.com/track/4Ts1UoW3wR0GdmEiGxhlX2) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [OvO](https://open.spotify.com/artist/0ie2FM6cIwDUbMxQabT8r9) | [Wildfire](https://open.spotify.com/album/3PcFEYjjDzSAjkvuwbmt4k) | 4:15 |
 | 52 | [Do It 4 U](https://open.spotify.com/track/131TA14qK6E6e3OYvq2KTd) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [D∆WN](https://open.spotify.com/artist/5FC4ZICxoYTYQbN1sGFKx1) | [Human Energy](https://open.spotify.com/album/5mvjXE0GQ6qm9IsoUGykAE) | 3:40 |
-| 53 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 |
+| 53 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
 | 54 | [Far from Heaven](https://open.spotify.com/track/1pF0MdgFm92mwM7sxJOves) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Oh What the Future Holds](https://open.spotify.com/album/6Ye3ONH5U76f9MqPg3zxcl) | 4:44 |
 | 55 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 |
 | 56 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qhCMWQZHJh.md) - [plain]
 | 63 | [Choices \(Interlude\)](https://open.spotify.com/track/7yBpSyKmbZYLS8Rgz6ZD0B) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Blackheart](https://open.spotify.com/album/2IPKoEWJgWuM83zZOq3vkW) | 2:58 |
 | 64 | [Traveling Blind](https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/4bCrbth0Gax6MBXXQ8SKZZ) | 3:35 |
 
-Snapshot ID: `MTY1MTg0NTg1MCwwMDAwMDAwMDBlOGFmMGIyMzA2OWU1NjAwMWU2MGVkOTlhYTI4ZmRj`
+Snapshot ID: `MTY1MTg0NTg1MCwwMDAwMDAwMGEwNzZmMDRiMzM5MTM4YmNlMGVlOGY1NTYzN2RiYTJj`

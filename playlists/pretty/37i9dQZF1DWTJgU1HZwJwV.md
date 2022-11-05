@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,258 likes - 192 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,322 likes - 192 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 29 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 |
 | 30 | [Mirage](https://open.spotify.com/track/767vDO0LnaX7lzkK7i0qOG) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [Mirage](https://open.spotify.com/album/4F9QGuVlR08gdhYyJfqdid) | 3:03 |
 | 31 | [Olivar de los Padres](https://open.spotify.com/track/3wp1BYW2oP8kfXcKld2FtD) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Olivar de los Padres](https://open.spotify.com/album/2OxKeAL3VTsGxJte3qs2OS) | 3:25 |
-| 32 | [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 |
+| 32 | [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 |
 | 33 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 |
 | 34 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 |
 | 35 | [Too Gentle](https://open.spotify.com/track/3r5UkhK0ydSW0A4h6XRJ58) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Too Gentle](https://open.spotify.com/album/1CKO9HAhmY9vr5obHxWJkK) | 1:41 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 57 | [Traveling Sunset](https://open.spotify.com/track/5yf5lrd0n9SUGyrEDoGb1I) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Traveling Sunset](https://open.spotify.com/album/63vO3TWmFFBV1nNhNhbsPR) | 2:13 |
 | 58 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 |
 | 59 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 |
-| 60 | [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 |
+| 60 | [Above](https://open.spotify.com/track/43QbJt2flQ8GsrX3q6Hroq) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/533OhwxkT1QLQGn2OY2okt) | 2:16 |
 | 61 | [Air on the G String \- Arr\. for Guitar](https://open.spotify.com/track/6OQxG5XYAuSb5Pn0rZDlcV) | [Martin Statham](https://open.spotify.com/artist/2syH3uHsABXUXdl3DCJDUy) | [Air on the G String \(Arr\. for Guitar\)](https://open.spotify.com/album/10TMvL2gfIRut012LqWH6Z) | 2:59 |
 | 62 | [Stargazing](https://open.spotify.com/track/1mmbyz9ozdscOnBm2A8lY1) | [Thomas Eder](https://open.spotify.com/artist/2krrSbwXMkf0UncTYMR1qY) | [Stargazing](https://open.spotify.com/album/4iKix895yw4BjGUysZXtCU) | 2:42 |
 | 63 | [Now You Are Here](https://open.spotify.com/track/12D3dmsQyd3pLT7O9hcJk3) | [Wolfgang Vrecun](https://open.spotify.com/artist/3CXmNX9aJWp1FDQn1XDDbo) | [Modern Classical Guitar, Vol\. 2](https://open.spotify.com/album/33PydvV4ZnXjfrHTauT5vv) | 2:20 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 191 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 192 | [Rio Panama](https://open.spotify.com/track/5nmvzqwFTpY7UvC8t748bK) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Rio Panama](https://open.spotify.com/album/6n18Rbe3dJKLS0QbHCPE39) | 2:46 |
 
-Snapshot ID: `MTY2Njk2NTA2MCwwMDAwMDAwMDc2ZGE5OTJlYzg5OTk0YjAzMDEyZDEzNWMyMDYwNzNm`
+Snapshot ID: `MTY2Njk2NTA2MCwwMDAwMDAwMGM5ZDFmZTdiOWVmZGQ2NjY5MDZmY2ExZTQxZDZkMzMx`

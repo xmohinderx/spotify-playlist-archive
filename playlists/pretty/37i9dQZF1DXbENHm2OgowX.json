@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 20399,
+  "num_followers": 20479,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5MjU3NiwwMDAwMDAwMDg5ZTAzMjQxMjMzYmVjNzEyNzQ4MDM3NTFlOWRjYzdj",
+  "snapshot_id": "MTY2NDg5MjU3NiwwMDAwMDAwMDk4MjI3ZDA5MTg2ZTA2MmI4NDc1MDEyMDYwMGQ5MTRj",
   "tracks": [
     {
       "added_at": "2022-10-04 14:09:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
-        "name": "Nocturnes & Meditations",
-        "url": "https://open.spotify.com/album/5NfQwn3QkXyixhFmAliqWj"
-      },
-      "artists": [
-        {
-          "name": "Matt Tondut",
-          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
-        }
-      ],
-      "duration_ms": 346344,
-      "name": "Nocturnes & Meditations",
-      "url": "https://open.spotify.com/track/0HZtIDdqIP8up1Zg3kG1Ou"
-    },
-    {
-      "added_at": "2022-10-04 14:09:36",
-      "album": {
         "name": "Untethering",
         "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
       },
@@ -623,34 +607,18 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+        "name": "Nocturnes & Meditations",
+        "url": "https://open.spotify.com/album/5NfQwn3QkXyixhFmAliqWj"
       },
       "artists": [
         {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2022-10-04 14:09:36",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+      "duration_ms": 346344,
+      "name": "Nocturnes & Meditations",
+      "url": "https://open.spotify.com/track/0HZtIDdqIP8up1Zg3kG1Ou"
     },
     {
       "added_at": "2022-10-04 14:09:36",
@@ -671,6 +639,38 @@
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2022-10-04 14:09:36",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
+    },
+    {
+      "added_at": "2022-10-04 14:09:36",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2022-10-04 14:09:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-10-04 14:09:36",
       "album": {
-        "name": "Weighing Souls With Sand",
-        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
-      },
-      "artists": [
-        {
-          "name": "The Angelic Process",
-          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
-        }
-      ],
-      "duration_ms": 572189,
-      "name": "The Promise of Snakes",
-      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
-    },
-    {
-      "added_at": "2022-10-04 14:09:36",
-      "album": {
         "name": "Bardo Landscape",
         "url": "https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 203424,
       "name": "Bardo Landscape",
       "url": "https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e"
+    },
+    {
+      "added_at": "2022-10-04 14:09:36",
+      "album": {
+        "name": "Weighing Souls With Sand",
+        "url": "https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl"
+      },
+      "artists": [
+        {
+          "name": "The Angelic Process",
+          "url": "https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W"
+        }
+      ],
+      "duration_ms": 572189,
+      "name": "The Promise of Snakes",
+      "url": "https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D"
     },
     {
       "added_at": "2022-10-04 14:09:36",

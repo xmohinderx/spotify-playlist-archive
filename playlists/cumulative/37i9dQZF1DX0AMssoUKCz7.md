@@ -4,10 +4,11 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-526 songs - 1 day 3 hr 32 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
+526 songs - 1 day 3 hr 30 min - [published](https://open.spotify.com/playlist/61FZjpXPJ3h6rXtpr3F0Jn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/3ckbDcBsOhcvQVStcLdjU9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Narcotic](https://open.spotify.com/album/3kvGH3EZAL1smyuKZbWweT) | 0:00 | 2022-10-14 |  |
 | [100 Stars](https://open.spotify.com/track/0G3gzvSEymsgSmyuhO76uB) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [100 Stars](https://open.spotify.com/album/4eKeWQGwABZf8OB3nypm3C) | 2:18 | 2022-05-06 |  |
 | [4 Life \(feat\. Graham Candy\)](https://open.spotify.com/track/6OKaib6HaebKVCL5VOoIGR) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 3:15 | 2022-02-18 | 2022-04-19 |
 | [44th and 8th](https://open.spotify.com/track/3q1dhgO6MmeA7LUoz86BPh) | [Sean Bradford](https://open.spotify.com/artist/6NH017cWdDip8d3zS2lXbD) | [44th and 8th](https://open.spotify.com/album/1AcgYj8rGqP01e3xQe149G) | 3:44 | 2022-01-14 | 2022-04-25 |
@@ -309,7 +310,6 @@
 | [My Head Is a Jungle \- \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5479RIes0OUXZkCDsWg7Mc) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/4wO8WVjaBfiE2a3ebBKk69) | 3:33 | 2022-02-18 | 2022-04-02 |
 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 | 2022-01-14 |  |
 | [Nalu](https://open.spotify.com/track/2oUSxhTzXlYyM7D31ohQok) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Nalu](https://open.spotify.com/album/093knXiKztuaCLp6QL9H96) | 2:29 | 2022-07-08 |  |
-| [Narcotic](https://open.spotify.com/track/3ckbDcBsOhcvQVStcLdjU9) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Narcotic](https://open.spotify.com/album/3kvGH3EZAL1smyuKZbWweT) | 2:33 | 2022-10-14 |  |
 | [Natural Mind](https://open.spotify.com/track/0A3CUjddY8j2CHrNFYlZlz) | [Aramboa](https://open.spotify.com/artist/1wWxVsXZvFq35a1vceW1pn), [Aenna](https://open.spotify.com/artist/4nTtYMfhmrakIF9piNwUfu) | [Natural Mind](https://open.spotify.com/album/2XhUQDsuPWyqh5WN5VXwhF) | 3:05 | 2022-04-01 | 2022-07-29 |
 | [Netzwerk \(Falls Like Rain\)](https://open.spotify.com/track/40Dr5okORyoCbAgOBnYzio) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk \(Deluxe\)](https://open.spotify.com/album/4j9mSsoan95YCTzgxORbvK) | 3:50 | 2022-02-18 | 2022-04-09 |
 | [Never Alone](https://open.spotify.com/track/4w3InOZmItJiSlhnkr3lv6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [VCATION](https://open.spotify.com/artist/4yrQ7wOi2oRjmfW86WWJco) | [Never Alone](https://open.spotify.com/album/3MdfIe4hKDL59tOpVwC7DW) | 2:56 | 2022-01-14 | 2022-04-29 |

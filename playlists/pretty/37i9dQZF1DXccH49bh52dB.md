@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 
 > The softer side of dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,980 likes - 107 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,195 likes - 107 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 69 | [Hypnotized](https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica](https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG) | 3:15 |
 | 70 | [Somebody I'm Not](https://open.spotify.com/track/60dLzTKOP5Q37wThC9VVjB) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Bjørnskov](https://open.spotify.com/artist/16EmDsIYHYtxgSNfjEYPf8) | [Somebody I'm Not](https://open.spotify.com/album/1Th4vKosxgXWDSqJStYgrW) | 2:47 |
 | 71 | [Facing the Sun](https://open.spotify.com/track/4Ei691AKbjiGscPcMUdA4s) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Here Today Gone Tomorrow](https://open.spotify.com/album/20u2BADwHMxvAvFNNxtAGo) | 5:13 |
-| 72 | [On The Beach](https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:08 |
-| 73 | [Last Hurrah \- David Guetta Remix](https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Last Hurrah \(David Guetta Remix\)](https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG) | 3:11 |
+| 72 | [Last Hurrah \- David Guetta Remix](https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Last Hurrah \(David Guetta Remix\)](https://open.spotify.com/album/4KIlCXWsC5D7tHNM1PsfhG) | 3:11 |
+| 73 | [On The Beach](https://open.spotify.com/track/6OjSqRwvwPZy99Z7lA8CIY) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Strawtown](https://open.spotify.com/album/5dqOVKaOh4pAL9XLYI0FOu) | 3:08 |
 | 74 | [Coming Over \(feat\. James Hersey\)](https://open.spotify.com/track/6m3ZWIXhjoV76syT1j2oE9) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS) | [This Mixtape is Fire.](https://open.spotify.com/album/5yscEifoZw3M3abIVCr8ed) | 2:58 |
 | 75 | [What Do You Love](https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [What Do You Love](https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN) | 3:31 |
 | 76 | [Bad Ideas](https://open.spotify.com/track/0uNU2DnGjyjzqeaK3z5rSi) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Music Is My Best Friend](https://open.spotify.com/album/6Y9pKRKhOZ3t1ILhEFDXuZ) | 2:46 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccH49bh52dB.md) - [plain]
 | 106 | [Carry Me \(feat\. Julia Michaels\)](https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:53 |
 | 107 | [ID \- Ultra Music Festival Anthem](https://open.spotify.com/track/4SBqydJCEhcroni09XgT2c) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [ID \(Ultra Music Festival Anthem\)](https://open.spotify.com/album/08lvNATRudyG5K7eEjWk1t) | 4:49 |
 
-Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDc5ZmFjOTllMWMzNGU2MDliMGU0MjBiZTUyNTU2YWQ5`
+Snapshot ID: `MTY0MjUxNzY0NCwwMDAwMDAwMDgzYWU4NzA0YWEzY2JhNzk0Mzc1MTVmYjNmZDc1YzIx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Kayode",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Malcolm VL, Jotap\u00ea",
   "name": "Presen\u00e7a Hip Hop",
   "published_playlist_ids": [
     "07w2QUeYfgvUJ366SKbIpZ"
@@ -1242,6 +1242,36 @@
     },
     {
       "album": {
+        "name": "DAS RUAS",
+        "url": "https://open.spotify.com/album/3ApcPQgkbulhTfR0zAetZa"
+      },
+      "artists": [
+        {
+          "name": "Asfalto Rec",
+          "url": "https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv"
+        },
+        {
+          "name": "Malcolm VL",
+          "url": "https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm"
+        },
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "DAS RUAS",
+      "url": "https://open.spotify.com/track/66Vbg5JBx8NrijE72hkCmR"
+    },
+    {
+      "album": {
         "name": "O Peso das Barra",
         "url": "https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL"
       },
@@ -1503,7 +1533,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 191219,
       "name": "Easy Money",
       "url": "https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV"
@@ -1993,7 +2023,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 210097,
       "name": "F\u00eanix",
       "url": "https://open.spotify.com/track/0YYpDFN3kXT9dHspUkoi3z"
@@ -4853,6 +4883,36 @@
       "duration_ms": 210461,
       "name": "Resili\u00eancia",
       "url": "https://open.spotify.com/track/4553asTWEDAk3NUAT4d0RR"
+    },
+    {
+      "album": {
+        "name": "Respeitosamente",
+        "url": "https://open.spotify.com/album/1JcZLFNFMDpXGJGVlCCJ5x"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251166,
+      "name": "Respeitosamente",
+      "url": "https://open.spotify.com/track/11Kl9alN9okNVqew0BIdQw"
     },
     {
       "album": {

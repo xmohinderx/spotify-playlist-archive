@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: \u00c1lex Eugenio.",
-  "num_followers": 96794,
+  "num_followers": 96837,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMDY2YjFhM2U3YmI5NDFmZWNjNWZkNTM0NWI4ZTdjNDBi",
+  "snapshot_id": "MTY2NjkzMzIwMCwwMDAwMDAwMGFlMGRkODMzNDdmMTY3YzlmMmZlOGM5NTI5MGQyMTA2",
   "tracks": [
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+      },
+      "artists": [
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "El Siglo del Loro",
         "url": "https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
-      },
-      "artists": [
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
         "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 297773,
       "name": "El don de la ternura",
       "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
+        "name": "Fuimos Los Dos",
+        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        }
+      ],
+      "duration_ms": 137450,
+      "name": "Prefiero No Decir Nada",
+      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Fuimos Los Dos",
-        "url": "https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 137450,
-      "name": "Prefiero No Decir Nada",
-      "url": "https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "Rumba en Cahuita",
         "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
       },
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "El Perro Feroz",
+        "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
+      },
+      "artists": [
+        {
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 140928,
+      "name": "Diente de Le\u00f3n",
+      "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -1467,22 +1487,18 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "El Perro Feroz",
-        "url": "https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
-        {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
-        },
         {
           "name": "Silvana Estrada",
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 140928,
-      "name": "Diente de Le\u00f3n",
-      "url": "https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe"
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1530,10 +1530,6 @@
         {
           "name": "Colectivo Panamera",
           "url": "https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw"
-        },
-        {
-          "name": "Casa Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/4W9SOjwZVi72U7cc6odcuJ"
         },
         {
           "name": "Valeria Castro",
@@ -1579,6 +1575,22 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
+    },
+    {
+      "added_at": "2022-10-28 05:00:00",
+      "album": {
         "name": "P A L A B R A",
         "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
       },
@@ -1607,22 +1619,6 @@
       "duration_ms": 240449,
       "name": "Moment\u00e1nea",
       "url": "https://open.spotify.com/track/1eLXjariIFQNSwzXoTNWBl"
-    },
-    {
-      "added_at": "2022-10-28 05:00:00",
-      "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD"
     },
     {
       "added_at": "2022-10-28 05:00:00",
@@ -1791,22 +1787,18 @@
     {
       "added_at": "2022-10-28 05:00:00",
       "album": {
-        "name": "Volar\u00e9",
-        "url": "https://open.spotify.com/album/4hRvRKx006dk4eFUtNrDH1"
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
       },
       "artists": [
         {
-          "name": "Chiki Lora",
-          "url": "https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY"
-        },
-        {
-          "name": "Miryam Latrece",
-          "url": "https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         }
       ],
-      "duration_ms": 195360,
-      "name": "Volar\u00e9",
-      "url": "https://open.spotify.com/track/3uOlDLlb6pSt6W4VffyXJR"
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
     }
   ],
   "unique_name": "Cancionistas",

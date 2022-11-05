@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39fbSwb9AskCpA36373pZL">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-493 songs - 1 day 12 hr 3 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
+494 songs - 1 day 12 hr 7 min - [published](https://open.spotify.com/playlist/1V8qoYuXAl3nBrjXBEwYzP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Candy By The Pound](https://open.spotify.com/track/4gslKb4WdHVqX9FWo8aaVC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:56 | 2022-09-08 |  |
 | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Captain Fantastic And The Brown Dirt Cowboy](https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF) | 5:46 | 2022-09-08 |  |
 | [Carla/Etude \- Fanfare \- Chloe \- Remastered 2003](https://open.spotify.com/track/231kvu5STQGcqzuRDX9S9C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 10:51 | 2022-09-08 |  |
-| [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 | 2022-09-08 |  |
+| [Cartier](https://open.spotify.com/track/3zxOf1iy9N3qU23wNIY2Xc) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 0:58 | 2022-09-08 | 2022-11-05 |
 | [Chameleon](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 15:41 | 2022-09-08 |  |
 | [Chasing The Crown](https://open.spotify.com/track/2rm6U6Q9tb48T8puxaRMBp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:34 | 2022-09-08 |  |
 | [Claw Hammer](https://open.spotify.com/track/3eLc9F6UeyvjQ6QUwEocZg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:22 | 2022-09-08 |  |
@@ -101,6 +101,7 @@
 | [Dam wam znak](https://open.spotify.com/track/3CJ7Pv6VqKMpmHOxdRhwbN) | [Artur Zmijewski](https://open.spotify.com/artist/2xp0UH29O0hdWs2WMRQXsW) | [Król Lew \(Ścieżka Dźwiękowa z Filmu\)](https://open.spotify.com/album/2JBq570cXuZRg5eg6l7WWM) | 2:03 | 2022-09-08 |  |
 | [Dan Dare \(Pilot Of The Future\)](https://open.spotify.com/track/41lz4BHdOQ5MDyvQ9lwz5f) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/5S44NdVlcSkXL9AqJg4iJh) | 3:29 | 2022-09-08 |  |
 | [Dancing In The End Zone](https://open.spotify.com/track/2aLIDPBCq47lT0NI2AUblB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 3:53 | 2022-09-08 |  |
+| [Dandelions](https://open.spotify.com/track/088m4EqzTTqyd3aSsIsMpu) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 4:24 | 2022-11-04 |  |
 | [Daniel](https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:54 | 2022-09-08 |  |
 | [Dark Diamond](https://open.spotify.com/track/6k4aQRWQonqxfW5AZ3iKNa) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:26 | 2022-09-08 |  |
 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 | 2022-09-08 |  |

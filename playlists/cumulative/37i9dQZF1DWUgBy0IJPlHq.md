@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Zach Bryan
+> A new shade of Country\. Cover: Lainey Wilson
 
-349 songs - 21 hr 28 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
+350 songs - 21 hr 32 min - [published](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [In Texas With A Band](https://open.spotify.com/track/6iWhR6e5mBsUPT1Mogqny7) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [In Texas With A Band](https://open.spotify.com/album/1JhJnz9YsQMbQXcfluJb8C) | 2:52 | 2022-04-22 | 2022-05-28 |
 | [It Feels Alright](https://open.spotify.com/track/6QbSBJjorahQM08lPpFfkW) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 3:28 | 2022-05-20 |  |
 | [It Takes One To Know One](https://open.spotify.com/track/68kPetBJF8tl8DxflbOqPI) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Pins And Needles](https://open.spotify.com/album/6vf4IMJjuEUZiRCwvQOEHL) | 2:56 | 2021-12-17 | 2022-02-26 |
+| [John Deere Tractor](https://open.spotify.com/track/0NJylzU3Z26jhexTWrd9E3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [John Deere Tractor](https://open.spotify.com/album/5iAM5W8hSgOY92x4MfsSsw) | 4:31 | 2022-11-04 |  |
 | [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 | 2022-06-17 | 2022-07-30 |
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-02-18 | 2022-07-30 |
 | [John Wayne](https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:55 | 2022-07-29 |  |
@@ -269,7 +270,7 @@
 | [Something in the Orange \- Z&E's Version](https://open.spotify.com/track/7lNmcW2wW6ciV9Rhh8YOMe) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 4:14 | 2022-05-20 |  |
 | [Something on Your Mind \(Alternate Take\)](https://open.spotify.com/track/4Kx8inK6bc9CZzeMek9egh) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [Something on Your Mind \(Alternate Take\)](https://open.spotify.com/album/1QH2Bjoy2eRCt4h7nuJwmI) | 3:22 | 2022-03-25 | 2022-04-09 |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-12 |  |
-| [South Dakota Wild One](https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [South Dakota Wild One](https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV) | 3:23 | 2022-04-08 |  |
+| [South Dakota Wild One](https://open.spotify.com/track/0BJlcD5MNOzlHZr4IeFGnj) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6) | [South Dakota Wild One](https://open.spotify.com/album/4YjegqlMlr5K8fFIyvPEBV) | 3:23 | 2022-04-08 | 2022-11-05 |
 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 | 2021-12-17 |  |
 | [Starved](https://open.spotify.com/track/51dn2eCX2DhMTHtkPmZbZP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Starved](https://open.spotify.com/album/07jpOEyD7mjM3X1cW25EY4) | 4:42 | 2022-10-14 |  |
 | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/track/3xbafuZ0aEPeHSwb1qxIpV) | [Mike Campbell & The Dirty Knobs](https://open.spotify.com/artist/1pBQqdeHHjEdCtjSUAdu0G), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [State Of Mind \(feat\. Margo Price\)](https://open.spotify.com/album/2SPR1ILQhgDjoSw1j92uMo) | 4:18 | 2022-03-04 | 2022-09-10 |

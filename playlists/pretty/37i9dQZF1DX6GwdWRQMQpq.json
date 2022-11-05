@@ -1,18 +1,34 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
-  "num_followers": 2355636,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Big Boss Vette",
+  "num_followers": 2356706,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3OTAyMCwwMDAwMDAwMDY5OTY5OWEyOTFjMGFhZGFjYjdkMTBjMWNmYWYxNDUy",
+  "snapshot_id": "MTY2NzUzNDY4MSwwMDAwMDAwMDM3NTQ0OWRlYjA5ZmI4YzI5MmM5YWZiNmM0Yzg0YWNj",
   "tracks": [
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Conceited",
+        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
       },
       "artists": [
         {
@@ -20,12 +36,12 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+      "duration_ms": 146440,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Tomorrow 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
@@ -45,71 +61,7 @@
       "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Bikini Bottom",
-        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "Bikini Bottom",
-      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Pretty Girls Walk",
-        "url": "https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Pretty Girls Walk",
-      "url": "https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It's Givin",
-      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Conceited",
-        "url": "https://open.spotify.com/album/2q7cKHWIXtGBtEtARc5lyV"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/02nTpchENdZ4Nm8AfTmrFv"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Stressed",
         "url": "https://open.spotify.com/album/5c83fHwumoUMJpwvPmVCX8"
@@ -125,7 +77,39 @@
       "url": "https://open.spotify.com/track/0VgFUdSwF7cdQMixbHIXzD"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Pretty Girls Walk",
+        "url": "https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "duration_ms": 140053,
+      "name": "Pretty Girls Walk",
+      "url": "https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
@@ -141,7 +125,7 @@
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Super Freaky Girl (Queen Mix)",
         "url": "https://open.spotify.com/album/0kTHpgQCab29IVUdUIVtI6"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/4dFKEyGrwmIimMqwYleFOR"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Mind Yo Business (Feat. Latto)",
         "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
@@ -197,7 +181,39 @@
       "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Not My N*gga",
+        "url": "https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 127441,
+      "name": "Not My N*gga",
+      "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Shabooya",
         "url": "https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU"
@@ -229,39 +245,23 @@
       "url": "https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Traumazine",
-        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+        "name": "Body Bag",
+        "url": "https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 172155,
-      "name": "Gift & A Curse",
-      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+      "duration_ms": 158117,
+      "name": "Body Bag",
+      "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Not My N*gga",
-        "url": "https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 127441,
-      "name": "Not My N*gga",
-      "url": "https://open.spotify.com/track/6tL1V3GzJccYkas3w3f6QC"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Issa Photoshoot",
         "url": "https://open.spotify.com/album/2e4aU3kX5YwcF1e52ZXeF0"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/49MICz2iDO0E4suYyVYr62"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Down In The Valley (Mixtape)",
+        "url": "https://open.spotify.com/album/7nxBJnr6HvLAf5MNxh1nm5"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "duration_ms": 178752,
+      "name": "RBT",
+      "url": "https://open.spotify.com/track/6pK0FMFD0Q0GtsiZ5laA8W"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Good Love (feat. Usher)",
         "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Polygamy",
         "url": "https://open.spotify.com/album/61qI8zAnRJ6uB8l4AByc9K"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/0bJJadElLnPEfKaEsMkX52"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Wifey",
         "url": "https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J"
@@ -333,7 +349,23 @@
       "url": "https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3FzO2HSNQXKeT6XVeeEgws"
@@ -373,23 +405,7 @@
       "url": "https://open.spotify.com/track/4dRnee7aZfEe4DKBIY7otj"
     },
     {
-      "added_at": "2022-10-28 17:43:40",
-      "album": {
-        "name": "Body Bag",
-        "url": "https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75"
-      },
-      "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Body Bag",
-      "url": "https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Poppin' Them Tags",
         "url": "https://open.spotify.com/album/44LfR2QnA8kybYssWYnkf4"
@@ -437,7 +453,7 @@
       "url": "https://open.spotify.com/track/22eJd4RvbMXBf7aYVhI92h"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -453,7 +469,7 @@
       "url": "https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/3gqrkzDNwNmJH0fAqRS4sS"
@@ -469,7 +485,7 @@
       "url": "https://open.spotify.com/track/6QEYla51X7I7Uuf7QgPORf"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
@@ -485,7 +501,7 @@
       "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "THE LIZ 2",
         "url": "https://open.spotify.com/album/1dqLryXYQroTAyTfGfb6F0"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/0yfBE11LMkFcyfEEjG0gQB"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
@@ -529,7 +545,7 @@
       "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Lebra Jolie",
         "url": "https://open.spotify.com/album/28zSKv6y1iWehsGpxGbpW6"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/6tK23xx5yhFkDKcw0qN66C"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Munch (Feelin\u2019 U)",
         "url": "https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Hands Up (with Monaleo)",
         "url": "https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR"
@@ -581,7 +597,7 @@
       "url": "https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Fly Sh!t",
         "url": "https://open.spotify.com/album/38tlAzTpYRs5lL14yBjLxj"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/3HbMXSKuTdKWChpvMIKhg5"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "My Bad I\u2019m Late",
         "url": "https://open.spotify.com/album/5t7W5Ds5cX4fMs8l1lFIIN"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/4YA7aHYDUm1sfvGe6FznYB"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Life In Plastic 3",
         "url": "https://open.spotify.com/album/1dBsWvtX0Ji3sMHKjvjEyR"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/4xsLRqemrXE402nb3GHUVj"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "No Pressure (Pt. 2)",
         "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "HDBG Shemix",
         "url": "https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0qWG2omWgkNk3bgF7CqgEA"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/5zbxkF1osnZlRAknPax4D9"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Gotsta Get Paid",
         "url": "https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Don't Play With It (feat. Billy B)",
         "url": "https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Real Bitch (feat. Gloss Up)",
         "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
@@ -809,7 +825,7 @@
       "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Give U Some (feat. Rob49)",
         "url": "https://open.spotify.com/album/4ZCRbkgSa3MmQ8LX3Nf3k0"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/4zM1EkVk8jfs969NYYSZ9x"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Shape Up",
         "url": "https://open.spotify.com/album/0sdLAra6HEkMJuxB7ZkXSi"
@@ -845,7 +861,7 @@
       "url": "https://open.spotify.com/track/3gPxfcewMlw2h9n24uW4pm"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Pressurelicious (feat. Future)",
         "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Persuasive (with SZA)",
         "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "F.N.F. (Let's Go) [Remix]",
         "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "ABOW",
         "url": "https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
@@ -959,26 +975,6 @@
       "duration_ms": 170270,
       "name": "Wheelie (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Seduce & Scheme (RAP SH!T: Soundtrack From The Max Original Series)",
-        "url": "https://open.spotify.com/album/1Vv0VzKUziAaDRqZyJteBh"
-      },
-      "artists": [
-        {
-          "name": "Shawna & Mia",
-          "url": "https://open.spotify.com/artist/1IbE7R5bQCSBeMhVRbWnU7"
-        },
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        }
-      ],
-      "duration_ms": 144509,
-      "name": "Seduce & Scheme (RAP SH!T: Soundtrack From The Max Original Series)",
-      "url": "https://open.spotify.com/track/7soX1jrCsDhZdwikQiiibk"
     }
   ],
   "unique_name": "Feelin' Myself",

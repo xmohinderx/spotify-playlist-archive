@@ -1130,6 +1130,28 @@
     },
     {
       "album": {
+        "name": "numb (feat. blackbear) [slow + reverb / nitecore]",
+        "url": "https://open.spotify.com/album/4opM4mMCaGNxJiztRetx5I"
+      },
+      "artists": [
+        {
+          "name": "lilspirit",
+          "url": "https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "numb (feat. blackbear) [nitecore]",
+      "url": "https://open.spotify.com/track/2Y0rbe2vWWHlu9luTET1dg"
+    },
+    {
+      "album": {
         "name": "Only Love Can Hurt Like This (Sped Up Version)",
         "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
       },
@@ -1235,7 +1257,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 121186,
       "name": "reaLitie biTes - (Nightcore Mix)",
       "url": "https://open.spotify.com/track/3RjKonSan0ZzkbwjgL4nO8"
@@ -1283,6 +1305,24 @@
       "duration_ms": 194160,
       "name": "Say It Right - Sped Up Remix",
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
+    },
+    {
+      "album": {
+        "name": "Last Day Of Summer (Sped Up)",
+        "url": "https://open.spotify.com/album/2vIAupx3DY7BXPCG2WeQHw"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140309,
+      "name": "Shame - Sped Up",
+      "url": "https://open.spotify.com/track/0h9GRF6sk6ryhOmqp5V3yh"
     },
     {
       "album": {

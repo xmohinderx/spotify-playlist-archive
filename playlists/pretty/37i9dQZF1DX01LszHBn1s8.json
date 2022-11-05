@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udea8 it's november \ud83d\udea8 Mariah Carey is officially defrosting \ud83c\udf84\u2744\ufe0f",
-  "num_followers": 130135,
+  "num_followers": 130238,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUxNjQwMCwwMDAwMDAwMDQ2ZTE4YThhN2FmYTEzNjIxYWQzOWVlMjg1MjY5OGE4",
+  "snapshot_id": "MTY2NzU3NDc1MCwwMDAwMDAwMGM3NjVjYmZhOWQ3NDY0ZGUwZWMxYTZmOTgzZGUyZjMx",
   "tracks": [
     {
       "added_at": "2022-11-01 11:58:43",
@@ -43,6 +43,22 @@
     {
       "added_at": "2022-10-28 04:00:00",
       "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
         "name": "Chill Like That",
         "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 178908,
       "name": "Chill Like That",
       "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
-    },
-    {
-      "added_at": "2022-10-28 04:00:00",
-      "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -125,20 +125,56 @@
       "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
-      "added_at": "2022-10-28 04:00:00",
+      "added_at": "2022-11-04 15:12:30",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "Simon's Song (from the Netflix Series Young Royals)",
+        "url": "https://open.spotify.com/album/2Vw1hsZFTihZd6sPhSedUY"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+      "duration_ms": 147851,
+      "name": "Simon's Song - from the Netflix Series Young Royals",
+      "url": "https://open.spotify.com/track/0cEjzw52873lbcxhgjXNGl"
+    },
+    {
+      "added_at": "2022-11-04 15:12:30",
+      "album": {
+        "name": "Grown-ish",
+        "url": "https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 187552,
+      "name": "Lonely Ones",
+      "url": "https://open.spotify.com/track/6Mb0OgMvbb7FYQejZ6rusz"
+    },
+    {
+      "added_at": "2022-11-04 15:12:30",
+      "album": {
+        "name": "IR Electronic 1",
+        "url": "https://open.spotify.com/album/2tsMDUMO2QHIDWDMRgcvGU"
+      },
+      "artists": [
+        {
+          "name": "The Irrepressibles",
+          "url": "https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s"
+        },
+        {
+          "name": "Felsmann + Tiley",
+          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+        }
+      ],
+      "duration_ms": 183803,
+      "name": "The Most Beautiful Boy - Felsmann + Tiley Reinterpetation",
+      "url": "https://open.spotify.com/track/54fap9q6JOH7xNJBEfJch6"
     },
     {
       "added_at": "2022-10-28 04:00:00",
@@ -175,6 +211,22 @@
       "duration_ms": 171701,
       "name": "Miss You - Sped Up Version",
       "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
+    },
+    {
+      "added_at": "2022-10-28 04:00:00",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2022-10-28 04:00:00",

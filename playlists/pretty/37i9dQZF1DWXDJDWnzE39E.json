@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Poppy",
-  "num_followers": 538411,
+  "num_followers": 538662,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDg4MWIyMmFiMWFiYzBlZjRkMTMyMTc5YmRmNDgzMTE4",
+  "snapshot_id": "MTY2Njk1ODg3MiwwMDAwMDAwMDFjZDY2NDJmOWMzMDE2YzVhNWMyYzgxMjMxMGE4MTNk",
   "tracks": [
     {
       "added_at": "2022-10-28 12:07:52",
@@ -143,6 +143,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 259549,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -211,18 +211,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Fear of Dying",
-        "url": "https://open.spotify.com/album/37p6hHok2BlHQ3VjiRGrTt"
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 163062,
-      "name": "Fear of Dying",
-      "url": "https://open.spotify.com/track/1iJDsSrrVM1GrToPOMnq0e"
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/2JzsMlDbOOZbiXmfHAOREG"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 259549,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/3238Ck8nZUFvTqh4fKv8cY"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "We Bring You the Stars",
         "url": "https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 199672,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 245470,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 245470,
-      "name": "Better Without You",
-      "url": "https://open.spotify.com/track/2Mall0tN73JmkmihTZPlVt"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Amorphous",
         "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 208500,
       "name": "Brittle",
       "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -607,18 +607,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
       },
       "artists": [
         {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "Forsaken (The Aftermath)",
         "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 298634,
       "name": "Forsaken - The Aftermath",
       "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "The Bitter Truth",
-        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 262916,
-      "name": "The Game Is Over",
-      "url": "https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -791,18 +775,18 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ"
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 225692,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j"
+      "duration_ms": 262916,
+      "name": "The Game Is Over",
+      "url": "https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "Who Are The Girls?",
+        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "H\u00f8riz\u00f8ns",
         "url": "https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp"
       },
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
-        "name": "I Disagree (more)",
-        "url": "https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 193499,
-      "name": "I Disagree",
-      "url": "https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2022-10-28 12:07:52",
       "album": {
+        "name": "K.M.B.",
+        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "K.M.B.",
+      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL"
       },
@@ -1243,22 +1227,6 @@
       "duration_ms": 95693,
       "name": "Real Wild Child",
       "url": "https://open.spotify.com/track/0aJkQe2ux7kl3XKpbYVibb"
-    },
-    {
-      "added_at": "2022-10-28 12:07:52",
-      "album": {
-        "name": "K.M.B.",
-        "url": "https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5"
-      },
-      "artists": [
-        {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "K.M.B.",
-      "url": "https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh"
     },
     {
       "added_at": "2022-10-28 12:07:52",
@@ -1327,6 +1295,38 @@
       "duration_ms": 143448,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "A Villain's Monologue",
+        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "A Villain's Monologue",
+      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
+    },
+    {
+      "added_at": "2022-10-28 12:07:52",
+      "album": {
+        "name": "Apocalypse & Chill",
+        "url": "https://open.spotify.com/album/2dmr4yZUumYcbxOFT7rtGG"
+      },
+      "artists": [
+        {
+          "name": "Delain",
+          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "One Second",
+      "url": "https://open.spotify.com/track/6gsgFHFxZTUL6W9j1sGeUD"
     }
   ],
   "unique_name": "Heavy Queens",

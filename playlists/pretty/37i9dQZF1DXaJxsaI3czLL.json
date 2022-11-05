@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 116787,
+  "num_followers": 116830,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzMxNDgwMCwwMDAwMDAwMDcxM2M4ZmVjMDNkYWE0YTYxMWNkZTBjZWEwN2RmY2Rl",
+  "snapshot_id": "MTY2NzMxNDgwMCwwMDAwMDAwMGRmY2Q5OWExZGJjMzI1YTQ3YmQ5MDEzN2YyNmNmYzUy",
   "tracks": [
     {
       "added_at": "2022-11-01 15:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "\u00ffuni",
-        "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 255448,
-      "name": "\u00ffuni",
-      "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "Acoustic Versions",
         "url": "https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 213933,
       "name": "\u6df1\u547c\u5438",
       "url": "https://open.spotify.com/track/67cJ60aXMxPR2e3cjplRAb"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "\u00ffuni",
+        "url": "https://open.spotify.com/album/39r3Q8TGK1I0yXou6dXSIU"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
+        }
+      ],
+      "duration_ms": 255448,
+      "name": "\u00ffuni",
+      "url": "https://open.spotify.com/track/4vvD5OUJZaMThV6X5CvjIS"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
+        "name": "\u702c\u3068\u702c",
+        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u91ce\u5927\u6a39",
+          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+        }
+      ],
+      "duration_ms": 283149,
+      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/706DeGNlIEHqxO96lVYvPe"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "\u702c\u3068\u702c",
-        "url": "https://open.spotify.com/album/5gWa4l4159qeKUNFDBbmhS"
-      },
-      "artists": [
-        {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
-        }
-      ],
-      "duration_ms": 283149,
-      "name": "\u540c\u3058\u6708\u3092\u898b\u3066\u3044\u308b",
-      "url": "https://open.spotify.com/track/1f0WfgZV9JK1k0e8OpyqML"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "\u6c88\u9ed9\u306e\u604b\u4eba",
         "url": "https://open.spotify.com/album/7dmVoJfhWrvEj3rLaYJbFo"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 245746,
       "name": "\u5e0c\u671b\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/24dq1uvUoVVQ6WMwFTqUPl"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "\u7dba\u9e97",
-        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "NEVER FALL IN LOVE AGAIN",
-      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
         "name": "\u30de\u30db\u30ed\u30dc\u30b7\u30e4",
         "url": "https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "\u65b0\u3057\u3044\u4eba",
-        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
-      },
-      "artists": [
-        {
-          "name": "OGRE YOU ASSHOLE",
-          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
-        }
-      ],
-      "duration_ms": 278517,
-      "name": "\u65b0\u3057\u3044\u4eba",
-      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 228038,
       "name": "\u30d1\u30ec\u30fc\u30c9",
       "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "\u65b0\u3057\u3044\u4eba",
+        "url": "https://open.spotify.com/album/75EifDD2I7RqW00QqJOiT8"
+      },
+      "artists": [
+        {
+          "name": "OGRE YOU ASSHOLE",
+          "url": "https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW"
+        }
+      ],
+      "duration_ms": 278517,
+      "name": "\u65b0\u3057\u3044\u4eba",
+      "url": "https://open.spotify.com/track/0S2xgn2Mrw109X4wPrQrbd"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "Songs of Four Seasons",
-        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
-      },
-      "artists": [
-        {
-          "name": "Marter",
-          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
-        }
-      ],
-      "duration_ms": 312853,
-      "name": "Mori no kotoba",
-      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "Karakai",
         "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+        "name": "Songs of Four Seasons",
+        "url": "https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS"
       },
       "artists": [
         {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
         }
       ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+      "duration_ms": 312853,
+      "name": "Mori no kotoba",
+      "url": "https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 243846,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "Long Voyage",
-        "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
-      },
-      "artists": [
-        {
-          "name": "Tavito Nanao",
-          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
-        }
-      ],
-      "duration_ms": 371667,
-      "name": "if you just smile(\u3082\u3057\u541b\u304c\u5fae\u7b11\u3093\u3060\u3089)",
-      "url": "https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "BLUEHARLEM",
         "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "Long Voyage",
+        "url": "https://open.spotify.com/album/4VluotpD3vrZglWd2v3qSi"
+      },
+      "artists": [
+        {
+          "name": "Tavito Nanao",
+          "url": "https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a"
+        }
+      ],
+      "duration_ms": 371667,
+      "name": "if you just smile(\u3082\u3057\u541b\u304c\u5fae\u7b11\u3093\u3060\u3089)",
+      "url": "https://open.spotify.com/track/0T68jDr8wpTUtpWoxjX1ue"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
         "name": "PURPLE",
         "url": "https://open.spotify.com/album/3ChhP60S76aPShSmSifkpf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 382733,
       "name": "cast a spell on her",
       "url": "https://open.spotify.com/track/63Gc02okIgL5XTbEiP4SpQ"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
+      },
+      "artists": [
+        {
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
+        }
+      ],
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2022-11-01 15:00:00",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
+        "name": "Sleeping in Waking",
+        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        },
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 233946,
-      "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
-      "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
+      "duration_ms": 233887,
+      "name": "Sleeping in Waking",
+      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -1131,6 +1127,26 @@
       "duration_ms": 316210,
       "name": "Skiffle Song",
       "url": "https://open.spotify.com/track/5NyhaNUwfFWrfu5TRGlgi1"
+    },
+    {
+      "added_at": "2022-11-01 15:00:00",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf"
+      },
+      "artists": [
+        {
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+        },
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "\u7720\u308c\u306c\u7f8a - with TENDRE",
+      "url": "https://open.spotify.com/track/4JMKCqPqhwM7haY0mO3ezj"
     },
     {
       "added_at": "2022-11-01 15:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 166300,
       "name": "\u732b\u6751\u3055\u3093\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/30G4STumh4gJ0aq2sU3h9t"
-    },
-    {
-      "added_at": "2022-11-01 15:00:00",
-      "album": {
-        "name": "Sleeping in Waking",
-        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 233887,
-      "name": "Sleeping in Waking",
-      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

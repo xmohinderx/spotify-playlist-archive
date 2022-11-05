@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Gary Clark Jr.",
-  "num_followers": 135770,
+  "num_followers": 135810,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGIwOTFhZDQyOTVjMTRhNTdkNjIyNGYxZGVjMjNiNzAw",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDBkYjczYWFkYjJhNzQ2NGYyNGRjNDg3MTBjNTY4ZGFm",
   "tracks": [
     {
       "added_at": "2022-10-21 04:01:00",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Ballad of a Thin Man",
         "url": "https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Down the Drain",
         "url": "https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6"
@@ -87,6 +87,22 @@
       "duration_ms": 208816,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Meet Me in the Bottom / Friends",
+        "url": "https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 188991,
+      "name": "Meet Me in the Bottom",
+      "url": "https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -105,22 +121,6 @@
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
     },
     {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "QCNH",
-        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
-      },
-      "artists": [
-        {
-          "name": "Quaker City Night Hawks",
-          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
-        }
-      ],
-      "duration_ms": 173253,
-      "name": "Suit in the Back",
-      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
-    },
-    {
       "added_at": "2022-07-29 04:02:00",
       "album": {
         "name": "Light It Up",
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5IQxchphYLnE9up4m13vGX"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Blak and Blu (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/77Xto82GKsFGtx3yDvY10C"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Innocence Of Youth",
         "url": "https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "Gone to Stay",
         "url": "https://open.spotify.com/album/4WGb9jqt64iaJ6zjfXRl9E"
@@ -203,6 +203,22 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
+        "name": "QCNH",
+        "url": "https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2"
+      },
+      "artists": [
+        {
+          "name": "Quaker City Night Hawks",
+          "url": "https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu"
+        }
+      ],
+      "duration_ms": 173253,
+      "name": "Suit in the Back",
+      "url": "https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
         "name": "Give It Back To You",
         "url": "https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3"
       },
@@ -215,6 +231,22 @@
       "duration_ms": 253746,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
+      },
+      "artists": [
+        {
+          "name": "Reignwolf",
+          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
+        }
+      ],
+      "duration_ms": 146178,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -247,22 +279,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK"
-      },
-      "artists": [
-        {
-          "name": "Reignwolf",
-          "url": "https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK"
-        }
-      ],
-      "duration_ms": 146178,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s"
     },
     {
       "added_at": "2022-04-08 04:01:00",
@@ -313,22 +329,6 @@
       "url": "https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g"
     },
     {
-      "added_at": "2021-04-30 04:01:00",
-      "album": {
-        "name": "Heavy Shoes",
-        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "In The Night Time",
-      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
-    },
-    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "\"Let's Rock\"",
@@ -361,6 +361,38 @@
       "url": "https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu"
     },
     {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+    },
+    {
+      "added_at": "2021-04-30 04:01:00",
+      "album": {
+        "name": "Heavy Shoes",
+        "url": "https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "In The Night Time",
+      "url": "https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr"
+    },
+    {
       "added_at": "2020-10-16 04:02:00",
       "album": {
         "name": "Spirit's Furnace",
@@ -375,6 +407,22 @@
       "duration_ms": 194331,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -409,22 +457,6 @@
       "url": "https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
       "added_at": "2021-05-14 04:01:00",
       "album": {
         "name": "Hardware",
@@ -439,22 +471,6 @@
       "duration_ms": 153760,
       "name": "My Lucky Card",
       "url": "https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -531,22 +547,6 @@
     {
       "added_at": "2020-10-16 04:02:00",
       "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 284786,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
         "name": "Holy Ghost Fire",
         "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 236000,
       "name": "dirty claws",
       "url": "https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF"
+    },
+    {
+      "added_at": "2020-10-16 04:02:00",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 284786,
+      "name": "Too Bad",
+      "url": "https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1"
     },
     {
       "added_at": "2020-10-16 04:02:00",
@@ -799,26 +815,6 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2021-03-05 05:01:00",
-      "album": {
-        "name": "Click Click Domino (feat. Marcus King)",
-        "url": "https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 203099,
-      "name": "Click Click Domino (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     }
   ],
   "unique_name": "Modern Blues Rock",

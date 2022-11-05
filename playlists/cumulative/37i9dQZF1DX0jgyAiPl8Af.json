@@ -3131,10 +3131,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 144078,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/2BwQ6drWtHOWO4BzJmifrD"
+    },
+    {
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4hqXlZoDQ5dCMQ9aR3DpQp"
+      },
+      "artists": [
+        {
+          "name": "Luna Grove",
+          "url": "https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144078,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3phR4mqdFYMEhv2EMTrq2d"
     },
     {
       "album": {
@@ -3575,6 +3593,24 @@
     {
       "album": {
         "name": "Kaelyn",
+        "url": "https://open.spotify.com/album/3Ip0IFlSeCG0Ys3Ii7LU7T"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129888,
+      "name": "Kaelyn",
+      "url": "https://open.spotify.com/track/09Q3JqzvLtzR0uXOCoMeDn"
+    },
+    {
+      "album": {
+        "name": "Kaelyn",
         "url": "https://open.spotify.com/album/6Q8TmOw56qUXF8bnTwRhCm"
       },
       "artists": [
@@ -3585,7 +3621,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 129888,
       "name": "Kaelyn",
       "url": "https://open.spotify.com/track/5ApECtcgQM42gHHHg0ZH0H"

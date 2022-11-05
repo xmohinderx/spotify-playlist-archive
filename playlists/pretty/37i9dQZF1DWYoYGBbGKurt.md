@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,413 likes - 532 songs - 20 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,545 likes - 532 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 51 | [Esther](https://open.spotify.com/track/05TgG5O8CRsokhihROyskF) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:44 |
 | 52 | [sunnyside](https://open.spotify.com/track/06aZ7uvDM57xAOssXhf1Kj) | [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [sunnyside](https://open.spotify.com/album/3lRBsv5enZKp1NiQweYV3j) | 2:00 |
 | 53 | [looking for her](https://open.spotify.com/track/3NgO5ePtks9n4zE5lrt6X5) | [Kaiyo](https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs) | [looking for her](https://open.spotify.com/album/7aGYnGJQ3tm1CSuQBkPUrU) | 2:40 |
-| 54 | [first rays of light](https://open.spotify.com/track/7LIFJvNlXh7Bdzu7JHIU4e) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/0jNSDHHgaoAd6GzcZXqCzp) | 2:32 |
+| 54 | [first rays of light](https://open.spotify.com/track/3qjtnUlnZaIDXvjgdAs7pr) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/5TbyVC0mJwwzz28C2xlpq6) | 2:32 |
 | 55 | [You Might Miss These Days](https://open.spotify.com/track/3WoDI6W6JzmyT8Jke5rgUX) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [You Might Miss These Days](https://open.spotify.com/album/1wbyEWNJo8ZruBLJBT8bQw) | 3:15 |
 | 56 | [Fear & Trust](https://open.spotify.com/track/51mDrXPeJpkB5IvLuPXQZY) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Fear & Trust](https://open.spotify.com/album/40xkZV6wNCHv84vhtMoETj) | 1:58 |
 | 57 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 |
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 123 | [Wo Ai Ni](https://open.spotify.com/track/4ouHniccLGDuYfBBtfiuOt) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Sanctuary](https://open.spotify.com/album/5zbtPndnUWtx8dIMNplYJo) | 2:03 |
 | 124 | [spirit within](https://open.spotify.com/track/7yiTJ7blkmy0m8HVYvhbgh) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [Jhove](https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA) | [spirit within](https://open.spotify.com/album/1THDbQ2qNhLqLbR7Bb7IqI) | 2:21 |
 | 125 | [Gliders](https://open.spotify.com/track/5HRBHWKBVcC5WAawMiEdJ0) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Gliders](https://open.spotify.com/album/1HMm8jAAKiDrKvGmTpZe0t) | 2:52 |
-| 126 | [Inhumane](https://open.spotify.com/track/35F7HOpCNSW3xA97sdaQ11) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Inhumane](https://open.spotify.com/album/44Kr1NSZt3kHSC0Vb2QhMC) | 2:46 |
+| 126 | [Inhumane](https://open.spotify.com/track/35F7HOpCNSW3xA97sdaQ11) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Inhumane](https://open.spotify.com/album/44Kr1NSZt3kHSC0Vb2QhMC) | 2:46 |
 | 127 | [Fair Weather](https://open.spotify.com/track/74PtSHduPXrsGqunCMJbGs) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Fair Weather](https://open.spotify.com/album/6DqkGS3FIUctq0FcCpHgbh) | 2:41 |
 | 128 | [Lazy Days](https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Lazy Days](https://open.spotify.com/album/1kU27rgNOeTPXvGHdANVwl) | 2:07 |
 | 129 | [Too Soon](https://open.spotify.com/track/6e8JBnPiEaNClEyBRfaMJt) | [Malik Dub](https://open.spotify.com/artist/666jRy7nc2K429rujGn37f) | [Too Soon](https://open.spotify.com/album/0lTjEAIi6jvb0RDrEH9HLs) | 2:09 |
@@ -541,4 +541,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 531 | [wake up dream](https://open.spotify.com/track/6KJECUHc9yQfowRBFSLNhA) | [Qushy](https://open.spotify.com/artist/156wti6EEtzclFPBm50lUH) | [wake up dream](https://open.spotify.com/album/2MOuiisV4x9nRhWwOs1F2A) | 2:15 |
 | 532 | [Unwind](https://open.spotify.com/track/29FJzCW7Uj2VmwW4uroaiC) | [Jesse Houghton](https://open.spotify.com/artist/7LuufjFkjNN1Qwol9eOBvq) | [Unwind](https://open.spotify.com/album/5PrhLUjoJ1YGI2LjfAIZ1O) | 2:03 |
 
-Snapshot ID: `MTY2Njk1NjY4MywwMDAwMDAwMDYyYTcwOTAwOGQxMTg5MjdiYzhlOWIyMGU1YjBlZDJh`
+Snapshot ID: `MTY2Njk1NjY4MywwMDAwMDAwMGVhOWRlZWFiOWIwZjRiNTlmNzg0NzVjZWE5NmIxMTk0`

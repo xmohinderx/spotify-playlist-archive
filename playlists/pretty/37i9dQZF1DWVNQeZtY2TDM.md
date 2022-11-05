@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > From Taiwan to all the mandarin\-speaking regions, young generation is looking to hip\-hop for expression\. Cover: 桃子A1J
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,678 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,687 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 3 | [紅露](https://open.spotify.com/track/6XnnVu3YnqCDeuKUNSZgfi) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [紅露](https://open.spotify.com/album/7hPwLbYoGnEwCKNTQxKyLc) | 3:06 |
 | 4 | [Last Summer](https://open.spotify.com/track/0dlsXsg8Ch0a8yXlwkbE6T) | [Sl!ce](https://open.spotify.com/artist/4bJUbD6HkkVIVKmYYmKyIC) | [!NTO](https://open.spotify.com/album/3W4T7867lQuPCCZnTvdglU) | 2:14 |
 | 5 | [Don't go](https://open.spotify.com/track/1yoXfV6BMWcRfg3fOqhZ7x) | [仰昭光](https://open.spotify.com/artist/1R3kmFH4Bl1hbEG9ulEE2d) | [What is Love](https://open.spotify.com/album/7iElRORom3XlsLJTpgc6ug) | 2:02 |
-| 6 | [WHAT YOU TRYNA DO](https://open.spotify.com/track/6CikUnzb21HuxwIxFsBiel) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw), [chrysifloga](https://open.spotify.com/artist/3EkdOJUCO7p0mJfHERYQ1C) | [WHAT YOU TRYNA DO](https://open.spotify.com/album/7m2w81M1TMq1cCUugRzUob) | 3:52 |
+| 6 | [WHAT YOU TRYNA DO](https://open.spotify.com/track/6CikUnzb21HuxwIxFsBiel) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [WHAT YOU TRYNA DO](https://open.spotify.com/album/7m2w81M1TMq1cCUugRzUob) | 3:52 |
 | 7 | [熊孩子](https://open.spotify.com/track/6ltM5M2auv7wtAsg705QXA) | [那吾克熱\-NW](https://open.spotify.com/artist/2xbV452k0SC2JZJDtm7mqK) | [比法尼樂園](https://open.spotify.com/album/7wPfTLw1kmvBBLGamJnXga) | 2:53 |
 | 8 | [Drowning](https://open.spotify.com/track/1XXvo0XLQqEnIb0fjEr0C8) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Drowning](https://open.spotify.com/album/6tC3xfxVub5WUYcWlO7PG3) | 2:36 |
 | 9 | [別再舔嘴唇](https://open.spotify.com/track/6JaT383Sh8CVgid82yIOB7) | [於沁人](https://open.spotify.com/artist/3ZxbnbrlTWp52YpyT64Sfv), [BRBP](https://open.spotify.com/artist/4cr0LDiecyD9HJt7zE58YJ), [柯瑋倫](https://open.spotify.com/artist/5TC3RBmV635Y6yE1h9UxNa) | [別再舔嘴唇](https://open.spotify.com/album/4XJv1FJhfW54VdfyWHD7g6) | 2:52 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=5GyYCl9TR1inmSlWVghwgw\">Samantha Leonard</a> & <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=s7kj8Q57R5G9suIJCzn36g\">Dodo Nyoka</a>",
+  "description": "Net die varste in Afrikaanse musiek Cover: <a href=\"https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=5GyYCl9TR1inmSlWVghwgw\">Samantha Leonard</a> ",
   "name": "Nuwe Afrikaans",
   "published_playlist_ids": [
     "0RKP7WChEoliblztnGqALh"
@@ -44,6 +44,28 @@
     },
     {
       "album": {
+        "name": "Alledaags",
+        "url": "https://open.spotify.com/album/1wvkJ0pO8sLxBpROj36yIV"
+      },
+      "artists": [
+        {
+          "name": "Deon Meiring",
+          "url": "https://open.spotify.com/artist/5h2VPrb5uczuK8foqa2jby"
+        },
+        {
+          "name": "Janca Smit",
+          "url": "https://open.spotify.com/artist/4kIgLqrrFsze5qNKkEzXP6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226045,
+      "name": "Alledaags",
+      "url": "https://open.spotify.com/track/6NpfpVIKxbOpkH4hEHgWmR"
+    },
+    {
+      "album": {
         "name": "Anker",
         "url": "https://open.spotify.com/album/7N2WwkWNREHJxjrCOEQpIv"
       },
@@ -77,6 +99,24 @@
       "duration_ms": 213734,
       "name": "As die Plaas Byt",
       "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
+    },
+    {
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "album": {
@@ -226,6 +266,24 @@
     },
     {
       "album": {
+        "name": "By Die See",
+        "url": "https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5"
+      },
+      "artists": [
+        {
+          "name": "Harry CBY",
+          "url": "https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167190,
+      "name": "By Die See",
+      "url": "https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI"
+    },
+    {
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/6rwHalenFvXv3J6H2xj3MQ"
       },
@@ -263,6 +321,24 @@
       "duration_ms": 183000,
       "name": "Die Breils",
       "url": "https://open.spotify.com/track/51xxjNBTvFKQIfX2neagvM"
+    },
+    {
+      "album": {
+        "name": "Die Se\u00ebn",
+        "url": "https://open.spotify.com/album/79zq6kAHXeUyMLu6CWDrQV"
+      },
+      "artists": [
+        {
+          "name": "Johan Anker",
+          "url": "https://open.spotify.com/artist/3VawlZLcw70cya2MhFCj5b"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416500,
+      "name": "Die Se\u00ebn",
+      "url": "https://open.spotify.com/track/2JrpZZXrSjd6FeWsMYlZ9Z"
     },
     {
       "album": {
@@ -462,6 +538,28 @@
     },
     {
       "album": {
+        "name": "Hartklop REMIX",
+        "url": "https://open.spotify.com/album/1QiiEeFLAM14do17g5PTpA"
+      },
+      "artists": [
+        {
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
+        },
+        {
+          "name": "Shokbasse",
+          "url": "https://open.spotify.com/artist/6mS4VeH3GNYWMRO4RGJJky"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155840,
+      "name": "Hartklop REMIX",
+      "url": "https://open.spotify.com/track/29GFGVkl82QZXJHjdcDwGZ"
+    },
+    {
+      "album": {
         "name": "Hier Gaat Ons Alweer",
         "url": "https://open.spotify.com/album/2mpRZxyifeulCZI1lmBBT3"
       },
@@ -509,7 +607,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 238615,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
@@ -721,7 +819,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 188124,
       "name": "Kwaaitjie",
       "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
@@ -746,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Lekker In Suid-Afrika",
+        "url": "https://open.spotify.com/album/6tY0nQArsx8hwTIjPG3Gc6"
+      },
+      "artists": [
+        {
+          "name": "Lallie",
+          "url": "https://open.spotify.com/artist/4uSmTI5DC3mlZne6QOuSwo"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208875,
+      "name": "Lekker In Suid-Afrika",
+      "url": "https://open.spotify.com/track/1WhdprkjiCK9xECfcIpH5A"
+    },
+    {
+      "album": {
         "name": "Lentekind (Dans Remix)",
         "url": "https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq"
       },
@@ -757,7 +873,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 157232,
       "name": "Lentekind - Dans Remix",
       "url": "https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21"
@@ -993,7 +1109,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 201831,
       "name": "Naweek Vibes",
       "url": "https://open.spotify.com/track/4DvuCPPkfeJwb2yKaqM4DN"
@@ -1123,7 +1239,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 196114,
       "name": "Oor te Begin",
       "url": "https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk"
@@ -1195,7 +1311,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 170684,
       "name": "Plathond",
       "url": "https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk"
@@ -1365,7 +1481,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 212533,
       "name": "Skobbejak",
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
@@ -1484,6 +1600,24 @@
     },
     {
       "album": {
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/6HXf7BiE38LR73n1f8QDMk"
+      },
+      "artists": [
+        {
+          "name": "Jan Bloukaas",
+          "url": "https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172881,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/5OdKyaUItAU0bJZbeopN8d"
+    },
+    {
+      "album": {
         "name": "Terug In Tyd",
         "url": "https://open.spotify.com/album/3EXtRvuiaCMkuC47sz3ADI"
       },
@@ -1571,6 +1705,24 @@
       "duration_ms": 223177,
       "name": "Voel Jy My",
       "url": "https://open.spotify.com/track/5hh0AnEUkgTxDt3T2kjySl"
+    },
+    {
+      "album": {
+        "name": "Wanneer Laas",
+        "url": "https://open.spotify.com/album/5rF1zihcBSMixLjYiOChxL"
+      },
+      "artists": [
+        {
+          "name": "Tarryn Lamb",
+          "url": "https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "Wanneer Laas",
+      "url": "https://open.spotify.com/track/1oLfVuGQBnWcoBZWD2Xe8W"
     },
     {
       "album": {
@@ -1693,7 +1845,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 187094,
       "name": "Witblits",
       "url": "https://open.spotify.com/track/1MJagJs7aC4UJYZK3j5iIO"

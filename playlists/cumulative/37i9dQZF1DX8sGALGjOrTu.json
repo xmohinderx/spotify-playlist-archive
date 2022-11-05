@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "On Frail Wings Of Vanity And Wax",
+        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+    },
+    {
+      "album": {
         "name": "Downtown Battle Mountain",
         "url": "https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz"
       },
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-03",
+      "date_removed": null,
       "duration_ms": 304613,
       "name": "Lip Gloss And Black",
       "url": "https://open.spotify.com/track/2Hy81a71pPf5lPWTq1o8ub"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 279226,
       "name": "Not The American Average",
       "url": "https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 242080,
       "name": "The Final Episode (Let's Change Channel)",
       "url": "https://open.spotify.com/track/0CqCpm4LLQbHUX5ysizWJS"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 210613,
       "name": "To The Stage",
       "url": "https://open.spotify.com/track/1zalQPA3y0Latbiis4motB"
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-09",
+      "date_removed": null,
       "duration_ms": 211813,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"

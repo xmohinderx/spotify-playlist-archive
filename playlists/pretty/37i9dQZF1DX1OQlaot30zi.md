@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Rondo, Salmo e Deda, Geolier, Lazza e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,167 likes - 85 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,234 likes - 85 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 40 | [Anni Dentro \(GDL3\)](https://open.spotify.com/track/3MWDXoIkpjHSZa0J9vQttm) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Anni Dentro \(GDL3\)](https://open.spotify.com/album/5JxTAVAuuetfA0CRZMFBS1) | 2:33 |
 | 41 | [TMax](https://open.spotify.com/track/1ycTQZjVsyEEawbgxyTGFl) | [Ronny 167](https://open.spotify.com/artist/6W4RbYcnJGkxxmoNBLxlb8), [054 GANG](https://open.spotify.com/artist/10Ue3D5MtwMfazIcZ3gEGP) | [TMax](https://open.spotify.com/album/4rycUOBv30EKuyYxRG94Qr) | 2:41 |
 | 42 | [Mai Fake](https://open.spotify.com/track/5MEsS7xSpVTscYmmtsljUb) | [Sono Isa](https://open.spotify.com/artist/1fpDunFDS72TnBAad3A5nt), [Tuxxy](https://open.spotify.com/artist/4ffyvJgR5OhjbMoG3TwuLn) | [Mai Fake](https://open.spotify.com/album/32DjAB8vIZ616qDu0LvGwM) | 2:43 |
-| 43 | [33 Problemi](https://open.spotify.com/track/70r5UDIzpcxBJvQGj4pBG8) | [Giovane Zero](https://open.spotify.com/artist/4Y05rFCcsjEK0X8tqqw3Il), [Fe](https://open.spotify.com/artist/0DPATm8AKhZGhFTNmMF1HQ) | [33 Problemi](https://open.spotify.com/album/4E6j0FmiRBGBgI8t2yXJPV) | 3:07 |
+| 43 | [33 Problemi](https://open.spotify.com/track/70r5UDIzpcxBJvQGj4pBG8) | [Giovane Zero](https://open.spotify.com/artist/5G9gkmfGkhMS2aiYNkWRj5), [Fè](https://open.spotify.com/artist/4uBeQkuwBlG3UDEmKHtSqw) | [33 Problemi](https://open.spotify.com/album/4E6j0FmiRBGBgI8t2yXJPV) | 3:07 |
 | 44 | [Misère](https://open.spotify.com/track/3HkGR5ajSAUQzghxcSvJFX) | [Bubu Doc](https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi) | [Misère](https://open.spotify.com/album/3VFxZgTwenSCh3e3K5kDEU) | 2:16 |
 | 45 | [Baby Mama](https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Baby Mama](https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO) | 2:31 |
 | 46 | [1TOT](https://open.spotify.com/track/38Zp4uNQBw8goSWgr8NAkF) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [1TOT](https://open.spotify.com/album/2GwLEs08qGyLSIbDUs3wtp) | 2:17 |

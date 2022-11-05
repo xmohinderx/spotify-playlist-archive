@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz christmas classics.
 
-94 songs - 4 hr 37 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
+95 songs - 4 hr 39 min - [published](https://open.spotify.com/playlist/4gY5NRqqcG0a90IfsPyzR2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,8 +33,9 @@
 | [Christmas Night In Harlem](https://open.spotify.com/track/332PGtU23efyGgyilfneG8) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Christmas With Ella & Friends](https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI) | 2:39 | 2021-12-21 | 2022-07-29 |
 | [Christmas Night In Harlem](https://open.spotify.com/track/1oE2ZJOWfLrKU8R18OzFrI) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:42 | 2022-01-03 | 2022-10-31 |
 | [Christmas Night In Harlem \- Single Version](https://open.spotify.com/track/7vev9Pk7OHfsrhn4eH6BWF) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:39 | 2022-09-27 |  |
-| [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 | 2021-12-21 |  |
+| [Christmas Time All Over the World](https://open.spotify.com/track/2KTDECCXQYjGftNlpsCkya) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [Christmas Jazz With The Stars](https://open.spotify.com/album/4sfq7INKFIAYi8NEigZ7RY) | 2:34 | 2021-12-21 | 2022-11-05 |
 | [Christmas Time All Over the World](https://open.spotify.com/track/6o3s3bTNZnBdRgdBOQhB9k) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Best Christmas Ever](https://open.spotify.com/album/120EmRXSkzLW49alWW7R59) | 2:34 | 2022-09-27 | 2022-10-14 |
+| [Christmas Time All Over the World](https://open.spotify.com/track/0C8nRQ4PjSD8MMPP8PurAo) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Christmas Jazz With The Stars](https://open.spotify.com/album/6G82FEZvkv6CjLw8T3w4xw) | 2:34 | 2022-09-27 |  |
 | [Christmas Waltz \- Live](https://open.spotify.com/track/4NA7seRwfdJch5PyIP0fxt) | [David Benoit Trio](https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ) | [Believe](https://open.spotify.com/album/4EpjnAXDD9dMwVnbxUAz2C) | 3:56 | 2021-12-21 | 2022-07-28 |
 | [Christmas Waltz \- Live](https://open.spotify.com/track/0EtRMZ87ocVPNElTsigWtJ) | [David Benoit Trio](https://open.spotify.com/artist/5NxxiI9sRWMIQlDDrnxhvJ), [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Believe](https://open.spotify.com/album/3in4JMLDU4UAflQrIpyt16) | 3:56 | 2022-01-03 |  |
 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 | 2021-12-21 |  |

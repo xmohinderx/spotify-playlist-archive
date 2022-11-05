@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Featuring new music by The Backseat Lovers.
 
-713 songs - 1 day 14 hr 47 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+720 songs - 1 day 15 hr 11 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ada](https://open.spotify.com/track/2vDQzwgwucNg6Iyts3okJ8) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Ada](https://open.spotify.com/album/6ZnjyMbIWQmCiQMVMRf4tF) | 2:39 | 2021-08-27 | 2022-06-09 |
 | [Addicted](https://open.spotify.com/track/2dlnnHHv1ntw2M4uM1ShK1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Addicted](https://open.spotify.com/album/6mPTYS6E9dHHiIskWTfLgi) | 4:22 | 2022-04-08 | 2022-10-01 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |
+| [After Midnight](https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:11 | 2022-11-04 |  |
 | [After The Earthquake](https://open.spotify.com/track/5fcVB2CYi7GAgQcQfqsTVL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 3:05 | 2022-10-07 |  |
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-10-09 |
 | [Ain't Over You](https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [Ain't Over You](https://open.spotify.com/album/4T6RG1HJfpKQ5Y1Mbm3crO) | 3:29 | 2021-06-07 | 2022-01-23 |
@@ -229,6 +230,7 @@
 | [F.O.O.F.](https://open.spotify.com/track/2Yo3BxnzxMeWkvTx1QKBo9) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [F.O.O.F.](https://open.spotify.com/album/5i5HuSf0QVHoyeWIcJxP3Z) | 2:08 | 2022-09-30 | 2022-10-22 |
 | [Face Again](https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Hats Off](https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz) | 2:14 | 2021-06-07 | 2022-02-04 |
 | [Facts of Life](https://open.spotify.com/track/1VDSmyonWfkUKkDGyr7BDf) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Facts of Life](https://open.spotify.com/album/1iwq4GcEquagnE6V3oAIr2) | 4:08 | 2022-04-08 | 2022-10-08 |
+| [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-04 |  |
 | [False Idols](https://open.spotify.com/track/6oofSlzxDnFothYfq2jfCi) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [False Idols](https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE) | 2:53 | 2021-07-23 | 2022-01-31 |
 | [Favorite Sin](https://open.spotify.com/track/7lHXPeUCPJKmoAL5lS9Nln) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Favorite Sin](https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK) | 3:42 | 2021-07-19 | 2022-01-29 |
 | [Feel A Thing](https://open.spotify.com/track/2KXudYjDXkUbbLzN5VXT7N) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Feel A Thing](https://open.spotify.com/album/5JcDvYT7w6o6Mz9Yv7aVFw) | 3:26 | 2021-06-18 | 2022-04-15 |
@@ -282,6 +284,7 @@
 | [Hatch](https://open.spotify.com/track/5McjD7rGbob7zDr8k0xnO1) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Hatch](https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56) | 3:14 | 2021-09-17 | 2022-04-29 |
 | [Head Cheerleader](https://open.spotify.com/track/73DSvDKrNsvmVhvVJGwoGF) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Head Cheerleader](https://open.spotify.com/album/3b0fhWtykcE0DBzpqQsdAe) | 3:08 | 2021-06-07 | 2022-04-17 |
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-17 | 2022-04-09 |
+| [heart attack](https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:26 | 2022-11-04 |  |
 | [HeatDeath](https://open.spotify.com/track/5plb2kCKv1w1VJIL6NBnPR) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [HeatDeath](https://open.spotify.com/album/0i5IzMJEOcCr8P6dUb9W2n) | 5:17 | 2021-07-19 | 2022-05-26 |
 | [Hello Sunshine](https://open.spotify.com/track/0gWJjbrMpbWkOauTiWghvV) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Hello Sunshine](https://open.spotify.com/album/4QO0A5dTLKEkjKMQuFGH9i) | 3:42 | 2022-06-14 |  |
 | [help herself](https://open.spotify.com/track/4YMc3A256xFBS0xcT77Qce) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [help herself](https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8) | 3:08 | 2021-06-07 | 2022-04-15 |
@@ -362,6 +365,7 @@
 | [Juliette](https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Juliette](https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm) | 2:50 | 2021-06-07 | 2022-06-11 |
 | [JUNO](https://open.spotify.com/track/5eGnzWOwLq7zhnj9XsTFY4) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [JUNO](https://open.spotify.com/album/0K0zA9j4dAYRTSzO4OoRp0) | 2:53 | 2021-08-06 | 2022-04-21 |
 | [Just Before The Morning](https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Just Before The Morning](https://open.spotify.com/album/6xfQHjndhrWjgENyEK0z7x) | 3:34 | 2022-10-14 |  |
+| [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 | 2022-11-04 |  |
 | [karma](https://open.spotify.com/track/3FSIUk2plQDBim7dgpoKpq) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [karma](https://open.spotify.com/album/2II0FsJZPvDHwpiNIEQ5WM) | 4:19 | 2021-06-25 | 2022-04-09 |
 | [Keeper](https://open.spotify.com/track/5IGU1JWZSHU6ivB7pYxONX) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Keeper](https://open.spotify.com/album/1tMQnzjk1JiFwN9BKg7ZRX) | 3:08 | 2021-10-02 | 2022-04-21 |
 | [Killer Killer](https://open.spotify.com/track/28pdEYcP6nRdZ8RtnpglrP) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Killer Killer](https://open.spotify.com/album/08Ee55dD0r8WZbWI9rZjMl) | 3:26 | 2021-07-23 | 2022-01-25 |
@@ -471,6 +475,7 @@
 | [Ooh! Sumthin' New](https://open.spotify.com/track/21gFDOFAFuXqMrb7TnlwxU) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Ooh! Sumthin' New](https://open.spotify.com/album/3w6clsgJhlKzGVLzQ6VOfc) | 4:45 | 2022-07-29 | 2022-10-29 |
 | [Orange](https://open.spotify.com/track/0r0SZamMJGK79OyQtVdgs1) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Orange](https://open.spotify.com/album/4FSK9LM4KN6rza3sZjAMXI) | 4:29 | 2021-08-27 | 2022-01-29 |
 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 | 2022-10-14 |  |
+| [Over and over](https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6) | [Brooke Bentham](https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A) | [Over and over](https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt) | 4:24 | 2022-11-04 |  |
 | [Overdrive](https://open.spotify.com/track/4ucSjq2iXP7H3dLYo12gV5) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [Overdrive](https://open.spotify.com/album/0wodCHdYleETfWPgbQjEkh) | 2:28 | 2022-06-17 | 2022-07-23 |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2021-06-18 | 2022-04-18 |
 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 | 2021-10-29 | 2022-01-28 |
@@ -521,6 +526,7 @@
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2021-06-07 | 2022-04-15 |
 | [Rid Of Me](https://open.spotify.com/track/2vVP0dYc6rjkXalTfPthfa) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Rid Of Me](https://open.spotify.com/album/6M1gUhD4vXvWeEJ49maP1U) | 3:37 | 2022-09-23 |  |
 | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/track/3SOBxGdnsGLRtFSAg5kbYa) | [FRogers](https://open.spotify.com/artist/7EdXsk95xxUzYbed3oC2b8) | [Right Ones \(Cecily Takes an Awkward View\)](https://open.spotify.com/album/2q73TKq2sU5pjyavXJGpu7) | 3:01 | 2021-06-07 | 2022-04-08 |
+| [Roadkill](https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Roadkill](https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv) | 2:04 | 2022-11-04 |  |
 | [rom com 2004](https://open.spotify.com/track/3q49241UYPoz4kfG2czJno) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [rom com 2004](https://open.spotify.com/album/3q1oMpbkdldxAeiuNc74lq) | 2:53 | 2021-07-19 | 2022-04-10 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/4AXS0kSzmuhAAYJtVKbZDq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3) | 2:46 | 2021-06-07 | 2022-06-11 |
@@ -578,6 +584,7 @@
 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 | 2021-06-07 | 2022-06-11 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-06-08 | 2022-06-11 |
 | [Stars](https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Stars](https://open.spotify.com/album/3OTRR5C4VpcZttyfQz5ouG) | 2:43 | 2022-03-25 | 2022-07-02 |
+| [Start This Over](https://open.spotify.com/track/3rghzWiJzh59FHeec1hcfK) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Attaboy](https://open.spotify.com/album/3BKkbvHT458y5uGt7VE2NU) | 3:33 | 2022-11-04 |  |
 | [State](https://open.spotify.com/track/4ZFsF3EGQFsoFOO2vA0w96) | [Laura Stevenson](https://open.spotify.com/artist/1lVadNivMiSkc2N6irhWdg) | [State](https://open.spotify.com/album/73d4kAWIKubrlZ3ybWL3T0) | 2:58 | 2021-06-11 | 2022-04-18 |
 | [Stay Away Still](https://open.spotify.com/track/6lJKplKGxEo28IitN7Fak0) | [My Idea](https://open.spotify.com/artist/7rfkR5Nc8l4eA34a7eazoW) | [Stay Away Still / That's My Idea](https://open.spotify.com/album/6dq9Gc5y69F6WcKjhhHoaa) | 2:33 | 2021-07-02 | 2022-04-19 |
 | [Stop Making This Hurt](https://open.spotify.com/track/32srSGuuy12hEhrD2iCIIK) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Stop Making This Hurt](https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX) | 3:19 | 2021-06-07 | 2022-04-17 |

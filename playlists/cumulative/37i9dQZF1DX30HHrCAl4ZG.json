@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/21rpBPAlXAvBavvu5kCQzs"
+    },
+    {
+      "album": {
         "name": "Blue Rev",
         "url": "https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq"
       },
@@ -4022,6 +4040,24 @@
     },
     {
       "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276320,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B"
+    },
+    {
+      "album": {
         "name": "False Idols",
         "url": "https://open.spotify.com/album/5Ee1l61ddtdGsVf9B7VcfE"
       },
@@ -4981,6 +5017,24 @@
       "duration_ms": 196000,
       "name": "Headset Go",
       "url": "https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu"
+    },
+    {
+      "album": {
+        "name": "worm food",
+        "url": "https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "heart attack",
+      "url": "https://open.spotify.com/track/08noUkx67pSwQuHnFhIcsF"
     },
     {
       "album": {
@@ -6437,6 +6491,24 @@
       "duration_ms": 214497,
       "name": "Just Before The Morning",
       "url": "https://open.spotify.com/track/3fIblK7WOWpnT39WIjP8tD"
+    },
+    {
+      "album": {
+        "name": "Miss Power",
+        "url": "https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD"
+      },
+      "artists": [
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx"
     },
     {
       "album": {
@@ -8438,6 +8510,24 @@
     },
     {
       "album": {
+        "name": "Over and over",
+        "url": "https://open.spotify.com/album/5AfjwhZxK3ERoaEuXsVhzt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Bentham",
+          "url": "https://open.spotify.com/artist/6c1CljS2C5YB6k7INEUs0A"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "Over and over",
+      "url": "https://open.spotify.com/track/41mJD5RHlzYqnDLOVhX5f6"
+    },
+    {
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/0wodCHdYleETfWPgbQjEkh"
       },
@@ -9347,6 +9437,24 @@
       "duration_ms": 181176,
       "name": "Right Ones (Cecily Takes an Awkward View)",
       "url": "https://open.spotify.com/track/3SOBxGdnsGLRtFSAg5kbYa"
+    },
+    {
+      "album": {
+        "name": "Roadkill",
+        "url": "https://open.spotify.com/album/4I6KtoBDbRNR7R5DvQA7Nv"
+      },
+      "artists": [
+        {
+          "name": "fanclubwallet",
+          "url": "https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Roadkill",
+      "url": "https://open.spotify.com/track/4UV8lFpuRuIS3UXJ1AbmTM"
     },
     {
       "album": {
@@ -10401,6 +10509,24 @@
       "duration_ms": 163670,
       "name": "Stars",
       "url": "https://open.spotify.com/track/5jZBhZi5ZrE3EDOdEJdHrn"
+    },
+    {
+      "album": {
+        "name": "Attaboy",
+        "url": "https://open.spotify.com/album/3BKkbvHT458y5uGt7VE2NU"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213530,
+      "name": "Start This Over",
+      "url": "https://open.spotify.com/track/3rghzWiJzh59FHeec1hcfK"
     },
     {
       "album": {

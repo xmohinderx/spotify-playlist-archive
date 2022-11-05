@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 8431,
+  "num_followers": 8456,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDlkMTJhZDdhMDYxNzhhMGQ3NjYxY2E2ZGM5MTA3NmFj",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGFjMjM5YjJlOGU0M2FkMjJhZWU0ZDY3NTU3ODhiZDQw",
   "tracks": [
     {
       "added_at": "2022-10-13 23:00:00",
@@ -805,20 +805,24 @@
       "url": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
     },
     {
-      "added_at": "2022-08-18 23:00:00",
+      "added_at": "2022-09-30 06:26:52",
       "album": {
-        "name": "Torn Tapestries",
-        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
       },
       "artists": [
         {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Naomi Achu",
+          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
         }
       ],
-      "duration_ms": 162352,
-      "name": "Heartburn (Sooibrand)",
-      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
+      "duration_ms": 208896,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -841,24 +845,20 @@
       "url": "https://open.spotify.com/track/2jY01b9OU1WFhDlsrD17Yd"
     },
     {
-      "added_at": "2022-09-30 06:26:52",
+      "added_at": "2022-08-18 23:00:00",
       "album": {
-        "name": "Fight For You",
-        "url": "https://open.spotify.com/album/6c9lJuYxGTn9u7WEYimS67"
+        "name": "Torn Tapestries",
+        "url": "https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1"
       },
       "artists": [
         {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Naomi Achu",
-          "url": "https://open.spotify.com/artist/4Q8E3fomRdmnzlhOP14npl"
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh"
         }
       ],
-      "duration_ms": 208896,
-      "name": "Fight For You",
-      "url": "https://open.spotify.com/track/486xqw5vpm02s7I4ft7p3Q"
+      "duration_ms": 162352,
+      "name": "Heartburn (Sooibrand)",
+      "url": "https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1177,26 +1177,6 @@
       "url": "https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Better Days / Wetin Dey",
-        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        }
-      ],
-      "duration_ms": 187424,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
-    },
-    {
       "added_at": "2022-09-30 06:26:52",
       "album": {
         "name": "Spring to Summer",
@@ -1215,6 +1195,26 @@
       "duration_ms": 254326,
       "name": "Suga Candy",
       "url": "https://open.spotify.com/track/3I4vcrlm9FLM2IT0xTuef8"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Better Days / Wetin Dey",
+        "url": "https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "WANI",
+          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
+        }
+      ],
+      "duration_ms": 187424,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -1405,6 +1405,26 @@
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
     },
     {
+      "added_at": "2022-10-28 12:50:44",
+      "album": {
+        "name": "R-/LBT",
+        "url": "https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2"
+        },
+        {
+          "name": "Riunga",
+          "url": "https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN"
+        }
+      ],
+      "duration_ms": 230808,
+      "name": "Lights Down Low",
+      "url": "https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "OTR Vol.2",
@@ -1463,34 +1483,6 @@
       "duration_ms": 353230,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2DHvPClgI3WfnozlHpirmf"
-    },
-    {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Wamuhle",
-        "url": "https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw"
-      },
-      "artists": [
-        {
-          "name": "DJ So Nice",
-          "url": "https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te"
-        },
-        {
-          "name": "KLY",
-          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
-        },
-        {
-          "name": "Saudi",
-          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
-        },
-        {
-          "name": "BonafideBilli",
-          "url": "https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "Wamuhle",
-      "url": "https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws"
     }
   ],
   "unique_name": "Chill Bops",

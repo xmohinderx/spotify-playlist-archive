@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: WHOKILLEDXIX
 
-171 songs - 9 hr 2 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
+172 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Better Each Day](https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Better Each Day](https://open.spotify.com/album/35XWKWnRUNK5w3ievzNtPc) | 3:04 | 2021-12-20 | 2022-08-26 |
 | [BFS](https://open.spotify.com/track/7IrqBe8gXzN5DPm98SIIQ1) | [Viji](https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi) | [Suck It](https://open.spotify.com/album/2NqQ1eOFTuwZR1gEwOtqCp) | 3:13 | 2021-12-20 | 2022-02-16 |
 | [BLACKOUT](https://open.spotify.com/track/7yp84j0ivUrkeEWtYUxvKp) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [BLACKOUT](https://open.spotify.com/album/0W0I2VBZ4UQRIAmq3LDu5f) | 2:53 | 2021-12-20 | 2022-02-16 |
-| [Bloom](https://open.spotify.com/track/2YC5FKEs0oZznyxi0k4NpZ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 3:50 | 2022-08-28 |  |
+| [Bloom](https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 3:50 | 2022-09-29 |  |
+| [Bloom](https://open.spotify.com/track/2YC5FKEs0oZznyxi0k4NpZ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/0uNIaCQrRPUMkdnev3zMRt) | 3:50 | 2022-08-28 | 2022-11-05 |
 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 | 2022-08-28 |  |
 | [Boring](https://open.spotify.com/track/3FfxSDPqcaUuisrMQmiheD) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Boring](https://open.spotify.com/album/6ScocnQZ8S77TH9iOKPY1o) | 3:28 | 2021-12-20 | 2022-08-26 |
 | [Broken Homes](https://open.spotify.com/track/2QWniZuCkw3lfpcFlF9ddJ) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 4:18 | 2022-07-07 |  |

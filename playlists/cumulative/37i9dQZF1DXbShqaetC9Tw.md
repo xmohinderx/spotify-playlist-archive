@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-163 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
+164 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [but I'll wait for you](https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 1:59 | 2022-04-18 |  |
 | [cage](https://open.spotify.com/track/5Xjn6An66oYZ7yB4wifj0t) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Riddle](https://open.spotify.com/album/37jhqfjnQFN5ObACGJkdUv) | 1:50 | 2022-04-18 | 2022-07-28 |
 | [canker sore](https://open.spotify.com/track/5qhXWqao5odxYdRYW0CBVy) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:12 | 2022-04-18 | 2022-04-21 |
+| [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 |  |
 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 | 2022-04-21 |  |
 | [Close to the end](https://open.spotify.com/track/534of4xXNHXK9DOk0BRIK9) | [The Paradice](https://open.spotify.com/artist/0gsf1rw2Mtxc2DORnT2FQ1) | [Close to the end](https://open.spotify.com/album/0HpwI0wcsHlnGlFED3hkNG) | 3:30 | 2022-04-21 | 2022-07-20 |
 | [CTRL+Z \(Feat\. GIST, Inmo Yang\)](https://open.spotify.com/track/6GOeHzr2n11XBa3zt7HUBt) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Inmo Yang](https://open.spotify.com/artist/7cXRMAMNbxRda5ImdTJQ5H) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:04 | 2022-04-21 | 2022-07-21 |
@@ -99,7 +100,7 @@
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-07-04 | 2022-07-15 |
 | [midnight](https://open.spotify.com/track/6SuEgkFfiESo1pMLSyAbl3) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:34 | 2022-05-11 | 2022-07-19 |
 | [Midnight, spring](https://open.spotify.com/track/7xFx14KbvPwgP7Luce2Bsl) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [NOV3L](https://open.spotify.com/album/4hngFrSqcd2P7zgwKmooh9) | 3:38 | 2022-06-03 | 2022-06-07 |
-| [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 | 2022-04-18 |  |
+| [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [Eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 | 2022-04-18 | 2022-11-05 |
 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 | 2022-04-21 | 2022-08-19 |
 | [Move On](https://open.spotify.com/track/3NpxOsBE4XYhrOsPLjqAgA) | [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Lost In Blue](https://open.spotify.com/album/5VKUK8vtlTPyUcAHOPcff5) | 3:01 | 2022-04-18 | 2022-04-21 |
 | [Movies](https://open.spotify.com/track/294UWedgLQooQs8ETGrNWD) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/2rwFQMzjIl55c4uTnxuJ6D) | 1:56 | 2022-04-18 | 2022-07-29 |

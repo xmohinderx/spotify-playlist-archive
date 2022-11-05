@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2309483,
+  "num_followers": 2309965,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDRmNjExN2Y3ZTlkNTJhNTM0MzYwNzgxY2M4MzRlYTNi",
+  "snapshot_id": "MTY2MzY2MTYyMywwMDAwMDAwMDZkYmJmNjYwODVlNmRiZmZhNTYyMDdkYjMyYzM5MGJj",
   "tracks": [
     {
       "added_at": "2022-09-20 08:13:43",
@@ -507,6 +507,22 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/2WNYwZg6JlIjSkQGq0fggk"
+        "name": "Buruguduystunstugudunstuy",
+        "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
       },
       "artists": [
         {
-          "name": "Imago",
-          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
         }
       ],
-      "duration_ms": 243653,
-      "name": "Sundo",
-      "url": "https://open.spotify.com/track/2OqQDFY4MgzkAoAZ67CscA"
+      "duration_ms": 182200,
+      "name": "Harana",
+      "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -571,22 +587,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Buruguduystunstugudunstuy",
-        "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
-      },
-      "artists": [
-        {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Harana",
-      "url": "https://open.spotify.com/track/3gyEt1vswIEbpQqBs18Lha"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Romantico",
         "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "KLWKN",
         "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 256572,
       "name": "KLWKN",
       "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
-        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
-      },
-      "artists": [
-        {
-          "name": "The Itchyworms",
-          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
-        }
-      ],
-      "duration_ms": 260599,
-      "name": "Di Na Muli",
-      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
-    },
-    {
-      "added_at": "2022-09-20 08:13:43",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
       },
@@ -731,34 +715,34 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Nang Dumating Ka",
-        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
+        "name": "Sid & Aya (Not a Love Story) [Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U"
       },
       "artists": [
         {
-          "name": "Bandang Lapis",
-          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
         }
       ],
-      "duration_ms": 379804,
-      "name": "Nang Dumating Ka",
-      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
+      "duration_ms": 260599,
+      "name": "Di Na Muli",
+      "url": "https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p"
     },
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "Nina",
-        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
+        "name": "G9",
+        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
       },
       "artists": [
         {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
+          "name": "Gloc 9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
         }
       ],
-      "duration_ms": 214773,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
+      "duration_ms": 244600,
+      "name": "Simpleng Tao",
+      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
     },
     {
       "added_at": "2022-09-20 08:13:43",
@@ -779,18 +763,34 @@
     {
       "added_at": "2022-09-20 08:13:43",
       "album": {
-        "name": "G9",
-        "url": "https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG"
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
       },
       "artists": [
         {
-          "name": "Gloc 9",
-          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Simpleng Tao",
-      "url": "https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3"
+      "duration_ms": 214773,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
+    },
+    {
+      "added_at": "2022-09-20 08:13:43",
+      "album": {
+        "name": "Nang Dumating Ka",
+        "url": "https://open.spotify.com/album/0pKql5M2xJjgryZLA9H4T9"
+      },
+      "artists": [
+        {
+          "name": "Bandang Lapis",
+          "url": "https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx"
+        }
+      ],
+      "duration_ms": 379804,
+      "name": "Nang Dumating Ka",
+      "url": "https://open.spotify.com/track/7Kh9hYahcc7CY9ySWAhbfe"
     },
     {
       "added_at": "2022-09-20 08:13:43",

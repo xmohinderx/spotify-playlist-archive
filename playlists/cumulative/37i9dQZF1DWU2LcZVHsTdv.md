@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Darius Rucker
 
-152 songs - 9 hr 18 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
+154 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2022-07-15 |  |
 | [I Saw God Today](https://open.spotify.com/track/7maV3I3KQNYpsOWYTOhGqn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 3:23 | 2021-12-10 |  |
 | [I Saw The Light](https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [I Serve A Savior](https://open.spotify.com/album/0qmQNcXPAl8V4wPFWC3QDx) | 3:21 | 2021-12-10 |  |
+| [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2022-11-04 |  |
 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 | 2021-12-10 |  |
 | [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 | 2022-05-13 | 2022-10-13 |
 | [If God Took Days Off](https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 2:34 | 2022-10-07 |  |
@@ -106,6 +107,7 @@
 | [Pray](https://open.spotify.com/track/66oQl7gyMXeES39CtQ1GD9) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:33 | 2021-12-10 |  |
 | [Pray About Everything](https://open.spotify.com/track/7eOizXz9BZ7Vc6Scgwh1hC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 3:16 | 2021-12-10 |  |
 | [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-10 |  |
+| [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 | 2022-11-04 |  |
 | [Prodigal Son's Prayer](https://open.spotify.com/track/5yVesQH1l8bOgjuWN0ub2a) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 2:51 | 2021-12-10 |  |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-01-07 |  |
 | [Real Men Love Jesus](https://open.spotify.com/track/4PUd2AwQAWY05WWR5qxig9) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Michael Ray](https://open.spotify.com/album/1JBo2GmY1NskygCzWzGqHF) | 3:11 | 2021-12-10 |  |

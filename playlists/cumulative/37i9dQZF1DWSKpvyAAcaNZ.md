@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-241 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+242 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Downtown](https://open.spotify.com/track/7tpeg78Vs5xQw3dx2NwymI) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Downtown](https://open.spotify.com/album/6sYe6xExPwNCbGnjm8sFZ4) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-22 |  |
 | [Dreamcatchers](https://open.spotify.com/track/7uXwbnpGfGRwlB7CWeC6Aw) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/0FRWio6Rx37fyPEBj5BmpI) | 1:51 | 2021-12-17 | 2022-07-29 |
-| [Early Morning Shakes](https://open.spotify.com/track/4lXBIshfa0juWxi6odtLHt) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Early Morning Shakes](https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR) | 3:17 | 2021-12-17 |  |
+| [Early Morning Shakes](https://open.spotify.com/track/4lXBIshfa0juWxi6odtLHt) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Early Morning Shakes](https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR) | 3:17 | 2021-12-17 | 2022-11-05 |
 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 | 2021-12-17 |  |
 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 | 2022-07-22 |  |
 | [Fire](https://open.spotify.com/track/3twEx52dboO1CqWu5x1i2h) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Fire](https://open.spotify.com/album/3zxPi455ceNpbN55gBMSIu) | 3:17 | 2021-12-17 | 2022-07-29 |
@@ -121,6 +121,7 @@
 | [It Feels Good](https://open.spotify.com/track/3XwxEVxE7Z1w8gmvCh4fOF) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [Spark](https://open.spotify.com/album/6jUadvmd8sF6uU4lF2E8Ho) | 2:39 | 2022-07-22 |  |
 | [It Feels Good](https://open.spotify.com/track/0WpeWBfFMp56vgpo4lMG5z) | [Drake White](https://open.spotify.com/artist/29ijED2bnnprp2TciAK1aO) | [It Feels Good](https://open.spotify.com/album/6zFQbhCyLdxMvcKJAJw9mL) | 2:41 | 2021-12-17 | 2022-07-29 |
 | [It Runs Together](https://open.spotify.com/track/55b9agxjfRMKHdFOYewTij) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [It Runs Together](https://open.spotify.com/album/7lMStVkckd5fHWzzhdsZ6N) | 3:22 | 2021-12-17 |  |
+| [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [It's Only Rock 'N' Roll \(But I Like It\)](https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS) | 5:22 | 2022-11-04 |  |
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/0fXMFBprRtdpOhA8fIcxPs) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/5K7VYgm2UUdIdis8H3zMhA) | 2:50 | 2021-12-17 | 2022-07-29 |
 | [I’m a Raven \(Shake Children\)](https://open.spotify.com/track/50ekLb1wXqwCalbH4onfGU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Lateness of Dancers](https://open.spotify.com/album/7MwUlRv3S9pM6pCJPVYRCV) | 2:50 | 2022-07-22 |  |
 | [Jack of Diamonds](https://open.spotify.com/track/2q7WMhP5z4P5vF4Z7aztNQ) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood](https://open.spotify.com/album/1uPGBP7oekFZSUgik5AKv7) | 4:12 | 2021-12-17 | 2022-04-29 |

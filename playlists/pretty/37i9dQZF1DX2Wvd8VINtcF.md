@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,283 likes - 99 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,295 likes - 99 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 32 | [Pineapple Slice \(with SG Lewis\)](https://open.spotify.com/track/66mhaHoJIiVWB3lwA6974s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 2:56 |
 | 33 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
 | 34 | [The visit](https://open.spotify.com/track/1nlpf45g4i27ONz9Ijt5Mo) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [The visit](https://open.spotify.com/album/0WO7ZxHmZHAfQKpVxCBO3a) | 4:07 |
-| 35 | [Love Is My Condition](https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition](https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK) | 3:08 |
+| 35 | [Love Is My Condition](https://open.spotify.com/track/7JMIWkV5UaYvXFjNk0Dw0B) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition / Away](https://open.spotify.com/album/5Yyqtdm1bLpOij6ISgvG8K) | 3:08 |
 | 36 | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/track/14d8Wq66lf1dVeWJHIfkYj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA), [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v) | [Chasing Paradise \(veggi Remix\)](https://open.spotify.com/album/0tikmnRkujvStXn026TY9J) | 2:19 |
 | 37 | [i don’t feel the same](https://open.spotify.com/track/6uLkhHrg56r7qzGzIKTmpx) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [i don’t feel the same](https://open.spotify.com/album/6dh383KA5FHseEX1QEHRCj) | 2:44 |
 | 38 | [Endlessly \- Live At NPR's Tiny Desk](https://open.spotify.com/track/0VWDJgtqJZSxP6hDvBRZUa) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live at NPR's Tiny Desk](https://open.spotify.com/album/1CL1wSjhXdJtn2LZieUbHe) | 4:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 99 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 |
 
-Snapshot ID: `MTY2NzUxMjgwMCwwMDAwMDAwMDJlN2Y0MWIwMGIwMTI0ZGQzNDZiY2JmMTUxOTI5Nzg5`
+Snapshot ID: `MTY2NzUxMjgwMCwwMDAwMDAwMGZhMGQ1ZWEyZjU2MWQ3MzJkZWI5M2EyNDAwMmRjNzEy`

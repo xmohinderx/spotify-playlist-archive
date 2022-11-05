@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 19516,
+  "num_followers": 19575,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDNlZDMzMjA2Y2NlMDU4MjFiZGI0ZTg3MThhMzgxYzZj",
+  "snapshot_id": "MTY2MjUxMjg5NiwwMDAwMDAwMDI0NDhkZGM1OTIyYWYwYzYxYmFlMTBmMjliNTllNWFj",
   "tracks": [
     {
       "added_at": "2022-08-01 20:17:22",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "King Chang\u00f3",
-        "url": "https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 340746,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Ay! Ay! Amor!",
         "url": "https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 165046,
       "name": "Ay! Ay! Amor!",
       "url": "https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "King Chang\u00f3",
+        "url": "https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 340746,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2147,38 +2147,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 302813,
-      "name": "Delfino",
-      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Flores para los Muertos",
         "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
       },
@@ -2195,6 +2163,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 302813,
+      "name": "Delfino",
+      "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 191824,
       "name": "Marchez",
       "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2239,22 +2239,6 @@
       "duration_ms": 249800,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
-        "name": "Morbo's Club",
-        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
-      },
-      "artists": [
-        {
-          "name": "Sekta Core",
-          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "La Zona del Terror",
-      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Fire Island",
-        "url": "https://open.spotify.com/album/4BPUme4NuJx36uU6crZCGG"
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
       "artists": [
         {
-          "name": "Tequila & The Sunrise Gang",
-          "url": "https://open.spotify.com/artist/14NP6vwv3dCn1ckRIhVlZw"
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
         }
       ],
-      "duration_ms": 200013,
-      "name": "Campfire Light",
-      "url": "https://open.spotify.com/track/6DJs7pZjXXp1lZB8OJlOrp"
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2355,6 +2339,22 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
+        "name": "Fire Island",
+        "url": "https://open.spotify.com/album/4BPUme4NuJx36uU6crZCGG"
+      },
+      "artists": [
+        {
+          "name": "Tequila & The Sunrise Gang",
+          "url": "https://open.spotify.com/artist/14NP6vwv3dCn1ckRIhVlZw"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "Campfire Light",
+      "url": "https://open.spotify.com/track/6DJs7pZjXXp1lZB8OJlOrp"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
         "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
         "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
       },
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Made In Barna",
         "url": "https://open.spotify.com/album/62j8EctPF6KpEtcnOXQASE"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 148640,
       "name": "Pirata Capit\u00e1n",
       "url": "https://open.spotify.com/track/0peCjjvb2ub8kitZbO8JwN"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Puerto Hurraco",
         "url": "https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0"
       },
@@ -2483,18 +2467,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "The Aggrolites",
-        "url": "https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu"
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
       },
       "artists": [
         {
-          "name": "The Aggrolites",
-          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 229693,
-      "name": "Countryman Fiddle",
-      "url": "https://open.spotify.com/track/6ecUJEiugqWHcOursGGfSU"
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2511,6 +2495,22 @@
       "duration_ms": 251880,
       "name": "Boca E' Caim\u00e1n",
       "url": "https://open.spotify.com/track/0pwIDa9neFJEN1RJ1mvj5G"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "The Aggrolites",
+        "url": "https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu"
+      },
+      "artists": [
+        {
+          "name": "The Aggrolites",
+          "url": "https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Countryman Fiddle",
+      "url": "https://open.spotify.com/track/6ecUJEiugqWHcOursGGfSU"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2695,22 +2695,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Reggae Greats - Toots & The Maytals",
-        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -2723,6 +2707,22 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Reggae Greats - Toots & The Maytals",
+        "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
+      },
+      "artists": [
+        {
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Yours Truly (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "Murdera",
-      "url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Locos y Rucas In Retro",
         "url": "https://open.spotify.com/album/3OEHH1ixOYMH6NKkLmxRmI"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 151026,
       "name": "Satan's Swing",
       "url": "https://open.spotify.com/track/16OEoNS6cxYB82u9qfCJnQ"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Yours Truly (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "Murdera",
+      "url": "https://open.spotify.com/track/6ZForb50RiJaON05cHNcDB"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "Bajo Palabra",
-        "url": "https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct"
-      },
-      "artists": [
-        {
-          "name": "Vantroi",
-          "url": "https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn"
-        }
-      ],
-      "duration_ms": 163653,
-      "name": "El Mi\u00f3n",
-      "url": "https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc"
-    },
-    {
-      "added_at": "2021-12-06 21:30:06",
-      "album": {
         "name": "Motorcity Roots",
         "url": "https://open.spotify.com/album/4SQvzwKij7TnNJwottSxtw"
       },
@@ -3279,6 +3263,22 @@
       "duration_ms": 330866,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1uPXCYx1ucrJBDgywMjPCp"
+    },
+    {
+      "added_at": "2021-12-06 21:30:06",
+      "album": {
+        "name": "Bajo Palabra",
+        "url": "https://open.spotify.com/album/0P6fdBVXRIYsx3HSCCd6ct"
+      },
+      "artists": [
+        {
+          "name": "Vantroi",
+          "url": "https://open.spotify.com/artist/0oq1cXEszwrTtuGmiju7Cn"
+        }
+      ],
+      "duration_ms": 163653,
+      "name": "El Mi\u00f3n",
+      "url": "https://open.spotify.com/track/6aHoNnabXZzxzsjZP2y8Rc"
     },
     {
       "added_at": "2021-12-06 21:30:06",
@@ -3299,18 +3299,18 @@
     {
       "added_at": "2021-12-06 21:30:06",
       "album": {
-        "name": "You Dance With Me",
-        "url": "https://open.spotify.com/album/6zOFEgdYn5qdZ5f9WyRapu"
+        "name": "Barbarossaplatz",
+        "url": "https://open.spotify.com/album/6MT8fyt3RARXlahv7CrXPa"
       },
       "artists": [
         {
-          "name": "ScimmiaSka",
-          "url": "https://open.spotify.com/artist/4KTPgixuIEKd0kvsAHRQFg"
+          "name": "Dr. Calypso",
+          "url": "https://open.spotify.com/artist/6NzQGCr2sqQJ7AepiQpVGW"
         }
       ],
-      "duration_ms": 216372,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0"
+      "duration_ms": 202895,
+      "name": "Born To Be Alive",
+      "url": "https://open.spotify.com/track/7pdDdKVMm14RuRrEmNNN7X"
     }
   ],
   "unique_name": "Ska Around The Globe",

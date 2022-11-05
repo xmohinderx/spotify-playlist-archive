@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Rezz.
 
-373 songs - 21 hr 56 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
+374 songs - 22 hr 0 min - [published](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Feel The Same](https://open.spotify.com/track/4uXs9sxxIQ1OdOl36HkTKB) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [CeCe Mix](https://open.spotify.com/artist/57xlBOg4rGYpipwpaIKv1W) | [Feel The Same](https://open.spotify.com/album/3Yh1Ori1Ydaq46oNsksZhN) | 2:47 | 2022-07-15 |  |
 | [Fight Milk](https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Fight Milk](https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS) | 3:12 | 2022-01-07 | 2022-08-27 |
 | [Fight Or Flight](https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Fight Or Flight](https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC) | 3:10 | 2022-01-21 | 2022-03-12 |
-| [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 | 2022-02-18 |  |
+| [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd) | 3:57 | 2022-02-18 | 2022-11-05 |
+| [fisticuffs \(feat\. tiLLie\)](https://open.spotify.com/track/5uwjwHf7gA1DqLvnsTM3aW) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:57 | 2022-10-21 |  |
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2021-12-17 | 2022-02-19 |
 | [Flow](https://open.spotify.com/track/2F14jGKSIvL10dEYhimqVY) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb), [C.D](https://open.spotify.com/artist/709rmeAswe9n36FbeXXOFk) | [Flow](https://open.spotify.com/album/4V1hkAAIZRNP9CVj4hJkZW) | 3:12 | 2022-04-22 | 2022-08-06 |
 | [Fool For Ya](https://open.spotify.com/track/3MzC6XQa26SurM3VX5ovZE) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82) | [Fool For Ya](https://open.spotify.com/album/36ZjyrSiKwq9wdR6p5j4yV) | 3:08 | 2021-12-17 | 2022-02-19 |

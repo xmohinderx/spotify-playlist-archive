@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 193866,
       "name": "Coalescence",
       "url": "https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl"
@@ -1437,7 +1437,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 504806,
       "name": "Smoking Mirror",
       "url": "https://open.spotify.com/track/1w2Fs2kq0BY96Ql2jrGumv"
@@ -1664,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/2nLucUgoU2DW05o2FUEULd"
+      },
+      "artists": [
+        {
+          "name": "Prison",
+          "url": "https://open.spotify.com/artist/4UVyBJPlg3bV69JZk1trYq"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218900,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/2jHCuaT5m1iXLnugNCERSh"
+    },
+    {
+      "album": {
         "name": "3.6.2.4",
         "url": "https://open.spotify.com/album/5O6RXs6VeaXphvvrRi7hHH"
       },
@@ -1787,6 +1805,24 @@
       "duration_ms": 169324,
       "name": "Uncoil",
       "url": "https://open.spotify.com/track/092FbNQy7oYEtBbDA60xO3"
+    },
+    {
+      "album": {
+        "name": "Until Falling",
+        "url": "https://open.spotify.com/album/4zGPzMSMUwxcYJRuN5twAc"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Until Falling",
+      "url": "https://open.spotify.com/track/1oQc7ebfr4unGdUTlad9of"
     },
     {
       "album": {

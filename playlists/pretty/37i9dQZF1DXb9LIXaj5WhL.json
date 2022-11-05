@@ -1,12 +1,12 @@
 {
   "description": "90s acoustics, mellow hits, and classic unplugged versions.",
-  "num_followers": 2259163,
+  "num_followers": 2259429,
   "original_name": "90s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMGRiMjliMWIyN2NhNjczYzlmZTZjYTFjNmNkNGMwNDI5",
+  "snapshot_id": "MTY1NzcwMDQxOCwwMDAwMDAwMGQ3Yjk0MjU0MjY2MDA2MGVkNWJlMWRhMGJlMjY3OWUy",
   "tracks": [
     {
       "added_at": "2020-11-18 19:14:53",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-11-18 19:14:53",
       "album": {
-        "name": "A Tribute Album",
-        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
-      },
-      "artists": [
-        {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
-    },
-    {
-      "added_at": "2020-11-18 19:14:53",
-      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 272920,
       "name": "Lilac Wine",
       "url": "https://open.spotify.com/track/1StXVL5gClph4z4XzanYko"
+    },
+    {
+      "added_at": "2020-11-18 19:14:53",
+      "album": {
+        "name": "A Tribute Album",
+        "url": "https://open.spotify.com/album/2GPq8BXUNLgiDb191QM7j8"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/46LI9mnlQ8fJHH47ioBubg"
     },
     {
       "added_at": "2020-11-18 19:14:53",

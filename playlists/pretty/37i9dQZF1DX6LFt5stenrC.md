@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 874 likes - 50 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 50 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 44 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
 | 45 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p) | 2:35 |
 | 46 | [Power Rangers Megamix](https://open.spotify.com/track/0fTQdOS8FucxBQilLTp2ha) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Power Rangers Megamix](https://open.spotify.com/album/50ggbyZ86toFZBzQDAmEBy) | 12:02 |
-| 47 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
-| 48 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s) | 1:31 |
+| 47 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/2fmxTrZ8Nl4nryofppxC27) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/06cPzokRlGLUfBxcsJbE1s) | 1:31 |
+| 48 | [Scooby Doo Theme Song](https://open.spotify.com/track/0g8MfCzZoj5nprV25TbPax) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 1:00 |
 | 49 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 |
 | 50 | [Ordinary Me](https://open.spotify.com/track/7oTWEMowWcNShU0LhOoP9z) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB), [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [graywolfe](https://open.spotify.com/artist/0ZX1HJYOIIM74QLJAKnjo6) | [The Loud House Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2yVMiCrs3RVjzrYv8QwVZ0) | 1:26 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMGQ1ZmNhNGIzY2QzOTUzNDNiNzM0NmI4NDJmYmY0MmZi`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDc4MGRkNTQ0ZWY3YTk4ZWVhYjE0N2U3ZjA4NzA1ZDIz`

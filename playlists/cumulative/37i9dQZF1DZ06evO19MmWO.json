@@ -8,7 +8,7 @@
   "tracks": [
     {
       "album": {
-        "name": "Blues With A Feeling",
+        "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
@@ -59,6 +59,24 @@
       "duration_ms": 186000,
       "name": "Back In the Alley",
       "url": "https://open.spotify.com/track/3qRGCfSxvQXFBM0kYCsWnd"
+    },
+    {
+      "album": {
+        "name": "Blues With A Feelin'",
+        "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Big Leg Mama",
+      "url": "https://open.spotify.com/track/5ekFH1K17PXfFh71H3jlnN"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 171293,
       "name": "Boom, Boom Out Goes The Light",
       "url": "https://open.spotify.com/track/2h3bo2yMQ3EgZWCez9Fm4x"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 181506,
       "name": "Crazy For My Baby",
       "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 168080,
       "name": "I Got To Find My Baby",
       "url": "https://open.spotify.com/track/5LGv5qR3OLizfzWWbEP9le"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 160186,
       "name": "Joliet Blues",
       "url": "https://open.spotify.com/track/28AUjQQLabQ80nRG37TnOF"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 164893,
       "name": "Juke",
       "url": "https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 163813,
       "name": "Key To The Highway",
       "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 174506,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 162040,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 126253,
       "name": "Nobody But You - Single Version",
       "url": "https://open.spotify.com/track/6a0uCkcpkSvqrKzXI7rJwn"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-03",
+      "date_removed": null,
       "duration_ms": 173013,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
@@ -1082,7 +1100,7 @@
     },
     {
       "album": {
-        "name": "Blues With A Feeling",
+        "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
@@ -1154,7 +1172,7 @@
     },
     {
       "album": {
-        "name": "Blues With A Feeling",
+        "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
@@ -1190,7 +1208,7 @@
     },
     {
       "album": {
-        "name": "Blues With A Feeling",
+        "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [
@@ -1292,7 +1310,7 @@
     },
     {
       "album": {
-        "name": "Blues With A Feeling",
+        "name": "Blues With A Feelin'",
         "url": "https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg"
       },
       "artists": [

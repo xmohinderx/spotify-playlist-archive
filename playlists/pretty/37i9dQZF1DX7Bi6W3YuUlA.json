@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 3411,
+  "num_followers": 3431,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGYxMjA2NTY5MjEyZjlmZmM5ZTQ3NGIzYTRmNjU5Njdm",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDMzMzgzZDI1OTUzODA1NDQwYzY3NTk2MTBkM2U2Y2Q0",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
-      },
-      "artists": [
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        },
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/18QmuHzqXYdN5T0y8K0Uon"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 163924,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0rsusVy37rWVeDGQ9fqOG7"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
+      },
+      "artists": [
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        },
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/7CIPjKEX2XowX9N9s8egiD"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182487,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 193941,
       "name": "Pray For Real",
       "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
+      },
+      "artists": [
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "In the Garden",
         "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "2022",
-        "url": "https://open.spotify.com/album/3wr1hWL6eyUjhqULGy0oyK"
-      },
-      "artists": [
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "2022",
-      "url": "https://open.spotify.com/track/2F1Z3G7IZKissAgLtZSUup"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "MAKE IT MAKE SENSE",
-        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+        "name": "i'm back",
+        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
       },
       "artists": [
         {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
         }
       ],
-      "duration_ms": 165789,
-      "name": "MAKE IT MAKE SENSE",
-      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
+      "duration_ms": 161101,
+      "name": "i'm back",
+      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "MAKE IT MAKE SENSE",
+        "url": "https://open.spotify.com/album/3JQmpYGKuUhmJ0CttBZCC5"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "MAKE IT MAKE SENSE",
+      "url": "https://open.spotify.com/track/5XOsnWdQhXQbwW3DMmSp9D"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "Clocked In (feat. Aklesso & Derek Minor)",
         "url": "https://open.spotify.com/album/35vRMyqv8TeWFwCuSRlaCt"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 180000,
       "name": "Wrist",
       "url": "https://open.spotify.com/track/2NrO2kuuSGV5ZJCaCj2x1A"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "i'm back",
-        "url": "https://open.spotify.com/album/3rru4mNxx77XvCPUME4Kxc"
-      },
-      "artists": [
-        {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
-        }
-      ],
-      "duration_ms": 161101,
-      "name": "i'm back",
-      "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
     },
     {
       "added_at": "2022-05-28 19:29:54",

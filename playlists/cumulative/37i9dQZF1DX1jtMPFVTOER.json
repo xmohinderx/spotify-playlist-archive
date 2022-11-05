@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Explore a genre bending universe centered around jazz. Cover: Jos\u00e9 James",
+  "description": "Explore a genre bending universe centered around jazz. Cover: Ibrahim Maalouf",
   "name": "Orbit",
   "published_playlist_ids": [
     "1HzUqJHRCll2EIj4taxTFD"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 280535,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/2ZMc5EGqLIWWU4l37EvEDi"
@@ -1148,6 +1148,28 @@
     },
     {
       "album": {
+        "name": "Capacity to Love",
+        "url": "https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/54EquGCfONcM8VxYBT6o7f"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265833,
+      "name": "Capacity to Love",
+      "url": "https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O"
+    },
+    {
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/09vQxbdKCIeapIcG72bR62"
       },
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 166105,
       "name": "Crazy, Crazy",
       "url": "https://open.spotify.com/track/0rK29DsrOOo2JIn4O0wjeJ"
@@ -4336,6 +4358,28 @@
     },
     {
       "album": {
+        "name": "No Confusion (feat. Kojey Radical)",
+        "url": "https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170287,
+      "name": "No Confusion (feat. Kojey Radical) [Alternate Take]",
+      "url": "https://open.spotify.com/track/6WHI0ZI3wAjxJrx4GQAAQF"
+    },
+    {
+      "album": {
         "name": "No Gangster",
         "url": "https://open.spotify.com/album/6CSenzyruOwRltis2wjmAy"
       },
@@ -4553,7 +4597,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 72865,
       "name": "Old Antique Shop",
       "url": "https://open.spotify.com/track/3ccxDTiF91eNXnSbmL3ixM"
@@ -4955,6 +4999,28 @@
       "duration_ms": 207293,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1Rd3q29I4tEwQKQudWh0Jd"
+    },
+    {
+      "album": {
+        "name": "Capacity to Love",
+        "url": "https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278941,
+      "name": "Quiet Culture",
+      "url": "https://open.spotify.com/track/2VKYTNg9r6bF9pBZouux68"
     },
     {
       "album": {

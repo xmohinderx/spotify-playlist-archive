@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-627 songs - 1 day 11 hr 28 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
+628 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Paz Mental](https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:31 | 2021-07-04 | 2021-11-28 |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-03-27\* | 2021-08-01 |
 | [PECADO](https://open.spotify.com/track/4tw2afU1W4m0hgaL7XySKO) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:51 | 2022-04-02 | 2022-04-08 |
+| [Pegate](https://open.spotify.com/track/7MTTfwaqWk4IydUxMWg1v5) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/1zuCkXUiufmwa109bTEQOA) | 2:45 | 2022-11-04 |  |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2021-10-03 | 2022-03-03 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-07-11 | 2021-10-03 |
 | [Permission to Dance](https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter / Permission to Dance](https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG) | 3:07 | 2021-07-11 | 2021-07-19 |
@@ -494,7 +495,7 @@
 | [Roce](https://open.spotify.com/track/5M8sNlIjRkalIwXm0sjhx1) | [Chris Jonex](https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E), [Bimbo el Oso Mañoso](https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3) | [Roce](https://open.spotify.com/album/2naWs0HQGnkjaUfwlV78av) | 2:13 | 2022-10-09 |  |
 | [Rochy RD X Anuel AA \(LOS ILLUMINATY\) \- Radio Edit](https://open.spotify.com/track/29926VVZGW5KftlGkeBFiM) | [MUSICSPAIN](https://open.spotify.com/artist/5oBLRcgyxtolc40gJbPIjl) | [Rochy RD X Anuel AA \(LOS ILLUMINATY\) \[Radio Edit\]](https://open.spotify.com/album/3o0AXFonj6LxXS7Lk5dyao) | 2:37 | 2022-01-12 | 2022-01-21 |
 | [Ropa Cara](https://open.spotify.com/track/2zY1iTaEgs8ROkkWtWLe7l) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:42 | 2021-03-27\* | 2021-03-27 |
-| [Rulay](https://open.spotify.com/track/7mLJiuLlh6v8Hz5PfYfOTh) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Rulay](https://open.spotify.com/album/7ewfnID6qhnszV6eta2uri) | 3:09 | 2022-10-01 |  |
+| [Rulay](https://open.spotify.com/track/7mLJiuLlh6v8Hz5PfYfOTh) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Rulay](https://open.spotify.com/album/7ewfnID6qhnszV6eta2uri) | 3:09 | 2022-10-01 | 2022-11-05 |
 | [Rumba y Fiesta](https://open.spotify.com/track/0WqosnCu2wMmEbbYtXalB2) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 3:23 | 2022-04-09 | 2022-04-12 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-04-03 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-13 |

@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 151111,
       "name": "alice (s\u00f3 que sem as maravilhas)",
       "url": "https://open.spotify.com/track/5FSjNo8QjPCMU5qo8NKOxY"
@@ -479,6 +479,24 @@
       "duration_ms": 261183,
       "name": "ar\u00e3o",
       "url": "https://open.spotify.com/track/2xNMHYgUHDjLzo5ipgeTt9"
+    },
+    {
+      "album": {
+        "name": "Transitar",
+        "url": "https://open.spotify.com/album/6seVRIB5FtjQkx79j29on1"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231943,
+      "name": "At\u00e9 A Noite Acabar",
+      "url": "https://open.spotify.com/track/3mXRBKMajSreOWvtpUsmQw"
     },
     {
       "album": {
@@ -1282,6 +1300,32 @@
     },
     {
       "album": {
+        "name": "Eu Te Amo",
+        "url": "https://open.spotify.com/album/0XvbAjrSMinlkhxx0LJdQh"
+      },
+      "artists": [
+        {
+          "name": "Fogo Fera",
+          "url": "https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI"
+        },
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Adriano Cintra",
+          "url": "https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213897,
+      "name": "Dela",
+      "url": "https://open.spotify.com/track/6rPPrrFv2nbwF6WglwGUDo"
+    },
+    {
+      "album": {
         "name": "Desagradar",
         "url": "https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R"
       },
@@ -1671,7 +1715,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 240370,
       "name": "Essa Garoa",
       "url": "https://open.spotify.com/track/4671UclmP4TO0I8ps2YgW9"

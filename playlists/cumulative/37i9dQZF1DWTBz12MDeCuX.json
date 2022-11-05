@@ -1532,6 +1532,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
@@ -4480,6 +4502,28 @@
     },
     {
       "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
         "name": "Mama war der Mann im Haus (Rheingold Soundtrack)",
         "url": "https://open.spotify.com/album/5HLuIoXA2NY0FRR033c3or"
       },
@@ -4513,7 +4557,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 155560,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i"
@@ -4589,7 +4633,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 195745,
       "name": "Medizin (feat. Jamule)",
       "url": "https://open.spotify.com/track/1KKdLVAi0Z4YKrdiyQS3vF"
@@ -4728,7 +4772,7 @@
     },
     {
       "album": {
-        "name": "Mine (Taylor Swift Cover)",
+        "name": "Mine",
         "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
       },
       "artists": [
@@ -4741,7 +4785,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194259,
-      "name": "Mine - Taylor Swift Cover",
+      "name": "Mine",
       "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"
     },
     {
@@ -7737,6 +7781,10 @@
         {
           "name": "Domiziana",
           "url": "https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN"
+        },
+        {
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
         }
       ],
       "date_added": "2022-11-03",

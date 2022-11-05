@@ -580,6 +580,28 @@
     },
     {
       "album": {
+        "name": "Birthday Girl (feat. Chris Lane)",
+        "url": "https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Birthday Girl (feat. Chris Lane)",
+      "url": "https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal"
+    },
+    {
+      "album": {
         "name": "Blacked Out",
         "url": "https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6"
       },

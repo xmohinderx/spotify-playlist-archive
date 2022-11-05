@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 173333,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/57L7dmh277tu1jnctigapv"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 138240,
       "name": "Blade",
       "url": "https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis"
@@ -1580,6 +1580,36 @@
     },
     {
       "album": {
+        "name": "Pump It Up",
+        "url": "https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v"
+      },
+      "artists": [
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "The Black & White Brothers",
+          "url": "https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167460,
+      "name": "Pump It Up",
+      "url": "https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb"
+    },
+    {
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/7uulMJZsnWA6PS32T4tGpO"
       },
@@ -1971,6 +2001,28 @@
       "duration_ms": 156800,
       "name": "Time",
       "url": "https://open.spotify.com/track/08J3WyZe6XG53cL8OW3ZnU"
+    },
+    {
+      "album": {
+        "name": "Toxic Rain (prod. David Mugratsch)",
+        "url": "https://open.spotify.com/album/5ijTP9RBfREShGfAQ90rrP"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "David Mugratsch",
+          "url": "https://open.spotify.com/artist/4XfRLnRSjs8AjtLOQgWPud"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "Toxic Rain (prod. David Mugratsch)",
+      "url": "https://open.spotify.com/track/7b2FGXLZY3ABSxVgkpccCf"
     },
     {
       "album": {

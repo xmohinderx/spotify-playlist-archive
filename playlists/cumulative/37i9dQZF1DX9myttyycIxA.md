@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Drugdealer
 
-685 songs - 1 day 15 hr 12 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+686 songs - 1 day 15 hr 15 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [Fire Eyes](https://open.spotify.com/track/0nXZ4ce5pUr3oOGNxfc2ZJ) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Fire Eyes](https://open.spotify.com/album/2wjMI8baH8TRM1YVs1jusO) | 3:03 | 2022-06-10 | 2022-08-06 |
 | [Flake](https://open.spotify.com/track/6uqRFrcyYKVdcxwSJtHOUI) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Flake](https://open.spotify.com/album/4nAy8xZCkPn9WswSlsm933) | 3:07 | 2022-08-19 |  |
 | [Floor](https://open.spotify.com/track/5wLJgeMHIpJSc9qmPUDZyS) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 4:33 | 2021-03-05 | 2022-04-29 |
-| [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 |  |
+| [floor 20](https://open.spotify.com/track/54vGD9e0VAAZnth6KW6PSx) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/5nRdGKFyU0RAz0HCObmLee) | 2:37 | 2022-11-05 |  |
+| [floor 20](https://open.spotify.com/track/7LFWmxHI2ftcIS13s6ZsAC) | [fearofmakingout](https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c), [Nyzahir](https://open.spotify.com/artist/1Ryitzfsu2Ed71p54ZdQZf) | [Secret Third Thing](https://open.spotify.com/album/3vFvfJN9AISogzUwKuMu3P) | 2:37 | 2022-10-29 | 2022-11-05 |
 | [Flying](https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik) | 3:46 | 2021-03-05 | 2022-06-19 |
 | [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2022-09-16 |  |
 | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/track/32hjH8euySL8IqHEoHeHJE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Frances Farmer Will Have Her Revenge On Seattle](https://open.spotify.com/album/0OWsfBKizOkgEcaa65b6z2) | 4:20 | 2022-05-27 |  |

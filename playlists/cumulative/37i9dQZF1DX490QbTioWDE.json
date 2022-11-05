@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 572488,
       "name": "Cuarte Party",
       "url": "https://open.spotify.com/track/0J4qiHlBwF77wr5lxufr4Q"
@@ -2876,6 +2876,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1tame",
+        "url": "https://open.spotify.com/album/6ciuelvQH0bQvxDkBxFf8l"
+      },
+      "artists": [
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158817,
+      "name": "M\u00e1tame",
+      "url": "https://open.spotify.com/track/1Ppfw00BnRqGSOPA9b3HQD"
+    },
+    {
+      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/0ROgkeNPJR83YVhPxv4Hjh"
       },
@@ -3954,6 +3972,28 @@
     },
     {
       "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/587Ocz3UuEOvVcwwyzvacw"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264237,
+      "name": "Si Va A Ser...Ser\u00e1",
+      "url": "https://open.spotify.com/track/3R3SF0dXWShukKIaGUli43"
+    },
+    {
+      "album": {
         "name": "Sobrio",
         "url": "https://open.spotify.com/album/2vl2hR71GKwSE1D9jBpkl4"
       },
@@ -4549,6 +4589,32 @@
       "duration_ms": 284138,
       "name": "Tu Amor Me Duele / No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/208zS5Knk6wFNxUiS5x2B7"
+    },
+    {
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/6GtW9B15gqXainTxPoNfLX"
+      },
+      "artists": [
+        {
+          "name": "Claudio Toledo",
+          "url": "https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh"
+        },
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        },
+        {
+          "name": "Bilog\u00eda",
+          "url": "https://open.spotify.com/artist/6VMXxazhDy4HylQOgZbFqZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180224,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0CJBpoz2Jno5oQA4MYnE3G"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Pressure](https://open.spotify.com/playlist/37i9dQZF1DWZwCeILEyQAy)
 
-> Real Rap\. All Pressure\. Cover: Kali
+> Real Rap\. All Pressure\. Cover: Megan Thee Stallion
 
 227 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/5y5tRmbESUW4REpQryCCFI)
 

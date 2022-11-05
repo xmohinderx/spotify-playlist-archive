@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Chill, tropical vibes only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,259 likes - 291 songs - 11 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,284 likes - 291 songs - 11 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,7 +230,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 220 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 |
 | 221 | [Samurai](https://open.spotify.com/track/2AXqiVRL9dhZ47IDPiGR6H) | [Mr OCB](https://open.spotify.com/artist/1RorScxoqHkBchQcufPdTl) | [Samurai](https://open.spotify.com/album/02SYmFC9xbKeUG1IBwPxSc) | 2:40 |
 | 222 | [Azur](https://open.spotify.com/track/4p47HkL5KGCRoZ7TqDw9rp) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Azur](https://open.spotify.com/album/3RS7ChgcPuWE0fd33MeO9r) | 2:08 |
-| 223 | [Riptide](https://open.spotify.com/track/79Wiq8K0Ffom6OVYXHSrAb) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/4XTVisA6QosX0cdUYqqmZH) | 1:46 |
+| 223 | [Riptide](https://open.spotify.com/track/5epIUCDbbOxNw24rB0YgrC) | [Bambu](https://open.spotify.com/artist/6OExwlZp33GVhQqmL6nGy5) | [Riptide](https://open.spotify.com/album/30u0mn0Il5ychQrKZdnwUL) | 1:46 |
 | 224 | [I Will Love You](https://open.spotify.com/track/3aRv7GiXgweb0sVd8Rzu5s) | [Salon De Juego](https://open.spotify.com/artist/431iPyX1Z0PS8hBFUBHTnw) | [I Will Love You](https://open.spotify.com/album/2rArjXMEw5JqJZTP8v8DIa) | 1:53 |
 | 225 | [Rich and Thick](https://open.spotify.com/track/479ml65kpUENyze9msPNGX) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Rich and Thick](https://open.spotify.com/album/6E2ywpUylcc7WtMzVZbqYl) | 3:19 |
 | 226 | [Set the Sky on Fire](https://open.spotify.com/track/3jZ6PpHPQuON6Bt2PYl7Vs) | [Sunshine and Raindrops](https://open.spotify.com/artist/3zdR3KZ4ahx7Q9qWjqHX3Y) | [Set the Sky on Fire](https://open.spotify.com/album/2B5IYKmqCNKbUAouQeWf8L) | 2:22 |
@@ -300,4 +300,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 290 | [Sunrise](https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunrise](https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB) | 2:48 |
 | 291 | [Dumptydum](https://open.spotify.com/track/04hAwr98yuWXu11xY6KHx8) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Dumptydum](https://open.spotify.com/album/4y5rJDdpj0ea5naKtABENY) | 1:42 |
 
-Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMDZmNGIxYmFjMGNkYmYyOGU4ZWRmMzY1YzU2ZGZhZmUx`
+Snapshot ID: `MTY2Njk1ODgwMiwwMDAwMDAwMDY3NjU0NTNlM2QxMWEyMjI0N2ZjNTYyZmMxM2I5MmY4`

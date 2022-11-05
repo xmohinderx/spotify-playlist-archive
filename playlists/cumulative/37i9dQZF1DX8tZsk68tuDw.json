@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Carlita.",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Charlotte de Witte.",
   "name": "Dance Rising",
   "published_playlist_ids": [
     "2pLFymjcvaRi3S7CfLfDqz"
@@ -1788,6 +1788,24 @@
     },
     {
       "album": {
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243984,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
+    },
+    {
+      "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/2JNfsYjNImbagCSb4CCbW1"
       },
@@ -2665,7 +2683,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 160000,
       "name": "B2B",
       "url": "https://open.spotify.com/track/0FMLbet9blK5IgKktuqCBx"
@@ -3565,6 +3583,24 @@
       "duration_ms": 133212,
       "name": "Beat Goes On (Rhythm to the Brain)",
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
+    },
+    {
+      "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187126,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
     },
     {
       "album": {
@@ -7800,6 +7836,28 @@
     },
     {
       "album": {
+        "name": "Dance with Me",
+        "url": "https://open.spotify.com/album/5DRaA5nqX3g0t3Yd8Hye3l"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Justus",
+          "url": "https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/4AonDN7yeOZbMI2rIOYQHa"
+    },
+    {
+      "album": {
         "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
@@ -11034,6 +11092,28 @@
     },
     {
       "album": {
+        "name": "Feel Like That",
+        "url": "https://open.spotify.com/album/3VrM26Y9zVHzAVHov5uzWE"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159221,
+      "name": "Feel Like That",
+      "url": "https://open.spotify.com/track/2GlzL3MAoqg6sKFEC3tKFQ"
+    },
+    {
+      "album": {
         "name": "Feel Like Us Again",
         "url": "https://open.spotify.com/album/6geCWrKfZLPEExkdnIlQyG"
       },
@@ -11393,7 +11473,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 113251,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/5THxirvtOzQQoUL9wLldgP"
@@ -11931,6 +12011,28 @@
       "duration_ms": 173357,
       "name": "For One Night",
       "url": "https://open.spotify.com/track/4PDxk8IXTMxbRlSv7Cx2Hb"
+    },
+    {
+      "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219345,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
     },
     {
       "album": {
@@ -14259,7 +14361,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 211359,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/6Qv3OWGNixqEobRC5vM0Bp"
@@ -16902,6 +17004,24 @@
     },
     {
       "album": {
+        "name": "Inochi",
+        "url": "https://open.spotify.com/album/1pE7OXufKgypbJL2C81nvp"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354098,
+      "name": "Inochi",
+      "url": "https://open.spotify.com/track/40qMnVCrSqMSuFWooAzqB3"
+    },
+    {
+      "album": {
         "name": "Interestelar",
         "url": "https://open.spotify.com/album/2Lb4KPGiB5k7tZ9llNaDCc"
       },
@@ -17351,7 +17471,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 200493,
       "name": "Jaws",
       "url": "https://open.spotify.com/track/17TCTYGxieVPS1TBTUdQkc"
@@ -17565,6 +17685,24 @@
       "duration_ms": 166000,
       "name": "Just Say",
       "url": "https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO"
+    },
+    {
+      "album": {
+        "name": "Just Words",
+        "url": "https://open.spotify.com/album/1FMCftRNNz9GGDuDHCxpqd"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171405,
+      "name": "Just Words",
+      "url": "https://open.spotify.com/track/7I4yaEqhvAhz795dN0mMre"
     },
     {
       "album": {
@@ -18371,7 +18509,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 177560,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5bABQWkbZQAdVGhD9HIX4l"
@@ -18927,6 +19065,24 @@
       "duration_ms": 207540,
       "name": "Life on Hold",
       "url": "https://open.spotify.com/track/0uTkVCAf8PxMo8NJ3tFYzH"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286061,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
     },
     {
       "album": {
@@ -23563,7 +23719,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 177081,
       "name": "Not About You",
       "url": "https://open.spotify.com/track/4rRmrn7Z5qySuAjD4Ep9bR"
@@ -24140,6 +24296,28 @@
     },
     {
       "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia"
+    },
+    {
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6"
       },
@@ -24645,6 +24823,24 @@
       "duration_ms": 212612,
       "name": "Original Classic",
       "url": "https://open.spotify.com/track/02ddQBxSIVhBZZHQTsXmgf"
+    },
+    {
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/58HGBPnIEFhg9y7BbLqmKc"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244337,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/6gLDnzjpM0AwOeh9NmmHE0"
     },
     {
       "album": {
@@ -27309,7 +27505,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 183112,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX"
@@ -30346,6 +30542,24 @@
     },
     {
       "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/16zN1g3AqZ38n9FTxViwG9"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300975,
+      "name": "Starz",
+      "url": "https://open.spotify.com/track/2rCXC1o4QkyWlKgl19VMjg"
+    },
+    {
+      "album": {
         "name": "State Of Mind (feat. Sarah de Warren)",
         "url": "https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe"
       },
@@ -32891,7 +33105,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 362773,
       "name": "These Notes In This Order - VNSSA Remix",
       "url": "https://open.spotify.com/track/69CE5CSZR8875610mF339D"
@@ -33063,7 +33277,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 236078,
       "name": "This Feeling - Yotto Remix",
       "url": "https://open.spotify.com/track/19LE5SbXV0A4UFRJvz91Eq"
@@ -33597,6 +33811,32 @@
       "duration_ms": 144677,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
+    },
+    {
+      "album": {
+        "name": "Tra Tra",
+        "url": "https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126774,
+      "name": "Tra Tra",
+      "url": "https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj"
     },
     {
       "album": {
@@ -36910,6 +37150,24 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/0ZFdC22Brc39y3hjBUMO5F"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221358,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/7lyyCJzXdxZJcXCvU8yVtf"
+    },
+    {
+      "album": {
         "name": "Work It",
         "url": "https://open.spotify.com/album/60D8HkLrnQCJwfDe6nE9ot"
       },
@@ -37303,6 +37561,32 @@
       "duration_ms": 144393,
       "name": "You (\u00e0 la)",
       "url": "https://open.spotify.com/track/5kSh4hhyGRjLitIuNq0Agk"
+    },
+    {
+      "album": {
+        "name": "You Can\u2019t Change Me (feat. Raye)",
+        "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "You Can\u2019t Change Me (feat. Raye)",
+      "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
     },
     {
       "album": {

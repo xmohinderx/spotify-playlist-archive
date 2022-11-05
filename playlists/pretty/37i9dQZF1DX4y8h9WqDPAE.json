@@ -1,32 +1,48 @@
 {
-  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: Chlo\u00eb & Latto",
-  "num_followers": 1753017,
+  "description": "Where R&B from around the world comes to play with hip-hop & pop!   Cover: CoCo Jones",
+  "num_followers": 1753211,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk2NTMyMCwwMDAwMDAwMDg1Y2RlOTI1YmEyZjU0ZmUwYWVjMGM5YWFkN2IzMWVj",
+  "snapshot_id": "MTY2NzU3MjU5OSwwMDAwMDAwMGFhOTUyM2NjZWU0YjZlMWRkM2NhOWQ2Mjg1OTIzYjQx",
   "tracks": [
     {
-      "added_at": "2022-10-28 07:48:58",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "added_at": "2022-10-28 07:48:58",
+      "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
     },
     {
       "added_at": "2022-10-03 18:11:06",
@@ -47,18 +63,22 @@
     {
       "added_at": "2022-10-28 07:48:58",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -119,22 +139,6 @@
       "duration_ms": 214352,
       "name": "Better Thangs (with Summer Walker)",
       "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
-    },
-    {
-      "added_at": "2022-10-28 07:48:58",
-      "album": {
-        "name": "Money & Love",
-        "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 191505,
-      "name": "Money & Love",
-      "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
     },
     {
       "added_at": "2022-07-29 04:12:34",
@@ -321,6 +325,22 @@
       "url": "https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/7cBVQOxPkxufTsRh750x3u"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 134875,
+      "name": "Crazy For Me",
+      "url": "https://open.spotify.com/track/1WgkChJ5Yc5evU18bSHEzA"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Lost In Melody",
@@ -359,6 +379,22 @@
       "duration_ms": 223232,
       "name": "BEAUTIFUL (feat. Future & SZA)",
       "url": "https://open.spotify.com/track/5kYSScXYOZYyi0fxramiW6"
+    },
+    {
+      "added_at": "2022-11-04 14:36:39",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2022-10-14 04:00:00",

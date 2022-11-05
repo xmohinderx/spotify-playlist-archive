@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: Night Lovell
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,943 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,807 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [vendetta!](https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [vendetta!](https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr) | 1:47 |
-| 2 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 |
+| 2 | [Eye Spy](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Eye Spy](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 |
 | 3 | [Antarctica](https://open.spotify.com/track/5UGAXwbA17bUC0K9uquGY2) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Antarctica](https://open.spotify.com/album/2uSbIkeZ2TszTDfbzmkhyL) | 2:06 |
-| 4 | [Eye Spy](https://open.spotify.com/track/0JSZ9N0NVLTR6N16YpTyp3) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Eye Spy](https://open.spotify.com/album/4XQRSMdDwj2LfZS1SaQoXB) | 2:26 |
+| 4 | [MISA MISA!](https://open.spotify.com/track/3bpR5jv8uzraDgq5YpHwDw) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/2hAi0yG2MGIucH8P08hRFZ) | 1:25 |
 | 5 | [from hell, with love](https://open.spotify.com/track/1atUX5yDsZpz82R6B55UEP) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [from hell, with love](https://open.spotify.com/album/5Z1wCaNwpco3vL0q42r1ph) | 1:49 |
-| 6 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
-| 7 | [leave](https://open.spotify.com/track/3IzDLcpjorimZZFuQfXGIo) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [leave](https://open.spotify.com/album/6WlIv26Tw98iYgZuabsqxE) | 1:38 |
+| 6 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
+| 7 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
 | 8 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 |
 | 9 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
-| 10 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
+| 10 | [leave](https://open.spotify.com/track/3IzDLcpjorimZZFuQfXGIo) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [leave](https://open.spotify.com/album/6WlIv26Tw98iYgZuabsqxE) | 1:38 |
 | 11 | [deadman \(feat\. Lil Toe\)](https://open.spotify.com/track/0AuyLYjy9W7px84ZQUKA2a) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [bag or die](https://open.spotify.com/album/4oGLasNzQCSK6V3A8ssVKY) | 2:58 |
-| 12 | [1\-800\-Swallow Me \(feat\. Jasiah\)](https://open.spotify.com/track/7tIFl5tbjhQHhAf6K8A2ru) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Hope You're Proud](https://open.spotify.com/album/7iidCiYZ0gNZHm3S7CODEQ) | 2:40 |
-| 13 | [I FEEL ALIVE](https://open.spotify.com/track/6MK4FbbYR71obIQQHMxKXs) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:02 |
+| 12 | [AirplaneMode](https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [IFeelLikeDirt](https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt) | 1:15 |
+| 13 | [1\-800\-Swallow Me \(feat\. Jasiah\)](https://open.spotify.com/track/7tIFl5tbjhQHhAf6K8A2ru) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [Hope You're Proud](https://open.spotify.com/album/7iidCiYZ0gNZHm3S7CODEQ) | 2:40 |
 | 14 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 |
 | 15 | [8 O 8](https://open.spotify.com/track/5ndGoKCS93cEy7pL2RjaM2) | [J€AN\-MARC](https://open.spotify.com/artist/4fWycrqzvhT6RfU76M5kSh) | [8 O 8](https://open.spotify.com/album/5r65jaORaCdaf7WouDpilt) | 3:22 |
 | 16 | [Fucking Your Culture](https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:15 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 58 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 |
 | 59 | [Warcraft](https://open.spotify.com/track/3luIs9OHtRXThYSaZcqbfW) | [Sensi Affect](https://open.spotify.com/artist/3Euk7oBiNSGOnpUIjLzt9z), [Chernoburkv](https://open.spotify.com/artist/1zcTcHOp1uK94S5DZsMsM8) | [Warcraft](https://open.spotify.com/album/2zPuKQZnGvbFEXdVgAe2eR) | 2:21 |
 | 60 | [Bungee Gum](https://open.spotify.com/track/2UboK4rDkzSDhoBkox2vxR) | [Haarper](https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk) | [Bungee Gum](https://open.spotify.com/album/0uS1LbaINYPzsp9EQBRpUd) | 1:46 |
-| 61 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
+| 61 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 |
 | 62 | [shoot to kill](https://open.spotify.com/track/6cWVyn26nB2UHorE0iyQ8g) | [Stoopa](https://open.spotify.com/artist/1Dvz7bquj2cSDyEUz1C8hx) | [shoot to kill](https://open.spotify.com/album/15bCxxxtbnTvJmIL6NLeKA) | 1:27 |
 | 63 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 |
 | 64 | [Skeletons In My Closet](https://open.spotify.com/track/3OMfco4bEsfCOTc4tKG26F) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Skeletons In My Closet](https://open.spotify.com/album/441gYdixMIqkDCiGPsYQLE) | 1:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [WOKE UP](https://open.spotify.com/track/2vpHZfMYlJ98xwVo5NknQ5) | [luvseat](https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs) | [god complex](https://open.spotify.com/album/4MCcSOMcdAnXqE0y2PORQD) | 2:05 |
 | 100 | [Mindset](https://open.spotify.com/track/5nykfNlQXA0CFJpH0rLDxL) | [Baker Ya Maker](https://open.spotify.com/artist/65T6BIrUTcgylCYTXqVxvR) | [The Vault II](https://open.spotify.com/album/5kOE2LtmpW9YqnyeFlmBAx) | 2:48 |
 
-Snapshot ID: `MTY2NjkyOTkwMCwwMDAwMDAwMGMwZmEyZTI2ZTI4MWZhYjU2YTc2NDg3ZTI3MjBjMjMy`
+Snapshot ID: `MTY2NzYwMTg1NSwwMDAwMDAwMDBlMzM0YzAzOWRhZmRjMzBiZjczNDRiM2FmNjc1NjYw`

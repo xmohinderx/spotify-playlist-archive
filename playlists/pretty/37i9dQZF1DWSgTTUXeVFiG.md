@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,536 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,576 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 14 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 |
 | 15 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
 | 16 | [Haremos El Amor \- En Vivo](https://open.spotify.com/track/5T7BtRS2UUUHBS7IFwCWrC) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:47 |
-| 17 | [Medley \(Amiga, Mi Media Mitad,luna Negra\)](https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Rey Ruiz Envivo \(15 AÑOS\)](https://open.spotify.com/album/548hHvN86B2e2PGNatWj48) | 7:20 |
-| 18 | [Clase Social \- En Vivo](https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y) | [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [20 Años \(La Historia\) \[En Vivo\]](https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx) | 4:32 |
+| 17 | [Clase Social \- En Vivo](https://open.spotify.com/track/44PxgFKSfEkaeDfT716Y7y) | [Porfi Baloa](https://open.spotify.com/artist/2SYIF2tMAgLcjtTTeCfjg3), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [20 Años \(La Historia\) \[En Vivo\]](https://open.spotify.com/album/7BEr7vxhhJ3YTkIPnz4HLx) | 4:32 |
+| 18 | [Medley \(Amiga, Mi Media Mitad,luna Negra\)](https://open.spotify.com/track/7vIx0HasdNQJu1xYO4PMsN) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Rey Ruiz Envivo \(15 AÑOS\)](https://open.spotify.com/album/548hHvN86B2e2PGNatWj48) | 7:20 |
 | 19 | [Mi Mundo Es de Ella](https://open.spotify.com/track/6LEhXpp41dCJzU2MB7t1Qw) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [A Dos Epocas](https://open.spotify.com/album/7aYBMDpdSIff3lUP87Dbvn) | 5:36 |
 | 20 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 21 | [A Pesar del Tiempo \- Live](https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Mickey Taveras \(Live\)](https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
 | 50 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDExODgxN2VlN2MyYzhkZTdiMDhmNzliODdhZjU3ZDJm`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMGY0YTE0YzRmODE4MDgzYzQ1M2RlYmEyZDAxMTA0Njc2`

@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New Music Discovery is what we're about\. Try it on for size\. Cover: Jameson Rodgers
+> New Music Discovery is what we're about\. Try it on for size\. Cover: Madeline Edwards
 
-1,520 songs - 3 day 10 hr 19 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
+1,521 songs - 3 day 10 hr 22 min - [published](https://open.spotify.com/playlist/4GYziq6IZSItn9f84k0CzJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1024,6 +1024,7 @@
 | [Practice Swing](https://open.spotify.com/track/07sDtrQOyt8825uhxIXhgF) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 3:41 | 2021-02-06 | 2021-06-02 |
 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 | 2022-04-23 |
 | [Prayin' For You](https://open.spotify.com/track/4WrWLZznbRu0gv0v2N9IE1) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [Prayin' For You](https://open.spotify.com/album/7JkOPzOGGiQOVcPsJn3rO8) | 3:49 | 2021-12-11 | 2022-02-26 |
+| [Prayin' In A Deer Stand](https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Prayin' In A Deer Stand](https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY) | 3:24 | 2022-11-04 |  |
 | [Prayin' Woman](https://open.spotify.com/track/0msM6c1dl3M7uav8Fo4bw8) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Way Back](https://open.spotify.com/album/2Khn12QXiF4OEA5EeXEbPs) | 2:39 | 2022-05-20 | 2022-08-13 |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2019-08-31 | 2020-10-24 |
 | [Pretty Please](https://open.spotify.com/track/0aWiHUPSkPGYe36Iqjg9p4) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:32 | 2022-07-29 |  |
@@ -1203,7 +1204,7 @@
 | [Staycation](https://open.spotify.com/track/0lLbTsQCHOThygUiOdw0cU) | [Josh Melton](https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T) | [Staycation](https://open.spotify.com/album/5QJ2W3lNQBA8Wf3u337KaO) | 3:14 | 2020-07-04 | 2020-08-16 |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2021-11-20 | 2022-02-05 |
 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 | 2021-08-14 | 2021-10-02 |
-| [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-04-01 |  |
+| [Stereotype](https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/4rl9XdFEi5hIagPjROoA55) | 3:42 | 2022-04-01 | 2022-11-05 |
 | [Still Goin Down](https://open.spotify.com/track/096YtKWNRXdmYKFLelSBto) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Still Goin Down](https://open.spotify.com/album/1pizuXyasoOyxRbQFfmQqa) | 3:06 | 2020-11-21 | 2021-02-04 |
 | [Still Got It](https://open.spotify.com/track/5SoytoaBNWb95uhm1yyJQK) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Still Got It](https://open.spotify.com/album/6jw0zeoVo7vIZ80hrkCgCC) | 3:09 | 2022-04-08 | 2022-10-08 |
 | [Still Love](https://open.spotify.com/track/41DCFcvJJHzJsruga773RB) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Still Love](https://open.spotify.com/album/2lEbe869l2Rcb07ld2qRPt) | 3:10 | 2019-05-26\* | 2019-06-15 |

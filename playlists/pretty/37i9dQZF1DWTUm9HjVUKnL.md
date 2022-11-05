@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,098 likes - 819 songs - 2 day 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,123 likes - 819 songs - 2 day 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

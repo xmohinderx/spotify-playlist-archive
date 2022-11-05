@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "JAWNY makes anti pop.",
+  "description": "BROCKHAMPTON makes anti pop.",
   "name": "anti pop",
   "published_playlist_ids": [
     "6mIA8qAabkwc8qms18iOYE"
@@ -1370,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Baby Queen",
+        "url": "https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V"
+    },
+    {
+      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1997,6 +2015,24 @@
       "duration_ms": 120704,
       "name": "Big Boy",
       "url": "https://open.spotify.com/track/4aijMSsvaGuyE5Wp2ycCBW"
+    },
+    {
+      "album": {
+        "name": "Big Pussy",
+        "url": "https://open.spotify.com/album/3aDrSVhq4TRAlAayrAC95o"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140600,
+      "name": "Big Pussy",
+      "url": "https://open.spotify.com/track/2l7IXXGf3d9lcBsDBDQkx9"
     },
     {
       "album": {
@@ -4503,7 +4539,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 125389,
       "name": "cyanide (feat. cryogeyser)",
       "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
@@ -13264,6 +13300,24 @@
     },
     {
       "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127986,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/1c39AwcrkN9srI7Az5662I"
+    },
+    {
+      "album": {
         "name": "NO APOLOGY!",
         "url": "https://open.spotify.com/album/4sTu8JyOz0yRMTHsUNc7TC"
       },
@@ -14803,7 +14857,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 166240,
       "name": "PIXEL",
       "url": "https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki"
@@ -17811,7 +17865,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 186000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4dN2Z5ncmkmOhzsaoqDHtS"

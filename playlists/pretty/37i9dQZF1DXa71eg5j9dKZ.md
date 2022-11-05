@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,047 likes - 121 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,137 likes - 121 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 20 | [Ride or Die](https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [Ride or Die](https://open.spotify.com/album/61b6xkMZAHTklSFvQo7aax) | 3:17 |
 | 21 | [Only If U](https://open.spotify.com/track/3gAGOLayBLPJEMioVXDGiO) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Only If U](https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN) | 5:14 |
 | 22 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
-| 23 | [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 |
+| 23 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 |
 | 24 | [Nylon](https://open.spotify.com/track/13Az3ZhB2kIknz7OSLFybW) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Nylon](https://open.spotify.com/album/0oF3TZWkSAb8At2kb1xeCY) | 5:19 |
 | 25 | [say it](https://open.spotify.com/track/1qYSKTn4Peb38J5828xUmF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 2:58 |
 | 26 | [Poison](https://open.spotify.com/track/5guwpkhQxfe25YB9ErXqGY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:48 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 70 | [Revolving](https://open.spotify.com/track/2NmFvSMwXVq96rjluHhPyR) | [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Revolving](https://open.spotify.com/album/5e2NRFbu2mYDhCPfBbVhGF) | 4:57 |
 | 71 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 |
 | 72 | [Untitled A](https://open.spotify.com/track/0dCoAtdih1oipgbx4jFqcg) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [DJ Cosworth](https://open.spotify.com/artist/0Sgo1SIN7qc7fDw7v14IDm) | [Untitled](https://open.spotify.com/album/1KemAxEMdpdvlJQNLXIRIy) | 5:48 |
-| 73 | [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Wayne Snow](https://open.spotify.com/artist/4uQXSvBw8nQ6yOEQctKbz0) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 |
+| 73 | [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 |
 | 74 | [Take Your Time](https://open.spotify.com/track/5D898hh48b15X198JU0DVC) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Take Your Time](https://open.spotify.com/album/33cA6byk0CpaeqecpKzyvw) | 3:16 |
 | 75 | [Heavy Like Lead](https://open.spotify.com/track/7xLFFvpk9ntQRNzQnflX5X) | [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Est\. 2003](https://open.spotify.com/album/56w3xaz6QTSez2nbQ9x9uZ) | 3:21 |
 | 76 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 120 | [Hypnotize Me Baby](https://open.spotify.com/track/2Hl0upSnUWcTVak4PVxlX3) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Numéro LDN](https://open.spotify.com/album/4qqRj5g7b3kMCZXF4pY98f) | 2:22 |
 | 121 | [FYA FYA](https://open.spotify.com/track/7gXR2JukLmjLqryJmqQmTK) | [MISFYA](https://open.spotify.com/artist/1O8tZYYaRppS0CGIAVI8sc) | [FYA FYA](https://open.spotify.com/album/3iWeKO9mVCGJ6nUTPb2M4R) | 3:41 |
 
-Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMGE4NWEyMTg3M2Q5YjNlODc0MTIzNzMwMjBjMTg4ODcx`
+Snapshot ID: `MTY2NzUyMDAwMCwwMDAwMDAwMDk0MzNiMWFjNzQxOTk3MjdlMDYxODNjYWQwZTdkOWM4`

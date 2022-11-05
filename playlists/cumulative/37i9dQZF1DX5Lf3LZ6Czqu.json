@@ -1555,10 +1555,28 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 225603,
       "name": "Sedosa",
       "url": "https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO"
+    },
+    {
+      "album": {
+        "name": "Eikasia",
+        "url": "https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z"
+      },
+      "artists": [
+        {
+          "name": "Mest\u00eds",
+          "url": "https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn"
+        }
+      ],
+      "date_added": "2021-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225603,
+      "name": "Sedosa",
+      "url": "https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf"
     },
     {
       "album": {

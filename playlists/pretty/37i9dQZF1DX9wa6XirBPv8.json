@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1374201,
+  "num_followers": 1374926,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMGI2ZmNmZDI5MjgzNjJiOTg0ZTlhODllNTYzOGQ0ODFk",
+  "snapshot_id": "MTY2MTIwNDg2NywwMDAwMDAwMDFlYzhkNzQwNzVjZjgwNGU3ZDdjMDZiNmFhMDg5N2E4",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
-      },
-      "artists": [
-        {
-          "name": "Anarbor",
-          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "You And I",
-      "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 241640,
       "name": "The Quiet Things That No One Ever Knows",
       "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP"
+      },
+      "artists": [
+        {
+          "name": "Anarbor",
+          "url": "https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Leaving Through The Window",
-        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
-      },
-      "artists": [
-        {
-          "name": "Something Corporate",
-          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Punk Rock Princess",
-      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Translating the Name",
         "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Leaving Through The Window",
+        "url": "https://open.spotify.com/album/1yFFvTKFLIJhqa6DhXjzix"
+      },
+      "artists": [
+        {
+          "name": "Something Corporate",
+          "url": "https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Punk Rock Princess",
+      "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
     },
     {
       "added_at": "2022-08-02 18:47:58",

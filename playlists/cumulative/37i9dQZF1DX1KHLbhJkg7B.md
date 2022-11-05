@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Michael Ray
 
-268 songs - 16 hr 37 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+269 songs - 16 hr 40 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Always on My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:32 | 2021-12-10 |  |
 | [Am I Losing You \- Remastered](https://open.spotify.com/track/5UJCcSSiQRXT9ONGbgihDE) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Ultimate Ronnie Milsap](https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Amarillo by Morning](https://open.spotify.com/track/40UaGjNcP6ZRNDksHLrCli) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 2:48 | 2021-12-10 | 2022-07-29 |
+| [Anti\-Hero \(Country Version\)](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \(Country Version\)](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 | 2022-11-04 |  |
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [Anyone](https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Anyone](https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC) | 3:22 | 2022-10-14 |  |
 | [Back in the High Life Again](https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 4:40 | 2021-12-10 | 2022-07-23 |
@@ -114,7 +115,7 @@
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-04-08 | 2022-06-12 |
 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 | 2021-12-10 |  |
 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:17 | 2021-12-10 |  |
-| [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 |  |
+| [I Wanna Dance with Somebody](https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [I Wanna Dance with Somebody](https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K) | 3:11 | 2022-05-27 | 2022-11-05 |
 | [I Wanna Dance With Somebody \- Who Loves Me](https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW) | 3:23 | 2022-10-03 |  |
 | [I Want to Know What Love Is](https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Cosmic Hallelujah](https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G) | 5:01 | 2021-12-10 | 2022-09-22 |
 | [I Will Always Love You](https://open.spotify.com/track/3FSKVylpJtOZbD50jOJDF0) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [I Will Always Love You](https://open.spotify.com/album/4RtNwpTeMqGkYl1Vx0XFLI) | 4:01 | 2022-05-20 | 2022-07-27 |

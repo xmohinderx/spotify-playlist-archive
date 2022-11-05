@@ -4,7 +4,7 @@
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Allison Russell
 
-246 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
+247 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/1P9OyTiTUDz0lOylvWtrf5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 | 2022-05-12 | 2022-07-27 |
 | [Easy Tiger](https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Easy Tiger](https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL) | 3:16 | 2022-04-15 | 2022-07-29 |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-07-27 |  |
-| [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 | 2022-04-15 |  |
+| [Elegy](https://open.spotify.com/track/41wel0JyLABRedko4XZLG1) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/64Yh7XkMmHan0qMmmYTcZj) | 5:24 | 2022-04-15 | 2022-11-05 |
 | [Everyone I've Never Met](https://open.spotify.com/track/01cuVZlQ0fjxgxy7MwHRru) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Motherwell](https://open.spotify.com/album/7orA0IU079PeGlKQY6iRO2) | 3:11 | 2022-07-27 |  |
 | [Everything Under the Sun](https://open.spotify.com/track/4Z9h55joG9eoz87CC8BWuC) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [Everything Under the Sun](https://open.spotify.com/album/3UmIv8okiSwMrSE2jiky06) | 3:57 | 2022-04-15 | 2022-07-09 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2022-04-15 | 2022-07-29 |
@@ -181,6 +181,7 @@
 | [Reach Out](https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Reach Out / Olympus](https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL) | 3:43 | 2022-04-15 | 2022-07-24 |
 | [Real Peach \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2eIYmspGt58UeXPNUsp1oW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Spotify Singles](https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr) | 3:15 | 2022-04-15 | 2022-07-29 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2022-07-27 |  |
+| [Rising Sun](https://open.spotify.com/track/3pEnh64tQcPwZs9pLvFPTI) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 3:22 | 2022-07-27 |  |
 | [Rising Sun](https://open.spotify.com/track/4CQgSmxceVrNEpMT75aAkY) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Rising Sun](https://open.spotify.com/album/72D6P3LN0xNolHn06kz8ia) | 3:22 | 2022-04-15 | 2022-07-29 |
 | [Sail Across the Sea](https://open.spotify.com/track/22WXPA6wxAWEgK8V9755xb) | [Kyle Church](https://open.spotify.com/artist/6LamrVF16MEe2AO5WAGodJ) | [Sail Across the Sea](https://open.spotify.com/album/5bvClgeaIvCWxFkhIXPGmG) | 4:21 | 2022-04-15 | 2022-07-12 |
 | [Salt](https://open.spotify.com/track/0NbkVexgx6JZmqDrLmrgbd) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Motivational Speaking](https://open.spotify.com/album/5RY9gGqXK3VWiaIom2axfN) | 4:02 | 2022-04-15 | 2022-07-29 |

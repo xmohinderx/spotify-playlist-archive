@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,445 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,566 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 11 | [Allo Gatli Nsani](https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Allo Gatli Nsani](https://open.spotify.com/album/1USeU5Fjj3Z5NPIVyOukQS) | 5:33 |
 | 12 | [Célibataire Taajabni](https://open.spotify.com/track/5b1Ha5pzXLE5t6VjwJnbJz) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6) | [Célibataire Taajabni](https://open.spotify.com/album/73YRT6VgEfaPcS4mRoF2Er) | 5:03 |
 | 13 | [طيري يا طيارة](https://open.spotify.com/track/0qJPN8mWjsORy7v2a6Benw) | [Mohamed Khassani](https://open.spotify.com/artist/32d1Iok2R1iGEbsj4zXgOC) | [طيري يا طيارة](https://open.spotify.com/album/7jaNQ3MZzO2FS2aCkxP6Xv) | 3:07 |
-| 14 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 |
+| 14 | [La Vérité 3jabtini](https://open.spotify.com/track/4cfGUQDE88NEMx3Md2cA72) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [La Vérité 3jabtini](https://open.spotify.com/album/0qAxk1LyqUAKV1jFdG3BE0) | 4:37 |
 | 15 | [Twahacht Hnantek](https://open.spotify.com/track/3oDiYHVVnvPPDpxMNmXXSw) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE) | [Twahacht Hnantek](https://open.spotify.com/album/7yG1ZSbQcJrJuf7eEKiAM4) | 4:48 |
 | 16 | [Ghbina Mora Ghbina](https://open.spotify.com/track/6VnRY3NS8IqE93MmXZSNDe) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ghbina Mora Ghbina](https://open.spotify.com/album/6C3JfZkinqjhUVmmuBEU9l) | 6:20 |
 | 17 | [Ghir Wahdi Mdamar](https://open.spotify.com/track/2K6B9NcxYnqwTzFmbjghUm) | [Cheb Mouiz](https://open.spotify.com/artist/2CgN8028PDOYbE4I0tMhZN) | [Ghir Wahdi Mdamar](https://open.spotify.com/album/3yAjMxvfCcH69wFsB9KY7e) | 7:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 49 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 50 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MTY2NzE2MTA1NSwwMDAwMDAwMGU5ODM1ZDFhMzg5Yzc0NWFmMWM4MDg3M2Y2YTdkOGFm`
+Snapshot ID: `MTY2NzE2MTA1NSwwMDAwMDAwMDg3YWFmNjY1Zjg4NThiNzBiNTNlNmU0MDI1ZmMwOWM5`

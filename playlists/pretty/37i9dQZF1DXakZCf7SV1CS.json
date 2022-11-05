@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 13872,
+  "num_followers": 14029,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMDE0NzEwYmM4NTA3NjgxZDUwZmJmZDI2YjEwYTMwZDkx",
+  "snapshot_id": "MTY2NjM2NDA1OCwwMDAwMDAwMGMwMDJhYzk4ZmVkY2U0MDJjNTM0MmNlMjAxYjJmMTA1",
   "tracks": [
     {
       "added_at": "2022-10-21 14:54:18",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "i dont want that many friends in the first place",
+        "url": "https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt"
+      },
+      "artists": [
+        {
+          "name": "quinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 109033,
+      "name": "i dont want that many friends in the first place",
+      "url": "https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "food house",
         "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 126177,
       "name": "ihonestlymightjustgiveup",
       "url": "https://open.spotify.com/track/6AGhG5sCxbepvyjFilAVHq"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/3tOevvBSeZ3VaSIZkFpGXt"
-      },
-      "artists": [
-        {
-          "name": "quinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 109033,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/2osO3L8EIQImWGfCGBwYgC"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/6YaIgWEICYDuhQ7Kb0R5Jx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/5W2YdxPUqmzYFELNQF95Dt"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Visored Vitality",
-        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
-      },
-      "artists": [
-        {
-          "name": "SEBii",
-          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
-        }
-      ],
-      "duration_ms": 152032,
-      "name": "Butterfly Bankai",
-      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -955,22 +939,18 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
+        "name": "Visored Vitality",
+        "url": "https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN"
       },
       "artists": [
         {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+          "name": "SEBii",
+          "url": "https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo"
         }
       ],
-      "duration_ms": 122153,
-      "name": "Decay",
-      "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
+      "duration_ms": 152032,
+      "name": "Butterfly Bankai",
+      "url": "https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -995,6 +975,26 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 122153,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "Peace & Love",
         "url": "https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
-      },
-      "artists": [
-        {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "scawy monstews and nice spwites :3",
         "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 96705,
       "name": "scawy monstews and nice spwites :3",
       "url": "https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
+      },
+      "artists": [
+        {
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
-        "name": "GFOTYBUCKS",
-        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
-      },
-      "artists": [
-        {
-          "name": "GFOTY",
-          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
         "name": "movinglikeazombie (remix)",
         "url": "https://open.spotify.com/album/3Qsn28wKIcugGTZ6HnR0qR"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 465424,
       "name": "movinglikeazombie - remix",
       "url": "https://open.spotify.com/track/7xvyaMqkhnqnpTMgv7j3A2"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
+        "name": "GFOTYBUCKS",
+        "url": "https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH"
+      },
+      "artists": [
+        {
+          "name": "GFOTY",
+          "url": "https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/1lgIlt243DVXg597hMx3Uf"
     },
     {
       "added_at": "2022-10-21 14:54:18",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2022-10-21 14:54:18",
       "album": {
+        "name": "Good Luck (Deluxe)",
+        "url": "https://open.spotify.com/album/7cGYfKvqoDtQYypCmrv7ZM"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 120754,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/515i7Vfw6yTAa0VN6LVopr"
+    },
+    {
+      "added_at": "2022-10-21 14:54:18",
+      "album": {
         "name": "WFLYTD",
         "url": "https://open.spotify.com/album/383qcrfxKodAdnhXGXbdRX"
       },
@@ -1351,22 +1375,6 @@
       "duration_ms": 215641,
       "name": "Toy Car",
       "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
-    },
-    {
-      "added_at": "2022-10-21 14:54:18",
-      "album": {
-        "name": "hot_babe_93",
-        "url": "https://open.spotify.com/album/4ojbW4wXZ432UqQLymu0IJ"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "Donuts",
-      "url": "https://open.spotify.com/track/6r7sY8M1bMW0kZm9s3LPMs"
     },
     {
       "added_at": "2022-10-21 14:54:18",

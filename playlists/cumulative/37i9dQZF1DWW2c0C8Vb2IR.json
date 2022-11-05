@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "All new, all jazz. Cover: Emmet Cohen",
+  "description": "All new, all jazz. Cover: Ezra Collective",
   "name": "All New Jazz",
   "published_playlist_ids": [
     "0siys22nGZQAi8UglzoSEO"
@@ -19176,6 +19176,32 @@
     },
     {
       "album": {
+        "name": "Let's hope for the best",
+        "url": "https://open.spotify.com/album/4HO1riDvREUnAWXn7h6Up6"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263621,
+      "name": "Let's hope for the best",
+      "url": "https://open.spotify.com/track/7zXBQmEujl16jxVwGjn2tG"
+    },
+    {
+      "album": {
         "name": "Levin's Lope (Karriem Riggins Remix)",
         "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
       },
@@ -24258,6 +24284,28 @@
     },
     {
       "album": {
+        "name": "No Confusion (feat. Kojey Radical)",
+        "url": "https://open.spotify.com/album/1JIZ8ahbpr5CFTFRir5GPR"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170287,
+      "name": "No Confusion (feat. Kojey Radical) [Alternate Take]",
+      "url": "https://open.spotify.com/track/6WHI0ZI3wAjxJrx4GQAAQF"
+    },
+    {
+      "album": {
         "name": "No Longer See Me",
         "url": "https://open.spotify.com/album/1JjEC4ZiSQKIAogGq2EemN"
       },
@@ -24635,6 +24683,24 @@
       "duration_ms": 494377,
       "name": "November",
       "url": "https://open.spotify.com/track/5pakrja7GlSgf9GdogxTIv"
+    },
+    {
+      "album": {
+        "name": "Nu Jump",
+        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Nu Jump",
+      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
     },
     {
       "album": {
@@ -25316,6 +25382,36 @@
     },
     {
       "album": {
+        "name": "Ondes of chakras",
+        "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377231,
+      "name": "Ondes of Chakras",
+      "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
+    },
+    {
+      "album": {
         "name": "One Day We'll Find Our Way",
         "url": "https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x"
       },
@@ -25633,6 +25729,24 @@
       "duration_ms": 380280,
       "name": "Orion's Belt",
       "url": "https://open.spotify.com/track/3IGBLtIITeWg5r00g5KMGo"
+    },
+    {
+      "album": {
+        "name": "Over Tage",
+        "url": "https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234422,
+      "name": "Orkaner",
+      "url": "https://open.spotify.com/track/0EDOoCCjGsj3BscXv1S5Xf"
     },
     {
       "album": {
@@ -27884,6 +27998,36 @@
     },
     {
       "album": {
+        "name": "Massimo Fara\u00f2 Plays Pino Daniele's Ballads",
+        "url": "https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "Quanno chiove",
+      "url": "https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH"
+    },
+    {
+      "album": {
         "name": "Quanta",
         "url": "https://open.spotify.com/album/4gZVZsXlIv9gJ7hLxbo3Ih"
       },
@@ -28103,6 +28247,24 @@
       "duration_ms": 398920,
       "name": "Quicksilver",
       "url": "https://open.spotify.com/track/2ifiMxYBlNKb53EBob9tl0"
+    },
+    {
+      "album": {
+        "name": "Voices of Bishara",
+        "url": "https://open.spotify.com/album/0zPEYIOStlPrrgvZGlCrBR"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243585,
+      "name": "Quiet as It's Kept",
+      "url": "https://open.spotify.com/track/4ATFNWs31uk1dHTu5BnOx7"
     },
     {
       "album": {
@@ -33710,6 +33872,24 @@
     },
     {
       "album": {
+        "name": "Sunday Brunch",
+        "url": "https://open.spotify.com/album/72PVK2wHvkRpYygKKiUKme"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121851,
+      "name": "Sunday Brunch",
+      "url": "https://open.spotify.com/track/0yn5ghpJaaPd4eLSEyVpjp"
+    },
+    {
+      "album": {
         "name": "Sunday Davidson",
         "url": "https://open.spotify.com/album/5iEbEar3e9J3OStxC2cdoj"
       },
@@ -34939,6 +35119,28 @@
       "duration_ms": 216000,
       "name": "That Funky Cat",
       "url": "https://open.spotify.com/track/56UGYoW4Gm5TrQymxTpRvY"
+    },
+    {
+      "album": {
+        "name": "Brazilian Moods",
+        "url": "https://open.spotify.com/album/2ziQ6aTPa4e99ZRJJUkO62"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252971,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/2cQUpeNPocwLzbybZzm0Gi"
     },
     {
       "album": {
@@ -39852,6 +40054,24 @@
     },
     {
       "album": {
+        "name": "We Gettin' Down / Nautical Table",
+        "url": "https://open.spotify.com/album/3eOTsQqf3meYH8xlv9PYgH"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248295,
+      "name": "We Gettin' Down",
+      "url": "https://open.spotify.com/track/4bJtIjDIOlY5z7GweNcGq3"
+    },
+    {
+      "album": {
         "name": "We Give Thanks",
         "url": "https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb"
       },
@@ -41897,6 +42117,24 @@
       "duration_ms": 179000,
       "name": "\u5c0f\u908b\u9062",
       "url": "https://open.spotify.com/track/6j9ASsXxCdkF2SOLkuM0O9"
+    },
+    {
+      "album": {
+        "name": "\u79d1\u5b66",
+        "url": "https://open.spotify.com/album/5K0JtbKBfcXl9xpthjLf9b"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u79d1\u5b66",
+      "url": "https://open.spotify.com/track/0fUxG11k3Oajkh5QvkBZxH"
     },
     {
       "album": {

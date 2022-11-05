@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-201 songs - 11 hr 6 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+202 songs - 11 hr 9 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Drunk Too](https://open.spotify.com/track/6dFc4ryW27fQaj0DWW1DPo) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Drunk Too](https://open.spotify.com/album/2AccCtAAKQrx8b1bvPcftg) | 2:42 | 2021-12-17 |  |
 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 | 2021-12-17 |  |
 | [Even In My Dreams \- Acoustic](https://open.spotify.com/track/5WqhoP1sXe81DyB91q77aw) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Even In My Dreams Acoustic](https://open.spotify.com/album/50eTd9xEFGizDaZDR7U7uo) | 3:11 | 2022-04-08 | 2022-07-19 |
-| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 |  |
+| [Every Other Memory \- Acoustic](https://open.spotify.com/track/3Wytcmwttm1DkfCYPZBb39) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:41 | 2021-12-17 | 2022-11-05 |
 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 | 2021-12-17 |  |
 | [Fall In Love \- Acoustic](https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Fall In Love \(Acoustic\)](https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD) | 3:58 | 2022-04-15 |  |
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
@@ -86,6 +86,7 @@
 | [Hope It's Hot Out \- Acoustic](https://open.spotify.com/track/2JrieR1DBfhGK2G4zTyeXj) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Hope It's Hot Out \(Acoustic\)](https://open.spotify.com/album/6PIh55HBPHm7iFyODh5ZLk) | 2:47 | 2022-07-01 |  |
 | [How It Oughta Be \- Acoustic](https://open.spotify.com/track/6d8IG8GblIOXUWMdtQt2jj) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [How It Oughta Be \(Acoustic\)](https://open.spotify.com/album/6iMyQOYBiUrmmGXot3QbFs) | 3:04 | 2022-10-28 |  |
 | [How to Love a Girl \- Acoustic](https://open.spotify.com/track/1nxjPus9HGtq2no7jdeNVr) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl \(Acoustic\)](https://open.spotify.com/album/120UcOfx90ZhZ1DzSKn0wT) | 3:33 | 2022-04-01 | 2022-07-09 |
+| [I Can't Love You Anymore \- In Rare Form](https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 3:08 | 2022-11-04 |  |
 | [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 |  |
 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 |  |
 | [I Hope You’re Happy Now \- Live](https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [I Hope You’re Happy Now \(Live\)](https://open.spotify.com/album/74cMAdnY7pp9kDBWEkxxsz) | 3:15 | 2021-12-17 | 2022-07-29 |

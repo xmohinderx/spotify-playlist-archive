@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-58 songs - 3 hr 19 min - [published](https://open.spotify.com/playlist/1btdo8kMBVWjpbQP3UO41v)
+59 songs - 3 hr 23 min - [published](https://open.spotify.com/playlist/1btdo8kMBVWjpbQP3UO41v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Ball](https://open.spotify.com/track/2LowbYxM2uUKTkIplQdHaS) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Ball](https://open.spotify.com/album/5vpj7obLVDfrGZb5xPYFfy) | 3:08 | 2022-08-26 |  |
 | [Birthday \- Radio Edit](https://open.spotify.com/track/0xBZyqY4wBWEXyj9iC5lXI) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Ibrah Nation](https://open.spotify.com/artist/6Y3OSLT5LyIKJM5cGsV0Gq) | [True Story](https://open.spotify.com/album/1wWKlSTmgntpXq6NCRvxs5) | 3:14 | 2022-03-28 |  |
 | [BLESS](https://open.spotify.com/track/2VuA20x246Ayzil4Ng1NZ9) | [iA MOS](https://open.spotify.com/artist/5iQjkWJvUP5go0LNo8Wra0), [Bk bakari](https://open.spotify.com/artist/4VW3UT2XqmrRXlfxOmaZQL) | [BLESS](https://open.spotify.com/album/6POU9Kc9rWz3NU4KEnAddP) | 2:52 | 2022-10-21 |  |
-| [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 | 2022-03-28 |  |
+| [Dear Gambe](https://open.spotify.com/track/2i37M0jQYvAZNvId6tZU30) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Dear Gambe](https://open.spotify.com/album/4cOVoj2vxhLViRWFhA5XUm) | 4:00 | 2022-03-28 |  |
+| [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 | 2022-03-28 | 2022-11-05 |
 | [Dear Gambe](https://open.spotify.com/track/2IUvtf5mREXmyLm2R4Ewkh) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Mrs\. Superstar](https://open.spotify.com/album/1XPoBa0RUHPdFNRovQZ9P6) | 4:00 | 2022-03-28 | 2022-10-28 |
 | [Drunk](https://open.spotify.com/track/4ce0jtsd45FzC16C6T1aBu) | [Base Ace](https://open.spotify.com/artist/6q8o2vR7Hi0ibQFpGRidsP), [Harley](https://open.spotify.com/artist/6NWw0BtjA7DhzIEJyY0dNm) | [Drunk](https://open.spotify.com/album/2y25NkbnqoJXRyGX60GxKd) | 3:02 | 2022-04-28 |  |
 | [Feelin](https://open.spotify.com/track/4jRzr8vtAycrPT1FKUR4bq) | [kisanga](https://open.spotify.com/artist/4JjEDrm0ZHeunwcPLwwimR) | [Feelin](https://open.spotify.com/album/2AJ4eOhhY3hFRcUxVHSByN) | 2:53 | 2022-10-21 |  |

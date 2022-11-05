@@ -1,12 +1,12 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\n\u6211\u60f3\u5922\u898b\u4f60 \u53ef\u4f60\u6c92\u56de\u61c9\n\u5225\u6015\u6211\u518d\u6b21\u7d93\u6b77\u5206\u96e2\n\u6211\u60f3\u4f60 \u5c31\u770b\u770b\u93e1\u5b50\u88e1\u7684\u6211\u81ea\u5df1\u3002",
-  "num_followers": 187565,
+  "num_followers": 187594,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ3MTc3NiwwMDAwMDAwMDg4YjA3YWM2YTg1NmNkMDgwMzY2OWQwMzQyMTgwM2Ri",
+  "snapshot_id": "MTY2NzQ3MTc3NiwwMDAwMDAwMDA0ZGQ3OTIzMzRiMDQzNjcxZGY1NDg1NGM3ZmRkNTY5",
   "tracks": [
     {
       "added_at": "2022-11-03 10:36:16",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-11-03 10:36:16",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 321629,
-      "name": "\u80cc\u53db",
-      "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
-    },
-    {
-      "added_at": "2022-11-03 10:36:16",
-      "album": {
         "name": "\u5b78\u4e0d\u6703",
         "url": "https://open.spotify.com/album/1hTBgTLTxoaK9TJ8YmnYU5"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 219511,
       "name": "Love U U",
       "url": "https://open.spotify.com/track/16o2AmA4xxtE3vMGl3zi0W"
+    },
+    {
+      "added_at": "2022-11-03 10:36:16",
+      "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 321629,
+      "name": "\u80cc\u53db",
+      "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
     },
     {
       "added_at": "2022-11-03 10:36:16",

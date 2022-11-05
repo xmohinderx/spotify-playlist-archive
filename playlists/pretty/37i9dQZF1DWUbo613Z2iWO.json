@@ -1,13 +1,97 @@
 {
-  "description": "Our favorite R&B artists on the rise! Cover: Eli Derby",
-  "num_followers": 25037,
+  "description": "Our favorite R&B artists on the rise! Cover: Dylan Sinclair",
+  "num_followers": 25072,
   "original_name": "The Newness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkzMTcxNCwwMDAwMDAwMDFlNTRlOGJiZjdhMzU1OTFiY2E0MjQ1NmFmNWUwZjQw",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDY1NTU5OWU4YmY2ZDA4NDk4ZGU0ZjZiZTNlZjZkOWRh",
   "tracks": [
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "No Longer in the Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/2j2XtfzuhGKNxsmM4rI3xi"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 159244,
+      "name": "Double Back",
+      "url": "https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/19exie40WWvOnJw3eSvYYn"
+      },
+      "artists": [
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/5BIZF5F2PN06sCJIxStSg5"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 138157,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj"
+    },
     {
       "added_at": "2022-10-28 04:35:14",
       "album": {

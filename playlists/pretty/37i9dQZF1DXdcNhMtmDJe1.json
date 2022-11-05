@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 73065,
+  "num_followers": 73100,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDBjMWQ0YWZhMGE4NzRjOTY2MTYyMzM4ZmJjM2I3NGEx",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDgxY2E3ZjIwOTZhM2Y5YjMyODA0ZTlmMzk5NmZiNmQy",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: We got Rhythm - A Gershwin Songbook",
         "url": "https://open.spotify.com/album/5dpk1t1HctEJEQRZHlvVqE"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 299253,
       "name": "Someone to Watch over Me (Arr. for Piano)",
       "url": "https://open.spotify.com/track/3lsjf6k1z9HAlHDdab0KpR"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -976,6 +976,34 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Andante con moto",
+      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
       "duration_ms": 826466,
       "name": "Piano Concerto in F Major: I. Allegro moderato - Cantabile - Poco meno scherzando",
       "url": "https://open.spotify.com/track/7ipGbrTaeuWvuRF3NYHeIk"
@@ -1004,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Andante con moto",
-      "url": "https://open.spotify.com/track/269PXHuflueJlNaPSnN13u"
+      "duration_ms": 949253,
+      "name": "Second Rhapsody",
+      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1035,34 +1063,6 @@
       "duration_ms": 799826,
       "name": "Piano Concerto in F: 2. Adagio",
       "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Piano Concerto - Second Rhapsody - I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/1Pe0dxZvRLFe0GnAMfzko2"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "duration_ms": 949253,
-      "name": "Second Rhapsody",
-      "url": "https://open.spotify.com/track/52W0Vd6r7byNRIHCOqXjHE"
     },
     {
       "added_at": "2022-08-05 04:02:00",

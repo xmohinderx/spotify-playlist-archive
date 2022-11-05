@@ -2338,6 +2338,28 @@
     },
     {
       "album": {
+        "name": "Super Morio",
+        "url": "https://open.spotify.com/album/07WaRFUKEhfl4fAhq4Z6rJ"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Sexting",
+      "url": "https://open.spotify.com/track/3NZt7jQJEaY5Hv1kG6ESRQ"
+    },
+    {
+      "album": {
         "name": "She Knows",
         "url": "https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40"
       },

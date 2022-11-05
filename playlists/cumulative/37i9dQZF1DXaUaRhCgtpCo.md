@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-114 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
+115 songs - 6 hr 15 min - [published](https://open.spotify.com/playlist/1VWBxYYjYIwYYr2cZZuEqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 | 2021-05-14 |  |
 | [Anakin's Dark Deeds](https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:04 | 2021-05-14 |  |
 | [Anakin's Theme](https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Phantom Menace \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK) | 3:07 | 2021-05-14 |  |
-| [Andor \(Main Title Theme\) \- Episode 1](https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 1:17 | 2022-09-22 |  |
+| [Andor \(Main Title Theme\) \- Episode 1](https://open.spotify.com/track/3DsfQmoME4Fe6d4L7H2FJi) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 1:17 | 2022-10-26 |  |
+| [Andor \(Main Title Theme\) \- Episode 1](https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 1:17 | 2022-09-22 | 2022-11-05 |
 | [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/4SxT40S7bBdHg8iSTYUpTq) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:49 | 2022-09-22 | 2022-11-04 |
 | [Andor \(Main Title Theme\) \- Episode 2](https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Andor: Vol\. 1 \(Episodes 1\-4\) \[Original Score\]](https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81) | 0:51 | 2022-10-26 |  |
 | [Andor \(Main Title Theme\) \- Episode 3](https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Main Title Themes \(Episodes 1\-3\) \[From "Andor"\]](https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md) | 0:39 | 2022-09-22 | 2022-11-04 |

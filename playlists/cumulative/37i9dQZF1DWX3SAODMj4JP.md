@@ -4,7 +4,7 @@
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-73 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
+74 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/5JZY6af9zEUuR4p3UhWpXB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,11 +55,12 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/1QUEVvbXjEYytdZLmO58uI) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/4kRftqxEYbHFCsWIJ8qKSk) | 5:12 | 2022-09-02 |  |
 | [Olhar de Longe](https://open.spotify.com/track/38Ehecm8meAMYbcYjnaVbI) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Olhar de Longe](https://open.spotify.com/album/703VJ4yLS4vu7Yv7d4hhIJ) | 3:32 | 2022-09-02 |  |
 | [Oração](https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Oração](https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W) | 4:37 | 2022-09-02 |  |
-| [Peace](https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 4:57 | 2022-09-02 |  |
+| [Peace](https://open.spotify.com/track/2Gpk1rtu5wVUCMQH86kErs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/5ooqN8wLOZ4zAYo23v3GfA) | 4:57 | 2022-09-02 | 2022-11-05 |
 | [Pra Viver \- Acústico](https://open.spotify.com/track/42OJeiOtGughIhTJO9yHHa) | [Praviver Worship](https://open.spotify.com/artist/5mhPlTKr7pRsSnjK1nocL4) | [Pra Viver Project](https://open.spotify.com/album/2riFr9I8oh3ZDUwQHO7GdS) | 3:15 | 2022-09-02 |  |
 | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/track/0blRKZuaGlLtbdo2wgiIK1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Primeira Canção \(Música dos Passarinhos\)](https://open.spotify.com/album/1NTaQ9e3EITXP6z3KQSdpq) | 3:13 | 2022-09-02 |  |
 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 | 2022-09-02 |  |
 | [Quando A Gente Voltar](https://open.spotify.com/track/03wotmqx2qpMxH1NrQH6fi) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Quando A Gente Voltar](https://open.spotify.com/album/5hCZlmnl8xki4ZeN8re4Y9) | 2:00 | 2022-09-02 |  |
+| [Quando Ninguém Me Vê](https://open.spotify.com/track/30pihAQ6IGOKJlIX9kUdZj) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Three Voices](https://open.spotify.com/artist/7mMXVPgjGcXDIizoH1KYLm) | [Quando Ninguém Me Vê](https://open.spotify.com/album/6ImaEJL8fL6CqEeEhvfpLM) | 4:11 | 2022-11-04 |  |
 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 | 2022-09-02 |  |
 | [Reina](https://open.spotify.com/track/6Hwtp4JrwljQD3ASLDcA4c) | [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Confissões](https://open.spotify.com/album/4oja7GXMksLfoATvA4TQhK) | 4:08 | 2022-09-02 |  |
 | [Se Eu Cair](https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Se Eu Cair](https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv) | 5:35 | 2022-09-02 |  |

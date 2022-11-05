@@ -2618,6 +2618,28 @@
     },
     {
       "album": {
+        "name": "Muito Al\u00e9m",
+        "url": "https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168505,
+      "name": "Muito Al\u00e9m",
+      "url": "https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL"
+    },
+    {
+      "album": {
         "name": "M\u00edsseis Democr\u00e1ticos",
         "url": "https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB"
       },
@@ -4029,7 +4051,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 174208,
       "name": "S\u00f3 Sei Sonhar",
       "url": "https://open.spotify.com/track/5g8k48PEvMoSuDhBeFfZIL"
@@ -4333,7 +4355,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 162374,
       "name": "Um Segundo a +",
       "url": "https://open.spotify.com/track/73JqxNvW3ZHv2TcTI1kh6q"

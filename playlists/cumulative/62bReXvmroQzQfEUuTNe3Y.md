@@ -4,7 +4,7 @@
 
 > House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-313 songs - 17 hr 52 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
+314 songs - 17 hr 55 min - [published](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Want It](https://open.spotify.com/track/37OhtSnCY0kzqkPWmfN3RD) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Want It](https://open.spotify.com/album/495KToZQi6VijKwHedBAAH) | 2:32 | 2021-06-12 | 2021-07-17 |
 | [Warmer](https://open.spotify.com/track/5KiXHbjpJuKD4XHR1fcjYP) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Warmer](https://open.spotify.com/album/5wLRDM7IOWxh997fsJrtD9) | 2:32 | 2021-09-18 | 2021-11-11 |
 | [What About Me](https://open.spotify.com/track/0Dv9RfsaOgJ9sNp2NVwU18) | [King Henry](https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5) | [What About Me](https://open.spotify.com/album/26itlv8iMJgvevPRko5Fwb) | 3:43 | 2020-09-13\* | 2021-07-17 |
+| [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 | 2022-11-04 |  |
 | [What's in My Head](https://open.spotify.com/track/4woprVN4PLmhBhqAVi09YF) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT) | [What's in My Head](https://open.spotify.com/album/3qgnUK6AeZsrwwgGTyMACQ) | 3:16 | 2021-05-28 | 2022-07-23 |
 | [When I Get There](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Invincible EP](https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L) | 3:40 | 2021-10-02 |  |
 | [When I Say I Love U \(Saux Remix\)](https://open.spotify.com/track/0JpMvWrCGVQozGUPRHSpzL) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [When I Say I Love U \(Saux Remix\)](https://open.spotify.com/album/4hd5Y02gY6yDSaVFHWjkcc) | 4:17 | 2021-10-02 | 2022-01-22 |

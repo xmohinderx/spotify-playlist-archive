@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Jackie Venson
 
-112 songs - 11 hr 34 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
+113 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Do You Wanna \- Live](https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy) | [Vanja Sky](https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq) | [Blues Caravan Live 2018](https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW) | 3:35 | 2020-10-30 | 2022-06-27 |
 | [Down For Love \- Live](https://open.spotify.com/track/6OQ3GvlaMOJTCPNi1mYKwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/2SQiZ96Kv4cTmd7jNjmmxU) | 4:29 | 2020-11-27 | 2022-07-21 |
 | [Drive \- Live](https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Sydney Opera House](https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH) | 7:27 | 2020-10-30 |  |
-| [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 | 2022-04-22 |  |
+| [Dyin' To Know \(Live\)](https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Dyin' To Know \(Live\)](https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx) | 3:12 | 2022-04-22 | 2022-11-05 |
 | [Empty Promises \(Live\)](https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Empty Promises \(Live\)](https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9) | 7:49 | 2020-10-30 |  |
 | [Everyday I Have The Blues \- Live \(San Quentin\)](https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At San Quentin](https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2) | 4:41 | 2020-10-30 |  |
 | [Feeling Good \- Live](https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live At The Roxy](https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd) | 3:52 | 2020-10-30 | 2022-07-29 |
@@ -100,6 +100,7 @@
 | [Texas Flood \- Live at Ripley's Music Hall, Philadelphia, PA, Oct\. 20, 1983](https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 10:00 | 2020-10-30 |  |
 | [The Healing \- Live](https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Healing \(Live\)](https://open.spotify.com/album/3mwKeJxKHxB0BRVK4AYgtb) | 5:38 | 2020-10-30 | 2022-07-29 |
 | [The Healing \- Live](https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Live North America 2016](https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN) | 5:38 | 2020-10-30 |  |
+| [The Reformation \- Live in Camden](https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [The Reformation](https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9) | 3:35 | 2022-11-04 |  |
 | [The Sweetest Honey \(Live\)](https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up) | [Alastair Greene](https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn) | [Live from the 805](https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f) | 3:47 | 2020-10-30 |  |
 | [Things Are Changin' \- Live](https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 6:09 | 2020-10-30 |  |
 | [This Train \- Live](https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [This Train \(Live\)](https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b) | 8:24 | 2020-10-30 |  |

@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200703,
+      "name": "Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk"
+    },
+    {
+      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 180173,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/4m2A5OHjj4RDMrX5ZRw2MZ"
@@ -1322,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "No Voy a Ser Yo",
+        "url": "https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175057,
+      "name": "No Voy a Ser Yo",
+      "url": "https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH"
+    },
+    {
+      "album": {
         "name": "Nudito",
         "url": "https://open.spotify.com/album/5qpXtGHhTj6nL67kgiYSJ6"
       },
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 155498,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/23sXtu1mNhQwZCCSyvwZCc"

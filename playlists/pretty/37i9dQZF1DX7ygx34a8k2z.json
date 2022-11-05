@@ -1,12 +1,12 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 82077,
+  "num_followers": 82372,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMGRlNGIxY2Q4ZDc1ZTBlYzNlYjc0YzI1NDRkOTdkMDY0",
+  "snapshot_id": "MTY2NTAwMjI0MSwwMDAwMDAwMDYxMWRiZDJmYzgyYzNmMTVlZWVmMzVmOWIxNGRmMDVm",
   "tracks": [
     {
       "added_at": "2022-05-30 14:05:21",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "The Mollusk",
-        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
-      },
-      "artists": [
-        {
-          "name": "Ween",
-          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
-        }
-      ],
-      "duration_ms": 126946,
-      "name": "Ocean Man",
-      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "13 Songs",
         "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
     },
     {
       "added_at": "2022-05-30 14:05:21",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-05-30 14:05:21",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach For My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2022-05-30 14:05:21",
-      "album": {
         "name": "Mic City Sons",
         "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 208000,
       "name": "Plainclothes Man",
       "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
+    },
+    {
+      "added_at": "2022-05-30 14:05:21",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach For My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     },
     {
       "added_at": "2022-05-30 14:05:21",

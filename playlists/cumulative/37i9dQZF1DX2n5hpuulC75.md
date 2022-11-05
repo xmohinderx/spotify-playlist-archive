@@ -4,7 +4,7 @@
 
 > Chill tunes for mellow moods.
 
-113 songs - 6 hr 45 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
+114 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/4a7mOEM21JMUcPPs8ypWdX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 | 2018-12-11 |  |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2018-12-11 | 2022-10-14 |
 | [Loss](https://open.spotify.com/track/1yZUxtk1VoMiYUnD1yOjo8) | [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Loss](https://open.spotify.com/album/5p9mx2AX05jn6rzjzKUYNX) | 3:39 | 2018-12-11 | 2022-07-29 |
-| [Medication](https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Broken Clinic](https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m) | 3:50 | 2018-12-11 |  |
+| [Medication](https://open.spotify.com/track/2p2xu7jiPzZG0W7IvXhEY7) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [Broken Clinic](https://open.spotify.com/album/3ifqH567bhxDsguSelvA6m) | 3:50 | 2018-12-11 | 2022-11-05 |
 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 | 2019-09-16 |  |
 | [Mercury](https://open.spotify.com/track/7qIcIbwxgoELlu989d3paB) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/7vajxfrenQypkMf4vXj5nI) | 5:35 | 2019-09-16 | 2022-10-15 |
 | [Money](https://open.spotify.com/track/1Pvp3lLLxoc0qKBDUjHvvn) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Money](https://open.spotify.com/album/1o78NPweWzYF2cH9iWayZg) | 3:59 | 2018-12-11 | 2022-07-29 |
@@ -113,6 +113,7 @@
 | [White Gemini](https://open.spotify.com/track/4PuTvnil6uy4m6DGSnxrHE) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [White Gemini](https://open.spotify.com/album/7IXVOxHTpOMXaMQivGKfuE) | 3:38 | 2019-05-24 | 2022-07-29 |
 | [White Gemini](https://open.spotify.com/track/5qVW9YK5Hfm07IUiMHR3te) | [Beshken](https://open.spotify.com/artist/5sHn9ENA6XtnLmOrVQt2BB) | [Aisle of Palm](https://open.spotify.com/album/7GIqa5FgfcxOztfGL48KDr) | 3:38 | 2019-05-24 |  |
 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 | 2019-05-24 |  |
+| [Yellow Dust](https://open.spotify.com/track/2qyY0gUp1hpDjVQlDshWWX) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/4KxYum9GpJC5SweO143o6K) | 3:52 | 2018-12-11 |  |
 | [Yellow Dust](https://open.spotify.com/track/7DxLN7gn6TNpgyaIYkQ6d1) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Yellow Dust](https://open.spotify.com/album/0GddXWFgGfX620dMxsh7K5) | 3:53 | 2018-12-11 | 2022-07-29 |
 | [You](https://open.spotify.com/track/4hUwGugDAOjypsfNyagxbA) | [Only Emily](https://open.spotify.com/artist/7zQJLySlh6khVpyF4W1IdT) | [EP 2](https://open.spotify.com/album/63nEJyxKj0LvRo3BUWoRK4) | 2:50 | 2018-12-11 |  |
 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 | 2018-12-11 |  |

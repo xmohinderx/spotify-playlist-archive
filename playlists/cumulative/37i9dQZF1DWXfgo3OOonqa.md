@@ -4,7 +4,7 @@
 
 > spooky season 🎃
 
-658 songs - 1 day 5 hr 20 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+659 songs - 1 day 5 hr 22 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Dansa \(feat\. Awave\)](https://open.spotify.com/track/5zIEQSVZcB3UTvMltGhpdV) | [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Trauma X](https://open.spotify.com/album/1IDM1qjiBFKFKVoeBCXkNs) | 2:37 | 2022-07-07 | 2022-09-16 |
 | [Darbuka](https://open.spotify.com/track/5tnWSSa0CHuMf6AfzKtf0F) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 2:21 | 2022-06-17 | 2022-06-30 |
 | [DAY BY DAY](https://open.spotify.com/track/6Q1O5ijo0un3nJYlqKnvHp) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [DEJAVU](https://open.spotify.com/album/4QMHEXKxLB3ATm0YdjVGPx) | 2:56 | 2022-03-10 | 2022-05-03 |
+| [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2022-11-04 |  |
 | [DE GHETTO](https://open.spotify.com/track/1SICUCTpf6FaYUUwyk16RK) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [DE GHETTO](https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H) | 2:35 | 2022-10-27 |  |
 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 | 2022-10-20 |  |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 | 2022-05-27 |
@@ -427,7 +428,7 @@
 | [MUSIK ELLER METALL](https://open.spotify.com/track/5vQk0ckwdC5VldGJvt2LlO) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [MUSIK ELLER METALL](https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS) | 3:20 | 2022-02-25 | 2022-06-03 |
 | [MÅNTE BRA](https://open.spotify.com/track/40fP7JFmzMCSKv2fgDbBiJ) | [Chico](https://open.spotify.com/artist/4zS16DZY9bd9qPKjCBuF8n), [Lucaz](https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ) | [MÅNTE BRA](https://open.spotify.com/album/1vNpvsn2CWrzmoQ1UKMlXS) | 2:49 | 2022-09-01 | 2022-10-07 |
 | [NANANA](https://open.spotify.com/track/2fVeR3EDIfgd7Z5WIhv4UB) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO) | [NANANA](https://open.spotify.com/album/3y6HYazrlBj2jA7xBq1CZU) | 2:57 | 2021-12-16 | 2022-01-14 |
-| [Narnia](https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Luwapp](https://open.spotify.com/artist/5GzNgix4Ps9dlIYBqnSQGp) | [Narnia](https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0) | 2:17 | 2022-10-20 |  |
+| [Narnia](https://open.spotify.com/track/5Dapp02vk3WQ44jPAWjPyA) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Luwapp](https://open.spotify.com/artist/3RHR0RmiXBuc3BBJOrHBj8) | [Narnia](https://open.spotify.com/album/50DRuTbiPt6kANqNov3wL0) | 2:17 | 2022-10-20 |  |
 | [Narnia](https://open.spotify.com/track/3NCzRhRPSgkKe7dgzGQyMk) | [KD](https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn) | [Narnia](https://open.spotify.com/album/2mZy0bOnaITSq8IEhDJdHz) | 2:09 | 2022-07-07 | 2022-07-26 |
 | [Nere](https://open.spotify.com/track/0eJDlTe9RKCmmA2qbqMHY1) | [C3 Too Loose](https://open.spotify.com/artist/3CfOVsIWSeujbqCxwQTQYA), [Primo Beats](https://open.spotify.com/artist/0ZY9jvE802WiRSAqX8eu3L) | [Nere](https://open.spotify.com/album/1J7cOxPTlmbGS4s1Yq6vi4) | 2:11 | 2022-01-13 | 2022-02-04 |
 | [NERVOUS](https://open.spotify.com/track/02TdJAx7jP57xQZTG4NGV8) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [NERVOUS](https://open.spotify.com/album/36oHp22A3Nmsed2MfrJB1Q) | 2:10 | 2022-09-29 |  |
@@ -622,7 +623,7 @@
 | [Vamos](https://open.spotify.com/track/6N3q7NSmlxB7TNJkyzfYcb) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/0qdJBCoqpSJjhHsJOPg1IN) | 2:41 | 2022-09-12 | 2022-11-04 |
 | [Vamos](https://open.spotify.com/track/7jpv96mbDX0dQwbewYj906) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Afronine](https://open.spotify.com/album/3kxWI2UtwW4NCrnrDUoOXd) | 2:41 | 2022-09-08 | 2022-09-15 |
 | [Vant Mig](https://open.spotify.com/track/3cJA0GAQorbqIIZcOU5iNi) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO](https://open.spotify.com/album/6dmKNqyiMgp26yJ3EIyuvq) | 2:33 | 2022-01-20 | 2022-03-05 |
-| [Var är du](https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Var är du](https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4) | 2:25 | 2022-11-04 |  |
+| [Var Är Du](https://open.spotify.com/track/4gYkCCBvqX0os3uDOJ2vED) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Var Är Du](https://open.spotify.com/album/1KgPLaqOu3KCNnYyZDTmz4) | 2:25 | 2022-11-04 |  |
 | [Vara jag](https://open.spotify.com/track/4uNqbRT4aZDcVQMfrg6RUP) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Vara jag](https://open.spotify.com/album/2rgcBjdReUbm1x0q219YtJ) | 2:06 | 2022-08-05 | 2022-09-30 |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |
 | [Vcflow2](https://open.spotify.com/track/09WFWi9nnZwP8jTLmFOgCA) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Young&Strapped](https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp) | 2:51 | 2022-06-01 | 2022-06-03 |

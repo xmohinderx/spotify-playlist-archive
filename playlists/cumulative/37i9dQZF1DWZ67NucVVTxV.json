@@ -552,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/7Ay5W5UanjEMv0Vw7lxDx5"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177449,
+      "name": "Chance (Na Ham)",
+      "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
+    },
+    {
+      "album": {
         "name": "Chele",
         "url": "https://open.spotify.com/album/4WL9btBwHahqGtBO0uaxqQ"
       },
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 144013,
       "name": "Country Boy",
       "url": "https://open.spotify.com/track/4l74XNrKtmHYgRx0erTgHy"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 186666,
       "name": "Daddy (feat. Chillz)",
       "url": "https://open.spotify.com/track/07mR89aGy6C9WzqShR3zfW"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 182506,
       "name": "If Money No Dey (Imnd)",
       "url": "https://open.spotify.com/track/0gdEkhZgM1w6OKTAJ6PO0m"
@@ -2081,6 +2099,32 @@
       "duration_ms": 188737,
       "name": "Oba",
       "url": "https://open.spotify.com/track/07nOYCGwTIeNVp7HcY83en"
+    },
+    {
+      "album": {
+        "name": "Olorun Maje",
+        "url": "https://open.spotify.com/album/3lS0aB3MgFWB9t5NEcALlc"
+      },
+      "artists": [
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161262,
+      "name": "Olorun Maje",
+      "url": "https://open.spotify.com/track/6PMAkS0V1IMh6pndxR8A6E"
     },
     {
       "album": {
@@ -2667,7 +2711,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 159683,
       "name": "Simple Life",
       "url": "https://open.spotify.com/track/0ZsAXyNxVMlLYMM7TbdOPR"
@@ -2834,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Stop Nonsense",
+        "url": "https://open.spotify.com/album/48gsJqhB5us0lFC37ImxxO"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "Stop Nonsense",
+      "url": "https://open.spotify.com/track/2PLjbUapab2cpATtNjvXmf"
+    },
+    {
+      "album": {
         "name": "Sungba (Remix) [feat. Burna Boy]",
         "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
       },
@@ -2915,6 +2977,24 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5cJW97FT5Uo34WKxkkuOJk"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165848,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5KwDovDFkhSaBuRlcVke0x"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
-  "num_followers": 99922,
+  "num_followers": 99943,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMDQ2ZjQ4YWQwZDMyNmE2MGYyZmFjZjgwYmJjOTdjZWVm",
+  "snapshot_id": "MTY1OTM3NzQwOSwwMDAwMDAwMGQ4ZmNmMzY4YTY1ODBjZGUxODE2NTQ0MzFmYmY2ZWZk",
   "tracks": [
     {
       "added_at": "2022-08-01 18:10:09",
@@ -775,8 +775,8 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+        "name": "guerrera",
+        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+      "duration_ms": 270093,
+      "name": "guerrera",
+      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -859,8 +859,8 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "guerrera",
-        "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 270093,
-      "name": "guerrera",
-      "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Ayer yo estaba bien",
-        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
-      },
-      "artists": [
-        {
-          "name": "De Los Santos",
-          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Ayer yo estaba bien",
-      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Dos y Veintid\u00f3s",
         "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Amor Insustancial",
-        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+        "name": "Ayer yo estaba bien",
+        "url": "https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5"
       },
       "artists": [
         {
-          "name": "Jordano",
-          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+          "name": "De Los Santos",
+          "url": "https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY"
         }
       ],
-      "duration_ms": 205450,
-      "name": "Se que te iras",
-      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
+      "duration_ms": 152000,
+      "name": "Ayer yo estaba bien",
+      "url": "https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1275,6 +1259,22 @@
       "duration_ms": 239692,
       "name": "Venecia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Q4iEmSiDVEenNSGk2rmoZ"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Amor Insustancial",
+        "url": "https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX"
+      },
+      "artists": [
+        {
+          "name": "Jordano",
+          "url": "https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW"
+        }
+      ],
+      "duration_ms": 205450,
+      "name": "Se que te iras",
+      "url": "https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK"
     },
     {
       "added_at": "2022-08-01 18:10:09",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-08-01 18:10:09",
       "album": {
-        "name": "Aeroplanos",
-        "url": "https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 239199,
-      "name": "Aeroplanos",
-      "url": "https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU"
-    },
-    {
-      "added_at": "2022-08-01 18:10:09",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 216200,
       "name": "Take All Your Things",
       "url": "https://open.spotify.com/track/0Z6JPPinWTnMr2IewL15J2"
+    },
+    {
+      "added_at": "2022-08-01 18:10:09",
+      "album": {
+        "name": "Aeroplanos",
+        "url": "https://open.spotify.com/album/4Ar13KcjSsBGCWmcueqYtz"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 239199,
+      "name": "Aeroplanos",
+      "url": "https://open.spotify.com/track/1ujis0ZrwUNGVXgjvu4uCU"
     },
     {
       "added_at": "2022-08-01 18:10:09",

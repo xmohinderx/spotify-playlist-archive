@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-220 songs - 9 hr 40 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
+222 songs - 9 hr 44 min - [published](https://open.spotify.com/playlist/7jgB2m9mBTWEbhTLrW7Tf4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Quiet Haven](https://open.spotify.com/track/4OraVyKuW65iz5tUgfN6a0) | [Poetics of Memory](https://open.spotify.com/artist/7z2N8PTwv87AKvjJ7BYknl) | [A Quiet Haven](https://open.spotify.com/album/4AmSXmEKrVH7IJUPuSGks0) | 2:43 | 2022-06-17 |  |
 | [A quiet storm](https://open.spotify.com/track/3WIsMgOMmIigPtcBU8VXnU) | [Havvind](https://open.spotify.com/artist/1nPyySRukLSpcKGlTveDnn) | [A quiet storm](https://open.spotify.com/album/49hTGCwDQKxFl6QLE7koEL) | 2:44 | 2022-06-17 |  |
 | [A Wonderful Life](https://open.spotify.com/track/4hyoEUwdIRWivbufmC36e9) | [Stelios Kyriakidis](https://open.spotify.com/artist/0YQ6JHp9SnlCNKGRRDXKvJ) | [Agalia](https://open.spotify.com/album/3shidNlCP04Dd4xL5tqCZY) | 3:09 | 2022-09-09 |  |
-| [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 | 2022-06-17 |  |
+| [Above](https://open.spotify.com/track/43QbJt2flQ8GsrX3q6Hroq) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/533OhwxkT1QLQGn2OY2okt) | 2:16 | 2022-10-28 |  |
+| [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 | 2022-06-17 | 2022-11-05 |
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 |  |
 | [Adjacent](https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [Adjacent](https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ) | 3:51 | 2022-10-07 |  |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 |  |
@@ -78,7 +79,8 @@
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 |  |
 | [Girasoles para ti](https://open.spotify.com/track/0v8y9eVORFsgXpCFenxkV0) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Girasoles para ti](https://open.spotify.com/album/2TPRbJWMg8uFe6X46w7R9D) | 3:10 | 2022-06-17 |  |
 | [Given](https://open.spotify.com/track/5iM1qRfdkKgzs0HaShhno5) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Given](https://open.spotify.com/album/3s85eBCZY403QapgeztMw4) | 2:30 | 2022-06-17 |  |
-| [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 | 2022-06-17 |  |
+| [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 | 2022-10-28 |  |
+| [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 | 2022-06-17 | 2022-11-05 |
 | [Goodbye \- Guitar Solo](https://open.spotify.com/track/1yJUM8bo9Qgg5us8WRRyBi) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Goodbye \(Guitar Solo\)](https://open.spotify.com/album/7l9VjiD9GYz7hVjaNwcXlT) | 2:30 | 2022-06-17 |  |
 | [Grab My Hand](https://open.spotify.com/track/6LhDAXww2xZbw87UmR8KKO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Grab My Hand](https://open.spotify.com/album/2XZJaBtSr3fNxgUZcmtH95) | 3:03 | 2022-06-17 |  |
 | [Gryning](https://open.spotify.com/track/1JGpZ7avpnMGA4hPairsie) | [Robert Dahlström](https://open.spotify.com/artist/7ewiuMPMerjHcRj3sSUQYi) | [Gryning](https://open.spotify.com/album/7kh7QgMnR8grQiDIjvzioU) | 3:02 | 2022-06-17 |  |

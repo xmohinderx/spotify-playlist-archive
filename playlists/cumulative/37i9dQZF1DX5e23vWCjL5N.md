@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-74 songs - 3 hr 57 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
+75 songs - 4 hr 2 min - [published](https://open.spotify.com/playlist/5H6hqlvktBn3pbjzKS7Ytr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [LAVA FREESTYLE](https://open.spotify.com/track/7etw1KbS95CG0kn8VFGema) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [LAVA FREESTYLE](https://open.spotify.com/album/2iNH5aUtHwY85OiVCwBKfx) | 1:59 | 2022-06-09 |  |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/24rUo2kPLa3HfMCHypXmnH) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 4:59 | 2022-07-15 | 2022-08-05 |
 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 | 2022-04-15 | 2022-07-29 |
-| [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/4vpuZKMXtjFlW0tP4OPv9P) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 4:59 | 2022-07-15 |  |
+| [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/4vpuZKMXtjFlW0tP4OPv9P) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 4:59 | 2022-07-15 | 2022-11-05 |
+| [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/5hjMhdi5EBlwpcthmhUgOD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 4:59 | 2022-09-15 |  |
 | [Lewandowski VII](https://open.spotify.com/track/37hdLoozh7mKLbDeO5GAt8) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli \(ascendente Milano\)](https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g) | 2:26 | 2022-04-15 |  |
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/4A7tYODnFfrS0mymGZOEMJ) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/1UAkQ5bV8GvKrSMA4Vd1MV) | 2:50 | 2022-07-15 |  |
 | [LEWANDOWSKI VIII \(64 Bars\)](https://open.spotify.com/track/5kH2a9KFmkkDme5LPRgjOz) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [Red Bull 64 Bars, The Album](https://open.spotify.com/album/3W0Np6mQAbBH3IpuZJj5po) | 2:50 | 2022-04-15 | 2022-07-29 |

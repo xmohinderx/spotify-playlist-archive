@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Jameson Rodgers",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Madeline Edwards",
   "name": "New Boots",
   "published_playlist_ids": [
     "4GYziq6IZSItn9f84k0CzJ"
@@ -18848,6 +18848,24 @@
     },
     {
       "album": {
+        "name": "Prayin' In A Deer Stand",
+        "url": "https://open.spotify.com/album/3PGB7yyY9f50st2g7PQuKY"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Prayin' In A Deer Stand",
+      "url": "https://open.spotify.com/track/6udBM5TJkTp1uupH4Y5ReF"
+    },
+    {
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/2Khn12QXiF4OEA5EeXEbPs"
       },
@@ -22169,7 +22187,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 222400,
       "name": "Stereotype",
       "url": "https://open.spotify.com/track/6N4iblHDsHG4jOdgjohRV5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 cover: the class of anti\-prom 2022 🎈<br/>📸 @alicebackham
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,812 likes - 89 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,970 likes - 89 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 15 | [WARNING LABEL](https://open.spotify.com/track/57HGmkFTWz7U0iNvKpgxMJ) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [WARNING LABEL](https://open.spotify.com/album/7fCCrAOGRpTjMAmWVkP4JC) | 2:55 |
 | 16 | [Puppy Pound](https://open.spotify.com/track/4xcTKltCfTCqYNtJfShnX8) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Puppy Pound](https://open.spotify.com/album/5zGyQgvJKk2o8qBYh5O1PZ) | 3:20 |
 | 17 | [God Is a Circle](https://open.spotify.com/track/4sbsJMnW6k7TuLhVmodlFx) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [God Is a Circle](https://open.spotify.com/album/3A290H1hI6mUv3uxGDrLlr) | 3:34 |
-| 18 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
+| 18 | [Cdbaby<3 \- underscores remix](https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3 \(underscores remix\)](https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216) | 2:13 |
 | 19 | [flesh](https://open.spotify.com/track/1BAIlAqftLfHlpvhfgVwrm) | [babychaos](https://open.spotify.com/artist/5sW5suu6saLZkj0anZtZyg) | [flesh](https://open.spotify.com/album/11RxEPz4jDAJZGaHkJ9z6K) | 2:53 |
 | 20 | [POSSESS ME](https://open.spotify.com/track/1Xvj8YGcG6DLcIrAM5rD2r) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [POSSESS ME](https://open.spotify.com/album/6c4OTInxbcdjDMvMED68Q7) | 2:00 |
 | 21 | [DEATHWISH](https://open.spotify.com/track/3yaX8Vf44B5Ou63LMPjTdw) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DEATHWISH](https://open.spotify.com/album/3UYh3uBNQeQ5nagIafCnZy) | 2:47 |

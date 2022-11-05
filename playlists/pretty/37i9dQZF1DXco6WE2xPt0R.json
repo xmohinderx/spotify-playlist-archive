@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 83148,
+  "num_followers": 83186,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMDhkNGEyMWVhZjI3MGM3N2JhN2RhZWNhNDM1Yzg5MzYw",
+  "snapshot_id": "MTY2NjkyNjAwMCwwMDAwMDAwMGYyMmM4YzIxZDdmZDg4MzkwNDEyZjE0ZjM4Y2I0M2Fl",
   "tracks": [
     {
       "added_at": "2022-10-28 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Scene 1 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 147106,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/1MVpa4w2TsjgUoJxMRAP0Z"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "FYF",
-        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 173464,
-      "name": "FYF",
-      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Overgrown",
         "url": "https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 167967,
       "name": "That's On You - Japanese Remix",
       "url": "https://open.spotify.com/track/56Vy5lJUoHTI90MMnyI2CM"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "FYF",
+        "url": "https://open.spotify.com/album/6poRyRRuXJ6uBUg6pnewTU"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 173464,
+      "name": "FYF",
+      "url": "https://open.spotify.com/track/30CtlcCw99gOYiIoqqYHvE"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "Me x 7 (feat. Tierra Whack)",
+      "url": "https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
         "name": "Intersections",
         "url": "https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 217079,
       "name": "Thought of You (feat. Joyce Wrice)",
       "url": "https://open.spotify.com/track/0OLSlzgN1eafqbICQ5vOdo"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "Me x 7 (feat. Tierra Whack)",
-      "url": "https://open.spotify.com/track/4HWhqsHKli9ujBAFVabKuJ"
     },
     {
       "added_at": "2022-10-28 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-10-28 03:00:00",
       "album": {
-        "name": "Lessons",
-        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
-      },
-      "artists": [
-        {
-          "name": "Eric Roberson",
-          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
-        }
-      ],
-      "duration_ms": 250404,
-      "name": "Lessons",
-      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
-    },
-    {
-      "added_at": "2022-10-28 03:00:00",
-      "album": {
         "name": "Exposure",
         "url": "https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
+    },
+    {
+      "added_at": "2022-10-28 03:00:00",
+      "album": {
+        "name": "Lessons",
+        "url": "https://open.spotify.com/album/5VMzvf9fE5QsaZmVFJLwVv"
+      },
+      "artists": [
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        }
+      ],
+      "duration_ms": 250404,
+      "name": "Lessons",
+      "url": "https://open.spotify.com/track/2Z6BAgNrGvouF0KZet8hl2"
     },
     {
       "added_at": "2022-10-28 03:00:00",

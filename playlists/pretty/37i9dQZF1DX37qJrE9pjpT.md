@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover Chin Bees
 
-[Spotify](https://open.spotify.com/user/spotify) - 499 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 502 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 29 | [Money Walk \(Mwendo wa Cash\)](https://open.spotify.com/track/4vRC79cET11g2h17CC7YiW) | [Young DareSalama](https://open.spotify.com/artist/1hHvFni1HRPiOrVCRXqO9t), [Chekbob](https://open.spotify.com/artist/2VCslciNsD6Uh7Ff8srpDE) | [NYANGUVA](https://open.spotify.com/album/4seKv6V2ceEzYfTvitpgcL) | 3:17 |
 | 30 | [Sponsa](https://open.spotify.com/track/1H85hkPWoVJVp9MZyOowUA) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [Sponsa](https://open.spotify.com/album/0jxDFi4yennWvYM9q6DDqR) | 2:45 |
 | 31 | [Kick\-Off](https://open.spotify.com/track/4TEIGXuCB5mCJgVUxgcDXe) | [Nacha](https://open.spotify.com/artist/6y4QyXMrMWdhgSFY2JMbXt) | [TOP SCORER OF ALL TIME EP](https://open.spotify.com/album/1Dh42XiejQ9Vvo6YdedWfA) | 3:20 |
-| 32 | [Dear Gambe](https://open.spotify.com/track/5rEFPXvrI6lrVtKLreYZex) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle9](https://open.spotify.com/artist/0aiGVd3m2MJUz2x3XHjQuP) | [Dear Gambe](https://open.spotify.com/album/5nBrr7soIGIZhVI6G1AWCO) | 4:00 |
+| 32 | [Dear Gambe](https://open.spotify.com/track/2i37M0jQYvAZNvId6tZU30) | [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Dear Gambe](https://open.spotify.com/album/4cOVoj2vxhLViRWFhA5XUm) | 4:00 |
 | 33 | [Good Vibes Only](https://open.spotify.com/track/767sgj41tpoJkOjfbCer1W) | [Wednesdaytie](https://open.spotify.com/artist/46OoU9zEjI0CbVpQYozPYK) | [Good Vibes Only](https://open.spotify.com/album/0sCoGzxZQ9UgxPj2r0f0IO) | 3:24 |
 | 34 | [Nesa Nesa](https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Nesa Nesa](https://open.spotify.com/album/0XeudDQ4NkZPijFWCVEybP) | 3:15 |
 | 35 | [Mtu 3](https://open.spotify.com/track/3g5ds74Gys0JaS4H9dUDy7) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Msodoki Young Killer](https://open.spotify.com/artist/0EfQfdKNPm4U50wNWTMqtU), [Country Boy](https://open.spotify.com/artist/2B8lcnDq5CtcmbyJuDdFGo), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Deddy](https://open.spotify.com/artist/1lTzX8vs4WnImr494EP8Pm) | [Mtu 3](https://open.spotify.com/album/43tG9iELXEZWUwgKZWTfs9) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [RONALDO](https://open.spotify.com/track/5ToRj9d8fINrXGGKZOT42q) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [RONALDO](https://open.spotify.com/album/42Xy57VNRaKM9ycuz8ByCU) | 4:06 |
 | 50 | [Loverboy Chronicles \(I.D.I.S\)](https://open.spotify.com/track/5fksMgr5uKN7brQRvUJDcP) | [Junny Blvck](https://open.spotify.com/artist/3IySB7seMHNwldN3EClfLf), [Dushyboy](https://open.spotify.com/artist/0hAjJjIxvybstEYK5Lnwzv) | [Loverboy Chronicles \(I.D.I.S\)](https://open.spotify.com/album/59LDvaec15rQlKO8ku30Uc) | 4:49 |
 
-Snapshot ID: `MTY2NjkzNTk4NiwwMDAwMDAwMGNkYjI5MTQ1NWYzYTI0NmRmZWU1YzUwZDA0OTBjYmVk`
+Snapshot ID: `MTY2NjkzNTk4NiwwMDAwMDAwMDAwMzNjNjg4ZGQxMjRhOGE3YzBjNzQ3NTMzMGE3MWVk`

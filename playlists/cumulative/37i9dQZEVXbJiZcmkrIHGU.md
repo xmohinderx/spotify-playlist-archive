@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-1,365 songs - 2 day 19 hr 31 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
+1,366 songs - 2 day 19 hr 34 min - [published](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 | 2022-10-15 | 2022-10-23 |
 | [Bébé](https://open.spotify.com/track/4EfMiJoLoROnDkm2beZJBN) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [Bébé](https://open.spotify.com/album/5e9iNhGBISzrhEuDQWQruX) | 2:28 | 2021-11-21 | 2021-11-22 |
 | [Cabriodach](https://open.spotify.com/track/0L0ad4IvsdvjHE8Rv0oLMj) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [Cabriodach](https://open.spotify.com/album/0jmtn5sS0OKZjn36aOyaNI) | 2:14 | 2022-03-05 | 2022-03-08 |
+| [Call It Love](https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Call It Love](https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn) | 2:34 | 2022-11-04 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-21 | 2021-11-22 |
 | [Can't Hold Us \(feat\. Ray Dalton\)](https://open.spotify.com/track/22skzmqfdWrjJylampe0kt) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [The Heist](https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd) | 4:18 | 2022-01-01 | 2022-01-04 |
 | [Canada Goose](https://open.spotify.com/track/6CL9ip2mMQzm8atRzahP5F) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Canada Goose](https://open.spotify.com/album/6kQAvGYxQuYtFwuaqUUkDc) | 3:19 | 2021-11-07 | 2021-11-14 |
@@ -774,7 +775,7 @@
 | [Maria Maria](https://open.spotify.com/track/7LaVWcyzHTqoBFPolNiuyz) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Maria Maria](https://open.spotify.com/album/5Ujb3RDkOHs2v8rOyoi0E6) | 2:44 | 2022-08-06 | 2022-08-21 |
 | [Marilyn](https://open.spotify.com/track/6xR3FozPJRyIlaNU48pXV7) | [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB), [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Marilyn](https://open.spotify.com/album/0r01OVrWKzN05MYWpa2U0Y) | 2:53 | 2021-06-13 | 2021-06-14 |
 | [MARLBORO GOLD](https://open.spotify.com/track/6IoLxoMwkLbW8vsOOrDlsO) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [MARLBORO GOLD](https://open.spotify.com/album/1RJVgjA863K3YZN7z7AAfp) | 3:25 | 2021-09-19 | 2021-09-25 |
-| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 |  |
+| [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-05 |
 | [Marseille](https://open.spotify.com/track/1IwYW1AOGriTuAS52gUm2i) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Himmel über Berlin](https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK) | 2:35 | 2022-09-30 | 2022-10-03 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-26 | 2022-09-15 |
 | [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-09-14 | 2022-09-29 |

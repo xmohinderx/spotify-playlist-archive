@@ -4,7 +4,7 @@
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-103 songs - 6 hr 50 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
+104 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/6WULSQ3fhigV44qwMbRlO1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Amor Te Has Marchado Lejos](https://open.spotify.com/track/5jseVt76rTtOqTL7WxcO2m) | [Abencia Meza](https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt) | [La Reina de las Parranditas](https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F) | 2:50 | 2022-02-04 |  |
 | [Amor Verdadero](https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV) | [Damaris](https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod), [Raices de Jauja](https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9) | [Tú Puedes Volar](https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw) | 4:10 | 2022-02-04 |  |
 | [Amor Verdadero \(feat\. Raices de Jauja\)](https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7) | [Damaris](https://open.spotify.com/artist/6FjlllIP4Dqj9PEEZX8f0j), [Raices de Jauja](https://open.spotify.com/artist/13fJROwEQGh0hO2BK0SVmP) | [Tu Puedes Volar](https://open.spotify.com/album/46QKsVjYkxcFHBqTYp0GvF) | 4:10 | 2022-02-04 | 2022-07-29 |
+| [Amor, amor](https://open.spotify.com/track/244Edh9MqjjJya4xkSJEUT) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor, amor](https://open.spotify.com/album/216kCpjiFeKDOBJgdGgbSn) | 4:31 | 2022-02-04 |  |
 | [Amor, amor](https://open.spotify.com/track/2fXjZzZbrKwwyV5cY9wOOv) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/5b6k6R3gxsko8WDODQlHIL) | 4:31 | 2022-02-04 | 2022-07-29 |
-| [Amor, Amor](https://open.spotify.com/track/59t1ift5NKs25qhh9nycJk) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 4:31 | 2022-02-04 |  |
+| [Amor, Amor](https://open.spotify.com/track/59t1ift5NKs25qhh9nycJk) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 4:31 | 2022-02-04 | 2022-11-05 |
 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 | 2022-02-04 |  |
 | [Bella Mestiza](https://open.spotify.com/track/5NRAUbtk0aTVzhB2jxkN7h) | [Ángel Bedrillana](https://open.spotify.com/artist/6gTTDix3FA5TyyW4iEx9aR) | [Angel Bedrillana \(Mestizo\)](https://open.spotify.com/album/4BKlcQZgjkudPLXUayFHLG) | 3:57 | 2022-02-04 |  |
 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 | 2022-02-04 |  |

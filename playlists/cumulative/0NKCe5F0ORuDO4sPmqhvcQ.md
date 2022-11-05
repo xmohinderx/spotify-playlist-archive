@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-334 songs - 18 hr 33 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+336 songs - 18 hr 39 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-19 |  |
 | [Nightmare](https://open.spotify.com/track/4NTVnhW1sP7N6GmnYPzK18) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8) | [Nightmare](https://open.spotify.com/album/2Z3uMCXliH7RDx4ab2oMlz) | 2:27 | 2022-10-26 |  |
 | [Nightmares In NYC](https://open.spotify.com/track/3avSZvZd5Cvb2TDyS9yFbb) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Nightmares In NYC](https://open.spotify.com/album/5aOwEJun2fyoIIFpftCmph) | 2:57 | 2022-06-28 | 2022-09-19 |
+| [No Good Without U](https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:07 | 2022-11-04 |  |
 | [NO JOY](https://open.spotify.com/track/2lg0LnYXyclXEQA0ygfsop) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [NO JOY](https://open.spotify.com/album/5U3Qs2QlAepmJ38IrG5gJI) | 2:35 | 2022-02-28 | 2022-03-31 |
 | [NOT YOUR GUY](https://open.spotify.com/track/4oUTs1BJ5YFltx2PnUdD2y) | [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [NOT YOUR GUY](https://open.spotify.com/album/46EJol667xsMTmS2KotaDy) | 2:10 | 2021-11-08 | 2022-01-08 |
 | [Nothing Good Comes Easy](https://open.spotify.com/track/1m66iYSRv0qEQBo0RqyPaw) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Nothing Good Comes Easy](https://open.spotify.com/album/0YTq3BQL2BoHNIrcnGn3sm) | 2:54 | 2022-02-15 | 2022-03-10 |
@@ -233,6 +234,7 @@
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-11-19 | 2022-01-08 |
 | [PROTECT ME](https://open.spotify.com/track/5lSGL6BnaHsW22aeOCq5ZU) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [Yadosan](https://open.spotify.com/artist/1mCavamEMIEh1fnGcLSk3J) | [PROTECT ME](https://open.spotify.com/album/56kpqdHI02XgcKGzIF2V7c) | 2:24 | 2022-10-22 |  |
 | [Proud](https://open.spotify.com/track/5COxPQbNaVMsLEr3tuicvp) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 3:56 | 2021-11-02 | 2022-01-08 |
+| [Psycho Bubblegum](https://open.spotify.com/track/4ri7J4V85t9huVJ3aqxvdR) | [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Psycho Bubblegum](https://open.spotify.com/album/2D9lGhQ0uAM5WMzUiWQIyP) | 1:58 | 2022-11-04 |  |
 | [Rabbit Hole](https://open.spotify.com/track/3KSKQPLU3x5G5vZ9mjesD1) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Rabbit Hole](https://open.spotify.com/album/2ARyPZ8mzwNLznwnBcfcpO) | 2:38 | 2022-06-28 |  |
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 | 2022-09-19 |

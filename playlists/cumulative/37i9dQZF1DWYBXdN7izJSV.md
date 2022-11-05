@@ -4,7 +4,7 @@
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-96 songs - 6 hr 7 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
+97 songs - 6 hr 10 min - [published](https://open.spotify.com/playlist/78EHvdOEXG9LXU2nIHnS9Q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Surrounded](https://open.spotify.com/track/3f14ZVCPfk6xn8xUdRQdp5) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Surrounded](https://open.spotify.com/album/5sPeAmkvtFeRn63V8urVDQ) | 2:47 | 2020-10-13 |  |
 | [Surrounded](https://open.spotify.com/track/6UIi5w7MoJ1bpJFKM3tCbp) | [Richard Buckner](https://open.spotify.com/artist/6vrwcJbfs2QyRtApdx1hXX) | [Surrounded](https://open.spotify.com/album/7FaZIW5t6sEh6mBSYXKRmq) | 2:47 | 2020-10-13 | 2022-07-29 |
 | [Sweet Old World](https://open.spotify.com/track/72cC7aXgTx3us9bTOBbLUF) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Wrecking Ball](https://open.spotify.com/album/3S2rjqCFfpvZKqGcVkHjDP) | 5:05 | 2020-10-13 |  |
-| [The Asp and the Albatross](https://open.spotify.com/track/0yC5J6p9L0FEFgLtT3okwg) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherazade](https://open.spotify.com/album/5hI8Yg8s5j7r4OAsohNIQ8) | 3:10 | 2020-10-13 |  |
+| [The Asp and the Albatross](https://open.spotify.com/track/0yC5J6p9L0FEFgLtT3okwg) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherazade](https://open.spotify.com/album/5hI8Yg8s5j7r4OAsohNIQ8) | 3:10 | 2020-10-13 | 2022-11-05 |
+| [The Asp and the Albatross](https://open.spotify.com/track/1ybxT91p0y92dHZZUW5CZm) | [Freakwater](https://open.spotify.com/artist/6JjE9yVvCNV5EbUpvS7JcQ) | [Scheherarade](https://open.spotify.com/album/5K2EDfhJXYzol3W17Jfasx) | 3:10 | 2020-10-13 |  |
 | [The Ballad of Bitter Honey](https://open.spotify.com/track/20yy7wGUByZptk1ww20KIC) | [Eef Barzelay](https://open.spotify.com/artist/1uRMuS0KuwZwFJSYgV0PaW) | [Bitter Honey \(redux\)](https://open.spotify.com/album/01Uenvl1WeGH8d7oPf0s7z) | 3:34 | 2020-10-13 |  |
 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/0mhsQSfSDq1x45qcC0jc80) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/11IsKz96KxcLAoCycv6LrT) | 3:00 | 2020-10-13 |  |
 | [The Battle \(feat: Ryan Adams\)](https://open.spotify.com/track/2NuSgERr71Qf3SPDJchUIY) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk) | [Battle EP](https://open.spotify.com/album/4jRa95kGlrwPCxZAirwz8u) | 3:00 | 2020-10-13 | 2022-07-29 |

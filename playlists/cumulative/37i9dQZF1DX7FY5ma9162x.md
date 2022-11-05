@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: The Weeknd
 
-500 songs - 1 day 3 hr 55 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
+501 songs - 1 day 3 hr 58 min - [published](https://open.spotify.com/playlist/2gY4599r7wEcpzuQThQTVi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Citrus](https://open.spotify.com/track/73Ovlp2BOScOxS9mbGqTX1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Citrus](https://open.spotify.com/album/5qgWzj4a1WMDpaoRJi7Vqr) | 2:39 | 2022-04-01 | 2022-04-18 |
 | [Classic \(feat\. Leila Dey\)](https://open.spotify.com/track/2PKemVOYeA1tA5AiLYVHb7) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Classic \(feat\. Leila Dey\)](https://open.spotify.com/album/5kIfNuN2Ngekd3CEV56R96) | 2:53 | 2022-04-01 | 2022-07-09 |
 | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/track/6QqF0MqjQVotftZIuQUbvf) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/album/3TfI9sGZXMZtRYDMuSdDxd) | 3:26 | 2022-03-11 | 2022-07-29 |
-| [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2022-05-13 |  |
+| [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2022-05-13 | 2022-11-05 |
 | [Come Over](https://open.spotify.com/track/1R6bPOBdZkxEztiXNiW3X4) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Come Over](https://open.spotify.com/album/7GiIViS21avoiZ5jymHLvO) | 3:28 | 2022-03-11 | 2022-07-11 |
 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 | 2022-03-11 |  |
 | [Comeback \(feat\. Tory Lanez and 30 Roc\)](https://open.spotify.com/track/3wN7Spu4tWhefB3LooMLys) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [30 Roc](https://open.spotify.com/artist/7GtYDLjnMOi2qZu8QBnpXC) | [good to know](https://open.spotify.com/album/0W7KBrn4FQOvz5eWsGz8T8) | 2:55 | 2022-04-01 | 2022-06-06 |
@@ -449,6 +449,7 @@
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2022-04-01 |  |
 | [Toxic](https://open.spotify.com/track/0LJFQp5QziQP4QjUybN9yP) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Toxic](https://open.spotify.com/album/0qrDs5PYUkb3gfJ5KAKRiN) | 2:20 | 2022-10-21 |  |
 | [Tragic](https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Tragic](https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz) | 3:27 | 2022-03-11 | 2022-07-27 |
+| [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-11-04 |  |
 | [Trip](https://open.spotify.com/track/6CTWathupIiDs7U4InHnDA) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:33 | 2022-04-01 |  |
 | [Try Again](https://open.spotify.com/track/6Wnlq1Pu3I0BajLvxn05Vr) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:44 | 2022-04-01 | 2022-04-20 |
 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:19 | 2022-03-11 | 2022-10-07 |

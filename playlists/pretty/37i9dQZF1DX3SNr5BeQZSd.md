@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,754 likes - 92 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,053 likes - 92 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 60 | [one year has passed \(look at all we've been through\)](https://open.spotify.com/track/40MySZuE1XLm9ytnL3qDqy) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [one year has passed \(look at all we've been through\)](https://open.spotify.com/album/4R4XVKZaOXM88yX8W2YBIX) | 2:21 |
 | 61 | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/track/5qhWIOZ6HztbHnsWNnkJTf) | [Pranish VP](https://open.spotify.com/artist/2RXTjV42UE6r9i5izVsiKa) | [Get You The Moon X Agar Tum Saath Ho](https://open.spotify.com/album/57Q4oIX0NNzE8pcZhE0XIW) | 3:56 |
 | 62 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 |
-| 63 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 |
+| 63 | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/0wbC3G2o0lXDY9xxxXqWDZ) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/0xWns05vgbslYeVkNx0Xaf) | 2:44 |
 | 64 | [I Don't Sleep](https://open.spotify.com/track/0f0gfm6wHjhqrBMHBn9Ajr) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Sleep](https://open.spotify.com/album/49OHwmq4uGM51itc6QT4tE) | 1:45 |
 | 65 | [Woh Lamhe Woh Baatein \- LoFi](https://open.spotify.com/track/0nBF9RgXqVi1oiQL6JSigs) | [Poorvesh Dave](https://open.spotify.com/artist/3U4ZRBChsjzagb4wcEXutU) | [Lofi Songs](https://open.spotify.com/album/3QuunYLIrBCrdrDlQgaLAe) | 2:21 |
 | 66 | [Jashne Bahara \- Lofi Flip](https://open.spotify.com/track/21hHDH6amg7qm9QR9vfqb9) | [Jammy Weirdo](https://open.spotify.com/artist/64QCKFA8kD38Waf5EXbSRp), [Mig](https://open.spotify.com/artist/7omB2Vc993xt3mpwAcosYe) | [Jashne Bahara \(Lofi Flip\)](https://open.spotify.com/album/55bGbfX2eC1SECIotOJrD2) | 3:04 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 91 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 92 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY2NTcwNTYwMCwwMDAwMDAwMDhiMDIzMWNhYTA5NDQyYzUyMzNkZmNmMTdhNTdhNGIw`
+Snapshot ID: `MTY2NTcwNTYwMCwwMDAwMDAwMDdlODRlMjMwZWNkNzJhNzg2MDMyZWI1MWQyNjFkYmUy`

@@ -2878,6 +2878,24 @@
     },
     {
       "album": {
+        "name": "Degrad\u00ea",
+        "url": "https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206113,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/68oF0mfSgJ0CB4ivpBCQcq"
+    },
+    {
+      "album": {
         "name": "Sem Filtro",
         "url": "https://open.spotify.com/album/1rTFf0m8p2GJlBA9JYl9m1"
       },

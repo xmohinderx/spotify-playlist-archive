@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 222706,
       "name": "I Know",
       "url": "https://open.spotify.com/track/6B6xRGiXeEBRDGjrC7cfx4"
@@ -3809,6 +3809,24 @@
       "duration_ms": 188546,
       "name": "Whateva Man",
       "url": "https://open.spotify.com/track/0pSaDwrMLM7F82LWJg9v6s"
+    },
+    {
+      "album": {
+        "name": "In My Lifetime, Vol.1",
+        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266733,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC"
     },
     {
       "album": {

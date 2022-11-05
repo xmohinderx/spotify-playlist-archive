@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MOJIKO. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MANASSAVEE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "published_playlist_ids": [
     "0sFtnPcJ2xiQS1kZ7Io9aQ"
@@ -23,6 +23,24 @@
       "duration_ms": 228571,
       "name": "21\u0e27\u0e31\u0e19 \u0e17\u0e24\u0e29\u0e0e\u0e35\u0e08\u0e35\u0e1a\u0e40\u0e18\u0e2d (Love Theory)",
       "url": "https://open.spotify.com/track/401VVCAswS3tZUJznHrVEZ"
+    },
+    {
+      "album": {
+        "name": "ADD FAN",
+        "url": "https://open.spotify.com/album/5eo5gTjeth5QxxB9cevmj1"
+      },
+      "artists": [
+        {
+          "name": "CANDYROOM",
+          "url": "https://open.spotify.com/artist/1s0pOR5FfVvMgYPzOatA7k"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185915,
+      "name": "ADD FAN",
+      "url": "https://open.spotify.com/track/21fvSmhjnKpT90JIm48ehD"
     },
     {
       "album": {
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 205916,
       "name": "Maya",
       "url": "https://open.spotify.com/track/2itN9ybMdTL4M0EfBZHJU9"
@@ -301,10 +319,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 170271,
       "name": "Monday Morning",
       "url": "https://open.spotify.com/track/1z715e7Mp6Arvfbt9zoUmB"
+    },
+    {
+      "album": {
+        "name": "No.1 (\u0e42\u0e1b\u0e23\u0e14\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07)",
+        "url": "https://open.spotify.com/album/5c3fKpneFORRCQm6XZkCqf"
+      },
+      "artists": [
+        {
+          "name": "Hiwwhee",
+          "url": "https://open.spotify.com/artist/1oo8Xnp5XgrWYL8NyZmLSW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "No.1 (\u0e42\u0e1b\u0e23\u0e14\u0e40\u0e25\u0e37\u0e2d\u0e01\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07)",
+      "url": "https://open.spotify.com/track/3rqUnxDMRgFxpxEndsHTpY"
     },
     {
       "album": {
@@ -319,7 +355,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 220000,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/2yC0X3ZawPFWMHohgSoG9k"
@@ -464,6 +500,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e23\u0e34\u0e1a",
+        "url": "https://open.spotify.com/album/5Wxovh57nTyODrogHUQ3V9"
+      },
+      "artists": [
+        {
+          "name": "Mellowmotion",
+          "url": "https://open.spotify.com/artist/6oMTaPXFw1kdUHQvlfFgck"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217689,
+      "name": "\u0e01\u0e23\u0e34\u0e1a",
+      "url": "https://open.spotify.com/track/5y58IBc829NjHkSJ9nVFhk"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e1a\u0e49\u0e32\u0e19 (Our home)",
         "url": "https://open.spotify.com/album/7329ETXvzGqHJzi9i7aWOJ"
       },
@@ -511,7 +565,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 246956,
       "name": "\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 (Unplayable)",
       "url": "https://open.spotify.com/track/1sYfOlMTrPyoxgt7SRXkOT"
@@ -947,7 +1001,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 204000,
       "name": "\u0e14\u0e39\u0e14\u0e27\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e23\u0e01\u0e47\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e43\u0e08\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
       "url": "https://open.spotify.com/track/1EeLpZVZ5vZmAjUXvVZLhf"
@@ -969,6 +1023,24 @@
       "duration_ms": 275076,
       "name": "\u0e15\u0e2d\u0e1a\u0e09\u0e31\u0e19\u0e17\u0e35 (Answer me)",
       "url": "https://open.spotify.com/track/1ZKU2sA8F3WI9D7RqyRU8M"
+    },
+    {
+      "album": {
+        "name": "If you gaze into the abyss, the abyss gazes also into you.",
+        "url": "https://open.spotify.com/album/33t2McFHV2PDfla1WcMz96"
+      },
+      "artists": [
+        {
+          "name": "SAPAPSUPAP",
+          "url": "https://open.spotify.com/artist/2OnR15nxVkDhGdSy6e4Gpn"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "\u0e15\u0e31\u0e27\u0e25\u0e30\u0e04\u0e23\u0e2b\u0e25\u0e31\u0e01\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/3NqiDKqmXuZJsprTa3ZdD2"
     },
     {
       "album": {
@@ -1091,7 +1163,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 238000,
       "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 (Sniff)",
       "url": "https://open.spotify.com/track/768Q6MngZGOZzAxxIXdmEe"
@@ -1185,6 +1257,24 @@
       "duration_ms": 199922,
       "name": "\u0e1e\u0e23\u0e04\u0e23\u0e31\u0e1a (Blessed)",
       "url": "https://open.spotify.com/track/1OMo7mcEafetzBfpdFaN4X"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e31\u0e01 (Pause)",
+        "url": "https://open.spotify.com/album/5TMkTFEYWm3qHSf0bu1CNT"
+      },
+      "artists": [
+        {
+          "name": "Run Baby Run",
+          "url": "https://open.spotify.com/artist/57XiaKTRQmtrzWwcL9uQ1z"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270875,
+      "name": "\u0e1e\u0e31\u0e01 (Pause)",
+      "url": "https://open.spotify.com/track/1frSrgUjI8iR2wAd7wG16v"
     },
     {
       "album": {
@@ -1355,7 +1445,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 355669,
       "name": "\u0e23\u0e31\u0e01\u0e40\u0e01\u0e48\u0e32\u0e40\u0e28\u0e23\u0e49\u0e32\u0e43\u0e2b\u0e21\u0e48",
       "url": "https://open.spotify.com/track/6BfDqYyXCP1Bj0CeYBfrHV"
@@ -1471,7 +1561,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 268915,
       "name": "\u0e23\u0e49\u0e2d\u0e07\u0e44\u0e2b\u0e49\u0e27\u0e31\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e04\u0e07\u0e44\u0e21\u0e48\u0e15\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7kbGkncX3EL7HdribqCVhV"
@@ -1608,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e32\u0e23",
+        "url": "https://open.spotify.com/album/4NmfYPsVvl1Iv1SaJamCE7"
+      },
+      "artists": [
+        {
+          "name": "Champa",
+          "url": "https://open.spotify.com/artist/2s10iZMYENf3VE33sHx65f"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "\u0e2b\u0e32\u0e23",
+      "url": "https://open.spotify.com/track/7f55BmPmLgL1xfY49yLeTt"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e15\u0e23\u0e07\u0e19\u0e35\u0e49 (Always be here)",
         "url": "https://open.spotify.com/album/4NqRIitDtRj5M4Bx41wGPz"
       },
@@ -1637,10 +1745,28 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 297729,
       "name": "\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e49\u0e2d\u0e22\u0e09\u0e31\u0e19\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6ctBMgUHfT8xZ3KFjPqz98"
+    },
+    {
+      "album": {
+        "name": "\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e25\u0e48\u0e01 (Worry)",
+        "url": "https://open.spotify.com/album/1MmwDalaJ2UwHti6ACn1we"
+      },
+      "artists": [
+        {
+          "name": "RAINCOVTS",
+          "url": "https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202378,
+      "name": "\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e25\u0e48\u0e01 - Worry",
+      "url": "https://open.spotify.com/track/6QfxKnwLSkNLrZWzMsj5iB"
     },
     {
       "album": {
@@ -1771,6 +1897,24 @@
       "duration_ms": 231739,
       "name": "\u0e40\u0e08\u0e2d \u0e40\u0e08\u0e47\u0e1a \u0e08\u0e1a feat. Chogun",
       "url": "https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e14\u0e2d\u0e40\u0e1a\u0e04",
+        "url": "https://open.spotify.com/album/6Ep3YiivKmx4WbL865fwiV"
+      },
+      "artists": [
+        {
+          "name": "Teenage",
+          "url": "https://open.spotify.com/artist/1XfdQsl2CMLC402LyajjG9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "\u0e40\u0e14\u0e2d\u0e40\u0e1a\u0e04",
+      "url": "https://open.spotify.com/track/2mqqkAtraSwAYRIUYJF6mW"
     },
     {
       "album": {
@@ -2061,7 +2205,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 194636,
       "name": "\u0e41\u0e25\u0e49\u0e27\u0e41\u0e15\u0e48\u0e41\u0e1f\u0e19\u0e40\u0e25\u0e22\u0e04\u0e23\u0e31\u0e1a",
       "url": "https://open.spotify.com/track/0hSzak99REcCA0pEOrXySc"
@@ -2256,6 +2400,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e1b\u0e40\u0e2b\u0e07\u0e32\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32\u0e40\u0e16\u0e2d\u0e30",
+        "url": "https://open.spotify.com/album/2GkE9DUvkBcEDkUYIG0NXU"
+      },
+      "artists": [
+        {
+          "name": "MANASSAVEE",
+          "url": "https://open.spotify.com/artist/7oXUJG49XQHHix0Awcq293"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "\u0e44\u0e1b\u0e40\u0e2b\u0e07\u0e32\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32\u0e40\u0e16\u0e2d\u0e30",
+      "url": "https://open.spotify.com/track/3gRXAVn21usGaOZkifmiOT"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e23\u0e2d\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27",
         "url": "https://open.spotify.com/album/7wW4IPvO0Tpz7d5mWq6icy"
       },
@@ -2297,6 +2459,24 @@
       "duration_ms": 258000,
       "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e44\u0e1b\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/6758uqk9RGen4vw2GDW0jD"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e27\u0e34\u0e40\u0e28\u0e29",
+        "url": "https://open.spotify.com/album/4Mf5whmBaSKf9vnUJamgox"
+      },
+      "artists": [
+        {
+          "name": "Tannie Lee",
+          "url": "https://open.spotify.com/artist/5e9PLd7UObtGL5oTYpsmTF"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e27\u0e34\u0e40\u0e28\u0e29",
+      "url": "https://open.spotify.com/track/2RsUDgXaONwAcfkEPOwEbw"
     },
     {
       "album": {

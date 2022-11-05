@@ -4975,6 +4975,28 @@
     {
       "album": {
         "name": "There's No Way",
+        "url": "https://open.spotify.com/album/3O3tXfvUABFjMwtMK2XxM2"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174860,
+      "name": "There's No Way",
+      "url": "https://open.spotify.com/track/5ZpIsCmJtMAyTvz8Z3bGXX"
+    },
+    {
+      "album": {
+        "name": "There's No Way",
         "url": "https://open.spotify.com/album/4jL68AMzZ3OwCoWWrKtGCx"
       },
       "artists": [
@@ -6099,7 +6121,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 212933,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62"

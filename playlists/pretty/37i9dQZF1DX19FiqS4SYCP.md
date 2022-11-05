@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,733 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,739 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 4 | [Voy A Estar Bien](https://open.spotify.com/track/06LWooYxygsiwZOpDRmDNd) | [Elida Reyna Y Avante](https://open.spotify.com/artist/6FgcIpZBpVNOXHniQX9Oml) | [Voy A Estar Bien](https://open.spotify.com/album/1Y7pop8HETN2A8a7AVISXC) | 2:37 |
 | 5 | [Quédate Con El](https://open.spotify.com/track/11QBmPdodhQsekFGZNYenY) | [Stefani Montiel](https://open.spotify.com/artist/68itzJPfdDLNgLecpEfaHI), [Vampiro](https://open.spotify.com/artist/0tzcColcnmXRisPnbE9VlK) | [Quédate Con El](https://open.spotify.com/album/0VAvg1yg2eL7TmReNFopnt) | 3:34 |
 | 6 | [Que Mentira](https://open.spotify.com/track/0uj22DquolnlzugVhJyL3L) | [Zenzio](https://open.spotify.com/artist/6ByST7GNSkwOdZNonKr1Dg) | [Historias](https://open.spotify.com/album/24zRLTmgWMv01DSs1E3eQI) | 2:55 |
-| 7 | [Y Sigues Siendo Tu](https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa) | [Adrian Gutierrez](https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic) | [Y Sigues Siendo Tu](https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ) | 3:10 |
-| 8 | [El Tirador](https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf) | [Grupo Vision](https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ) | [Quinto](https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW) | 2:45 |
-| 9 | [Cuatro Caminos](https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Cuatro Caminos](https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE) | 4:00 |
+| 7 | [El Tirador](https://open.spotify.com/track/72jjeE9Vil9td0fRYrYVtf) | [Grupo Vision](https://open.spotify.com/artist/4WKOljIFPLglGQFFEK2HHJ) | [Quinto](https://open.spotify.com/album/5JYkTglD3KHRoBM3y42tCW) | 2:45 |
+| 8 | [Cuatro Caminos](https://open.spotify.com/track/5e6sA4oUXLg7RDAgzMrpxr) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Cuatro Caminos](https://open.spotify.com/album/3EBl5JgK5IIjHGYcvebEyE) | 4:00 |
+| 9 | [Y Sigues Siendo Tu](https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa) | [Adrian Gutierrez](https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic) | [Y Sigues Siendo Tu](https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ) | 3:10 |
 | 10 | [Tú Y Yo](https://open.spotify.com/track/36TiDvL5RmBeUs3W7Hh8Pr) | [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC), [Roxane Perez](https://open.spotify.com/artist/35fvVqewj6umjnkCVNzV6V) | [El Maestro](https://open.spotify.com/album/6mqGvKuHLqYoAoCSMLkHj2) | 3:58 |
 | 11 | [Me AventaronTus Brazos](https://open.spotify.com/track/7g3iaR8GqMxSu3aoioQVB6) | [Magnifico 7](https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm) | [Me AventaronTus Brazos](https://open.spotify.com/album/0HyEqogdn00njcAvcERo0U) | 3:08 |
 | 12 | [El Amuleto](https://open.spotify.com/track/686Fy8OcDeIuLSrojeDRdB) | [Stevie D](https://open.spotify.com/artist/5wwbWPiUZIgjYL2Al35scc) | [Estamos Unidos](https://open.spotify.com/album/7bNQ2cpz0PmfR7lQLskJrE) | 3:12 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 37 | [Me Enamoré de un Ángel](https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Me Enamoré de un Ángel](https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3) | 4:11 |
 | 38 | [No Soy La Misma](https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ) | [Magali Delarosa](https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc) | [No Soy La Misma](https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8) | 3:44 |
 | 39 | [Baby Luna](https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo) | [D](https://open.spotify.com/artist/3z19maDGixbm2cj9WBaslb), [Chelo](https://open.spotify.com/artist/4vidKEkrzEnYWOuLcglMpw) | [Baby Luna](https://open.spotify.com/album/7k3fAmTcMwvDbT41SsFOPO) | 2:57 |
-| 40 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
-| 41 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
-| 42 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
-| 43 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
-| 44 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
-| 45 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
+| 40 | [Final De Tu Amor](https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD) | [Grupo Vidal](https://open.spotify.com/artist/7FCNesSEoaPmxc0eofRG4X) | [Final De Tu Amor](https://open.spotify.com/album/5w9djEjJOX1Fw0wAPcqjCv) | 3:25 |
+| 41 | [Mentiras](https://open.spotify.com/track/2lrZc4nus9FGtEGVYxUff6) | [Lydia Castillo](https://open.spotify.com/artist/2gG3FWRRb5Tm50fymompvs) | [Mentiras](https://open.spotify.com/album/6VaK942FzmA4EAGJCf9vyu) | 3:40 |
+| 42 | [Nunca Me Imagine](https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT) | [Adaly](https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg) | [Nunca Me Imagine](https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh) | 2:47 |
+| 43 | [Desastre Natural](https://open.spotify.com/track/5zk1dmLSh2CUHx6GLcFGwZ) | [Nacido](https://open.spotify.com/artist/030pUjPAmGDilkdlhevID5) | [Desastre Natural](https://open.spotify.com/album/1htmaiKnpjjbP3LubmTGDT) | 3:08 |
+| 44 | [Porque Sera](https://open.spotify.com/track/49mlIVwL62ml0RIi01u5RB) | [Madison Pulido](https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz) | [Porque Sera](https://open.spotify.com/album/3SUWloH93tzFK5eexbgt7L) | 3:47 |
+| 45 | [That’s All I’ve Got to Say](https://open.spotify.com/track/5KsPuanYxsDOWzimkg8mpq) | [Rebecca Valadez](https://open.spotify.com/artist/6tdZAJLugGpySw6MoKxaet), [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [That’s All I’ve Got to Say](https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u) | 3:31 |
 | 46 | [Entre El Frio Y El Calor](https://open.spotify.com/track/3co2ntpL25hvhBdFPBYi7e) | [Andie](https://open.spotify.com/artist/499w0AaAbuVL9IIHbz0ZYT) | [Entre El Frio Y El Calor](https://open.spotify.com/album/3Wb6WdFhg4n6b2vZ4XSfsb) | 3:35 |
 | 47 | [Mentias](https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK) | [Brooke T](https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ) | [Mentias](https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv) | 3:19 |
 | 48 | [El Besito](https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24) | [Laura Linda](https://open.spotify.com/artist/2XvOA1fHrftWGiozWqDE8K) | [El Besito](https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK) | 3:00 |
 | 49 | [Un Día Veras](https://open.spotify.com/track/4zsvbSpkG5AXAHp6PeKSIV) | [Grupo Daño](https://open.spotify.com/artist/1MB82Th55brI9PDoanCs9k), [Rene De la Cerda](https://open.spotify.com/artist/1U5bYBgPSlRchxFEWTtlAl) | [Un Día Veras](https://open.spotify.com/album/4p0U6WFwIt5wkFOiC2GAr9) | 3:47 |
 | 50 | [Trampa De Amor](https://open.spotify.com/track/57F578ly3EvpEBfFEjyLnr) | [VIRGINIA Y VALOR](https://open.spotify.com/artist/6oMnQnH1MXHBe8KUbr4b5u) | [Trampa De Amor](https://open.spotify.com/album/59hUGuWWDjm6PMXDuJjHq6) | 2:41 |
 
-Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDZlYjYyZjcwZjRjNzYzN2ViNGM3YWViYWRlYjYyMWM3`
+Snapshot ID: `MTY2MzI2NzI4MywwMDAwMDAwMDRhZTAwZGY0YjRhOThiYmZiYzM4YjgyMWQ3MGJkZmNh`

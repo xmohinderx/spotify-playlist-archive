@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-393 songs - 15 hr 0 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
+394 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/23A7fnWUHMhejMeGoVNotd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [Trembling](https://open.spotify.com/track/5Fiq44HhtwbgxPNf16GvDt) | [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Tranquil Teddy](https://open.spotify.com/artist/52Mg3MSOqtZjEWuhJcsaU0) | [Trembling](https://open.spotify.com/album/5vTlSDu9yFdrwORVSgPqsz) | 2:12 | 2022-07-29 | 2022-10-14 |
 | [Turn Out The Lights](https://open.spotify.com/track/2i9IUewntvwHpltJrzNSVB) | [Chill West](https://open.spotify.com/artist/2bHB1ylsCPTxalKwQ9u9Py), [Dreamfield](https://open.spotify.com/artist/0Z1g78JEjg1BhRNw6hToVm), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Turn Out The Lights](https://open.spotify.com/album/3YpZw37vqoNPPo1WllrL71) | 2:41 | 2022-08-12 |  |
 | [twilight](https://open.spotify.com/track/1bfLddRd7bTCt8cZPSN9CM) | [The King Chameleon](https://open.spotify.com/artist/5a3jN23M7PMCPVFaASjHmK) | [twilight](https://open.spotify.com/album/00nQMjjnjhFp4FDzson5on) | 2:41 | 2022-07-01 |  |
-| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-08-05 |  |
+| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/0wbC3G2o0lXDY9xxxXqWDZ) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/0xWns05vgbslYeVkNx0Xaf) | 2:44 | 2022-10-28 |  |
+| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-08-05 | 2022-11-05 |
 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 | 2022-07-15 |  |
 | [Uphill](https://open.spotify.com/track/0oEDgkRNaHonuqilpTGydO) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Kayba](https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Fly Away](https://open.spotify.com/album/087RvpUEA0OPTqzLFMd8h8) | 2:20 | 2022-09-02 |  |
 | [Vanilla](https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Vanilla](https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym) | 2:05 | 2022-05-20 | 2022-09-17 |

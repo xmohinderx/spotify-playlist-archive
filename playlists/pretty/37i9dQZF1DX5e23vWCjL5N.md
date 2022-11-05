@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,077 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,093 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Re Mida](https://open.spotify.com/track/7fnHSgIITveyrYBAA1sxKR) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Re Mida](https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk) | 2:28 |
 | 2 | [Intro \(Cielo\)](https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:24 |
 | 3 | [Solo Per Me \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/0UKgEDJm4M54t50cbGGiUC) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 2:58 |
-| 4 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/4vpuZKMXtjFlW0tP4OPv9P) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 4:59 |
+| 4 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/5hjMhdi5EBlwpcthmhUgOD) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 4:59 |
 | 5 | [BTX Posse \(con Fabri Fibra, Ernia, Lazza, Tony Effe, Coez, Geolier, Guè, Paky & MamboLosco\)](https://open.spotify.com/track/1pHJWDHje5vfV4sTvRNtuT) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 5:39 |
 | 6 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 |
 | 7 | [QUALCOSA IN CUI CREDERE \- Lo scheletro \(feat\. Guè\)](https://open.spotify.com/track/1t6xoDooMgAqlYDOLTrsxj) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 49 | [WELCOME BACK \(feat\. Raekwon\)](https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 3:23 |
 | 50 | [Amici O Nemici](https://open.spotify.com/track/6FQdZ2MywYwiXe2eKNeGXi) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:32 |
 
-Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMDk0Yzk5OGU2ZmExMDAxZWEyZTUyMGE0N2NmZTk2MTQ5`
+Snapshot ID: `MTY2MzI3OTI2MCwwMDAwMDAwMGU5MmQ5ZDk5ODhjNDE5YWY5ZDM5Nzk3NTU0OTA3ZTIz`

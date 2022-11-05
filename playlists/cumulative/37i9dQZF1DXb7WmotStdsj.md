@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Bello.
 
-114 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
+115 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/6JWCOzizL3CkwQnuQ3RJTt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Ki L3ada](https://open.spotify.com/track/6zugXpJQUremMawbYBaNX0) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Ki L3ada](https://open.spotify.com/album/6WsYJKoVqXZQczbtIcoHAd) | 3:45 | 2022-08-31 | 2022-09-06 |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 |  |
 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 |  |
-| [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 | 2022-10-25 |  |
+| [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 | 2022-10-25 | 2022-11-05 |
+| [La Vérité 3jabtini](https://open.spotify.com/track/4cfGUQDE88NEMx3Md2cA72) | [Hbib Himoune](https://open.spotify.com/artist/3SMU7cRz5Li03TpmGncVg6), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [La Vérité 3jabtini](https://open.spotify.com/album/0qAxk1LyqUAKV1jFdG3BE0) | 4:37 | 2022-10-30 |  |
 | [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |

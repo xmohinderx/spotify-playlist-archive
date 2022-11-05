@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 134455,
+  "num_followers": 134559,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMDM2YTk0ODBlMWMyMDdmODQ4M2IxNTU0OGNlYTJkNTJk",
+  "snapshot_id": "MTY0OTg2MjE2MSwwMDAwMDAwMGI2ZjI4NmVjMzgxOGJlZjhmMGUyYmRhNWQ3MGRhYzY5",
   "tracks": [
     {
       "added_at": "2022-04-13 15:02:41",
@@ -823,26 +823,6 @@
     {
       "added_at": "2022-04-13 15:02:41",
       "album": {
-        "name": "Defected In The House Miami 2017",
-        "url": "https://open.spotify.com/album/7KdDwh4tZOgArMJ5RVg6Bl"
-      },
-      "artists": [
-        {
-          "name": "M.A.N.D.Y.",
-          "url": "https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 435975,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/2Q7DRtNo4Hc5AjmV0Xx8mf"
-    },
-    {
-      "added_at": "2022-04-13 15:02:41",
-      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
+    },
+    {
+      "added_at": "2022-04-13 15:02:41",
+      "album": {
+        "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
+        "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
+      },
+      "artists": [
+        {
+          "name": "Lil' Louis",
+          "url": "https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs"
+        },
+        {
+          "name": "The World",
+          "url": "https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F"
+        }
+      ],
+      "duration_ms": 591733,
+      "name": "French Kiss - The Original Underground Mix",
+      "url": "https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG"
     }
   ],
   "unique_name": "Ibiza Classics",

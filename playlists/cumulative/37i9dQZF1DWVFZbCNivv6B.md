@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Eme MalaFe.
 
-220 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+221 songs - 13 hr 8 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Sangre De Mi Sangre](https://open.spotify.com/track/5JVrEEGdlpNj82dDrV12PB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Ruff](https://open.spotify.com/artist/4rF9gN69rubLGEHTFbVbh0) | [Mi Canción](https://open.spotify.com/album/3x4ZBWiVL9qgN7ROqSb3Em) | 3:44 | 2022-01-28 | 2022-03-12 |
 | [Santo Grial](https://open.spotify.com/track/2Yf1mFq3vuZKGKwolRVqsJ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 3:09 | 2022-08-25 |  |
 | [Se Fue](https://open.spotify.com/track/2Dldi4E3sf021OxN7tL40L) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q) | [Se Fue](https://open.spotify.com/album/5MXmmttCieaObXjTBpUfXt) | 3:09 | 2022-01-28 | 2022-05-07 |
+| [Se Fue la Luz](https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Se Fue la Luz](https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK) | 3:45 | 2022-11-04 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/395Nz8wkDHb8ebR6mMagdf) | 3:40 | 2022-01-28 | 2022-06-04 |
 | [Seguimos Controlando](https://open.spotify.com/track/13JM0SByzyhK1RmpzvVWxH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Cuando Todo Acaba](https://open.spotify.com/album/6DBSL2wSLwqvbpBsgSyBKF) | 2:55 | 2022-07-01 |  |
 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 | 2022-10-28 |  |

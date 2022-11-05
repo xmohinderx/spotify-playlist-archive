@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:34iHrE61AX1yx8uAqNOCyU">Cosmicat</a>'s favorite tracks\. Updated regularly\. Curated by Cosmicat\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-62 songs - 5 hr 55 min - not published yet
+64 songs - 6 hr 3 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,9 @@
 | [Pitch Dark \- Mixed](https://open.spotify.com/track/3G12GW0zAdAMXy92G7AS0M) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [The Anjunadeep Edition 384 with James Grant](https://open.spotify.com/album/4GTGlZ3hTvDzr3PBjqr0xX) | 3:08 | 2022-10-14 |  |
 | [Pour the Milk](https://open.spotify.com/track/3239OdTeQMBphegyNvF8F3) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS), [Keees.](https://open.spotify.com/artist/5FzFuIi6RVngFoIwTdawDd) | [Pour the Milk](https://open.spotify.com/album/1RN9XFMVqqw4BD5dgLigpP) | 2:52 | 2022-10-14 |  |
 | [Problem Solving](https://open.spotify.com/track/4AqJ91ZeMRROimPlwy3M3r) | [DesertF!sh](https://open.spotify.com/artist/29X0HFICNL1YoQJmrWZwOL) | [Complex Arguments](https://open.spotify.com/album/6AGVrf6jDZ7SNhNE6TNDSZ) | 8:40 | 2022-10-14 |  |
+| [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-11-04 |  |
 | [Rendezvous](https://open.spotify.com/track/2veLnenW3fky3BBOKWFfwH) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 6:34 | 2022-10-14 |  |
+| [Set Me Free](https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Set Me Free](https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln) | 3:30 | 2022-11-04 |  |
 | [Shallow \- Ben Böhmer Remix](https://open.spotify.com/track/1drqut7btLgFmQROnZp6aw) | [Bongbeck](https://open.spotify.com/artist/53l0V3UXlpzeN4NYbilu9T), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Golem](https://open.spotify.com/album/04o0OA8XR3cC6bjhS9rSAg) | 7:50 | 2022-10-14 |  |
 | [Skin & Bones feat\. Lydmoor & Bon Homme](https://open.spotify.com/track/2055wOcQgZovqaQkw5Ysnn) | [Terranova](https://open.spotify.com/artist/5ZrGK55yglfGEOvnB2japP), [Lydmoor](https://open.spotify.com/artist/0zQINzMtshHtPMnquYdY8d), [Bon Homme](https://open.spotify.com/artist/26medj5lDSbOxPHWBgDxL8) | [Restless](https://open.spotify.com/album/4yo6etaXX7ZEw8nvNkTxiL) | 7:01 | 2022-10-14 |  |
 | [Skinny Cat Feat\. Forrest \- Original Mix](https://open.spotify.com/track/2tkxOb7MHFbZjHs0mZI0VS) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i), [Forrest](https://open.spotify.com/artist/1lQ4MIAHlKeAEKEJXfOZN3) | [Skinny Cat EP](https://open.spotify.com/album/4lLxXV5iDr2iUvjzK1bCHR) | 7:26 | 2022-10-14 |  |

@@ -519,6 +519,28 @@
     {
       "album": {
         "name": "Be With You feat. Ai Furihata",
+        "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Ai Furihata",
+          "url": "https://open.spotify.com/artist/1FlASHjqkSDUcJK85EJbsj"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "Be With You feat. Ai Furihata",
+      "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
+    },
+    {
+      "album": {
+        "name": "Be With You feat. Ai Furihata",
         "url": "https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch"
       },
       "artists": [
@@ -533,7 +555,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 207017,
       "name": "Be With You feat. Ai Furihata",
       "url": "https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm"
@@ -2445,7 +2467,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 157999,
       "name": "Natsume",
       "url": "https://open.spotify.com/track/5Kk3UOcmc6uHuFIf1yI7il"
@@ -5709,7 +5731,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 239552,
       "name": "\u5922\u4e2d",
       "url": "https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH"

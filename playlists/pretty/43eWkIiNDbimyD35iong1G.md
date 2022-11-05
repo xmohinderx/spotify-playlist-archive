@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Make your wedding ceremony the most memorable one\. Perfect for vows, bride entrance, reception dinner, the first dance and the wedding party.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 86,357 likes - 100 songs - 6 hr 1 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 86,423 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 99 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 |
 | 100 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 
-Snapshot ID: `NjQyLDdlMmM0N2U5MWI5MGU5NzdlMWU0OGZkNWYyYTNkY2RlNjdhOTM3NzQ=`
+Snapshot ID: `NjYwLDVhYTcxYjExZWNjNmVhNjlhMTI1ZThhYmRlMTM2NWIwMTgzZjI0NmM=`

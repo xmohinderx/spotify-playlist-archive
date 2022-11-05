@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 775023,
+  "num_followers": 774977,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMGNkZTAwZjdjZTAzMmRhMDhhNTQwNDdlNzcwMjQ1NGIx",
+  "snapshot_id": "MTY0ODU2MDY0NCwwMDAwMDAwMDJkOTFlYzkyMDNiZTIzN2Y0NDg3NTVhZGNiZTc4Y2Q0",
   "tracks": [
     {
       "added_at": "2022-03-29 13:30:44",
@@ -611,26 +611,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "No Money",
+        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189126,
+      "name": "No Money",
+      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 213135,
       "name": "Say Something - Zac Samuel Remix",
       "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "No Money",
-        "url": "https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189126,
-      "name": "No Money",
-      "url": "https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5T513gBStZcClfbKCRkE9E"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 202173,
       "name": "Changes - Radio Mix",
       "url": "https://open.spotify.com/track/2SdMEke7JCBEo8t60iyw2r"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "God Is A Dancer (with Mabel)",
+        "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "God Is A Dancer (with Mabel)",
+      "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Mar De Colores (Versi\u00f3n Extendida)",
         "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
       },
@@ -2371,26 +2391,6 @@
       "duration_ms": 178266,
       "name": "La Cintura (feat. Flo Rida & Tini) - Remix",
       "url": "https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "God Is A Dancer (with Mabel)",
-        "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "God Is A Dancer (with Mabel)",
-      "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2495,26 +2495,22 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "The Mack",
-        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
+        "name": "Insomnia (King Topher Remix)",
+        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
       },
       "artists": [
         {
-          "name": "Nevada",
-          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         },
         {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        },
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+          "name": "King Topher",
+          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
         }
       ],
-      "duration_ms": 167038,
-      "name": "The Mack",
-      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
+      "duration_ms": 176097,
+      "name": "Insomnia - King Topher Remix",
+      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2539,22 +2535,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
-        "name": "Insomnia (King Topher Remix)",
-        "url": "https://open.spotify.com/album/50HIbfbrQemacUUAD9UfNX"
+        "name": "The Mack",
+        "url": "https://open.spotify.com/album/38E9SU3aWcymyFDmyJwaGn"
       },
       "artists": [
         {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+          "name": "Nevada",
+          "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
         },
         {
-          "name": "King Topher",
-          "url": "https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2"
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
         }
       ],
-      "duration_ms": 176097,
-      "name": "Insomnia - King Topher Remix",
-      "url": "https://open.spotify.com/track/52Y5nYBQgqawttJxxtUv1e"
+      "duration_ms": 167038,
+      "name": "The Mack",
+      "url": "https://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -2739,6 +2739,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "Delicate (Seeb Remix)",
+        "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        }
+      ],
+      "duration_ms": 173265,
+      "name": "Delicate - Seeb Remix",
+      "url": "https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Praise You (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/0o731p1naTotYd1TQklCIk"
       },
@@ -2775,26 +2795,6 @@
       "duration_ms": 174643,
       "name": "Monsters (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "Delicate (Seeb Remix)",
-        "url": "https://open.spotify.com/album/7gU675c7KZ54MzEcL1O3px"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 173265,
-      "name": "Delicate - Seeb Remix",
-      "url": "https://open.spotify.com/track/2Sy2oGjP5RYB4cLVoDU0Gz"
     },
     {
       "added_at": "2022-03-29 13:30:44",
@@ -3051,6 +3051,26 @@
     {
       "added_at": "2022-03-29 13:30:44",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
+    },
+    {
+      "added_at": "2022-03-29 13:30:44",
+      "album": {
         "name": "Remix Hits, Vol.1",
         "url": "https://open.spotify.com/album/6W8E52skHCswgx7R4hfTgb"
       },
@@ -3155,26 +3175,6 @@
       "duration_ms": 191266,
       "name": "Shots - Broiler Remix",
       "url": "https://open.spotify.com/track/4XLm8FNvaTlmTAZmSrrV82"
-    },
-    {
-      "added_at": "2022-03-29 13:30:44",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
     },
     {
       "added_at": "2022-03-29 13:30:44",

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Zero",
-  "num_followers": 179150,
+  "num_followers": 179230,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NDMwOCwwMDAwMDAwMDc4ZDYwOGZlNjk1NTZhNTkzOTE0MTljMzRlZTM2OGE2",
+  "snapshot_id": "MTY2Njk3NDMwOCwwMDAwMDAwMGE4MjkzNzU0MWJjZjJiZTExZDkzMzIxYTNkNTExNDc2",
   "tracks": [
     {
       "added_at": "2022-10-28 16:25:08",
@@ -843,38 +843,6 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 234703,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
-      },
-      "artists": [
-        {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
-        }
-      ],
-      "duration_ms": 250918,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
-    },
-    {
-      "added_at": "2022-10-28 16:25:08",
-      "album": {
         "name": "Mock Man (The VIP)",
         "url": "https://open.spotify.com/album/5cv4DHsHnpJtSfVLAQbb6g"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 229639,
       "name": "Mock Man (The VIP)",
       "url": "https://open.spotify.com/track/2WCpgTEYu5cgIIokqQhqzW"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Far",
+        "url": "https://open.spotify.com/album/3zoa4ZVBL7McPiAI3EAUjQ"
+      },
+      "artists": [
+        {
+          "name": "Cooky",
+          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+        }
+      ],
+      "duration_ms": 250918,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/0bVqiSfH3YnFnRPNHgAMuR"
+    },
+    {
+      "added_at": "2022-10-28 16:25:08",
+      "album": {
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/3F29i9bWwkzRnDl9J84iXG"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 234703,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/4pZt3sl8ERcmYeVan2WBm3"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
+        "name": "Thugs",
+        "url": "https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE"
       },
       "artists": [
         {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
+        },
+        {
+          "name": "Albzzy",
+          "url": "https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ"
         }
       ],
-      "duration_ms": 195558,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
+      "duration_ms": 236522,
+      "name": "Thugs",
+      "url": "https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc"
     },
     {
       "added_at": "2022-10-28 16:25:08",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2022-10-28 16:25:08",
       "album": {
-        "name": "Thugs",
-        "url": "https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/2OvdtkZEyFn4LQeCkgrSBh"
       },
       "artists": [
         {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi"
-        },
-        {
-          "name": "Albzzy",
-          "url": "https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ"
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
         }
       ],
-      "duration_ms": 236522,
-      "name": "Thugs",
-      "url": "https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc"
+      "duration_ms": 195558,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/0GES2nyDZvfxIaJmFLmtvz"
     },
     {
       "added_at": "2022-10-28 16:25:08",

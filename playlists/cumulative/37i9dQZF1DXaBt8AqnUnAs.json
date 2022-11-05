@@ -786,6 +786,24 @@
     },
     {
       "album": {
+        "name": "Cora\u00e7\u00e3o Pisciano",
+        "url": "https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121690,
+      "name": "Cora\u00e7\u00e3o Pisciano",
+      "url": "https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba"
+    },
+    {
+      "album": {
         "name": "C\u00ea t\u00e1 bem (Remix)",
         "url": "https://open.spotify.com/album/59XmINGEHdizIVZLyz5NVD"
       },
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 143013,
       "name": "Ei Amor",
       "url": "https://open.spotify.com/track/6iO7nBM2StwcPvuyblR0P4"
@@ -1559,6 +1577,28 @@
       "duration_ms": 217731,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
+    },
+    {
+      "album": {
+        "name": "Ilus\u00f5es",
+        "url": "https://open.spotify.com/album/6QjBjnD5c4ZLgonwrsnK1j"
+      },
+      "artists": [
+        {
+          "name": "Lu Bauer",
+          "url": "https://open.spotify.com/artist/4c8moNfS5RJsBAJFeAJwPR"
+        },
+        {
+          "name": "Thiene",
+          "url": "https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Ilus\u00f5es",
+      "url": "https://open.spotify.com/track/2CkoGyLumIwMrTLlhzzn3U"
     },
     {
       "album": {
@@ -3453,7 +3493,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 100408,
       "name": "\u00c9 Que Eu Preciso Dizer",
       "url": "https://open.spotify.com/track/1kfwsz1ak4qZj75BaHG4YR"

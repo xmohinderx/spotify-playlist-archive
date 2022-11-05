@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-975 songs - 3 day 17 hr 3 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+976 songs - 3 day 17 hr 6 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,7 +663,8 @@
 | [Plato](https://open.spotify.com/track/5eQhX9iv6jDuzaGi6N4z0V) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Cherry \(UA\)](https://open.spotify.com/artist/6xuIqCB0qedzXRYmj7fsGq) | [Plato](https://open.spotify.com/album/4fsQTws2mzQ0p6IemZb0oU) | 4:25 | 2022-08-25 | 2022-09-17 |
 | [Plenty Of Nothing \- Olivier Weiter Remix](https://open.spotify.com/track/0qu7FhmTVlYrig8Sxka1g7) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN), [Olivier Weiter](https://open.spotify.com/artist/32igBIB7PD2T5aJktoB3AS) | [Plenty Of Nothing feat\. Johanson \(Olivier Weiter Remix\)](https://open.spotify.com/album/2hRX5oPhOsNebbl0g3hxFn) | 6:03 | 2022-04-14 | 2022-05-06 |
 | [Point of No Return](https://open.spotify.com/track/4AVjVPLrElTPP4JIDY8QPv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Point of No Return](https://open.spotify.com/album/5cgMOLRkAZ1DJNbR6qWeOM) | 5:54 | 2022-07-14 | 2022-08-05 |
-| [Poison \- Miane Remix](https://open.spotify.com/track/4UcSPBCaBihVGQTPF8hvet) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/4cfkKCS3SAy9YdfIHWyOf5) | 2:32 | 2022-11-03 |  |
+| [Poison \- Miane Remix](https://open.spotify.com/track/1d3Eb4PWk24woAfg2YaDsd) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/51TtzHlZRMD7Vxky2YUOPW) | 2:32 | 2022-11-03 |  |
+| [Poison \- Miane Remix](https://open.spotify.com/track/4UcSPBCaBihVGQTPF8hvet) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/4cfkKCS3SAy9YdfIHWyOf5) | 2:32 | 2022-11-03 | 2022-11-05 |
 | [Pool Song \- Groovebox Remix](https://open.spotify.com/track/3r15Ozg9VDpwDeUSXEL1fA) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl), [Groovebox](https://open.spotify.com/artist/4PrcS5AML5H6PshtyDRndU) | [Choirs to Heaven Remixes](https://open.spotify.com/album/4Z27ZFjO4LAzVp0x1LPQUY) | 4:12 | 2022-08-25 | 2022-09-17 |
 | [PRESENCE](https://open.spotify.com/track/53JbluApH54rXyg9L8XAtC) | [Airmow](https://open.spotify.com/artist/6SfPAcR67ssVyMQWoizN7Q) | [DYSTOPIE](https://open.spotify.com/album/3hM9mElorqNA1GvtJqpSAl) | 3:40 | 2022-05-26 | 2022-06-10 |
 | [Priscus](https://open.spotify.com/track/3rn1GDSBPHzZqjasTXwV2t) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Priscus](https://open.spotify.com/album/44CUFeh0zGY0EomFY2Hfo9) | 6:49 | 2022-09-01 | 2022-09-23 |

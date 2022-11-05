@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,091 songs - 4 day 23 hr 41 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+3,093 songs - 4 day 23 hr 45 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,7 +836,7 @@
 | [Evenings](https://open.spotify.com/track/1gT2IDC2z4W9Km3JvX4RVh) | [S N U G](https://open.spotify.com/artist/0liH4Jfiz66Rqjz4DH3JZk) | [Purple Skies](https://open.spotify.com/album/2nivV1pgFdEoGRwQmSjsRj) | 2:35 | 2021-07-01 | 2021-07-30 |
 | [Evenings in Soho](https://open.spotify.com/track/1YHrzzAYyhe7c34Fv2OHQK) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Evenings in Soho](https://open.spotify.com/album/47WDvEwx51V8pO1JEcnzsn) | 2:57 | 2020-09-25 | 2021-03-06 |
 | [Everest](https://open.spotify.com/track/4dGdL5dCoidGdU8zqTnj2S) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Everest](https://open.spotify.com/album/5W2WQ7NAoeBOBWHUjISZ5N) | 1:36 | 2022-03-04 | 2022-09-04 |
-| [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-11-03 |  |
+| [Everest](https://open.spotify.com/track/3vYouZujMonwhGjVFESJHe) | [Kim Kozy](https://open.spotify.com/artist/6gVhnvdJQi2cjFRDSlysqe) | [Everest](https://open.spotify.com/album/6RnGFy9JPCqI7Ls0XIIDn6) | 2:02 | 2022-11-03 | 2022-11-05 |
 | [Evergreen](https://open.spotify.com/track/4JBkIQ34kFeWuyJQwQKDK2) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [Evergreen](https://open.spotify.com/album/1NorQWStaLdQzCuJyFoB8l) | 2:15 | 2021-05-22 | 2022-07-01 |
 | [Evergreen Galaxy](https://open.spotify.com/track/01cF0O2vgJy20SzDrA2GET) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj) | [Evergreen Galaxy](https://open.spotify.com/album/7w8LdQrfsOYwOIRXZ5UaEW) | 2:29 | 2021-05-14 | 2022-01-28 |
 | [Everluv](https://open.spotify.com/track/6xbWtSRDzwBsdcSXIbwM2R) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Everluv](https://open.spotify.com/album/6JSjxjopZ6f8AzAVaal9ey) | 1:33 | 2022-02-17 | 2022-04-01 |
@@ -1214,6 +1214,7 @@
 | [I'm Here](https://open.spotify.com/track/7JTTS7DBk4eNhQisw4gYrC) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Motel In The Pines](https://open.spotify.com/album/11cgTqZlDmFQO9n0QhGb5v) | 2:20 | 2020-07-18 | 2021-03-26 |
 | [Ice Castle](https://open.spotify.com/track/3yrRhxtZO4sxsAkviHFwZd) | [o k h o](https://open.spotify.com/artist/427e5CiqmL4TmWb5Zvax7U) | [Ice Castle](https://open.spotify.com/album/26iomIRqL35QWNpjGTTLDS) | 2:24 | 2021-05-08 | 2021-06-04 |
 | [Ice Cream](https://open.spotify.com/track/61hOggobh04KVuPBt9UVUN) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [NYC Stories](https://open.spotify.com/album/3oOunc54oh51Z2YfxjuiIL) | 2:19 | 2021-09-12 | 2022-08-12 |
+| [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-11-03 |  |
 | [ICMELER](https://open.spotify.com/track/2hhtX7Ppjm8i4ZyBLPd4Dr) | [Hulk Hodn](https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r) | [ICMELER](https://open.spotify.com/album/2ap4IiAoLTKAFQPChercfm) | 2:04 | 2019-11-06 | 2020-03-10 |
 | [Ideas](https://open.spotify.com/track/3ZVbXceXHOIaN5YLyTl3fl) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Wilf](https://open.spotify.com/artist/6YFTYI3N17c6wI2Vc6czX7) | [Natural Language & Ideas](https://open.spotify.com/album/4k4gvG576sW3XdiFgy4sEM) | 2:42 | 2020-10-09 | 2021-05-13 |
 | [If & When](https://open.spotify.com/track/0HHg52dorgcvucrSKaG6NI) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [If & When](https://open.spotify.com/album/26pbrlSJ1wra58cDcDXDUW) | 2:42 | 2021-06-19 | 2022-01-07 |
@@ -2004,7 +2005,7 @@
 | [Palm Oil](https://open.spotify.com/track/5hYxf9l3EEYY6weglDZOx8) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Palm Oil](https://open.spotify.com/album/6jVKXAn69SHH3qn2fgbDLX) | 2:33 | 2020-04-24 | 2020-07-03 |
 | [Palma](https://open.spotify.com/track/7pxbteHpF1ZCPAjrRDxJoS) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Palma](https://open.spotify.com/album/58i6QGRroAiZlhQQYnomHc) | 2:08 | 2021-05-07 | 2021-06-11 |
 | [Palos Verdes Sunsets](https://open.spotify.com/track/7kMyUZDiAFKzs54cCvXUkT) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD), [Nils](https://open.spotify.com/artist/3LIDXKf2DqV6RiJ4UtiRww) | [Palos Verdes Sunsets](https://open.spotify.com/album/5S4iDgn9XN93qgNDTrorQX) | 2:18 | 2021-05-29 | 2021-10-22 |
-| [Pangea](https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Pangea](https://open.spotify.com/album/0yTryh9Co9Zdrw1z1lxRCm) | 1:42 | 2022-05-12 |  |
+| [Pangea](https://open.spotify.com/track/3WBYqPLJjBxGYMDHjpGS6C) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Pangea](https://open.spotify.com/album/0yTryh9Co9Zdrw1z1lxRCm) | 1:42 | 2022-05-12 | 2022-11-05 |
 | [papaya](https://open.spotify.com/track/68PTwG29nRche3xj2gMDlL) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [papaya](https://open.spotify.com/album/0zrqz82mfGhh3SH35CkR0l) | 2:58 | 2021-08-27 | 2021-10-08 |
 | [Papaya Creek](https://open.spotify.com/track/70fervkMWWH6rQ89nNauM2) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Papaya Creek](https://open.spotify.com/album/3a9g4YpDhxkpn0D9sXc1I5) | 2:32 | 2022-06-16 | 2022-09-02 |
 | [Paper](https://open.spotify.com/track/7MmlDhyroURJOtnEjYnPeQ) | [Amuseity](https://open.spotify.com/artist/6eNL8EiCnr1E8xQI3WECDf) | [Beat Chow Vol\. 1](https://open.spotify.com/album/2LNj69VHihIkvsI5NU9TJx) | 2:03 | 2019-06-08 | 2019-11-29 |
@@ -2393,6 +2394,7 @@
 | [Slurping Ramen in Tokyo](https://open.spotify.com/track/4W6VmMZ6BQ1g4vquUjeIDQ) | [JK Soul](https://open.spotify.com/artist/0OINA1IEY4yNLRFD5n10uS) | [Slurping Ramen in Tokyo](https://open.spotify.com/album/1dCmEHM5Ci36pMf8Y8DYGw) | 2:10 | 2021-06-23 | 2021-09-24 |
 | [Slypknot](https://open.spotify.com/track/1hsn3NgxlpITNPo3YJopxW) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Slypknot](https://open.spotify.com/album/1nrlrBzl9zwGW7bR0rilNR) | 1:57 | 2020-05-15 | 2020-07-28 |
 | [Small Talk](https://open.spotify.com/track/02oam67Jcc1eTF2qyNBDWe) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Small Talk](https://open.spotify.com/album/2vTAqiRVVWeFnPmF14Wp6I) | 1:20 | 2019-05-28 | 2019-10-11 |
+| [Smile](https://open.spotify.com/track/6wCOjkSpI545KqIKaJythk) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW), [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Smile](https://open.spotify.com/album/2Apvu3ugAERbp6jk9kcxrV) | 2:00 | 2022-11-03 |  |
 | [Smile Again](https://open.spotify.com/track/2VZ2N0hfF1XQIPEhot4BXq) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Smile Again](https://open.spotify.com/album/3swcHpJ2eJSAkljZDVnEh7) | 0:57 | 2019-11-29 | 2020-03-20 |
 | [Smoke One](https://open.spotify.com/track/2lR4W7VFKuLeeFwhIqzDk7) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Smoke One](https://open.spotify.com/album/3r9WbGKS1hwq1mhIvryv1M) | 2:19 | 2019-12-13 | 2020-04-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2020-06-12 |

@@ -1,13 +1,61 @@
 {
-  "description": "New jazz for open minds. Cover: \nMarquis Hill",
-  "num_followers": 847409,
+  "description": "New jazz for open minds. Cover: \nDhafer Youssef",
+  "num_followers": 847550,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDkxMjE3OTRiNWE5YmQzM2MwZDAyOWY4MjI3MDljNWY1",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDYyODI0ODE0ODg1ZDUwZDlkN2MwYmEzNGJmMjEzNTVm",
   "tracks": [
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Ondes of chakras",
+        "url": "https://open.spotify.com/album/23GxQ9FW6MJy2jeSOFuNSZ"
+      },
+      "artists": [
+        {
+          "name": "Dhafer Youssef",
+          "url": "https://open.spotify.com/artist/5UefiThiZ352HWMOgZvOhx"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
+        },
+        {
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/0FDi1P8xmY99il5uPynIMR"
+        }
+      ],
+      "duration_ms": 377231,
+      "name": "Ondes of Chakras",
+      "url": "https://open.spotify.com/track/0XuzuAyCGR3fSO6q7f9gEf"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Life Goes On (feat. Sampa the Great)",
+        "url": "https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX"
+    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
@@ -49,6 +97,22 @@
       "url": "https://open.spotify.com/track/5tHlKei7IIgA29Vef05NYa"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Voices of Bishara",
+        "url": "https://open.spotify.com/album/0zPEYIOStlPrrgvZGlCrBR"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        }
+      ],
+      "duration_ms": 243585,
+      "name": "Quiet as It's Kept",
+      "url": "https://open.spotify.com/track/4ATFNWs31uk1dHTu5BnOx7"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Sicily' Box",
@@ -77,10 +141,42 @@
       "url": "https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "some kind of peace \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+        "name": "Nu Jump",
+        "url": "https://open.spotify.com/album/1v7UyCTBjFExnN9eukkZ2L"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Nu Jump",
+      "url": "https://open.spotify.com/track/6dzqA3xfQFZtq6bluHR0dK"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Sunday Brunch",
+        "url": "https://open.spotify.com/album/72PVK2wHvkRpYygKKiUKme"
+      },
+      "artists": [
+        {
+          "name": "Digby Jones",
+          "url": "https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU"
+        }
+      ],
+      "duration_ms": 121851,
+      "name": "Sunday Brunch",
+      "url": "https://open.spotify.com/track/0yn5ghpJaaPd4eLSEyVpjp"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Zero \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/15fhFYXG3n5y6KWPT5reeA"
       },
       "artists": [
         {
@@ -94,7 +190,7 @@
       ],
       "duration_ms": 207679,
       "name": "Zero \u2014 piano reworks",
-      "url": "https://open.spotify.com/track/4S2lJF9tqs5MRLtWzuPXx1"
+      "url": "https://open.spotify.com/track/7CkPQE4VCenCENNN6q7nD2"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -119,6 +215,66 @@
       "duration_ms": 266942,
       "name": "Lokum",
       "url": "https://open.spotify.com/track/1LhXwBdUdkN20igjixRGmy"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "\u79d1\u5b66",
+        "url": "https://open.spotify.com/album/5K0JtbKBfcXl9xpthjLf9b"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u79d1\u5b66",
+      "url": "https://open.spotify.com/track/0fUxG11k3Oajkh5QvkBZxH"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Fly Through It",
+        "url": "https://open.spotify.com/album/0xf6qauscnwnpOE0o9frPo"
+      },
+      "artists": [
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        },
+        {
+          "name": "Jason \"JT\" Thomas",
+          "url": "https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw"
+        },
+        {
+          "name": "Wes Stephenson",
+          "url": "https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88"
+        }
+      ],
+      "duration_ms": 258502,
+      "name": "Chucks & Pearl Snaps",
+      "url": "https://open.spotify.com/track/1hzUa2nk2xwf6uXcokw46x"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Brazilian Moods",
+        "url": "https://open.spotify.com/album/2ziQ6aTPa4e99ZRJJUkO62"
+      },
+      "artists": [
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 252971,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/2cQUpeNPocwLzbybZzm0Gi"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -245,10 +401,10 @@
       "url": "https://open.spotify.com/track/2t6CjjlQr9rBrXUiZgDR5M"
     },
     {
-      "added_at": "2022-10-28 04:01:00",
+      "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "Massimo Farao Plays the Great Jazz American Composers: Irving Berlin, Vol. 2",
-        "url": "https://open.spotify.com/album/7vFpTujOKVHFRIjom3BPlx"
+        "name": "Massimo Fara\u00f2 Plays Pino Daniele's Ballads",
+        "url": "https://open.spotify.com/album/3IsclXG2EZrHu8ZYYzS5Cy"
       },
       "artists": [
         {
@@ -260,17 +416,17 @@
           "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
         },
         {
-          "name": "Bobo Facchinetti",
-          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
-        },
-        {
           "name": "Nicola Barbon",
           "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP"
         }
       ],
-      "duration_ms": 346447,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/5ayqfSRFRADRSG7rQYNhMg"
+      "duration_ms": 284421,
+      "name": "Quanno chiove",
+      "url": "https://open.spotify.com/track/46vefwWRRLijm8xNYrGUVH"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -287,22 +443,6 @@
       "duration_ms": 143244,
       "name": "lucidly (ft. Ophie)",
       "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/1xJDj86YNAlqWIxAEXrWWX"
-      },
-      "artists": [
-        {
-          "name": "Tom Skinner",
-          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
-        }
-      ],
-      "duration_ms": 301640,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/4kb3jDqUAbXWMskE46iI2s"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -503,22 +643,6 @@
       "duration_ms": 133780,
       "name": "Consolation Prizes",
       "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "Ego Killah",
-        "url": "https://open.spotify.com/album/4ifCrD5s7VxNd4SlSeOdfa"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 355493,
-      "name": "Ego Killah",
-      "url": "https://open.spotify.com/track/5MDRYiFfcyCa2AcLbSoGmR"
     },
     {
       "added_at": "2022-10-07 04:00:00",
@@ -1353,26 +1477,6 @@
       "url": "https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar"
     },
     {
-      "added_at": "2022-08-08 13:46:12",
-      "album": {
-        "name": "Pulpo",
-        "url": "https://open.spotify.com/album/7g0HlZNLEbmgn5WFpbXcXw"
-      },
-      "artists": [
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 286851,
-      "name": "Pulpo",
-      "url": "https://open.spotify.com/track/1QISJCYkc7CvtL9kYnKvJJ"
-    },
-    {
       "added_at": "2022-09-30 04:00:00",
       "album": {
         "name": "Ghosts",
@@ -1919,118 +2023,6 @@
       "duration_ms": 181320,
       "name": "Ereshkigal of the Underworld",
       "url": "https://open.spotify.com/track/7KVWQzXYf9m2xo2R7A1e38"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Katalyst JID013",
-        "url": "https://open.spotify.com/album/09Rbp9ndzM5LBhJO7qNgBN"
-      },
-      "artists": [
-        {
-          "name": "Katalyst",
-          "url": "https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 422498,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/1w8R8ktBN372wpT5UOCZzT"
-    },
-    {
-      "added_at": "2022-09-23 04:00:00",
-      "album": {
-        "name": "Center Stage",
-        "url": "https://open.spotify.com/album/0OKzNFL2vAPb0qJJhv8sqR"
-      },
-      "artists": [
-        {
-          "name": "Steve Gadd",
-          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
-        },
-        {
-          "name": "Eddie G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr"
-        },
-        {
-          "name": "Ronnie Cuber",
-          "url": "https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 341960,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/4760YTvGff1alhNSX5qIlO"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "U Already Know",
-        "url": "https://open.spotify.com/album/6RjBKgkUCrdquERj5Qtegz"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "U Already Know",
-      "url": "https://open.spotify.com/track/18vyo0NTf5n3WD08ZEVQ0z"
-    },
-    {
-      "added_at": "2022-10-07 04:00:00",
-      "album": {
-        "name": "NEO: I AM THE ONE",
-        "url": "https://open.spotify.com/album/6FH0MBvZkwshDclvd1Bwlw"
-      },
-      "artists": [
-        {
-          "name": "E-SWERVE",
-          "url": "https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG"
-        }
-      ],
-      "duration_ms": 169484,
-      "name": "BLUE PILL",
-      "url": "https://open.spotify.com/track/6jKVU4FlzCTErDCv7QsAVn"
     }
   ],
   "unique_name": "State of Jazz",

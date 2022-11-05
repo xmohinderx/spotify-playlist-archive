@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 112322,
+  "num_followers": 112839,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgwNzI4OSwwMDAwMDAwMDk4YjkwMzc1MTkyYTI1Yzg1MzA2MzFiZmRlMmFkODgz",
+  "snapshot_id": "MTY2NjgwNzI4OSwwMDAwMDAwMGM1ZDkxNDZmNWRmYmFkYTQ1ZjZhNmIxNTkyY2VhOTI0",
   "tracks": [
     {
       "added_at": "2022-10-14 18:43:11",
@@ -227,6 +227,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "If We Make It Through December",
+        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 179074,
+      "name": "If We Make It Through December",
+      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Maybe This Christmas",
-        "url": "https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY"
-      },
-      "artists": [
-        {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
-        }
-      ],
-      "duration_ms": 112746,
-      "name": "Maybe This Christmas",
-      "url": "https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "This Warm December, A Brushfire Holiday Vol. 2",
         "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
@@ -291,34 +291,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+        "name": "Maybe This Christmas",
+        "url": "https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
         }
       ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "If We Make It Through December",
-        "url": "https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 179074,
-      "name": "If We Make It Through December",
-      "url": "https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG"
+      "duration_ms": 112746,
+      "name": "Maybe This Christmas",
+      "url": "https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -339,6 +323,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 152426,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "Christmas Party",
+        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132453,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "7 O'Clock News / Silent Night",
         "url": "https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 120426,
       "name": "7 O'Clock News / Silent Night",
       "url": "https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "Christmas Party",
-        "url": "https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132453,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "christmas morning",
-        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 232040,
-      "name": "christmas morning",
-      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 128737,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "christmas morning",
+        "url": "https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 232040,
+      "name": "christmas morning",
+      "url": "https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -587,50 +587,18 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Linus n' Lucy (Theme from Peanuts)",
-        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+        "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+        "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
       },
       "artists": [
         {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
         }
       ],
-      "duration_ms": 172207,
-      "name": "Linus n' Lucy (Theme from Peanuts)",
-      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "Every Holiday",
-        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 224275,
-      "name": "Every Holiday",
-      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+      "duration_ms": 218170,
+      "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
+      "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -651,18 +619,50 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
-        "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
-        "url": "https://open.spotify.com/album/7gaHJJPucZCcm8i03zheJl"
+        "name": "Every Holiday",
+        "url": "https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B"
       },
       "artists": [
         {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 218170,
-      "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
-      "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
+      "duration_ms": 224275,
+      "name": "Every Holiday",
+      "url": "https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "Linus n' Lucy (Theme from Peanuts)",
+        "url": "https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 172207,
+      "name": "Linus n' Lucy (Theme from Peanuts)",
+      "url": "https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -679,6 +679,22 @@
       "duration_ms": 248449,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5o95cqHWLtaHToZnSS8j5Q"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -711,22 +727,6 @@
       "duration_ms": 198026,
       "name": "That Was the Worst Christmas Ever!",
       "url": "https://open.spotify.com/track/6iabiOyIuzZ96Tk6KyYCRp"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
-      },
-      "artists": [
-        {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2022-10-14 18:43:11",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-14 18:43:11",
       "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
+    },
+    {
+      "added_at": "2022-10-14 18:43:11",
+      "album": {
         "name": "baby jesus is nobody's baby now",
         "url": "https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
-    },
-    {
-      "added_at": "2022-10-14 18:43:11",
-      "album": {
-        "name": "Rise Up Shepherd",
-        "url": "https://open.spotify.com/album/63nbzosqZcY6liU5TJc78i"
-      },
-      "artists": [
-        {
-          "name": "Twin Bandit",
-          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
-        }
-      ],
-      "duration_ms": 147134,
-      "name": "Rise Up Shepherd",
-      "url": "https://open.spotify.com/track/4a1xXhmlbYXYtnjztED6wy"
     }
   ],
   "unique_name": "Indie Christmas",

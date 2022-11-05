@@ -2,9 +2,9 @@
 
 ### [Metalcore Classics](https://open.spotify.com/playlist/37i9dQZF1DX6P51sFpSo2r)
 
-> The perfect mix between old\-school and modern Metalcore\. Cover: Parkway Drive
+> The perfect mix between old\-school and modern Metalcore\. Cover: Bring Me The Horizon
 
-71 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
+72 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/1h5wDS63ZREiQ4twmmpOgS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [My Heart Bleeds The Darkest Blood](https://open.spotify.com/track/6bjwYuQOB1Ryhygge7HSzt) | [Shai Hulud](https://open.spotify.com/artist/4AlPDOBuB1s7NuIPo4veZu) | [Hearts Once Nourished With Hope And Compassion](https://open.spotify.com/album/2fOjW8LUg3muNzmmEYsHOQ) | 2:05 | 2022-01-17 |  |
 | [My Will Be Done](https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The March](https://open.spotify.com/album/708sfirbWrGGssUqiq8Gie) | 3:37 | 2022-01-17 |  |
 | [Nerdy](https://open.spotify.com/track/5qonKXM5Uh1I7PB75Xhx86) | [Poison The Well](https://open.spotify.com/artist/71t8oi0TjZ9Op6JRrVqaBx) | [The Opposite of December..\. A Season of Separation](https://open.spotify.com/album/6mmNgiTBec2A1jp8N3XMHq) | 2:43 | 2022-01-17 |  |
-| [Not The American Average](https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:39 | 2022-01-17 |  |
+| [Not The American Average](https://open.spotify.com/track/17C4oPQ3sTpF11pi9yvGcs) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/57iXTZZW4VLkrBoErSsI5y) | 4:39 | 2022-01-17 | 2022-11-05 |
+| [Not The American Average](https://open.spotify.com/track/76LGCP0g9nVknR7HD2Jjyp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Stand Up And Scream](https://open.spotify.com/album/5TCwGgyw8ZXXyKIcUFCj47) | 4:39 | 2022-11-04 |  |
 | [On Wings Of Lead](https://open.spotify.com/track/4fsMEXdkiQz8VmoGuN31QL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous \(Explicit Version\)](https://open.spotify.com/album/7qpANeSFbCyN6BWZM1jcxC) | 5:21 | 2022-01-17 | 2022-09-25 |
 | [On Wings of Lead](https://open.spotify.com/track/7MMc50k0I12cCeXS8503X9) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/2ZWA7Os6UzInZOC9SJx0uz) | 5:21 | 2022-01-17 | 2022-07-29 |
 | [On Wings Of Lead](https://open.spotify.com/track/4FnHy5Ux7PzyFwE8zjp3RU) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [This Is Love, This Is Murderous](https://open.spotify.com/album/3ALJb3H9F3OXIauWYgg6Lz) | 5:21 | 2022-01-17 |  |

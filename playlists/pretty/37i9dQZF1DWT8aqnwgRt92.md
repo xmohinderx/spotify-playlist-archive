@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,644 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,329 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 50 | [Self Satisfaction](https://open.spotify.com/track/4lqyDbJAXk4ChvQGRkzKTN) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [Sounds of Love](https://open.spotify.com/album/0ADWqHxUuWrth4DkM5OAQq) | 5:48 |
 | 51 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 |
 | 52 | [いいの](https://open.spotify.com/track/6zYa0HNDUEjGtZ5HnB5Cqr) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [KIKUNOYU](https://open.spotify.com/artist/281ctw2ZJ8mLOcH58SVts5) | [いいの](https://open.spotify.com/album/1RsDnvYcyLXcAAvjyoImCc) | 3:47 |
-| 53 | [Straw Hat Pirates Anthem Steve Aoki Remix](https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt) | [スティーヴ・アオキ](https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM), [スティーブアオキ](https://open.spotify.com/artist/7vnEA3vv7MO5JUR4uJSiaS) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:17 |
+| 53 | [Straw Hat Pirates Anthem Steve Aoki Remix](https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt) | [スティーヴ・アオキ](https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:17 |
 | 54 | [Endless Love](https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS) | [蒼井翔太\(CV:蒼井翔太\)](https://open.spotify.com/artist/7y5S6DOjwUD3KxK0pQc99q) | [Endless Love / Nakayopiece](https://open.spotify.com/album/2WT3mjH5Rdwc1fO2bdj1kH) | 1:42 |
 | 55 | [CATASTROPHE](https://open.spotify.com/track/5wgziZ1krirNMLNKMtMFZ2) | [NANO](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [CATASTROPHE](https://open.spotify.com/album/7GRXPolx9dmEZjEcqvfl1n) | 4:03 |
 | 56 | [Nomic](https://open.spotify.com/track/097t1k0326IivjNTdqOqx7) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [Nomic](https://open.spotify.com/album/4LSTro12AcY0M6dqGaZpak) | 3:00 |

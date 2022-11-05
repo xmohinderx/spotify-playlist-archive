@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-401 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+402 songs - 22 hr 33 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Do It Like You Do](https://open.spotify.com/track/7FOgj5HLQd9LXGKXot1RhA) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [Do It Like You Do](https://open.spotify.com/album/0VFrisQgRs71gyFCbtAhCu) | 3:19 | 2021-03-10 | 2022-07-28 |
 | [Do You Really Wanna Know?](https://open.spotify.com/track/43oSsb5boERcpfiuDJR3Kq) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Do You Really Wanna Know?](https://open.spotify.com/album/1gSZbzpl3w3wp2Lc4sl3l8) | 2:58 | 2021-03-10 |  |
 | [Don't Take The Money](https://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Don't Take The Money](https://open.spotify.com/album/6XVw1ysE3HyYF9T9axP33Y) | 3:35 | 2021-03-10 |  |
+| [DON'T TELL THE BOYS](https://open.spotify.com/track/5uGZtSYorCUAqw03hzwvTn) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ) | 3:56 | 2022-10-07 |  |
 | [DON'T TELL THE BOYS](https://open.spotify.com/track/5RuMsudDPFkRC1XQsiheGT) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Lean Into Life](https://open.spotify.com/album/0cRE81Ug6gUBGBcktixA7G) | 3:57 | 2021-11-19 | 2022-10-09 |
 | [DON'T THINK ABOUT IT](https://open.spotify.com/track/6u8lgCJiOdqw63WRA9WQU2) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [DON'T THINK ABOUT IT](https://open.spotify.com/album/5AlDN4SfVqPWfrPApOLCE2) | 3:34 | 2021-08-13 | 2022-07-29 |
 | [Don’t Forget](https://open.spotify.com/track/0MBupnLliwp226j5RSaPt0) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Don't Forget](https://open.spotify.com/album/4DRVBIISdoxJAb7Syh3gSt) | 3:48 | 2022-06-27 |  |
@@ -136,7 +137,7 @@
 | [Good Old Days](https://open.spotify.com/track/0uUp3khxvnrRrr6FLCXcC3) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/5d8D46IKAaS3JTRpAO8Nbn) | 3:24 | 2021-03-10 | 2022-07-29 |
 | [Good Old Days](https://open.spotify.com/track/6mJoYRUTiqeVowwWNAeCjR) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [Good Old Days](https://open.spotify.com/album/3iktifq9QfvjZBvaMRqBxs) | 3:24 | 2022-06-27 |  |
 | [Got To My Head](https://open.spotify.com/track/0jzlfI8DL7Uph1ojvUTbJp) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [Got To My Head](https://open.spotify.com/album/6JS9D5bKdwo7G8mL8a3epa) | 3:06 | 2022-03-11 | 2022-04-20 |
-| [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 | 2022-06-27 |  |
+| [Got to My Head](https://open.spotify.com/track/3HmHQjjApe21DIncYhKIg7) | [WATERS](https://open.spotify.com/artist/4KKQvsAWZWMkS1QCuPnajG) | [What's Real](https://open.spotify.com/album/0AFltyNvGjMw4GuS2kWkuL) | 3:07 | 2022-06-27 | 2022-11-05 |
 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-03-10 |  |
 | [Grind \(feat\. Yoshi Flower\)](https://open.spotify.com/track/1EOfAIDwTq1CXHllp45V44) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Yoshi Flower](https://open.spotify.com/artist/0rAt7V95LWbRPvWQFd21il) | [Powerslide](https://open.spotify.com/album/2ge7NcJyzQGzHDtLHJ8MV3) | 2:43 | 2022-03-11 | 2022-04-19 |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2021-03-10 | 2022-07-29 |

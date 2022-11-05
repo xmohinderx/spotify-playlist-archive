@@ -484,6 +484,32 @@
     },
     {
       "album": {
+        "name": "Gaming EDM 2022",
+        "url": "https://open.spotify.com/album/6XMMd2hjfBRulH7UezOav0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/7sarPDq8wLcuqFZJTCSJsZ"
+    },
+    {
+      "album": {
         "name": "Miami 2013 (Mixed by MYNC, R3hab and Nari & Milani)",
         "url": "https://open.spotify.com/album/6QmPpXBlex1MzB874tXLr5"
       },
@@ -1885,7 +1911,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 207773,
       "name": "Kick Out The Epic Motherf**ker - Vocal Version",
       "url": "https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw"

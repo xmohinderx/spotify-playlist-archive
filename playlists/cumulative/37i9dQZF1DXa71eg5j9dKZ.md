@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Nia Archives
 
-504 songs - 1 day 13 hr 16 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
+505 songs - 1 day 13 hr 21 min - [published](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Can't Stop Thinking About](https://open.spotify.com/track/1xLQkOUvCKqAlFt974GTfn) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Can't Stop Thinking About](https://open.spotify.com/album/3b3b2mY42N62Gr26cEncx6) | 3:28 | 2022-03-04 | 2022-06-10 |
 | [Can't we just have fun?](https://open.spotify.com/track/25Si5xf0LQCYVAF4sRKmua) | [Saoirse](https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX) | [Two Bruised Egos EP](https://open.spotify.com/album/2TpxUQw76IzcTDV9xGW7fQ) | 5:44 | 2022-04-29 | 2022-08-27 |
 | [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 | 2022-08-12 | 2022-10-13 |
-| [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Wayne Snow](https://open.spotify.com/artist/4uQXSvBw8nQ6yOEQctKbz0) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 | 2022-10-06 |  |
+| [Change](https://open.spotify.com/track/0eK9owI3ww9aY4KT7pFOt6) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:50 | 2022-10-06 |  |
 | [Chaos Energy](https://open.spotify.com/track/1ADoaoyKY78CnBvsq6DqFG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/2uEgm3sxH1gHPPHGcjvJXc) | 5:13 | 2022-05-19 | 2022-07-29 |
 | [Chaos Energy](https://open.spotify.com/track/4S1tnT9D73oTaGfihIGkOf) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/7cNZnFUMk3PSgW7ljGszFV) | 5:13 | 2022-07-28 | 2022-08-20 |
 | [Cherry](https://open.spotify.com/track/1N1hwBXdWX6iHkcrNHpKar) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/4uc3EuJ7ElNGMO4LtRTWwb) | 5:55 | 2022-05-25 | 2022-08-02 |
@@ -479,7 +479,8 @@
 | [Twister](https://open.spotify.com/track/7rwnsJwCVBA9eeTooLpMZv) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Twister](https://open.spotify.com/album/6p3AL0Enc2GdEhawk54hUK) | 2:38 | 2022-07-29 |  |
 | [U Around Me](https://open.spotify.com/track/6eVHuIqlFkiji8ZsCHpCMl) | [Pray J](https://open.spotify.com/artist/5aLvVB85i8o3lnKqaKA7At) | [U Around Me](https://open.spotify.com/album/3mnzaBb32Co1B4lf8Sdv06) | 3:01 | 2021-11-24\* | 2022-02-12 |
 | [Uh Oh](https://open.spotify.com/track/74Cy4UMTn0Yeu0kSMwARt8) | [MoreNight](https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N) | [Uh Oh](https://open.spotify.com/album/0OJEQmJJBPKNsWV50bOUF1) | 3:13 | 2022-06-09 | 2022-09-16 |
-| [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 | 2022-11-04 |  |
+| [Ultra Truth](https://open.spotify.com/track/2YxJlStqLuzxmRaE6S9K0s) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX) | 5:17 | 2022-11-04 | 2022-11-05 |
+| [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 | 2022-11-04 |  |
 | [Ultraviolet \- Edit](https://open.spotify.com/track/3ieIlUTXT44fXme5HmxwSP) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Ultraviolet](https://open.spotify.com/album/6f8IGK0k5JTPGxFmSJy2X5) | 3:29 | 2021-11-24\* | 2021-12-17 |
 | [Understand \(Feat\. Brendan Yates\)](https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Understand](https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS) | 3:43 | 2022-05-06 | 2022-07-08 |
 | [Unit 18](https://open.spotify.com/track/4QRHWbbFJhPqTFs6RPS1TV) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Unit 18](https://open.spotify.com/album/1uv2fpE0D6tI9hB7Uq0nJe) | 4:11 | 2022-06-09 | 2022-09-02 |

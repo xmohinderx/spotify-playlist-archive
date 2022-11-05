@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 249714,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 363492,
       "name": "Keep Moving - Dave Lee Remix",
       "url": "https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg"
@@ -1491,6 +1491,24 @@
       "duration_ms": 242009,
       "name": "Let Your Body Move",
       "url": "https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F"
+    },
+    {
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286061,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
     },
     {
       "album": {

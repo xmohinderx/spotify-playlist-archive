@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-210 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
+212 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/6Mucr2ILFuIcViB8dUsQZn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,8 +22,9 @@
 | [Alma Bonita](https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE) | [Marvyn](https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU) | [Alma Bonita](https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9) | 3:07 | 2022-02-04 | 2022-07-18 |
 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 | 2022-02-04 |  |
 | [Amarelo](https://open.spotify.com/track/6bkx8Q0OrT02dp8qtFXIVC) | [Mila Cavalhero](https://open.spotify.com/artist/7510idFXIXYMpUdlm6RnY4) | [Amarelo](https://open.spotify.com/album/5vfomh31FYoTzH15Xh4PhF) | 3:24 | 2022-02-04 | 2022-07-26 |
-| [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 | 2022-02-04 |  |
+| [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Andar Sozinho \(feat\. Jão\)](https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP) | 3:00 | 2022-02-04 | 2022-11-05 |
 | [Ansiejazz](https://open.spotify.com/track/3zxzCceumX9oWltiRy4HSY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/0XWnY5AJPktemtQExVhoTJ) | 2:59 | 2022-03-22 | 2022-04-16 |
+| [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 | 2022-11-04 |  |
 | [Aquarela](https://open.spotify.com/track/77fp9cdwRrMc4HtuNb9G5L) | [KARINE](https://open.spotify.com/artist/1ZPNC5O5lhPN5B7oeUKcB8) | [Aquarela](https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy) | 3:23 | 2022-02-04 | 2022-07-29 |
 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 | 2022-02-04 |  |
 | [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-03-22 | 2022-05-10 |
@@ -96,6 +97,7 @@
 | [Fiz Pra Você](https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz Pra Você](https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H) | 3:12 | 2022-07-22 |  |
 | [Flutua](https://open.spotify.com/track/6frKleVYLJaNlhjZIl7upo) | [Renata Lopes](https://open.spotify.com/artist/1oWxrZS6SYLs5RSTp49o1J), [ISADDORA](https://open.spotify.com/artist/51OHjo8o1c3WImL1KUQG21) | [Flutua](https://open.spotify.com/album/3zrWhaxz90FWECpAOPCmVZ) | 4:22 | 2022-02-04 | 2022-07-29 |
 | [Forasteira](https://open.spotify.com/track/6r6mCi3JKyRQTxBTPfzKgW) | [As Baías](https://open.spotify.com/artist/7MKatfaGFrdd4jTZiwZW2K) | [Enquanto Estamos Distantes](https://open.spotify.com/album/49Qx8PiCf3A9HziPLZBeei) | 3:23 | 2022-03-22 | 2022-04-17 |
+| [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [França \(Papasessions\#10\) \[feat\. L7NNON\]](https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0) | 4:54 | 2022-11-04 |  |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-02-04 | 2022-07-25 |
 | [Fullgás](https://open.spotify.com/track/1f9HisfpJAutD6WgOY1sPP) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Qinho Canta Marina](https://open.spotify.com/album/0Dlkq4Ecn8e0UOUhDm9RFm) | 4:27 | 2022-02-04 | 2022-07-26 |
 | [Gamela](https://open.spotify.com/track/3Dj1bQdB6swcsWkQRtnevp) | [Diogo Ramos](https://open.spotify.com/artist/1XMYWlil8WyEETnoC0E2XK) | [Gamela](https://open.spotify.com/album/4dIM1zU22GCBCH6bzPwV6Q) | 3:42 | 2022-03-22 | 2022-04-13 |
@@ -180,7 +182,7 @@
 | [Se Avexe Não](https://open.spotify.com/track/0PaNt7j8MFe0FhZg9PdHbO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/69C3YveqQVaurpkSqVcVZl) | 3:42 | 2022-03-22 | 2022-07-28 |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2022-07-22 | 2022-08-02 |
 | [Segue o baile](https://open.spotify.com/track/0egTKiqudl4bbXlPZlRVtw) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nua](https://open.spotify.com/album/5vv8azxRUNzzWpuN8afj3a) | 2:55 | 2022-03-22 | 2022-07-18 |
-| [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 | 2022-02-04 |  |
+| [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 | 2022-02-04 | 2022-11-05 |
 | [Sentido da Vida](https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE) | [Pseudo](https://open.spotify.com/artist/0vSgwGjTHcH6k7FIAChc3N) | [Sentido da Vida](https://open.spotify.com/album/4rTZqc29huKABVedShBX1x) | 3:14 | 2022-02-04 | 2022-07-13 |
 | [Sereia](https://open.spotify.com/track/713dG06QFp61DE5RTaNW2B) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:00 | 2022-03-22 | 2022-07-29 |
 | [Seu Fim em Mim](https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Seu Fim em Mim](https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC) | 3:38 | 2022-02-04 |  |

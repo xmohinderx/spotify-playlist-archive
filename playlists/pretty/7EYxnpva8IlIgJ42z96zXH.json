@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 31575,
+  "num_followers": 31566,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjQyOCw4NjdkZmNmZmNkY2QyYjEwZGQ4ODY1ZDQyNWE3MWRjMjVjOTgzOGVl",
+  "snapshot_id": "MjQzMCw0NmNmMTZjY2RlMTcxMTQzMzZhNWRkYmVhNDcwYzg0YTFhZDIzZjli",
   "tracks": [
     {
       "added_at": "2022-11-04 01:49:20",
@@ -23,6 +23,46 @@
       "duration_ms": 197545,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/6uX3HDedpfYWZVrbqRwrjq"
+    },
+    {
+      "added_at": "2022-11-04 01:49:20",
+      "album": {
+        "name": "Spend It (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Spend It (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
+    },
+    {
+      "added_at": "2022-11-04 01:49:20",
+      "album": {
+        "name": "No Love For You",
+        "url": "https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Drop - G",
+          "url": "https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD"
+        }
+      ],
+      "duration_ms": 178414,
+      "name": "No Love For You",
+      "url": "https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW"
     },
     {
       "added_at": "2022-11-04 01:49:20",
@@ -59,26 +99,6 @@
       "duration_ms": 162857,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5Sqcm0TFvJd0SDDgrWgFSa"
-    },
-    {
-      "added_at": "2022-11-04 01:49:20",
-      "album": {
-        "name": "Spend It (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/0tfrIsINRigH8WRsi4WJHJ"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Spend It (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/0Fa39rh1TcvQlt3pLlxn7e"
     },
     {
       "added_at": "2022-11-04 01:49:20",
@@ -155,26 +175,6 @@
       "duration_ms": 207737,
       "name": "Cranky Boy",
       "url": "https://open.spotify.com/track/0K7xbyM409xlMZ80nth1Sd"
-    },
-    {
-      "added_at": "2022-11-04 01:49:20",
-      "album": {
-        "name": "No Love For You",
-        "url": "https://open.spotify.com/album/7uAhD8U1RGLZe3mqQ5rbKE"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Drop - G",
-          "url": "https://open.spotify.com/artist/3c655cBO0W2SlWOKLu2sqD"
-        }
-      ],
-      "duration_ms": 178414,
-      "name": "No Love For You",
-      "url": "https://open.spotify.com/track/2hXevSk7W1jBAO34M8XHdW"
     },
     {
       "added_at": "2022-11-04 01:49:20",

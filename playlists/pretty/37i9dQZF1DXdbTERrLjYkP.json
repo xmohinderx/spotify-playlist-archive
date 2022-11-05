@@ -1,29 +1,13 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lily Williams",
-  "num_followers": 73331,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Abigail Osborn",
+  "num_followers": 73419,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk5NzMzOSwwMDAwMDAwMDU0NjE1YWRiNzkzNDA5NjMzNTVmMzBiNGZhM2I4MDE0",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMGNjZmVkOGIwODJlYzVmNWY1NGE5MTFkNzZhZTRjODUx",
   "tracks": [
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Let Me Be The One",
-        "url": "https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj"
-      },
-      "artists": [
-        {
-          "name": "Lily Williams",
-          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
-        }
-      ],
-      "duration_ms": 217124,
-      "name": "Let Me Be The One",
-      "url": "https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G"
-    },
     {
       "added_at": "2022-10-28 04:01:00",
       "album": {
@@ -41,6 +25,70 @@
       "url": "https://open.spotify.com/track/4teTkriwH61lCPVRSvLIBv"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/5WIvlCtH4dpYfdaXF9sJfX"
+      },
+      "artists": [
+        {
+          "name": "J. Maya",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        }
+      ],
+      "duration_ms": 155522,
+      "name": "Machine Learning",
+      "url": "https://open.spotify.com/track/3rpqdjRLuBGDfGHyAMD55v"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "duration_ms": 172366,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6"
+    },
+    {
+      "added_at": "2022-10-28 04:01:00",
+      "album": {
+        "name": "Let Me Be The One",
+        "url": "https://open.spotify.com/album/7biN9Lam2gbmUND7Tn9qPj"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "duration_ms": 217124,
+      "name": "Let Me Be The One",
+      "url": "https://open.spotify.com/track/3x8V3QRBYi2CDZYDEoH74G"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Special",
@@ -55,6 +103,22 @@
       "duration_ms": 163580,
       "name": "Special",
       "url": "https://open.spotify.com/track/1mBR4OepAtxwfLwokFhWKC"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Hope You're Well",
+        "url": "https://open.spotify.com/album/4Cp8eaPfgMH2VAyZrCznkZ"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 208459,
+      "name": "Hope You're Well",
+      "url": "https://open.spotify.com/track/6EyNnSOJY4KgAU1cxqQDO8"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -89,6 +153,22 @@
       "url": "https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L"
     },
     {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Watching the Moon",
+        "url": "https://open.spotify.com/album/1DGfDkUJyyyo90vRAHnySI"
+      },
+      "artists": [
+        {
+          "name": "Holden Miller",
+          "url": "https://open.spotify.com/artist/1SsWCyijEv548QDkKcclDG"
+        }
+      ],
+      "duration_ms": 233539,
+      "name": "Watching the Moon",
+      "url": "https://open.spotify.com/track/2wdxWnALQ3ub0mnPNGBBVr"
+    },
+    {
       "added_at": "2022-10-28 04:01:00",
       "album": {
         "name": "Alone in an Uber",
@@ -103,6 +183,22 @@
       "duration_ms": 143133,
       "name": "Alone in an Uber",
       "url": "https://open.spotify.com/track/5kGgc5oh3CuEjqgzP4ChGJ"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Convertible in the Rain",
+        "url": "https://open.spotify.com/album/4Ef3H9zyvX7nmOCnagOjpp"
+      },
+      "artists": [
+        {
+          "name": "Brynn Cartelli",
+          "url": "https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek"
+        }
+      ],
+      "duration_ms": 232903,
+      "name": "Convertible in the Rain",
+      "url": "https://open.spotify.com/track/1fZ8mppAUR8G9DHzDd8nID"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1243,22 +1339,6 @@
     {
       "added_at": "2022-09-09 04:00:00",
       "album": {
-        "name": "July (Later On)",
-        "url": "https://open.spotify.com/album/5Srlo0GV4YWeDDaGEIpU0a"
-      },
-      "artists": [
-        {
-          "name": "Lily Williams",
-          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
-        }
-      ],
-      "duration_ms": 139655,
-      "name": "July (Later On)",
-      "url": "https://open.spotify.com/track/1taQvtNRfKDHIV7TpzRRI4"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
         "name": "Heartbreak Hall Of Fame",
         "url": "https://open.spotify.com/album/4SpxjTnfgxHAxHjLAClJsF"
       },
@@ -1527,86 +1607,6 @@
       "duration_ms": 198139,
       "name": "gentle",
       "url": "https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "To The Bone",
-        "url": "https://open.spotify.com/album/2pBLBGkgGi5xgoPz5Wqudg"
-      },
-      "artists": [
-        {
-          "name": "Sammy Copley",
-          "url": "https://open.spotify.com/artist/2Ss8myJnkg66YWeaVqtOmN"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "To The Bone",
-      "url": "https://open.spotify.com/track/31A6HUffhAwFHlk5akfxiD"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Devil's Work",
-        "url": "https://open.spotify.com/album/5E0v1l0J7Nd3smRv9NYMKk"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Devil's Work",
-      "url": "https://open.spotify.com/track/0RRZVMWLdovT58YKbVG4sV"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/1lvviZbYiV4VJpawVDcXVm"
-      },
-      "artists": [
-        {
-          "name": "Juliana Madrid",
-          "url": "https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx"
-        }
-      ],
-      "duration_ms": 269213,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7oC2PFdQllzwRhsaTWQUAX"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "how to get through a breakup",
-        "url": "https://open.spotify.com/album/0d4s3UnuE7jVxpxJErAehX"
-      },
-      "artists": [
-        {
-          "name": "Tayler Buono",
-          "url": "https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5"
-        }
-      ],
-      "duration_ms": 185006,
-      "name": "Some Things Aren't Meant Forever",
-      "url": "https://open.spotify.com/track/1jzM9IcYwaKZZLh1LTSxFc"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Younger Self",
-        "url": "https://open.spotify.com/album/6AkBIRxlFJ7lW4gcjl3aNe"
-      },
-      "artists": [
-        {
-          "name": "Nancy Daines",
-          "url": "https://open.spotify.com/artist/4OJNnbwrNhUSPNJGvL71jR"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Younger Self",
-      "url": "https://open.spotify.com/track/6URJ4SjwwDw8XOFwYN6rY5"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

@@ -27,6 +27,24 @@
     {
       "album": {
         "name": "It's Beautiful.",
+        "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "3:35am",
+      "url": "https://open.spotify.com/track/0QAFiGqEkWn27WVy6AZShQ"
+    },
+    {
+      "album": {
+        "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/0khCz22f39wIV6FcizFYIo"
       },
       "artists": [
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 212250,
       "name": "Eyes Only for You",
       "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"

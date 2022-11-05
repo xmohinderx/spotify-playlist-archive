@@ -1184,6 +1184,32 @@
     },
     {
       "album": {
+        "name": "Evolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2WtkvpOa2Q6y864chs9Tr7"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Morgado",
+          "url": "https://open.spotify.com/artist/18PzCN6SSqd7FcS21URnnN"
+        },
+        {
+          "name": "Rapha Harley",
+          "url": "https://open.spotify.com/artist/6v5yZzeaGLWao68Y4QERUd"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192042,
+      "name": "Evolu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5Vie9s8M7H4cXVHAXgweNb"
+    },
+    {
+      "album": {
         "name": "Facilita",
         "url": "https://open.spotify.com/album/5yCYj2nj0VXelPDxX6AVPH"
       },
@@ -2171,7 +2197,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 176000,
       "name": "O Que Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
@@ -2683,7 +2709,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 140624,
       "name": "PRIMEIRA VISTA",
       "url": "https://open.spotify.com/track/46qcIwcdt2NSuiH8hHJVob"
@@ -2889,10 +2915,28 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
+    },
+    {
+      "album": {
+        "name": "Saideira",
+        "url": "https://open.spotify.com/album/4J6Rgtq5kdNafv4X9hj5az"
+      },
+      "artists": [
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182708,
+      "name": "Saideira",
+      "url": "https://open.spotify.com/track/23WPF6PxByuFrUep6T4jEI"
     },
     {
       "album": {
@@ -3583,6 +3627,44 @@
       "duration_ms": 164480,
       "name": "Vale Nada",
       "url": "https://open.spotify.com/track/1HcptUOhD09D9Q61Y1eWTG"
+    },
+    {
+      "album": {
+        "name": "Vale Ouro",
+        "url": "https://open.spotify.com/album/44OvtTaUsQ6xe1e7OX27m7"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Mirele",
+          "url": "https://open.spotify.com/artist/4rCur9U5VSSagYG950fNlp"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356151,
+      "name": "Vale Ouro",
+      "url": "https://open.spotify.com/track/5r5OpfHRofHDXPbuqe6fJ7"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-209 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
+210 songs - 11 hr 2 min - [published](https://open.spotify.com/playlist/3uBCjD3QXS1bsdZpxQUdvo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Mr\. Smiley](https://open.spotify.com/track/4pCZhwsn1mbN8fDYe42Hl5) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude](https://open.spotify.com/album/2uvJMoMuk7mxOqHaU5PTEN) | 2:46 | 2021-09-02 | 2022-07-29 |
 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 | 2021-09-02 |  |
 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 | 2021-09-02 |  |
-| [Night Train to Moscow](https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/7LoRVrbrsi12hSTXJElZG0) | 2:23 | 2021-09-02 |  |
+| [Night Train to Moscow](https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [One More Bullet](https://open.spotify.com/album/7LoRVrbrsi12hSTXJElZG0) | 2:23 | 2021-09-02 | 2022-11-05 |
 | [No One Said It Was Easy](https://open.spotify.com/track/6Vfu17e3R2xoKP1aXmMxlS) | [\[spunge\]](https://open.spotify.com/artist/6vxyuUNiILvDzBfLxgu0KT) | [No One Said It Was Easy](https://open.spotify.com/album/3UKUSqQYspQheeMi6wDXbS) | 3:20 | 2021-09-02 | 2022-07-29 |
 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/2b8JJGU8BxKcxuk7HUHXqa) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [No Place Like \(Not Being\) Home](https://open.spotify.com/album/1cMJEOgIrHokq4zkORuHBw) | 4:00 | 2021-09-02 | 2022-07-29 |
 | [No Place Like \(Not Being\) Home](https://open.spotify.com/track/4EJXrKHEbQp63JiMHUN4I3) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [Hypochondriac](https://open.spotify.com/album/6uDqold3P9I1IKn2XuwZem) | 4:00 | 2022-04-14 |  |
@@ -203,6 +203,7 @@
 | [What You Burn](https://open.spotify.com/track/7tp2beIGRHisVsXz8DJi5O) | [Call Me Malcolm](https://open.spotify.com/artist/6WZUGL4ioInlABxJ0GAPAU) | [What You Burn](https://open.spotify.com/album/3YKiGR3JRVp99NJTdAH3Cc) | 3:22 | 2021-09-02 | 2022-07-22 |
 | [When The Wall Falls](https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [When The Wall Falls](https://open.spotify.com/album/1gRbKCXYYJjE07OQeNNcel) | 2:45 | 2021-09-02 |  |
 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 | 2021-09-02 |  |
+| [Wisdom Teeth](https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf) | 5:43 | 2022-04-14 |  |
 | [Wisdom Teeth](https://open.spotify.com/track/147mMd7jI2ty1fR5AVJhS7) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [To the Moon](https://open.spotify.com/album/26hyjp4UUl9tsWW802rFEt) | 5:43 | 2022-04-14 | 2022-10-22 |
 | [Wonderful Day for the Race](https://open.spotify.com/track/3bylr7iU0HQcaC5jAm1WBy) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [While We're At It](https://open.spotify.com/album/6LeJC5sAG4y9uKrpsDuIao) | 3:16 | 2022-04-14 |  |
 | [Wonderful Day for the Race](https://open.spotify.com/track/6h9Su5IoSExGHd5X0fTfhL) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [While We're At It](https://open.spotify.com/album/5fWM3vzjvjtJ2G2xOImmfn) | 3:16 | 2021-09-02 | 2022-07-29 |

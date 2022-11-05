@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 
-102 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
+103 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Highway 20 Ride \(Live\) \[Pass the Jar \- Zac Brown Band and Friends Live from the Fabulous Fox Theatre in Atlanta\]](https://open.spotify.com/track/7cLBnEsJgrnMQaaaCcaczx) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \- Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)](https://open.spotify.com/album/0nrT2YzJC2dDiBajEb84Pb) | 4:15 | 2021-07-22 | 2022-07-29 |
 | [Highway 20 Ride \- Live](https://open.spotify.com/track/0lTdSjQGlWeT2dc7g3XXV6) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Pass the Jar \[Zac Brown Band and Friends from the Fabulous Fox Theatre in Atlanta \(Live\)\]](https://open.spotify.com/album/3ry9xiyNvOTqzI4wd74wKz) | 4:15 | 2022-07-22 |  |
 | [House Party \- Live From The Street Party Presented By Bose](https://open.spotify.com/track/0Boz5z3s23HtPiNrayrkxw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Street Party Live](https://open.spotify.com/album/6RmHhMeHdNJPbxjhnLKAbW) | 3:16 | 2021-07-22 |  |
+| [Human \- Live](https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human \(Live\)](https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg) | 3:34 | 2022-11-04 |  |
 | [Humble And Kind \- Live](https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind \(Live\)](https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3) | 3:50 | 2021-07-22 |  |
 | [I Hope You're Happy Now \- Live from the CMA Awards 2020](https://open.spotify.com/track/16ksnBUPxX5aIhIqDBzcOX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [I Hope You’re Happy Now \(Live from the CMA Awards 2020\)](https://open.spotify.com/album/1cDYRtB0pAqyNglsvDrxUN) | 3:18 | 2021-07-22 |  |
 | [I Run To You \- Live](https://open.spotify.com/track/6Ut4aPmaScltV7Bu5BWOix) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:56 | 2021-07-22 |  |

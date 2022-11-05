@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 52354,
+  "num_followers": 52376,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDI3MDJlOTEwMGU5NWM3ZGE4NGE1YjVjNjVlZWE4YzFm",
+  "snapshot_id": "MTYzMDA3OTEwMSwwMDAwMDAwMDY5Yjg2MTVlMmY5MTNjMThjYmFhMTE1YTA5MzAwZjVj",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -87,22 +87,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "The Thrill",
-        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "The Thrill",
-      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Lille Vals",
         "url": "https://open.spotify.com/album/04zfihfCFBkSpPUUzsDr5x"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 235176,
       "name": "Lille Vals",
       "url": "https://open.spotify.com/track/6aBqWnfEdFIolhzPwp1XuQ"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "The Thrill",
+        "url": "https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "The Thrill",
+      "url": "https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -567,6 +567,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -703,26 +703,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Lorenz Rhode",
-          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
-        }
-      ],
-      "duration_ms": 409961,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Faccia a faccia (Remixes)",
         "url": "https://open.spotify.com/album/6Xc0OSTyNIXRYKtE2uk9g7"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 227019,
       "name": "Faccia a faccia - Italoconnection Remix Radio",
       "url": "https://open.spotify.com/track/3UyM4nviJQhxibP1O1f5FD"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "url": "https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF"
+        }
+      ],
+      "duration_ms": 409961,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/11DRarpv190YnCAXt85uFA"
     },
     {
       "added_at": "2021-08-27 15:45:01",

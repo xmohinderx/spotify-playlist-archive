@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Polyphia
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,313 likes - 89 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,412 likes - 89 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 61 | [Midnight Rain](https://open.spotify.com/track/451BVL5WAcGirIBdOzfRrX) | [Jack Thammarat](https://open.spotify.com/artist/3C8YVJZQ0bIDW3oqZJIq6W) | [Midnight Rain](https://open.spotify.com/album/1bBdAdFpMwYGy3rJcPugpp) | 1:33 |
 | 62 | [Belvedere](https://open.spotify.com/track/0Kq3RypTOKtYbYPVSrHcS1) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 5:24 |
 | 63 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
-| 64 | [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 |
+| 64 | [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 |
 | 65 | [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 |
 | 66 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 |
 | 67 | [Esperanza](https://open.spotify.com/track/4jJQlw27J0OF3wiYGY1egh) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0) | [The Sound of My Room](https://open.spotify.com/album/6dW8Oqq6KWBEePGQ4yZj0x) | 4:18 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 88 | [Stratagem](https://open.spotify.com/track/4DqUMex7TPQoDv6E1NNIG5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Collage](https://open.spotify.com/album/70KEOoFGZwVHmLfMO38bcX) | 3:17 |
 | 89 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 |
 
-Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMDEzOTc4ZjA5YmYyZDNiNjc2Y2ZhZDc3MzdjN2VhNTUx`
+Snapshot ID: `MTY2NjkyOTY2MCwwMDAwMDAwMGIxOTkyOTcxMWNmYmQ1MmU1NzBiZmUyNTM5ZTlmNzI2`

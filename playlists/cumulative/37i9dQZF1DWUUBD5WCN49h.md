@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx?si=OUWYxk0ySGe5m\_n13WKeQA"> Dami Oniru</a>
 
-122 songs - 6 hr 14 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
+123 songs - 6 hr 18 min - [published](https://open.spotify.com/playlist/2KdrLZRa87xIWjORQ3USHT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Pleasure](https://open.spotify.com/track/6INtRY5ec8tZ0DWkjHurfw) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Pleasure](https://open.spotify.com/album/3muAl354ZsR01jO4Gsi22W) | 3:03 | 2022-08-26 | 2022-11-04 |
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-28 |  |
 | [Père](https://open.spotify.com/track/4yRZ3SAszB7vbemF24sZgM) | [Mo'Believe](https://open.spotify.com/artist/2JZT6fRSlCQFOnSvkwJ8PW) | [Père](https://open.spotify.com/album/4dgdV8g7x1fAhCO4Iax0yo) | 2:47 | 2022-08-25 |  |
-| [R\-, Pt\. 2](https://open.spotify.com/track/0PjiYBQk9Q96ZKGWedkvbW) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-](https://open.spotify.com/album/1agqNObDp49ordF3HmYAqw) | 3:12 | 2022-07-07 |  |
+| [R\-, Pt\. 2](https://open.spotify.com/track/0PjiYBQk9Q96ZKGWedkvbW) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-](https://open.spotify.com/album/1agqNObDp49ordF3HmYAqw) | 3:12 | 2022-07-07 | 2022-11-05 |
+| [R\-, Pt\. 2](https://open.spotify.com/track/6riYRZyy2Fgf11GuK2tfXK) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:12 | 2022-07-07 |  |
 | [Rainbow](https://open.spotify.com/track/13hEc2MitD87ehwMgyI59n) | [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH) | [Rainbow](https://open.spotify.com/album/2WV6vbD8ojRGOcdCxfl5e1) | 2:23 | 2022-07-28 | 2022-10-14 |
 | [Real Love](https://open.spotify.com/track/1cM0KjvbAjvSOZakmOK2NA) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [Real Love](https://open.spotify.com/album/12flURqPmncSp4H3RgI71k) | 2:52 | 2022-09-16 |  |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 |  |

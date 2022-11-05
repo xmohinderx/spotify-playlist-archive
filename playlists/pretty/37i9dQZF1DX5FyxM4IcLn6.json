@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64rd GRAMMY Awards.",
-  "num_followers": 121138,
+  "num_followers": 121136,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGIwZGI0Njc5ZTFhZmQ2YWYwYjM3MmZkZTQzMDVjYzJk",
+  "snapshot_id": "MTY0ODU5Mzc3MSwwMDAwMDAwMGNhNTZhMTFmMjA2MTExMzFmOWU4MmVmODMyZmJlNjQ3",
   "tracks": [
     {
       "added_at": "2022-03-29 19:11:15",
@@ -895,26 +895,6 @@
     {
       "added_at": "2022-03-29 19:11:15",
       "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2"
-    },
-    {
-      "added_at": "2022-03-29 19:11:15",
-      "album": {
         "name": "Fallen Embers",
         "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 222400,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/7ksAGloyLZyKThB86rErvT"
+    },
+    {
+      "added_at": "2022-03-29 19:11:15",
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2"
     },
     {
       "added_at": "2022-03-29 19:11:15",

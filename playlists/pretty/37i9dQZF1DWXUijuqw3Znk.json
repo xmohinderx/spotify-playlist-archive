@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 2353,
+  "num_followers": 2362,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMGFhOTc3Yzc1ZjdlMWU2ZDE0ZGVkOWE4YjJlYjRlYTJj",
+  "snapshot_id": "MTY2NzQ2NzA0OSwwMDAwMDAwMDU5NTM5ZGRmMjkxYzc0OTE2M2RlNDg5MDM0ZGFiZjY4",
   "tracks": [
     {
       "added_at": "2022-11-03 09:17:29",
@@ -891,6 +891,54 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "ENGINE",
+        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 220717,
+      "name": "ENGINE (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -919,54 +967,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "ENGINE",
-        "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 220717,
-      "name": "ENGINE (Prod. by CODE KUNST)",
-      "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "iii (Feat. Basick, Kid Milli & Paloalto) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/6edZem9rKwPzzGe2IAmIiP"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "Supernova (Feat. Dut2)",
-      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me the Money 6 Episode 3",
         "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 254793,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "Supernova (Feat. Dut2)",
+      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1403,34 +1403,18 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "20/22",
-        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
       },
       "artists": [
         {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         }
       ],
-      "duration_ms": 182578,
-      "name": "20/22",
-      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "TELEVISION",
-        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 176244,
-      "name": "Genius (Behind the scene)",
-      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+        "name": "TELEVISION",
+        "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
+      "duration_ms": 176244,
+      "name": "Genius (Behind the scene)",
+      "url": "https://open.spotify.com/track/1wP1P6ERIaWfQKZNwp8xzU"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "20/22",
+        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "20/22",
+      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "P.O.E.M. II",
+        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "BLAZE",
         "url": "https://open.spotify.com/album/3rReTvcphfVOJUOYXpCiWJ"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 131493,
       "name": "SLASH (Feat. BIGONE)",
       "url": "https://open.spotify.com/track/2F1n5rGdo6oQbZFYuVx9ud"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "P.O.E.M. II",
-        "url": "https://open.spotify.com/album/5i95V4l0CpfhwDuabB4d22"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 291066,
       "name": "111%",
       "url": "https://open.spotify.com/track/6XsK88k4pe30cx5as6z7xq"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
-      },
-      "artists": [
-        {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
-        }
-      ],
-      "duration_ms": 240542,
-      "name": "Cross The Street",
-      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -1907,22 +1891,18 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "Well Done",
-        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
         }
       ],
-      "duration_ms": 256071,
-      "name": "Well Done",
-      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
+      "duration_ms": 240542,
+      "name": "Cross The Street",
+      "url": "https://open.spotify.com/track/4mYSiH5xn1j2rrsY4fnXAA"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -1947,6 +1927,26 @@
       "duration_ms": 237986,
       "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2qCpJl3aqKth5GRtjhQagS"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+        }
+      ],
+      "duration_ms": 256071,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/4nohFGugGn3NLIomiG9r4U"
     },
     {
       "added_at": "2022-11-03 09:17:29",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2022-11-03 09:17:29",
       "album": {
-        "name": "MULTILLIONAIRE",
-        "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 237815,
-      "name": "Still On My Way",
-      "url": "https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ"
-    },
-    {
-      "added_at": "2022-11-03 09:17:29",
-      "album": {
         "name": "OFF DUTY",
         "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
+    },
+    {
+      "added_at": "2022-11-03 09:17:29",
+      "album": {
+        "name": "MULTILLIONAIRE",
+        "url": "https://open.spotify.com/album/4BlHtDLeAwV6v8oUDAASk4"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 237815,
+      "name": "Still On My Way",
+      "url": "https://open.spotify.com/track/7fUa7kqaHxVNUs1nwRfQcQ"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

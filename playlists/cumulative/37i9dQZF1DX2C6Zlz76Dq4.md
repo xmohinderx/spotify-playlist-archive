@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\.  Cover: Dolly Parton
 
-153 songs - 7 hr 57 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
+154 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/0WF5q0vWVSEHA7PeU0PIAB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 | 2021-12-16 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/66mtOmzVK3qyaUQKFtb9Mv) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Season For Romance](https://open.spotify.com/album/0pu8HcgAXHkgPAiSUqu4NR) | 4:28 | 2021-12-16 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0fzISlWVkaz8SC8Ix1SDWA) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [White Christmas](https://open.spotify.com/album/6zMbvZeDQRie5F6a4wOu8e) | 4:07 | 2021-12-16 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/56s8ABk1WrAOHqkCjHpOlK) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4tb0hEqZZIGZjlqXT5UtAT) | 3:31 | 2022-11-04 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6vR6kdeqNf8e92gJs7xVUN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Christmas](https://open.spotify.com/album/7c8BQ8VwHYGks8qo0sCIAW) | 2:28 | 2021-12-16 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7qHVgz1qCKPl7hNQRBS7sQ) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Christmas Number 1's](https://open.spotify.com/album/4UvvfXA7W1IHzBaUCaRj2k) | 3:59 | 2021-12-16 | 2022-07-29 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1VlcOoddCauF3kbl5tljN3) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 4:02 | 2021-12-16 |  |

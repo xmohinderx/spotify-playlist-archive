@@ -1037,6 +1037,24 @@
     {
       "album": {
         "name": "Kostolom",
+        "url": "https://open.spotify.com/album/37XaKB6rpfLrR4572PBCSs"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Bonebreaker",
+      "url": "https://open.spotify.com/track/4TV4Hz8egoZ0x1S3h8kQ7G"
+    },
+    {
+      "album": {
+        "name": "Kostolom",
         "url": "https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T"
       },
       "artists": [
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 265000,
       "name": "Bonebreaker",
       "url": "https://open.spotify.com/track/4XIyKIqxM2wo4mZJYPwoqa"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 234834,
       "name": "Exit, Exist",
       "url": "https://open.spotify.com/track/3Ks0l9pRwBoobHURPrTNPs"
@@ -3839,7 +3857,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "King Ov Fire",
       "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
@@ -4893,7 +4911,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 225768,
       "name": "Outrun",
       "url": "https://open.spotify.com/track/4Ybl8SLHUxerNOWtXjE1pA"
@@ -7323,7 +7341,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-28",
+      "date_removed": null,
       "duration_ms": 250933,
       "name": "What I Would Give",
       "url": "https://open.spotify.com/track/0vt56Wbd2hcCYvtXoDyEg1"

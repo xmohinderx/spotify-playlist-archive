@@ -2,7 +2,7 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Fear Factory
+> Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Powerwolf
 
 666 songs - 2 day 1 hr 38 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 

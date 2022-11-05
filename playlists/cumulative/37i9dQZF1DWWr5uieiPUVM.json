@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 194312,
       "name": "A Nova Era",
       "url": "https://open.spotify.com/track/3GlfVkqT66eHtYI0jICo6u"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 212000,
       "name": "Filho do Dono",
       "url": "https://open.spotify.com/track/40TTpkt2jMUr9wDeZPcQD6"
@@ -1774,6 +1774,28 @@
     },
     {
       "album": {
+        "name": "Hora da Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/5Oae3eiFjXcx9FdsRHQ6KK"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Hora da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/36CcFomNSxtmyhr27YlfIV"
+    },
+    {
+      "album": {
         "name": "Horas Iguais",
         "url": "https://open.spotify.com/album/75q0lNTV1DIYkLeBqil9EE"
       },
@@ -1901,6 +1923,28 @@
       "duration_ms": 155258,
       "name": "Isso Que \u00c9 Bom",
       "url": "https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS"
+    },
+    {
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/4m2ZmUGnZaX6qxSXufTHRr"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/2PrmOi0KeJrCCcW7FaR2zd"
     },
     {
       "album": {
@@ -2701,7 +2745,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 219310,
       "name": "Muita Atividade",
       "url": "https://open.spotify.com/track/1EsgC6YzdQkKmPKB1QyEiE"
@@ -4131,6 +4175,48 @@
       "duration_ms": 273008,
       "name": "Tudo do Melhor",
       "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
+    },
+    {
+      "album": {
+        "name": "VALHO NADA",
+        "url": "https://open.spotify.com/album/2zHIz8N1VMO6XeoVgMNzQX"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/6GF33PalPVxh4sMpbHir0F"
+        },
+        {
+          "name": "Brutos",
+          "url": "https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6"
+        },
+        {
+          "name": "A.R",
+          "url": "https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc"
+        },
+        {
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217539,
+      "name": "VALHO NADA",
+      "url": "https://open.spotify.com/track/3qGvQ7IdsiVrex3LcH6hRB"
     },
     {
       "album": {

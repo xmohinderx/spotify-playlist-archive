@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Ashe",
-  "num_followers": 400949,
+  "num_followers": 400990,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMDI0OGM0YjVhZDI5NDhiNWM2MGIwOTdlN2FlODU2Njk0",
+  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGY4NDlkZDMzMWNjZmZkNmRmNWY4OWQ2NGQyYWFkNjA3",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/3zpGIFghtnVlwMXWyKW474"
     },
     {
-      "added_at": "2022-08-19 04:02:00",
+      "added_at": "2022-07-01 04:01:00",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
       },
       "artists": [
         {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 199186,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
+      "duration_ms": 169410,
+      "name": "Places We Won't Walk",
+      "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
     },
     {
       "added_at": "2022-06-24 04:02:00",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz"
     },
     {
-      "added_at": "2022-07-01 04:01:00",
+      "added_at": "2022-08-19 04:02:00",
       "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/3IGPQEGAiZZI4Iba81GNq5"
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/1DGXrB5U3Vyqs5UXirE7e8"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
         }
       ],
-      "duration_ms": 169410,
-      "name": "Places We Won't Walk",
-      "url": "https://open.spotify.com/track/0wfnEetPwlLHmnzhRXvPuk"
+      "duration_ms": 199186,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/4cB03uRsnOSABer7gv7gPt"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X"
     },
     {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Building Balance",
+        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 184952,
+      "name": "Consider Me",
+      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Buddy's Rendezvous",
@@ -695,22 +711,6 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Building Balance",
-        "url": "https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 184952,
-      "name": "Consider Me",
-      "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1057,6 +1057,38 @@
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
     },
     {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Precious Love (Refreshed)",
+      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Shoegaze",
+      "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Velcro (feat. Gus Dapperton)",
@@ -1093,38 +1125,6 @@
       "url": "https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Sound & Color (Deluxe)",
-        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Shoegaze",
-      "url": "https://open.spotify.com/track/7lCPtVW9VLsn5EGuibqctU"
-    },
-    {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6qPMvni16dK3GuVk6K2fXa"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Precious Love (Refreshed)",
-      "url": "https://open.spotify.com/track/2Qi7xDDXuuiwPYnVMBsTfo"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Higher",
@@ -1141,20 +1141,20 @@
       "url": "https://open.spotify.com/track/7zqznhNk8DZbwo8fWIF82V"
     },
     {
-      "added_at": "2022-10-07 04:01:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Magical Thinking",
-        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
       "artists": [
         {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 173985,
-      "name": "Magical Thinking",
-      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/2t8bKoVLWfyPVAybGJqc8u"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-10-07 04:01:00",
       "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+        "name": "Magical Thinking",
+        "url": "https://open.spotify.com/album/21eHBcnc4VwH790PBt6QvV"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
         }
       ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+      "duration_ms": 173985,
+      "name": "Magical Thinking",
+      "url": "https://open.spotify.com/track/5ITq6ybkDsjEr8GbYam8Nl"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Drippin' In Love",
-        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
-      },
-      "artists": [
-        {
-          "name": "Frankie Zulferino",
-          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
-        }
-      ],
-      "duration_ms": 245901,
-      "name": "Drippin' In Love",
-      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Everybody",
@@ -1481,20 +1465,20 @@
       "url": "https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+        "name": "Drippin' In Love",
+        "url": "https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K"
       },
       "artists": [
         {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+          "name": "Frankie Zulferino",
+          "url": "https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC"
         }
       ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
+      "duration_ms": 245901,
+      "name": "Drippin' In Love",
+      "url": "https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -1513,20 +1497,20 @@
       "url": "https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-06-24 04:02:00",
       "album": {
-        "name": "Adi Oasis",
-        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
       },
       "artists": [
         {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
         }
       ],
-      "duration_ms": 241057,
-      "name": "Whisper My Name",
-      "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1543,6 +1527,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Adi Oasis",
+        "url": "https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 241057,
+      "name": "Whisper My Name",
+      "url": "https://open.spotify.com/track/0dTye9Nu4yiVfmIlyI8PEE"
     },
     {
       "added_at": "2022-04-01 04:02:00",

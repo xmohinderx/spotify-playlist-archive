@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Rachel Chinouriri
 
-1,402 songs - 3 day 1 hr 50 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
+1,404 songs - 3 day 1 hr 55 min - [published](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-24 | 2022-04-16 |
 | [Death Wish](https://open.spotify.com/track/4A11c7LR0Nr2ENq2v6cXri) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Death Wish](https://open.spotify.com/album/7b7ry1Asg4hDM5yAsg64UH) | 3:08 | 2022-02-25 | 2022-07-03 |
 | [decide to be happy](https://open.spotify.com/track/4npip0lZeQAbj1epad3oCu) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [decide to be happy](https://open.spotify.com/album/1PO9x34QK39yLrs0zZtOk4) | 3:27 | 2020-10-20 | 2021-06-03 |
-| [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 |  |
+| [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 | 2022-11-05 |
 | [Deep End](https://open.spotify.com/track/3NE8bmyye8sEOQtWknh8Vi) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Deep End](https://open.spotify.com/album/3UbtakzdZAkZlaZxRfm35p) | 3:38 | 2022-08-19 | 2022-10-13 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2022-06-17 |  |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-06-02 | 2022-07-28 |
@@ -391,6 +391,7 @@
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
+| [easy](https://open.spotify.com/track/1Tsx0p2tR01ygNRbHx8NZA) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [easy](https://open.spotify.com/album/4d579OmXKgovYV9JhdaTyz) | 2:10 | 2022-11-04 |  |
 | [Easy](https://open.spotify.com/track/2QZIrVL1RnFFrl3YuP6DiP) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Easy](https://open.spotify.com/album/70HeUV33B447KbycGdxC6D) | 3:17 | 2022-06-17 | 2022-07-29 |
 | [Easy](https://open.spotify.com/track/1fP3bbDuZBE2hiih9ZQhb1) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Easy](https://open.spotify.com/album/4mTRZFgxyEK6EZrC0P2yit) | 2:54 | 2021-02-24 | 2021-05-30 |
 | [Easy](https://open.spotify.com/track/3gwoz4xZuye0agjYgrC2je) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Easy](https://open.spotify.com/album/25bVTJuPSWiiwdxgjJGRUi) | 3:46 | 2020-10-16 | 2022-07-29 |
@@ -952,7 +953,7 @@
 | [Over It](https://open.spotify.com/track/0gGD3kFDXo6jz8gvSxa9ya) | [Bailey Baum](https://open.spotify.com/artist/0cIsZBvqdqr2KIdAjxCriY) | [Over It](https://open.spotify.com/album/51ocifKtkmS3eEDfnU3Sc0) | 3:04 | 2020-11-10 | 2021-05-22 |
 | [Overkill](https://open.spotify.com/track/7LfjF1auPMDBtsPXJuXpON) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Overkill](https://open.spotify.com/album/1oc9rrlOPMwfMaHT2C2CvS) | 3:06 | 2020-10-20 | 2021-06-03 |
 | [Oxygen](https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/0dVhYNE7j67jmzu7yX7zam) | 3:06 | 2021-11-12 | 2022-07-29 |
-| [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 |  |
+| [Oxygen](https://open.spotify.com/track/3A0mdJS6ra4RJ9Eidtz2br) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:10 | 2022-06-17 | 2022-11-05 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-15 | 2022-08-06 |
 | [PAIN](https://open.spotify.com/track/7quWqKzjJwYXF3cqSDSCRL) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [PAIN](https://open.spotify.com/album/6npMxPQjBYL8FQAX7USLp3) | 3:38 | 2020-12-12 | 2021-05-29 |
 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 | 2022-10-07 |  |
@@ -987,6 +988,7 @@
 | [Picture](https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL), [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Picture](https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj) | 2:36 | 2022-03-29 | 2022-04-02 |
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-05-03 | 2022-04-16 |
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/1RqtpxOWoK6EewdDHOxUMT) | [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/album/3sb6tWwcrolPMPusXdVOAI) | 3:16 | 2021-05-04 | 2021-05-27 |
+| [Pink Champagne](https://open.spotify.com/track/5UTqjzpLvxlzxAUZBoe6mq) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [Ashes](https://open.spotify.com/album/3pHFu7NJGjcBxg9rkCYcLI) | 2:48 | 2022-11-04 |  |
 | [Pink Pony Club](https://open.spotify.com/track/4xeGlEItAGRsWFykY7ixjW) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/2gUphuvuwo8JFCNxqOHKRa) | 4:18 | 2021-01-15 | 2022-04-13 |
 | [Place Like This](https://open.spotify.com/track/2tTY9mdhOnqW46iRV0Rq8J) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Place Like This](https://open.spotify.com/album/6Tf6xhGbdj49bCGptdMzu0) | 3:39 | 2021-02-25 | 2021-05-27 |
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-24 | 2021-05-27 |

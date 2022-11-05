@@ -4,7 +4,7 @@
 
 > Celebrate the great women composers who continue to transform the classical world\. Cover: Olivia Belli
 
-73 songs - 6 hr 19 min - [published](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
+74 songs - 6 hr 21 min - [published](https://open.spotify.com/playlist/0WktRk73nv0k8V6CAxvsRm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Escape Artist](https://open.spotify.com/track/7sXYoFoFoJ28bnjsnoBfvY) | [Zoë Keating](https://open.spotify.com/artist/6OHXnLZCeWUwtdDsBdqOdr) | [Into The Trees](https://open.spotify.com/album/5CXgHsxu4SydFFeJ6ClHY4) | 6:34 | 2021-12-13 |  |
 | [Fast Blue Village 2](https://open.spotify.com/track/2fPmv1kyWASSfUCJtNSpTN) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH) | [Zia: Del Sol String Quartet](https://open.spotify.com/album/4Rlj5EPG9bKOoSqYt4NwwV) | 5:16 | 2021-12-13 |  |
 | [Flight](https://open.spotify.com/track/6Wn3TQhCt3HEQVpw8fXRwJ) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq), [La Pietà](https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj) | [Flight](https://open.spotify.com/album/3MEd2aRhQnRBjtWRtQY314) | 4:29 | 2021-12-13 |  |
+| [For A Moment](https://open.spotify.com/track/3ZS8mhkBb8JcO57NurUpGF) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ), [12 Ensemble](https://open.spotify.com/artist/2em3FOAFG3NssO0tWItWuj) | [For A Moment](https://open.spotify.com/album/6EdK9G30Mc7lyxSnfAuq0c) | 2:36 | 2022-11-04 |  |
 | [For Airi](https://open.spotify.com/track/1qEJ1pHXVtuMTeHPvk0hMS) | [Errollyn Wallen](https://open.spotify.com/artist/6Vl4eGV594sQXxRQDMOSCw), [Fenella Humphreys](https://open.spotify.com/artist/2y5f64ZV3wDZHP4j3fgvg6) | [Errollyn Wallen: For Airi](https://open.spotify.com/album/181OZDdEFmMuDRilvLcpHk) | 6:10 | 2022-03-04 |  |
 | [From My Garden for Viola](https://open.spotify.com/track/64Qe81hJnfgWcFpvXh7DiF) | [Ursula Mamlok](https://open.spotify.com/artist/653cVD6X1NXCPYtYlV88sq), [Hartmut Rohde](https://open.spotify.com/artist/7d87rxxZfkcbSoJyDWQo0u) | [Mamlok: String Quartet No\. 1 \- Polyphony No\. 1](https://open.spotify.com/album/3zhrZOF4HBOP7J2a2HxA3C) | 6:47 | 2021-12-13 |  |
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-03-08 |  |

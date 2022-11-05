@@ -1,13 +1,105 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127217,
+  "num_followers": 127224,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "Mzc1NyxmMTEwZmQzNWU0YzJkNDg0NTdhMWM0MWY0NTJiMGViN2VjNjI2NzYx",
+  "snapshot_id": "Mzc2Miw4NGNlMzNhYjU5M2EwMjBjNzk4MmQxZDI2N2I1YzE3ZjEzZGNlMTkx",
   "tracks": [
+    {
+      "added_at": "2022-11-04 22:32:20",
+      "album": {
+        "name": "Endless (Best of Me)",
+        "url": "https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY"
+      },
+      "artists": [
+        {
+          "name": "Afinity",
+          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Endless (Best of Me)",
+      "url": "https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0"
+    },
+    {
+      "added_at": "2022-11-04 22:32:42",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "On The Run",
+      "url": "https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia"
+    },
+    {
+      "added_at": "2022-11-04 22:32:42",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Luke Coulson",
+          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/2O333FGzBWwOxg0dSrPplb"
+    },
+    {
+      "added_at": "2022-11-04 22:32:42",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 194125,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/0QyD3WGQ1yYy01fpZYMl93"
+    },
+    {
+      "added_at": "2022-11-04 22:32:42",
+      "album": {
+        "name": "On The Run",
+        "url": "https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs"
+      },
+      "artists": [
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/3CAjk7ddvkqAT5iGRYTYGy"
+    },
     {
       "added_at": "2022-11-03 17:17:35",
       "album": {
@@ -43,6 +135,22 @@
       "duration_ms": 186750,
       "name": "Garden's Edge",
       "url": "https://open.spotify.com/track/1uuTI3HJbxIB08RwfIzbir"
+    },
+    {
+      "added_at": "2022-11-04 22:33:34",
+      "album": {
+        "name": "Garden's Edge",
+        "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
+      },
+      "artists": [
+        {
+          "name": "Odsen",
+          "url": "https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Retrospective",
+      "url": "https://open.spotify.com/track/3zzqGcRJJ4YoegJMnLMYnh"
     },
     {
       "added_at": "2022-11-01 16:56:50",
@@ -623,26 +731,6 @@
     {
       "added_at": "2022-10-21 20:08:11",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/2tMs4REgID4EI8n09Xt1U1"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Luke Coulson",
-          "url": "https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/7moYWZMEBBi9JgO1vbmPU4"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
         "name": "FULL ASSAULT / ALL THAT U WANT",
         "url": "https://open.spotify.com/album/377f6e2rHXRuE09ksYvWhS"
       },
@@ -1007,90 +1095,6 @@
       "duration_ms": 248000,
       "name": "Words Left Unsaid",
       "url": "https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Wish You Stayed",
-        "url": "https://open.spotify.com/album/2UYUKxWI2OjPG3eW0nf0Rg"
-      },
-      "artists": [
-        {
-          "name": "YULA",
-          "url": "https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8"
-        }
-      ],
-      "duration_ms": 180891,
-      "name": "Wish You Stayed",
-      "url": "https://open.spotify.com/track/3swA7H6ohhJomFrC5YOiG2"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        }
-      ],
-      "duration_ms": 273750,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/2rZztGcRl9pUAbSfEQshRC"
-      },
-      "artists": [
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        }
-      ],
-      "duration_ms": 194125,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/2x4X4bn0hzj2AJLC7jPfJa"
-    },
-    {
-      "added_at": "2022-10-21 20:08:11",
-      "album": {
-        "name": "Royalty",
-        "url": "https://open.spotify.com/album/0CEQ62V2Ip0bXpVhhNYiPQ"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "Royalty",
-      "url": "https://open.spotify.com/track/6tHBSeIAH5l9o9MjZLl9MJ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

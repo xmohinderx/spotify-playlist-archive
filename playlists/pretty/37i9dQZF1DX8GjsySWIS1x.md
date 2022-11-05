@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gamer music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,172 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,327 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 10 | [Face Off](https://open.spotify.com/track/6M47gaKejso9772SKTa3yH) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Joey Cool](https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu), [King Iso](https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle), [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn) | [ASIN9NE](https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM) | 3:39 |
 | 11 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 12 | [This fffire \- New Version](https://open.spotify.com/track/46gSk82duJtX3TTA182ruG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [This fffire](https://open.spotify.com/album/4hUCtGcc0hRYXFhKSETlll) | 3:38 |
-| 13 | [Why Do I \(with Hatsune Miku\) \- Hatsune Miku Version](https://open.spotify.com/track/5FH2ZZZDxuaDV4IoVlmjzX) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Why Do I \[Hatsune Miku Version\]](https://open.spotify.com/album/2HT2HYRf4LC7CZ4OcBHunz) | 2:34 |
+| 13 | [Why Do I \(with Hatsune Miku\)](https://open.spotify.com/track/5FH2ZZZDxuaDV4IoVlmjzX) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Why Do I \[Hatsune Miku Version\]](https://open.spotify.com/album/2HT2HYRf4LC7CZ4OcBHunz) | 2:34 |
 | 14 | [happy](https://open.spotify.com/track/0exExEyKJnVIwgF8MyHVNP) | [LilyPichu](https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8) | [happy](https://open.spotify.com/album/7HHWePvIYmj0qGCvfSlzwj) | 3:36 |
 | 15 | [Novia](https://open.spotify.com/track/1bn6dqeM5Sle3rYsZXPvdx) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Novia](https://open.spotify.com/album/7LjSaV9Tacv5WOqD6hAx8r) | 2:03 |
 | 16 | [Fight Back](https://open.spotify.com/track/2zNTjCDUzoKhImvJfnk3vG) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Fight Back](https://open.spotify.com/album/3mwJO0XY1Yjq4O9oTHks6L) | 3:20 |

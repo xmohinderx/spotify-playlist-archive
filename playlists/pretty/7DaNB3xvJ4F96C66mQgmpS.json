@@ -1,12 +1,12 @@
 {
   "description": "The best workout playlist is here. Listen to rap, rock, and electronic bangers from a variety of artists, and discover new favorite tracks to power you through.",
-  "num_followers": 89900,
+  "num_followers": 89890,
   "original_name": "Workout Bangers",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTUyOSw1MDkzYjJhMzQ2OWU0MTM5Zjc0MTk1NWZkMzRiYmM1MTc5YmIzYmNk",
+  "snapshot_id": "MTUzNyxiOGY4NzFjZmYyMWQ4YzI2YTYwMDZiZjI0MzA2ODQ0MzA0MWY2MzY3",
   "tracks": [
     {
       "added_at": "2022-11-04 00:15:18",
@@ -519,6 +519,38 @@
       "duration_ms": 183870,
       "name": "Loveless (with Teddy Swims)",
       "url": "https://open.spotify.com/track/5yL2dV8sTkIgMEArGQiBdT"
+    },
+    {
+      "added_at": "2022-11-04 21:07:12",
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 363521,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/6or1bKJiZ06IlK0vFvY75k"
+    },
+    {
+      "added_at": "2022-11-04 21:07:13",
+      "album": {
+        "name": "Temper",
+        "url": "https://open.spotify.com/album/3N2TjiomTzaIIUznQb9zjR"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "Temper",
+      "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
     },
     {
       "added_at": "2022-11-04 00:15:18",

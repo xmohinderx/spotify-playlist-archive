@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,886 likes - 100 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,978 likes - 100 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 25 | [Echoes](https://open.spotify.com/track/3qEKk7UlpfPPMyfouHhgi6) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [Breathless](https://open.spotify.com/album/1YRwNrwQKhQpEBUeLCtucL) | 7:20 |
 | 26 | [Leafy Meadows](https://open.spotify.com/track/7q84UlknHb4sIThLIERiVK) | [John Paul Jones](https://open.spotify.com/artist/6RhcZuUOb20IZvR8BbdnJX) | [The Thunderthief](https://open.spotify.com/album/7AIpDOQaIxlB3c1cEQhVRJ) | 5:10 |
 | 27 | [Legend Of A Mind](https://open.spotify.com/track/7Gzlsdq3UscVRqRn7x7avR) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [In Search Of The Lost Chord](https://open.spotify.com/album/3ZTNq36NEuAdPLwkey7z6C) | 6:36 |
-| 28 | [Trilogy \- Remastered](https://open.spotify.com/track/0TRzbNlR34FoO3HjHvb8FX) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy](https://open.spotify.com/album/4Swf9iftTTaoEPbPXyxxUQ) | 8:52 |
+| 28 | [Trilogy \- 2015 Remaster](https://open.spotify.com/track/0TRzbNlR34FoO3HjHvb8FX) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Trilogy](https://open.spotify.com/album/4Swf9iftTTaoEPbPXyxxUQ) | 8:52 |
 | 29 | [Cloudburst Flight](https://open.spotify.com/track/3vGCZR6nHYd3be31turwDA) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Force Majeure \(Remastered 2018 / Deluxe Version\)](https://open.spotify.com/album/3Fwvk0okeHHvxT5s90mK8T) | 7:28 |
 | 30 | [The Gates of Delirium \- 2003 Remaster](https://open.spotify.com/track/4Yw37wsXSsz5V61IBS8cYh) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Relayer \(Deluxe Edition\)](https://open.spotify.com/album/6MK9yp7hFeOLeR7F1hsBp6) | 21:49 |
 | 31 | [Ace Of Wands \- Remastered 2005](https://open.spotify.com/track/0Ll5xn9cgYYWYppP9bcnmK) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Voyage Of The Acolyte](https://open.spotify.com/album/4twSmtePdvfZhSpI2LV5W2) | 5:23 |

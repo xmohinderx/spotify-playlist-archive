@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-83 songs - 4 hr 49 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
+86 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chicago Bae](https://open.spotify.com/track/50ID9KN4y15DZIqjIIJXkP) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Chicago Bae](https://open.spotify.com/album/5cg6sg0Qd6rEqxs2qtlSG3) | 3:11 | 2021-10-22 |  |
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-02-18 | 2022-09-10 |
 | [Chocolate Love](https://open.spotify.com/track/50EwNNt7Xc3J7AVKLCcDiz) | [Sanura](https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Chocolate Love](https://open.spotify.com/album/2ugP6Pt70ut2Wq2OyzjWvq) | 3:10 | 2022-09-09 |  |
+| [dialtone.](https://open.spotify.com/track/6QSDAKIZetBwAyfrjVhuSo) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [dialtone.](https://open.spotify.com/album/51xVyHmgajtEEMJ8vt0jy9) | 3:12 | 2022-11-04 |  |
 | [Don't Stop The Groove](https://open.spotify.com/track/15qljmrsinxDSec3Y0Hql2) | [Rudey Barnes](https://open.spotify.com/artist/5KAkUAFi7rYidNl4fJ7ufn), [Sweet Opus Sounds](https://open.spotify.com/artist/3ndCAGlWJSk2aYUTKSMZ0u) | [Don't Stop the Groove](https://open.spotify.com/album/6SZFlLR9zLwOY1JpmcOlta) | 3:34 | 2021-10-22 | 2022-02-19 |
 | [Dragonball Durag \- Remix](https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Dragonball Durag \(Remix\)](https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg) | 3:41 | 2021-10-22 |  |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |
@@ -36,6 +37,7 @@
 | [High Up](https://open.spotify.com/track/3TcW4ih5EdzgMQd6tpfYEi) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 3:00 | 2022-02-18 |  |
 | [High Up](https://open.spotify.com/track/54pog56aKXKPjvSLNVpE61) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 3:00 | 2021-10-22 | 2022-10-13 |
 | [Hit the Floor](https://open.spotify.com/track/1exaZpUIfmgdBstO3DhAY8) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Hit the Floor](https://open.spotify.com/album/0PeJ3LjVw8IilrIQYBzN9Q) | 3:41 | 2021-10-22 | 2022-09-10 |
+| [Honey Filled Skies](https://open.spotify.com/track/7bz3qPnazPPEJMj2XtNVEd) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [BUD](https://open.spotify.com/album/3iHi5YiyGr5Q0ExbRWwWy1) | 3:10 | 2022-11-04 |  |
 | [I CAN'T](https://open.spotify.com/track/65b76kM7sMWzoBiUMjsjR8) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE MAKINGS OF ME](https://open.spotify.com/album/3nUqWkMIx1l7XMyRNPTHGE) | 1:45 | 2022-07-22 |  |
 | [I Feel a Change](https://open.spotify.com/track/61lMfe2aGI4EjrlVK03ZoI) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [I Feel a Change](https://open.spotify.com/album/3cctKHJqEMJ4p4MnELFvHq) | 4:26 | 2021-10-22 | 2022-02-19 |
 | [I Love Me Too](https://open.spotify.com/track/4UpbTA0kccMXQqfuOSSPi1) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Unpregnant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Gvg9EUzXnxltRlj2R2fCX) | 2:57 | 2021-10-22 | 2022-09-10 |
@@ -47,6 +49,7 @@
 | [Last Love](https://open.spotify.com/track/15hQDO74LAH1lXyqUDVNc4) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Last Love](https://open.spotify.com/album/6R6X46dtWsfUxWXoh2amTF) | 2:33 | 2021-10-22 |  |
 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 | 2021-10-22 |  |
 | [LET IT RAIN](https://open.spotify.com/track/3fh4rztBQBt8H2G0h3uaBg) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LET IT RAIN EP](https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D) | 3:41 | 2022-10-30 |  |
+| [Levitate](https://open.spotify.com/track/7DXZXZ9O4Yo0RR3SLkiNVj) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/48bWqxfsOW5aT80Td5g8AF) | 3:19 | 2022-11-04 |  |
 | [Lies](https://open.spotify.com/track/3tBOduABygszf71Q5e8Rpk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lies](https://open.spotify.com/album/145XAsVnMuaRic6vrnu1Z4) | 2:48 | 2021-10-22 |  |
 | [Lost](https://open.spotify.com/track/2tMYysaFyOLXamjOxGTavY) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Lost](https://open.spotify.com/album/6W3wz6FGqzDlQ2Ab4CHvym) | 2:59 | 2021-10-22 |  |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2022-02-18 |  |

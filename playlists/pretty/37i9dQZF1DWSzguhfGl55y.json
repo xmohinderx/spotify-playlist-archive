@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 578187,
+  "num_followers": 578312,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMDc3MGM0NDBmZTc5MTU0YTM2ZGY1MTk1NjMzNjY3ODRi",
+  "snapshot_id": "MTY2Mzc2MzgxMCwwMDAwMDAwMGE5MDkyNzdiMTM0YjkyYzU2NmI4MzNlMGFjMDBmZGM0",
   "tracks": [
     {
       "added_at": "2022-09-21 12:36:50",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-09-21 12:36:50",
       "album": {
-        "name": "Mercedes Dance",
-        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Klar",
-      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
-    },
-    {
-      "added_at": "2022-09-21 12:36:50",
-      "album": {
         "name": "Hinterland",
         "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 235186,
       "name": "Hinterland",
       "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
+    },
+    {
+      "added_at": "2022-09-21 12:36:50",
+      "album": {
+        "name": "Mercedes Dance",
+        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Klar",
+      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
     },
     {
       "added_at": "2022-09-21 12:36:50",

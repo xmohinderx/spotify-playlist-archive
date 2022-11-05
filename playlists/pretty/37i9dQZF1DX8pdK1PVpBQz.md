@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Breakfast Road\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,124 likes - 101 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,139 likes - 101 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 77 | [Autophobic](https://open.spotify.com/track/4prwBLbpJxnXwsBlAATy6i) | [Ash Lune](https://open.spotify.com/artist/4qGkfdK3YS6jr5oIQ0AkQI) | [Autophobic](https://open.spotify.com/album/3suvANNu4N1sJROa1c4CbC) | 2:24 |
 | 78 | [Me & You](https://open.spotify.com/track/4rMegGKoZR9VaR0dxhr6Z4) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Me & You](https://open.spotify.com/album/0JYUq6zTN5QIExsARJ11xC) | 2:10 |
 | 79 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 |
-| 80 | [OVERRATED](https://open.spotify.com/track/4rVj1hwnXyGUlQCtIT64mU) | [TIA](https://open.spotify.com/artist/6rVjgJjbtiyMmXi2YBryvk) | [OVERRATED](https://open.spotify.com/album/3bKzDRnuzmLoPCajV2lfTm) | 2:58 |
+| 80 | [OVERRATED](https://open.spotify.com/track/4rVj1hwnXyGUlQCtIT64mU) | [TIA](https://open.spotify.com/artist/6WyAhHtR8x0ylRGIAnDkck) | [OVERRATED](https://open.spotify.com/album/3bKzDRnuzmLoPCajV2lfTm) | 2:58 |
 | 81 | [AIR](https://open.spotify.com/track/476DtINIpwpqz5lRNF0bgN) | [Franko Gonzo](https://open.spotify.com/artist/07HyKUaifP40mpsVsLCacY) | [AIR](https://open.spotify.com/album/1AN6aU5OhQN3MTennn64Bq) | 3:17 |
 | 82 | [Like You](https://open.spotify.com/track/3wBTZFFrToQebI6GbJZmo5) | [Ian Buller](https://open.spotify.com/artist/5mV5RdUE0DQw0z9pJcrKBS) | [Like You](https://open.spotify.com/album/793A2r8FZ7SkWue4oijDdd) | 2:35 |
 | 83 | [Jalil](https://open.spotify.com/track/2RZTEawQEpDuy8w1AC7yee) | [Iti](https://open.spotify.com/artist/4XzWvZvATcsbwVv5q40FIC) | [Jalil](https://open.spotify.com/album/3Cj13r2LAAKWVvpVAM0KQz) | 5:00 |

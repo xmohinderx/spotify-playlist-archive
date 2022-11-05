@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Jose Manuel en portada. ",
-  "num_followers": 704158,
+  "num_followers": 704264,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUwMzg1OCwwMDAwMDAwMDU5YzRiMTcxNTg5NDM0NDQ5YTcxNDI3MTQ0YWRmZmNm",
+  "snapshot_id": "MTY2NzUwMzg1OCwwMDAwMDAwMDZkZGUwZDY3ZTNhYTNmNmJhMjMxMGFhZjUzNzU1OWVh",
   "tracks": [
     {
       "added_at": "2022-11-03 19:30:58",
@@ -863,18 +863,22 @@
     {
       "added_at": "2022-11-03 19:30:58",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
       },
       "artists": [
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
+      "duration_ms": 233096,
+      "name": "Pa Que Te Duela",
+      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
     },
     {
       "added_at": "2022-11-03 19:30:58",
@@ -899,22 +903,18 @@
     {
       "added_at": "2022-11-03 19:30:58",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 233096,
-      "name": "Pa Que Te Duela",
-      "url": "https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc"
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2022-11-03 19:30:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-03 19:30:58",
       "album": {
+        "name": "El Plumas (En Vivo)",
+        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210617,
+      "name": "El Plumas - En Vivo",
+      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
+    },
+    {
+      "added_at": "2022-11-03 19:30:58",
+      "album": {
         "name": "Qui\u00e9n Se Apunta",
         "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 220493,
       "name": "El Poder de Tu Mirada",
       "url": "https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW"
-    },
-    {
-      "added_at": "2022-11-03 19:30:58",
-      "album": {
-        "name": "El Plumas (En Vivo)",
-        "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 210617,
-      "name": "El Plumas - En Vivo",
-      "url": "https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s"
     },
     {
       "added_at": "2022-11-03 19:30:58",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-11-03 19:30:58",
       "album": {
+        "name": "Y Yo Voy",
+        "url": "https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Y Yo Voy",
+      "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"
+    },
+    {
+      "added_at": "2022-11-03 19:30:58",
+      "album": {
         "name": "Odio",
         "url": "https://open.spotify.com/album/0ms6fqC1BTdBC8EXPVu7fj"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 206918,
       "name": "Comandante Tanque",
       "url": "https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf"
-    },
-    {
-      "added_at": "2022-11-03 19:30:58",
-      "album": {
-        "name": "Y Yo Voy",
-        "url": "https://open.spotify.com/album/7qnA2gzuQmvSI07ddFCiIu"
-      },
-      "artists": [
-        {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
-        }
-      ],
-      "duration_ms": 177534,
-      "name": "Y Yo Voy",
-      "url": "https://open.spotify.com/track/1ld0TsEKmNTl3FptSEu0dI"
     },
     {
       "added_at": "2022-11-03 19:30:58",
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2022-11-03 19:30:58",
       "album": {
-        "name": "Junto A Un Perro",
-        "url": "https://open.spotify.com/album/31nxTwmvxvaG6RZ4xgUDfn"
+        "name": "Bla Bla Bla",
+        "url": "https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
         },
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+          "name": "Los Chavalos De La Perla",
+          "url": "https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO"
         }
       ],
-      "duration_ms": 212756,
-      "name": "Junto A Un Perro",
-      "url": "https://open.spotify.com/track/2twZUFQw50PVCR4FcIV8CJ"
+      "duration_ms": 136248,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL"
     }
   ],
   "unique_name": "Sierre\u00f1o 2022",

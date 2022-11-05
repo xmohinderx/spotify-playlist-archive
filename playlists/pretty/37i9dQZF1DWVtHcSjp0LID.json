@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 45802,
+  "num_followers": 45848,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGMwMThmOGIwMWI0Mjc0YTA5OTZkNGExZGQzMmJmOGJi",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGMyYjJiOGQwYjQ1MzVjZGVhYWM3Y2Y3NTYxNmQ1OTQ4",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 138371,
       "name": "Poly",
       "url": "https://open.spotify.com/track/70GeFg0Hy8uvIoujccyWgz"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Miracle Of The Rose EP",
+        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
+      },
+      "artists": [
+        {
+          "name": "Denis Horvat",
+          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+        }
+      ],
+      "duration_ms": 331486,
+      "name": "Miracle Of The Rose",
+      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Warped",
         "url": "https://open.spotify.com/album/6XCDqHX603iScKjeb9ffAG"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Miracle Of The Rose EP",
-        "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
       },
       "artists": [
         {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
+          "name": "Gavinco",
+          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
         }
       ],
-      "duration_ms": 331486,
-      "name": "Miracle Of The Rose",
-      "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+      "duration_ms": 407317,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj"
-      },
-      "artists": [
-        {
-          "name": "Gavinco",
-          "url": "https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6"
-        }
-      ],
-      "duration_ms": 407317,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "A Minor Thought",
         "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
       },
@@ -899,26 +899,6 @@
       "duration_ms": 372041,
       "name": "Loop No 1",
       "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
-      },
-      "artists": [
-        {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
-        }
-      ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -955,6 +935,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+      },
+      "artists": [
+        {
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+        }
+      ],
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -967,22 +967,6 @@
       "duration_ms": 346640,
       "name": "Cow Palace",
       "url": "https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1003,18 +987,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1031,6 +1015,22 @@
       "duration_ms": 369714,
       "name": "As Long as There's Sunset",
       "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Breathing Underwater",
+        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+      },
+      "artists": [
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 313079,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Two of Us",
-        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 344978,
-      "name": "Trivia",
-      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Foans",
         "url": "https://open.spotify.com/album/3TGK3p8EtGd4NeK80rXXWn"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 276115,
       "name": "Witness",
       "url": "https://open.spotify.com/track/2pRAMwsabRCbF8fnkTlWOF"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Two of Us",
+        "url": "https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 344978,
+      "name": "Trivia",
+      "url": "https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1167,6 +1167,22 @@
       "duration_ms": 366898,
       "name": "Orbital Hypnosis - Erly Tepshi Remix",
       "url": "https://open.spotify.com/track/2JoHFhA0p9bghOKkEWVK0C"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+      },
+      "artists": [
+        {
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Syvsover",
         "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
       },
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
-      },
-      "artists": [
-        {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 330145,
       "name": "Occasional Magic - Ulrich Schnauss Remix",
       "url": "https://open.spotify.com/track/4cVbjycdaVOrQUPtn7zauc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1339,22 +1339,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Confiscate / Elucidate",
-        "url": "https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb"
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
       "artists": [
         {
-          "name": "Simina Grigoriu",
-          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
-        },
-        {
-          "name": "Drumcomplex",
-          "url": "https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId"
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Confiscate - Drumcomplex Remix",
-      "url": "https://open.spotify.com/track/4DbaGKcHx7WHdgHwTsNQ8P"
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",

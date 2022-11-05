@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 21208,
+  "num_followers": 21207,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAwNDMsMDZjZTMwZGE4NmJkYTNlNWJkMmU2ODMwYjA4Njk3YWZjNmIyNTFmNw==",
+  "snapshot_id": "MTAwNDYsZDc3NjBiN2VkMTBlNmJkZGY0NDkyMzc2MDk4NDY0NjdhNTAzNzI2ZQ==",
   "tracks": [
     {
       "added_at": "2022-11-03 15:32:45",
@@ -167,6 +167,22 @@
       "duration_ms": 156610,
       "name": "Colours - Tsu Nami Remix",
       "url": "https://open.spotify.com/track/1Dsf8jltiUgFKOvSMXLUza"
+    },
+    {
+      "added_at": "2022-11-04 16:39:31",
+      "album": {
+        "name": "Psycho Bubblegum",
+        "url": "https://open.spotify.com/album/2D9lGhQ0uAM5WMzUiWQIyP"
+      },
+      "artists": [
+        {
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
+        }
+      ],
+      "duration_ms": 118285,
+      "name": "Psycho Bubblegum",
+      "url": "https://open.spotify.com/track/4ri7J4V85t9huVJ3aqxvdR"
     },
     {
       "added_at": "2022-10-09 20:00:48",
@@ -2323,6 +2339,22 @@
       "duration_ms": 157500,
       "name": "Chain Reaction (feat. GiGi Grombacher)",
       "url": "https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC"
+    },
+    {
+      "added_at": "2022-11-04 23:47:16",
+      "album": {
+        "name": "Crazy Life",
+        "url": "https://open.spotify.com/album/73j3szStTnau2muNhow0Vz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "No Good Without U",
+      "url": "https://open.spotify.com/track/5o4E8YFHl3ggOu1Sv6Y46M"
     }
   ],
   "unique_name": "Moving Castle Monthly",

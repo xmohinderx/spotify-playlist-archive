@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the spirit of independence! Cover: John Mark McMillan",
-  "num_followers": 42854,
+  "num_followers": 42864,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMDc0YWJmZjQ4M2I2ZmQyZjg5ZWNiM2M4NmVmNjQwNzcw",
+  "snapshot_id": "MTYwODI3MTMzNCwwMDAwMDAwMGVhMTE3MmM4ZTU2NDJkNDExNDc3ZDYwYTk4OTA2NzMz",
   "tracks": [
     {
       "added_at": "2020-12-18 06:02:14",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-12-18 06:02:14",
       "album": {
+        "name": "Wendigo",
+        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 261191,
+      "name": "Salome & Saint Procula",
+      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
+    },
+    {
+      "added_at": "2020-12-18 06:02:14",
+      "album": {
         "name": "Everything Is Possible",
         "url": "https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 206546,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/5UbZDlYc4tvEwJ9Wa7hUzm"
-    },
-    {
-      "added_at": "2020-12-18 06:02:14",
-      "album": {
-        "name": "Wendigo",
-        "url": "https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 261191,
-      "name": "Salome & Saint Procula",
-      "url": "https://open.spotify.com/track/3U6uXEUbqUT8OlYrLgccOX"
     },
     {
       "added_at": "2020-12-18 06:02:14",

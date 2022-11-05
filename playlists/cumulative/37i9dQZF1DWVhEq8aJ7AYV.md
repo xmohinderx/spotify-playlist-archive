@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-222 songs - 10 hr 58 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
+223 songs - 11 hr 0 min - [published](https://open.spotify.com/playlist/3DsOFDYX7Pe6GJzMeJ9QUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hippie Marihuano](https://open.spotify.com/track/7pB63ZDL6eTzBis4vyBn7T) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [The Return of the Champiñons](https://open.spotify.com/album/5GWNXyFe76ENUIcpXhSHcp) | 2:57 | 2021-09-03 | 2022-07-28 |
 | [Hombre Lobo Adolescente](https://open.spotify.com/track/1lVcqcdXrOqqtKyF8HoCWF) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Fráncisco Familiar](https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:42 | 2021-09-03 |  |
 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 | 2021-09-03 |  |
+| [Inadaptado](https://open.spotify.com/track/6Vu86eSC53iqUvwCH17y3E) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/2gSOt3UB4wkBFd8kWYzQCg) | 2:16 | 2021-09-03 |  |
 | [Inadaptado](https://open.spotify.com/track/4ldtWKLmk9zDwTK8fujYt7) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3) | [Inadaptado](https://open.spotify.com/album/11bwG8tiRDt9haCo3yOxM1) | 2:16 | 2021-09-03 | 2022-11-01 |
 | [Introducción](https://open.spotify.com/track/2aMG9YYvvHojwf7Dg7UAm6) | [Los Supersónicos](https://open.spotify.com/artist/4RFAwiTOsIV30Ef4A13gnE) | [Introducción](https://open.spotify.com/album/0NGc64udtT4FL26C0Cffxp) | 3:08 | 2021-09-03 | 2022-07-29 |
 | [Intruder](https://open.spotify.com/track/0WyAiymmsxOqoujctf8MrB) | [The Madeira](https://open.spotify.com/artist/0onb2OjHiGTxu5kylK1CXp) | [Ruins](https://open.spotify.com/album/3GYgCKeM5X33IflH762MAO) | 3:55 | 2021-09-03 | 2022-07-11 |
@@ -197,7 +198,7 @@
 | [Surf Mongol](https://open.spotify.com/track/48He8hwSetoMQPesFnnh6H) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/5DHdHG8bca3zNYCKmkl1ua) | 1:37 | 2021-09-03 | 2022-07-29 |
 | [surf nouveau](https://open.spotify.com/track/5T5ooP6MVPkoPi6vjJfnxo) | [The Aqua Velvets](https://open.spotify.com/artist/2jim1jhi2L8h3YnFicGbov) | [Nomad](https://open.spotify.com/album/5mbVRo73uR3kw6dD6GuFt7) | 3:39 | 2021-09-03 | 2022-08-22 |
 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 | 2021-09-03 | 2022-07-11 |
-| [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 | 2021-09-03 |  |
+| [Surfin Beer](https://open.spotify.com/track/230qkv2nzn62ejlAFo3flv) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:06 | 2021-09-03 | 2022-11-05 |
 | [Surfs You Right](https://open.spotify.com/track/4bvXLjqL3zgFAux0ZpXQQ0) | [Laika & The Cosmonauts](https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i) | [Cosmopolis](https://open.spotify.com/album/5vTTXLIeYHZKOOnENLn2wB) | 1:59 | 2021-09-03 | 2022-07-20 |
 | [Surfs You Right!](https://open.spotify.com/track/3RB3YqLO7eV8VDogl73bLg) | [Laika & The Cosmonauts](https://open.spotify.com/artist/6UmSNX1sClVl8rYnig3t9i) | [Cosmopolis 1988\-2008](https://open.spotify.com/album/6bqafutEdknOXRTPcdGuLC) | 1:59 | 2021-09-03 |  |
 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 | 2021-09-03 |  |

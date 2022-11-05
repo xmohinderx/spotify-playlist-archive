@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-523 songs - 1 day 8 hr 46 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
+524 songs - 1 day 8 hr 51 min - [published](https://open.spotify.com/playlist/6ihczCtWEYpK0uNMkSCVwY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Mouth Of The River](https://open.spotify.com/track/1dekgAFF9uTCqLsklDaCWb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:41 | 2022-05-25 |  |
 | [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-05-25 |  |
 | [Move Your Body](https://open.spotify.com/track/29JkmIEHcUg0R4BQ8o4PmJ) | [My Darkest Days](https://open.spotify.com/artist/64g59lHsc4g2jMFokrKDGW) | [My Darkest Days](https://open.spotify.com/album/2vFTIDhi10W1AdzL6GKpgO) | 3:13 | 2022-05-25 |  |
-| [Moving On](https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi) | 4:02 | 2022-05-25 |  |
+| [Moving On](https://open.spotify.com/track/7IiqF2tYiixnpBcFjkocjA) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [From Death To Destiny](https://open.spotify.com/album/3yPGBS6p3GyFb9EySzFyYi) | 4:02 | 2022-05-25 | 2022-11-05 |
 | [My Body](https://open.spotify.com/track/0vz75UFiIRLKJJiBqZ8rc8) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 3:41 | 2022-05-25 | 2022-07-26 |
 | [My Disaster](https://open.spotify.com/track/51vrcSF9BauU7OtXXKq42D) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 4:32 | 2022-05-25 | 2022-07-29 |
 | [My God Is the Sun](https://open.spotify.com/track/0MHHAIjPAd3OSfBS3H0fPg) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 | 2022-05-25 |  |
@@ -521,6 +521,7 @@
 | [Wolves in the Dark](https://open.spotify.com/track/1kiT87f5XRcGQEglXfnQp2) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Wolves in the Dark](https://open.spotify.com/album/3Sl6oWwQpPj8jeQNhVwEwm) | 3:34 | 2022-05-25 | 2022-07-28 |
 | [Wolves of Winter](https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 4:08 | 2022-05-25 | 2022-07-28 |
 | [Woman](https://open.spotify.com/track/1k0hXbEQPT4IRDVAUqA135) | [Electric Mary](https://open.spotify.com/artist/5L1rOWU3saDGam8QkWPDqO) | [Mother](https://open.spotify.com/album/5dr0xxDeUqQZ1RzIh8ImsR) | 2:39 | 2022-05-25 | 2022-07-21 |
+| [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 | 2022-05-25 |  |
 | [Woman](https://open.spotify.com/track/4LngVAmigX4WrBEDfonBlU) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 4:34 | 2022-05-25 | 2022-10-13 |
 | [Words As Weapons](https://open.spotify.com/track/25jSwur7S47WCiH0hQNUAo) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Isolate And Medicate](https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk) | 4:00 | 2022-05-25 | 2022-07-29 |
 | [World on Fire](https://open.spotify.com/track/50XuBmcV8THyLBczxD0c2k) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:31 | 2022-05-25 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 14424,
+  "num_followers": 14446,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMGNmMzA2Nzg0MjFiN2FjODdiZmQ2NTRmNTBlNjE1Y2U3",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDI4ZDkyYTAyZDRiODg4ZTY2Nzg0MWQxODkyYjQ3Y2Ix",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/735JDdMlCfiJDastCL3WTA"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Over Your Head",
-        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
-      },
-      "artists": [
-        {
-          "name": "Josh Smith",
-          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
-        }
-      ],
-      "duration_ms": 388893,
-      "name": "Pusher",
-      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
-    },
-    {
       "added_at": "2021-04-27 23:04:41",
       "album": {
         "name": "Raisin' Cain",
@@ -823,18 +807,34 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+        "name": "Over Your Head",
+        "url": "https://open.spotify.com/album/34kZKs1BDLcPE4SHGKCT4c"
       },
       "artists": [
         {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+          "name": "Josh Smith",
+          "url": "https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB"
         }
       ],
-      "duration_ms": 197237,
-      "name": "Gettin Old",
-      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+      "duration_ms": 388893,
+      "name": "Pusher",
+      "url": "https://open.spotify.com/track/6eN0XgXvdEr27mVjbodO9x"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "duration_ms": 353684,
+      "name": "White Rock Beer...8 cents",
+      "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
     }
   ],
   "unique_name": "Modern Blues Guitar",

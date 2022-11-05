@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-589 songs - 1 day 7 hr 20 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+590 songs - 1 day 7 hr 24 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Alla måste älska mig](https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [Alla måste älska mig](https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1) | 2:44 | 2022-06-09 | 2022-07-28 |
 | [Allt det vackra](https://open.spotify.com/track/3IrNhMvzard7nCKgfe18IW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Allt jag kan](https://open.spotify.com/track/7oBOc7PJvCvPTbwQEXgkBd) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG), [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Emily](https://open.spotify.com/album/0jiIw5BInP2WWcilBfQUJ2) | 2:58 | 2022-06-23 |  |
-| [Allt som är bra tar slut](https://open.spotify.com/track/2iF61pNmL69bH2EgkjDePN) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Allt som är bra tar slut](https://open.spotify.com/album/2RI9f4DdEZFeFfJdYz471K) | 2:27 | 2022-04-22 |  |
+| [Allt som är bra tar slut](https://open.spotify.com/track/2iF61pNmL69bH2EgkjDePN) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Allt som är bra tar slut](https://open.spotify.com/album/2RI9f4DdEZFeFfJdYz471K) | 2:27 | 2022-04-22 | 2022-11-05 |
 | [Allt är som det ska](https://open.spotify.com/track/37sOZJZ6K2OTwI2IWfEHKw) | [Maydar](https://open.spotify.com/artist/0pufHUD9Nj4HnRY5PWnH3y) | [Gav allt och det får räcka](https://open.spotify.com/album/4VN1X12HIJTpnkDOagc1mH) | 3:11 | 2022-04-28 | 2022-07-26 |
 | [Alone with Me](https://open.spotify.com/track/4LvpvKYAJY7S4oWygjyCbS) | [Bella Skyller](https://open.spotify.com/artist/5c8mQlkuj5vXcRsPvdAdjD) | [Alone with Me](https://open.spotify.com/album/6h1jgOTerKJ2t8xFF2Or7E) | 3:28 | 2022-03-17 | 2022-05-08 |
 | [Amazon](https://open.spotify.com/track/30QJyAyoVxj63NSr4zGXNg) | [Klara & Jag](https://open.spotify.com/artist/2X2m34XTofjWhhW0Wnya5k) | [Amazon](https://open.spotify.com/album/3sJuGsgyLtnAO2qS1un1Hk) | 3:25 | 2022-04-28 | 2022-07-08 |
@@ -89,6 +89,7 @@
 | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/track/2KnhQusDtv6RVE9iJXiYyE) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Cause In The End You Know That Everybody Dies](https://open.spotify.com/album/59Qf8zRZswDDDscEQhwSWM) | 3:33 | 2022-02-17 | 2022-09-16 |
 | [Champagne](https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Champagne](https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k) | 3:30 | 2022-04-22 |  |
 | [CHAMPION](https://open.spotify.com/track/2kd7MZ2LjqgEFWhtrLYKxC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [CHAMPION](https://open.spotify.com/album/4WEHQE9E7Mit4xhiDVelnC) | 3:01 | 2022-01-13 | 2022-04-02 |
+| [Champion](https://open.spotify.com/track/2XvvNyH2WkQjfpdkc8Lf5B) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Champion](https://open.spotify.com/album/6yZ6emVn0iq4PG0pKKymVk) | 3:30 | 2022-11-04 |  |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |

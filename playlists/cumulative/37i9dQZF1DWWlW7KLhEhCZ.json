@@ -53,7 +53,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 139635,
       "name": "100bateria bounce",
       "url": "https://open.spotify.com/track/6gsnTEvUtJciFD1naVPRil"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 151914,
       "name": "Destempo (feat. Suntizil)",
       "url": "https://open.spotify.com/track/7J9JqTza03PQUABkBzyR9P"
@@ -5824,6 +5824,32 @@
     },
     {
       "album": {
+        "name": "Gorila",
+        "url": "https://open.spotify.com/album/216a9gKJJi172mVVUTIh91"
+      },
+      "artists": [
+        {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Mc Sorriso",
+          "url": "https://open.spotify.com/artist/06XFOJXZf5Rw61z0KfhPnh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130645,
+      "name": "No Sigilo",
+      "url": "https://open.spotify.com/track/4EEMIpLXQAUb2yWvG4RWfP"
+    },
+    {
+      "album": {
         "name": "Virando o Jogo",
         "url": "https://open.spotify.com/album/0I2vzZesgmiYbWJnJvm1Qs"
       },
@@ -6069,7 +6095,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 183587,
       "name": "O Gangsta e a Lady",
       "url": "https://open.spotify.com/track/2oCAziI5hxnpMuPTwo4ERL"
@@ -7075,6 +7101,24 @@
       "duration_ms": 148301,
       "name": "Preto Gringo",
       "url": "https://open.spotify.com/track/0FTLQ42hhaQn0aI3EzNVpm"
+    },
+    {
+      "album": {
+        "name": "pretty boy swag",
+        "url": "https://open.spotify.com/album/3h9mDybWz0wC4VOJEhS9ZR"
+      },
+      "artists": [
+        {
+          "name": "sickobabyxo",
+          "url": "https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117707,
+      "name": "pretty boy swag",
+      "url": "https://open.spotify.com/track/5dumcXLNLZTgaduRk8skxk"
     },
     {
       "album": {
@@ -9347,6 +9391,24 @@
       "duration_ms": 137142,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/6gq131KTwKwH7zzPAGMVPi"
+    },
+    {
+      "album": {
+        "name": "\u00c9 S\u00f3 Um Jogo",
+        "url": "https://open.spotify.com/album/3chRw50tjsqUfYfdAX4gG0"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142105,
+      "name": "\u00c9 S\u00f3 Um Jogo",
+      "url": "https://open.spotify.com/track/63GdBCUANBwZlXqFUW89Yz"
     },
     {
       "album": {

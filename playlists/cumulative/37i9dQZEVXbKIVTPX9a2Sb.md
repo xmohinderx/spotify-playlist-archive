@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-973 songs - 2 day 1 hr 39 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
+974 songs - 2 day 1 hr 42 min - [published](https://open.spotify.com/playlist/39A4VmzfeilRyVkyO6ievQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Miami Vice](https://open.spotify.com/track/0Jkjh1DIVYmljderQnW9N3) | [Adam Bros](https://open.spotify.com/artist/7wn3illXj7bX1suFqQx7Xz), [Phil Phauler](https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf) | [Miami Vice](https://open.spotify.com/album/3pH4g78UzRUsaOlRKDmJ2z) | 2:58 | 2022-05-30 | 2022-06-17 |
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-01-17 | 2022-11-02 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
-| [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 |  |
+| [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-11-05 |
 | [MIESTO](https://open.spotify.com/track/3I4pdHvVnJyRT1OWrg31PS) | [I.M.T\. Smile](https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SRDCE ROZUM BLVD](https://open.spotify.com/album/6XZt4nuZH6nrUOaciOGfdt) | 3:57 | 2021-05-15 | 2021-08-17 |
 | [MIESTO](https://open.spotify.com/track/3xHmoH488pkQ7jsiRYByZq) | [I.M.T\. Smile](https://open.spotify.com/artist/5RWHGrgwCmIrv1EJlYGIIl), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [MIESTO](https://open.spotify.com/album/3nb1jani3wZTAjCwAir2xO) | 3:57 | 2021-04-16 | 2021-05-15 |
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-09 | 2021-05-20 |
@@ -931,6 +931,7 @@
 | [Woosy](https://open.spotify.com/track/4I8zrBLeJHdm6xT2LYq7sR) | [Man Of Flm](https://open.spotify.com/artist/2wuTlz98rpIDicHygQ8tC2) | [Woosy](https://open.spotify.com/album/5PfSxqTdgJ4pI2BFw3pSp1) | 1:05 | 2021-11-08 | 2021-11-12 |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-09-14 | 2022-09-16 |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-16 |
+| [WORTH NOTHING](https://open.spotify.com/track/5Zlb01Jcn0Ld49zazzZJSB) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [WORTH NOTHING](https://open.spotify.com/album/0oozY5vsoDRBVnAaStpBGI) | 2:44 | 2022-11-04 |  |
 | [Wrapped Around Your Finger](https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:13 | 2022-06-04 | 2022-06-07 |
 | [Wrecked](https://open.spotify.com/track/0gLFuoDun2yzBp67btvQU3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 4:04 | 2022-06-09 | 2022-06-11 |
 | [Wrecked](https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Wrecked](https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG) | 4:04 | 2021-07-04 | 2021-07-25 |

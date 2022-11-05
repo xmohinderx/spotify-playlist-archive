@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Louis Walker
 
-236 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
+237 songs - 16 hr 1 min - [published](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [The Longer That I Live](https://open.spotify.com/track/4j5JuvF1nFJ0tvD3KdJfNr) | [Curtis Salgado](https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0) | [The Longer That I Live](https://open.spotify.com/album/50d66oouWFXRbLmrxDonVF) | 3:51 | 2021-02-26 | 2022-04-23 |
 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 | 2021-03-19 | 2022-04-23 |
 | [The Pleasure's All Mine](https://open.spotify.com/track/7aMpVz4aI7m7qTaBz1tuW2) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Pleasure's All Mine](https://open.spotify.com/album/2eU1uCapVBdvZ2OHIFKgqu) | 3:43 | 2020-12-14 | 2022-02-26 |
+| [The Question](https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Question](https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd) | 7:27 | 2022-11-04 |  |
 | [The Razor's Edge](https://open.spotify.com/track/7nTpEMGsLOfPL9ke7F2SFH) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [The Razor's Edge](https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn) | 3:02 | 2022-03-25 | 2022-05-28 |
 | [The Weight of the World](https://open.spotify.com/track/19WctrvueGYOWMe6eBFmBi) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [The Weight of the World](https://open.spotify.com/album/3RQaoFuQJJNevZPJHOG0I9) | 4:25 | 2022-10-21 |  |
 | [The Well](https://open.spotify.com/track/6PPKEOG6TwpExLXDnj1QKH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Well](https://open.spotify.com/album/3rADwGRxW5AF7lya4QMFgA) | 2:57 | 2020-12-14 | 2022-02-26 |

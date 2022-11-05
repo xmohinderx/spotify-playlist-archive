@@ -1,12 +1,12 @@
 {
   "description": "Gym harder, better, faster and longer. Yes, you CAN do it.",
-  "num_followers": 987998,
+  "num_followers": 988061,
   "original_name": "You Can Do It",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NTQ3MiwwMDAwMDAwMDg1YmUwMzU1M2I0NDgxNjBmNGY0NGVlMjMzZDQ5M2Zk",
+  "snapshot_id": "MTY2Njk3NTQ3MiwwMDAwMDAwMDBiNGNlMDRkOTRkNWI4OGQ4ZTMyNzQ0ZTZiMzBlYTE2",
   "tracks": [
     {
       "added_at": "2022-10-28 16:44:32",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-10-28 16:44:32",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/20Iy2nvzVJl0X1zeoW5T2U"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
-          "name": "MIST",
-          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/6UoIrO15w3w62Jj8kGCnR7"
-    },
-    {
-      "added_at": "2022-10-28 16:44:32",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 142349,
       "name": "Go",
       "url": "https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb"
+    },
+    {
+      "added_at": "2022-10-28 16:44:32",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/20Iy2nvzVJl0X1zeoW5T2U"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6UoIrO15w3w62Jj8kGCnR7"
     },
     {
       "added_at": "2022-10-28 16:44:32",
@@ -943,22 +943,18 @@
     {
       "added_at": "2022-10-28 16:44:32",
       "album": {
-        "name": "Used to This",
-        "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/5cgcl6FTzwH7a809sDZtrs"
       },
       "artists": [
         {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Used To This",
-      "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
+      "duration_ms": 202633,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/3NiB3v3elOuAy4Ij51F4Sl"
     }
   ],
   "unique_name": "You Can Do It",

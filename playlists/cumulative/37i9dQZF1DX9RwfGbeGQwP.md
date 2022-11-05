@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-882 songs - 1 day 9 hr 28 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
+883 songs - 1 day 9 hr 30 min - [published](https://open.spotify.com/playlist/4cxKJAR848gUWizvwypmvt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [cognitive biases](https://open.spotify.com/track/41t87rDKN1WBgyefuprQzR) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [cognitive biases](https://open.spotify.com/album/4qlD7W607jhmZJfjTrXrVX) | 3:20 | 2022-08-12 |  |
 | [Cold](https://open.spotify.com/track/4eXX8nK66Bl9Xx5wmmmKwV) | [Hallucination Orbit](https://open.spotify.com/artist/2TsrJ8aEu8sWhKWlv8AMEO) | [Cold](https://open.spotify.com/album/0nYl18rnqfe2UzBE98mvmr) | 2:12 | 2022-01-27 | 2022-06-03 |
 | [Colored Drumsticks](https://open.spotify.com/track/3258U6VvLSH68WAyZ1X0yM) | [Geo Boman](https://open.spotify.com/artist/7hHwpEqRmw6D1kVrPXeuEQ) | [Colored Drumsticks](https://open.spotify.com/album/6m0GMR5nl3nzAoGtPUQWM5) | 1:41 | 2022-09-02 |  |
-| [Colors of the Sky](https://open.spotify.com/track/1bFyCsovM08mc6UjBhrOAX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/4pNpdOW1qXoVbRMxHTiNCu) | 2:08 | 2022-04-15 |  |
+| [Colors of the Sky](https://open.spotify.com/track/1bFyCsovM08mc6UjBhrOAX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/4pNpdOW1qXoVbRMxHTiNCu) | 2:08 | 2022-04-15 | 2022-11-05 |
+| [Colors of the Sky](https://open.spotify.com/track/3CUBpil1eMw2K0HPlik9yg) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Colors of the Sky](https://open.spotify.com/album/3mEs23uIMwl4dwCnlUtrYY) | 2:08 | 2022-10-28 |  |
 | [Colors Reborn](https://open.spotify.com/track/35TEwXps2V5OY2SQuj4MZR) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Colors Reborn](https://open.spotify.com/album/01qBohYObZzLvk49rEtlov) | 2:32 | 2022-01-27 | 2022-06-10 |
 | [Comfy Chair](https://open.spotify.com/track/4rQ0pTm3poVLafVbXCjnIy) | [Jaeden Camstra](https://open.spotify.com/artist/1xOgtDBKnZvSLAgCVSOmNH) | [Escapades, Vol\. 1](https://open.spotify.com/album/5wiDa0usgyl67zSCEC35Lj) | 1:37 | 2022-01-27 | 2022-06-10 |
 | [Common Sunflower](https://open.spotify.com/track/2LWBOPGmgxCI9awFaBN5JL) | [Magn Us](https://open.spotify.com/artist/2YlPD3Lp1lnP0lFU43ApzH) | [Common Sunflower](https://open.spotify.com/album/7nAKPjLRFKenuKjjNQOYRw) | 1:39 | 2022-01-27 |  |

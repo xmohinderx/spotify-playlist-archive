@@ -4,7 +4,7 @@
 
 > Taking it way back! Cover: Jay\-Z
 
-187 songs - 13 hr 23 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
+188 songs - 13 hr 28 min - [published](https://open.spotify.com/playlist/4E8QveJMku5inuSzu9H1Ch)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 | 2022-03-13 |  |
 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 | 2022-03-13 | 2022-07-23 |
 | [I Can't Wait](https://open.spotify.com/track/1JfPdIujVi77okgLMfW110) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Barbershop 2 \(Back In Business\)](https://open.spotify.com/album/54KwLg1akRGVJP0kQ7DKrM) | 4:33 | 2022-02-11 | 2022-03-14 |
-| [I Know](https://open.spotify.com/track/6B6xRGiXeEBRDGjrC7cfx4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 3:42 | 2022-11-03 |  |
+| [I Know](https://open.spotify.com/track/6B6xRGiXeEBRDGjrC7cfx4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 3:42 | 2022-11-03 | 2022-11-05 |
 | [I Really Mean It \- Skit 1](https://open.spotify.com/track/1IQPLs3r6lt4iNrQzAhnWs) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:22 | 2021-08-12 | 2022-02-12 |
 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 | 2022-10-04 |  |
 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 | 2021-03-05 | 2022-02-12 |
@@ -188,6 +188,7 @@
 | [What's My Name](https://open.spotify.com/track/6OQrmEIK8KOOVcSoSaEo40) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 3:52 | 2021-04-09 | 2022-02-12 |
 | [What's Your Fantasy \(Featuring Shawna\)](https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Back For The First Time](https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV) | 4:35 | 2022-03-13 | 2022-05-27 |
 | [Whateva Man](https://open.spotify.com/track/0pSaDwrMLM7F82LWJg9v6s) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ) | [Muddy Waters](https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h) | 3:08 | 2021-12-14 | 2022-02-12 |
+| [Where I'm From](https://open.spotify.com/track/0R0zZnqPg7yOWb4PRmW8nC) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:26 | 2022-11-04 |  |
 | [Who Am I \(What's My Name\)?](https://open.spotify.com/track/12CdB878c6n94tTlNfPcCv) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C) | 4:06 | 2022-02-11 | 2022-05-27 |
 | [Who Dat](https://open.spotify.com/track/2rbb3lOMI71NIMbJCS1wQQ) | [JT Money](https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz) | [Pimpin' On Wax](https://open.spotify.com/album/47hDRYMv9yCkQV0svP9GFP) | 3:51 | 2021-03-05 | 2022-02-12 |
 | [Who's That Girl?](https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 4:41 | 2022-02-11 | 2022-03-14 |

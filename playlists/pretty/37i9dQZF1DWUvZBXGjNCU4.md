@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,184 likes - 141 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,325 likes - 141 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 100 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 |
 | 101 | [Je Te Manque?](https://open.spotify.com/track/3OH8rKFY3rNV6Y7HMIate7) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Je Te Manque?](https://open.spotify.com/album/5VepAU0NTh96kQZmkFIvEb) | 2:56 |
 | 102 | [Crowns](https://open.spotify.com/track/1tYypP1QZl7IPoeFsW0yRm) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [Crowns](https://open.spotify.com/album/0CpZPSBZYRkXxCnOeBZmJA) | 2:15 |
-| 103 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 |
+| 103 | [Sky](https://open.spotify.com/track/3TemtSpYdgJcDU6SotuNXV) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/3B4PBBGRzwgC7rEvljwBZ0) | 1:53 |
 | 104 | [Pacific Northwest](https://open.spotify.com/track/5lQYoVqNiXEyqfRiwWOI4v) | [Roy Edwin Williams](https://open.spotify.com/artist/0VEjBPjfkuIaX9CM2G53oW) | [Pride of Pennsylvania](https://open.spotify.com/album/6S7lCi6gre8ywHHxXjtUQO) | 3:22 |
 | 105 | [Calming Rain](https://open.spotify.com/track/7gGoipsdaoYS99Sjw7gizS) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Say My Name!](https://open.spotify.com/album/3STB33e4MiSaNNvU2XXPbh) | 3:07 |
 | 106 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 140 | [Journey Home](https://open.spotify.com/track/1n8JIhb5wq50ZNvuas4ceq) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Journey Home](https://open.spotify.com/album/2KGpAwyPvctqPpcpzLpRwh) | 3:08 |
 | 141 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 |
 
-Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDJiMzM2ZWJjZDgxOWQ3ODllMGM5OWE0M2E2Mzc0MDcy`
+Snapshot ID: `MTY2Njk2NTAxNSwwMDAwMDAwMDNkMWIzNjIzYzU3NmE1ZTMyM2UxZjcyYzc1ZGUxMjJm`

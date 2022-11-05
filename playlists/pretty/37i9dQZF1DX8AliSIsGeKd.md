@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: SKALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,239 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,486 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 32 | [Club Der Misionaere \- Andreas Henneberg Remix](https://open.spotify.com/track/1ENMXRZm22ANsTu2kDzIWT) | [Adrian Hour](https://open.spotify.com/artist/6eBe6zD6bYfdYUjwB1YStj), [Ale Castro](https://open.spotify.com/artist/0H5tAhPTsxDUbL3wtxXajP), [Andreas Henneberg](https://open.spotify.com/artist/32fCH0Z7B8ydcz40ybZdqg) | [Club Der Misionaere \(Andreas Henneberg Remix\)](https://open.spotify.com/album/19MspxPupnbwz2B1VBxmgL) | 5:55 |
 | 33 | [Dramatizer](https://open.spotify.com/track/4vlIztxpOQ3qRwDRv3no6h) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Dramatizer](https://open.spotify.com/album/6xLXv5SyVgNJEtcaJdNLUD) | 6:08 |
 | 34 | [Trigger \- Edit](https://open.spotify.com/track/6Vf7Vg5We3Eja5CUBqBzyf) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Trigger](https://open.spotify.com/album/2ZytBBQF1Vc9gW0ovC42Ic) | 2:22 |
-| 35 | [Poison \- Miane Remix](https://open.spotify.com/track/4UcSPBCaBihVGQTPF8hvet) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/4cfkKCS3SAy9YdfIHWyOf5) | 2:32 |
+| 35 | [Poison \- Miane Remix](https://open.spotify.com/track/1d3Eb4PWk24woAfg2YaDsd) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Poison](https://open.spotify.com/album/51TtzHlZRMD7Vxky2YUOPW) | 2:32 |
 | 36 | [Amnesia](https://open.spotify.com/track/4twfO41BhJml2pbakKniZi) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Amnesia](https://open.spotify.com/album/2ctzau5sfX05QJl5VPB7Ib) | 6:43 |
 | 37 | [Acid Voices](https://open.spotify.com/track/2LBa1pXDA014OjMj51mKA3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Acid Voices](https://open.spotify.com/album/3xRbKryQ74XoKuqabTyx3E) | 6:15 |
 | 38 | [Stargazer](https://open.spotify.com/track/1ahg9arFsLjjHvlMid4NFn) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Stargazer](https://open.spotify.com/album/7mnvQNZ0TYnGZPC4HXUUQn) | 6:13 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 77 | [A Fistful Of Stars](https://open.spotify.com/track/5Kv0r6pq3kV0hEjKZ9Cdx3) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [A Fistful Of Stars](https://open.spotify.com/album/4T3kYrcheytbUPWGDFNbZm) | 8:39 |
 | 78 | [We'll Maintain](https://open.spotify.com/track/23zt3ZGWNVbSIAIgyn0ZAz) | [Olive T](https://open.spotify.com/artist/0zBBG1zpWWiF5OZYSoD1Ud) | [We'll Maintain](https://open.spotify.com/album/2PA2vTLplYN9RJEVyIdMbD) | 5:07 |
 
-Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDY2NWFlMGM3YzY2MmQ5ZGYwM2VlYWJjNDA4ZWVmMjNl`
+Snapshot ID: `MTY2NzUxNjQwMCwwMDAwMDAwMDAwOTQ0YTc3YjA0N2U3ZmM4OGQ5NjY1MzI1NTkwZTJi`

@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-559 songs - 21 hr 59 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
+561 songs - 22 hr 4 min - [published](https://open.spotify.com/playlist/6x1tKHsHFtY3Q3ZwJ2jk38)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
 | [T's in Model T's](https://open.spotify.com/track/52Iy35HXTRVQ8J3Y0RPDRk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Tangerine Tanlines](https://open.spotify.com/album/3drfIDIHXitp4lycIMqgkU) | 2:53 | 2022-04-15 | 2022-05-20 |
 | [Tainted Tuesday](https://open.spotify.com/track/697kvLFUMf4eK85X1i1vTG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Tainted Tuesday](https://open.spotify.com/album/0Ktq1iZScnytfmO6wAxVDj) | 3:35 | 2022-04-15 | 2022-09-17 |
-| [Taking Off](https://open.spotify.com/track/6ujUiKIc7IEMZa6gBSpvbG) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Taking Off](https://open.spotify.com/album/7hKLtGjs3Dw2u1mMAJ4Bci) | 2:24 | 2022-04-22 |  |
+| [Taking Off](https://open.spotify.com/track/6ujUiKIc7IEMZa6gBSpvbG) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Taking Off](https://open.spotify.com/album/7hKLtGjs3Dw2u1mMAJ4Bci) | 2:24 | 2022-04-22 | 2022-11-05 |
+| [Taking Off](https://open.spotify.com/track/7tjHh8qi7gri6XPJUWX04T) | [Roses](https://open.spotify.com/artist/3abdd92dF9ZxywaIBWKKcp), [Crispy Beats](https://open.spotify.com/artist/638OkTe9UKWEGrFHtFR6VH) | [Taking Off](https://open.spotify.com/album/4V2j7hDBQ8p7NgH76vizCs) | 2:24 | 2022-10-28 |  |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-15 | 2022-09-03 |
 | [Tea For Three](https://open.spotify.com/track/7yemMdaZ7y9HS5vOkKBlUO) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Lo\-fi Addiction](https://open.spotify.com/album/2C0wFz5gPDjgQQIw0f6wuo) | 2:17 | 2022-04-15 | 2022-08-12 |
 | [Tears Letter](https://open.spotify.com/track/6WnL7XZeTosmToGsaMypPl) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Postcards](https://open.spotify.com/album/4m6fUJQlbYxhTy9DbeM4FG) | 2:08 | 2022-04-15 | 2022-09-09 |
@@ -518,7 +519,8 @@
 | [tubulars](https://open.spotify.com/track/2FDXqN9DvsbafzQjp0e32T) | [rob aspen](https://open.spotify.com/artist/51acBWR9xEgFguEAEj3jqV) | [tubulars](https://open.spotify.com/album/43cQfbyKgAQ6wNLs45gPcr) | 1:50 | 2022-04-15 | 2022-05-27 |
 | [Turntable Tale](https://open.spotify.com/track/01L7KnIlkQVwAVpxbh3TKr) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Turntable Tale](https://open.spotify.com/album/4XacEvaFzX4GdDkUV6x1E9) | 2:59 | 2022-04-15 | 2022-09-09 |
 | [Twenty Five](https://open.spotify.com/track/7oPJZwkiW8zL14iKafLKu4) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Twenty Five](https://open.spotify.com/album/1e8dg8wOw5eOfc7a3Qvixg) | 1:59 | 2022-04-15 |  |
-| [Twinkle of Night](https://open.spotify.com/track/33TPeixISqICO4DwD6bZIB) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/4bLMle8oRWghYRpwLww7dL) | 2:57 | 2022-06-17 |  |
+| [Twinkle of Night](https://open.spotify.com/track/1uRExJnQi0lXXbfHzcSXRX) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/0ZE7GZWUauKoR06f9rli3a) | 2:57 | 2022-10-28 |  |
+| [Twinkle of Night](https://open.spotify.com/track/33TPeixISqICO4DwD6bZIB) | [BestPaul](https://open.spotify.com/artist/4eU3csxp3Lu6bHzPjS2TPx), [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Twinkle of Night](https://open.spotify.com/album/4bLMle8oRWghYRpwLww7dL) | 2:57 | 2022-06-17 | 2022-11-05 |
 | [Two Margaritas Please](https://open.spotify.com/track/7yljYFhmlXd9N9JkM07ps5) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Two Margaritas Please](https://open.spotify.com/album/4mAhVAyMEcPlFdRM6yIvBF) | 2:08 | 2022-04-15 | 2022-07-29 |
 | [Two Sugars](https://open.spotify.com/track/78LwMq5kE4abuzxwFZBTpl) | [Zil Baii](https://open.spotify.com/artist/2GhKieYf0xORLI4shTjq9b) | [Two Sugars](https://open.spotify.com/album/3cm8bQErqffQQ8SMa0CXP3) | 2:37 | 2022-04-15 |  |
 | [Ubud Sun](https://open.spotify.com/track/11IDICxxV514u6S6IrOqQj) | [Dre Dilla](https://open.spotify.com/artist/3iEZGJz6uRmSbCbtxR4Zde) | [Ubud Sun](https://open.spotify.com/album/4ZN0jzmRIm9LRnZKdBWJlW) | 3:18 | 2022-04-15 | 2022-07-29 |

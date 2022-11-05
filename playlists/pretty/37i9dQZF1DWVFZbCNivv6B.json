@@ -1,12 +1,12 @@
 {
   "description": "Hip-hop\u00a0mexicano,\u00a0rimas de la calle,\u00a0en viva voz de Eme MalaFe.",
-  "num_followers": 594806,
+  "num_followers": 595028,
   "original_name": "Arena Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2Njk3NTYyMywwMDAwMDAwMDJiMGZjZTdjZmI4MzI0NzZmOTIyYmZiNWI5OGI4MDk4",
+  "snapshot_id": "MTY2NzU0MTYwMCwwMDAwMDAwMDhlYTAzNTgwMWFlNTRjZGMzYjFiNWMzNTJiNjcyY2Zk",
   "tracks": [
     {
       "added_at": "2022-10-28 16:47:03",
@@ -59,6 +59,22 @@
       "duration_ms": 257846,
       "name": "Ahog\u00e1ndome en Alcohol",
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": "2022-11-04 06:00:00",
+      "album": {
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
     },
     {
       "added_at": "2022-10-28 16:47:03",

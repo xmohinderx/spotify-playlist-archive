@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 5352,
+  "num_followers": 5369,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMDk2ZGFjOTcyNDk1NTUzYjViYTRmYWQ1MGJkNjczMzdi",
+  "snapshot_id": "MTYxNTQ4MDYxMCwwMDAwMDAwMGFlZDk4MTIzOWI0MTMzZDA3MDZmYjU4NjYwNzc5MmFh",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -135,22 +135,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "SOFA",
-        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "SOFA",
-      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Solar",
         "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 219306,
       "name": "I Need A Girl (Feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "SOFA",
+        "url": "https://open.spotify.com/album/7krvtQD2rv7PGdRaLLPW3P"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "SOFA",
+      "url": "https://open.spotify.com/track/3dbyyPqdnNZkvPr7PptIRJ"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -255,6 +255,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Our Love is Great",
         "url": "https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW"
       },
@@ -267,26 +283,6 @@
       "duration_ms": 233003,
       "name": "Maybe It\u2019s Not Our Fault",
       "url": "https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 191278,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -327,18 +323,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 227021,
-      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
-      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
+      "duration_ms": 191278,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/0L26wNt3MUtn7BrTaHGtjj"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -359,18 +359,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
         }
       ],
-      "duration_ms": 247173,
-      "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
-      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -407,6 +407,22 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/3nf5TdSHODl88hYx0EEtmC"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "\uc6b0\uc8fc\ub97c \uac74\ub108 Across the universe",
+      "url": "https://open.spotify.com/track/37LGPxmWd0LLKt80PKEDfz"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 263644,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Solar International",
-        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
-      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -475,54 +475,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "IF I WERE YOU",
-      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "Reasons 4 Breathing",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
-        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
-      },
-      "artists": [
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 261276,
-      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
-      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
       },
@@ -539,18 +491,34 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Like The Bible",
-        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 259626,
-      "name": "Break Away",
-      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
+      "duration_ms": 210258,
+      "name": "IF I WERE YOU",
+      "url": "https://open.spotify.com/track/3w0IoJb39EAAVY8ELVr8Vl"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -571,6 +539,38 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+        "url": "https://open.spotify.com/album/1zMMuseo6mCUyuRhkYftgN"
+      },
+      "artists": [
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 261276,
+      "name": "\ud574\uc904 \uc218 \uc5c6\ub294 \uc77c",
+      "url": "https://open.spotify.com/track/0uWj1pzNFKcBjrmiwSj4dE"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Like The Bible",
+        "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
+      },
+      "artists": [
+        {
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+        }
+      ],
+      "duration_ms": 259626,
+      "name": "Break Away",
+      "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -603,6 +603,26 @@
       "duration_ms": 337066,
       "name": "In dreams",
       "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -655,22 +675,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -687,22 +691,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+      "duration_ms": 202946,
+      "name": "\u1106\u1175\u110b\u116f\u110b\u116d I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -755,22 +755,6 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "Reasons 4 Breathing",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
-    },
-    {
-      "added_at": "2021-03-11 16:36:50",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 277746,
       "name": "\uc5ec\uc790",
       "url": "https://open.spotify.com/track/4rbMCf0AKkx2QaarW4COPD"
+    },
+    {
+      "added_at": "2021-03-11 16:36:50",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2021-03-11 16:36:50",

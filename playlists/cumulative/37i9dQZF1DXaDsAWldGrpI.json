@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Human (Live)",
+        "url": "https://open.spotify.com/album/75AJY5pPe1yDhROx4UL9cg"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Human - Live",
+      "url": "https://open.spotify.com/track/3NgbbHsDqsnGkV71PRgs2K"
+    },
+    {
+      "album": {
         "name": "Humble And Kind (Live)",
         "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
       },

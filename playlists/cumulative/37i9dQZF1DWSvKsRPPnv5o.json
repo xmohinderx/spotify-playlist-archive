@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: YG",
+  "description": "Holdin' it down for the westside. Cover: Roddy Ricch",
   "name": "Westside Story",
   "published_playlist_ids": [
     "5aX0s9SI2pKqP9pXX6vZ2V"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 131538,
       "name": "Deep End (feat. Lil Skies)",
       "url": "https://open.spotify.com/track/0Ls2AaWYmU2LRzWAmFdlkc"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 161557,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1gkC2g8eAm84eJetaBaoJ1"
@@ -2734,6 +2734,32 @@
     },
     {
       "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/381kTih0S6k1pQKBuIzf5o"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Killa Cam",
+          "url": "https://open.spotify.com/artist/4pr3PuSCMEUzZSTPvxJqt7"
+        },
+        {
+          "name": "Bla$ta",
+          "url": "https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130054,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/3f9wbU2d3wjWuikyhZGFIp"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0iNo8CyiLfDf2oTgMoStcj"
       },
@@ -2999,7 +3025,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 126049,
       "name": "Jeeezy WYA",
       "url": "https://open.spotify.com/track/2stq5NpGRf75lIYqwgchHB"
@@ -3400,6 +3426,24 @@
     },
     {
       "album": {
+        "name": "Location",
+        "url": "https://open.spotify.com/album/5vqQrL0w2FlyNe81I9zsLb"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147285,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/7HB2G1F0BE3COMAuThZLmc"
+    },
+    {
+      "album": {
         "name": "Superghetto (Deluxe)",
         "url": "https://open.spotify.com/album/68xxmL8Whary8yH0p4K0VP"
       },
@@ -3455,7 +3499,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 183750,
       "name": "Low Temp",
       "url": "https://open.spotify.com/track/3rsAFeBj4RrNyN5aZ8ECLz"
@@ -3834,6 +3878,28 @@
     },
     {
       "album": {
+        "name": "Name Ring Bells",
+        "url": "https://open.spotify.com/album/2ymHsWePPtAKBAnlLdaFCq"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "88thagang",
+          "url": "https://open.spotify.com/artist/1m3X5E8NvaHIKLTk1xf2af"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Name Ring Bells",
+      "url": "https://open.spotify.com/track/60isa06LcZlUAaPsWKhuov"
+    },
+    {
+      "album": {
         "name": "Need Love",
         "url": "https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj"
       },
@@ -4085,6 +4151,28 @@
       "duration_ms": 174786,
       "name": "No Mop",
       "url": "https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM"
+    },
+    {
+      "album": {
+        "name": "Rather Rich Than Famous",
+        "url": "https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191072,
+      "name": "No Retreat (feat. Jay Rock)",
+      "url": "https://open.spotify.com/track/6t1LxXjWG4zwhTDGRjGrgx"
     },
     {
       "album": {
@@ -4735,7 +4823,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 174616,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1gHamNXNt8OjoynRvGhg1a"
@@ -5787,6 +5875,28 @@
       "duration_ms": 332228,
       "name": "The Heart Part 5",
       "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "album": {
+        "name": "Rather Rich Than Famous",
+        "url": "https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125391,
+      "name": "The Prince (feat. E-40)",
+      "url": "https://open.spotify.com/track/7Mr251YIAAJW7rpAWglSIS"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 61612,
+  "num_followers": 61899,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDBmYjJmNzU4ZDUwMTdkMGQ5YzVkZDYxOWQxN2EwMzBj",
+  "snapshot_id": "MTY2NjMwMzIwMCwwMDAwMDAwMDc3ZWU0YmFkNGZhYmNmMmRlZThjNzIwNGRkOGY2OGRl",
   "tracks": [
     {
       "added_at": "2022-10-20 22:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "The Twelve Days of Christmas",
-      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
         "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 137880,
       "name": "Christmas Island",
       "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "The Twelve Days of Christmas",
+      "url": "https://open.spotify.com/track/0vJXil4qDbtkwXmxo0Rl1T"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -635,22 +635,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Fred Waring & The Pennsylvanians",
-          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 185626,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"
+      "duration_ms": 175001,
+      "name": "Christmas In New Orleans",
+      "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -671,18 +671,22 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
       },
       "artists": [
         {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Fred Waring & The Pennsylvanians",
+          "url": "https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC"
         }
       ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+      "duration_ms": 185626,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 175001,
-      "name": "Christmas In New Orleans",
-      "url": "https://open.spotify.com/track/280jC1bGyGtZq3VXsSk6hH"
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "A Very Swingin\u2019 Basie Christmas!",
-        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
-      },
-      "artists": [
-        {
-          "name": "Count Basie Orchestra",
-          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 194613,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6fdJPqS50ZnxNnGk7O4wee"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Hark! The Herald Angels Sing",
-        "url": "https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko"
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
       "artists": [
         {
-          "name": "Foster Davies",
-          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 162223,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
+      "duration_ms": 203000,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/3wP0qYEVSwTpxpFtuAyUko"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Foster Davies",
+          "url": "https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/4NqVOcOTZDGbr9KP5ZaMxF"
+      "duration_ms": 162223,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4zVgLxk3wgdRUZi73eKCty"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "The Time of the Year",
-        "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
-      },
-      "artists": [
-        {
-          "name": "Niklas Gabrielsson with Martin Landstr\u00f6m & His Orchestra",
-          "url": "https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm"
-        }
-      ],
-      "duration_ms": 208146,
-      "name": "The Time of the Year",
-      "url": "https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "The Capitol Vaults Jazz Series",
         "url": "https://open.spotify.com/album/4S6Mb14EIOM4aIrBf3i9x3"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 346440,
       "name": "Santa Claus Blues - 2004 - Remaster",
       "url": "https://open.spotify.com/track/2Hm0sak8kDUjhGTQfHzPjq"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "The Time of the Year",
+        "url": "https://open.spotify.com/album/3uhQZntd41T2H4mL5eO6w8"
+      },
+      "artists": [
+        {
+          "name": "Niklas Gabrielsson with Martin Landstr\u00f6m & His Orchestra",
+          "url": "https://open.spotify.com/artist/6tXmWC5IoHPCCyKzg9Pgjm"
+        }
+      ],
+      "duration_ms": 208146,
+      "name": "The Time of the Year",
+      "url": "https://open.spotify.com/track/5QgDnPnQrHvM9x9p67XAYg"
     },
     {
       "added_at": "2022-10-20 22:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-10-20 22:00:00",
       "album": {
-        "name": "The Very Best Time Of Year",
-        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "Once A Year Miracle",
-      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
-    },
-    {
-      "added_at": "2022-10-20 22:00:00",
-      "album": {
         "name": "Christmas With Etta Jones",
         "url": "https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 235106,
       "name": "Ring The Bells",
       "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
+    },
+    {
+      "added_at": "2022-10-20 22:00:00",
+      "album": {
+        "name": "The Very Best Time Of Year",
+        "url": "https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Once A Year Miracle",
+      "url": "https://open.spotify.com/track/3HTRqeCKO4BSMflq1DiTWN"
     },
     {
       "added_at": "2022-10-20 22:00:00",

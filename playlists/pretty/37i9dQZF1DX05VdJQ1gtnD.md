@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 
 > Warming instrumental guitar for sitting by the fire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,430 likes - 157 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,514 likes - 157 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 6 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 |
 | 7 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 |
 | 8 | [homestretch](https://open.spotify.com/track/6X7sxHLt8IMSUeqnw5T8dT) | [Brooke Osmanski](https://open.spotify.com/artist/1feAma94YsixyNehcnalFA) | [away from the city](https://open.spotify.com/album/6V0gpmoSXFlimu7tHH0fmM) | 2:39 |
-| 9 | [Each Day](https://open.spotify.com/track/5x8ne1bXZsp5hVcffmHv8n) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/0ogJZt9Iqzb6ez5hUaYsx3) | 2:23 |
+| 9 | [Each Day](https://open.spotify.com/track/7CLYREY7ffMNOMCAJZaBIn) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Each Day](https://open.spotify.com/album/768JMosIKgm2l7PuvLg7fV) | 2:23 |
 | 10 | [Transient Clouds](https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX) | [Nesima](https://open.spotify.com/artist/530XbBVaksvDN09nLsbwER) | [Spring in My Head](https://open.spotify.com/album/1C9NbVsvBeLOD46KO0H3sz) | 2:56 |
 | 11 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 |
 | 12 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 |
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 129 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 |
 | 130 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 |
 | 131 | [Second Wind](https://open.spotify.com/track/3IntMBeVlT8SfcqSLDGJsn) | [Northside](https://open.spotify.com/artist/1dNJvEGHHgzCsXqfXuMxYy) | [Second Wind](https://open.spotify.com/album/00nScRMmuLvmAywU5VPdln) | 4:05 |
-| 132 | [Abby](https://open.spotify.com/track/0o8mGza0TMFgTf9E9DuZhs) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7fpYo14NmrothLMregmtyT) | 2:17 |
+| 132 | [Abby](https://open.spotify.com/track/0ASns2TRZsE0V1ocDD79qJ) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Abby](https://open.spotify.com/album/7Fc96phdrEEBlOPcTgtADd) | 2:17 |
 | 133 | [Come To My Window](https://open.spotify.com/track/2PbBN3RdEoS9EmNcmZzUHh) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Come To My Window](https://open.spotify.com/album/0E0UTRTQUYrcOpO7bZoovG) | 3:29 |
 | 134 | [Seven Trees](https://open.spotify.com/track/4M44CM7HweGJPxTk0Aei8P) | [Lee Young](https://open.spotify.com/artist/50oK46NA905UBCOIRWBU5Z) | [Seven Trees](https://open.spotify.com/album/0SlOD5vmrLv445yvH0AmbV) | 2:27 |
 | 135 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05VdJQ1gtnD.md) - [plain]
 | 156 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
 | 157 | [Fine](https://open.spotify.com/track/20OtNAS1rEsQFcLaaNZzTj) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Fine](https://open.spotify.com/album/5DoF619iMc4eb6HDfNu7Yt) | 1:52 |
 
-Snapshot ID: `MTY2Njk2NTA3MiwwMDAwMDAwMGNlNjQ5ZjUwZGE4YzdhMTE1ZmY0YTU4Y2RlZjQzMWVj`
+Snapshot ID: `MTY2Njk2NTA3MiwwMDAwMDAwMDU1YTkxYWUxZjc0MjFlY2NlZjJlMTM3NjMxNzFhZjJj`

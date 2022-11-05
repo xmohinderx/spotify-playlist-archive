@@ -3734,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447487,
+      "name": "The Question",
+      "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
+    },
+    {
+      "album": {
         "name": "The Razor's Edge",
         "url": "https://open.spotify.com/album/02s5nUzMHfzimxjGf8Pokn"
       },

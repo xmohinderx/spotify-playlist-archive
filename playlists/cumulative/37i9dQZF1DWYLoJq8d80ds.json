@@ -1224,6 +1224,24 @@
     },
     {
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "La Revancha",
+      "url": "https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK"
+    },
+    {
+      "album": {
         "name": "La Sachapera",
         "url": "https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth"
       },

@@ -1,13 +1,201 @@
 {
   "description": "Your go-to playlist for this week's hottest music featuring Hozier, Harry Styles &amp; more!",
-  "num_followers": 8318,
+  "num_followers": 8319,
   "original_name": "Columbia Records: Weekly Mix",
   "owner": {
     "name": "Columbia Records",
     "url": "https://open.spotify.com/user/columbiarecords_us"
   },
-  "snapshot_id": "NTY4OSwyYzJmZjk0YTdiODE4YTAxYjc3NzgxN2U4ODUxNDhkOTYwNzEyODkx",
+  "snapshot_id": "NTcxMiwxNWI2MDRkYmU2OTU1YzNmMjI1YzY4ZjM2ZmQyNzM3NzE0N2E0YzU2",
   "tracks": [
+    {
+      "added_at": "2022-11-04 14:08:49",
+      "album": {
+        "name": "If I Died Last Night",
+        "url": "https://open.spotify.com/album/6Rxuv89Ct6gqsmcudqGYD5"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/2hlM7pRlEJuukvzCsJF6JF"
+    },
+    {
+      "added_at": "2022-11-04 14:08:33",
+      "album": {
+        "name": "Palomino",
+        "url": "https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Palomino",
+      "url": "https://open.spotify.com/track/0zosLtbwbykpbPRyZMCeL5"
+    },
+    {
+      "added_at": "2022-11-04 14:08:18",
+      "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/4qJnnyMQ9ScGwaE0Y96gnG"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "duration_ms": 202412,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2pPxYMrlAlXQlO9qqFlqcd"
+    },
+    {
+      "added_at": "2022-11-04 14:09:27",
+      "album": {
+        "name": "Birthday Girl (feat. Chris Lane)",
+        "url": "https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/6GDDxhe281I5aNSgCYphex"
+        }
+      ],
+      "duration_ms": 162935,
+      "name": "Birthday Girl (feat. Chris Lane)",
+      "url": "https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal"
+    },
+    {
+      "added_at": "2022-11-04 14:10:14",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/079j8ZmfUTiwYddwHmQxkt"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
+    },
+    {
+      "added_at": "2022-11-04 14:10:30",
+      "album": {
+        "name": "itch",
+        "url": "https://open.spotify.com/album/44qiPtIwkpzB1CWjyD2JxE"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "itch",
+      "url": "https://open.spotify.com/track/5RZb7SkH0lDPWyIFgFTvxo"
+    },
+    {
+      "added_at": "2022-11-04 14:09:40",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 194259,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic"
+    },
+    {
+      "added_at": "2022-11-04 14:10:57",
+      "album": {
+        "name": "I Admit It",
+        "url": "https://open.spotify.com/album/0qS3rNh4aSrYtU9Kibqqet"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "duration_ms": 142191,
+      "name": "I Admit It",
+      "url": "https://open.spotify.com/track/1maxWYnkqlo64OVdtkPZQn"
+    },
+    {
+      "added_at": "2022-11-04 14:18:20",
+      "album": {
+        "name": "Drive Me Crazy",
+        "url": "https://open.spotify.com/album/72KiEcpgHnTHc4fmfALsIA"
+      },
+      "artists": [
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        }
+      ],
+      "duration_ms": 149587,
+      "name": "Drive Me Crazy",
+      "url": "https://open.spotify.com/track/2kF1ckubDNFobZKvn7WcV2"
+    },
+    {
+      "added_at": "2022-11-04 14:11:18",
+      "album": {
+        "name": "Can't Deny",
+        "url": "https://open.spotify.com/album/3eCQXg8o621BbPPJ5bGnVO"
+      },
+      "artists": [
+        {
+          "name": "Rileyy Lanez",
+          "url": "https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Can't Deny",
+      "url": "https://open.spotify.com/track/4oH24okkrQYSyHNL9FlPQj"
+    },
+    {
+      "added_at": "2022-11-04 14:09:07",
+      "album": {
+        "name": "Nasze Domy (feat. Szpaku)",
+        "url": "https://open.spotify.com/album/3ejmjrCrglVnyofkit2IIw"
+      },
+      "artists": [
+        {
+          "name": "KALUSH",
+          "url": "https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842"
+        },
+        {
+          "name": "Kalush Orchestra",
+          "url": "https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        }
+      ],
+      "duration_ms": 164943,
+      "name": "Nasze Domy (feat. Szpaku)",
+      "url": "https://open.spotify.com/track/0CDm0PnFYUPlcskXvyQ9hc"
+    },
     {
       "added_at": "2022-10-28 14:39:42",
       "album": {
@@ -23,158 +211,6 @@
       "duration_ms": 91782,
       "name": "highway 95",
       "url": "https://open.spotify.com/track/2E4INiVkDRBXXkFL4kB1Vk"
-    },
-    {
-      "added_at": "2022-10-28 14:40:15",
-      "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
-    },
-    {
-      "added_at": "2022-10-28 14:40:01",
-      "album": {
-        "name": "Bag Talk",
-        "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 147435,
-      "name": "Bag Talk",
-      "url": "https://open.spotify.com/track/6Y95jrYOOWDkh7uO6PSDBT"
-    },
-    {
-      "added_at": "2022-10-28 14:41:03",
-      "album": {
-        "name": "Bad Idea",
-        "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
-      },
-      "artists": [
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        }
-      ],
-      "duration_ms": 155681,
-      "name": "Bad Idea",
-      "url": "https://open.spotify.com/track/6azVi5ToFHo6KfKs6SstAC"
-    },
-    {
-      "added_at": "2022-10-28 14:41:17",
-      "album": {
-        "name": "Don't Play That Song",
-        "url": "https://open.spotify.com/album/3bLAXYwCPRW9xSk91gCgOY"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Don't Play That Song",
-      "url": "https://open.spotify.com/track/2oedUBDUmEwbmNnC2HJJn8"
-    },
-    {
-      "added_at": "2022-10-28 14:41:26",
-      "album": {
-        "name": "Iridium",
-        "url": "https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 166797,
-      "name": "Iridium",
-      "url": "https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr"
-    },
-    {
-      "added_at": "2022-10-28 14:41:44",
-      "album": {
-        "name": "MEXICO",
-        "url": "https://open.spotify.com/album/285ln9j6Hny71rTh3rV65n"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 134852,
-      "name": "MEXICO",
-      "url": "https://open.spotify.com/track/5lM91CtjHLkREYf1CVdcbE"
-    },
-    {
-      "added_at": "2022-10-28 14:42:06",
-      "album": {
-        "name": "DIRT (feat. JPEGMAFIA)",
-        "url": "https://open.spotify.com/album/4HyZQUshE2EfpXbKylPvRF"
-      },
-      "artists": [
-        {
-          "name": "Y2K",
-          "url": "https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx"
-        },
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 238324,
-      "name": "DIRT (feat. JPEGMAFIA)",
-      "url": "https://open.spotify.com/track/5HfipWyCtt7I2lR4d9oDhO"
-    },
-    {
-      "added_at": "2022-10-28 14:42:20",
-      "album": {
-        "name": "Country Boy's Dream Girl",
-        "url": "https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "Country Boy's Dream Girl",
-      "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
-    },
-    {
-      "added_at": "2022-10-28 14:42:33",
-      "album": {
-        "name": "What A Shame",
-        "url": "https://open.spotify.com/album/5fZIgLUTiO5RCeIEwibf4c"
-      },
-      "artists": [
-        {
-          "name": "Valencia Grace",
-          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
-        }
-      ],
-      "duration_ms": 189649,
-      "name": "What A Shame",
-      "url": "https://open.spotify.com/track/3zPTFGyJnAnCHDEyk5zkww"
     },
     {
       "added_at": "2022-10-28 14:42:47",

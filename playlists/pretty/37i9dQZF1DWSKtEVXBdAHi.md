@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,087 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,089 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 21 | [Happy Now](https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Happy Now](https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO) | 3:31 |
 | 22 | [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 |
 | 23 | [Keep You Mine](https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine](https://open.spotify.com/album/6r3wtqeQLGFb59YJWz2jHC) | 2:54 |
-| 24 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
-| 25 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
+| 24 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
+| 25 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 26 | [Forever Young](https://open.spotify.com/track/1J2EmhjTmHQxLShYQK7Xti) | [UNDRESSD](https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL), [Ellie May](https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH) | [Forever Young](https://open.spotify.com/album/1x9q23elJDl1E1PzmaoMS8) | 3:21 |
 | 27 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 |
 | 28 | [Close To Me \(with Diplo\) \(feat\. Swae Lee\)](https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Close To Me \(feat\. Swae Lee\)](https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ) | 3:02 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 55 | [I Don't Care \(with Justin Bieber\) \- Jonas Blue Remix](https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Don't Care \(with Justin Bieber\) \[Jonas Blue Remix\]](https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT) | 3:12 |
 | 56 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
 | 57 | [Why Boy](https://open.spotify.com/track/2devxXJUTEIFmgt8cXaqmO) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [Dave Crusher](https://open.spotify.com/artist/23TjYnUK2xGyalo5ABFV5F) | [Why Boy](https://open.spotify.com/album/2POadj9PRm2V5QbVuVPDUo) | 2:30 |
-| 58 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 |
-| 59 | [Pieces](https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Pieces](https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE) | 3:00 |
+| 58 | [Pieces](https://open.spotify.com/track/7zhT90M07NLqJb2MsaqWhM) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Pieces](https://open.spotify.com/album/6KylK197tTFjNoUD8YnIBE) | 3:00 |
+| 59 | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/track/7c5h27Ju8JE5xWKTQ88KhL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Hurts 2B Human \(feat\. Khalid\)](https://open.spotify.com/album/3eQRZ9cftF0ezsRsynepNl) | 3:22 |
 | 60 | [Be Someone](https://open.spotify.com/track/4esEsg9IxiTAGMBQLe9XOu) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Be Someone](https://open.spotify.com/album/7x3X4EQy3RgIS4AGopCyEH) | 3:24 |
 | 61 | [All I Wanna Do](https://open.spotify.com/track/1Cq23W4ZxHTY8QbP40qjEc) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [All I Wanna Do](https://open.spotify.com/album/49pOtXDkhfPJBwtlf5vrLm) | 3:14 |
 | 62 | [Living \(feat\. Alex Clare\)](https://open.spotify.com/track/63Qco1ncI5U4qEUnxL1DsH) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Alex Clare](https://open.spotify.com/artist/5Tf4EH8tDvznnjULcFxkIl) | [Living \(feat\. Alex Clare\)](https://open.spotify.com/album/0dHBCgs7zfH2mQXHTghume) | 3:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Walk Me Home \- R3HAB Remix](https://open.spotify.com/track/7wJFBZXG4AFQS9YwBQLkqL) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Walk Me Home \(R3HAB Remix\)](https://open.spotify.com/album/7dcv4xAh00fkPQZrOMNYly) | 2:39 |
 | 80 | [High On Your Love](https://open.spotify.com/track/1yavdxQOY4oqesNyn9eH68) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV), [Nora Andersson](https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq) | [High On Your Love](https://open.spotify.com/album/3gCgNvcccB3JTjF7KKkvlx) | 2:36 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMGNlYTYwNWJkYTY1YjNhZmRjMDkyOGFjNTdjNmZmNGYz`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDZiNmRjOGI1NzdmN2U5MGU2YTk2NTZmY2VjNjVjMDE2`

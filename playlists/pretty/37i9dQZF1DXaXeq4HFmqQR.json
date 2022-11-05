@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Shirel y m\u00e1s mujeres a todo volumen!",
-  "num_followers": 9656,
+  "num_followers": 9661,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMDI0ODM5NmE5ZTNjMGUwZjQyMmFlYTQ5NGRiZjMyNjVi",
+  "snapshot_id": "MTY2NzUyMDAwMCwwMDAwMDAwMGY5YmU1OWQ2ZWNmN2YxZjRiNDBkYWQ4ZDI3MjZmOTYx",
   "tracks": [
     {
       "added_at": "2022-11-04 00:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-11-04 00:00:00",
       "album": {
+        "name": "U.U",
+        "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
+    },
+    {
+      "added_at": "2022-11-04 00:00:00",
+      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/71z6a8fMecncWOBHhpQ7QU"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 137750,
       "name": "Under",
       "url": "https://open.spotify.com/track/0edPhUydcczV9ouIcZtc8P"
-    },
-    {
-      "added_at": "2022-11-04 00:00:00",
-      "album": {
-        "name": "U.U",
-        "url": "https://open.spotify.com/album/2e4lfzoe549Xzs77onk8QO"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/2gOC3Tk6XPByqRH4uLvTkU"
     },
     {
       "added_at": "2022-11-04 00:00:00",

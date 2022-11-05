@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-1,110 songs - 1 day 18 hr 46 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
+1,111 songs - 1 day 18 hr 49 min - [published](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [Fireplace](https://open.spotify.com/track/4G6LvFbZthvRaYjsNMUEDi) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d) | [Fireplace](https://open.spotify.com/album/4xmBteg8ZM4xKxHBT0oMq5) | 1:48 | 2022-04-08 | 2022-07-15 |
 | [Fireside Chat](https://open.spotify.com/track/5FTYsFo0PtsnqGY2Bjsb79) | [Auxjack](https://open.spotify.com/artist/26zCMMaITBnpxUsoDnPMeR) | [Fireside Chat](https://open.spotify.com/album/36pGiftpvnmsVt11JuAxHA) | 2:23 | 2022-05-20 |  |
 | [Fireside Patio](https://open.spotify.com/track/5NTL19CSAlnx8vygMevuf9) | [Mask the Man](https://open.spotify.com/artist/2oBRQMRQ4B3A0jovCWaJxC) | [Moraga](https://open.spotify.com/album/21ZbYn81zkSEFh7EHu4fxQ) | 1:59 | 2021-12-07 | 2022-06-03 |
-| [first rays of light](https://open.spotify.com/track/7LIFJvNlXh7Bdzu7JHIU4e) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/0jNSDHHgaoAd6GzcZXqCzp) | 2:32 | 2022-05-13 |  |
+| [first rays of light](https://open.spotify.com/track/3qjtnUlnZaIDXvjgdAs7pr) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/5TbyVC0mJwwzz28C2xlpq6) | 2:32 | 2022-10-28 |  |
+| [first rays of light](https://open.spotify.com/track/7LIFJvNlXh7Bdzu7JHIU4e) | [Nosllyah](https://open.spotify.com/artist/0bzL30yrC2B9SMa1dcrRvl), [Lofi Saint](https://open.spotify.com/artist/3yRWWNCOIgyPCX1QiSsumr) | [first rays of light](https://open.spotify.com/album/0jNSDHHgaoAd6GzcZXqCzp) | 2:32 | 2022-05-13 | 2022-11-05 |
 | [First Steps](https://open.spotify.com/track/74oZIjkre9SlT1ONaP4Ers) | [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [First Steps](https://open.spotify.com/album/1kzrxU2NR2U4mdXWcmSQlp) | 2:29 | 2022-05-27 |  |
 | [Flippant](https://open.spotify.com/track/3NKlu0qfwPt55dmaWBHQIq) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Flippant](https://open.spotify.com/album/2qnYGVaRprhma6n88eF4Yp) | 2:21 | 2021-12-07 |  |
 | [Flips and Flops](https://open.spotify.com/track/6X4rN9Otj2FCpwDYpd9Qq7) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX) | [Flips and Flops](https://open.spotify.com/album/6MR3x8ea75zymyKFjVTfzA) | 1:30 | 2022-07-22 |  |
@@ -497,7 +498,7 @@
 | [In The Now](https://open.spotify.com/track/1HNdxZPy022HHL0leTB3sR) | [2 Liter](https://open.spotify.com/artist/13FWCiQOR1emUlfK9wN9FM) | [In The Now](https://open.spotify.com/album/5lu1YNBvZkApFwJfJSXLs5) | 2:19 | 2022-09-09 |  |
 | [In The Third Move](https://open.spotify.com/track/5uAhIMnDPNjRNeiH5tDtqy) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:24 | 2021-12-07 | 2022-07-01 |
 | [Inhale](https://open.spotify.com/track/26OnZ6KQlTM4noAbnSQ1UX) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Inhale](https://open.spotify.com/album/6khmBCA9o00ccZDMlexEHk) | 1:38 | 2022-04-08 | 2022-10-14 |
-| [Inhumane](https://open.spotify.com/track/35F7HOpCNSW3xA97sdaQ11) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [koolmonke](https://open.spotify.com/artist/7M0d2czaURfOceXzgtcA2b), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Inhumane](https://open.spotify.com/album/44Kr1NSZt3kHSC0Vb2QhMC) | 2:46 | 2022-10-28 |  |
+| [Inhumane](https://open.spotify.com/track/35F7HOpCNSW3xA97sdaQ11) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Inhumane](https://open.spotify.com/album/44Kr1NSZt3kHSC0Vb2QhMC) | 2:46 | 2022-10-28 |  |
 | [Inlay](https://open.spotify.com/track/6wCnpERMZgRELDljSEDKR9) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:18 | 2022-04-22 |  |
 | [inner peace](https://open.spotify.com/track/4IkDfzAN7ELObJgWHqAquc) | [kyu](https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW) | [inner peace](https://open.spotify.com/album/3rizkmKfnNiOAM8QyS3u1j) | 2:32 | 2022-10-14 |  |
 | [inomhus](https://open.spotify.com/track/3K5QUVmUCm5BEc3pc8Apit) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [inomhus](https://open.spotify.com/album/2X4RjOlFofB0xTIOMGrwgi) | 2:43 | 2022-07-29 |  |

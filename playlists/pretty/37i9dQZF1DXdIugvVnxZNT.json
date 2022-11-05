@@ -1,12 +1,12 @@
 {
   "description": "Haz que tu coraz\u00f3n lata m\u00e1s alto con los beats de estos temas de amor EDM.",
-  "num_followers": 265,
+  "num_followers": 300,
   "original_name": "EDM LUV <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjgxODMxMSwwMDAwMDAwMDJkZjYzZWE1NzMwM2Y1Yzk4NDVlNTI0NjE5YTcwMGQz",
+  "snapshot_id": "MTY2NjgxODMxMSwwMDAwMDAwMGI5NDg2MGMzNmY1OGE3YTgwMmIwYTJmY2IxOWJmZTk3",
   "tracks": [
     {
       "added_at": "2022-09-20 20:10:52",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
         "name": "In the Name of Love",
         "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 195706,
       "name": "In the Name of Love",
       "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2022-09-20 20:10:52",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
+    },
+    {
+      "added_at": "2022-09-20 20:10:52",
+      "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 191379,
       "name": "Shed a Light",
       "url": "https://open.spotify.com/track/1eyrmeiDpdTkOmA839nPVQ"
-    },
-    {
-      "added_at": "2022-09-20 20:10:52",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/0rh1evgP4UJxDK333EI7l5"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/73S01tHC14mqoMvSr83PSo"
     },
     {
       "added_at": "2022-09-20 20:10:52",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2022-09-20 20:10:52",
       "album": {
-        "name": "True (Bonus Edition)",
-        "url": "https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3"
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/0f1CZexom6ELxbDZx32fyk"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
         }
       ],
-      "duration_ms": 233346,
-      "name": "You Make Me",
-      "url": "https://open.spotify.com/track/63bwUT2JAPomuoIITQ2Iiy"
+      "duration_ms": 221274,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6nLctpnQJiPTxkaSgbPKiw"
     }
   ],
   "unique_name": "EDM LUV <3",

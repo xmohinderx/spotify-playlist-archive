@@ -191,7 +191,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 187416,
       "name": "505",
       "url": "https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i"
@@ -269,6 +269,28 @@
       "duration_ms": 194746,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH"
+    },
+    {
+      "album": {
+        "name": "Al Pacino",
+        "url": "https://open.spotify.com/album/4c7QeDvdFGVHfe4Q4igrO3"
+      },
+      "artists": [
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145979,
+      "name": "Al Pacino",
+      "url": "https://open.spotify.com/track/4QqCwUVo0YDB4FZPkxQxOc"
     },
     {
       "album": {
@@ -2230,7 +2252,7 @@
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 109226,
+      "duration_ms": 139991,
       "name": "Francis Ford Coppola",
       "url": "https://open.spotify.com/track/0wGatt1VN1O7Mt5gwx7lzj"
     },
@@ -6216,6 +6238,24 @@
     },
     {
       "album": {
+        "name": "Church Clothes 4",
+        "url": "https://open.spotify.com/album/4GnEecDMWGwbCKsd3KTFny"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201541,
+      "name": "Still In America",
+      "url": "https://open.spotify.com/track/3ZzQQZcaLD8S1IgblayfX6"
+    },
+    {
+      "album": {
         "name": "Stimulus Check",
         "url": "https://open.spotify.com/album/2jzhvb4pH87qOIJYhL9TQA"
       },
@@ -6465,7 +6505,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 139360,
       "name": "Survival Of The Littest",
       "url": "https://open.spotify.com/track/17CPQUwDN43EcjPUo9lFpe"
@@ -6521,16 +6561,16 @@
           "url": "https://open.spotify.com/artist/6fXcsuCIKZIeY11ylb8hsw"
         },
         {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
           "name": "Denzel Curry",
           "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         },
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
         }
       ],
       "date_added": "2022-06-24",

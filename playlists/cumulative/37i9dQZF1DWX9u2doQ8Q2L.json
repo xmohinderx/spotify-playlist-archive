@@ -569,6 +569,28 @@
     {
       "album": {
         "name": "Be With You feat. Ai Furihata",
+        "url": "https://open.spotify.com/album/5ioiVEiv0AwDetSIgZs3is"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Ai Furihata",
+          "url": "https://open.spotify.com/artist/1FlASHjqkSDUcJK85EJbsj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "Be With You feat. Ai Furihata",
+      "url": "https://open.spotify.com/track/6HvEzakmTEFhxjllDK8wPl"
+    },
+    {
+      "album": {
+        "name": "Be With You feat. Ai Furihata",
         "url": "https://open.spotify.com/album/79Zl8cuLlP6qWTIZIwpfch"
       },
       "artists": [
@@ -583,7 +605,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 207017,
       "name": "Be With You feat. Ai Furihata",
       "url": "https://open.spotify.com/track/6xn2ssISFxIGrWHf0pKrWm"
@@ -2047,7 +2069,7 @@
       ],
       "date_added": "2022-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 171000,
       "name": "HOMEWORK",
       "url": "https://open.spotify.com/track/0gq75lykNVUk0zaHVruLGB"
@@ -4168,6 +4190,28 @@
     },
     {
       "album": {
+        "name": "SIGN(feat. Takashi Fujii)",
+        "url": "https://open.spotify.com/album/2OmjMU3x4n7j9PMP9Lf1Uw"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "Takashi Fujii",
+          "url": "https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195104,
+      "name": "SIGN(feat. Takashi Fujii)",
+      "url": "https://open.spotify.com/track/14TZGguim8BIjve3NWCheW"
+    },
+    {
+      "album": {
         "name": "SIGN(feat. \u85e4\u4e95\u9686)",
         "url": "https://open.spotify.com/album/5qeENl6yRGzVIvvqgChw6p"
       },
@@ -4183,7 +4227,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-11-05",
       "duration_ms": 195104,
       "name": "SIGN(feat. \u85e4\u4e95\u9686)",
       "url": "https://open.spotify.com/track/63NQpVrXhqcBdadRd9KSa4"
@@ -6307,7 +6351,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-04",
+      "date_removed": null,
       "duration_ms": 232232,
       "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
       "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"

@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: The Jack Moves",
-  "num_followers": 63220,
+  "num_followers": 63374,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkyOTY2MCwwMDAwMDAwMGNjMDllYTUxMTRhMTQ2MmQ0M2M4MWQ3NWU0ZGJmMjQ1",
+  "snapshot_id": "MTY2NzUzNDQwMCwwMDAwMDAwMDlhOWI2MjY1NmZjZjQ2YWY3N2I1ZjQwZDBkMThmOTY1",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -67,6 +67,22 @@
       "duration_ms": 188216,
       "name": "Love And Appreciation - Radio Edit",
       "url": "https://open.spotify.com/track/7a506fRBFFXnalrqcjj3eT"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 286061,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q"
     },
     {
       "added_at": "2022-10-28 04:01:00",
@@ -1685,26 +1701,6 @@
       "url": "https://open.spotify.com/track/4nmGmv2c6eryWwpCjkRS3N"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "Keep Moving (Dave Lee Remix)",
-        "url": "https://open.spotify.com/album/58EPf9YRS5Xvdc0fMFElkl"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        },
-        {
-          "name": "Dave Lee",
-          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
-        }
-      ],
-      "duration_ms": 363492,
-      "name": "Keep Moving - Dave Lee Remix",
-      "url": "https://open.spotify.com/track/0h2Z6MjprW1IVfIyqpZcrg"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Pretty Please (Supertaste Disco Mix)",
@@ -1859,22 +1855,6 @@
       "duration_ms": 242009,
       "name": "Let Your Body Move",
       "url": "https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Chain Reaction",
-        "url": "https://open.spotify.com/album/1RTA4XUMyit5gXC2Jkmd0f"
-      },
-      "artists": [
-        {
-          "name": "David Blazer",
-          "url": "https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6"
-        }
-      ],
-      "duration_ms": 249714,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/0AKaQvBIQ2hyFWZ5OUHaii"
     },
     {
       "added_at": "2021-07-02 04:01:00",

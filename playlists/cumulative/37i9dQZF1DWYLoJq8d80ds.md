@@ -4,7 +4,7 @@
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Nocheros
 
-134 songs - 7 hr 30 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
+135 songs - 7 hr 33 min - [published](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [La Noche Salteña](https://open.spotify.com/track/4EYyuY7x7OsbzC6MzkusHM) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [La Noche Salteña](https://open.spotify.com/album/5HSE5Sx8MmtWdb66EmR3yj) | 2:52 | 2021-12-31 | 2022-08-12 |
 | [La Noche Salteña](https://open.spotify.com/track/6VRrhvfIn4tZUx0R37hOtD) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Fiesta del Alma](https://open.spotify.com/album/5c4Yz6YfBCQ73hj1fn5Rrh) | 2:52 | 2022-07-01 |  |
 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 | 2021-12-31 |  |
+| [La Revancha](https://open.spotify.com/track/32tw6sBHtgnsh36g2voewK) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Noche Perfecta](https://open.spotify.com/album/1tDPYZoGKYQPyo6qcm7yWU) | 2:35 | 2022-11-04 |  |
 | [La Sachapera](https://open.spotify.com/track/4AtnAMuqST1ZkEaTaXr2fa) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [La Sachapera](https://open.spotify.com/album/0fhJaycokyiWhvhnlUPHth) | 3:25 | 2021-12-31 |  |
 | [La Sembradora](https://open.spotify.com/track/0XyqBaoT1pjHNAFbNYpM2D) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/6sTrPx3XKKRgSb1aWCvw6c) | 2:59 | 2022-07-01 |  |
 | [La Sembradora](https://open.spotify.com/track/51XaWigPTFlriXvHJ4w6nN) | [Germán Asis](https://open.spotify.com/artist/7et3MQLeWcD0rDQMf1h3hs), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX) | [La Sembradora](https://open.spotify.com/album/3twy4ow92Rj6tityaqKszB) | 2:59 | 2021-12-31 | 2022-07-29 |

@@ -1,15 +1,15 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 112212,
+  "num_followers": 112252,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzE4NjkwNiwwMDAwMDAwMGRjOWVhYzg0N2I3YmRlZGMzYzkwMjAyMmNhZjZmNDI5",
+  "snapshot_id": "MTY2NzE4NjkwNiwwMDAwMDAwMDgwNDhjM2VmMDIxYzkxNTkyMDg1NzQwMTcwN2ZkMzYx",
   "tracks": [
     {
-      "added_at": "2022-11-04 01:23:07",
+      "added_at": "2022-11-05 01:25:02",
       "album": {
         "name": "\u5b64\u5cf6",
         "url": "https://open.spotify.com/album/1IqR6BuJvginXpQ1ZIqO8P"
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-10-24 14:23:58",
       "album": {
+        "name": "9522",
+        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
+      },
+      "artists": [
+        {
+          "name": "\u5b89\u6ea5",
+          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
+        }
+      ],
+      "duration_ms": 235716,
+      "name": "\u6700\u597d\u7684\u6642\u5149",
+      "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
+    },
+    {
+      "added_at": "2022-10-24 14:23:58",
+      "album": {
         "name": "Remember (\u96fb\u5f71\u300a\u8ddf\u4f60\u8001\u5a46\u53bb\u65c5\u884c\u300b\u63d2\u66f2)",
         "url": "https://open.spotify.com/album/7e8UzB4BkYm6cgp1rPlKRW"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 301666,
       "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
       "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2022-10-24 14:23:58",
-      "album": {
-        "name": "9522",
-        "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
-      },
-      "artists": [
-        {
-          "name": "\u5b89\u6ea5",
-          "url": "https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I"
-        }
-      ],
-      "duration_ms": 235716,
-      "name": "\u6700\u597d\u7684\u6642\u5149",
-      "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
     },
     {
       "added_at": "2022-10-24 14:23:58",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-10-24 14:23:58",
       "album": {
-        "name": "LINK",
-        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "\u804a\u804a\u5929",
-      "url": "https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug"
-    },
-    {
-      "added_at": "2022-10-24 14:23:58",
-      "album": {
         "name": "\u6084\u6084\u544a\u8a34\u4f60",
         "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 136706,
       "name": "\u6084\u6084\u544a\u8a34\u4f60",
       "url": "https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB"
+    },
+    {
+      "added_at": "2022-10-24 14:23:58",
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "\u804a\u804a\u5929",
+      "url": "https://open.spotify.com/track/4RXjaI2PMgp7SQ8sV5wVug"
     },
     {
       "added_at": "2022-10-24 14:23:58",

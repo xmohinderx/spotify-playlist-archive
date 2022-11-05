@@ -4,7 +4,7 @@
 
 > If it's indie and it's hot, it's here 🥵 Cover: SZA
 
-622 songs - 1 day 11 hr 21 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+623 songs - 1 day 11 hr 24 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,8 @@
 | [No Drones in the Afterlife](https://open.spotify.com/track/074Vujxd52c5IRO18GKJx7) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [No Drones in the Afterlife](https://open.spotify.com/album/6aoiQ7osT5yVNRq9LBkQX1) | 4:17 | 2022-04-28 | 2022-07-22 |
 | [No Limit](https://open.spotify.com/track/5U6PQ4fJo1yyTvmpvdcq3L) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [No Limit](https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV) | 3:27 | 2022-09-22 |  |
 | [Not My Vibe](https://open.spotify.com/track/5GM14rdRq8IroAH0GcfAlL) | [Approachable Members of Your Local Community](https://open.spotify.com/artist/2Tk2sOxCRRtUX77c1V6Ifb) | [Not My Vibe](https://open.spotify.com/album/4ac9wlBLedRac6dJJyrOeV) | 3:07 | 2022-07-14 | 2022-09-02 |
-| [Not There](https://open.spotify.com/track/5FuPD9LkmHYYRE2VI3bqMG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6lOavXCnBkmH66r5DAogbU) | 3:22 | 2022-11-03 |  |
+| [Not There](https://open.spotify.com/track/5FuPD9LkmHYYRE2VI3bqMG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/6lOavXCnBkmH66r5DAogbU) | 3:22 | 2022-11-03 | 2022-11-05 |
+| [Not There](https://open.spotify.com/track/7jzGqazzQJhp59zieSCwiG) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Not There](https://open.spotify.com/album/32hsVbXUm5VbbWo9Qfs0An) | 3:22 | 2022-11-03 |  |
 | [NOT TODAY](https://open.spotify.com/track/08cnccQSKCljeUlyZVSCK4) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [NOT TODAY](https://open.spotify.com/album/3RoUi8w1jkr5Kgf4DItl2O) | 3:22 | 2022-03-31 | 2022-04-22 |
 | [Nothing Yet](https://open.spotify.com/track/7q9TXp4AhX0XflGpBYkpIU) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Nothing Yet](https://open.spotify.com/album/75ICG7rsbwX2n92kDQDgUv) | 4:33 | 2021-12-28 | 2022-01-07 |
 | [Now And Then](https://open.spotify.com/track/4w7DiSMw47VkSmqryKKl9g) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 4:31 | 2022-05-19 | 2022-07-19 |

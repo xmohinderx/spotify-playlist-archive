@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,011 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,131 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 6 | [Jeito Bom \#2](https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs) | [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t), [Caio Big](https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN), [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf) | [Jeito Bom \#2](https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z) | 3:29 |
 | 7 | [De Volta](https://open.spotify.com/track/2Pe37qEd4Ds7QuuFyyRKgn) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo) | [De Volta](https://open.spotify.com/album/46H9YGkAhQNNBcoW67ZwFQ) | 2:34 |
 | 8 | [Cabulosa](https://open.spotify.com/track/5QBiAcDEqOEYRmE7A2CbDr) | [Jonathan Couto](https://open.spotify.com/artist/58E9fUoMdCjVB0B4MwMsp1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Cabulosa](https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J) | 2:47 |
-| 9 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [Domenico](https://open.spotify.com/artist/3iXaC2NBxDMdFBHCEoKOmB) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 |
+| 9 | [Esse Teu Sorriso](https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb) | [DOM7NICO](https://open.spotify.com/artist/2oGllwBi30E8506gcLUohv) | [Esse Teu Sorriso](https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN) | 3:09 |
 | 10 | [Não Sou de Ninguém](https://open.spotify.com/track/4RIYZ53YLgBsuSSVlA85fQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [Burbon](https://open.spotify.com/artist/69SLft0U310nwqClQ51Czo), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Pascon](https://open.spotify.com/artist/6LUA1e130vjHgN0xeBgDUi), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Não Sou de Ninguém](https://open.spotify.com/album/6t6gIQ5fxkqYgbrfQVhqdM) | 3:34 |
 | 11 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |
 | 12 | [Meia Noite e Pouca](https://open.spotify.com/track/12sxunAocKmrn8AzPVn8hU) | [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q), [Simøn](https://open.spotify.com/artist/6KYSq6KA65FmCpiu0CP7bA) | [Fases](https://open.spotify.com/album/03Xtrk1TYuWG8249nRdPfa) | 2:38 |

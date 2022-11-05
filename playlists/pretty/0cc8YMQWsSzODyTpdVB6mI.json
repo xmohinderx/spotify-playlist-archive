@@ -1,13 +1,29 @@
 {
   "description": "The best NEW Music right now, curated by Kitsun\u00e9 Musique and\u00a0added to one HOT playlist : a FRESH selection updated every Monday, Wednesday &amp; Friday. ",
-  "num_followers": 44020,
+  "num_followers": 44032,
   "original_name": "Kitsun\u00e9's New, Hot & Fresh",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "Mjk5MCw4OGMxYzViZjEyZDMwYjc1ZjU4NTE1MTUzYzVhYWFjYTUzYWIzOTRl",
+  "snapshot_id": "Mjk5Myw1NTk1NGNiZTFiNGIwODQyZjgyMTNkZTUwNmJiNTU4ZDZkMmFlZDU5",
   "tracks": [
+    {
+      "added_at": "2022-11-04 09:18:22",
+      "album": {
+        "name": "Inside Times",
+        "url": "https://open.spotify.com/album/5KMl2yl1vBZmheg5NtLqKN"
+      },
+      "artists": [
+        {
+          "name": "Josh Dives",
+          "url": "https://open.spotify.com/artist/0D5RZwiNLoTfvvV1JoySmS"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Inside Times",
+      "url": "https://open.spotify.com/track/5yiXsIhgEhouvwNsNc6XIE"
+    },
     {
       "added_at": "2022-10-28 08:12:41",
       "album": {
@@ -407,22 +423,6 @@
       "duration_ms": 168191,
       "name": "Child",
       "url": "https://open.spotify.com/track/2xVL9TdrABknAXZIgtwdk5"
-    },
-    {
-      "added_at": "2022-08-05 08:27:12",
-      "album": {
-        "name": "Alleviate",
-        "url": "https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD"
-      },
-      "artists": [
-        {
-          "name": "Yellow The Sun",
-          "url": "https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Alleviate",
-      "url": "https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN"
     },
     {
       "added_at": "2021-11-05 15:47:43",

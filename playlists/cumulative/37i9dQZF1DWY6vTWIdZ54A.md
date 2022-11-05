@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-241 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
+242 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,8 +127,9 @@
 | [Lo/Hi](https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Go / Eagle Birds / Lo/Hi](https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG) | 2:57 | 2020-12-11 | 2022-07-29 |
 | [Loose Ends](https://open.spotify.com/track/2tyb5TSxnb2QjkuVEhd3Do) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/1N5dnmGRZ54m8LeQ4kCajv) | 2:40 | 2022-06-17 |  |
 | [Loose Ends](https://open.spotify.com/track/4rZaSU1gqk7zkywTDqxGeX) | [Cortes](https://open.spotify.com/artist/4a4ek3VD883NbEq4HLw4DG) | [Loose Ends](https://open.spotify.com/album/47kuTI9HG6YuOBMhyIe3qQ) | 2:40 | 2020-12-11 | 2022-07-29 |
-| [Love Is All You Love](https://open.spotify.com/track/23yFGudxXhWkEP0DQDiYgB) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/5vo1GaBWX1gtv5xKobictw) | 3:22 | 2022-06-17 |  |
+| [Love Is All You Love](https://open.spotify.com/track/23yFGudxXhWkEP0DQDiYgB) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/5vo1GaBWX1gtv5xKobictw) | 3:22 | 2022-06-17 | 2022-11-05 |
 | [Love Is All You Love](https://open.spotify.com/track/26NeDcBDtSOsdwYjGO9Mrl) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/2wPUZq7cmmqMMchtCMgJSO) | 3:22 | 2020-12-11 | 2022-07-29 |
+| [Love Is All You Love](https://open.spotify.com/track/7IK9YaeFV0wEZmtDl9B2XK) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [Love Is All You Love](https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O) | 3:22 | 2022-10-07 |  |
 | [Love Spills](https://open.spotify.com/track/6PgYxALBTd2JmgsU8neAUz) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Delicious Rock Noise](https://open.spotify.com/album/40oVGFomjqPGwUzPRkxnqG) | 3:31 | 2022-10-07 |  |
 | [Love Spills](https://open.spotify.com/track/1Be8ytAIubyZBVffoubQzj) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Dark Black Makeup](https://open.spotify.com/album/2KfVV36ma18SbZKRmFcXKf) | 3:32 | 2020-12-11 | 2022-10-13 |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2020-12-11 |  |

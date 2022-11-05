@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-139 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
+140 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/4TVTdhLbAi1cx5rQBb4HCt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [safe haven](https://open.spotify.com/track/7EEinxDxDsRX3AIIJ026TZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:49 | 2022-07-14 |  |
 | [Santi](https://open.spotify.com/track/2UfaE5AvQQHL2CkHeyM74O) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Santi](https://open.spotify.com/album/45qYrEUMR65J6PDoh6G8fQ) | 3:50 | 2022-08-19 |  |
 | [Sarama](https://open.spotify.com/track/0BjCbRI3usZQ916bIQvO7J) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Sarama](https://open.spotify.com/album/04hM186tCxoXEFpIm8DTOc) | 3:38 | 2022-02-11 |  |
+| [Sexting](https://open.spotify.com/track/3NZt7jQJEaY5Hv1kG6ESRQ) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Super Morio](https://open.spotify.com/album/07WaRFUKEhfl4fAhq4Z6rJ) | 4:16 | 2022-11-04 |  |
 | [She Knows](https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [She Knows](https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40) | 3:18 | 2021-12-09 | 2022-03-04 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2022-06-30 | 2022-10-14 |
 | [Smoke & Mirrors \(feat\. Ami Faku\)](https://open.spotify.com/track/4DKkkquLEKqiVMQ7ua5gaf) | [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Motion](https://open.spotify.com/album/1jm8BNnsdpEjCKRmgS7gZh) | 3:53 | 2021-10-15 |  |

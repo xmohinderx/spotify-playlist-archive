@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-94 songs - 3 hr 43 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
+95 songs - 3 hr 46 min - [published](https://open.spotify.com/playlist/7rmX5cFyNiQXXEqbWIw0Ho)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Tell Me Why I'm Waiting](https://open.spotify.com/track/3xbUCRFut7tzBoD2F8L56y) | [Timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Passion & Confusion](https://open.spotify.com/album/5unak64thjeLQpZqSONKqz) | 2:03 | 2022-09-09 |  |
 | [this girl](https://open.spotify.com/track/19JzJOMs4wkuKxY8WEOMea) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2Ap5vMlN2HZQjTyohlapPA) | 2:02 | 2022-09-09 |  |
 | [Tum Mile \- Lofi Flip](https://open.spotify.com/track/1CsRoIeHaHRysPMoEaKRoQ) | [KSW](https://open.spotify.com/artist/2GhRzK7XzixKuZYEEfUkBR), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Tum Mile \(Lofi Flip\)](https://open.spotify.com/album/3HLuAGbNIeDhx1MlR9auER) | 4:02 | 2022-09-09 |  |
-| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-09-09 |  |
+| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/0wbC3G2o0lXDY9xxxXqWDZ) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/0xWns05vgbslYeVkNx0Xaf) | 2:44 | 2022-10-14 |  |
+| [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/track/70CYB0mVVygnVlR0Xx8CFS) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [two years have passed \(you'll be forever in my heart\)](https://open.spotify.com/album/3lzwU3oMhYVCYgpv86NwyL) | 2:44 | 2022-09-09 | 2022-11-05 |
 | [Unravel Lofi \(Tokyo Ghoul\)](https://open.spotify.com/track/0dj0B1f01K3MQABqKhXhBy) | [Kato](https://open.spotify.com/artist/3yTNaLgtCufxUYDsWa5MpA) | [Sleep Anime Lofi Beats](https://open.spotify.com/album/2ztCJz2gwfKnjwuyKBbcqZ) | 1:00 | 2022-09-09 |  |
 | [Waalian \(Lo\-Fi\)](https://open.spotify.com/track/1FTiraMT2EX2zX1445zmWD) | [Sanjay S Yadav](https://open.spotify.com/artist/6rgc6AL16aoiwofPPzsoLU) | [Waalian \(Lo\-Fi\)](https://open.spotify.com/album/2moppEz2KPZAFIY63zjoaq) | 2:55 | 2022-09-09 |  |
 | [Wake Up](https://open.spotify.com/track/73SyPIx501G3211y3oTYns) | [moow](https://open.spotify.com/artist/4dGUoQuMs1zVpafybz4O9d), [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [I Can't Tell You How Much It Hurts](https://open.spotify.com/album/3f046S4KzdvS5pEmSDMofP) | 1:22 | 2022-09-09 |  |

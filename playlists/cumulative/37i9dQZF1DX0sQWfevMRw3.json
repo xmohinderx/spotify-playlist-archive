@@ -6016,24 +6016,6 @@
     },
     {
       "album": {
-        "name": "ALBUMTRAOZ",
-        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "date_added": "2022-10-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135000,
-      "name": "Raggarbil",
-      "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
-    },
-    {
-      "album": {
         "name": "Raggarbil",
         "url": "https://open.spotify.com/album/6FdDyRhsoCoQlCVg1B6QYn"
       },
@@ -6053,6 +6035,28 @@
       "duration_ms": 135227,
       "name": "Raggarbil",
       "url": "https://open.spotify.com/track/5Gltinn48NXDSsIwCuIRmK"
+    },
+    {
+      "album": {
+        "name": "ALBUMTRAOZ",
+        "url": "https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        },
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Raggarbil",
+      "url": "https://open.spotify.com/track/42hMLGWV8lNXgfXOeLnxLC"
     },
     {
       "album": {

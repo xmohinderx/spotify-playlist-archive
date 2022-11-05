@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1178432,
+  "num_followers": 1178596,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDUyNmIyNmU5OWY4ZWQ1Y2VhZWFlYTZkYTA0YWE5MjE3",
+  "snapshot_id": "MTU5Mzc3NTQ3MSwwMDAwMDAwMDE1ZGQwYjg4ZjJhY2NiODUxM2JkNDQ4YjEwYTFhNmEz",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -239,22 +239,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Spirit In The Sky",
-        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
-      },
-      "artists": [
-        {
-          "name": "Norman Greenbaum",
-          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
-        }
-      ],
-      "duration_ms": 242893,
-      "name": "Spirit In The Sky",
-      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Return of the Mack",
         "url": "https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Spirit In The Sky",
+        "url": "https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1"
+      },
+      "artists": [
+        {
+          "name": "Norman Greenbaum",
+          "url": "https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL"
+        }
+      ],
+      "duration_ms": 242893,
+      "name": "Spirit In The Sky",
+      "url": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
     },
     {
       "added_at": "2018-12-12 11:34:22",

@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: Night Lovell
 
-326 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
+327 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/3WXmsauxjmiMQXOcPd40BY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [KOTA](https://open.spotify.com/track/0dy38Daud7yGJskbPcuHr4) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8) | [KOTA](https://open.spotify.com/album/2LgEcNjbm8JC8fL986lpBP) | 3:15 | 2022-07-15 |  |
 | [KUMBAYA](https://open.spotify.com/track/1e8wIuf2ZB9UnTPDDojiO6) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [KUMBAYA](https://open.spotify.com/album/6Yds3Wxk3HxQY4WgJJHya7) | 3:30 | 2021-09-17 | 2022-06-29 |
 | [leave](https://open.spotify.com/track/3IzDLcpjorimZZFuQfXGIo) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [leave](https://open.spotify.com/album/6WlIv26Tw98iYgZuabsqxE) | 1:38 | 2022-10-28 |  |
-| [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-07-01 |  |
+| [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 | 2022-09-02 |  |
+| [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 | 2022-07-01 | 2022-11-05 |
 | [LED](https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/5MkM3ISDVqh2ZHMaxF65K5) | 2:14 | 2021-09-17 | 2022-07-29 |
 | [Lickity Splickity](https://open.spotify.com/track/2subOu3jev6n2eftUkyZ1A) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lickity Splickity](https://open.spotify.com/album/42v0j9VZLeGOY4NcjO1cYP) | 2:29 | 2022-04-08 | 2022-04-19 |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-09-17 | 2022-05-17 |

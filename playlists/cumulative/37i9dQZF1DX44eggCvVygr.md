@@ -4,7 +4,7 @@
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-80 songs - 4 hr 45 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
+81 songs - 4 hr 48 min - [published](https://open.spotify.com/playlist/6k8Bo9IB5HrBOBHtxn9gtS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Boom](https://open.spotify.com/track/06iBEeAvZXnByI9GWMb823) | [Ofi La Melodia](https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5) | [Boom](https://open.spotify.com/album/7mIAY7o0BiPwlT2S3gCQo3) | 3:31 | 2021-08-26 |  |
 | [BOOM](https://open.spotify.com/track/6sQU3wCAsVtsj3H6CtOTVa) | [Ofi La Melodia](https://open.spotify.com/artist/2tH1VzCRDKsXhm6MhuAhY5) | [BOOM](https://open.spotify.com/album/3869Ko0pqbUsqECnSLU0nj) | 3:31 | 2021-08-26 | 2022-07-29 |
 | [Broken Coastline](https://open.spotify.com/track/1DNMD4CEyX2XrFkOR4lvP1) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Broken Coastline](https://open.spotify.com/album/1HjpXCId9AyLZXYXzlW2Wn) | 3:29 | 2021-08-26 |  |
-| [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2021-12-03 |  |
+| [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2021-12-03 |  |
+| [Ca plane pour moi](https://open.spotify.com/track/71yCMlsD6qbD7NmNUEoVNR) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1wLw41yiDGcZowrw3L3Bkd) | 3:02 | 2021-12-03 | 2022-11-05 |
 | [Can't take my eyes off you \- Music from The Netflix Series "La Casa de Papel"](https://open.spotify.com/track/688zRXjBtLgc3qmPGmsQrv) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can't take my eyes off you \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/2gprEJpgtJb5tDl6ntMpm1) | 3:29 | 2021-12-03 |  |
 | [Can’t Take My Eyes Off You \- Music from The Netflix Series "La Casa de Papel"](https://open.spotify.com/track/04XIbwOCmaxjezWqaa2PnM) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/4sB44uFnPr0eOCGNbnuYzf) | 3:29 | 2021-12-03 | 2022-07-29 |
 | [Centro Di Gravità Permanente \- Remastered](https://open.spotify.com/track/5DlMR554Db6jiWPRWe95al) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone \(2008 Remastered Edition\)](https://open.spotify.com/album/4lQ6HXCRFlyicu5EXpck1m) | 3:59 | 2021-08-26 | 2022-07-29 |

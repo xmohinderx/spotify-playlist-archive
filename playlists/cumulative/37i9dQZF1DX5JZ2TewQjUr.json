@@ -1208,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Heart to Heart, Me to You",
+        "url": "https://open.spotify.com/album/6ZLyrNiJUGgofL9sLSm6PB"
+      },
+      "artists": [
+        {
+          "name": "Elphie K",
+          "url": "https://open.spotify.com/artist/6w609XuNif6TAHJ9DILzjQ"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Heart to Heart, Me to You",
+      "url": "https://open.spotify.com/track/3zmYT04KnfzjpjLiSg16KI"
+    },
+    {
+      "album": {
         "name": "Hell No",
         "url": "https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX"
       },

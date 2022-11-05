@@ -2,7 +2,7 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: Ronnie Dunn
+> The latest music from our Country Heroes\. Cover: Tanya Tucker
 
 161 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/5GBlntmj7cxNabVRK2ZjTV)
 

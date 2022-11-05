@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6pSsE5y0uJMwYj83KrPyf9">Dawn Richard</a>'s favorite tracks\. Updated regularly\. Curated by Dawn Richard\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-68 songs - 4 hr 19 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
+70 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/0jqxyVDehbifbJp5LcYEor)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [I'm a Wheel \- Sandboards Remix](https://open.spotify.com/track/1z2xv5OP3YRaushvU52S2Y) | [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [Buddy Zapha](https://open.spotify.com/artist/0LIghSBzyt4aXvXnC2Ea6z), [Sandboards](https://open.spotify.com/artist/0b9nRoESDT63nvLGIhktdT) | [I'm a Wheel](https://open.spotify.com/album/18QWJ3yPqNv5OHMFih7yDr) | 5:23 | 2022-04-11 |  |
 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 | 2022-04-11 |  |
 | [Jacuzzi \- J Rick Remix](https://open.spotify.com/track/4H89ZzgPG7A8jYvVCEXpgW) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [J Rick](https://open.spotify.com/artist/3b0OO3bmtd9oXo3EOW8KHZ) | [Jacuzzi \(J Rick Remix\)](https://open.spotify.com/album/4evytfyo3pD6YXO1Kf5n6L) | 3:02 | 2022-04-11 |  |
-| [Losing You](https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 4:20 | 2022-04-11 |  |
+| [Losing You](https://open.spotify.com/track/29kMmvimeOyKb60VEX7aj5) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/1Blp4UY5uXYNW9JvCg5dZP) | 4:20 | 2022-04-11 | 2022-11-05 |
+| [Losing You](https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Losing You](https://open.spotify.com/album/6VCjvboIlNJ3N881Xja6ng) | 4:20 | 2022-04-11 |  |
 | [Losing You](https://open.spotify.com/track/5bMSO2vubGmv2tFfXbLlY9) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [True](https://open.spotify.com/album/3r9UTfGCgZLCOhV7cz99YC) | 4:20 | 2022-04-11 | 2022-10-29 |
 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 | 2022-04-11 |  |
 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 | 2022-04-11 |  |
@@ -63,7 +64,8 @@
 | [Sunday Love](https://open.spotify.com/track/4hwTiqTNpXprf5oOPICwuh) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Bride](https://open.spotify.com/album/0FOJVGWk7r4QKYCP1hCCEq) | 4:13 | 2022-04-11 |  |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2022-05-06 |  |
 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 | 2022-04-11 |  |
-| [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2022-04-25 |  |
+| [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H) | 4:01 | 2022-04-25 | 2022-11-05 |
+| [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 | 2022-04-25 |  |
 | [time machine](https://open.spotify.com/track/7woXCUnTmhT5bjnrSbucAQ) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [time machine](https://open.spotify.com/album/6TPeuDAS4Bo24rgZTE0go6) | 2:10 | 2022-04-11 |  |
 | [Traveling Blind](https://open.spotify.com/track/35XfDzvI1jR8wFzYVPtMvy) | [Faces on TV](https://open.spotify.com/artist/3lLMK7bxYJxcaeThcvL8NJ) | [Traveling Blind](https://open.spotify.com/album/4bCrbth0Gax6MBXXQ8SKZZ) | 3:35 | 2022-05-06 |  |
 | [U\. \- Junior Sanchez Remix](https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [U\. \(Junior Sanchez Remix\)](https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8) | 2:44 | 2022-04-11 |  |

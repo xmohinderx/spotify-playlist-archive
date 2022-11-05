@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 61229,
+  "num_followers": 61253,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDYwZjVjMGQyNDI5YzRhMDZkM2Y3MTcyMWYwNjU5ZDA5",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGYyZjZjMTZlNGU2MTU1OTFjZGRlYmVkYzRlMTM4M2Qw",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -811,6 +811,26 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
+        "name": "And",
+        "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
+      },
+      "artists": [
+        {
+          "name": "Amir Farhang Eskandari",
+          "url": "https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu"
+        },
+        {
+          "name": "Zakaria Yousefi",
+          "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Farewell With Mirror",
+      "url": "https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
         "name": "First Of July",
         "url": "https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 257320,
       "name": "Baraamad",
       "url": "https://open.spotify.com/track/2hITyZ541vVH3TElcLIlTh"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
-        "name": "And",
-        "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
-      },
-      "artists": [
-        {
-          "name": "Amir Farhang Eskandari",
-          "url": "https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu"
-        },
-        {
-          "name": "Zakaria Yousefi",
-          "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
-        }
-      ],
-      "duration_ms": 267500,
-      "name": "Farewell With Mirror",
-      "url": "https://open.spotify.com/track/1xXueslGJ24IAlwlU73k5r"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -955,26 +955,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "And",
-        "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
-      },
-      "artists": [
-        {
-          "name": "Amir Farhang Eskandari",
-          "url": "https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu"
-        },
-        {
-          "name": "Zakaria Yousefi",
-          "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
-        }
-      ],
-      "duration_ms": 164073,
-      "name": "Improvisation In Shour",
-      "url": "https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "First Of July",
         "url": "https://open.spotify.com/album/1Qf7zshPNYsgJmTOcJzT7v"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 328000,
       "name": "Bovad Aya",
       "url": "https://open.spotify.com/track/3ejtsUvCZzSNAusYt476lM"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "And",
+        "url": "https://open.spotify.com/album/0ijz7hzViGMvTYgz1YMR9s"
+      },
+      "artists": [
+        {
+          "name": "Amir Farhang Eskandari",
+          "url": "https://open.spotify.com/artist/3EPh1PWVrndSr8yXVA4DKu"
+        },
+        {
+          "name": "Zakaria Yousefi",
+          "url": "https://open.spotify.com/artist/2PAiEBsEV9ODqDghaOdE9r"
+        }
+      ],
+      "duration_ms": 164073,
+      "name": "Improvisation In Shour",
+      "url": "https://open.spotify.com/track/0bXMGGXGsglxFQcaDhymz0"
     },
     {
       "added_at": "2021-02-15 11:04:36",
